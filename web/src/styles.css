@@ -917,3 +917,29 @@ body {
 .linkish:hover {
   text-decoration: underline;
 }
+
+/* Master–detail at desktop widths */
+@media (min-width: 900px) {
+  .split {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    align-items: start;
+  }
+  .split.has-detail {
+    grid-template-columns: minmax(300px, 5fr) 7fr;
+  }
+  .split.has-detail .split-detail {
+    position: sticky;
+    /* .search-header is sticky at top:0; this clears its tallest rendered
+       state (header-row + filter-tabs + sort-tabs + pattern-band, ~11.5rem
+       at the default 16px root) so the detail pane never slides under it.
+       Re-check against the live rendered height in the manual pass. */
+    top: 11.5rem;
+    max-height: calc(100vh - 12rem);
+    overflow-y: auto;
+  }
+  .split.has-detail .word-detail .back {
+    display: none; /* list is visible beside it; Esc still closes */
+  }
+}

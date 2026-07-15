@@ -80,6 +80,17 @@ function WordRows({
   );
 }
 
+function useWide(): boolean {
+  const [wide, setWide] = useState(() => window.matchMedia('(min-width: 900px)').matches);
+  useEffect(() => {
+    const mq = window.matchMedia('(min-width: 900px)');
+    const onChange = () => setWide(mq.matches);
+    mq.addEventListener('change', onChange);
+    return () => mq.removeEventListener('change', onChange);
+  }, []);
+  return wide;
+}
+
 export default function App() {
   const [q, setQ] = useState('');
   const [kind, setKind] = useState('all');
@@ -96,6 +107,7 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
   const [loadingMore, setLoadingMore] = useState(false);
   const [settingsOpen, setSettingsOpen] = useState(false);
+  const wide = useWide();
   const inputRef = useRef<HTMLInputElement>(null);
   const settingsBtnRef = useRef<HTMLButtonElement>(null);
   const kindRef = useRef(kind);
@@ -246,20 +258,74 @@ export default function App() {
 
   const onInputKey = (e: React.KeyboardEvent) => {
     if (e.nativeEvent.isComposing || e.keyCode === 229) return;
+    const repoint = (idx: number) => {
+      if (!(wide && view?.type === 'word')) return;
+      const next = navRows[idx];
+      if (next && next.kind !== 'grammar-point') setView({ type: 'word', word: next });
+      else if (next?.kind === 'grammar-point' && next.slug) setView({ type: 'grammar', slug: next.slug });
+    };
     if (e.key === 'ArrowDown') {
       e.preventDefault();
-      setSel(Math.min(highlight + 1, navRows.length - 1));
+      const nextIdx = Math.min(highlight + 1, navRows.length - 1);
+      setSel(nextIdx);
       setHover(null);
+      repoint(nextIdx);
     } else if (e.key === 'ArrowUp') {
       e.preventDefault();
-      setSel(Math.max(highlight - 1, 0));
+      const nextIdx = Math.max(highlight - 1, 0);
+      setSel(nextIdx);
       setHover(null);
+      repoint(nextIdx);
     } else if (e.key === 'Enter' && navRows[highlight]) {
       openResult(navRows[highlight]);
     }
   };
 
   const loaded = kind === 'sentence' ? sentences.length : words.length;
+
+  const listPane = searching ? (
+    <ul className="results cascade" key={wave} onMouseLeave={() => setHover(null)}>
+      <WordRows rows={results} highlight={highlight} onHover={setHover} onOpen={openResult} />
+      {results.length === 0 && !error && <li className="empty">No matches for “{q}”</li>}
+    </ul>
+  ) : browsing ? (
+    <>
+      {kind === 'sentence' ? (
+        <SentenceTimeline entries={sentences} />
+      ) : showingGrammarRef ? (
+        <GrammarBrowse onOpen={(slug) => setView({ type: 'grammar', slug })} />
+      ) : (
+        <ul className="results cascade" key={wave} onMouseLeave={() => setHover(null)}>
+          <WordRows rows={words} highlight={highlight} onHover={setHover} onOpen={openResult} />
+        </ul>
+      )}
+      {!showingGrammarRef && loaded < total && (
+        <button type="button" className="load-more" onClick={loadMore} disabled={loadingMore}>
+          {loadingMore ? 'Loading…' : `Load more (${loaded} of ${total})`}
+        </button>
+      )}
+    </>
+  ) : (
+    <ul className="results" />
+  );
+
+  const detailPane = view ? (
+    view.type === 'word' ? (
+      <WordDetail
+        key={view.word.normTerm ?? view.word.term}
+        result={view.word}
+        onBack={() => setView(null)}
+        onOpenGrammar={(slug) => setView({ type: 'grammar', slug })}
+      />
+    ) : (
+      <GrammarDetail
+        key={view.slug}
+        slug={view.slug}
+        onBack={() => setView(null)}
+        onOpenWord={(word) => setView({ type: 'word', word })}
+      />
+    )
+  ) : null;
 
   return (
     <div className="app">
@@ -362,46 +428,15 @@ export default function App() {
 
       {error && <p className="error">{error}</p>}
 
-      {view ? (
-        view.type === 'word' ? (
-          <WordDetail
-            key={view.word.normTerm ?? view.word.term}
-            result={view.word}
-            onBack={() => setView(null)}
-            onOpenGrammar={(slug) => setView({ type: 'grammar', slug })}
-          />
-        ) : (
-          <GrammarDetail
-            key={view.slug}
-            slug={view.slug}
-            onBack={() => setView(null)}
-            onOpenWord={(word) => setView({ type: 'word', word })}
-          />
-        )
-      ) : searching ? (
-        <ul className="results cascade" key={wave} onMouseLeave={() => setHover(null)}>
-          <WordRows rows={results} highlight={highlight} onHover={setHover} onOpen={openResult} />
-          {results.length === 0 && !error && <li className="empty">No matches for “{q}”</li>}
-        </ul>
-      ) : browsing ? (
-        <>
-          {kind === 'sentence' ? (
-            <SentenceTimeline entries={sentences} />
-          ) : showingGrammarRef ? (
-            <GrammarBrowse onOpen={(slug) => setView({ type: 'grammar', slug })} />
-          ) : (
-            <ul className="results cascade" key={wave} onMouseLeave={() => setHover(null)}>
-              <WordRows rows={words} highlight={highlight} onHover={setHover} onOpen={openResult} />
-            </ul>
-          )}
-          {!showingGrammarRef && loaded < total && (
-            <button type="button" className="load-more" onClick={loadMore} disabled={loadingMore}>
-              {loadingMore ? 'Loading…' : `Load more (${loaded} of ${total})`}
-            </button>
-          )}
-        </>
+      {wide ? (
+        <div className={detailPane ? 'split has-detail' : 'split'}>
+          <div className="split-list">{listPane}</div>
+          {detailPane && <div className="split-detail">{detailPane}</div>}
+        </div>
+      ) : detailPane ? (
+        detailPane
       ) : (
-        <ul className="results" />
+        listPane
       )}
     </div>
   );
