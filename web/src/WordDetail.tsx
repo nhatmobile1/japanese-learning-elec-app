@@ -23,9 +23,11 @@ function EntryLine({ e }: { e: Entry }) {
 export default function WordDetail({
   result,
   onBack,
+  onOpenGrammar,
 }: {
   result: SearchResultWord;
   onBack: () => void;
+  onOpenGrammar?: (slug: string) => void;
 }) {
   const [data, setData] = useState<WordResponse | null>(null);
   const [error, setError] = useState<string | null>(null);
@@ -90,6 +92,22 @@ export default function WordDetail({
               <li key={m.id} className="occurrence mention">
                 <span className="badge date">{m.source_ref}</span>
                 <span className="entry-raw">{m.raw}</span>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
+      {data && data.grammarRefs && data.grammarRefs.length > 0 && onOpenGrammar && (
+        <section>
+          <h2>Reference</h2>
+          <ul>
+            {data.grammarRefs.map((g) => (
+              <li key={g.slug} className="occurrence">
+                <button type="button" className="linkish" onClick={() => onOpenGrammar(g.slug)}>
+                  参 {g.title}
+                  {g.jlptLevel ? ` · ${g.jlptLevel}` : ''}
+                </button>
               </li>
             ))}
           </ul>

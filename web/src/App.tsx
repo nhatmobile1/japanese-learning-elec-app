@@ -3,6 +3,7 @@ import { browseSentences, browseWords, searchApi } from './api';
 import type { Entry, SearchResultWord } from './types';
 import AppHeader from './AppHeader';
 import GrammarBrowse from './GrammarBrowse';
+import GrammarDetail from './GrammarDetail';
 import PatternDefs, { PatternBand } from './PatternDefs';
 import SentenceTimeline from './SentenceTimeline';
 import WordDetail from './WordDetail';
@@ -367,9 +368,15 @@ export default function App() {
             key={view.word.normTerm ?? view.word.term}
             result={view.word}
             onBack={() => setView(null)}
+            onOpenGrammar={(slug) => setView({ type: 'grammar', slug })}
           />
         ) : (
-          <p className="empty">grammar detail arrives in the next task</p>
+          <GrammarDetail
+            key={view.slug}
+            slug={view.slug}
+            onBack={() => setView(null)}
+            onOpenWord={(word) => setView({ type: 'word', word })}
+          />
         )
       ) : searching ? (
         <ul className="results cascade" key={wave} onMouseLeave={() => setHover(null)}>

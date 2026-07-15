@@ -879,3 +879,41 @@ body {
   outline: 2px solid var(--focus);
   outline-offset: 2px;
 }
+
+/* Grammar detail */
+.grammar-detail ruby rt {
+  font-size: 0.55em;
+  color: var(--muted);
+}
+.grammar-formula {
+  font-family: inherit;
+  border: 1px solid var(--muted);
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  display: inline-block;
+  letter-spacing: 0.05em;
+}
+.grammar-example {
+  margin: 0.75rem 0;
+  padding-left: 0.75rem;
+  border-left: 2px solid var(--accent);
+}
+.example-en {
+  color: var(--muted);
+  font-size: 0.9em;
+}
+.badge.jlpt {
+  vertical-align: middle;
+  margin-left: 0.5rem;
+}
+.linkish {
+  background: none;
+  border: none;
+  padding: 0;
+  font: inherit;
+  color: var(--accent);
+  cursor: pointer;
+}
+.linkish:hover {
+  text-decoration: underline;
+}

@@ -54,3 +54,17 @@ export interface GrammarPointSummary {
   source: string;
   jlptLevel: string | null;
 }
+
+export interface GrammarContentBlock {
+  type: 'heading' | 'paragraph' | 'formula' | 'example';
+  text?: string;
+  level?: number;
+  japanese?: string;
+  english?: string;
+}
+
+export interface GrammarDetailResponse {
+  point: GrammarPointSummary;
+  content: { content: GrammarContentBlock[] } | null;
+  lessonNotes: { normTerm: string; term: string; reading: string | null; gloss: string | null; kind: string }[];
+}
