@@ -6,6 +6,8 @@ import { createRoot } from 'react-dom/client';
 import App from './App';
 import './styles.css';
 
+if (window.desktop) document.body.classList.add('desktop');
+
 createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
     <App />

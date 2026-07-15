@@ -943,3 +943,20 @@ body {
     display: none; /* list is visible beside it; Esc still closes */
   }
 }
+
+/* Desktop (Electron) window chrome */
+body.desktop .app-header {
+  -webkit-app-region: drag;       /* window moves by its header band */
+  -webkit-user-select: none;
+  user-select: none;
+  padding-left: 84px;             /* clear the hidden-inset traffic lights */
+}
+body.desktop .app-header .icon-btn,
+body.desktop .app-header button {
+  -webkit-app-region: no-drag;
+}
+body.desktop .filter-tabs,
+body.desktop .sort-tabs {
+  -webkit-user-select: none;
+  user-select: none;
+}

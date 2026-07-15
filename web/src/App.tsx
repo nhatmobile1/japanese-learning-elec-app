@@ -251,6 +251,39 @@ export default function App() {
     return () => window.removeEventListener('keydown', onKey);
   }, [view, settingsOpen]);
 
+  // Native menu actions + duplicate keyboard shortcuts (so the browser dev
+  // flow behaves the same as the packaged desktop shell).
+  useEffect(() => {
+    const act = (id: string) => {
+      if (id.startsWith('view:')) {
+        setKind(id.slice(5));
+        setView(null);
+      } else if (id === 'focus-search') {
+        inputRef.current?.focus();
+      } else if (id === 'toggle-settings') {
+        setSettingsOpen((o) => !o);
+      }
+    };
+    window.desktop?.onMenuAction(act);
+    const onKey = (e: KeyboardEvent) => {
+      if (e.isComposing || e.keyCode === 229) return;
+      if (!e.metaKey || e.ctrlKey || e.altKey) return;
+      const views: Record<string, string> = { '1': 'all', '2': 'vocab', '3': 'grammar', '4': 'sentence' };
+      if (views[e.key]) {
+        e.preventDefault();
+        act(`view:${views[e.key]}`);
+      } else if (e.key === 'f') {
+        e.preventDefault();
+        act('focus-search');
+      } else if (e.key === ',') {
+        e.preventDefault();
+        act('toggle-settings');
+      }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, []);
+
   const showingGrammarRef = kind === 'grammar' && grammarSub === 'ref';
   const navRows =
     searching ? results : browsing && kind !== 'sentence' && !showingGrammarRef ? words : [];

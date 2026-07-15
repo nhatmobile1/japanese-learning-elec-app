@@ -6,6 +6,7 @@ import {
   utilityProcess,
   type UtilityProcess,
 } from 'electron';
+import { installMenu } from './menu.js';
 
 // Spec-pinned config dir: ~/Library/Application Support/japanese-learning-app
 app.setPath('userData', path.join(app.getPath('appData'), 'japanese-learning-app'));
@@ -125,4 +126,7 @@ app.on('window-all-closed', () => {
   /* keep running — lifecycle is hide, not quit */
 });
 
-void app.whenReady().then(boot);
+void app.whenReady().then(() => {
+  installMenu(() => win);
+  return boot();
+});
