@@ -1,0 +1,356 @@
+import { useEffect, useLayoutEffect, useRef, useState } from 'react';
+import { browseSentences, browseWords, searchApi } from './api';
+import type { Entry, SearchResultWord } from './types';
+import AppHeader from './AppHeader';
+import PatternDefs, { PatternBand } from './PatternDefs';
+import SentenceTimeline from './SentenceTimeline';
+import WordDetail from './WordDetail';
+
+const KINDS = [
+  { key: 'all', label: 'All' },
+  { key: 'vocab', label: 'Vocab' },
+  { key: 'grammar', label: 'Grammar' },
+  { key: 'sentence', label: 'Sentences' },
+];
+
+const WORD_SORTS = [
+  { key: 'recent', label: 'Recent' },
+  { key: 'reading', label: 'あいうえお' },
+  { key: 'frequency', label: 'Most seen' },
+  { key: 'chapter', label: 'Chapter' },
+];
+
+function sourceBadges(r: SearchResultWord): { text: string; tb: boolean }[] {
+  const badges = r.sources
+    .filter((s) => s.sourceType !== 'lesson')
+    .map((s) => ({ text: s.sourceRef, tb: true }));
+  if (r.lessonCount === 1) {
+    const d = r.sources.find((s) => s.sourceType === 'lesson');
+    if (d) badges.push({ text: d.sourceRef, tb: false });
+  } else if (r.lessonCount > 1) {
+    badges.push({ text: `×${r.lessonCount} lessons`, tb: false });
+  }
+  return badges;
+}
+
+function WordRows({
+  rows,
+  highlight,
+  onHover,
+  onOpen,
+}: {
+  rows: SearchResultWord[];
+  highlight: number;
+  onHover: (i: number | null) => void;
+  onOpen: (r: SearchResultWord) => void;
+}) {
+  return (
+    <>
+      {rows.map((r, i) => (
+        <li
+          key={`${r.normTerm ?? r.term}-${i}`}
+          className={i === highlight ? 'result selected' : 'result'}
+          style={{ '--i': Math.min(i, 12) } as React.CSSProperties}
+          onClick={() => onOpen(r)}
+          onMouseEnter={() => onHover(i)}
+        >
+          <span className="term">{r.term}</span>
+          {r.reading && r.reading !== r.term && <span className="reading">{r.reading}</span>}
+          <span className="gloss">{r.gloss ?? ''}</span>
+          <span className="badges">
+            {sourceBadges(r).map((b) => (
+              <span key={b.text} className={b.tb ? 'badge tb' : 'badge'}>
+                {b.text}
+              </span>
+            ))}
+          </span>
+        </li>
+      ))}
+    </>
+  );
+}
+
+export default function App() {
+  const [q, setQ] = useState('');
+  const [kind, setKind] = useState('all');
+  const [results, setResults] = useState<SearchResultWord[]>([]);
+  const [sort, setSort] = useState('recent');
+  const [words, setWords] = useState<SearchResultWord[]>([]);
+  const [sentences, setSentences] = useState<Entry[]>([]);
+  const [total, setTotal] = useState(0);
+  const [page, setPage] = useState(0);
+  const [sel, setSel] = useState(0);
+  const [hover, setHover] = useState<number | null>(null);
+  const [detail, setDetail] = useState<SearchResultWord | null>(null);
+  const [error, setError] = useState<string | null>(null);
+  const [loadingMore, setLoadingMore] = useState(false);
+  const [settingsOpen, setSettingsOpen] = useState(false);
+  const inputRef = useRef<HTMLInputElement>(null);
+  const settingsBtnRef = useRef<HTMLButtonElement>(null);
+  const kindRef = useRef(kind);
+  const sortRef = useRef(sort);
+  const tabsRef = useRef<HTMLElement>(null);
+  const indRef = useRef<HTMLElement>(null);
+  const [wave, setWave] = useState(0);
+
+  useLayoutEffect(() => {
+    const move = () => {
+      const btn = tabsRef.current?.querySelector<HTMLButtonElement>('.tab.active');
+      if (btn && indRef.current) {
+        indRef.current.style.left = `${btn.offsetLeft}px`;
+        indRef.current.style.width = `${btn.offsetWidth}px`;
+      }
+    };
+    move();
+    // Re-measure once the bundled Noto Sans JP finishes loading (tab widths shift).
+    document.fonts?.ready.then(move);
+    window.addEventListener('resize', move);
+    return () => window.removeEventListener('resize', move);
+  }, [kind]);
+
+  const closeSettings = () => {
+    setSettingsOpen(false);
+    settingsBtnRef.current?.focus();
+  };
+
+  const searching = q.trim().length > 0;
+  const browsing = !searching && kind !== 'all';
+  // Chapter sort only exists for vocab; fall back when the Grammar tab is active.
+  const effectiveSort = kind === 'grammar' && sort === 'chapter' ? 'recent' : sort;
+  kindRef.current = kind;
+  sortRef.current = effectiveSort;
+
+  useEffect(() => {
+    const ctrl = new AbortController();
+    const t = setTimeout(async () => {
+      if (!searching) {
+        setResults([]);
+        setError(null);
+        return;
+      }
+      try {
+        setResults(await searchApi(q, kind, ctrl.signal));
+        setSel(0);
+        setHover(null);
+        setError(null);
+        setWave((w) => w + 1);
+      } catch (err) {
+        if (!(err instanceof DOMException && err.name === 'AbortError')) {
+          setError('Search failed — is the server running?');
+        }
+      }
+    }, 100);
+    return () => {
+      ctrl.abort();
+      clearTimeout(t);
+    };
+  }, [q, kind, searching]);
+
+  useEffect(() => {
+    if (!browsing) return;
+    const ctrl = new AbortController();
+    (async () => {
+      try {
+        if (kind === 'sentence') {
+          const data = await browseSentences(0, ctrl.signal);
+          setSentences(data.results);
+          setTotal(data.total);
+        } else {
+          const data = await browseWords(kind, effectiveSort, 0, ctrl.signal);
+          setWords(data.results);
+          setTotal(data.total);
+        }
+        setWave((w) => w + 1);
+        setPage(0);
+        setSel(0);
+        setHover(null);
+        setError(null);
+      } catch (err) {
+        if (!(err instanceof DOMException && err.name === 'AbortError')) {
+          setError('Couldn’t load the list — is the server running?');
+        }
+      }
+    })();
+    return () => ctrl.abort();
+  }, [browsing, kind, effectiveSort]);
+
+  const loadMore = async () => {
+    if (loadingMore) return;
+    setLoadingMore(true);
+    const reqKind = kind;
+    const reqSort = effectiveSort;
+    const reqPage = page + 1;
+    try {
+      if (reqKind === 'sentence') {
+        const data = await browseSentences(reqPage);
+        if (kindRef.current !== reqKind) return;
+        setSentences((s) => [...s, ...data.results]);
+      } else {
+        const data = await browseWords(reqKind, reqSort, reqPage);
+        if (kindRef.current !== reqKind || sortRef.current !== reqSort) return;
+        setWords((w) => [...w, ...data.results]);
+      }
+      setPage(reqPage);
+      setError(null);
+    } catch {
+      setError('Couldn’t load more — is the server running?');
+    } finally {
+      setLoadingMore(false);
+    }
+  };
+
+  useEffect(() => {
+    const onKey = (e: KeyboardEvent) => {
+      if (e.isComposing || e.keyCode === 229) return;
+      if (e.key === '/' && document.activeElement !== inputRef.current) {
+        e.preventDefault();
+        inputRef.current?.focus();
+      }
+      if (e.key === 'Escape') {
+        if (settingsOpen) closeSettings();
+        else if (detail) setDetail(null);
+        else {
+          setQ('');
+          inputRef.current?.focus();
+        }
+      }
+    };
+    window.addEventListener('keydown', onKey);
+    return () => window.removeEventListener('keydown', onKey);
+  }, [detail, settingsOpen]);
+
+  const navRows = searching ? results : browsing && kind !== 'sentence' ? words : [];
+  const highlight = hover ?? sel;
+
+  const onInputKey = (e: React.KeyboardEvent) => {
+    if (e.nativeEvent.isComposing || e.keyCode === 229) return;
+    if (e.key === 'ArrowDown') {
+      e.preventDefault();
+      setSel(Math.min(highlight + 1, navRows.length - 1));
+      setHover(null);
+    } else if (e.key === 'ArrowUp') {
+      e.preventDefault();
+      setSel(Math.max(highlight - 1, 0));
+      setHover(null);
+    } else if (e.key === 'Enter' && navRows[highlight]) {
+      setDetail(navRows[highlight]);
+    }
+  };
+
+  const loaded = kind === 'sentence' ? sentences.length : words.length;
+
+  return (
+    <div className="app">
+      <PatternDefs />
+      <AppHeader
+        settingsOpen={settingsOpen}
+        onSettingsToggle={() => setSettingsOpen((o) => !o)}
+        onSettingsClose={closeSettings}
+        settingsBtnRef={settingsBtnRef}
+      />
+      <header className="search-header">
+        <div className="header-row">
+          <svg
+            className="search-glass"
+            viewBox="0 0 24 24"
+            fill="none"
+            stroke="currentColor"
+            strokeWidth="2"
+            strokeLinecap="round"
+            aria-hidden="true"
+          >
+            <circle cx="11" cy="11" r="7" />
+            <path d="M21 21l-4.8-4.8" />
+          </svg>
+          <input
+            ref={inputRef}
+            autoFocus
+            value={q}
+            onChange={(e) => setQ(e.target.value)}
+            onKeyDown={onInputKey}
+            placeholder="上手・じょうず・skilled"
+            className="search-input"
+            spellCheck={false}
+          />
+          {searching && (
+            <button
+              type="button"
+              className="search-clear"
+              aria-label="Clear search"
+              onClick={() => {
+                setQ('');
+                inputRef.current?.focus();
+              }}
+            >
+              ✕
+            </button>
+          )}
+        </div>
+        <nav className="filter-tabs" ref={tabsRef}>
+          {KINDS.map((k) => (
+            <button
+              type="button"
+              key={k.key}
+              className={kind === k.key ? 'tab active' : 'tab'}
+              aria-pressed={kind === k.key}
+              onClick={() => setKind(k.key)}
+            >
+              {k.label}
+            </button>
+          ))}
+          <i className="tab-indicator" ref={indRef} aria-hidden="true" />
+        </nav>
+        {browsing && kind !== 'sentence' && (
+          <nav className="sort-tabs" aria-label="Sort order">
+            {WORD_SORTS.filter((s) => !(kind === 'grammar' && s.key === 'chapter')).map((s) => (
+              <button
+                type="button"
+                key={s.key}
+                className={effectiveSort === s.key ? 'tab active' : 'tab'}
+                aria-pressed={effectiveSort === s.key}
+                onClick={() => setSort(s.key)}
+              >
+                {s.label}
+              </button>
+            ))}
+          </nav>
+        )}
+        <PatternBand />
+      </header>
+
+      {error && <p className="error">{error}</p>}
+
+      {detail ? (
+        <WordDetail key={detail.normTerm ?? detail.term} result={detail} onBack={() => setDetail(null)} />
+      ) : searching ? (
+        <ul className="results cascade" key={wave} onMouseLeave={() => setHover(null)}>
+          <WordRows rows={results} highlight={highlight} onHover={setHover} onOpen={(r) => {
+            setHover(null);
+            setDetail(r);
+          }} />
+          {results.length === 0 && !error && <li className="empty">No matches for “{q}”</li>}
+        </ul>
+      ) : browsing ? (
+        <>
+          {kind === 'sentence' ? (
+            <SentenceTimeline entries={sentences} />
+          ) : (
+            <ul className="results cascade" key={wave} onMouseLeave={() => setHover(null)}>
+              <WordRows rows={words} highlight={highlight} onHover={setHover} onOpen={(r) => {
+                setHover(null);
+                setDetail(r);
+              }} />
+            </ul>
+          )}
+          {loaded < total && (
+            <button type="button" className="load-more" onClick={loadMore} disabled={loadingMore}>
+              {loadingMore ? 'Loading…' : `Load more (${loaded} of ${total})`}
+            </button>
+          )}
+        </>
+      ) : (
+        <ul className="results" />
+      )}
+    </div>
+  );
+}

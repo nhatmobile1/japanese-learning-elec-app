@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>語彙 — Vocab Lookup</title>
+    <script>
+      try {
+        var d = document.documentElement.dataset;
+        if (localStorage.getItem('theme') === 'dark') d.theme = 'dark';
+        // Keep these whitelists in sync with web/src/settings.ts.
+        var pal = localStorage.getItem('palette');
+        d.palette =
+          ['ruri', 'wakakusa', 'kikyo', 'ponyo', 'jisho'].indexOf(pal) >= 0
+            ? pal
+            : 'ruri';
+        var pat = localStorage.getItem('pattern');
+        d.pattern =
+          ['seigaiha', 'shippo', 'yabane', 'none'].indexOf(pat) >= 0
+            ? pat
+            : 'seigaiha';
+      } catch (e) {}
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
