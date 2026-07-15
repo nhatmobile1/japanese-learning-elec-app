@@ -573,6 +573,23 @@ body {
   outline-offset: 2px;
 }
 
+/* Grammar reference browse */
+.jlpt-heading {
+  font-size: 0.85rem;
+  letter-spacing: 0.12em;
+  color: var(--muted);
+  margin: 1.25rem 0 0.25rem;
+  padding-left: 0.25rem;
+}
+.category-chips {
+  flex-wrap: wrap;
+  row-gap: 0.25rem;
+}
+.badge.ref {
+  color: var(--accent);
+  border-color: currentColor;
+}
+
 .load-more:disabled {
   opacity: 0.5;
   cursor: default;

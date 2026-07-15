@@ -2,9 +2,15 @@ import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import { browseSentences, browseWords, searchApi } from './api';
 import type { Entry, SearchResultWord } from './types';
 import AppHeader from './AppHeader';
+import GrammarBrowse from './GrammarBrowse';
 import PatternDefs, { PatternBand } from './PatternDefs';
 import SentenceTimeline from './SentenceTimeline';
 import WordDetail from './WordDetail';
+
+type OpenView =
+  | { type: 'word'; word: SearchResultWord }
+  | { type: 'grammar'; slug: string }
+  | null;
 
 const KINDS = [
   { key: 'all', label: 'All' },
@@ -21,6 +27,9 @@ const WORD_SORTS = [
 ];
 
 function sourceBadges(r: SearchResultWord): { text: string; tb: boolean }[] {
+  if (r.kind === 'grammar-point') {
+    return r.sources.map((s) => ({ text: `参 ${s.sourceRef}`, tb: true }));
+  }
   const badges = r.sources
     .filter((s) => s.sourceType !== 'lesson')
     .map((s) => ({ text: s.sourceRef, tb: true }));
@@ -81,7 +90,8 @@ export default function App() {
   const [page, setPage] = useState(0);
   const [sel, setSel] = useState(0);
   const [hover, setHover] = useState<number | null>(null);
-  const [detail, setDetail] = useState<SearchResultWord | null>(null);
+  const [view, setView] = useState<OpenView>(null);
+  const [grammarSub, setGrammarSub] = useState<'ref' | 'notes'>('ref');
   const [error, setError] = useState<string | null>(null);
   const [loadingMore, setLoadingMore] = useState(false);
   const [settingsOpen, setSettingsOpen] = useState(false);
@@ -111,6 +121,15 @@ export default function App() {
   const closeSettings = () => {
     setSettingsOpen(false);
     settingsBtnRef.current?.focus();
+  };
+
+  const openResult = (r: SearchResultWord) => {
+    setHover(null);
+    setView(
+      r.kind === 'grammar-point' && r.slug
+        ? { type: 'grammar', slug: r.slug }
+        : { type: 'word', word: r },
+    );
   };
 
   const searching = q.trim().length > 0;
@@ -147,7 +166,7 @@ export default function App() {
   }, [q, kind, searching]);
 
   useEffect(() => {
-    if (!browsing) return;
+    if (!browsing || (kind === 'grammar' && grammarSub === 'ref')) return;
     const ctrl = new AbortController();
     (async () => {
       try {
@@ -172,7 +191,7 @@ export default function App() {
       }
     })();
     return () => ctrl.abort();
-  }, [browsing, kind, effectiveSort]);
+  }, [browsing, kind, effectiveSort, grammarSub]);
 
   const loadMore = async () => {
     if (loadingMore) return;
@@ -208,7 +227,7 @@ export default function App() {
       }
       if (e.key === 'Escape') {
         if (settingsOpen) closeSettings();
-        else if (detail) setDetail(null);
+        else if (view) setView(null);
         else {
           setQ('');
           inputRef.current?.focus();
@@ -217,9 +236,11 @@ export default function App() {
     };
     window.addEventListener('keydown', onKey);
     return () => window.removeEventListener('keydown', onKey);
-  }, [detail, settingsOpen]);
+  }, [view, settingsOpen]);
 
-  const navRows = searching ? results : browsing && kind !== 'sentence' ? words : [];
+  const showingGrammarRef = kind === 'grammar' && grammarSub === 'ref';
+  const navRows =
+    searching ? results : browsing && kind !== 'sentence' && !showingGrammarRef ? words : [];
   const highlight = hover ?? sel;
 
   const onInputKey = (e: React.KeyboardEvent) => {
@@ -233,7 +254,7 @@ export default function App() {
       setSel(Math.max(highlight - 1, 0));
       setHover(null);
     } else if (e.key === 'Enter' && navRows[highlight]) {
-      setDetail(navRows[highlight]);
+      openResult(navRows[highlight]);
     }
   };
 
@@ -300,9 +321,29 @@ export default function App() {
           ))}
           <i className="tab-indicator" ref={indRef} aria-hidden="true" />
         </nav>
-        {browsing && kind !== 'sentence' && (
+        {browsing && kind === 'grammar' && (
+          <nav className="sort-tabs" aria-label="Grammar source">
+            {(
+              [
+                { key: 'ref', label: '参考 Reference' },
+                { key: 'notes', label: 'ノート My notes' },
+              ] as const
+            ).map((s) => (
+              <button
+                type="button"
+                key={s.key}
+                className={grammarSub === s.key ? 'tab active' : 'tab'}
+                aria-pressed={grammarSub === s.key}
+                onClick={() => setGrammarSub(s.key)}
+              >
+                {s.label}
+              </button>
+            ))}
+          </nav>
+        )}
+        {browsing && kind !== 'sentence' && kind !== 'grammar' && (
           <nav className="sort-tabs" aria-label="Sort order">
-            {WORD_SORTS.filter((s) => !(kind === 'grammar' && s.key === 'chapter')).map((s) => (
+            {WORD_SORTS.map((s) => (
               <button
                 type="button"
                 key={s.key}
@@ -320,29 +361,33 @@ export default function App() {
 
       {error && <p className="error">{error}</p>}
 
-      {detail ? (
-        <WordDetail key={detail.normTerm ?? detail.term} result={detail} onBack={() => setDetail(null)} />
+      {view ? (
+        view.type === 'word' ? (
+          <WordDetail
+            key={view.word.normTerm ?? view.word.term}
+            result={view.word}
+            onBack={() => setView(null)}
+          />
+        ) : (
+          <p className="empty">grammar detail arrives in the next task</p>
+        )
       ) : searching ? (
         <ul className="results cascade" key={wave} onMouseLeave={() => setHover(null)}>
-          <WordRows rows={results} highlight={highlight} onHover={setHover} onOpen={(r) => {
-            setHover(null);
-            setDetail(r);
-          }} />
+          <WordRows rows={results} highlight={highlight} onHover={setHover} onOpen={openResult} />
           {results.length === 0 && !error && <li className="empty">No matches for “{q}”</li>}
         </ul>
       ) : browsing ? (
         <>
           {kind === 'sentence' ? (
             <SentenceTimeline entries={sentences} />
+          ) : showingGrammarRef ? (
+            <GrammarBrowse onOpen={(slug) => setView({ type: 'grammar', slug })} />
           ) : (
             <ul className="results cascade" key={wave} onMouseLeave={() => setHover(null)}>
-              <WordRows rows={words} highlight={highlight} onHover={setHover} onOpen={(r) => {
-                setHover(null);
-                setDetail(r);
-              }} />
+              <WordRows rows={words} highlight={highlight} onHover={setHover} onOpen={openResult} />
             </ul>
           )}
-          {loaded < total && (
+          {!showingGrammarRef && loaded < total && (
             <button type="button" className="load-more" onClick={loadMore} disabled={loadingMore}>
               {loadingMore ? 'Loading…' : `Load more (${loaded} of ${total})`}
             </button>

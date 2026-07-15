@@ -1,4 +1,4 @@
-import type { BrowsePage, Entry, SearchResultWord, WordResponse } from './types';
+import type { BrowsePage, Entry, GrammarPointSummary, SearchResultWord, WordResponse } from './types';
 
 export async function searchApi(
   q: string,
@@ -40,4 +40,10 @@ export async function browseSentences(
   const res = await fetch(`/api/browse?kind=sentence&page=${page}`, { signal });
   if (!res.ok) throw new Error(`browse failed: ${res.status}`);
   return (await res.json()) as BrowsePage<Entry>;
+}
+
+export async function grammarPointsApi(signal?: AbortSignal): Promise<GrammarPointSummary[]> {
+  const res = await fetch('/api/grammar-points', { signal });
+  if (!res.ok) throw new Error(`grammar points failed: ${res.status}`);
+  return ((await res.json()) as { results: GrammarPointSummary[] }).results;
 }

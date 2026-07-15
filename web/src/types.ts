@@ -8,6 +8,7 @@ export interface SearchResultWord {
   lessonCount: number;
   sources: { sourceType: string; sourceRef: string }[];
   score: number;
+  slug?: string;
 }
 
 export interface Entry {
@@ -36,10 +37,20 @@ export interface WordResponse {
   } | null;
   occurrences: Entry[];
   mentions: Entry[];
+  grammarRefs?: { slug: string; title: string; jlptLevel: string | null }[];
 }
 
 export interface BrowsePage<T> {
   total: number;
   page: number;
   results: T[];
+}
+
+export interface GrammarPointSummary {
+  slug: string;
+  title: string;
+  description: string;
+  categories: string[];
+  source: string;
+  jlptLevel: string | null;
 }
