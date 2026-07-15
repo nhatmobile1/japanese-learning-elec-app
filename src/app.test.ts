@@ -172,6 +172,20 @@ describe('GET /api/grammar-points', () => {
     expect(body.results[0].categories).toEqual(['Verb Form']);
   });
 
+  test('null-level points sort last', async () => {
+    const db2 = openDb(':memory:');
+    indexGrammarPoints(db2, [
+      { slug: 'zz-null', title: 'Unmapped Point', description: 'x', categories: [], source: 'tofugu', jlptLevel: null },
+      { slug: 'aa-n1', title: 'An N1 Point', description: 'x', categories: [], source: 'tofugu', jlptLevel: 'N1' },
+    ]);
+    const app2 = createApp(db2);
+    const body = (await (await app2.request('/api/grammar-points')).json()) as {
+      results: { slug: string; jlptLevel: string | null }[];
+    };
+    expect(body.results.map((r) => r.slug)).toEqual(['aa-n1', 'zz-null']);
+    db2.close();
+  });
+
   test('level and category filters', async () => {
     const res = await app.request('/api/grammar-points?level=N4');
     const body = (await res.json()) as { results: { slug: string }[] };
