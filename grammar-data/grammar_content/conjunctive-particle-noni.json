@@ -1,0 +1,490 @@
+{
+  "title": "Conjunctive Particle のに",
+  "description": "のに is a conjunctive particle that expresses a sense of surprise or frustration when something goes against the set expectation.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "のに is a conjunctive particle, which is similar to \"but\" or \"though.\" It connects two sentences (or you can say, two clauses ), and shows that something has deviated from the expectation. There are conjunctive particles with similar functions, such as けれど or ものの , but what makes のに different from others is its unique nuance. のに focuses on the unexpectedness of the situation and expresses surprise and frustration. Let's take a look at an example."
+    },
+    {
+      "type": "example",
+      "japanese": "クーラーをつけたのに、全然（ぜんぜん）涼（すず）しくならなかった。",
+      "english": "I turned on the AC, but it wasn't getting any cooler."
+    },
+    {
+      "type": "paragraph",
+      "text": "What's before のに in the sentence is \"I turned on the AC.\" When you turn on the AC, you expect it to get cooler because that's what ACs do. But in this case, what's after のに explains that \"it wasn't getting any cooler,\" despite the AC being on. Just like that, のに indicates something unexpected happening. And, in this example, のに can express slightly different nuances depending on the tone of what's said or the context. It can either be used to express surprise at how unexpected and unusual that is, for instance, if it was a relatively new AC. Or a complaint, if it was an extremely hot day, and even the AC wasn't capable of cooling the room down! Just like that, のに carries these emotions for something that goes against your expectation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conjunctive particle のに consists of the nominalizer の and particle に ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "connecting-sentences",
+      "text": "Connecting Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "The main functions of のに as a conjunctive particle is that it connects sentences together. Let's take a look at the previous example, but this time, with brackets that mark the two sentences inside the main sentence, aka clauses , so that it's extra clear."
+    },
+    {
+      "type": "example",
+      "japanese": "[クーラーをつけた]のに[全然（ぜんぜん）涼（すず）しくならなかった]。",
+      "english": "[I turned on the AC] but [it wasn't getting any cooler]."
+    },
+    {
+      "type": "paragraph",
+      "text": "See how のに is connecting the two sentences — クーラーをつけた and 全然（ぜんぜん）涼（すず）しくならなかった? This is how a conjunctive particle works. And のに shows how each sentence contradicts the other based on the expectated outcome, which is, that the AC will cool down the temperature."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like the nominalizer の , which is a part of のに, you need to be careful when you're using the present form of な-adjectives and nouns with のに — you need to insert な before のに, as in なのに. For example, using the noun レモン (lemon), you might say something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "[レモン]なのに[すごく甘（あま）い]。",
+      "english": "[It's a lemon] but [it's very sweet]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Without な, as in レモンのに, the sentence is grammatically incorrect. This is the same for other noun-based adjectives, な-adjectives. For example, using the な-adjective, 静（しず）か (quiet), you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "[静（しず）か]なのに[眠（ねむ）れない]。",
+      "english": "[It's quiet] but [I can't sleep]."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "other----combinations",
+      "text": "Other の + に Combinations"
+    },
+    {
+      "type": "paragraph",
+      "text": "As we mentioned, のに consists of two components, which are the particle の and the particle に . Since each particle has multiple meanings, you might run into a different のに, one that doesn't sound like the のに we've been discussing in this page."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, you may see or hear a sentence like:"
+    },
+    {
+      "type": "example",
+      "japanese": "あっ、ミルクは私（わたし）のに入（い）れないでね。",
+      "english": "Oh, don't put milk into mine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Doesn't sound like のに is showing a contradiction here, right? That's because のに in this sentence is a combination of the particle の as possession marker and the particle に which shows the destination . What this means is that の marks 私（わたし） to make \"mine\" and に shows the destination of the action 入（い）れる \"to put.\" As you might've already imagined, this is likely a situation where you didn't want milk in your tea or coffee."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like that, when you find のに in a sentence, it could be something else that's made out of different uses of particle の and に. So keep in mind it's not always the のに that's used to show your contradictions."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "uses-of-",
+      "text": "Uses of のに"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-expressing-surprises",
+      "text": "のに For Expressing Surprises"
+    },
+    {
+      "type": "paragraph",
+      "text": "のに emphasizes the unexpectedness of an event, and it can be used to express a feeling of surprise. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "キョーコちゃんはまだ五（ご）才（さい）なのに���ヶ国（かこく）語（ご）も喋（しゃべ）れるんだって。",
+      "english": "Even though Kyoko-chan is only five years old, apparently she can speak three languages."
+    },
+    {
+      "type": "paragraph",
+      "text": "A five year old who speaks three languages? That's impressive, right? のに here implies that this is not something you usually expect a five year old to be able to do, and it's emphasizing how surprising it is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's another example:"
+    },
+    {
+      "type": "example",
+      "japanese": "夜中（やちゅう）の三（さん）時（じ）なのに、こんなに人（ひと）がいる。",
+      "english": "It's three in the morning, but there are this many people here."
+    },
+    {
+      "type": "paragraph",
+      "text": "Usually, most people are asleep at three in the morning, but this sentence with のに indicates that there are many people still out. Perhaps, there was a party that was going on. Or maybe there was a commotion in the neighborhood and quite a few neighbors came to check out what was happening. In this case, のに is indicating how a surprisingly unexpected amount of people are here despite it being really late."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-complaint-and-frustration",
+      "text": "のに for Complaint and Frustration"
+    },
+    {
+      "type": "paragraph",
+      "text": "のに can also be used for complaints or expressing regrets about how unexpectedly and unfortunately things went. This may be in spite of how much work or time has been put in, or how much money has been spent on it, etc. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "せっかく掃除（そうじ）したのに、すぐにまた汚（きたな）くなった。",
+      "english": "I made an effort to clean, but right away it became cluttered again."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you clean, you hope it stays clean for a while. However, despite your earnest wishes, quickly after, it gets cluttered again. In this example, のに helps to express the nuance of complaint for how things went, in spite of your expectations or your hopes. When のに is used for complaints, it often gets paired up with a word like せっかく or わざわざ, to put an emphasis on how much trouble you've been through. In a similar matter, のに often gets used for expressing frustration."
+    },
+    {
+      "type": "example",
+      "japanese": "あんなに勉強（べんきょう）したのに、不（ふ）合格（ごうかく）だった。",
+      "english": "Although I studied that hard, I didn't pass the test."
+    },
+    {
+      "type": "paragraph",
+      "text": "Considering how hard you studied, you expected or at least hoped to pass the test, however you couldn't. In this case, のに is helping to express the sense of frustration and sorrow for the unfortunate result."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "at-the-end-of-a-sentence",
+      "text": "のに at the End of a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though we explained earlier that conjunctive particles are for connecting two sentences, you may sometimes see のに at the end of a sentence, without being followed by anything else. (Don't blame us. We didn't say that it's always followed by the second sentence, okay?) If that happens, the omission of the second sentence is likely the speaker's choice where they're expecting the audience to guess what comes after のに and read in between the lines."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's say you show up late to a party, and you're surprised by how many people are still there. You might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "夜中（やちゅう）の三（さん）時（じ）なのに…。",
+      "english": "It's three in the morning though…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even if you didn't finish the sentence, based on the context, others would be able to guess what you meant by that statement and that you were expressing a sense of surprise . In this case, the full sentence might've looked like:"
+    },
+    {
+      "type": "example",
+      "japanese": "夜中（やちゅう）の三（さん）時（じ）なのに、こんなに人（ひと）がいる。",
+      "english": "It's three in the morning, but there are this many people here."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's another example. Your friend took a test and you're nervously waiting to hear the results. They call you and you hear them crying over the phone. They say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あんなに勉強（べんきょう）したのに…。",
+      "english": "Alas, I studied that hard, but…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, even though they didn't explicitly say it, you can guess what the result was. With のに, it sounds like your friend is frustrated about the result, so it probably didn't go well. In this case, a full sentence may have been something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "あんなに勉強（べんきょう）したのに、不（ふ）合格（ごうかく）だった。",
+      "english": "Although I studied that hard, I didn't pass the test."
+    },
+    {
+      "type": "paragraph",
+      "text": "Well, if you put yourself in your friends' shoes, it may be hard to articulate your thoughts while you're still processing the fact that you failed an important test. Although your friend doesn't explicitly tell you they failed, のに helps you understand what happened and how your friend is feeling. Just like that, のに can be found at the end of a sentence and lets you guess what may come after it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-counterfactual-wishes",
+      "text": "のに For Counterfactual Wishes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Especially when paired up with the conditional form たら and placed at the end of a sentence , のに can express your wish or desire for things to be different from what they are or were. For example, let's say you're staying at an Airbnb. You're wanting to heat up some leftovers from last night, but the Airbnb doesn't have a microwave. This means you'll have to use a pan to heat it up. You may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "電子（でんし）レンジがあったら楽（らく）なのに。",
+      "english": "If we had a microwave, it would be easy, but…"
+    },
+    {
+      "type": "paragraph",
+      "text": "The reality is that there's no microwave available, but you're wishing there was one — it just makes things so much easier! Like we mentioned earlier, when のに comes at the end of a sentence, it's usually omitting what follows it. And, this isn't an exception here."
+    },
+    {
+      "type": "example",
+      "japanese": "電子（でんし）レンジがあったら楽（らく）なのに（電子（でんし）レンジはない）。",
+      "english": "If we had a microwave, it would be easy, but (there's no microwave)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The hidden sentence, the one that should follow the contradiction, is usually one that indicates the reality doesn't fulfill the desire. And, as you can see, it can be pretty repetitive if you finish the full sentence, and that's why it's usually omitted."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-on-top-of-that",
+      "text": "のに for \"On Top of That\""
+    },
+    {
+      "type": "paragraph",
+      "text": "のに can be used to add the meaning of \"on top of that\" by emphasizing the unexpectedness of something adding up."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, this often gets used when you show gratitude towards someone who did something nice for you. Let's say your senpai invited you to dinner, and paid for everything, including the cab. You might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "夕飯（ゆうはん）をご馳走（ちそう）して頂（いただ）いたのにタクシー代（だい）まで出（だ）して頂（いただ）いて、ありがとうございます。",
+      "english": "Thank you for treating me to dinner, and on top of that, paying for the cab."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you're showing your appreciation by using のに to put an emphasis on how unexpected it was for your senpai to pay for the cab, on top of the dinner, which was already a very nice gesture."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another example of this use of のに is to explain a sequence of tragedies by expressing the unusualness of a bad event occurring one after another."
+    },
+    {
+      "type": "example",
+      "japanese": "ケンイチは会社（かいしゃ）が倒産（とうさん）したのに泥棒（どろぼう）にも入（はい）られて可哀想（かわいそう）だ。",
+      "english": "I feel bad for Kenichi as his company went bankrupt, and on top of that, he got broken into as well."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-purposes",
+      "text": "のに For Purposes"
+    },
+    {
+      "type": "paragraph",
+      "text": "This one is a little bit of a curve ball, but のに can be used to explain the purpose of your actions as well. It's not close to what we've explained so far, and it has nothing to do with contradictions. However, if you take a close look at what のに consists of, it may make more sense — の is the nominalizer の , which turns a verb into the noun form. And に is the particle に , and in this case, it is used for showing purpose."
+    },
+    {
+      "type": "example",
+      "japanese": "海（うみ）に行（い）くのに水着（みずぎ）を買（か）った。",
+      "english": "For going to the beach, I bought swimwear."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "のに is a conjunctive particle, which is similar to \"but\" or \"though.\" It connects two sentences (or you can say, two clauses ), and shows that something has deviated from the expectation. There are conjunctive particles with similar functions, such as けれど or ものの , but what makes のに different from others is its unique nuance. のに focuses on the unexpectedness of the situation and expresses surprise and frustration. Let's take a look at an example.",
+    "What's before のに in the sentence is \"I turned on the AC.\" When you turn on the AC, you expect it to get cooler because that's what ACs do. But in this case, what's after のに explains that \"it wasn't getting any cooler,\" despite the AC being on. Just like that, のに indicates something unexpected happening. And, in this example, のに can express slightly different nuances depending on the tone of what's said or the context. It can either be used to express surprise at how unexpected and unusual that is, for instance, if it was a relatively new AC. Or a complaint, if it was an extremely hot day, and even the AC wasn't capable of cooling the room down! Just like that, のに carries these emotions for something that goes against your expectation.",
+    "Conjunctive particle のに consists of the nominalizer の and particle に .",
+    "The main functions of のに as a conjunctive particle is that it connects sentences together. Let's take a look at the previous example, but this time, with brackets that mark the two sentences inside the main sentence, aka clauses , so that it's extra clear.",
+    "See how のに is connecting the two sentences — クーラーをつけた and 全然（ぜんぜん）涼（すず）しくならなかった? This is how a conjunctive particle works. And のに shows how each sentence contradicts the other based on the expectated outcome, which is, that the AC will cool down the temperature.",
+    "Just like the nominalizer の , which is a part of のに, you need to be careful when you're using the present form of な-adjectives and nouns with のに — you need to insert な before のに, as in なのに. For example, using the noun レモン (lemon), you might say something like:",
+    "Without な, as in レモンのに, the sentence is grammatically incorrect. This is the same for other noun-based adjectives, な-adjectives. For example, using the な-adjective, 静（しず）か (quiet), you could say:",
+    "As we mentioned, のに consists of two components, which are the particle の and the particle に . Since each particle has multiple meanings, you might run into a different のに, one that doesn't sound like the のに we've been discussing in this page.",
+    "For example, you may see or hear a sentence like:",
+    "Doesn't sound like のに is showing a contradiction here, right? That's because のに in this sentence is a combination of the particle の as possession marker and the particle に which shows the destination . What this means is that の marks 私（わたし） to make \"mine\" and に shows the destination of the action 入（い）れる \"to put.\" As you might've already imagined, this is likely a situation where you didn't want milk in your tea or coffee.",
+    "Just like that, when you find のに in a sentence, it could be something else that's made out of different uses of particle の and に. So keep in mind it's not always the のに that's used to show your contradictions.",
+    "のに emphasizes the unexpectedness of an event, and it can be used to express a feeling of surprise. For example:",
+    "A five year old who speaks three languages? That's impressive, right? のに here implies that this is not something you usually expect a five year old to be able to do, and it's emphasizing how surprising it is.",
+    "Here's another example:",
+    "Usually, most people are asleep at three in the morning, but this sentence with のに indicates that there are many people still out. Perhaps, there was a party that was going on. Or maybe there was a commotion in the neighborhood and quite a few neighbors came to check out what was happening. In this case, のに is indicating how a surprisingly unexpected amount of people are here despite it being really late.",
+    "のに can also be used for complaints or expressing regrets about how unexpectedly and unfortunately things went. This may be in spite of how much work or time has been put in, or how much money has been spent on it, etc. For example:",
+    "When you clean, you hope it stays clean for a while. However, despite your earnest wishes, quickly after, it gets cluttered again. In this example, のに helps to express the nuance of complaint for how things went, in spite of your expectations or your hopes. When のに is used for complaints, it often gets paired up with a word like せっかく or わざわざ, to put an emphasis on how much trouble you've been through. In a similar matter, のに often gets used for expressing frustration.",
+    "Considering how hard you studied, you expected or at least hoped to pass the test, however you couldn't. In this case, のに is helping to express the sense of frustration and sorrow for the unfortunate result.",
+    "Even though we explained earlier that conjunctive particles are for connecting two sentences, you may sometimes see のに at the end of a sentence, without being followed by anything else. (Don't blame us. We didn't say that it's always followed by the second sentence, okay?) If that happens, the omission of the second sentence is likely the speaker's choice where they're expecting the audience to guess what comes after のに and read in between the lines.",
+    "For example, let's say you show up late to a party, and you're surprised by how many people are still there. You might say:",
+    "Even if you didn't finish the sentence, based on the context, others would be able to guess what you meant by that statement and that you were expressing a sense of surprise . In this case, the full sentence might've looked like:",
+    "Here's another example. Your friend took a test and you're nervously waiting to hear the results. They call you and you hear them crying over the phone. They say:",
+    "Now, even though they didn't explicitly say it, you can guess what the result was. With のに, it sounds like your friend is frustrated about the result, so it probably didn't go well. In this case, a full sentence may have been something like:",
+    "Well, if you put yourself in your friends' shoes, it may be hard to articulate your thoughts while you're still processing the fact that you failed an important test. Although your friend doesn't explicitly tell you they failed, のに helps you understand what happened and how your friend is feeling. Just like that, のに can be found at the end of a sentence and lets you guess what may come after it.",
+    "Especially when paired up with the conditional form たら and placed at the end of a sentence , のに can express your wish or desire for things to be different from what they are or were. For example, let's say you're staying at an Airbnb. You're wanting to heat up some leftovers from last night, but the Airbnb doesn't have a microwave. This means you'll have to use a pan to heat it up. You may say:",
+    "The reality is that there's no microwave available, but you're wishing there was one — it just makes things so much easier! Like we mentioned earlier, when のに comes at the end of a sentence, it's usually omitting what follows it. And, this isn't an exception here.",
+    "The hidden sentence, the one that should follow the contradiction, is usually one that indicates the reality doesn't fulfill the desire. And, as you can see, it can be pretty repetitive if you finish the full sentence, and that's why it's usually omitted.",
+    "のに can be used to add the meaning of \"on top of that\" by emphasizing the unexpectedness of something adding up.",
+    "For example, this often gets used when you show gratitude towards someone who did something nice for you. Let's say your senpai invited you to dinner, and paid for everything, including the cab. You might say:",
+    "In this case, you're showing your appreciation by using のに to put an emphasis on how unexpected it was for your senpai to pay for the cab, on top of the dinner, which was already a very nice gesture.",
+    "Another example of this use of のに is to explain a sequence of tragedies by expressing the unusualness of a bad event occurring one after another.",
+    "This one is a little bit of a curve ball, but のに can be used to explain the purpose of your actions as well. It's not close to what we've explained so far, and it has nothing to do with contradictions. However, if you take a close look at what のに consists of, it may make more sense — の is the nominalizer の , which turns a verb into the noun form. And に is the particle に , and in this case, it is used for showing purpose."
+  ],
+  "examples": [
+    {
+      "japanese": "クーラーをつけたのに、全然（ぜんぜん）涼（すず）しくならなかった。",
+      "english": "I turned on the AC, but it wasn't getting any cooler."
+    },
+    {
+      "japanese": "[クーラーをつけた]のに[全然（ぜんぜん）涼（すず）しくならなかった]。",
+      "english": "[I turned on the AC] but [it wasn't getting any cooler]."
+    },
+    {
+      "japanese": "[レモン]なのに[すごく甘（あま）い]。",
+      "english": "[It's a lemon] but [it's very sweet]."
+    },
+    {
+      "japanese": "[静（しず）か]なのに[眠（ねむ）れない]。",
+      "english": "[It's quiet] but [I can't sleep]."
+    },
+    {
+      "japanese": "あっ、ミルクは私（わたし）のに入（い）れないでね。",
+      "english": "Oh, don't put milk into mine."
+    },
+    {
+      "japanese": "キョーコちゃんはまだ五（ご）才（さい）なのに���ヶ国（かこく）語（ご）も喋（しゃべ）れるんだって。",
+      "english": "Even though Kyoko-chan is only five years old, apparently she can speak three languages."
+    },
+    {
+      "japanese": "夜中（やちゅう）の三（さん）時（じ）なのに、こんなに人（ひと）がいる。",
+      "english": "It's three in the morning, but there are this many people here."
+    },
+    {
+      "japanese": "せっかく掃除（そうじ）したのに、すぐにまた汚（きたな）くなった。",
+      "english": "I made an effort to clean, but right away it became cluttered again."
+    },
+    {
+      "japanese": "あんなに勉強（べんきょう）したのに、不（ふ）合格（ごうかく）だった。",
+      "english": "Although I studied that hard, I didn't pass the test."
+    },
+    {
+      "japanese": "夜中（やちゅう）の三（さん）時（じ）なのに…。",
+      "english": "It's three in the morning though…"
+    },
+    {
+      "japanese": "夜中（やちゅう）の三（さん）時（じ）なのに、こんなに人（ひと）がいる。",
+      "english": "It's three in the morning, but there are this many people here."
+    },
+    {
+      "japanese": "あんなに勉強（べんきょう）したのに…。",
+      "english": "Alas, I studied that hard, but…"
+    },
+    {
+      "japanese": "あんなに勉強（べんきょう）したのに、不（ふ）合格（ごうかく）だった。",
+      "english": "Although I studied that hard, I didn't pass the test."
+    },
+    {
+      "japanese": "電子（でんし）レンジがあったら楽（らく）なのに。",
+      "english": "If we had a microwave, it would be easy, but…"
+    },
+    {
+      "japanese": "電子（でんし）レンジがあったら楽（らく）なのに（電子（でんし）レンジはない）。",
+      "english": "If we had a microwave, it would be easy, but (there's no microwave)."
+    },
+    {
+      "japanese": "夕飯（ゆうはん）をご馳走（ちそう）して頂（いただ）いたのにタクシー代（だい）まで出（だ）して頂（いただ）いて、ありがとうございます。",
+      "english": "Thank you for treating me to dinner, and on top of that, paying for the cab."
+    },
+    {
+      "japanese": "ケンイチは会社（かいしゃ）が倒産（とうさん）したのに泥棒（どろぼう）にも入（はい）られて可哀想（かわいそう）だ。",
+      "english": "I feel bad for Kenichi as his company went bankrupt, and on top of that, he got broken into as well."
+    },
+    {
+      "japanese": "海（うみ）に行（い）くのに水着（みずぎ）を買（か）った。",
+      "english": "For going to the beach, I bought swimwear."
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "connecting-sentences",
+      "text": "Connecting Sentences"
+    },
+    {
+      "level": 3,
+      "id": "other----combinations",
+      "text": "Other の + に Combinations"
+    },
+    {
+      "level": 2,
+      "id": "uses-of-",
+      "text": "Uses of のに"
+    },
+    {
+      "level": 3,
+      "id": "for-expressing-surprises",
+      "text": "のに For Expressing Surprises"
+    },
+    {
+      "level": 3,
+      "id": "for-complaint-and-frustration",
+      "text": "のに for Complaint and Frustration"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "at-the-end-of-a-sentence",
+      "text": "のに at the End of a Sentence"
+    },
+    {
+      "level": 3,
+      "id": "for-counterfactual-wishes",
+      "text": "のに For Counterfactual Wishes"
+    },
+    {
+      "level": 3,
+      "id": "for-on-top-of-that",
+      "text": "のに for \"On Top of That\""
+    },
+    {
+      "level": 3,
+      "id": "for-purposes",
+      "text": "のに For Purposes"
+    }
+  ],
+  "id": 7,
+  "slug": "conjunctive-particle-noni",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/conjunctive-particle-noni/",
+  "categories": [
+    "Particle"
+  ]
+}

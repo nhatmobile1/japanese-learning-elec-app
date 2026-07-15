@@ -1,0 +1,145 @@
+{
+  "title": "Stem Form",
+  "description": "The stem form is a type of Japanese verb form also known as V-stem form, and 〜ます form—this last name comes from the fact that it can be followed by the politeness marker ます.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-is-the-stem-form",
+      "text": "What Is the Stem Form?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just as the English verb \"see\" can become \"sees,\" \"saw,\" or \"seen,\" Japanese verbs do the same. While these different verb forms indicate only the number of subjects, types of subjects, and tenses in English, in Japanese they are utilized to show a wider range of meanings. For example, 見（み）た (\"saw,\" the past tense ), 見（み）ている (\"to be seeing,\" the continuous form ) 見（み）よう (\"let's see,\" the volitional form ), and the list goes on. This variation of the verb form is called \"conjugation.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "The \"conjugation\" doesn't transform the whole verb into an entirely new verb (aside from a couple of irregular exceptions). Japanese verbs consist of the fixed part and the part that can conjugate, and only the verb suffixes can change form. The fixed part is called the stem form, and we refer to this fixed part (plus the vowel い for godan verbs ) as stem form."
+    },
+    {
+      "type": "paragraph",
+      "text": "The name actually varies, so depending on your teacher or textbook, you may also see stem form listed as V-stem, verb stem, ます form, masu form, i-form, 連用形（れんようけい）, ren'you-kei, continuative form, continuative stem, conjunctive form, or sentence-joining form."
+    },
+    {
+      "type": "paragraph",
+      "text": "Learning how to make the stem form is very useful because it is used in many different types of verb conjugations. Furthermore, it can also stand alone as a noun at times or become at least noun-like, allowing it to combine with another word to form a compound verb like 飛（と）び込（こ）む (to jump in)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thus, in this post, we'll focus on how to change Japanese verbs, which end in る or う (vowel u ), to the stem form."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Godan",
+          "会（あ）う → 会（あ）い 立（た）つ → 立（た）ち 写（うつ）す → 写（うつ）し 代（か）わる → 代（か）わり 書（か）く → 書（か）き 泳（およ）ぐ → 泳（およ）ぎ 死（し）ぬ → 死（し）に 学（まな）ぶ → 学（まな）び 休（やす）む → 休（やす）み"
+        ],
+        [
+          "Ichidan",
+          "食（た）べる → 食（た）べ 起（お）きる → 起（お）き 閉（と）じる → 閉（と）じ"
+        ],
+        [
+          "Irregular",
+          "来（く）る（く ） → 来（き） する → し"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "For godan verbs , simply replace the う-ending kana to the い-ending kana to make the stem form. Now let's try making the stem form of the verb 買（か）う (to buy). 買（か）う (ka u ) becomes 買（か）い (ka i ). Period. This one was easy because 買（か）う ends in the vowel う as is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's try another example: how about 読（よ）む (to read)? Change 読（よ）む (yom u ) into 読（よ）み (yom i ). Just like that, 書（か）く (to write) becomes 書（か）き (kak i ), 話（はな）す (to speak) becomes 話（はな）し (hanash i ), and 遊（あそ）ぶ (to play) becomes 遊（あそ）び (asob i )."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "For ichidan verbs , simply remove the last る, and that's it. No need to add anything. Easy! So the stem form of 見（み）る (to look) is 見（み）, 起（お）きる (to wake up) is 起（お）き, 落（お）ちる (to fall) is 落（お）ち, 開（あ）ける (to open) is 開（あ）け, 見（み）せる (to show) is 見（み）せ, 寝（ね）る (to sleep) is 寝（ね）, and 食（た）べる (to eat) is 食（た）べ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "irregular-verbs",
+      "text": "Irregular Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are two irregular verbs to think about. The stem form of 来（く）る（く ） (to come) is 来（き） and する (to do) is し. You just have to remember those, but the good news is there are only two!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Just as the English verb \"see\" can become \"sees,\" \"saw,\" or \"seen,\" Japanese verbs do the same. While these different verb forms indicate only the number of subjects, types of subjects, and tenses in English, in Japanese they are utilized to show a wider range of meanings. For example, 見（み）た (\"saw,\" the past tense ), 見（み）ている (\"to be seeing,\" the continuous form ) 見（み）よう (\"let's see,\" the volitional form ), and the list goes on. This variation of the verb form is called \"conjugation.\"",
+    "The \"conjugation\" doesn't transform the whole verb into an entirely new verb (aside from a couple of irregular exceptions). Japanese verbs consist of the fixed part and the part that can conjugate, and only the verb suffixes can change form. The fixed part is called the stem form, and we refer to this fixed part (plus the vowel い for godan verbs ) as stem form.",
+    "The name actually varies, so depending on your teacher or textbook, you may also see stem form listed as V-stem, verb stem, ます form, masu form, i-form, 連用形（れんようけい）, ren'you-kei, continuative form, continuative stem, conjunctive form, or sentence-joining form.",
+    "Learning how to make the stem form is very useful because it is used in many different types of verb conjugations. Furthermore, it can also stand alone as a noun at times or become at least noun-like, allowing it to combine with another word to form a compound verb like 飛（と）び込（こ）む (to jump in).",
+    "Thus, in this post, we'll focus on how to change Japanese verbs, which end in る or う (vowel u ), to the stem form.",
+    "For godan verbs , simply replace the う-ending kana to the い-ending kana to make the stem form. Now let's try making the stem form of the verb 買（か）う (to buy). 買（か）う (ka u ) becomes 買（か）い (ka i ). Period. This one was easy because 買（か）う ends in the vowel う as is.",
+    "Let's try another example: how about 読（よ）む (to read)? Change 読（よ）む (yom u ) into 読（よ）み (yom i ). Just like that, 書（か）く (to write) becomes 書（か）き (kak i ), 話（はな）す (to speak) becomes 話（はな）し (hanash i ), and 遊（あそ）ぶ (to play) becomes 遊（あそ）び (asob i ).",
+    "For ichidan verbs , simply remove the last る, and that's it. No need to add anything. Easy! So the stem form of 見（み）る (to look) is 見（み）, 起（お）きる (to wake up) is 起（お）き, 落（お）ちる (to fall) is 落（お）ち, 開（あ）ける (to open) is 開（あ）け, 見（み）せる (to show) is 見（み）せ, 寝（ね）る (to sleep) is 寝（ね）, and 食（た）べる (to eat) is 食（た）べ.",
+    "There are two irregular verbs to think about. The stem form of 来（く）る（く ） (to come) is 来（き） and する (to do) is し. You just have to remember those, but the good news is there are only two!"
+  ],
+  "examples": [],
+  "tables": [
+    [
+      [
+        "Godan",
+        "会（あ）う → 会（あ）い 立（た）つ → 立（た）ち 写（うつ）す → 写（うつ）し 代（か）わる → 代（か）わり 書（か）く → 書（か）き 泳（およ）ぐ → 泳（およ）ぎ 死（し）ぬ → 死（し）に 学（まな）ぶ → 学（まな）び 休（やす）む → 休（やす）み"
+      ],
+      [
+        "Ichidan",
+        "食（た）べる → 食（た）べ 起（お）きる → 起（お）き 閉（と）じる → 閉（と）じ"
+      ],
+      [
+        "Irregular",
+        "来（く）る（く ） → 来（き） する → し"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "what-is-the-stem-form",
+      "text": "What Is the Stem Form?"
+    },
+    {
+      "level": 3,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "level": 3,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "level": 3,
+      "id": "irregular-verbs",
+      "text": "Irregular Verbs"
+    }
+  ],
+  "id": 40,
+  "slug": "verb-stem-form-conjugation",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-stem-form-conjugation/",
+  "categories": [
+    "Verb Form"
+  ]
+}

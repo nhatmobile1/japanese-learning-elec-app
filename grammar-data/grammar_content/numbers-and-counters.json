@@ -1,0 +1,939 @@
+{
+  "title": "Numbers and Counters",
+  "description": "Japanese has two ways to count. Numbers are followed by different counters, or 助数詞（じょすうし）, depending on the thing being counted.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Every language has a unique way of counting things. When it comes to Japanese, there are two ways to count numbers — one based on Japanese and one based on Chinese. What's more, to count different things, there are a wide array of counters to be used with the numbers: 冊（さつ） for books, 本（ほん） for long, cylindrical objects, and so on."
+    },
+    {
+      "type": "paragraph",
+      "text": "At first glance, these counters may just seem like superfluous decorations, but they aren't. The Japanese language tends to avoid repetition and frequently leaves out subjects and objects when it's possible. So, many of the counters actually assist you in understanding the topics being discussed because they categorize objects according to features. For example, someone says they caught ３匹（ひき）. You don't know what exactly they caught, but you'll know it's three animals of some sort because 匹（ひき） is a counter for small to mid-sized animals. Just like that, counters give you hints of what it is you're talking about."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, it's good to remember them. But don't worry! You don't need to be an expert in each one to survive daily life. There are only two must-know ones , and a handful more of other common ones. Just focus on learning one at a time, and you'll eventually build on your knowledge base."
+    },
+    {
+      "type": "paragraph",
+      "text": "To help you with that, this page will cover the basic information for counting in Japanese, and each section has one or more links to appropriate resources for further studies!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "counting-numbers",
+      "text": "Counting Numbers"
+    },
+    {
+      "type": "paragraph",
+      "text": "First, we're gonna check out how to count numbers in Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "As said earlier, there are two ways to count numbers: one is based on wago, or the native Japanese reading, while the other is based on kango, aka the sino-Japanese reading (meaning it's imported from China!)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the kango version is much more common, you'll also need to know the wago version for a few important things — general counting, counting up to a certain number of people, saying the date, and other things. It's because, as a general rule, wago counters use the wago counting method and kango counters use the kango counting method. Even so, there are plenty of exceptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, you'll eventually need to remember both of them, but if you haven't memorized them yet, start with kango, then move onto wago."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is a table with Japanese numbers 1 to 10 in both wago and kango:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Number",
+          "Kanji Number",
+          "WAGO",
+          "KANGO"
+        ],
+        [
+          "1",
+          "一（いち）",
+          "ひとつ, (ひ)",
+          "いち"
+        ],
+        [
+          "2",
+          "二（に）",
+          "ふたつ, (ふ)",
+          "に"
+        ],
+        [
+          "3",
+          "三（さん）",
+          "みっつ, (み)",
+          "さん"
+        ],
+        [
+          "4",
+          "四（よん）",
+          "よっつ, (よ)",
+          "し/よん"
+        ],
+        [
+          "5",
+          "五（ご）",
+          "いつつ, (い/いつ)",
+          "ご"
+        ],
+        [
+          "6",
+          "六（ろく）",
+          "むっつ, (む)",
+          "ろく"
+        ],
+        [
+          "7",
+          "七（なな）",
+          "ななつ, (な)",
+          "なな/しち"
+        ],
+        [
+          "8",
+          "八（はち）",
+          "やっつ, (や)",
+          "はち"
+        ],
+        [
+          "9",
+          "九（きゅう）",
+          "ここのつ, (こ)",
+          "きゅう"
+        ],
+        [
+          "10",
+          "十（じゅう）",
+          "とお",
+          "じゅう"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Oh, and I have good news. For greater numbers than ten, you usually only use Kango! What's more, the system is very straightforward. You can use a combination of the remembered numbers rather than learning new words like \"eleven,\" \"twelve,\" \"twenty,\" or \"thirty,\" etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "To say \"11\" in Japanese, for instance, you first break it down to 10 and 1, or じゅう and いち, then put them together, like じゅう＋いち=じゅういち. Ta-da! You get to say \"11\" in Japanese now."
+    },
+    {
+      "type": "paragraph",
+      "text": "How about 99? The same deal. Just break it down to 90 and 9. Then, break 90 down to 9 and 10. Combine them together, it becomes 9(きゅう)+10(じゅう)+9(きゅう)=99(きゅうじゅうきゅう)."
+    },
+    {
+      "type": "paragraph",
+      "text": "100 will be a new number, which is 百（ひゃく）. But after 100, it's just a combination of the remembered numbers again up to 1000, which is 千（せん）! Well, if you want to count further, check our the article Japanese Numbers and How to Count All of Them ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "counters",
+      "text": "Counters"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, you usually can't just attach words right after a noun like you'd say \"two pens\" or ”a hundred and one Dalmatians” in English; you have to use the counters, aka 助数詞（じょすうし）. 1 2"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "what-are-counters",
+      "text": "What Are Counters?"
+    },
+    {
+      "type": "paragraph",
+      "text": "What really are they? Well, they are indicators for what kind of thing you're counting, classifying the counted thing according to its features."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, the counter 本（ほん） denotes long, cylindrical, or string-like objects. So to say two pens in Japanese, you wouldn't say 二（に）ペン (two pens). Instead, you'd say 二本（にほん）:"
+    },
+    {
+      "type": "example",
+      "japanese": "ペンを 二本（にほん）買（か）う。",
+      "english": "l'll buy two pens."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you know that the word 本（ほん） means books, you may think that 二本（にほん） can also mean \"two books,\" but it can't because books aren't long and cylindrical. To count books, you would instead use 冊（さつ） , which is a counter for books, booklets, or leaflets."
+    },
+    {
+      "type": "example",
+      "japanese": "本（ほん）を[❌ 二本（にほん）・⭕ 二冊（にさつ）]買（か）う。",
+      "english": "l'll buy two books."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are a wide variety of these counters in Japanese. Let's check out a few more basic ones."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "counters-for-things",
+      "text": "〜つ/〜個: Counters for Things"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜つ and 〜 個（こ） are basically the wild card counters, which you can count almost any thing with."
+    },
+    {
+      "type": "paragraph",
+      "text": "We've usually listed 〜つ as a counter, but this is just the wago form of counting. If you forget how they go, check out the table under the Counting Numbers section again. See how the numbers one to nine all end with つ? If you can remember those wago numbers, then you'll be able to count just about anything. For example, the earlier sentences can also be said using つ instead of their more specific counters:"
+    },
+    {
+      "type": "example",
+      "japanese": "ペンを 二（ふた）つ（ふたつ）買（か）う。",
+      "english": "l'll buy two pens."
+    },
+    {
+      "type": "example",
+      "japanese": "本（ほん）を 二（ふた）つ（ふたつ）買（か）う。",
+      "english": "l'll buy two books."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hey, it's a big load off to know there's a magic counter like this, isn't it? But, unfortunately, the magic of 〜つ is only effective up until 10. It's because people don't use wago to count 11 or higher in modern Japanese, with very few exceptions."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, what to do if we want to count 12 things or 35 things?! Well, don't worry. The other wild card 〜個（こ） is used with kango, so it can count things up to whatever number you'd like to count."
+    },
+    {
+      "type": "example",
+      "japanese": "ペンを 十二個（じゅうにこ）買（か）う。",
+      "english": "l'll buy twelve pens."
+    },
+    {
+      "type": "example",
+      "japanese": "本（ほん）を 三十五個（さんじゅうごこ）買（か）う。",
+      "english": "l'll buy thirty-five books."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your Japanese sounds more natural if you use the counters 本（ほん） and 冊（さつ） for pens and books respectively, but 〜つ and 〜個（こ） definitely convey what you mean. So these should be the first sets of counters you memorize, and then you can gradually increase the counters you use!"
+    },
+    {
+      "type": "paragraph",
+      "text": "What kind of things are more natural to count with 〜つ and 〜個（こ）, then? Well, there are tons of things, but you can usually use them for three-dimensional objects whose shapes aren't covered by other counters like 〜本（ほん） or 〜冊（さつ）. For example, there aren't any counters specifically for round or cubic things, so you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ミカンを 五（いつ）つ（いつ ）食（た）べた。",
+      "english": "l ate five oranges."
+    },
+    {
+      "type": "example",
+      "japanese": "レンガが 六個（ろっこ）ある。",
+      "english": "There are six bricks."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to learn more about them, check out the dedicated pages for 〜つ and 〜個（こ） ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "counters-for-people",
+      "text": "〜人: Counters for People"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now you have the wild card counters for inanimate things, but it's a bit weird to count living things with them. So, after remembering 〜つ and 〜個（こ）, try to remember the counter for people, or 〜 人（にん） !"
+    },
+    {
+      "type": "paragraph",
+      "text": "The kanji 人（ひと） means \"person,\" so it's simple to remember, but this counter has one tricky thing — the first two people you use the wago reading!"
+    },
+    {
+      "type": "paragraph",
+      "text": "So, 一（いち）人（にん） (one person) is read ひとり, and 二（に）人（にん） (two people) is read ふたり, but the rest are the combination of the kango reading with 〜人（ひと）, as in 三人（さんにん） (three people), 四人（よにん） (four people), 五人（ごにん） (five people), and so on. 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "So if there are two women, you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "女（おんな）の人（ひと）が 二人（ふたり）いる。",
+      "english": "There are two women."
+    },
+    {
+      "type": "paragraph",
+      "text": "If there are three men, you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "男（おとこ）の人（ひと）が 三人（さんにん）いる。",
+      "english": "There are three men."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to see more examples with 〜人（ひと）, check out its dedicated page !"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "counters-for-animals",
+      "text": "〜匹/頭: Counters for Animals"
+    },
+    {
+      "type": "paragraph",
+      "text": "What about living things other than people? Well, to count small or medium-sized animals, including fish, birds, or insects, you can use the counter 〜 匹（ひき） . For larger animals, like lions or elephants, you can use 〜 頭（とう） ."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if there are two cats, you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ネコが 二匹（にひき）いる。",
+      "english": "There are two cats."
+    },
+    {
+      "type": "paragraph",
+      "text": "If there are three elephants, you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ゾウが 三頭（さんとう）いる。",
+      "english": "There are three elephants."
+    },
+    {
+      "type": "paragraph",
+      "text": "Each counter has different reading patterns, so if you'd like to learn more about them, check out the 〜 匹（ひき） and 〜 頭（とう） pages."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "reading-patterns-with-counters",
+      "text": "Reading Patterns with Counters"
+    },
+    {
+      "type": "paragraph",
+      "text": "The counters introduced before here had different reading patterns, so does that mean you have to memorize each and every combination of number and counter? Thankfully not, but being able to use counters will still take some practice and memorization. Fortunately, there are pretty consistent rules you can learn to help you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Look at the table below for an overview of the pronunciation changes that occur:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Numeral",
+          "k-かきくけこきゃきゅきょ",
+          "s/sh-さしすせそしゃしゅしょ",
+          "t/ch-たちつてとちゃちゅちょ",
+          "h-はひへほひゃひゅひょ",
+          "f-ふ",
+          "p-ぱぴぷぺぽ",
+          "w-わ"
+        ],
+        [
+          "1 ichi",
+          "ikk-いっ+k-",
+          "iss-いっ+s/sh-",
+          "itt-いっ+t/ch-",
+          "ipp- いっ+p-",
+          "ipp- いっ+p-",
+          "ipp- いっ+p-"
+        ],
+        [
+          "3 san",
+          "sanb-さん+b-",
+          "sanp-さん+ p-",
+          "sanb- さん + ばsanw-さん+わ"
+        ],
+        [
+          "4 yon",
+          "yonh-よん+ h-yonp-よん+ p-",
+          "yonf- よん+f-yonp- よん+p-",
+          "yow- よ + わyonw-よん + わ yonb- よん + ば"
+        ],
+        [
+          "6 roku",
+          "rokk- ろっ+k-",
+          "ropp-ろっ+p-",
+          "ropp- ろっ+p-",
+          "ropp-ろっ+p",
+          "rokuw-ろく + わropp-ろっ + ぱ"
+        ],
+        [
+          "8 hachi",
+          "hakk-はっ+k-hachik-はち+k-",
+          "hass-はっ+s/sh-hachis-はち+s/sh-",
+          "hatt- はっ+t hachit-はち+t",
+          "happ-はっ+p-hachih-はち+h-",
+          "happ- はっ+p- hachif-はち+f-",
+          "happ- はっ+p-",
+          "happ- はっ + ぱ hachiw- はち + わ"
+        ],
+        [
+          "10 jū",
+          "jikk- じっ+k- jukk- じゅっ+k-",
+          "jiss- じっ+s/sh-juss-じゅっ+s/sh-",
+          "jitt- じっ+t- jutt-じゅっ+t-",
+          "jipp-じっ+p-jupp-じゅっ+p-",
+          "jipp-じっ+p-jupp- じゅっ+p-",
+          "jipp-じっ+p-jupp-じゅっ+p-",
+          "jipp-じっ + ぱjupp-じゅっ + ぱjuuwa-wじゅう+わ"
+        ],
+        [
+          "100 hyaku",
+          "hyakk- ひゃっ+k-",
+          "hyapp- ひゃっ+p-",
+          "hyapp- ひゃっ+p",
+          "hyapp-ひゃっ+p-",
+          "hyapp- ひゃっ+ぱhyakuw-ひゃくわ"
+        ],
+        [
+          "1000 sen",
+          "senb-せん+b-",
+          "senp- せん+p-",
+          "senb-せん + ばsenw-せん+わ"
+        ],
+        [
+          "10000 man",
+          "manb- まん+b-",
+          "manp- まん+p-",
+          "manb-まん+ば manb-まん+わ"
+        ],
+        [
+          "何（なに） nan",
+          "nanb- なん+b-",
+          "nanp- なん+p-"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Actually, we have the same table in our article Getting Started with Japanese Counters ! We also talk about the pronunciation changes with 〜個（こ） and 〜匹（ひき） in that article, so if you aren't quite comfortable with the table here, check out that article as well!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "sentence-patterns-with-counters",
+      "text": "Sentence Patterns with Counters"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have noticed this from the example sentences above, but counters typically appear directly or shortly before a verb."
+    },
+    {
+      "type": "paragraph",
+      "text": "Using the cat example from before, いる is the verb that means \"to exist\" for animate things, and 二匹（にひき） (two smaller animals) comes right before it. 4"
+    },
+    {
+      "type": "example",
+      "japanese": "ネコが 二匹（にひき）いる。",
+      "english": "There are two cats."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the most common sentence pattern to use with counters, but not the only one. You can also use the particle の and say: 5"
+    },
+    {
+      "type": "example",
+      "japanese": "二匹（にひき）のネコがいる。",
+      "english": "There are two cats."
+    },
+    {
+      "type": "paragraph",
+      "text": "This の indicates that the word that comes before it is extra information for the following word. So 二匹（にひき）の ネコ expresses not just \"cats\" but \" two cats.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "But wait a moment. The English translations of the earlier cat sentence and this cat sentence are the same. What makes each cat sentence unique?"
+    },
+    {
+      "type": "example",
+      "japanese": "ネコが 二匹（にひき）いる。 二匹（にひき）のネコがいる。",
+      "english": "There are two cats."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the literal translation, the first one ネコが 二匹（にひき） いる sounds like \"Cats, two of them, are there.\" So it feels like you are just talking about cats and there happen to be two of them."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, the second one 二匹（にひき）のネコ がいる specifies the cats you're talking about as \"two cats\" first, and then states they're there, like \"(The) two cats are there.\" So it feels like you first became aware of the cats' number and regard them as a set of two (even if the cats may not actually know one another)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When discussing a random number of cats you found on the street, you can use these patterns interchangeably because the distinction only depends on your recognition or perception. However, there are times when one works better than the other."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you are at a stationary store. You find pens you like, so you tell the clerk:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕このペンを 二本（にほん）ください。 ❌この 二本（にほん）のペンをください。",
+      "english": "Two of these pens, please."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this situation, the first pattern sounds natural because you're asking for two pens from an arbitrary number of pens . The second one, on the other hand, expresses that you're asking for two collective pens , so it sounds a bit off unless the pens are sold as a set or you're stressing \"these two pens and not others.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "So, does this mean the \"Number+Counter+の+Noun\" form is always used with plurals? Well, no. You can still use the pattern even when the number is \"one,\" but in this case, it would still sound like you're regarding the \"one unit\" as \"a whole.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "What does that mean? To help you understand, take this example. Imagine your mom asks you to go to the convenience store to get a one-liter bottle of water:"
+    },
+    {
+      "type": "example",
+      "japanese": "❓水（すい）を 一（いち）リットル買（か）ってきて。 ⭕ 一（いち）リットルの水（みず）を買（か）ってきて。",
+      "english": "Can you go get a one-liter bottle of water?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this situation, the first example may come across a bit unnatural because 水（みず） を 一（いち）リットル sounds like you're asking for \"one liter\" out of a larger arbitrary amount. As a result, it can imply that the water is sold by the measure, which doesn't suit the situation. 6 On the other hand, 一（いち）リットルの水（みず） suggests that the \"one liter\" is \"one whole unit,\" making the it more suitable in this context since your mom is asking for water in a one-liter container (rather than in a half-liter or two-liter bottle, for example)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "literary-effect-of-sentence-patterns-with-counters",
+      "text": "Literary Effect of Sentence Patterns with Counters"
+    },
+    {
+      "type": "paragraph",
+      "text": "But one liter of water is still an amount of water. What if you're talking about one single person or one single object, that can't be broken up? Well, in that case, the two patterns still have different meanings, like the earlier examples, but the difference becomes very subtle. This subtle difference is often used for literary effect in fiction."
+    },
+    {
+      "type": "paragraph",
+      "text": "For instance, to tell the story of a man who lives alone , you can either say:"
+    },
+    {
+      "type": "example",
+      "japanese": "その家（いえ）には、男（おとこ）が 一人（ひとり）住（す）んでいた。 その家（いえ）には、 一人（ひとり）の男（おとこ）が住（す）んでいた。",
+      "english": "There was one man who lived in the house."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, the fact that one guy lived in the house is conveyed by both sentences. However, the first one 男（おとこ）が 一人（ひとり） 住（す）んでいた sounds like you're simply stating the number of men who happened to live in the house. On the other hand, 一人（ひとり）の男（おとこ） が住（す）んでいた sounds more specific and rigid. This is because, again, 一人（ひとり）の男（おとこ） indicates that you're singling out this one man as a complete, independent entity. In other words, it suggests that \"one certain man\" lived there, not just any old guy who happened to be alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Due to this difference in nuance, one may be chosen over the other for different effects, especially in storytelling. For example, 男（おとこ）が 一人（ひとり） 住（す）んでいた may be used when the author wants to just provide the information without emphasis. On the other hand, 一人（ひとり）の男（おとこ） が住（す）んでいた may be employed in order to pull the audience's attention more rapidly towards this specific man."
+    },
+    {
+      "type": "paragraph",
+      "text": "Linguistically, counters are also called \"numeral classifiers\" or \"numeral quantifiers.\" &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although some claim that Japanese doesn't allow the application of numbers directly to nouns, there are cases that the noun words and counter words match, as in 二（に）階（かい） (two stories), 二（に）組（くみ） (two groups), 二（に）段階（だんかい） (two stages), and 二（に）ページ (two pages). This tends to happen when the noun words seem to be attributive to something else, rather than independent and self-contained. &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "With most counters, you read 四（よん） as よん, but 人（ひと） is an oddball and 四（よん）人（にん） is read よにん — with no ん. &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "The \"number+counter\" part of this pattern can occasionally be placed a little further away than immediately before a verb and come before the subject or the object. This happens when the speaker (or the writer) places more focus on the \"number\" of things they're talking about, either because they've just found out the number and are surprised at it or to direct the audience's attention to it. Imagine, for instance, that one day on your way to school you come across a cat in a cardboard box. You couldn't do anything at the time, but after school, you return to the place to check on the cat and make sure it's okay. But then, you discover there are two more cats. You might shout: あ、 二（に）匹（ひき） ネコが増（ふ）えてる! (Oh, two more cats!) Here, the ordinary sentence pattern is あ、ネコが 二（に）匹（ひき） 増（ふ）えてる and it works just fine. But the 二（に）匹（ひき） might be pronounced before ネコが if you're subconsciously focused on just how many more cats there are. &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apart from the two patterns, there's also another pattern that combines the noun and the quantity together, like ネコ二（に）匹（ひき） がいる (There are two cats ). This use is similar to saying 二（に）匹（ひき）のネコ in the sense that you regard them collectively, but ネコ二（に）匹（ひき） has a more casual feel than 二（に）匹（ひき）のネコ . &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle を is often omitted in Japanese. So, 水（みず） を 一（いち）リットル 買（か）ってきて can be 水（みず）一（いち）リットル 買（か）ってきて. In this case, 水（みず）一（いち）リットル can also imply a collective unit (see 5 ), so the sentence becomes valid and natural. &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Every language has a unique way of counting things. When it comes to Japanese, there are two ways to count numbers — one based on Japanese and one based on Chinese. What's more, to count different things, there are a wide array of counters to be used with the numbers: 冊（さつ） for books, 本（ほん） for long, cylindrical objects, and so on.",
+    "At first glance, these counters may just seem like superfluous decorations, but they aren't. The Japanese language tends to avoid repetition and frequently leaves out subjects and objects when it's possible. So, many of the counters actually assist you in understanding the topics being discussed because they categorize objects according to features. For example, someone says they caught ３匹（ひき）. You don't know what exactly they caught, but you'll know it's three animals of some sort because 匹（ひき） is a counter for small to mid-sized animals. Just like that, counters give you hints of what it is you're talking about.",
+    "So, it's good to remember them. But don't worry! You don't need to be an expert in each one to survive daily life. There are only two must-know ones , and a handful more of other common ones. Just focus on learning one at a time, and you'll eventually build on your knowledge base.",
+    "To help you with that, this page will cover the basic information for counting in Japanese, and each section has one or more links to appropriate resources for further studies!",
+    "First, we're gonna check out how to count numbers in Japanese.",
+    "As said earlier, there are two ways to count numbers: one is based on wago, or the native Japanese reading, while the other is based on kango, aka the sino-Japanese reading (meaning it's imported from China!).",
+    "Although the kango version is much more common, you'll also need to know the wago version for a few important things — general counting, counting up to a certain number of people, saying the date, and other things. It's because, as a general rule, wago counters use the wago counting method and kango counters use the kango counting method. Even so, there are plenty of exceptions.",
+    "So, you'll eventually need to remember both of them, but if you haven't memorized them yet, start with kango, then move onto wago.",
+    "Here is a table with Japanese numbers 1 to 10 in both wago and kango:",
+    "Oh, and I have good news. For greater numbers than ten, you usually only use Kango! What's more, the system is very straightforward. You can use a combination of the remembered numbers rather than learning new words like \"eleven,\" \"twelve,\" \"twenty,\" or \"thirty,\" etc.",
+    "To say \"11\" in Japanese, for instance, you first break it down to 10 and 1, or じゅう and いち, then put them together, like じゅう＋いち=じゅういち. Ta-da! You get to say \"11\" in Japanese now.",
+    "How about 99? The same deal. Just break it down to 90 and 9. Then, break 90 down to 9 and 10. Combine them together, it becomes 9(きゅう)+10(じゅう)+9(きゅう)=99(きゅうじゅうきゅう).",
+    "100 will be a new number, which is 百（ひゃく）. But after 100, it's just a combination of the remembered numbers again up to 1000, which is 千（せん）! Well, if you want to count further, check our the article Japanese Numbers and How to Count All of Them .",
+    "In Japanese, you usually can't just attach words right after a noun like you'd say \"two pens\" or ”a hundred and one Dalmatians” in English; you have to use the counters, aka 助数詞（じょすうし）. 1 2",
+    "What really are they? Well, they are indicators for what kind of thing you're counting, classifying the counted thing according to its features.",
+    "For example, the counter 本（ほん） denotes long, cylindrical, or string-like objects. So to say two pens in Japanese, you wouldn't say 二（に）ペン (two pens). Instead, you'd say 二本（にほん）:",
+    "If you know that the word 本（ほん） means books, you may think that 二本（にほん） can also mean \"two books,\" but it can't because books aren't long and cylindrical. To count books, you would instead use 冊（さつ） , which is a counter for books, booklets, or leaflets.",
+    "There are a wide variety of these counters in Japanese. Let's check out a few more basic ones.",
+    "〜つ and 〜 個（こ） are basically the wild card counters, which you can count almost any thing with.",
+    "We've usually listed 〜つ as a counter, but this is just the wago form of counting. If you forget how they go, check out the table under the Counting Numbers section again. See how the numbers one to nine all end with つ? If you can remember those wago numbers, then you'll be able to count just about anything. For example, the earlier sentences can also be said using つ instead of their more specific counters:",
+    "Hey, it's a big load off to know there's a magic counter like this, isn't it? But, unfortunately, the magic of 〜つ is only effective up until 10. It's because people don't use wago to count 11 or higher in modern Japanese, with very few exceptions.",
+    "So, what to do if we want to count 12 things or 35 things?! Well, don't worry. The other wild card 〜個（こ） is used with kango, so it can count things up to whatever number you'd like to count.",
+    "Your Japanese sounds more natural if you use the counters 本（ほん） and 冊（さつ） for pens and books respectively, but 〜つ and 〜個（こ） definitely convey what you mean. So these should be the first sets of counters you memorize, and then you can gradually increase the counters you use!",
+    "What kind of things are more natural to count with 〜つ and 〜個（こ）, then? Well, there are tons of things, but you can usually use them for three-dimensional objects whose shapes aren't covered by other counters like 〜本（ほん） or 〜冊（さつ）. For example, there aren't any counters specifically for round or cubic things, so you can say:",
+    "If you want to learn more about them, check out the dedicated pages for 〜つ and 〜個（こ） .",
+    "Now you have the wild card counters for inanimate things, but it's a bit weird to count living things with them. So, after remembering 〜つ and 〜個（こ）, try to remember the counter for people, or 〜 人（にん） !",
+    "The kanji 人（ひと） means \"person,\" so it's simple to remember, but this counter has one tricky thing — the first two people you use the wago reading!",
+    "So, 一（いち）人（にん） (one person) is read ひとり, and 二（に）人（にん） (two people) is read ふたり, but the rest are the combination of the kango reading with 〜人（ひと）, as in 三人（さんにん） (three people), 四人（よにん） (four people), 五人（ごにん） (five people), and so on. 3",
+    "So if there are two women, you say:",
+    "If there are three men, you say:",
+    "If you want to see more examples with 〜人（ひと）, check out its dedicated page !",
+    "What about living things other than people? Well, to count small or medium-sized animals, including fish, birds, or insects, you can use the counter 〜 匹（ひき） . For larger animals, like lions or elephants, you can use 〜 頭（とう） .",
+    "So if there are two cats, you say:",
+    "If there are three elephants, you say:",
+    "Each counter has different reading patterns, so if you'd like to learn more about them, check out the 〜 匹（ひき） and 〜 頭（とう） pages.",
+    "The counters introduced before here had different reading patterns, so does that mean you have to memorize each and every combination of number and counter? Thankfully not, but being able to use counters will still take some practice and memorization. Fortunately, there are pretty consistent rules you can learn to help you.",
+    "Look at the table below for an overview of the pronunciation changes that occur:",
+    "Actually, we have the same table in our article Getting Started with Japanese Counters ! We also talk about the pronunciation changes with 〜個（こ） and 〜匹（ひき） in that article, so if you aren't quite comfortable with the table here, check out that article as well!",
+    "You may have noticed this from the example sentences above, but counters typically appear directly or shortly before a verb.",
+    "Using the cat example from before, いる is the verb that means \"to exist\" for animate things, and 二匹（にひき） (two smaller animals) comes right before it. 4",
+    "This is the most common sentence pattern to use with counters, but not the only one. You can also use the particle の and say: 5",
+    "This の indicates that the word that comes before it is extra information for the following word. So 二匹（にひき）の ネコ expresses not just \"cats\" but \" two cats.\"",
+    "But wait a moment. The English translations of the earlier cat sentence and this cat sentence are the same. What makes each cat sentence unique?",
+    "In the literal translation, the first one ネコが 二匹（にひき） いる sounds like \"Cats, two of them, are there.\" So it feels like you are just talking about cats and there happen to be two of them.",
+    "On the other hand, the second one 二匹（にひき）のネコ がいる specifies the cats you're talking about as \"two cats\" first, and then states they're there, like \"(The) two cats are there.\" So it feels like you first became aware of the cats' number and regard them as a set of two (even if the cats may not actually know one another).",
+    "When discussing a random number of cats you found on the street, you can use these patterns interchangeably because the distinction only depends on your recognition or perception. However, there are times when one works better than the other.",
+    "For example, imagine you are at a stationary store. You find pens you like, so you tell the clerk:",
+    "In this situation, the first pattern sounds natural because you're asking for two pens from an arbitrary number of pens . The second one, on the other hand, expresses that you're asking for two collective pens , so it sounds a bit off unless the pens are sold as a set or you're stressing \"these two pens and not others.\"",
+    "So, does this mean the \"Number+Counter+の+Noun\" form is always used with plurals? Well, no. You can still use the pattern even when the number is \"one,\" but in this case, it would still sound like you're regarding the \"one unit\" as \"a whole.\"",
+    "What does that mean? To help you understand, take this example. Imagine your mom asks you to go to the convenience store to get a one-liter bottle of water:",
+    "In this situation, the first example may come across a bit unnatural because 水（みず） を 一（いち）リットル sounds like you're asking for \"one liter\" out of a larger arbitrary amount. As a result, it can imply that the water is sold by the measure, which doesn't suit the situation. 6 On the other hand, 一（いち）リットルの水（みず） suggests that the \"one liter\" is \"one whole unit,\" making the it more suitable in this context since your mom is asking for water in a one-liter container (rather than in a half-liter or two-liter bottle, for example).",
+    "But one liter of water is still an amount of water. What if you're talking about one single person or one single object, that can't be broken up? Well, in that case, the two patterns still have different meanings, like the earlier examples, but the difference becomes very subtle. This subtle difference is often used for literary effect in fiction.",
+    "For instance, to tell the story of a man who lives alone , you can either say:",
+    "In this example, the fact that one guy lived in the house is conveyed by both sentences. However, the first one 男（おとこ）が 一人（ひとり） 住（す）んでいた sounds like you're simply stating the number of men who happened to live in the house. On the other hand, 一人（ひとり）の男（おとこ） が住（す）んでいた sounds more specific and rigid. This is because, again, 一人（ひとり）の男（おとこ） indicates that you're singling out this one man as a complete, independent entity. In other words, it suggests that \"one certain man\" lived there, not just any old guy who happened to be alone.",
+    "Due to this difference in nuance, one may be chosen over the other for different effects, especially in storytelling. For example, 男（おとこ）が 一人（ひとり） 住（す）んでいた may be used when the author wants to just provide the information without emphasis. On the other hand, 一人（ひとり）の男（おとこ） が住（す）んでいた may be employed in order to pull the audience's attention more rapidly towards this specific man.",
+    "Linguistically, counters are also called \"numeral classifiers\" or \"numeral quantifiers.\" &#8617;",
+    "Although some claim that Japanese doesn't allow the application of numbers directly to nouns, there are cases that the noun words and counter words match, as in 二（に）階（かい） (two stories), 二（に）組（くみ） (two groups), 二（に）段階（だんかい） (two stages), and 二（に）ページ (two pages). This tends to happen when the noun words seem to be attributive to something else, rather than independent and self-contained. &#8617;",
+    "With most counters, you read 四（よん） as よん, but 人（ひと） is an oddball and 四（よん）人（にん） is read よにん — with no ん. &#8617;",
+    "The \"number+counter\" part of this pattern can occasionally be placed a little further away than immediately before a verb and come before the subject or the object. This happens when the speaker (or the writer) places more focus on the \"number\" of things they're talking about, either because they've just found out the number and are surprised at it or to direct the audience's attention to it. Imagine, for instance, that one day on your way to school you come across a cat in a cardboard box. You couldn't do anything at the time, but after school, you return to the place to check on the cat and make sure it's okay. But then, you discover there are two more cats. You might shout: あ、 二（に）匹（ひき） ネコが増（ふ）えてる! (Oh, two more cats!) Here, the ordinary sentence pattern is あ、ネコが 二（に）匹（ひき） 増（ふ）えてる and it works just fine. But the 二（に）匹（ひき） might be pronounced before ネコが if you're subconsciously focused on just how many more cats there are. &#8617;",
+    "Apart from the two patterns, there's also another pattern that combines the noun and the quantity together, like ネコ二（に）匹（ひき） がいる (There are two cats ). This use is similar to saying 二（に）匹（ひき）のネコ in the sense that you regard them collectively, but ネコ二（に）匹（ひき） has a more casual feel than 二（に）匹（ひき）のネコ . &#8617;",
+    "The particle を is often omitted in Japanese. So, 水（みず） を 一（いち）リットル 買（か）ってきて can be 水（みず）一（いち）リットル 買（か）ってきて. In this case, 水（みず）一（いち）リットル can also imply a collective unit (see 5 ), so the sentence becomes valid and natural. &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "ペンを 二本（にほん）買（か）う。",
+      "english": "l'll buy two pens."
+    },
+    {
+      "japanese": "本（ほん）を[❌ 二本（にほん）・⭕ 二冊（にさつ）]買（か）う。",
+      "english": "l'll buy two books."
+    },
+    {
+      "japanese": "ペンを 二（ふた）つ（ふたつ）買（か）う。",
+      "english": "l'll buy two pens."
+    },
+    {
+      "japanese": "本（ほん）を 二（ふた）つ（ふたつ）買（か）う。",
+      "english": "l'll buy two books."
+    },
+    {
+      "japanese": "ペンを 十二個（じゅうにこ）買（か）う。",
+      "english": "l'll buy twelve pens."
+    },
+    {
+      "japanese": "本（ほん）を 三十五個（さんじゅうごこ）買（か）う。",
+      "english": "l'll buy thirty-five books."
+    },
+    {
+      "japanese": "ミカンを 五（いつ）つ（いつ ）食（た）べた。",
+      "english": "l ate five oranges."
+    },
+    {
+      "japanese": "レンガが 六個（ろっこ）ある。",
+      "english": "There are six bricks."
+    },
+    {
+      "japanese": "女（おんな）の人（ひと）が 二人（ふたり）いる。",
+      "english": "There are two women."
+    },
+    {
+      "japanese": "男（おとこ）の人（ひと）が 三人（さんにん）いる。",
+      "english": "There are three men."
+    },
+    {
+      "japanese": "ネコが 二匹（にひき）いる。",
+      "english": "There are two cats."
+    },
+    {
+      "japanese": "ゾウが 三頭（さんとう）いる。",
+      "english": "There are three elephants."
+    },
+    {
+      "japanese": "ネコが 二匹（にひき）いる。",
+      "english": "There are two cats."
+    },
+    {
+      "japanese": "二匹（にひき）のネコがいる。",
+      "english": "There are two cats."
+    },
+    {
+      "japanese": "ネコが 二匹（にひき）いる。 二匹（にひき）のネコがいる。",
+      "english": "There are two cats."
+    },
+    {
+      "japanese": "⭕このペンを 二本（にほん）ください。 ❌この 二本（にほん）のペンをください。",
+      "english": "Two of these pens, please."
+    },
+    {
+      "japanese": "❓水（すい）を 一（いち）リットル買（か）ってきて。 ⭕ 一（いち）リットルの水（みず）を買（か）ってきて。",
+      "english": "Can you go get a one-liter bottle of water?"
+    },
+    {
+      "japanese": "その家（いえ）には、男（おとこ）が 一人（ひとり）住（す）んでいた。 その家（いえ）には、 一人（ひとり）の男（おとこ）が住（す）んでいた。",
+      "english": "There was one man who lived in the house."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Number",
+        "Kanji Number",
+        "WAGO",
+        "KANGO"
+      ],
+      [
+        "1",
+        "一（いち）",
+        "ひとつ, (ひ)",
+        "いち"
+      ],
+      [
+        "2",
+        "二（に）",
+        "ふたつ, (ふ)",
+        "に"
+      ],
+      [
+        "3",
+        "三（さん）",
+        "みっつ, (み)",
+        "さん"
+      ],
+      [
+        "4",
+        "四（よん）",
+        "よっつ, (よ)",
+        "し/よん"
+      ],
+      [
+        "5",
+        "五（ご）",
+        "いつつ, (い/いつ)",
+        "ご"
+      ],
+      [
+        "6",
+        "六（ろく）",
+        "むっつ, (む)",
+        "ろく"
+      ],
+      [
+        "7",
+        "七（なな）",
+        "ななつ, (な)",
+        "なな/しち"
+      ],
+      [
+        "8",
+        "八（はち）",
+        "やっつ, (や)",
+        "はち"
+      ],
+      [
+        "9",
+        "九（きゅう）",
+        "ここのつ, (こ)",
+        "きゅう"
+      ],
+      [
+        "10",
+        "十（じゅう）",
+        "とお",
+        "じゅう"
+      ]
+    ],
+    [
+      [
+        "Numeral",
+        "k-かきくけこきゃきゅきょ",
+        "s/sh-さしすせそしゃしゅしょ",
+        "t/ch-たちつてとちゃちゅちょ",
+        "h-はひへほひゃひゅひょ",
+        "f-ふ",
+        "p-ぱぴぷぺぽ",
+        "w-わ"
+      ],
+      [
+        "1 ichi",
+        "ikk-いっ+k-",
+        "iss-いっ+s/sh-",
+        "itt-いっ+t/ch-",
+        "ipp- いっ+p-",
+        "ipp- いっ+p-",
+        "ipp- いっ+p-"
+      ],
+      [
+        "3 san",
+        "sanb-さん+b-",
+        "sanp-さん+ p-",
+        "sanb- さん + ばsanw-さん+わ"
+      ],
+      [
+        "4 yon",
+        "yonh-よん+ h-yonp-よん+ p-",
+        "yonf- よん+f-yonp- よん+p-",
+        "yow- よ + わyonw-よん + わ yonb- よん + ば"
+      ],
+      [
+        "6 roku",
+        "rokk- ろっ+k-",
+        "ropp-ろっ+p-",
+        "ropp- ろっ+p-",
+        "ropp-ろっ+p",
+        "rokuw-ろく + わropp-ろっ + ぱ"
+      ],
+      [
+        "8 hachi",
+        "hakk-はっ+k-hachik-はち+k-",
+        "hass-はっ+s/sh-hachis-はち+s/sh-",
+        "hatt- はっ+t hachit-はち+t",
+        "happ-はっ+p-hachih-はち+h-",
+        "happ- はっ+p- hachif-はち+f-",
+        "happ- はっ+p-",
+        "happ- はっ + ぱ hachiw- はち + わ"
+      ],
+      [
+        "10 jū",
+        "jikk- じっ+k- jukk- じゅっ+k-",
+        "jiss- じっ+s/sh-juss-じゅっ+s/sh-",
+        "jitt- じっ+t- jutt-じゅっ+t-",
+        "jipp-じっ+p-jupp-じゅっ+p-",
+        "jipp-じっ+p-jupp- じゅっ+p-",
+        "jipp-じっ+p-jupp-じゅっ+p-",
+        "jipp-じっ + ぱjupp-じゅっ + ぱjuuwa-wじゅう+わ"
+      ],
+      [
+        "100 hyaku",
+        "hyakk- ひゃっ+k-",
+        "hyapp- ひゃっ+p-",
+        "hyapp- ひゃっ+p",
+        "hyapp-ひゃっ+p-",
+        "hyapp- ひゃっ+ぱhyakuw-ひゃくわ"
+      ],
+      [
+        "1000 sen",
+        "senb-せん+b-",
+        "senp- せん+p-",
+        "senb-せん + ばsenw-せん+わ"
+      ],
+      [
+        "10000 man",
+        "manb- まん+b-",
+        "manp- まん+p-",
+        "manb-まん+ば manb-まん+わ"
+      ],
+      [
+        "何（なに） nan",
+        "nanb- なん+b-",
+        "nanp- なん+p-"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "counting-numbers",
+      "text": "Counting Numbers"
+    },
+    {
+      "level": 3,
+      "id": "counters",
+      "text": "Counters"
+    },
+    {
+      "level": 4,
+      "id": "what-are-counters",
+      "text": "What Are Counters?"
+    },
+    {
+      "level": 4,
+      "id": "counters-for-things",
+      "text": "〜つ/〜個: Counters for Things"
+    },
+    {
+      "level": 4,
+      "id": "counters-for-people",
+      "text": "〜人: Counters for People"
+    },
+    {
+      "level": 4,
+      "id": "counters-for-animals",
+      "text": "〜匹/頭: Counters for Animals"
+    },
+    {
+      "level": 4,
+      "id": "reading-patterns-with-counters",
+      "text": "Reading Patterns with Counters"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "sentence-patterns-with-counters",
+      "text": "Sentence Patterns with Counters"
+    },
+    {
+      "level": 4,
+      "id": "literary-effect-of-sentence-patterns-with-counters",
+      "text": "Literary Effect of Sentence Patterns with Counters"
+    }
+  ],
+  "id": 13,
+  "slug": "numbers-and-counters",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/numbers-and-counters/",
+  "categories": [
+    "Suffix"
+  ]
+}

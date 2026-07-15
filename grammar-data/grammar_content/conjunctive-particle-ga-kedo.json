@@ -1,0 +1,326 @@
+{
+  "title": "Conjunctive Particles が・けど",
+  "description": "Conjunctive particles が and けど are often used in a similar way to the English word \"but.\" Additionally, they can be used to link context to whatever comes next.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conjunctive particles が and けど are similar to \"but\" in English — they connect two contrasting sentences."
+    },
+    {
+      "type": "example",
+      "japanese": "白（しろ）ワインは好（す）きですが、赤（あか）ワインはあまり好（す）きではないです。",
+      "english": "I like white wine but I am not a big fan of red wine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Easy so far? Here's the catch. Unlike \"but\" in English, が and けど can also be used simply to provide context to what you're about to say. For example, when you're asking someone a favor, you can use が to provide the context behind your request when it might come off as out of the blue otherwise."
+    },
+    {
+      "type": "example",
+      "japanese": "ペン持（も）ってないんだけど、貸（か）してくれない？",
+      "english": "I don't have a pen with me. Can you lend me one?"
+    },
+    {
+      "type": "paragraph",
+      "text": "が and けど work in pretty much the same way, but the difference is that が carries a more formal nuance, while けど feels more colloquial. が is overall more suitable for writing, but is still used in conversation, combined with the polite form ( です / ます style)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "connecting-sentences",
+      "text": "Connecting Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most typical use of が and けど as conjunctive particles is to connect sentences. Let's take a look at the previous example, but this time, with brackets that mark the clauses (sentences inside a sentence) so it's extra clear."
+    },
+    {
+      "type": "example",
+      "japanese": "[ロウソクを付（つ）けた] が [キッチンはまだ暗（くら）い]。 [ロウソクを付（つ）けた] けど [キッチンはまだ暗（くら）い]。",
+      "english": "[I lit candles] but [the kitchen is still dark]."
+    },
+    {
+      "type": "paragraph",
+      "text": "See how が and けど are connecting two sentences? This is how a conjunctive particle works."
+    },
+    {
+      "type": "paragraph",
+      "text": "The only thing to watch out for is that な-adjectives and nouns can't be attached to が or けど on their own, and always need だ or です, as in だが, ですが, だけど, and ですけど. For example, using the noun 夏（なつ） (summer), you can say something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "[夏（なつ）です] が [今日（きょう）は涼（すず）しいです]。 [夏（なつ）だ] けど [今日（きょう）は涼（すず）しい]。",
+      "english": "[It's summer] but [it's cool today]."
+    },
+    {
+      "type": "paragraph",
+      "text": "The same goes for な-adjectives. For example, using the な-adjective しずか (quiet), you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "[夜（よる）は静（しず）かです] が [昼（ひる）はうるさいです]。 [夜（よる）は静（しず）かだ] けど [昼（ひる）はうるさい]。",
+      "english": "[It's quiet at night] but [it's loud during the day]."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-contrast",
+      "text": "が and けど for Contrast"
+    },
+    {
+      "type": "paragraph",
+      "text": "Like we covered earlier, the most typical use of が and けど is to illustrate ideas that contrast, like \"but\" does in English."
+    },
+    {
+      "type": "example",
+      "japanese": "母（かあ）さんはコンサートに来（き）たが、姉（あね）は来（こ）なかった。",
+      "english": "My mother came to the concert, but my older sister didn't."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's another example. When it's raining, you might not normally expect to see children playing outside, but most kids can't resist a good puddle! So what if your kids love to get muddy and wet? が and けど can be used to illustrate such situations — where you want to highlight that what follows is contradictory to what comes before."
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）が降（ふ）っているけど、子供（こども）たちは外（そと）で遊（あそ）んでいる。",
+      "english": "It's raining, but the children are playing outside."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-providing-context",
+      "text": "が and けど for Providing Context"
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to connecting contrasting ideas, が and けど are often used to add context to what you're about to say."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, you're at a convenience store with your boss during a break. You realize that you left your wallet at the office and want to borrow some money from him. In this case, you might say something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "財布（さいふ）を忘（わす）れてしまったんですが、５００円（えん）貸（か）してもらえませんか？",
+      "english": "I forgot to bring my wallet. Would you lend me 500 yen?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you cut straight to the point and say \"Would you lend me 500 yen?\" your boss would probably feel the need to ask why you need it. This can be avoided by providing context before making your request. In other words, it's a thoughtful gesture to use が and explain why you're asking them a favor instead of just asking outright."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also have noticed that が and けど follow んです or んだ. Since んです and んだ are used for providing explanations, they are a good match — you'll often see them paired up with が and けど."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "variations-of-",
+      "text": "Variations of けど"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although they're less common than けど, you may sometimes run into these variants of けど: けれども, けども, and けれど."
+    },
+    {
+      "type": "paragraph",
+      "text": "In fact, けれども is the original form, and the others are its short forms. They're all still colloquial, especially compared to が, but they contain different levels of formality — けれども has the highest level of formality, followed in order by けども, けれど, and けど."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--at-the-end-of-sentences",
+      "text": "が and けど at The End of Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though I explained earlier that conjunctive particles are used to connect two sentences, you might sometimes see が and けど at the end of a sentence, not followed by anything. This actually happens with all conjunctive particles in Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "Using が or けど at the end of a sentence can create different effects like giving the listener flexibility in how to respond, or making what you've said sound like an afterthought, sounding less confrontational, expressing uncertainty, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "A typical example of this is when you're making a reservation."
+    },
+    {
+      "type": "example",
+      "japanese": "もしもし。予約（よやく）したいんですけど…。",
+      "english": "Hello. I'd like to make a reservation…"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you use けど to add context and end a sentence, you can open up the possibility of how the listener can respond. This is commonly used for making requests, asking for permission, extending an invitation, asking someone for a favor, and more."
+    },
+    {
+      "type": "paragraph",
+      "text": "What けど is doing here is providing the context, which is that you want to make a reservation. However, since けど ends the sentence, what it's missing is what the context is leading to, which could be a request like \"Can I book a table for two tonight?\" or a question like \"Is there any availability?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "By pausing at けど and not saying anything after that, you're not specifying what exactly you're asking for. Rather, you're leaving it vague so that the listener can respond to you in a way that's convenient for them. Instead of specifying your request to achieve the goal of making a reservation, you're implying that you want the staff to decide the next move to make it happen."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, in response to the phrase 予約（よやく）したいんですけど, the restaurant staff have the freedom to choose how to respond, like \"What date?\" or \"How many guests?\" etc. depending on how they want to handle the reservation process going forward — So in a way, this is a considerate way of communicating."
+    },
+    {
+      "type": "paragraph",
+      "text": "Like I mentioned earlier, there are more effects that が and けど can create. To explore more, check out Kanae's article Kedo: Why Do Japanese People End Sentences with \"But\"…?"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Conjunctive particles が and けど are similar to \"but\" in English — they connect two contrasting sentences.",
+    "Easy so far? Here's the catch. Unlike \"but\" in English, が and けど can also be used simply to provide context to what you're about to say. For example, when you're asking someone a favor, you can use が to provide the context behind your request when it might come off as out of the blue otherwise.",
+    "が and けど work in pretty much the same way, but the difference is that が carries a more formal nuance, while けど feels more colloquial. が is overall more suitable for writing, but is still used in conversation, combined with the polite form ( です / ます style).",
+    "The most typical use of が and けど as conjunctive particles is to connect sentences. Let's take a look at the previous example, but this time, with brackets that mark the clauses (sentences inside a sentence) so it's extra clear.",
+    "See how が and けど are connecting two sentences? This is how a conjunctive particle works.",
+    "The only thing to watch out for is that な-adjectives and nouns can't be attached to が or けど on their own, and always need だ or です, as in だが, ですが, だけど, and ですけど. For example, using the noun 夏（なつ） (summer), you can say something like:",
+    "The same goes for な-adjectives. For example, using the な-adjective しずか (quiet), you can say:",
+    "Like we covered earlier, the most typical use of が and けど is to illustrate ideas that contrast, like \"but\" does in English.",
+    "Here's another example. When it's raining, you might not normally expect to see children playing outside, but most kids can't resist a good puddle! So what if your kids love to get muddy and wet? が and けど can be used to illustrate such situations — where you want to highlight that what follows is contradictory to what comes before.",
+    "In addition to connecting contrasting ideas, が and けど are often used to add context to what you're about to say.",
+    "For example, you're at a convenience store with your boss during a break. You realize that you left your wallet at the office and want to borrow some money from him. In this case, you might say something like:",
+    "If you cut straight to the point and say \"Would you lend me 500 yen?\" your boss would probably feel the need to ask why you need it. This can be avoided by providing context before making your request. In other words, it's a thoughtful gesture to use が and explain why you're asking them a favor instead of just asking outright.",
+    "You may also have noticed that が and けど follow んです or んだ. Since んです and んだ are used for providing explanations, they are a good match — you'll often see them paired up with が and けど.",
+    "Although they're less common than けど, you may sometimes run into these variants of けど: けれども, けども, and けれど.",
+    "In fact, けれども is the original form, and the others are its short forms. They're all still colloquial, especially compared to が, but they contain different levels of formality — けれども has the highest level of formality, followed in order by けども, けれど, and けど.",
+    "Even though I explained earlier that conjunctive particles are used to connect two sentences, you might sometimes see が and けど at the end of a sentence, not followed by anything. This actually happens with all conjunctive particles in Japanese.",
+    "Using が or けど at the end of a sentence can create different effects like giving the listener flexibility in how to respond, or making what you've said sound like an afterthought, sounding less confrontational, expressing uncertainty, etc.",
+    "A typical example of this is when you're making a reservation.",
+    "When you use けど to add context and end a sentence, you can open up the possibility of how the listener can respond. This is commonly used for making requests, asking for permission, extending an invitation, asking someone for a favor, and more.",
+    "What けど is doing here is providing the context, which is that you want to make a reservation. However, since けど ends the sentence, what it's missing is what the context is leading to, which could be a request like \"Can I book a table for two tonight?\" or a question like \"Is there any availability?\"",
+    "By pausing at けど and not saying anything after that, you're not specifying what exactly you're asking for. Rather, you're leaving it vague so that the listener can respond to you in a way that's convenient for them. Instead of specifying your request to achieve the goal of making a reservation, you're implying that you want the staff to decide the next move to make it happen.",
+    "So, in response to the phrase 予約（よやく）したいんですけど, the restaurant staff have the freedom to choose how to respond, like \"What date?\" or \"How many guests?\" etc. depending on how they want to handle the reservation process going forward — So in a way, this is a considerate way of communicating.",
+    "Like I mentioned earlier, there are more effects that が and けど can create. To explore more, check out Kanae's article Kedo: Why Do Japanese People End Sentences with \"But\"…?"
+  ],
+  "examples": [
+    {
+      "japanese": "白（しろ）ワインは好（す）きですが、赤（あか）ワインはあまり好（す）きではないです。",
+      "english": "I like white wine but I am not a big fan of red wine."
+    },
+    {
+      "japanese": "ペン持（も）ってないんだけど、貸（か）してくれない？",
+      "english": "I don't have a pen with me. Can you lend me one?"
+    },
+    {
+      "japanese": "[ロウソクを付（つ）けた] が [キッチンはまだ暗（くら）い]。 [ロウソクを付（つ）けた] けど [キッチンはまだ暗（くら）い]。",
+      "english": "[I lit candles] but [the kitchen is still dark]."
+    },
+    {
+      "japanese": "[夏（なつ）です] が [今日（きょう）は涼（すず）しいです]。 [夏（なつ）だ] けど [今日（きょう）は涼（すず）しい]。",
+      "english": "[It's summer] but [it's cool today]."
+    },
+    {
+      "japanese": "[夜（よる）は静（しず）かです] が [昼（ひる）はうるさいです]。 [夜（よる）は静（しず）かだ] けど [昼（ひる）はうるさい]。",
+      "english": "[It's quiet at night] but [it's loud during the day]."
+    },
+    {
+      "japanese": "母（かあ）さんはコンサートに来（き）たが、姉（あね）は来（こ）なかった。",
+      "english": "My mother came to the concert, but my older sister didn't."
+    },
+    {
+      "japanese": "雨（あめ）が降（ふ）っているけど、子供（こども）たちは外（そと）で遊（あそ）んでいる。",
+      "english": "It's raining, but the children are playing outside."
+    },
+    {
+      "japanese": "財布（さいふ）を忘（わす）れてしまったんですが、５００円（えん）貸（か）してもらえませんか？",
+      "english": "I forgot to bring my wallet. Would you lend me 500 yen?"
+    },
+    {
+      "japanese": "もしもし。予約（よやく）したいんですけど…。",
+      "english": "Hello. I'd like to make a reservation…"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "connecting-sentences",
+      "text": "Connecting Sentences"
+    },
+    {
+      "level": 3,
+      "id": "and--for-contrast",
+      "text": "が and けど for Contrast"
+    },
+    {
+      "level": 3,
+      "id": "and--for-providing-context",
+      "text": "が and けど for Providing Context"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "variations-of-",
+      "text": "Variations of けど"
+    },
+    {
+      "level": 3,
+      "id": "and--at-the-end-of-sentences",
+      "text": "が and けど at The End of Sentences"
+    }
+  ],
+  "id": 8,
+  "slug": "conjunctive-particle-ga-kedo",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/conjunctive-particle-ga-kedo/",
+  "categories": [
+    "Particle"
+  ]
+}

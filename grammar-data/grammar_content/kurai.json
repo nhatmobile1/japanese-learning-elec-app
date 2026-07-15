@@ -1,0 +1,740 @@
+{
+  "title": "くらい",
+  "description": "くらい (or ぐらい) signifies approximation. It follows another word or phrase and indicates that something is around a certain amount or level.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "In its most basic use, くらい (or sometimes ぐらい) can be paired with the quantity, size, or time period of something, and it adds the meaning of \"approximately.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's say that for your birthday party a friend is going to prepare some hamburgers. When they ask how many patties you think they should prepare, you say around fifty. To say that, ５０個（こ） and くらい can be used together as follows:"
+    },
+    {
+      "type": "example",
+      "japanese": "５０個（こ）くらい。",
+      "english": "About fifty."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your friend says okay, and also asks you about the size of each burger. If you think it should be roughly 10cm in diameter, you can use 直径（ちょっけい）１０センチ with くらい and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "直径（ちょっけい）１０センチくらい。",
+      "english": "Roughly 10cm in diameter."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then, you ask your friend as to how long they think it will take to prepare that many patties. They estimate that it will take around four hours. In this case, ４時間（じかん） can be used with くらい, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "４時間（じかん）くらい。",
+      "english": "Around four hours."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike those hamburgers, learning about the basic uses of くらい should take no time at all."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are a lot of different uses with くらい, but we'll stick to the essentials on this page. If you're new to くらい, read on and see what's in store!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "amount---for-approximate-quantity",
+      "text": "Amount + くらい for \"Approximate Quantity\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You already know that くらい means \"approximately\" when it comes after an amount of time, a number of items, or the size of something. And the amount or the size doesn't always have to be specified with a certain number. You can also use words like 半分（はんぶん） (half) or 同（おな）じ (the same)."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, consider a situation where your friend lends you a novel and then asks how much you've read a week later. If you've read about half, you can use 半分（はんぶん） with くらい and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "半分（はんぶん）くらい。",
+      "english": "About half."
+    },
+    {
+      "type": "paragraph",
+      "text": "What if you've read only about half of chapter one? In this case, you can link 第（だい）一（いち）章（しょう） and 半分（はんぶん） with the particle の and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "第（だい）一（いち）章（しょう）の半分（はんぶん）くらい。",
+      "english": "About half of chapter one."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other ways to say \"about half\" include 〜の５０％くらい (about 50%) and 〜の二（に）分（ぶん）の一（いち）くらい (about ½)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's imagine you also lent a book to a friend a week ago and now you're asking them (in the same conversation), \"What about you? How much of it have you read?\" If they've read about half of it as well, they can combine 同（おな）じ and くらい to say:"
+    },
+    {
+      "type": "example",
+      "japanese": "同（おな）じくらい。",
+      "english": "About the same (as you)."
+    },
+    {
+      "type": "paragraph",
+      "text": "How simple! Now, you might be wondering how you can add \"a point of comparison,\" as in \"the same as…\" but we'll talk about this in the later section ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "timedate---for-approximate-point-in-time",
+      "text": "Time/Date + くらいに for \"Approximate Point in Time\""
+    },
+    {
+      "type": "paragraph",
+      "text": "くらい can also follow the word that indicates a time or date. Let's imagine you're planning a get-together with your buddies at your house. When they ask what time they should come, you ask them to come at about 6 p.m. In this case, you can use 六（ろく）時（じ） with くらい:"
+    },
+    {
+      "type": "example",
+      "japanese": "六（ろく）時（じ）くらいに来（き）て。",
+      "english": "Come over at around six o'clock."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even after adding くらい, keep in mind that you'll still need to mark the approximate time with the particle に , which signifies a point in time. Also, when くらい is used with a point in time, it can be replaced with the word 頃（ころ）, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "六（ろく）時（じ）頃（ごろ）に来（き）て。",
+      "english": "Come over at around six o'clock."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at a different scenario. Assume you're planning a trip to Japan in March. In this situation, 三月（さんがつ） and くらい can be used together, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "三月（さんがつ）くらいに日本（にっぽん）に行（い）く予定（よてい）です。",
+      "english": "I'm planning to go to Japan around March."
+    },
+    {
+      "type": "paragraph",
+      "text": "The point in time marked by くらい doesn't have to be precise. If your plan to go to Japan is maybe for next year, you can say 来年（らいねん）くらい (around next year). If it's spring, you can say 春（はる）くらい (around spring). And if it's in about six months from now, you can say 半年（はんとし）後（ご）くらい (in around six months)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "placement-of--with-",
+      "text": "Placement of くらい with 後/前"
+    },
+    {
+      "type": "paragraph",
+      "text": "半年（はんとし）後（ご）くらい is better suited for future plans and means something like \"in about six months.\" 半年（はんとし）くらい後（のち）, on the other hand, is a bit closer to \"after about six months\" — it sounds more natural when describing past events that are already finished. This difference in nuance is slight but good to know!"
+    },
+    {
+      "type": "example",
+      "japanese": "半年（はんとし）後（ご）くらいに日本（にっぽん）に行（い）く予定（よてい）です。",
+      "english": "I'm planning to go to Japan in about half a year."
+    },
+    {
+      "type": "example",
+      "japanese": "去年（きょねん）の３月（さんがつ）に日本（にっぽん）に行（い）きました。そして、半年（はんとし）くらい後（のち）に、アメリカに帰（かえ）りました。",
+      "english": "I went to Japan last March. And after about six months, I went back to America."
+    },
+    {
+      "type": "paragraph",
+      "text": "When 前（まえ） (before/earlier) is used instead of 後（ご） (later), as in 半年（はんとし）前（まえ）くらい or 半年（はんとし）くらい前（ぜん）, the distinction between the two is almost negligible because they both refer to the past, which is \"about six months ago.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "However, there is a very tiny difference! In Japanese, the meaning of what comes later in a statement is generally prioritized. So in 半年（はんとし）前（まえ）くらい, the \"approximately\" meaning of くらい is a little stronger. It sounds hazier, like you're less certain about when something took place. 半年（はんとし）くらい前（まえ） is still an approximation, but it sounds a little more confident about the timeframe. The difference is so small that you can also just go with your personal preference, though, so don't sweat it!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "words---for-approximate-amountlevel",
+      "text": "こそあど Words + くらい for \"Approximate Amount/Level\""
+    },
+    {
+      "type": "paragraph",
+      "text": "It's also common to use くらい with some こそあど words , such as これ (this one), それ (that one), and あれ (that one over there), or この (this…), その (that…), and あの (that…over there). When くらい is used with them, it means \"about this/that much.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's check out a few examples. Imagine you're shooting a cooking show in which the chef demonstrates how much milk to pour into a bowl while saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "[これ・この] くらい入（い）れてください。",
+      "english": "Pour in about this much."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, これ or この refers to the amount of milk he poured in and くらい indicates it's close to that amount."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then, his assistant also pours some milk into her bowl and asks him if it's the right amount. He answers:"
+    },
+    {
+      "type": "example",
+      "japanese": "ええ、[それ・その] くらいです。",
+      "english": "Yeah, about that much."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, he switches これ/この to それ/その because now it's referring to the amount of milk his assistant poured in. In general, words that begin with そ are used for things that are further from the speaker and/or closer to the listener."
+    },
+    {
+      "type": "paragraph",
+      "text": "The こそあ words can also refer to the \"extent\" of something. For example, let's say the chef asks his assistant to crack an egg into the bowl, but somehow she misses and makes a mess. While the video camera is on the chef is all smiles, but after the filming is finished he yells at his assistant, saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "[あれ・あの] くらいできるようになってください。",
+      "english": "You should at least be able to do that kind of thing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, あれ or あの refers to the earlier action of cracking an egg, and くらい indicates that the assistant should be able to do at least that much. Just like this example, くらい can denote the approximate level of a minimum requirement. This use of くらい is discussed more in Beyond the Basics."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "question-word---for-about-how-muchmany",
+      "text": "Question word + くらい for \"About How Much/Many?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "くらい can also be used with question words , such as どの (which) or どれ (which), to ask approximately \"how much,\" \"how many,\" or \"how long.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's imagine you're out shopping with your boss for beer and munchies for a drinking party. To make small talk, you ask them how much alcohol they typically drink. In this situation, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "いつもどのくらいお酒（さけ）を飲（の）みますか。",
+      "english": "(About) how much alcohol do you usually drink?"
+    },
+    {
+      "type": "paragraph",
+      "text": "どのくらい and どれくらい are a handy question word because, unlike \"how much\" in English, which is reserved for uncountable nouns such as alcohol, どのくらい and どれくらい can be used regardless of whether the related noun is countable or uncountable. For example, if you also ask about how many munchies you should purchase, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "おつまみ、どれくらい買（か）いましょうか。",
+      "english": "(About) how many munchies should we buy?"
+    },
+    {
+      "type": "paragraph",
+      "text": "どのくらい and どれくらい are also used for questions about amounts of time (how much time). For example, if there's a big queue at the cash register and you're wondering how long it'll take for you to pay, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "どのくらいかかりますかね。",
+      "english": "I wonder (about) how long it'll take…"
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you're wondering how much the bill will amount to, you can use どのくらい and どれくらい again. But since you're talking about money, you can even combine いくら (how much money) and くらい:"
+    },
+    {
+      "type": "example",
+      "japanese": "お会計（かいけい）、いくらくらいかかりますかね。",
+      "english": "I wonder (about) how much it'll cost…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, if you're wondering when you'll be able to return to the party venue, you can combine いつ (when) and ぐらい and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "いつぐらいに帰（かえ）れますかね。",
+      "english": "I wonder (around) when we can go back home."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why suddenly ぐらい instead of くらい? You can also use くらい here, but it's just more common to use ぐらい with いつ. Think of them as a set. That's all!"
+    },
+    {
+      "type": "paragraph",
+      "text": "All of the above inquiries allow you to ask questions without being too particular. If you're waiting for the bus with a friend and say どれくらいかかるかな, for example, it might not be clear whether you're talking about the bus fare or about how long the ride will be."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if you want to be more explicit about what you're inquiring about, you may use a combination of the prefix 何（なに） and a counter . And of course, くらい can follow the 何（なに）+counter to add a sense of approximation as well."
+    },
+    {
+      "type": "example",
+      "japanese": "おつまみ、何（なん）個（こ）くらい買（か）いましょうか。",
+      "english": "(About) how many munchies should we buy?"
+    },
+    {
+      "type": "example",
+      "japanese": "何分（なにぶん）くらいかかりますかね。",
+      "english": "I wonder (about) how many minutes it'll take…"
+    },
+    {
+      "type": "example",
+      "japanese": "お会計（かいけい）、何（なん）円（えん）くらいかかりますかね。",
+      "english": "I wonder (about) how much it'll cost…"
+    },
+    {
+      "type": "example",
+      "japanese": "何（なん）時（じ）くらいに帰（かえ）れますかね。",
+      "english": "I wonder (around) what time we can go back home."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-almost-the-same-as",
+      "text": "〜くらい for \"Almost the Same As…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You already know how to say \"almost the same\" with 同（おな）じくらい from an earlier section , but we haven't talked about how you can specify who or what you're comparing something with. So, how can we do that?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can mark the point of comparison by using the particle と , as in 〜と同（おな）じくらい."
+    },
+    {
+      "type": "example",
+      "japanese": "ケンと同（おな）じくらい。",
+      "english": "About the same as Ken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Easy, huh? However, there is one little thing to discuss here. When making comparisons, 〜と同（おな）じ can be omitted and くらい can directly attach to someone's name or the point of comparison."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, say your friend asks you how tall your brother is. You think your brother's height is roughly the same as a classmate called Ken. To say that, instead of saying ケンと同（どう）くらいだよ, you can omit 〜と同（おな）じ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ケンくらいだよ。",
+      "english": "He's around the same height as Ken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, if you're somehow referring to the size of a ball being comparable to that of an avocado, you can say."
+    },
+    {
+      "type": "example",
+      "japanese": "ボールの大（おお）きさは、アボカドくらいだよ。",
+      "english": "The size of the ball is basically the same as an avocado."
+    },
+    {
+      "type": "paragraph",
+      "text": "This omission of 〜と同（おな）じ is especially prevalent when you compare yourself to others. For instance, suppose your friend Maya speaks Japanese fluently and you wish you could speak it as well as she does. In this case, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "マヤくらい日本語（にほんご）が話（はな）せたらいいのにな。",
+      "english": "I wish I could speak Japanese as well as Maya."
+    },
+    {
+      "type": "paragraph",
+      "text": "This pattern is also commonly used to explain how someone or something possesses a specific level of something. In this scenario, the particle の can be used to connect (〜と同（おな）じ)くらい with the thing you're talking about."
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にっぽん）（と同（おな）じ）くらいの物価（ぶっか）だともっと暮（く）らしやすいだろう。",
+      "english": "It would be more liveable if the cost of living were (about) the same as in Japan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-at-least",
+      "text": "〜くらい for \"At Least…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "We briefly discussed this in the こそあど words + くらい section , but くらい can also mean \"at least.\" In this use, くらい marks something easy or trivial and suggests that it's a minimum level that should be attained."
+    },
+    {
+      "type": "paragraph",
+      "text": "Assume a friend asks if you can make pancakes. You know how to make pancakes, even if you don't know how to cook many other things. In this situation, you can mark パンケーキ (pancake) with くらい and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "パンケーキくらいなら作（つく）れるよ。",
+      "english": "I can at least make pancakes."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this situation, くらい indicates that pancakes are a simple dish to prepare and pose no problem to your cooking skills."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at a different scenario. Imagine having a roommate that despises doing housework. You believe they should clean the dishes that they have used — at the very least. In this case, you can combine 自分（じぶん）の洗（あら）い物（もの） (your own dishes) and くらい and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）の洗（あら）い物（もの）くらいは自分（じぶん）でしてよ！",
+      "english": "You should at least wash your own dishes!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Are you getting a sense of how くらい is used in this scenario? Because of this nuance, you can use くらい with 〜しか〜ない to say what you do is something of little value or difficulty. For example, if all you can make is pancakes, you can use くらい and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "パンケーキくらいしか作（つく）れないんだよね。",
+      "english": "The best/most I can do is pancakes."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, くらい denotes the same thing, which is the approximate level of the skill required to make pancakes. In this case, however, it often translates to \"at most\" or \"at best\" rather than \"at least,\" because you're modestly claiming that that's the limit of your cooking skill."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "difference-between--and-",
+      "text": "Difference Between くらい and ほど"
+    },
+    {
+      "type": "paragraph",
+      "text": "くらい and ほど are similar words as both can be used to indicate an approximate amount or level of something. When they're used with an amount of something, the difference is the level of formality — くらい is casual and ほど is formal. For example, if your friend is asking if you can bake fifty cookies by tonight, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "クッキー５０個（こ）くらいなら作（つく）れると思（おも）う。",
+      "english": "I think I can make them if it's about fifty cookies."
+    },
+    {
+      "type": "paragraph",
+      "text": "くらい is more appropriate in this situation because it is more natural in casual speech, like when you are talking to a friend. However, what if a customer at your cookie shop is requesting that you make the cookies?"
+    },
+    {
+      "type": "example",
+      "japanese": "クッキー５０個（こ）ほどなら作（つく）れると思（おも）います。",
+      "english": "I think I can make them if it's about fifty cookies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though くらい can still be used in semi-formal situations, ほど is a more presentable and professional-sounding option here."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, くらい and ほど aren't always interchangeable because there's another difference than the level of formality. That is, くらい expresses an approximate lower bound while ほど expresses an approximate upper bound. Let's do an experiment to demonstrate what this means. Let's carry on with the previous examples, but this time, you are using これくらい and これほど to refer to the amount of cookies instead of saying the number:"
+    },
+    {
+      "type": "example",
+      "japanese": "これくらいなら作（つく）れると思（おも）う。",
+      "english": "I think I can make them if it's about this much."
+    },
+    {
+      "type": "example",
+      "japanese": "❌ これほどなら作（つく）れると思（おも）います。",
+      "english": "I think I can make them if it's about that much."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since くらい implies the lower bound of what you're able to do, it's appropriate here and sounds like making fifty cookies should be no trouble — you're an experienced baker after all. But since ほど is used to express upper limits, it suggests there may be some difficulty (or impossibility) with the amount in question, so it clashes with the なら、作（つく）れる part that follows (if it's…, I can…). On the other hand, ほど works better when highlighting how much someone else can do, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "これほどの量（りょう）が作（つく）れるんですか！？",
+      "english": "You can make this much!?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep in mind that ほど still carries a formal tone, and it can sound excessive in praise and come off as a little odd in casual conversation."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "In its most basic use, くらい (or sometimes ぐらい) can be paired with the quantity, size, or time period of something, and it adds the meaning of \"approximately.\"",
+    "Let's say that for your birthday party a friend is going to prepare some hamburgers. When they ask how many patties you think they should prepare, you say around fifty. To say that, ５０個（こ） and くらい can be used together as follows:",
+    "Your friend says okay, and also asks you about the size of each burger. If you think it should be roughly 10cm in diameter, you can use 直径（ちょっけい）１０センチ with くらい and say:",
+    "Then, you ask your friend as to how long they think it will take to prepare that many patties. They estimate that it will take around four hours. In this case, ４時間（じかん） can be used with くらい, like:",
+    "Unlike those hamburgers, learning about the basic uses of くらい should take no time at all.",
+    "There are a lot of different uses with くらい, but we'll stick to the essentials on this page. If you're new to くらい, read on and see what's in store!",
+    "You already know that くらい means \"approximately\" when it comes after an amount of time, a number of items, or the size of something. And the amount or the size doesn't always have to be specified with a certain number. You can also use words like 半分（はんぶん） (half) or 同（おな）じ (the same).",
+    "For example, consider a situation where your friend lends you a novel and then asks how much you've read a week later. If you've read about half, you can use 半分（はんぶん） with くらい and say:",
+    "What if you've read only about half of chapter one? In this case, you can link 第（だい）一（いち）章（しょう） and 半分（はんぶん） with the particle の and say:",
+    "Other ways to say \"about half\" include 〜の５０％くらい (about 50%) and 〜の二（に）分（ぶん）の一（いち）くらい (about ½).",
+    "Let's imagine you also lent a book to a friend a week ago and now you're asking them (in the same conversation), \"What about you? How much of it have you read?\" If they've read about half of it as well, they can combine 同（おな）じ and くらい to say:",
+    "How simple! Now, you might be wondering how you can add \"a point of comparison,\" as in \"the same as…\" but we'll talk about this in the later section .",
+    "くらい can also follow the word that indicates a time or date. Let's imagine you're planning a get-together with your buddies at your house. When they ask what time they should come, you ask them to come at about 6 p.m. In this case, you can use 六（ろく）時（じ） with くらい:",
+    "Even after adding くらい, keep in mind that you'll still need to mark the approximate time with the particle に , which signifies a point in time. Also, when くらい is used with a point in time, it can be replaced with the word 頃（ころ）, like:",
+    "Let's take a look at a different scenario. Assume you're planning a trip to Japan in March. In this situation, 三月（さんがつ） and くらい can be used together, like:",
+    "The point in time marked by くらい doesn't have to be precise. If your plan to go to Japan is maybe for next year, you can say 来年（らいねん）くらい (around next year). If it's spring, you can say 春（はる）くらい (around spring). And if it's in about six months from now, you can say 半年（はんとし）後（ご）くらい (in around six months).",
+    "半年（はんとし）後（ご）くらい is better suited for future plans and means something like \"in about six months.\" 半年（はんとし）くらい後（のち）, on the other hand, is a bit closer to \"after about six months\" — it sounds more natural when describing past events that are already finished. This difference in nuance is slight but good to know!",
+    "When 前（まえ） (before/earlier) is used instead of 後（ご） (later), as in 半年（はんとし）前（まえ）くらい or 半年（はんとし）くらい前（ぜん）, the distinction between the two is almost negligible because they both refer to the past, which is \"about six months ago.\"",
+    "However, there is a very tiny difference! In Japanese, the meaning of what comes later in a statement is generally prioritized. So in 半年（はんとし）前（まえ）くらい, the \"approximately\" meaning of くらい is a little stronger. It sounds hazier, like you're less certain about when something took place. 半年（はんとし）くらい前（まえ） is still an approximation, but it sounds a little more confident about the timeframe. The difference is so small that you can also just go with your personal preference, though, so don't sweat it!",
+    "It's also common to use くらい with some こそあど words , such as これ (this one), それ (that one), and あれ (that one over there), or この (this…), その (that…), and あの (that…over there). When くらい is used with them, it means \"about this/that much.\"",
+    "Let's check out a few examples. Imagine you're shooting a cooking show in which the chef demonstrates how much milk to pour into a bowl while saying:",
+    "In this case, これ or この refers to the amount of milk he poured in and くらい indicates it's close to that amount.",
+    "Then, his assistant also pours some milk into her bowl and asks him if it's the right amount. He answers:",
+    "Here, he switches これ/この to それ/その because now it's referring to the amount of milk his assistant poured in. In general, words that begin with そ are used for things that are further from the speaker and/or closer to the listener.",
+    "The こそあ words can also refer to the \"extent\" of something. For example, let's say the chef asks his assistant to crack an egg into the bowl, but somehow she misses and makes a mess. While the video camera is on the chef is all smiles, but after the filming is finished he yells at his assistant, saying:",
+    "Here, あれ or あの refers to the earlier action of cracking an egg, and くらい indicates that the assistant should be able to do at least that much. Just like this example, くらい can denote the approximate level of a minimum requirement. This use of くらい is discussed more in Beyond the Basics.",
+    "くらい can also be used with question words , such as どの (which) or どれ (which), to ask approximately \"how much,\" \"how many,\" or \"how long.\"",
+    "Let's imagine you're out shopping with your boss for beer and munchies for a drinking party. To make small talk, you ask them how much alcohol they typically drink. In this situation, you could say:",
+    "どのくらい and どれくらい are a handy question word because, unlike \"how much\" in English, which is reserved for uncountable nouns such as alcohol, どのくらい and どれくらい can be used regardless of whether the related noun is countable or uncountable. For example, if you also ask about how many munchies you should purchase, you can say:",
+    "どのくらい and どれくらい are also used for questions about amounts of time (how much time). For example, if there's a big queue at the cash register and you're wondering how long it'll take for you to pay, you can say:",
+    "And if you're wondering how much the bill will amount to, you can use どのくらい and どれくらい again. But since you're talking about money, you can even combine いくら (how much money) and くらい:",
+    "Similarly, if you're wondering when you'll be able to return to the party venue, you can combine いつ (when) and ぐらい and say:",
+    "Why suddenly ぐらい instead of くらい? You can also use くらい here, but it's just more common to use ぐらい with いつ. Think of them as a set. That's all!",
+    "All of the above inquiries allow you to ask questions without being too particular. If you're waiting for the bus with a friend and say どれくらいかかるかな, for example, it might not be clear whether you're talking about the bus fare or about how long the ride will be.",
+    "So if you want to be more explicit about what you're inquiring about, you may use a combination of the prefix 何（なに） and a counter . And of course, くらい can follow the 何（なに）+counter to add a sense of approximation as well.",
+    "You already know how to say \"almost the same\" with 同（おな）じくらい from an earlier section , but we haven't talked about how you can specify who or what you're comparing something with. So, how can we do that?",
+    "You can mark the point of comparison by using the particle と , as in 〜と同（おな）じくらい.",
+    "Easy, huh? However, there is one little thing to discuss here. When making comparisons, 〜と同（おな）じ can be omitted and くらい can directly attach to someone's name or the point of comparison.",
+    "For example, say your friend asks you how tall your brother is. You think your brother's height is roughly the same as a classmate called Ken. To say that, instead of saying ケンと同（どう）くらいだよ, you can omit 〜と同（おな）じ and say:",
+    "Similarly, if you're somehow referring to the size of a ball being comparable to that of an avocado, you can say.",
+    "This omission of 〜と同（おな）じ is especially prevalent when you compare yourself to others. For instance, suppose your friend Maya speaks Japanese fluently and you wish you could speak it as well as she does. In this case, you can say:",
+    "This pattern is also commonly used to explain how someone or something possesses a specific level of something. In this scenario, the particle の can be used to connect (〜と同（おな）じ)くらい with the thing you're talking about.",
+    "We briefly discussed this in the こそあど words + くらい section , but くらい can also mean \"at least.\" In this use, くらい marks something easy or trivial and suggests that it's a minimum level that should be attained.",
+    "Assume a friend asks if you can make pancakes. You know how to make pancakes, even if you don't know how to cook many other things. In this situation, you can mark パンケーキ (pancake) with くらい and say:",
+    "In this situation, くらい indicates that pancakes are a simple dish to prepare and pose no problem to your cooking skills.",
+    "Let's take a look at a different scenario. Imagine having a roommate that despises doing housework. You believe they should clean the dishes that they have used — at the very least. In this case, you can combine 自分（じぶん）の洗（あら）い物（もの） (your own dishes) and くらい and say:",
+    "Are you getting a sense of how くらい is used in this scenario? Because of this nuance, you can use くらい with 〜しか〜ない to say what you do is something of little value or difficulty. For example, if all you can make is pancakes, you can use くらい and say:",
+    "In this example, くらい denotes the same thing, which is the approximate level of the skill required to make pancakes. In this case, however, it often translates to \"at most\" or \"at best\" rather than \"at least,\" because you're modestly claiming that that's the limit of your cooking skill.",
+    "くらい and ほど are similar words as both can be used to indicate an approximate amount or level of something. When they're used with an amount of something, the difference is the level of formality — くらい is casual and ほど is formal. For example, if your friend is asking if you can bake fifty cookies by tonight, you may say:",
+    "くらい is more appropriate in this situation because it is more natural in casual speech, like when you are talking to a friend. However, what if a customer at your cookie shop is requesting that you make the cookies?",
+    "Even though くらい can still be used in semi-formal situations, ほど is a more presentable and professional-sounding option here.",
+    "However, くらい and ほど aren't always interchangeable because there's another difference than the level of formality. That is, くらい expresses an approximate lower bound while ほど expresses an approximate upper bound. Let's do an experiment to demonstrate what this means. Let's carry on with the previous examples, but this time, you are using これくらい and これほど to refer to the amount of cookies instead of saying the number:",
+    "Since くらい implies the lower bound of what you're able to do, it's appropriate here and sounds like making fifty cookies should be no trouble — you're an experienced baker after all. But since ほど is used to express upper limits, it suggests there may be some difficulty (or impossibility) with the amount in question, so it clashes with the なら、作（つく）れる part that follows (if it's…, I can…). On the other hand, ほど works better when highlighting how much someone else can do, like:",
+    "Keep in mind that ほど still carries a formal tone, and it can sound excessive in praise and come off as a little odd in casual conversation."
+  ],
+  "examples": [
+    {
+      "japanese": "５０個（こ）くらい。",
+      "english": "About fifty."
+    },
+    {
+      "japanese": "直径（ちょっけい）１０センチくらい。",
+      "english": "Roughly 10cm in diameter."
+    },
+    {
+      "japanese": "４時間（じかん）くらい。",
+      "english": "Around four hours."
+    },
+    {
+      "japanese": "半分（はんぶん）くらい。",
+      "english": "About half."
+    },
+    {
+      "japanese": "第（だい）一（いち）章（しょう）の半分（はんぶん）くらい。",
+      "english": "About half of chapter one."
+    },
+    {
+      "japanese": "同（おな）じくらい。",
+      "english": "About the same (as you)."
+    },
+    {
+      "japanese": "六（ろく）時（じ）くらいに来（き）て。",
+      "english": "Come over at around six o'clock."
+    },
+    {
+      "japanese": "六（ろく）時（じ）頃（ごろ）に来（き）て。",
+      "english": "Come over at around six o'clock."
+    },
+    {
+      "japanese": "三月（さんがつ）くらいに日本（にっぽん）に行（い）く予定（よてい）です。",
+      "english": "I'm planning to go to Japan around March."
+    },
+    {
+      "japanese": "半年（はんとし）後（ご）くらいに日本（にっぽん）に行（い）く予定（よてい）です。",
+      "english": "I'm planning to go to Japan in about half a year."
+    },
+    {
+      "japanese": "去年（きょねん）の３月（さんがつ）に日本（にっぽん）に行（い）きました。そして、半年（はんとし）くらい後（のち）に、アメリカに帰（かえ）りました。",
+      "english": "I went to Japan last March. And after about six months, I went back to America."
+    },
+    {
+      "japanese": "[これ・この] くらい入（い）れてください。",
+      "english": "Pour in about this much."
+    },
+    {
+      "japanese": "ええ、[それ・その] くらいです。",
+      "english": "Yeah, about that much."
+    },
+    {
+      "japanese": "[あれ・あの] くらいできるようになってください。",
+      "english": "You should at least be able to do that kind of thing."
+    },
+    {
+      "japanese": "いつもどのくらいお酒（さけ）を飲（の）みますか。",
+      "english": "(About) how much alcohol do you usually drink?"
+    },
+    {
+      "japanese": "おつまみ、どれくらい買（か）いましょうか。",
+      "english": "(About) how many munchies should we buy?"
+    },
+    {
+      "japanese": "どのくらいかかりますかね。",
+      "english": "I wonder (about) how long it'll take…"
+    },
+    {
+      "japanese": "お会計（かいけい）、いくらくらいかかりますかね。",
+      "english": "I wonder (about) how much it'll cost…"
+    },
+    {
+      "japanese": "いつぐらいに帰（かえ）れますかね。",
+      "english": "I wonder (around) when we can go back home."
+    },
+    {
+      "japanese": "おつまみ、何（なん）個（こ）くらい買（か）いましょうか。",
+      "english": "(About) how many munchies should we buy?"
+    },
+    {
+      "japanese": "何分（なにぶん）くらいかかりますかね。",
+      "english": "I wonder (about) how many minutes it'll take…"
+    },
+    {
+      "japanese": "お会計（かいけい）、何（なん）円（えん）くらいかかりますかね。",
+      "english": "I wonder (about) how much it'll cost…"
+    },
+    {
+      "japanese": "何（なん）時（じ）くらいに帰（かえ）れますかね。",
+      "english": "I wonder (around) what time we can go back home."
+    },
+    {
+      "japanese": "ケンと同（おな）じくらい。",
+      "english": "About the same as Ken."
+    },
+    {
+      "japanese": "ケンくらいだよ。",
+      "english": "He's around the same height as Ken."
+    },
+    {
+      "japanese": "ボールの大（おお）きさは、アボカドくらいだよ。",
+      "english": "The size of the ball is basically the same as an avocado."
+    },
+    {
+      "japanese": "マヤくらい日本語（にほんご）が話（はな）せたらいいのにな。",
+      "english": "I wish I could speak Japanese as well as Maya."
+    },
+    {
+      "japanese": "日本（にっぽん）（と同（おな）じ）くらいの物価（ぶっか）だともっと暮（く）らしやすいだろう。",
+      "english": "It would be more liveable if the cost of living were (about) the same as in Japan."
+    },
+    {
+      "japanese": "パンケーキくらいなら作（つく）れるよ。",
+      "english": "I can at least make pancakes."
+    },
+    {
+      "japanese": "自分（じぶん）の洗（あら）い物（もの）くらいは自分（じぶん）でしてよ！",
+      "english": "You should at least wash your own dishes!"
+    },
+    {
+      "japanese": "パンケーキくらいしか作（つく）れないんだよね。",
+      "english": "The best/most I can do is pancakes."
+    },
+    {
+      "japanese": "クッキー５０個（こ）くらいなら作（つく）れると思（おも）う。",
+      "english": "I think I can make them if it's about fifty cookies."
+    },
+    {
+      "japanese": "クッキー５０個（こ）ほどなら作（つく）れると思（おも）います。",
+      "english": "I think I can make them if it's about fifty cookies."
+    },
+    {
+      "japanese": "これくらいなら作（つく）れると思（おも）う。",
+      "english": "I think I can make them if it's about this much."
+    },
+    {
+      "japanese": "❌ これほどなら作（つく）れると思（おも）います。",
+      "english": "I think I can make them if it's about that much."
+    },
+    {
+      "japanese": "これほどの量（りょう）が作（つく）れるんですか！？",
+      "english": "You can make this much!?"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "amount---for-approximate-quantity",
+      "text": "Amount + くらい for \"Approximate Quantity\""
+    },
+    {
+      "level": 3,
+      "id": "timedate---for-approximate-point-in-time",
+      "text": "Time/Date + くらいに for \"Approximate Point in Time\""
+    },
+    {
+      "level": 4,
+      "id": "placement-of--with-",
+      "text": "Placement of くらい with 後/前"
+    },
+    {
+      "level": 3,
+      "id": "words---for-approximate-amountlevel",
+      "text": "こそあど Words + くらい for \"Approximate Amount/Level\""
+    },
+    {
+      "level": 3,
+      "id": "question-word---for-about-how-muchmany",
+      "text": "Question word + くらい for \"About How Much/Many?\""
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-almost-the-same-as",
+      "text": "〜くらい for \"Almost the Same As…\""
+    },
+    {
+      "level": 3,
+      "id": "for-at-least",
+      "text": "〜くらい for \"At Least…\""
+    },
+    {
+      "level": 3,
+      "id": "difference-between--and-",
+      "text": "Difference Between くらい and ほど"
+    }
+  ],
+  "id": 95,
+  "slug": "kurai",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/kurai/",
+  "categories": [
+    "Particle"
+  ]
+}

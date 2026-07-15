@@ -1,0 +1,280 @@
+{
+  "title": "い-Adjective かった (Past Tense Form)",
+  "description": "〜かった allows you to make い-adjectives past tense, in a similar way to \"was\" in English.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜かった is the past tense ending of い-adjectives . So while the 〜い ending shows that the adjective is in the present, 〜かった shows that it is in the past. For example, 難（かた）し い means \" is -difficult,\" whereas 難（かた）し かった means \" was -difficult.\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜かった"
+    },
+    {
+      "type": "paragraph",
+      "text": "To use 〜かった, simply remove the 〜い ending from an い-adjective and add 〜かった. Let’s see how this works with an actual adjective:"
+    },
+    {
+      "type": "formula",
+      "japanese": "難（むずか）しい + かった = 難（むずか）しかった",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "This works for all い-adjectives, without exception. 🎉 Bear in mind that the stem form of いい is よ, so the past tense of いい is よかった 。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "type": "paragraph",
+      "text": "Politeness in Japanese is marked at the end of a sentence with forms like です . If you have a sentence that ends in a past tense form い-adjective, you can level-up your politeness by adding です:"
+    },
+    {
+      "type": "example",
+      "japanese": "楽（たの）しかった + です",
+      "english": "was-fun (polite)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "い-adjectives in the past tense form 〜かった can occur in two positions: at the end of a sentence, and immediately before a noun."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "at-the-end-of-a-sentence",
+      "text": "At the End of a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like present tense い-adjectives, past tense い-adjectives can appear at the very end of the sentence. In this case, they modify the subject of the sentence."
+    },
+    {
+      "type": "example",
+      "japanese": "昨日（きのう）見（み）た映画（えいが）は悲（かな）しかった。",
+      "english": "The movie that I watched yesterday was sad."
+    },
+    {
+      "type": "paragraph",
+      "text": "The い-adjective 悲（かな）しかった serves two functions here. It describes the quality of the subject noun, 映画（えいが） (movie), and it also marks the entire event as having occurred in the past."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "immediately-before-a-noun",
+      "text": "Immediately Before a Noun"
+    },
+    {
+      "type": "paragraph",
+      "text": "Past tense い-adjectives can also come immediately before nouns."
+    },
+    {
+      "type": "example",
+      "japanese": "美（うつく）しかった女優（じょゆう）",
+      "english": "An actress who was beautiful"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, 美（うつく）しかった ( was -beautiful) is in the past tense, indicating that it is no longer true now. In other words, 女優（じょゆう） (actress) ≠ 美（うつく）しい (beautiful), at least not anymore."
+    },
+    {
+      "type": "paragraph",
+      "text": "For this reason, past tense い-adjectives before nouns often occur with another word, such as 昔（むかし） (in the past) to indicate at what point in time the noun had the characteristic described by the adjective."
+    },
+    {
+      "type": "example",
+      "japanese": "昨日（きのう）、昔（むかし）美（うつく）しかった女優（じょゆう）に会（あ）った。",
+      "english": "Yesterday, I met an actress who was beautiful long ago."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, 昔（むかし） tells us when the actress was beautiful - long ago."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's look at a few more examples:"
+    },
+    {
+      "type": "example",
+      "japanese": "あんなに優（やさ）しかった彼氏（かれし）は変（か）わってしまった。",
+      "english": "My boyfriend, who used to be so kind, has changed (he is no longer kind)."
+    },
+    {
+      "type": "example",
+      "japanese": "あの小（ちい）さかった小鳥（ことり）は親鳥（おやどり）になった。",
+      "english": "That bird, who used to be small, became a mother bird (she is no longer small)."
+    },
+    {
+      "type": "example",
+      "japanese": "今（いま）までで一番（いちばん）悲（かな）しかった映画（えいが）は何（なに）ですか。",
+      "english": "What's the saddest movie you've ever seen?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The last sentence above might be a bit tricky because sad movies are always sad unless someone changes their story. However, since you are talking about your own feelings about the movie at a specific time in the past, 悲（かな）しかった映画（えいが） makes more sense than 悲（かな）しい映画（えいが）. In other situations, where you use an adjective sad to express the general quality of the movie you watched, the present tense is more suitable."
+    },
+    {
+      "type": "example",
+      "japanese": "昨日（きのう）悲（かな）しい映画（えいが）を見（み）た。",
+      "english": "I watched a sad movie yesterday."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you know anything about です, you might know that it has a past tense form too: でした . With that in mind, you might be wondering if we can leave the い-adjective in its present tense form, like 楽（たの）しい (fun), and add でした to it for the same meaning as 楽（たの）しかったです. The answer is no! Since い-adjectives can express past tense by changing their form, です is only ever necessary to mark politeness."
+    },
+    {
+      "type": "formula",
+      "japanese": "❌楽（たの）しいでした。 ⭕️楽（たの）しかったです。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "❌楽（たの）しい でした 。 ⭕️楽（たの）し かった です。"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜かった is the past tense ending of い-adjectives . So while the 〜い ending shows that the adjective is in the present, 〜かった shows that it is in the past. For example, 難（かた）し い means \" is -difficult,\" whereas 難（かた）し かった means \" was -difficult.\"",
+    "To use 〜かった, simply remove the 〜い ending from an い-adjective and add 〜かった. Let’s see how this works with an actual adjective:",
+    "This works for all い-adjectives, without exception. 🎉 Bear in mind that the stem form of いい is よ, so the past tense of いい is よかった 。",
+    "Politeness in Japanese is marked at the end of a sentence with forms like です . If you have a sentence that ends in a past tense form い-adjective, you can level-up your politeness by adding です:",
+    "い-adjectives in the past tense form 〜かった can occur in two positions: at the end of a sentence, and immediately before a noun.",
+    "Just like present tense い-adjectives, past tense い-adjectives can appear at the very end of the sentence. In this case, they modify the subject of the sentence.",
+    "The い-adjective 悲（かな）しかった serves two functions here. It describes the quality of the subject noun, 映画（えいが） (movie), and it also marks the entire event as having occurred in the past.",
+    "Past tense い-adjectives can also come immediately before nouns.",
+    "In this sentence, 美（うつく）しかった ( was -beautiful) is in the past tense, indicating that it is no longer true now. In other words, 女優（じょゆう） (actress) ≠ 美（うつく）しい (beautiful), at least not anymore.",
+    "For this reason, past tense い-adjectives before nouns often occur with another word, such as 昔（むかし） (in the past) to indicate at what point in time the noun had the characteristic described by the adjective.",
+    "In this example, 昔（むかし） tells us when the actress was beautiful - long ago.",
+    "Let's look at a few more examples:",
+    "The last sentence above might be a bit tricky because sad movies are always sad unless someone changes their story. However, since you are talking about your own feelings about the movie at a specific time in the past, 悲（かな）しかった映画（えいが） makes more sense than 悲（かな）しい映画（えいが）. In other situations, where you use an adjective sad to express the general quality of the movie you watched, the present tense is more suitable.",
+    "If you know anything about です, you might know that it has a past tense form too: でした . With that in mind, you might be wondering if we can leave the い-adjective in its present tense form, like 楽（たの）しい (fun), and add でした to it for the same meaning as 楽（たの）しかったです. The answer is no! Since い-adjectives can express past tense by changing their form, です is only ever necessary to mark politeness.",
+    "❌楽（たの）しい でした 。 ⭕️楽（たの）し かった です。"
+  ],
+  "examples": [
+    {
+      "japanese": "楽（たの）しかった + です",
+      "english": "was-fun (polite)"
+    },
+    {
+      "japanese": "昨日（きのう）見（み）た映画（えいが）は悲（かな）しかった。",
+      "english": "The movie that I watched yesterday was sad."
+    },
+    {
+      "japanese": "美（うつく）しかった女優（じょゆう）",
+      "english": "An actress who was beautiful"
+    },
+    {
+      "japanese": "昨日（きのう）、昔（むかし）美（うつく）しかった女優（じょゆう）に会（あ）った。",
+      "english": "Yesterday, I met an actress who was beautiful long ago."
+    },
+    {
+      "japanese": "あんなに優（やさ）しかった彼氏（かれし）は変（か）わってしまった。",
+      "english": "My boyfriend, who used to be so kind, has changed (he is no longer kind)."
+    },
+    {
+      "japanese": "あの小（ちい）さかった小鳥（ことり）は親鳥（おやどり）になった。",
+      "english": "That bird, who used to be small, became a mother bird (she is no longer small)."
+    },
+    {
+      "japanese": "今（いま）までで一番（いちばん）悲（かな）しかった映画（えいが）は何（なに）ですか。",
+      "english": "What's the saddest movie you've ever seen?"
+    },
+    {
+      "japanese": "昨日（きのう）悲（かな）しい映画（えいが）を見（み）た。",
+      "english": "I watched a sad movie yesterday."
+    },
+    {
+      "japanese": "難（むずか）しい + かった = 難（むずか）しかった",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "❌楽（たの）しいでした。 ⭕️楽（たの）しかったです。",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜かった"
+    },
+    {
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "at-the-end-of-a-sentence",
+      "text": "At the End of a Sentence"
+    },
+    {
+      "level": 3,
+      "id": "immediately-before-a-noun",
+      "text": "Immediately Before a Noun"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 83,
+  "slug": "i-adjective-past-form-katta",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/i-adjective-past-form-katta/",
+  "categories": [
+    "Adjective Form"
+  ]
+}

@@ -1,0 +1,418 @@
+{
+  "title": "Particle より: A Formal Version of 〜から (From)",
+  "description": "より is a formal version of the particle から (from).",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle より can mean \"from\" and is used to mark the \"source\" or starting point of something, just like the particle から ."
+    },
+    {
+      "type": "paragraph",
+      "text": "より can also mean \"than\" for comparisons, as in \"better than \" or \"more than ,\" but this page will focus on the \"from\" meanings. If you are looking for information about the particle より as \"than,\" please check out this page instead."
+    },
+    {
+      "type": "paragraph",
+      "text": "より has basically the same meaning as から. It serves as a starting point or origin for something mentioned later in the sentence, much like a water source that springs up and generates a stream."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, you can add the meaning \"from this point onwards\" by marking a location with より, just as you would with から. Imagine you're hiking in the woods near Mt. Fuji when you come upon the border of someone's private property. On one of the trees, there's a sign that states \"no entry\":"
+    },
+    {
+      "type": "example",
+      "japanese": "ここより先（さき）、立入禁止（たちいりきんし）。",
+      "english": "No entry beyond this point."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sounds exactly like the particle から, doesn't it? In fact, you could use から instead of より here and the meaning wouldn't change at all. So what's the difference, really?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The difference is that より is an older word than から, so it has a more formal tone. As a result, you'll see より on official signs like this or in formal documents, but you probably won't hear it in everyday speech. Let's say you passed that no-entry point without noticing the sign, and the property owner has come out to warn you directly. In this case, they'll most likely use から:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここから先（さき）は立入禁止（たちいりきんし）ですよ。",
+      "english": "You're not allowed beyond this point."
+    },
+    {
+      "type": "paragraph",
+      "text": "より isn't suitable for the spoken Japanese here because it sounds too formal and stiff. There are exceptions, of course. You sometimes hear より used in ceremonies or formal speech, and some fictional characters may employ it for effect. We'll look at this latter example in Beyond the Basics . For now, let's move on to the patterns of use."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + より"
+    },
+    {
+      "type": "paragraph",
+      "text": "When used as an equivalent of から, the particle より can only follow a noun, which is often a location or a point in time."
+    },
+    {
+      "type": "example",
+      "japanese": "一行（いっこう）は成田空港（なりたくうこう）より出発（しゅっぱつ）した。",
+      "english": "The group departed from Narita Airport."
+    },
+    {
+      "type": "example",
+      "japanese": "卒業（そつぎょう）式（しき）は午前（ごぜん）十（じゅう）時（じ）より執（と）り行（おこな）われる。",
+      "english": "The graduation ceremony will be held at 10:00 a.m."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-a-starting-point-in-space",
+      "text": "より for a Starting Point in Space"
+    },
+    {
+      "type": "paragraph",
+      "text": "You've already learned より can mark a starting point in space, but let's look at one more example."
+    },
+    {
+      "type": "paragraph",
+      "text": "Assume you work for a large corporation with offices all around Japan. Today is your first day after being relocated from the Kyoto branch to the Tokyo headquarters. When meeting new people, you could say something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "京都（きょうと）支店（してん）より参（まい）りました。",
+      "english": "I came here from the Kyoto branch."
+    },
+    {
+      "type": "paragraph",
+      "text": "Earlier you learned that より is sort of an antiquated word that might sound stiff in spoken Japanese. However, because this is a business greeting, it's perfectly appropriate to use より to sound very formal."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth noting that using a formal element like より entails making other parts of speech formal as well. In this sentence, for instance, the humble verb 参（まい）る is used instead of 来（く）る (to come)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-a-starting-point-in-time",
+      "text": "より for a Starting Point in Time"
+    },
+    {
+      "type": "paragraph",
+      "text": "より can also mark a starting point in time, as in this example from a meeting agenda:"
+    },
+    {
+      "type": "example",
+      "japanese": "１１時（じ）より会議（かいぎ）開始（かいし）",
+      "english": "meeting starts at 11 o'clock"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also hear より in formal speeches like broadcast reports. For example, a weather forecaster may use より and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "未明（みめい）より雪（ゆき）が降（ふ）り続（つづ）いていますが、午後（ごご）には止（や）むでしょう。",
+      "english": "It's been snowing since dawn, but it will stop in the afternoon."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-sources",
+      "text": "より for Sources"
+    },
+    {
+      "type": "paragraph",
+      "text": "より can also be used to indicate the source where something came from. Assume you're hosting a podcast and you're introducing a song called \"Always With Me\" from the film Spirited Away . When introducing the song, you may say something like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "映画（えいが）、『千（せん）と千尋（ちひろ）の神隠（かみがく）し』より、『いつも何（なん）度（ど）でも』。",
+      "english": "From the film Spirited Away, \"Always With Me.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "It's okay to use より like this even if it's a very casual, friendly podcast. In this situation, the formality of より makes it sound like a predetermined phrase that officially invites listeners to the song. It serves as a nice transition from the informal podcast chitchat to the music."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's look at another scenario. Assume a coworker is quitting their job to start a new business. To formally wish them success, you could pair up 心（こころ） (heart) with より and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "心（こころ）よりご成功（せいこう）をお祈（いの）り申（もう）し上（あ）げます。",
+      "english": "I sincerely wish you success."
+    },
+    {
+      "type": "paragraph",
+      "text": "The translations may differ, but 心（こころ）より expresses that your wish comes from the bottom of your heart."
+    },
+    {
+      "type": "paragraph",
+      "text": "The object that comes from the source can be varied. For example, if you're tracking instances of harassment by your manager, you can use より to mark マネージャー (manager) as the source of your annoyance:"
+    },
+    {
+      "type": "example",
+      "japanese": "４月（しがつ）１日（にち）: マネージャーより「バカ」と 怒鳴（どな）られる",
+      "english": "April 1: Yelled at by the manager for being \"stupid\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Although this is a personal memo, the formal より may still be used in a bullet-point format like this for the sake of concision."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "in-casual-letters",
+      "text": "より in Casual Letters"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although you learned that より carries a formal tone, it can be used to say \"From (your name)\" in a casual letter or message. In this use, it's usually paired with the particle へ to say \"To (recipient name).\""
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーへ マミより",
+      "english": "To Jenny From Mami"
+    },
+    {
+      "type": "paragraph",
+      "text": "I believe より here was originally used to formally identify the message's source and to appropriately close the letter. My guess is that the formality has waned over time and that the expression is now more informal, but I couldn't find a source for this."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-character-development",
+      "text": "より for Character Development"
+    },
+    {
+      "type": "paragraph",
+      "text": "We talked about how より doesn't usually appear in everyday conversation because it's formal and stiff. In creative writing, however, an author might sometimes have characters use より for flavor and character development."
+    },
+    {
+      "type": "paragraph",
+      "text": "To see what that means, let's revisit the earlier scenario: you're hiking in the woods, you accidentally enter a prohibited area, and someone comes out to warn you. In this case, you learned that the person will be most likely use から:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここから先（さき）は立入禁止（たちいりきんし）ですよ。",
+      "english": "You're not allowed beyond this point."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if this is a fictional story and the person who warns you happens to be a mountain hermit with a splendid long white beard, the author may have him use より and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここより先（さき）は立入禁止（たちいりきんし）じゃぞ。",
+      "english": "You're not allowed beyond this point."
+    },
+    {
+      "type": "paragraph",
+      "text": "から works fine here too, but by having this character use the more formal and rigid より, the author can imbue him with a kind of formal and ancient aura. Hence, it is a good characterization tool for aged, dignified characters like hermits."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and-",
+      "text": "日頃より and 平素より"
+    },
+    {
+      "type": "paragraph",
+      "text": "より can also be used in combination with words like 日頃（ひごろ） or 平素（へいそ）, which mean \"regularly\" or \"daily.\" When put together, as in 日頃（ひごろ）より or 平素（へいそ）より, it signifies \"from the past to the present\" or \"always,\" and it's commonly used in business writing to express gratitude for a client's or customer's ongoing support."
+    },
+    {
+      "type": "example",
+      "japanese": "[日頃（ひごろ）・平素（へいそ）] より 格別（かくべつ）のご 高配（こうはい）を 賜（たまわ）り厚（あつ）くお礼（れい）申（もう）し上（あ）げます。",
+      "english": "Thank you very much for your continued support."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is a very formal expression, but if you reside in Japan and receive marketing emails or letters from firms, you may stumble across it."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "The particle より can mean \"from\" and is used to mark the \"source\" or starting point of something, just like the particle から .",
+    "より can also mean \"than\" for comparisons, as in \"better than \" or \"more than ,\" but this page will focus on the \"from\" meanings. If you are looking for information about the particle より as \"than,\" please check out this page instead.",
+    "より has basically the same meaning as から. It serves as a starting point or origin for something mentioned later in the sentence, much like a water source that springs up and generates a stream.",
+    "For example, you can add the meaning \"from this point onwards\" by marking a location with より, just as you would with から. Imagine you're hiking in the woods near Mt. Fuji when you come upon the border of someone's private property. On one of the trees, there's a sign that states \"no entry\":",
+    "Sounds exactly like the particle から, doesn't it? In fact, you could use から instead of より here and the meaning wouldn't change at all. So what's the difference, really?",
+    "The difference is that より is an older word than から, so it has a more formal tone. As a result, you'll see より on official signs like this or in formal documents, but you probably won't hear it in everyday speech. Let's say you passed that no-entry point without noticing the sign, and the property owner has come out to warn you directly. In this case, they'll most likely use から:",
+    "より isn't suitable for the spoken Japanese here because it sounds too formal and stiff. There are exceptions, of course. You sometimes hear より used in ceremonies or formal speech, and some fictional characters may employ it for effect. We'll look at this latter example in Beyond the Basics . For now, let's move on to the patterns of use.",
+    "When used as an equivalent of から, the particle より can only follow a noun, which is often a location or a point in time.",
+    "You've already learned より can mark a starting point in space, but let's look at one more example.",
+    "Assume you work for a large corporation with offices all around Japan. Today is your first day after being relocated from the Kyoto branch to the Tokyo headquarters. When meeting new people, you could say something like:",
+    "Earlier you learned that より is sort of an antiquated word that might sound stiff in spoken Japanese. However, because this is a business greeting, it's perfectly appropriate to use より to sound very formal.",
+    "It's worth noting that using a formal element like より entails making other parts of speech formal as well. In this sentence, for instance, the humble verb 参（まい）る is used instead of 来（く）る (to come).",
+    "より can also mark a starting point in time, as in this example from a meeting agenda:",
+    "You may also hear より in formal speeches like broadcast reports. For example, a weather forecaster may use より and say:",
+    "より can also be used to indicate the source where something came from. Assume you're hosting a podcast and you're introducing a song called \"Always With Me\" from the film Spirited Away . When introducing the song, you may say something like this:",
+    "It's okay to use より like this even if it's a very casual, friendly podcast. In this situation, the formality of より makes it sound like a predetermined phrase that officially invites listeners to the song. It serves as a nice transition from the informal podcast chitchat to the music.",
+    "Let's look at another scenario. Assume a coworker is quitting their job to start a new business. To formally wish them success, you could pair up 心（こころ） (heart) with より and say:",
+    "The translations may differ, but 心（こころ）より expresses that your wish comes from the bottom of your heart.",
+    "The object that comes from the source can be varied. For example, if you're tracking instances of harassment by your manager, you can use より to mark マネージャー (manager) as the source of your annoyance:",
+    "Although this is a personal memo, the formal より may still be used in a bullet-point format like this for the sake of concision.",
+    "Although you learned that より carries a formal tone, it can be used to say \"From (your name)\" in a casual letter or message. In this use, it's usually paired with the particle へ to say \"To (recipient name).\"",
+    "I believe より here was originally used to formally identify the message's source and to appropriately close the letter. My guess is that the formality has waned over time and that the expression is now more informal, but I couldn't find a source for this.",
+    "We talked about how より doesn't usually appear in everyday conversation because it's formal and stiff. In creative writing, however, an author might sometimes have characters use より for flavor and character development.",
+    "To see what that means, let's revisit the earlier scenario: you're hiking in the woods, you accidentally enter a prohibited area, and someone comes out to warn you. In this case, you learned that the person will be most likely use から:",
+    "However, if this is a fictional story and the person who warns you happens to be a mountain hermit with a splendid long white beard, the author may have him use より and say:",
+    "から works fine here too, but by having this character use the more formal and rigid より, the author can imbue him with a kind of formal and ancient aura. Hence, it is a good characterization tool for aged, dignified characters like hermits.",
+    "より can also be used in combination with words like 日頃（ひごろ） or 平素（へいそ）, which mean \"regularly\" or \"daily.\" When put together, as in 日頃（ひごろ）より or 平素（へいそ）より, it signifies \"from the past to the present\" or \"always,\" and it's commonly used in business writing to express gratitude for a client's or customer's ongoing support.",
+    "That is a very formal expression, but if you reside in Japan and receive marketing emails or letters from firms, you may stumble across it."
+  ],
+  "examples": [
+    {
+      "japanese": "ここより先（さき）、立入禁止（たちいりきんし）。",
+      "english": "No entry beyond this point."
+    },
+    {
+      "japanese": "ここから先（さき）は立入禁止（たちいりきんし）ですよ。",
+      "english": "You're not allowed beyond this point."
+    },
+    {
+      "japanese": "一行（いっこう）は成田空港（なりたくうこう）より出発（しゅっぱつ）した。",
+      "english": "The group departed from Narita Airport."
+    },
+    {
+      "japanese": "卒業（そつぎょう）式（しき）は午前（ごぜん）十（じゅう）時（じ）より執（と）り行（おこな）われる。",
+      "english": "The graduation ceremony will be held at 10:00 a.m."
+    },
+    {
+      "japanese": "京都（きょうと）支店（してん）より参（まい）りました。",
+      "english": "I came here from the Kyoto branch."
+    },
+    {
+      "japanese": "１１時（じ）より会議（かいぎ）開始（かいし）",
+      "english": "meeting starts at 11 o'clock"
+    },
+    {
+      "japanese": "未明（みめい）より雪（ゆき）が降（ふ）り続（つづ）いていますが、午後（ごご）には止（や）むでしょう。",
+      "english": "It's been snowing since dawn, but it will stop in the afternoon."
+    },
+    {
+      "japanese": "映画（えいが）、『千（せん）と千尋（ちひろ）の神隠（かみがく）し』より、『いつも何（なん）度（ど）でも』。",
+      "english": "From the film Spirited Away, \"Always With Me.\""
+    },
+    {
+      "japanese": "心（こころ）よりご成功（せいこう）をお祈（いの）り申（もう）し上（あ）げます。",
+      "english": "I sincerely wish you success."
+    },
+    {
+      "japanese": "４月（しがつ）１日（にち）: マネージャーより「バカ」と 怒鳴（どな）られる",
+      "english": "April 1: Yelled at by the manager for being \"stupid\""
+    },
+    {
+      "japanese": "ジェニーへ マミより",
+      "english": "To Jenny From Mami"
+    },
+    {
+      "japanese": "ここから先（さき）は立入禁止（たちいりきんし）ですよ。",
+      "english": "You're not allowed beyond this point."
+    },
+    {
+      "japanese": "ここより先（さき）は立入禁止（たちいりきんし）じゃぞ。",
+      "english": "You're not allowed beyond this point."
+    },
+    {
+      "japanese": "[日頃（ひごろ）・平素（へいそ）] より 格別（かくべつ）のご 高配（こうはい）を 賜（たまわ）り厚（あつ）くお礼（れい）申（もう）し上（あ）げます。",
+      "english": "Thank you very much for your continued support."
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + より"
+    },
+    {
+      "level": 3,
+      "id": "for-a-starting-point-in-space",
+      "text": "より for a Starting Point in Space"
+    },
+    {
+      "level": 3,
+      "id": "for-a-starting-point-in-time",
+      "text": "より for a Starting Point in Time"
+    },
+    {
+      "level": 3,
+      "id": "for-sources",
+      "text": "より for Sources"
+    },
+    {
+      "level": 4,
+      "id": "in-casual-letters",
+      "text": "より in Casual Letters"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-character-development",
+      "text": "より for Character Development"
+    },
+    {
+      "level": 3,
+      "id": "and-",
+      "text": "日頃より and 平素より"
+    }
+  ],
+  "id": 32,
+  "slug": "particle-yori-from",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-yori-from/",
+  "categories": [
+    "Particle"
+  ]
+}

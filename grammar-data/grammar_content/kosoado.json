@@ -1,0 +1,838 @@
+{
+  "title": "こそあど言葉 (Ko-So-A-Do Words)",
+  "description": "こそあど言葉（ことば） (ko-so-a-do words) are a series of Japanese words that can be used to refer to things, people and locations. The word you choose to use mostly depends on the distance between you and whatever you're talking about.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, you can refer to things, people, and locations in a nonspecific way by using words like \"this\" and \"that,\" and \"here\" and \"there.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Whereas in English these words tend to come in pairs, in Japanese, each set is made up of three words, plus a corresponding question word. For example, the equivalent of \"here\" in Japanese is ここ, and \"there\" is そこ. There is also a single word, あそこ, which means \"over there.\" Each set also has a corresponding question word that begins with the character ど, such as どこ for \"where.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "These sets are remarkably common, and each consists of four words beginning with the characters こ, そ, あ, or ど. For that reason, these words are called こそあど 言葉（ことば） (ko-so-a-do words)."
+    },
+    {
+      "type": "paragraph",
+      "text": "This page will introduce the basic concepts of こそあど, each set, and how they generally work."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is how こそあど words work when referring to a physical object that you can see:"
+    },
+    {
+      "type": "formula",
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question."
+    },
+    {
+      "type": "paragraph",
+      "text": "To make all these guidelines feel more concrete, let's take a look at an example scenario. Imagine you are at a beach collecting seashells with a friend. When you see a cute, pink seashell right in front of you, you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "わっ、この 貝（かい）、かわいい！",
+      "english": "Wow, this shell is cute!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, you refer to the shell using a こ-word, この , because it is close to you. In this case, you are only considering the distance between the shell and yourself. You can use この regardless of whether your friend is right next to you, or at the other end of the beach."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then your friend spots a shell. You look over and see it in her hand, and you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "おおっ、その貝（かい）もいいね！",
+      "english": "Ooh, that shell looks good too!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, you are facing your friend, so you consider the distance between the shell, yourself, and your friend. Since the shell is closer to your friend, you use a そ-word, その ."
+    },
+    {
+      "type": "paragraph",
+      "text": "While talking to your friend, you also find a shell that is a little ways away from both of you. You point at it and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あっ、見（み）てみて！そこにもきれいな貝（かい）がある！",
+      "english": "Hey, look! There's also a beautiful shell there!"
+    },
+    {
+      "type": "paragraph",
+      "text": "With this example, you also used a そ-word, そこ, though it's not closer to your friend than you."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you and the person you're talking to are side-by-side, all that matters is how far the object is from the two of you. So you could use ここ if it's close to you both, or あそこ if it's far from you both. Here, you picked そこ because you judged the seashell to be too far to use ここ, but too close to use あそこ."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if you're alone, or you and your listener are side-by-side, the choice is simply based on the distance between you (both) and whatever you're talking about. But if you are facing your listener, you'll probably also factor in the distance between them and whatever you're talking about. This could also include situations when your listener isn't within sight but you are aware of where they are, like on a phone call or while in another room. This is illustrated in the images above."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, let's go back to the beach scenario. After collecting many beautiful shells, you both go take a dip in the water. However, your moment of relaxation ends quickly when you see something in the distance and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ん？あれ、なんだろう！",
+      "english": "Huh? What's that over there?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since you are talking about something that is distant from both of you, you use an あ-word, あれ . Your friend doesn't see it, so she uses a ど-word to ask you:"
+    },
+    {
+      "type": "example",
+      "japanese": "え、どれ？",
+      "english": "Oh, which one?"
+    },
+    {
+      "type": "paragraph",
+      "text": "As it slowly approaches, you realize that it's a shark fin… Yikes! I hope you safely make it back to the beach!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "classification",
+      "text": "Classification"
+    },
+    {
+      "type": "paragraph",
+      "text": "こそあど words can be classified into five categories depending on what they generally refer to. As you can see in the table below, these categories are \"thing,\" \"person,\" \"place,\" \"direction,\" and \"manner,\" and the endings that come after こそあど differ according to what is being referred to."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Concepts",
+          "Things",
+          "People",
+          "Places",
+          "Directions",
+          "Manner"
+        ],
+        [
+          "こ",
+          "Close",
+          "これ/この〜",
+          "こいつ/こなた",
+          "ここ",
+          "こちら/こっち",
+          "こう/こんな〜"
+        ],
+        [
+          "そ",
+          "Away",
+          "それ/その〜",
+          "そいつ/そなた",
+          "そこ",
+          "そちら/そっち",
+          "そう/そんな〜"
+        ],
+        [
+          "あ",
+          "Distant",
+          "あれ/あの〜",
+          "あいつ/あなた",
+          "あそこ",
+          "あちら/あっち",
+          "ああ/あんな〜"
+        ],
+        [
+          "ど",
+          "Question",
+          "どれ/どの〜",
+          "どいつ/どなた",
+          "どこ",
+          "どちら/どっち",
+          "どう/どんな〜"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Bear in mind that these are only general categories, and there is overlap. We'll get into that more, and talk about the variations of each set, on this page and the dedicated pages for each set!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "In grammatical terms, こそあど words can be divided into three different groups: pronouns, noun modifiers, and adverbs. Depending on the type, they are placed in different positions in a sentence."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "pronouns",
+      "text": "Pronouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pronouns are used in place of nouns, and can be treated in exactly the same way as nouns. The series of こそあど words that are used to identify a specific thing, person, place, or direction all by themselves are called pronouns because they are used in place of nouns. They also can be treated in the same ways as nouns . The following こそあど words are all pronouns:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "これ",
+          "こいつ/こなた",
+          "ここ",
+          "こちら/こっち"
+        ],
+        [
+          "それ",
+          "そいつ/そなた",
+          "そこ",
+          "そちら/そっち"
+        ],
+        [
+          "あれ",
+          "あいつ/あなた",
+          "あそこ",
+          "あちら/あっち"
+        ],
+        [
+          "どれ",
+          "どいつ/どなた",
+          "どこ",
+          "どちら/どっち"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See how これ is used by itself in this example below."
+    },
+    {
+      "type": "example",
+      "japanese": "これはネコです。",
+      "english": "This is a cat."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun-modifiers",
+      "text": "Noun Modifiers"
+    },
+    {
+      "type": "paragraph",
+      "text": "A \"noun modifier\" is anything that is attached to the beginning of a noun to give more information about it. The following こそあど words are noun modifiers."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "この",
+          "こんな"
+        ],
+        [
+          "その",
+          "そんな"
+        ],
+        [
+          "あの",
+          "あんな"
+        ],
+        [
+          "どの",
+          "どんな"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In the following example, その is attaching to a noun ネコ (cat) to indicate which cat you are talking about."
+    },
+    {
+      "type": "example",
+      "japanese": "そのネコは白（しろ）い。",
+      "english": "That cat is white."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adverbs",
+      "text": "Adverbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adverbs are used to add more information to verbs and adjectives. They usually go before the verb or adjective. The following こそあど words are adverbs:"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, ああ is used before the verb する (do), and adds more information about how to do whatever it is you're referring to:"
+    },
+    {
+      "type": "example",
+      "japanese": "ああするのはどう？",
+      "english": "How about doing it like that?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "brief-summary-of-each--set",
+      "text": "Brief Summary of Each こそあど Set"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and-",
+      "text": "これ, それ, あれ, and どれ"
+    },
+    {
+      "type": "paragraph",
+      "text": "これ, それ, and あれ are used to describe where something is in relation to where you are. They can be translated into English as \"this one,\" \"that one,\" and \"that one over there.\" どれ is the corresponding question word and it is used to ask \"which one?\" out of a choice of three or more objects."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're referring to more than one thing in English, you'd switch to \"these ones,\" \"those ones,\" and \"those ones over there\", but in Japanese you can stick with これ, それ, and あれ in casual settings. The plural versions これら, それら, and あれら are generally used only in formal speaking and writing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read more about これ, それ, あれ, and どれ here ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--1",
+      "text": "この, その, あの, and どの"
+    },
+    {
+      "type": "paragraph",
+      "text": "この, その, and あの are used before a noun and describe where the noun is in relation to where you are. They're the equivalent of \"this,\" \"that,\" and \"that over there\" before a noun in English. For example, \"this mountain\" is この山（やま）."
+    },
+    {
+      "type": "paragraph",
+      "text": "どの is the question word that goes with this set, and it is used to ask \"which?\" out of a choice of three or more objects. For example, to ask \"which mountain?\" you'd say どの山（やま）？"
+    },
+    {
+      "type": "paragraph",
+      "text": "Like これ, それ, and あれ, この, その, あの can be used with both singular and plural nouns in casual settings. Their plural versions are これらの, それらの, あれらの, and are generally used in formal contexts."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also combine 様（よう） with this set to make phrases like この様（よう）に (in this way) or この様（よう）な〜 (this kind of…)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read more about この, その, あの, and どの here ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--2",
+      "text": "こいつ, そいつ, あいつ, and どいつ"
+    },
+    {
+      "type": "paragraph",
+      "text": "こいつ, そいつ, and あいつ are used to refer to people in a gruff manner. They could be translated as something like \"this guy,\" \"that guy,\" or \"that guy over there,\" but the translations vary depending on the person you're referring to. They aren't specifically used to refer to men, either, unlike our translations."
+    },
+    {
+      "type": "paragraph",
+      "text": "どいつ is the corresponding question word and it is used to ask, \"which guy?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Unusually, こいつ, そいつ, and あいつ are only used in the singular. You'll need to switch these to こいつら, そいつら, and あいつら when referring to more than one person in a gruff manner."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are also old-fashioned versions of this set, which you'll probably never hear in ordinary conversation, but can still be seen in speaking or writing set in the past. They are こやつ, そやつ, あやつ, and どやつ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read more about こいつ, そいつ, あいつ, and どいつ here ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--3",
+      "text": "(こなた, そなた,) あなた, and どなた"
+    },
+    {
+      "type": "paragraph",
+      "text": "In classical Japanese, こなた, そなた, and あなた were all used to refer to the person you were talking to. In other words, they were equivalent to the pronoun \"you\" in English. However, each word carried a different level of formality. In general, こなた was considered casual, そなた was neutral, and あなた was respectful, though the level of respect varied depending on the period in history."
+    },
+    {
+      "type": "paragraph",
+      "text": "こなた can also refer to the first person (I, my, me) or can mean \"this person\" and そなた can mean \"that person.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "In modern Japanese, こなた and そなた are archaic, but あなた is still in use, and has kept its meaning \" you .\""
+    },
+    {
+      "type": "paragraph",
+      "text": "どなた is the corresponding question word and is used to politely ask \"who?\" often to the person you are talking to. This word is polite and can sound feminine."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read more about こなた, そなた, あなた, and どなた here ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--4",
+      "text": "ここ, そこ, あそこ, and どこ"
+    },
+    {
+      "type": "paragraph",
+      "text": "ここ, そこ, あそこ are used to describe places in relation to where you are. They're the equivalent of \"here,\" \"there,\" and \"over there\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "どこ is the set question word and it's used to ask \"where?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Read more about ここ, そこ, あそこ, and どこ here ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--5",
+      "text": "こちら, そちら, あちら, and どちら"
+    },
+    {
+      "type": "paragraph",
+      "text": "こちら, そちら, and あちら can be used to politely refer to a direction or a place. They can also be used to refer to an object or a person."
+    },
+    {
+      "type": "paragraph",
+      "text": "どちら is the corresponding question word and it is used to politely ask \"which one?\" out of two choices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read more about こちら, そちら, あちら, and どちら here ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--6",
+      "text": "こっち, そっち, あっち, and どっち"
+    },
+    {
+      "type": "paragraph",
+      "text": "This set is a contraction of こちら, そちら, あちら, and どちら. These words are less polite and are more casual."
+    },
+    {
+      "type": "paragraph",
+      "text": "こっち, そっち, and あっち can be used to casually refer to a direction or a place. They can also be used to refer to an object or a person."
+    },
+    {
+      "type": "paragraph",
+      "text": "どっち is the corresponding question word and it is used to ask \"which one?\" out of two choices."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read more about こっち, そっち, あっち, and どっち here ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--7",
+      "text": "こんな, そんな, あんな, and どんな"
+    },
+    {
+      "type": "paragraph",
+      "text": "こんな, そんな, and あんな come before a noun (or noun phrase) and describe the manner the noun that follows. It's the equivalent of \"this kind of…\" \"that kind of…\" or \"that kind of … over there,\" in English, but it's also common to use them for an object that isn't physically present ."
+    },
+    {
+      "type": "paragraph",
+      "text": "どんな is the corresponding question word and it's used to ask \"what kind/sort of…(is it)?\" or \"what is … like?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You can combine this set with particles such as の or に to make things like こんなの (a thing like this) or こんなに (this much)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also attach 風（ふう） to make things like こんな風（かぜ）に (in this way) or こんな風（かぜ）な〜 (this kind of…)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read more about こんな, そんな, あんな, and どんな here ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--8",
+      "text": "こう, そう, ああ and どう"
+    },
+    {
+      "type": "paragraph",
+      "text": "こう, そう, and ああ come before verbs (or verb phrases) and adjectives. They describe the way the verb is done or what the adjective is like. They are the equivalent of \"this way\" and \"that way,\" or \"like this\" and \"like that\" in English, as in \"please write it this way,\" or \"I can't do anything when it's hot like this.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "どう is the corresponding question word, meaning \"in what way?\" or \"how?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You can attach the verb いう or its past tense いった to make noun modifiers such as こういう/こういった〜 (this kind of 〜). In this case, the kanji 言（い） is usually written in hiragana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Read more about こう, そう, ああ, and どう here ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Hubs"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Points"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "In English, you can refer to things, people, and locations in a nonspecific way by using words like \"this\" and \"that,\" and \"here\" and \"there.\"",
+    "Whereas in English these words tend to come in pairs, in Japanese, each set is made up of three words, plus a corresponding question word. For example, the equivalent of \"here\" in Japanese is ここ, and \"there\" is そこ. There is also a single word, あそこ, which means \"over there.\" Each set also has a corresponding question word that begins with the character ど, such as どこ for \"where.\"",
+    "These sets are remarkably common, and each consists of four words beginning with the characters こ, そ, あ, or ど. For that reason, these words are called こそあど 言葉（ことば） (ko-so-a-do words).",
+    "This page will introduce the basic concepts of こそあど, each set, and how they generally work.",
+    "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど.",
+    "However, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play.",
+    "Here is how こそあど words work when referring to a physical object that you can see:",
+    "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question.",
+    "To make all these guidelines feel more concrete, let's take a look at an example scenario. Imagine you are at a beach collecting seashells with a friend. When you see a cute, pink seashell right in front of you, you say:",
+    "Here, you refer to the shell using a こ-word, この , because it is close to you. In this case, you are only considering the distance between the shell and yourself. You can use この regardless of whether your friend is right next to you, or at the other end of the beach.",
+    "Then your friend spots a shell. You look over and see it in her hand, and you say:",
+    "In this example, you are facing your friend, so you consider the distance between the shell, yourself, and your friend. Since the shell is closer to your friend, you use a そ-word, その .",
+    "While talking to your friend, you also find a shell that is a little ways away from both of you. You point at it and say:",
+    "With this example, you also used a そ-word, そこ, though it's not closer to your friend than you.",
+    "When you and the person you're talking to are side-by-side, all that matters is how far the object is from the two of you. So you could use ここ if it's close to you both, or あそこ if it's far from you both. Here, you picked そこ because you judged the seashell to be too far to use ここ, but too close to use あそこ.",
+    "So if you're alone, or you and your listener are side-by-side, the choice is simply based on the distance between you (both) and whatever you're talking about. But if you are facing your listener, you'll probably also factor in the distance between them and whatever you're talking about. This could also include situations when your listener isn't within sight but you are aware of where they are, like on a phone call or while in another room. This is illustrated in the images above.",
+    "Now, let's go back to the beach scenario. After collecting many beautiful shells, you both go take a dip in the water. However, your moment of relaxation ends quickly when you see something in the distance and say:",
+    "Since you are talking about something that is distant from both of you, you use an あ-word, あれ . Your friend doesn't see it, so she uses a ど-word to ask you:",
+    "As it slowly approaches, you realize that it's a shark fin… Yikes! I hope you safely make it back to the beach!",
+    "こそあど words can be classified into five categories depending on what they generally refer to. As you can see in the table below, these categories are \"thing,\" \"person,\" \"place,\" \"direction,\" and \"manner,\" and the endings that come after こそあど differ according to what is being referred to.",
+    "Bear in mind that these are only general categories, and there is overlap. We'll get into that more, and talk about the variations of each set, on this page and the dedicated pages for each set!",
+    "In grammatical terms, こそあど words can be divided into three different groups: pronouns, noun modifiers, and adverbs. Depending on the type, they are placed in different positions in a sentence.",
+    "Pronouns are used in place of nouns, and can be treated in exactly the same way as nouns. The series of こそあど words that are used to identify a specific thing, person, place, or direction all by themselves are called pronouns because they are used in place of nouns. They also can be treated in the same ways as nouns . The following こそあど words are all pronouns:",
+    "See how これ is used by itself in this example below.",
+    "A \"noun modifier\" is anything that is attached to the beginning of a noun to give more information about it. The following こそあど words are noun modifiers.",
+    "In the following example, その is attaching to a noun ネコ (cat) to indicate which cat you are talking about.",
+    "Adverbs are used to add more information to verbs and adjectives. They usually go before the verb or adjective. The following こそあど words are adverbs:",
+    "In this example, ああ is used before the verb する (do), and adds more information about how to do whatever it is you're referring to:",
+    "これ, それ, and あれ are used to describe where something is in relation to where you are. They can be translated into English as \"this one,\" \"that one,\" and \"that one over there.\" どれ is the corresponding question word and it is used to ask \"which one?\" out of a choice of three or more objects.",
+    "If you're referring to more than one thing in English, you'd switch to \"these ones,\" \"those ones,\" and \"those ones over there\", but in Japanese you can stick with これ, それ, and あれ in casual settings. The plural versions これら, それら, and あれら are generally used only in formal speaking and writing.",
+    "Read more about これ, それ, あれ, and どれ here .",
+    "この, その, and あの are used before a noun and describe where the noun is in relation to where you are. They're the equivalent of \"this,\" \"that,\" and \"that over there\" before a noun in English. For example, \"this mountain\" is この山（やま）.",
+    "どの is the question word that goes with this set, and it is used to ask \"which?\" out of a choice of three or more objects. For example, to ask \"which mountain?\" you'd say どの山（やま）？",
+    "Like これ, それ, and あれ, この, その, あの can be used with both singular and plural nouns in casual settings. Their plural versions are これらの, それらの, あれらの, and are generally used in formal contexts.",
+    "You can also combine 様（よう） with this set to make phrases like この様（よう）に (in this way) or この様（よう）な〜 (this kind of…).",
+    "Read more about この, その, あの, and どの here .",
+    "こいつ, そいつ, and あいつ are used to refer to people in a gruff manner. They could be translated as something like \"this guy,\" \"that guy,\" or \"that guy over there,\" but the translations vary depending on the person you're referring to. They aren't specifically used to refer to men, either, unlike our translations.",
+    "どいつ is the corresponding question word and it is used to ask, \"which guy?\"",
+    "Unusually, こいつ, そいつ, and あいつ are only used in the singular. You'll need to switch these to こいつら, そいつら, and あいつら when referring to more than one person in a gruff manner.",
+    "There are also old-fashioned versions of this set, which you'll probably never hear in ordinary conversation, but can still be seen in speaking or writing set in the past. They are こやつ, そやつ, あやつ, and どやつ.",
+    "Read more about こいつ, そいつ, あいつ, and どいつ here .",
+    "In classical Japanese, こなた, そなた, and あなた were all used to refer to the person you were talking to. In other words, they were equivalent to the pronoun \"you\" in English. However, each word carried a different level of formality. In general, こなた was considered casual, そなた was neutral, and あなた was respectful, though the level of respect varied depending on the period in history.",
+    "こなた can also refer to the first person (I, my, me) or can mean \"this person\" and そなた can mean \"that person.\"",
+    "In modern Japanese, こなた and そなた are archaic, but あなた is still in use, and has kept its meaning \" you .\"",
+    "どなた is the corresponding question word and is used to politely ask \"who?\" often to the person you are talking to. This word is polite and can sound feminine.",
+    "Read more about こなた, そなた, あなた, and どなた here .",
+    "ここ, そこ, あそこ are used to describe places in relation to where you are. They're the equivalent of \"here,\" \"there,\" and \"over there\" in English.",
+    "どこ is the set question word and it's used to ask \"where?\"",
+    "Read more about ここ, そこ, あそこ, and どこ here .",
+    "こちら, そちら, and あちら can be used to politely refer to a direction or a place. They can also be used to refer to an object or a person.",
+    "どちら is the corresponding question word and it is used to politely ask \"which one?\" out of two choices.",
+    "Read more about こちら, そちら, あちら, and どちら here .",
+    "This set is a contraction of こちら, そちら, あちら, and どちら. These words are less polite and are more casual.",
+    "こっち, そっち, and あっち can be used to casually refer to a direction or a place. They can also be used to refer to an object or a person.",
+    "どっち is the corresponding question word and it is used to ask \"which one?\" out of two choices.",
+    "Read more about こっち, そっち, あっち, and どっち here .",
+    "こんな, そんな, and あんな come before a noun (or noun phrase) and describe the manner the noun that follows. It's the equivalent of \"this kind of…\" \"that kind of…\" or \"that kind of … over there,\" in English, but it's also common to use them for an object that isn't physically present .",
+    "どんな is the corresponding question word and it's used to ask \"what kind/sort of…(is it)?\" or \"what is … like?\"",
+    "You can combine this set with particles such as の or に to make things like こんなの (a thing like this) or こんなに (this much).",
+    "You can also attach 風（ふう） to make things like こんな風（かぜ）に (in this way) or こんな風（かぜ）な〜 (this kind of…).",
+    "Read more about こんな, そんな, あんな, and どんな here .",
+    "こう, そう, and ああ come before verbs (or verb phrases) and adjectives. They describe the way the verb is done or what the adjective is like. They are the equivalent of \"this way\" and \"that way,\" or \"like this\" and \"like that\" in English, as in \"please write it this way,\" or \"I can't do anything when it's hot like this.\"",
+    "どう is the corresponding question word, meaning \"in what way?\" or \"how?\"",
+    "You can attach the verb いう or its past tense いった to make noun modifiers such as こういう/こういった〜 (this kind of 〜). In this case, the kanji 言（い） is usually written in hiragana.",
+    "Read more about こう, そう, ああ, and どう here ."
+  ],
+  "examples": [
+    {
+      "japanese": "わっ、この 貝（かい）、かわいい！",
+      "english": "Wow, this shell is cute!"
+    },
+    {
+      "japanese": "おおっ、その貝（かい）もいいね！",
+      "english": "Ooh, that shell looks good too!"
+    },
+    {
+      "japanese": "あっ、見（み）てみて！そこにもきれいな貝（かい）がある！",
+      "english": "Hey, look! There's also a beautiful shell there!"
+    },
+    {
+      "japanese": "ん？あれ、なんだろう！",
+      "english": "Huh? What's that over there?"
+    },
+    {
+      "japanese": "え、どれ？",
+      "english": "Oh, which one?"
+    },
+    {
+      "japanese": "これはネコです。",
+      "english": "This is a cat."
+    },
+    {
+      "japanese": "そのネコは白（しろ）い。",
+      "english": "That cat is white."
+    },
+    {
+      "japanese": "ああするのはどう？",
+      "english": "How about doing it like that?"
+    },
+    {
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Concepts",
+        "Things",
+        "People",
+        "Places",
+        "Directions",
+        "Manner"
+      ],
+      [
+        "こ",
+        "Close",
+        "これ/この〜",
+        "こいつ/こなた",
+        "ここ",
+        "こちら/こっち",
+        "こう/こんな〜"
+      ],
+      [
+        "そ",
+        "Away",
+        "それ/その〜",
+        "そいつ/そなた",
+        "そこ",
+        "そちら/そっち",
+        "そう/そんな〜"
+      ],
+      [
+        "あ",
+        "Distant",
+        "あれ/あの〜",
+        "あいつ/あなた",
+        "あそこ",
+        "あちら/あっち",
+        "ああ/あんな〜"
+      ],
+      [
+        "ど",
+        "Question",
+        "どれ/どの〜",
+        "どいつ/どなた",
+        "どこ",
+        "どちら/どっち",
+        "どう/どんな〜"
+      ]
+    ],
+    [
+      [
+        "これ",
+        "こいつ/こなた",
+        "ここ",
+        "こちら/こっち"
+      ],
+      [
+        "それ",
+        "そいつ/そなた",
+        "そこ",
+        "そちら/そっち"
+      ],
+      [
+        "あれ",
+        "あいつ/あなた",
+        "あそこ",
+        "あちら/あっち"
+      ],
+      [
+        "どれ",
+        "どいつ/どなた",
+        "どこ",
+        "どちら/どっち"
+      ]
+    ],
+    [
+      [
+        "この",
+        "こんな"
+      ],
+      [
+        "その",
+        "そんな"
+      ],
+      [
+        "あの",
+        "あんな"
+      ],
+      [
+        "どの",
+        "どんな"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "level": 3,
+      "id": "classification",
+      "text": "Classification"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "pronouns",
+      "text": "Pronouns"
+    },
+    {
+      "level": 4,
+      "id": "noun-modifiers",
+      "text": "Noun Modifiers"
+    },
+    {
+      "level": 4,
+      "id": "adverbs",
+      "text": "Adverbs"
+    },
+    {
+      "level": 2,
+      "id": "brief-summary-of-each--set",
+      "text": "Brief Summary of Each こそあど Set"
+    },
+    {
+      "level": 3,
+      "id": "and-",
+      "text": "これ, それ, あれ, and どれ"
+    },
+    {
+      "level": 3,
+      "id": "and--1",
+      "text": "この, その, あの, and どの"
+    },
+    {
+      "level": 3,
+      "id": "and--2",
+      "text": "こいつ, そいつ, あいつ, and どいつ"
+    },
+    {
+      "level": 3,
+      "id": "and--3",
+      "text": "(こなた, そなた,) あなた, and どなた"
+    },
+    {
+      "level": 3,
+      "id": "and--4",
+      "text": "ここ, そこ, あそこ, and どこ"
+    },
+    {
+      "level": 3,
+      "id": "and--5",
+      "text": "こちら, そちら, あちら, and どちら"
+    },
+    {
+      "level": 3,
+      "id": "and--6",
+      "text": "こっち, そっち, あっち, and どっち"
+    },
+    {
+      "level": 3,
+      "id": "and--7",
+      "text": "こんな, そんな, あんな, and どんな"
+    },
+    {
+      "level": 3,
+      "id": "and--8",
+      "text": "こう, そう, ああ and どう"
+    }
+  ],
+  "id": 100,
+  "slug": "kosoado",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/kosoado/",
+  "categories": [
+    "Demonstrative"
+  ]
+}

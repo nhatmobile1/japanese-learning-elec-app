@@ -1,0 +1,128 @@
+{
+  "title": "〜そうになる",
+  "description": "〜そうになる attaches to a verb stem to mean \"almost did ~\" or \"was about to ~\" — something nearly happened but didn't. Usually used in the past as 〜そうになった.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜そうになる combines the appearance-そう (\"looks like it will happen\") with なる (\"to become\"), giving \"reach the point where it almost happens.\" It describes an action that was on the verge of occurring but was avoided or narrowly missed. It usually appears in the past tense: 〜そうになった."
+    },
+    {
+      "type": "formula",
+      "japanese": "verb stem ＋ そうになる",
+      "english": "almost do ~ / be about to ~"
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べそうになる",
+      "english": "almost eat (it)"
+    },
+    {
+      "type": "example",
+      "japanese": "ダッフィーのグッズを買（か）いそうになった。",
+      "english": "I almost bought Duffy merchandise."
+    },
+    {
+      "type": "example",
+      "japanese": "階段（かいだん）で転（ころ）びそうになった。",
+      "english": "I almost fell on the stairs."
+    },
+    {
+      "type": "example",
+      "japanese": "映画（えいが）を見（み）て、泣（な）きそうになった。",
+      "english": "Watching the movie, I almost cried."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "nuance",
+      "text": "Nuance"
+    },
+    {
+      "type": "paragraph",
+      "text": "The key point is that the action did NOT actually happen — it was avoided at the last moment. This makes it common for near-misses and close calls."
+    },
+    {
+      "type": "example",
+      "japanese": "寝坊（ねぼう）して、電車（でんしゃ）に遅（おく）れそうになった。",
+      "english": "I overslept and almost missed the train."
+    },
+    {
+      "type": "example",
+      "japanese": "コップを落（お）としそうになったが、なんとか掴（つか）んだ。",
+      "english": "I almost dropped the cup, but somehow grabbed it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't confuse 〜そうになる (almost happened) with 〜そうだ (looks like it will happen). 雨（あめ）が降（ふ）りそうだ means \"it looks like it will rain\"; 雨（あめ）が降（ふ）りそうになった would mean \"it was about to rain (but stopped).\" Attach そうになる to the stem, not the plain form."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "verb stem ＋ そうになる",
+      "english": "almost do ~ / be about to ~",
+      "type": "formula"
+    },
+    {
+      "japanese": "食（た）べそうになる",
+      "english": "almost eat (it)"
+    },
+    {
+      "japanese": "ダッフィーのグッズを買（か）いそうになった。",
+      "english": "I almost bought Duffy merchandise."
+    },
+    {
+      "japanese": "階段（かいだん）で転（ころ）びそうになった。",
+      "english": "I almost fell on the stairs."
+    },
+    {
+      "japanese": "映画（えいが）を見（み）て、泣（な）きそうになった。",
+      "english": "Watching the movie, I almost cried."
+    },
+    {
+      "japanese": "寝坊（ねぼう）して、電車（でんしゃ）に遅（おく）れそうになった。",
+      "english": "I overslept and almost missed the train."
+    },
+    {
+      "japanese": "コップを落（お）としそうになったが、なんとか掴（つか）んだ。",
+      "english": "I almost dropped the cup, but somehow grabbed it."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "nuance",
+      "text": "Nuance"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1036,
+  "slug": "sou-ni-naru",
+  "categories": [
+    "Verb Form",
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

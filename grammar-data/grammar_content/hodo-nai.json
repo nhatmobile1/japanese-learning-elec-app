@@ -1,0 +1,127 @@
+{
+  "title": "〜ほど〜ない",
+  "description": "The 〜ほど〜ない pattern compares two things and says one is \"not as ~ as\" the other. The noun before ほど is the standard you fall short of.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "In A ＋ ほど ＋ (adjective) ＋ ない, A is the yardstick and the sentence says the subject does not reach A's level. 東京（とうきょう）ほど大（おお）きくない means \"not as big as Tokyo\" — Tokyo is the high standard, and the subject falls short of it. The adjective always appears in its negative form."
+    },
+    {
+      "type": "formula",
+      "japanese": "A ＋ ほど ＋ adjective ＋ ない",
+      "english": "not as (adjective) as A"
+    },
+    {
+      "type": "example",
+      "japanese": "この町（まち）は東京（とうきょう）ほど大（おお）きくない。",
+      "english": "This town is not as big as Tokyo."
+    },
+    {
+      "type": "example",
+      "japanese": "韓国（かんこく）は日本（にほん）ほど悪（わる）くない。",
+      "english": "Korea is not as bad as Japan."
+    },
+    {
+      "type": "example",
+      "japanese": "今年（ことし）の夏（なつ）は去年（きょねん）ほど暑（あつ）くない。",
+      "english": "This summer is not as hot as last year."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）は兄（あに）ほど背（せ）が高（たか）くない。",
+      "english": "I am not as tall as my older brother."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "with-verbs",
+      "text": "With Verbs and Expectations"
+    },
+    {
+      "type": "paragraph",
+      "text": "ほど can also follow a verb or a plain clause, often to compare against what you expected. 思（おも）ったほど〜ない means \"not as ~ as I thought.\""
+    },
+    {
+      "type": "example",
+      "japanese": "試験（しけん）は思（おも）ったほど難（むずか）しくなかった。",
+      "english": "The exam was not as difficult as I thought."
+    },
+    {
+      "type": "example",
+      "japanese": "この料理（りょうり）は見（み）た目（め）ほど辛（から）くない。",
+      "english": "This dish is not as spicy as it looks."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The verb or adjective must stay negative — you cannot say 東京（とうきょう）ほど大（おお）きい. To make a plain \"as ~ as\" positive comparison, use 〜と同（おな）じくらい instead: 大阪（おおさか）と同（おな）じくらい大（おお）きい (as big as Osaka)."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "A ＋ ほど ＋ adjective ＋ ない",
+      "english": "not as (adjective) as A",
+      "type": "formula"
+    },
+    {
+      "japanese": "この町（まち）は東京（とうきょう）ほど大（おお）きくない。",
+      "english": "This town is not as big as Tokyo."
+    },
+    {
+      "japanese": "韓国（かんこく）は日本（にほん）ほど悪（わる）くない。",
+      "english": "Korea is not as bad as Japan."
+    },
+    {
+      "japanese": "今年（ことし）の夏（なつ）は去年（きょねん）ほど暑（あつ）くない。",
+      "english": "This summer is not as hot as last year."
+    },
+    {
+      "japanese": "私（わたし）は兄（あに）ほど背（せ）が高（たか）くない。",
+      "english": "I am not as tall as my older brother."
+    },
+    {
+      "japanese": "試験（しけん）は思（おも）ったほど難（むずか）しくなかった。",
+      "english": "The exam was not as difficult as I thought."
+    },
+    {
+      "japanese": "この料理（りょうり）は見（み）た目（め）ほど辛（から）くない。",
+      "english": "This dish is not as spicy as it looks."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "with-verbs",
+      "text": "With Verbs and Expectations"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1037,
+  "slug": "hodo-nai",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

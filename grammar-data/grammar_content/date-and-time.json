@@ -1,0 +1,1991 @@
+{
+  "title": "Date and Time",
+  "description": "To give the date, you use 〜年（とし） (year), 〜月（つき） (month), 〜日（にち） (day), and 〜曜日（ようび） (day of the week). To tell time, you use 〜時（とき） (hour), 〜分（ぶん） (minute), and 〜秒（びょう） (second).",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Talking about the date and time in Japanese is pretty simple! Apart from knowing how to count in Japanese , you just need to know the right words for each component and to follow the format. This page will talk about all the necessary components one by one, so let's get started."
+    },
+    {
+      "type": "paragraph",
+      "text": "Prerequisites: Before diving in, make sure you’re familiar with the basics of counting and counters in Japanese. If you need a refresher (or an introduction), feel free to check out this page !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "date",
+      "text": "Date"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most typical date format in Japan is \"Year Month Day (Weekday),\" in which each number is followed by the respective Japanese characters 年（とし） (year), 月（つき） (month), 日（にち） (day), and 曜日（ようび） (day of the week). So for example, Friday, February 4, 2022 will be written as 2022年（ねん）2月（つき）4日（にち）金曜日（きんようび） in Japanese. It can also be abbreviated, like '22/02/04（金（きん））or 22.2.4（金（きむ））, but the order of the format remains the same."
+    },
+    {
+      "type": "paragraph",
+      "text": "It might be helpful to note here that in Japan, the order of things like this usually starts with more general info, then gets narrowed down to more specific info. With names, for example, the family name comes first, followed by the given name. Similarly, addresses in Japan start with the postal code, followed by the prefecture, city, street number, and finally building. You can think of the date as following the same pattern!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, let's take a look at each element and discuss how to use it."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-year",
+      "text": "年 for \"Year\""
+    },
+    {
+      "type": "paragraph",
+      "text": "To talk about \"calendar years,\" you use 〜 年（ねん） . Take a look at the chart below to make sure you know how to read each number:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Year (numeral)",
+          "Japanese (kanji)",
+          "Reading"
+        ],
+        [
+          "1",
+          "一（いち）年（ねん）",
+          "いちねん"
+        ],
+        [
+          "2",
+          "二（に）年（ねん）",
+          "にねん"
+        ],
+        [
+          "3",
+          "三（さん）年（ねん）",
+          "さんねん"
+        ],
+        [
+          "4",
+          "四（よん）年（ねん）",
+          "よねん"
+        ],
+        [
+          "5",
+          "五（ご）年（ねん）",
+          "ごねん"
+        ],
+        [
+          "6",
+          "六（ろく）年（ねん）",
+          "ろくねん"
+        ],
+        [
+          "7",
+          "七（なな）年（ねん）",
+          "ななねん / (しちねん)"
+        ],
+        [
+          "8",
+          "八（はち）年（ねん）",
+          "はちねん"
+        ],
+        [
+          "9",
+          "九（きゅう）年（ねん）",
+          "きゅうねん /（くねん）"
+        ],
+        [
+          "10",
+          "十（じゅう）年（ねん）",
+          "じゅうねん"
+        ],
+        [
+          "11",
+          "十（じゅう）一（いち）年（ねん）",
+          "じゅういちねん"
+        ],
+        [
+          "12",
+          "十（じゅう）二（に）年（ねん）",
+          "じゅうにねん"
+        ],
+        [
+          "100",
+          "百（ひゃく）年（ねん）",
+          "ひゃくねん"
+        ],
+        [
+          "1,000",
+          "千（せん）年（ねん）",
+          "せんねん"
+        ],
+        [
+          "2,000",
+          "二（に）千（せん）年（ねん）",
+          "にせんねん"
+        ],
+        [
+          "What year",
+          "何（なん）年（ねん）",
+          "なんねん"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the above table lists kanji writing, it's very common to use numerals with dates in horizontal writing. In vertical writing, which is how Japanese books are traditionally written, kanji is typically employed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though the majority of people in Japan use — or at the very least are familiar with — the Western calendar ( 西暦（せいれき）), the traditional imperial calendar is still employed, especially for official documents. When using the imperial calendar, the name of the era comes before the year. For example, the year 2011年（ねん） is 平成（へいせい）23年（ねん） on the imperial calendar because it's the 23rd year of the Heisei era. 2011年（ねん）4月（つき）1日（にち）金曜日（きんようび） can also be written as 平成（へいせい）23年（ねん）4月（つき）1日（にち）金曜日（きんようび）. The name of the era may be abbreviated to its first single character, as in 平（ひら）23/04/01, or its initial letter in romaji (the roman alphabet), as in H23.04.01."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to convert Western calendar years to Japanese imperial calendar years, websites like this one may come in handy!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-month",
+      "text": "月 for \"Month\""
+    },
+    {
+      "type": "paragraph",
+      "text": "To talk about \"calendar months,\" you use 〜 月（がつ） . Take a look at the chart below to make sure you know how to read each number:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Japanese",
+          "Reading",
+          "English"
+        ],
+        [
+          "一月（いちがつ） / １月（いちがつ）",
+          "いちがつ",
+          "January"
+        ],
+        [
+          "二月（にがつ） / ２月（にがつ）",
+          "にがつ",
+          "February"
+        ],
+        [
+          "三月（さんがつ） / ３月（さんがつ）",
+          "さんがつ",
+          "March"
+        ],
+        [
+          "四月（しがつ） / ４月（しがつ）",
+          "しがつ",
+          "April"
+        ],
+        [
+          "五月（ごがつ） / ５月（ごがつ）",
+          "ごがつ",
+          "May"
+        ],
+        [
+          "六月（ろくがつ） / ６月（ろくがつ）",
+          "ろくがつ",
+          "June"
+        ],
+        [
+          "七月（しちがつ） / ７月（しちがつ）",
+          "しちがつ / (なながつ)",
+          "July"
+        ],
+        [
+          "八月（はちがつ） / ８月（はちがつ）",
+          "はちがつ",
+          "August"
+        ],
+        [
+          "九月（くがつ） / ９月（くがつ）",
+          "くがつ",
+          "September"
+        ],
+        [
+          "十月（じゅうがつ） / １０月（じゅうがつ）",
+          "じゅうがつ",
+          "October"
+        ],
+        [
+          "十一月（じゅういちがつ） / １１月（じゅういちがつ）",
+          "じゅういちがつ",
+          "November"
+        ],
+        [
+          "十二月（じゅうにがつ） / １２月（じゅうにがつ）",
+          "じゅうにがつ",
+          "December"
+        ],
+        [
+          "何（なに）月（つき）",
+          "なんがつ",
+          "Which month(s)?"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "It's pretty straightforward, right? Bear in mind this is all about calendar months , not about counting months. To count months, as in \"I've been in Japan for two months,\" things are a bit different — you'll have to use a counter like 〜ヶ月（かげつ） or 〜月（つき）. If you aren't familiar with those, check out the counter 月（つき） page!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-date",
+      "text": "日 for \"Date\""
+    },
+    {
+      "type": "paragraph",
+      "text": "To talk about \"calendar days,\" you use 〜 日（にち） . Take a look at the chart below to make sure you know how to read each number:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Numeral",
+          "Japanese",
+          "Reading",
+          "English"
+        ],
+        [
+          "1",
+          "一（いち）日（にち）",
+          "ついたち / (いっぴ)",
+          "1st"
+        ],
+        [
+          "2",
+          "二（に）日（にち）",
+          "ふつか",
+          "2nd"
+        ],
+        [
+          "3",
+          "三（さん）日（にち）",
+          "みっか",
+          "3rd"
+        ],
+        [
+          "4",
+          "四（よん）日（にち）",
+          "よっか",
+          "4th"
+        ],
+        [
+          "5",
+          "五（ご）日（にち）",
+          "いつか",
+          "5th"
+        ],
+        [
+          "6",
+          "六（ろく）日（にち）",
+          "むいか",
+          "6th"
+        ],
+        [
+          "7",
+          "七（なな）日（にち）",
+          "なのか",
+          "7th"
+        ],
+        [
+          "8",
+          "八（はち）日（にち）",
+          "ようか",
+          "8th"
+        ],
+        [
+          "9",
+          "九（きゅう）日（にち）",
+          "ここのか",
+          "9th"
+        ],
+        [
+          "10",
+          "十（じゅう）日（にち）",
+          "とおか",
+          "10th"
+        ],
+        [
+          "11",
+          "十（じゅう）一（いち）日（にち）",
+          "じゅういちにち",
+          "11th"
+        ],
+        [
+          "12",
+          "十（じゅう）二（に）日（にち）",
+          "じゅうににち",
+          "12th"
+        ],
+        [
+          "13",
+          "十（じゅう）三（さん）日（にち）",
+          "じゅうさんにち",
+          "13th"
+        ],
+        [
+          "14",
+          "十（じゅう）四（よん）日（にち）",
+          "じゅうよっか",
+          "14th"
+        ],
+        [
+          "15",
+          "十（じゅう）五（ご）日（にち）",
+          "じゅうごにち",
+          "15th"
+        ],
+        [
+          "16",
+          "十（じゅう）六（ろく）日（にち）",
+          "じゅうろくにち",
+          "16th"
+        ],
+        [
+          "17",
+          "十（じゅう）七（なな）日（にち）",
+          "じゅうしちにち / (じゅうななにち)",
+          "17th"
+        ],
+        [
+          "18",
+          "十（じゅう）八（はち）日（にち）",
+          "じゅうはちにち",
+          "18th"
+        ],
+        [
+          "19",
+          "十（じゅう）九（きゅう）日（にち）",
+          "じゅうくにち",
+          "19th"
+        ],
+        [
+          "20",
+          "二（に）十（じゅう）日（にち）",
+          "はつか",
+          "20th"
+        ],
+        [
+          "21",
+          "二（に）十（じゅう）一（いち）日（にち）",
+          "にじゅういちにち",
+          "21st"
+        ],
+        [
+          "22",
+          "二（に）十（じゅう）二（に）日（にち）",
+          "にじゅうににち",
+          "22nd"
+        ],
+        [
+          "23",
+          "二（に）十（じゅう）三（さん）日（にち）",
+          "にじゅうさんにち",
+          "23rd"
+        ],
+        [
+          "24",
+          "二（に）十（じゅう）四（よん）日（にち）",
+          "にじゅうよっか",
+          "24th"
+        ],
+        [
+          "25",
+          "二（に）十（じゅう）五（ご）日（にち）",
+          "にじゅうごにち",
+          "25th"
+        ],
+        [
+          "26",
+          "二（に）十（じゅう）六（ろく）日（にち）",
+          "にじゅうろくにち",
+          "26th"
+        ],
+        [
+          "27",
+          "二（に）十（じゅう）七（なな）日（にち）",
+          "にじゅうしちにち / (にじゅうななにち)",
+          "27th"
+        ],
+        [
+          "28",
+          "二（に）十（じゅう）八（はち）日（にち）",
+          "にじゅうはちにち",
+          "28th"
+        ],
+        [
+          "29",
+          "二（に）十（じゅう）九（きゅう）日（にち）",
+          "にじゅうくにち",
+          "29th"
+        ],
+        [
+          "30",
+          "三（さん）十（じゅう）日（にち）",
+          "さんじゅうにち",
+          "30th"
+        ],
+        [
+          "31",
+          "三（さん）十（じゅう）一（いち）日（にち）",
+          "さんじゅういちにち",
+          "31st"
+        ],
+        [
+          "Which day",
+          "何（なん）日（にち）",
+          "なんにち",
+          "Which day"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see in the table, 日（にち） can be read as either か (wago) or にち (kango). Readings for numbers can also be a mixture of wago and kango , so watch out! There aren't any tricks to remember them quickly, but continuous practice using a Spaced Repetition System like WaniKani will probably help you get used to them!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-days-of-the-week",
+      "text": "曜日 for \"Days of The Week\""
+    },
+    {
+      "type": "paragraph",
+      "text": "To talk about \"days of the week,\" you use 〜 曜日（ようび） . For days of the week, you don't use numerals but kanji characters, each of which indicates an element of nature. Take a look at the chart below to make sure you know how to read each character:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Element of Nature",
+          "Japanese",
+          "Pronunciation",
+          "English"
+        ],
+        [
+          "Sun (Yang)",
+          "日曜（にちよう）（日（ひ））",
+          "にちよう（び）",
+          "Sunday"
+        ],
+        [
+          "Moon (Yin)",
+          "月曜（げつよう）（日（ひ））",
+          "げつよう（び）",
+          "Monday"
+        ],
+        [
+          "Fire",
+          "火曜（かよう）（日（ひ））",
+          "かよう（び）",
+          "Tuesday"
+        ],
+        [
+          "Water",
+          "水曜（すいよう）（日（ひ））",
+          "すいよう（び）",
+          "Wednesday"
+        ],
+        [
+          "Wood",
+          "木曜（もくよう）（日（ひ））",
+          "もくよう（び）",
+          "Thursday"
+        ],
+        [
+          "Gold (Metal)",
+          "金曜（きんよう）（日（ひ））",
+          "きんよう（び）",
+          "Friday"
+        ],
+        [
+          "Earth",
+          "土曜（どよう）（日（ひ））",
+          "どよう（び）",
+          "Saturday"
+        ],
+        [
+          "N/A",
+          "何（なに）曜（曜）（日（ひ））",
+          "なんよう（び）",
+          "Which day of the week?"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "So, why does each kanji character indicate an element of nature? It's because the naming concept was developed by fusing the yin and yang of Chinese philosophy with the five Taoist elements (Wood, Fire, Earth, Metal, and Water) . Pretty cool, huh?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that 曜日（ようび） is often abbreviated to 曜（曜） both in speaking and writing, as in 日曜（にちよう） or 月曜（げつよう）. The 曜日（ようび） part can also often be completely omitted as an abbreviated form in writing, but in that case, the first single character is often put in parentheses, as in （日（ひ）） or （月（つき））."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "time",
+      "text": "Time"
+    },
+    {
+      "type": "paragraph",
+      "text": "Okay, let's move on to learning how to discuss time in Japanese. First, let's talk about the general stuff, and then check out each element."
+    },
+    {
+      "type": "paragraph",
+      "text": "When writing a specific time in Japanese, 時（とき） (o'clock) and 分（ぶん） (minute) are added after the numerals. So, for example, 7:15 is written 七（なな）時（じ）十（じゅう）五（ご）分（ふん）, though it's typical to simply write 7:15 in Japanese as well. If you want, you can also add 秒（びょう） (seconds) after the minute part, like 七（なな）時（じ）十（じゅう）五（ご）分（ふん）二（に）十（じゅう）三（さん）秒（びょう）."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japan, both the 12-hour and 24-hour formats are common. When using the 12-hour format, 午前（ごぜん） (a.m.) or 午後（ごご） (p.m.) can be added before the time, as in 午前（ごぜん）7時（じ）15分（ふん） (7:15 a.m.) or 午後（ごご）7時（じ）15分（ふん） (7:15 p.m.) for clarification. AM/PM signs are also used, however, and unlike 午前（ごぜん） and 午後（ごご）, AM and PM can be put either before or after the time (AM7:15 or 7:15PM)."
+    },
+    {
+      "type": "paragraph",
+      "text": "For the 24-hour format, it's particularly employed in schedules for public transit to prevent people from mixing up AM and PM. Interestingly, times beyond midnight after the 24-hour mark can also be counted continuously sometimes. This often occurs when the activity from before midnight extends past midnight , indicating that your day has kept on extending past the 24-hour threshold. For instance, a radio program that starts at 1:00 and ends at 2:00 in the morning might say it starts at 25:00 and ends at 26:00 on their time table."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now you've got the basic idea, let's take a look at each element. We've already talked about the basic ways to use them, so the focus here will be mostly on their readings."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-oclock",
+      "text": "時 for \"O'clock\""
+    },
+    {
+      "type": "paragraph",
+      "text": "To give the hour reading on a clock (\"o'clock\") you use 〜 時（じ） . Take a look at the chart below to make sure you know how to read each number:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Numeral",
+          "Japanese",
+          "Reading",
+          "English"
+        ],
+        [
+          "1",
+          "一時（いちじ）",
+          "いちじ",
+          "1:00 a.m."
+        ],
+        [
+          "2",
+          "二（に）時（じ）",
+          "にじ",
+          "2:00 a.m."
+        ],
+        [
+          "3",
+          "三時（さんじ）",
+          "さんじ",
+          "3:00 a.m."
+        ],
+        [
+          "4",
+          "四（よん）時（じ）",
+          "よじ",
+          "4:00 a.m."
+        ],
+        [
+          "5",
+          "五（ご）時（じ）",
+          "ごじ",
+          "5:00 a.m."
+        ],
+        [
+          "6",
+          "六（ろく）時（じ）",
+          "ろくじ",
+          "6:00 a.m."
+        ],
+        [
+          "7",
+          "七（なな）時（じ）",
+          "しちじ / (ななじ)",
+          "7:00 a.m."
+        ],
+        [
+          "8",
+          "八（はち）時（じ）",
+          "はちじ",
+          "8:00 a.m."
+        ],
+        [
+          "9",
+          "九（きゅう）時（じ）",
+          "くじ",
+          "9:00 a.m."
+        ],
+        [
+          "10",
+          "十（じゅう）時（じ）",
+          "じゅうじ",
+          "10:00 a.m."
+        ],
+        [
+          "11",
+          "十（じゅう）一（いち）時（じ）",
+          "じゅういちじ",
+          "11:00 a.m."
+        ],
+        [
+          "12",
+          "十（じゅう）二（に）時（じ）",
+          "じゅうにじ",
+          "12:00 p.m."
+        ],
+        [
+          "13",
+          "十（じゅう）三（さん）時（じ）",
+          "じゅうさんじ",
+          "13:00 (1:00 p.m.)"
+        ],
+        [
+          "14",
+          "十（じゅう）四（よん）時（じ）",
+          "じゅうよじ",
+          "14:00 (2:00 p.m.)"
+        ],
+        [
+          "15",
+          "十（じゅう）五（ご）時（じ）",
+          "じゅうごじ",
+          "15:00 (3:00 p.m.)"
+        ],
+        [
+          "16",
+          "十（じゅう）六（ろく）時（じ）",
+          "じゅうろくじ",
+          "16:00 (4:00 p.m.)"
+        ],
+        [
+          "17",
+          "十（じゅう）七（なな）時（じ）",
+          "じゅうしちじ / (じゅうななじ)",
+          "17:00 (5:00 p.m.)"
+        ],
+        [
+          "18",
+          "十（じゅう）八（はち）時（じ）",
+          "じゅうはちじ",
+          "18:00 (6:00 p.m.)"
+        ],
+        [
+          "19",
+          "十（じゅう）九（きゅう）時（じ）",
+          "じゅうくじ",
+          "19:00 (7:00 p.m.)"
+        ],
+        [
+          "20",
+          "二（に）十（じゅう）時（じ）",
+          "にじゅうじ",
+          "20:00 (8:00 p.m.)"
+        ],
+        [
+          "21",
+          "二（に）十（じゅう）一（いち）時（じ）",
+          "にじゅういちじ",
+          "21:00 (9:00 p.m.)"
+        ],
+        [
+          "22",
+          "二（に）十（じゅう）二（に）時（じ）",
+          "にじゅうにじ",
+          "22:00 (10:00 p.m.)"
+        ],
+        [
+          "23",
+          "二（に）十（じゅう）三（さん）時（じ）",
+          "にじゅうさんじ",
+          "23:00 (11:00 p.m.)"
+        ],
+        [
+          "24",
+          "二（に）十（じゅう）四（よん）時（じ）",
+          "にじゅうよじ",
+          "24:00 (12:00 a.m.)"
+        ],
+        [
+          "0",
+          "零（れい）時（じ）",
+          "れいじ",
+          "0:00 (12:00 a.m./p.m.)"
+        ],
+        [
+          "What time",
+          "何時（いつ）",
+          "なんじ",
+          "What time"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Note numeral 0 is also used to talk about 12 a.m. and even 12 p.m., especially by Japanese broadcasting and newspapers. In this case, the midnight version is 午前（ごぜん）零（れい）時（じ）, also written as 午前（ごぜん）0時（じ）, AM 0:00, or 0:00 AM, and the noon version is 午後（ごご）零（れい）時（じ）, also written as 午後（ごご）0時（じ）, PM 0:00, or 0:00 PM. Also keep in mind that these readings are for specifying the time of day, not for counting hours or saying how much time something takes. To count or talk about the number of hours, you'll have to use 〜時間（じかん） instead."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-minute",
+      "text": "分 for \"Minute\""
+    },
+    {
+      "type": "paragraph",
+      "text": "To talk about the \"minute\" reading on a clock, you use 〜 分（ふん） . Take a look at the chart below to make sure you know how to read each number:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Numeral",
+          "Japanese",
+          "Reading"
+        ],
+        [
+          "1",
+          "一（いち）分（ふん）",
+          "いっぷん"
+        ],
+        [
+          "2",
+          "二分（にふん）",
+          "にふん"
+        ],
+        [
+          "3",
+          "三（さん）分（ふん）",
+          "さんぷん / (さんふん)"
+        ],
+        [
+          "4",
+          "四（よん）分（ふん）",
+          "よんぷん / (よんふん)"
+        ],
+        [
+          "5",
+          "五（ご）分（ふん）",
+          "ごふん"
+        ],
+        [
+          "6",
+          "六（ろく）分（ふん）",
+          "ろっぷん"
+        ],
+        [
+          "7",
+          "七（なな）分（ふん）",
+          "ななふん / (しちふん)"
+        ],
+        [
+          "8",
+          "八（はち）分（ふん）",
+          "はっぷん / (はちふん)"
+        ],
+        [
+          "9",
+          "九分（きゅうふん）",
+          "きゅうふん"
+        ],
+        [
+          "10",
+          "十（じゅう）分（ふん）",
+          "じゅっぷん / (じっぷん)"
+        ],
+        [
+          "11",
+          "十（じゅう）一（いち）分（ふん）",
+          "じゅういっぷん"
+        ],
+        [
+          "12",
+          "十（じゅう）二（に）分（ふん）",
+          "じゅうにふん"
+        ],
+        [
+          "What minute",
+          "何分（なにぶん）",
+          "なんぷん / (なんふん)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice how the ふ of 分（ふん） often changes to a ぷ? This is called rendaku, also known as \"sequential voicing\" in English. If you aren't familiar with it, here is our article about rendaku !"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that to indicate 30 minutes past the hour, you can also use the word 半（はん） . So 9:30 can be written either as 九（きゅう）時（じ）三（さん）十（じゅう）分（ふん） or 九（きゅう）時半（じはん）, along with the numeral versions."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-second",
+      "text": "秒 for \"Second\""
+    },
+    {
+      "type": "paragraph",
+      "text": "To talk about the \"second\" reading on a clock, you use 〜 秒（びょう） . Take a look at the chart below to make sure you know how to read each number:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Numeral",
+          "Japanese",
+          "Reading"
+        ],
+        [
+          "1",
+          "一（いち）秒（びょう）",
+          "いちびょう"
+        ],
+        [
+          "2",
+          "二（に）秒（びょう）",
+          "にびょう"
+        ],
+        [
+          "3",
+          "三（さん）秒（びょう）",
+          "さんびょう"
+        ],
+        [
+          "4",
+          "四（よん）秒（びょう）",
+          "よんびょう"
+        ],
+        [
+          "5",
+          "五（ご）秒（びょう）",
+          "ごびょう"
+        ],
+        [
+          "6",
+          "六（ろく）秒（びょう）",
+          "ろくびょう"
+        ],
+        [
+          "7",
+          "七（なな）秒（びょう）",
+          "ななびょう"
+        ],
+        [
+          "8",
+          "八（はち）秒（びょう）",
+          "はちびょう"
+        ],
+        [
+          "9",
+          "九（きゅう）秒（びょう）",
+          "きゅうびょう"
+        ],
+        [
+          "10",
+          "十（じゅう）秒（びょう）",
+          "じゅうびょう"
+        ],
+        [
+          "11",
+          "十（じゅう）一（いち）秒（びょう）",
+          "じゅういちびょう"
+        ],
+        [
+          "12",
+          "十（じゅう）二（に）秒（びょう）",
+          "じゅうにびょう"
+        ],
+        [
+          "What second",
+          "何（なん）秒（びょう）",
+          "なんびょう"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Thankfully, the readings for 〜秒（びょう） are very straightforward. You can just use the kango numbers from 1 to 60 and stick 秒（びょう） after them."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "commonly-paired-suffixes",
+      "text": "Commonly Paired Suffixes"
+    },
+    {
+      "type": "paragraph",
+      "text": "We've learned how to talk about the date and time in pretty precise terms. Now you should have no trouble using Japanese to schedule your next dentist appointment for exactly 4:47 p.m. on a Wednesday two months from now. But not all time-related discussions are so clear-cut. What if you want to give a rough estimate instead of an exact time? Read on to find out!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "and--for-around-",
+      "text": "〜くらい and 〜頃 for \"Around 〜\""
+    },
+    {
+      "type": "paragraph",
+      "text": "To give an approximation of the date and time, the suffixes くらい and 頃（ころ） are commonly used. Although they both can be used in casual and formal settings, くらい is more casual and 頃（ころ） is a bit stiffer."
+    },
+    {
+      "type": "paragraph",
+      "text": "When speaking casually, more people would probably go with くらい:"
+    },
+    {
+      "type": "example",
+      "japanese": "七（なな）時（じ）くらいにそっちに行（い）くね。",
+      "english": "I'll be there around seven."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, when talking to your client in a more formal manner, 頃（ころ） may come into play more often, as it can add some rigidity to your speech."
+    },
+    {
+      "type": "example",
+      "japanese": "七（なな）時（じ）頃（ごろ）にそちらに伺（うかが）います。",
+      "english": "I'll be there around seven."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note both くらい and 頃（ころ） typically get rendaku -ed and become ぐらい or 頃（ごろ）."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "and--with-and-without-particle-",
+      "text": "〜くらい and 〜頃 with and without Particle に"
+    },
+    {
+      "type": "paragraph",
+      "text": "One heads up is that くらい can be used to indicate not only approximate points in time but also approximate durations, whereas 頃（ころ） only denotes approximate points in time. In other words, when the expression can indicate both the point in time and duration, you must have the pinpointer particle に with くらい to show you're talking about the point in time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's imagine, for example, that you text your friend the following message at roughly 2 p.m. When discussing the time implied (because it's within an hour from now or because it was mentioned earlier), it's common to only specify the minute portion of the time in Japanese. In this case, you can still understand it's about a point in time if the particle に is there:"
+    },
+    {
+      "type": "example",
+      "japanese": "四（よん）十（じゅう）五（ご）分（ふん）くらいにバスに乗（の）るね！",
+      "english": "I'll get on the bus at around 2:45 p.m."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if the に is taken out, the meaning of the sentence will indicate the duration instead:"
+    },
+    {
+      "type": "example",
+      "japanese": "四（よん）十（じゅう）五（ご）分（ふん）くらいバスに乗（の）るね！",
+      "english": "I'll be on the bus for around 45 minutes."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, 頃（ころ）'s meaning remains the same with or without に because it never denotes an approximate duration of time."
+    },
+    {
+      "type": "example",
+      "japanese": "四十五分頃（に）バスに乗（の）るね！",
+      "english": "I'll get on the bus at around 2:45 p.m."
+    },
+    {
+      "type": "paragraph",
+      "text": "Try to master this くらい/ 頃（ころ） distinction so your friends aren’t confused about your expected arrival time!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-shortly-before",
+      "text": "〜前 for \"Shortly Before…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "To talk about a point in time before a certain time, you can use the word 前（まえ） (front/before)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When 前（まえ） is attached to a duration of time, it indicates \"…ago\" or \"…earlier,\" as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "二（に）時間（じかん）前（まえ）にバス停（てい）に来（き）た。",
+      "english": "I came to the bus stop two hours [ago・earlier]."
+    },
+    {
+      "type": "paragraph",
+      "text": "But 前（まえ） can also mean \"shortly before\" when it's directly attached to a given point in time, like in the following:"
+    },
+    {
+      "type": "example",
+      "japanese": "二（に）時（じ）前（まえ）にバス停（てい）に来（き）た。",
+      "english": "I came to the bus stop shortly before two o'clock."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, 前（まえ） indicates an unspecified period just before the given time."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-shortly-after",
+      "text": "〜過ぎ for \"Shortly After…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Although 前（まえ） is usually paired with 後（こう）, to say something is \"shortly after\" a certain time, you use 〜 過（す）ぎ, which is the stem form of the verb 過（す）ぎる (to pass), as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "二（に）時（じ）過（す）ぎにバスが来（き）た。",
+      "english": "The bus came shortly after two o'clock."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that it's also common to write the kanji in kana, as in 二（に）時（じ） すぎ ."
+    },
+    {
+      "type": "paragraph",
+      "text": "後（ご） still has its uses though! We can attach it to a duration of time, indicating \"…later,\" as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "二（に）時間（じかん）後（ご）にバスが来（き）た。",
+      "english": "The bus came two hours later."
+    },
+    {
+      "type": "paragraph",
+      "text": "Knowing how to tell time exactly is an important basic skill in language. But most discussions about time aren’t super exact, so these expressions will definitely come in handy too!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Talking about the date and time in Japanese is pretty simple! Apart from knowing how to count in Japanese , you just need to know the right words for each component and to follow the format. This page will talk about all the necessary components one by one, so let's get started.",
+    "Prerequisites: Before diving in, make sure you’re familiar with the basics of counting and counters in Japanese. If you need a refresher (or an introduction), feel free to check out this page !",
+    "The most typical date format in Japan is \"Year Month Day (Weekday),\" in which each number is followed by the respective Japanese characters 年（とし） (year), 月（つき） (month), 日（にち） (day), and 曜日（ようび） (day of the week). So for example, Friday, February 4, 2022 will be written as 2022年（ねん）2月（つき）4日（にち）金曜日（きんようび） in Japanese. It can also be abbreviated, like '22/02/04（金（きん））or 22.2.4（金（きむ））, but the order of the format remains the same.",
+    "It might be helpful to note here that in Japan, the order of things like this usually starts with more general info, then gets narrowed down to more specific info. With names, for example, the family name comes first, followed by the given name. Similarly, addresses in Japan start with the postal code, followed by the prefecture, city, street number, and finally building. You can think of the date as following the same pattern!",
+    "Now, let's take a look at each element and discuss how to use it.",
+    "To talk about \"calendar years,\" you use 〜 年（ねん） . Take a look at the chart below to make sure you know how to read each number:",
+    "Although the above table lists kanji writing, it's very common to use numerals with dates in horizontal writing. In vertical writing, which is how Japanese books are traditionally written, kanji is typically employed.",
+    "Even though the majority of people in Japan use — or at the very least are familiar with — the Western calendar ( 西暦（せいれき）), the traditional imperial calendar is still employed, especially for official documents. When using the imperial calendar, the name of the era comes before the year. For example, the year 2011年（ねん） is 平成（へいせい）23年（ねん） on the imperial calendar because it's the 23rd year of the Heisei era. 2011年（ねん）4月（つき）1日（にち）金曜日（きんようび） can also be written as 平成（へいせい）23年（ねん）4月（つき）1日（にち）金曜日（きんようび）. The name of the era may be abbreviated to its first single character, as in 平（ひら）23/04/01, or its initial letter in romaji (the roman alphabet), as in H23.04.01.",
+    "If you want to convert Western calendar years to Japanese imperial calendar years, websites like this one may come in handy!",
+    "To talk about \"calendar months,\" you use 〜 月（がつ） . Take a look at the chart below to make sure you know how to read each number:",
+    "It's pretty straightforward, right? Bear in mind this is all about calendar months , not about counting months. To count months, as in \"I've been in Japan for two months,\" things are a bit different — you'll have to use a counter like 〜ヶ月（かげつ） or 〜月（つき）. If you aren't familiar with those, check out the counter 月（つき） page!",
+    "To talk about \"calendar days,\" you use 〜 日（にち） . Take a look at the chart below to make sure you know how to read each number:",
+    "As you can see in the table, 日（にち） can be read as either か (wago) or にち (kango). Readings for numbers can also be a mixture of wago and kango , so watch out! There aren't any tricks to remember them quickly, but continuous practice using a Spaced Repetition System like WaniKani will probably help you get used to them!",
+    "To talk about \"days of the week,\" you use 〜 曜日（ようび） . For days of the week, you don't use numerals but kanji characters, each of which indicates an element of nature. Take a look at the chart below to make sure you know how to read each character:",
+    "So, why does each kanji character indicate an element of nature? It's because the naming concept was developed by fusing the yin and yang of Chinese philosophy with the five Taoist elements (Wood, Fire, Earth, Metal, and Water) . Pretty cool, huh?",
+    "Note that 曜日（ようび） is often abbreviated to 曜（曜） both in speaking and writing, as in 日曜（にちよう） or 月曜（げつよう）. The 曜日（ようび） part can also often be completely omitted as an abbreviated form in writing, but in that case, the first single character is often put in parentheses, as in （日（ひ）） or （月（つき））.",
+    "Okay, let's move on to learning how to discuss time in Japanese. First, let's talk about the general stuff, and then check out each element.",
+    "When writing a specific time in Japanese, 時（とき） (o'clock) and 分（ぶん） (minute) are added after the numerals. So, for example, 7:15 is written 七（なな）時（じ）十（じゅう）五（ご）分（ふん）, though it's typical to simply write 7:15 in Japanese as well. If you want, you can also add 秒（びょう） (seconds) after the minute part, like 七（なな）時（じ）十（じゅう）五（ご）分（ふん）二（に）十（じゅう）三（さん）秒（びょう）.",
+    "In Japan, both the 12-hour and 24-hour formats are common. When using the 12-hour format, 午前（ごぜん） (a.m.) or 午後（ごご） (p.m.) can be added before the time, as in 午前（ごぜん）7時（じ）15分（ふん） (7:15 a.m.) or 午後（ごご）7時（じ）15分（ふん） (7:15 p.m.) for clarification. AM/PM signs are also used, however, and unlike 午前（ごぜん） and 午後（ごご）, AM and PM can be put either before or after the time (AM7:15 or 7:15PM).",
+    "For the 24-hour format, it's particularly employed in schedules for public transit to prevent people from mixing up AM and PM. Interestingly, times beyond midnight after the 24-hour mark can also be counted continuously sometimes. This often occurs when the activity from before midnight extends past midnight , indicating that your day has kept on extending past the 24-hour threshold. For instance, a radio program that starts at 1:00 and ends at 2:00 in the morning might say it starts at 25:00 and ends at 26:00 on their time table.",
+    "Now you've got the basic idea, let's take a look at each element. We've already talked about the basic ways to use them, so the focus here will be mostly on their readings.",
+    "To give the hour reading on a clock (\"o'clock\") you use 〜 時（じ） . Take a look at the chart below to make sure you know how to read each number:",
+    "Note numeral 0 is also used to talk about 12 a.m. and even 12 p.m., especially by Japanese broadcasting and newspapers. In this case, the midnight version is 午前（ごぜん）零（れい）時（じ）, also written as 午前（ごぜん）0時（じ）, AM 0:00, or 0:00 AM, and the noon version is 午後（ごご）零（れい）時（じ）, also written as 午後（ごご）0時（じ）, PM 0:00, or 0:00 PM. Also keep in mind that these readings are for specifying the time of day, not for counting hours or saying how much time something takes. To count or talk about the number of hours, you'll have to use 〜時間（じかん） instead.",
+    "To talk about the \"minute\" reading on a clock, you use 〜 分（ふん） . Take a look at the chart below to make sure you know how to read each number:",
+    "Notice how the ふ of 分（ふん） often changes to a ぷ? This is called rendaku, also known as \"sequential voicing\" in English. If you aren't familiar with it, here is our article about rendaku !",
+    "Note that to indicate 30 minutes past the hour, you can also use the word 半（はん） . So 9:30 can be written either as 九（きゅう）時（じ）三（さん）十（じゅう）分（ふん） or 九（きゅう）時半（じはん）, along with the numeral versions.",
+    "To talk about the \"second\" reading on a clock, you use 〜 秒（びょう） . Take a look at the chart below to make sure you know how to read each number:",
+    "Thankfully, the readings for 〜秒（びょう） are very straightforward. You can just use the kango numbers from 1 to 60 and stick 秒（びょう） after them.",
+    "We've learned how to talk about the date and time in pretty precise terms. Now you should have no trouble using Japanese to schedule your next dentist appointment for exactly 4:47 p.m. on a Wednesday two months from now. But not all time-related discussions are so clear-cut. What if you want to give a rough estimate instead of an exact time? Read on to find out!",
+    "To give an approximation of the date and time, the suffixes くらい and 頃（ころ） are commonly used. Although they both can be used in casual and formal settings, くらい is more casual and 頃（ころ） is a bit stiffer.",
+    "When speaking casually, more people would probably go with くらい:",
+    "On the other hand, when talking to your client in a more formal manner, 頃（ころ） may come into play more often, as it can add some rigidity to your speech.",
+    "Note both くらい and 頃（ころ） typically get rendaku -ed and become ぐらい or 頃（ごろ）.",
+    "One heads up is that くらい can be used to indicate not only approximate points in time but also approximate durations, whereas 頃（ころ） only denotes approximate points in time. In other words, when the expression can indicate both the point in time and duration, you must have the pinpointer particle に with くらい to show you're talking about the point in time.",
+    "Let's imagine, for example, that you text your friend the following message at roughly 2 p.m. When discussing the time implied (because it's within an hour from now or because it was mentioned earlier), it's common to only specify the minute portion of the time in Japanese. In this case, you can still understand it's about a point in time if the particle に is there:",
+    "But if the に is taken out, the meaning of the sentence will indicate the duration instead:",
+    "On the other hand, 頃（ころ）'s meaning remains the same with or without に because it never denotes an approximate duration of time.",
+    "Try to master this くらい/ 頃（ころ） distinction so your friends aren’t confused about your expected arrival time!",
+    "To talk about a point in time before a certain time, you can use the word 前（まえ） (front/before).",
+    "When 前（まえ） is attached to a duration of time, it indicates \"…ago\" or \"…earlier,\" as in:",
+    "But 前（まえ） can also mean \"shortly before\" when it's directly attached to a given point in time, like in the following:",
+    "In this case, 前（まえ） indicates an unspecified period just before the given time.",
+    "Although 前（まえ） is usually paired with 後（こう）, to say something is \"shortly after\" a certain time, you use 〜 過（す）ぎ, which is the stem form of the verb 過（す）ぎる (to pass), as in:",
+    "Note that it's also common to write the kanji in kana, as in 二（に）時（じ） すぎ .",
+    "後（ご） still has its uses though! We can attach it to a duration of time, indicating \"…later,\" as in:",
+    "Knowing how to tell time exactly is an important basic skill in language. But most discussions about time aren’t super exact, so these expressions will definitely come in handy too!"
+  ],
+  "examples": [
+    {
+      "japanese": "七（なな）時（じ）くらいにそっちに行（い）くね。",
+      "english": "I'll be there around seven."
+    },
+    {
+      "japanese": "七（なな）時（じ）頃（ごろ）にそちらに伺（うかが）います。",
+      "english": "I'll be there around seven."
+    },
+    {
+      "japanese": "四（よん）十（じゅう）五（ご）分（ふん）くらいにバスに乗（の）るね！",
+      "english": "I'll get on the bus at around 2:45 p.m."
+    },
+    {
+      "japanese": "四（よん）十（じゅう）五（ご）分（ふん）くらいバスに乗（の）るね！",
+      "english": "I'll be on the bus for around 45 minutes."
+    },
+    {
+      "japanese": "四十五分頃（に）バスに乗（の）るね！",
+      "english": "I'll get on the bus at around 2:45 p.m."
+    },
+    {
+      "japanese": "二（に）時間（じかん）前（まえ）にバス停（てい）に来（き）た。",
+      "english": "I came to the bus stop two hours [ago・earlier]."
+    },
+    {
+      "japanese": "二（に）時（じ）前（まえ）にバス停（てい）に来（き）た。",
+      "english": "I came to the bus stop shortly before two o'clock."
+    },
+    {
+      "japanese": "二（に）時（じ）過（す）ぎにバスが来（き）た。",
+      "english": "The bus came shortly after two o'clock."
+    },
+    {
+      "japanese": "二（に）時間（じかん）後（ご）にバスが来（き）た。",
+      "english": "The bus came two hours later."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Year (numeral)",
+        "Japanese (kanji)",
+        "Reading"
+      ],
+      [
+        "1",
+        "一（いち）年（ねん）",
+        "いちねん"
+      ],
+      [
+        "2",
+        "二（に）年（ねん）",
+        "にねん"
+      ],
+      [
+        "3",
+        "三（さん）年（ねん）",
+        "さんねん"
+      ],
+      [
+        "4",
+        "四（よん）年（ねん）",
+        "よねん"
+      ],
+      [
+        "5",
+        "五（ご）年（ねん）",
+        "ごねん"
+      ],
+      [
+        "6",
+        "六（ろく）年（ねん）",
+        "ろくねん"
+      ],
+      [
+        "7",
+        "七（なな）年（ねん）",
+        "ななねん / (しちねん)"
+      ],
+      [
+        "8",
+        "八（はち）年（ねん）",
+        "はちねん"
+      ],
+      [
+        "9",
+        "九（きゅう）年（ねん）",
+        "きゅうねん /（くねん）"
+      ],
+      [
+        "10",
+        "十（じゅう）年（ねん）",
+        "じゅうねん"
+      ],
+      [
+        "11",
+        "十（じゅう）一（いち）年（ねん）",
+        "じゅういちねん"
+      ],
+      [
+        "12",
+        "十（じゅう）二（に）年（ねん）",
+        "じゅうにねん"
+      ],
+      [
+        "100",
+        "百（ひゃく）年（ねん）",
+        "ひゃくねん"
+      ],
+      [
+        "1,000",
+        "千（せん）年（ねん）",
+        "せんねん"
+      ],
+      [
+        "2,000",
+        "二（に）千（せん）年（ねん）",
+        "にせんねん"
+      ],
+      [
+        "What year",
+        "何（なん）年（ねん）",
+        "なんねん"
+      ]
+    ],
+    [
+      [
+        "Japanese",
+        "Reading",
+        "English"
+      ],
+      [
+        "一月（いちがつ） / １月（いちがつ）",
+        "いちがつ",
+        "January"
+      ],
+      [
+        "二月（にがつ） / ２月（にがつ）",
+        "にがつ",
+        "February"
+      ],
+      [
+        "三月（さんがつ） / ３月（さんがつ）",
+        "さんがつ",
+        "March"
+      ],
+      [
+        "四月（しがつ） / ４月（しがつ）",
+        "しがつ",
+        "April"
+      ],
+      [
+        "五月（ごがつ） / ５月（ごがつ）",
+        "ごがつ",
+        "May"
+      ],
+      [
+        "六月（ろくがつ） / ６月（ろくがつ）",
+        "ろくがつ",
+        "June"
+      ],
+      [
+        "七月（しちがつ） / ７月（しちがつ）",
+        "しちがつ / (なながつ)",
+        "July"
+      ],
+      [
+        "八月（はちがつ） / ８月（はちがつ）",
+        "はちがつ",
+        "August"
+      ],
+      [
+        "九月（くがつ） / ９月（くがつ）",
+        "くがつ",
+        "September"
+      ],
+      [
+        "十月（じゅうがつ） / １０月（じゅうがつ）",
+        "じゅうがつ",
+        "October"
+      ],
+      [
+        "十一月（じゅういちがつ） / １１月（じゅういちがつ）",
+        "じゅういちがつ",
+        "November"
+      ],
+      [
+        "十二月（じゅうにがつ） / １２月（じゅうにがつ）",
+        "じゅうにがつ",
+        "December"
+      ],
+      [
+        "何（なに）月（つき）",
+        "なんがつ",
+        "Which month(s)?"
+      ]
+    ],
+    [
+      [
+        "Numeral",
+        "Japanese",
+        "Reading",
+        "English"
+      ],
+      [
+        "1",
+        "一（いち）日（にち）",
+        "ついたち / (いっぴ)",
+        "1st"
+      ],
+      [
+        "2",
+        "二（に）日（にち）",
+        "ふつか",
+        "2nd"
+      ],
+      [
+        "3",
+        "三（さん）日（にち）",
+        "みっか",
+        "3rd"
+      ],
+      [
+        "4",
+        "四（よん）日（にち）",
+        "よっか",
+        "4th"
+      ],
+      [
+        "5",
+        "五（ご）日（にち）",
+        "いつか",
+        "5th"
+      ],
+      [
+        "6",
+        "六（ろく）日（にち）",
+        "むいか",
+        "6th"
+      ],
+      [
+        "7",
+        "七（なな）日（にち）",
+        "なのか",
+        "7th"
+      ],
+      [
+        "8",
+        "八（はち）日（にち）",
+        "ようか",
+        "8th"
+      ],
+      [
+        "9",
+        "九（きゅう）日（にち）",
+        "ここのか",
+        "9th"
+      ],
+      [
+        "10",
+        "十（じゅう）日（にち）",
+        "とおか",
+        "10th"
+      ],
+      [
+        "11",
+        "十（じゅう）一（いち）日（にち）",
+        "じゅういちにち",
+        "11th"
+      ],
+      [
+        "12",
+        "十（じゅう）二（に）日（にち）",
+        "じゅうににち",
+        "12th"
+      ],
+      [
+        "13",
+        "十（じゅう）三（さん）日（にち）",
+        "じゅうさんにち",
+        "13th"
+      ],
+      [
+        "14",
+        "十（じゅう）四（よん）日（にち）",
+        "じゅうよっか",
+        "14th"
+      ],
+      [
+        "15",
+        "十（じゅう）五（ご）日（にち）",
+        "じゅうごにち",
+        "15th"
+      ],
+      [
+        "16",
+        "十（じゅう）六（ろく）日（にち）",
+        "じゅうろくにち",
+        "16th"
+      ],
+      [
+        "17",
+        "十（じゅう）七（なな）日（にち）",
+        "じゅうしちにち / (じゅうななにち)",
+        "17th"
+      ],
+      [
+        "18",
+        "十（じゅう）八（はち）日（にち）",
+        "じゅうはちにち",
+        "18th"
+      ],
+      [
+        "19",
+        "十（じゅう）九（きゅう）日（にち）",
+        "じゅうくにち",
+        "19th"
+      ],
+      [
+        "20",
+        "二（に）十（じゅう）日（にち）",
+        "はつか",
+        "20th"
+      ],
+      [
+        "21",
+        "二（に）十（じゅう）一（いち）日（にち）",
+        "にじゅういちにち",
+        "21st"
+      ],
+      [
+        "22",
+        "二（に）十（じゅう）二（に）日（にち）",
+        "にじゅうににち",
+        "22nd"
+      ],
+      [
+        "23",
+        "二（に）十（じゅう）三（さん）日（にち）",
+        "にじゅうさんにち",
+        "23rd"
+      ],
+      [
+        "24",
+        "二（に）十（じゅう）四（よん）日（にち）",
+        "にじゅうよっか",
+        "24th"
+      ],
+      [
+        "25",
+        "二（に）十（じゅう）五（ご）日（にち）",
+        "にじゅうごにち",
+        "25th"
+      ],
+      [
+        "26",
+        "二（に）十（じゅう）六（ろく）日（にち）",
+        "にじゅうろくにち",
+        "26th"
+      ],
+      [
+        "27",
+        "二（に）十（じゅう）七（なな）日（にち）",
+        "にじゅうしちにち / (にじゅうななにち)",
+        "27th"
+      ],
+      [
+        "28",
+        "二（に）十（じゅう）八（はち）日（にち）",
+        "にじゅうはちにち",
+        "28th"
+      ],
+      [
+        "29",
+        "二（に）十（じゅう）九（きゅう）日（にち）",
+        "にじゅうくにち",
+        "29th"
+      ],
+      [
+        "30",
+        "三（さん）十（じゅう）日（にち）",
+        "さんじゅうにち",
+        "30th"
+      ],
+      [
+        "31",
+        "三（さん）十（じゅう）一（いち）日（にち）",
+        "さんじゅういちにち",
+        "31st"
+      ],
+      [
+        "Which day",
+        "何（なん）日（にち）",
+        "なんにち",
+        "Which day"
+      ]
+    ],
+    [
+      [
+        "Element of Nature",
+        "Japanese",
+        "Pronunciation",
+        "English"
+      ],
+      [
+        "Sun (Yang)",
+        "日曜（にちよう）（日（ひ））",
+        "にちよう（び）",
+        "Sunday"
+      ],
+      [
+        "Moon (Yin)",
+        "月曜（げつよう）（日（ひ））",
+        "げつよう（び）",
+        "Monday"
+      ],
+      [
+        "Fire",
+        "火曜（かよう）（日（ひ））",
+        "かよう（び）",
+        "Tuesday"
+      ],
+      [
+        "Water",
+        "水曜（すいよう）（日（ひ））",
+        "すいよう（び）",
+        "Wednesday"
+      ],
+      [
+        "Wood",
+        "木曜（もくよう）（日（ひ））",
+        "もくよう（び）",
+        "Thursday"
+      ],
+      [
+        "Gold (Metal)",
+        "金曜（きんよう）（日（ひ））",
+        "きんよう（び）",
+        "Friday"
+      ],
+      [
+        "Earth",
+        "土曜（どよう）（日（ひ））",
+        "どよう（び）",
+        "Saturday"
+      ],
+      [
+        "N/A",
+        "何（なに）曜（曜）（日（ひ））",
+        "なんよう（び）",
+        "Which day of the week?"
+      ]
+    ],
+    [
+      [
+        "Numeral",
+        "Japanese",
+        "Reading",
+        "English"
+      ],
+      [
+        "1",
+        "一時（いちじ）",
+        "いちじ",
+        "1:00 a.m."
+      ],
+      [
+        "2",
+        "二（に）時（じ）",
+        "にじ",
+        "2:00 a.m."
+      ],
+      [
+        "3",
+        "三時（さんじ）",
+        "さんじ",
+        "3:00 a.m."
+      ],
+      [
+        "4",
+        "四（よん）時（じ）",
+        "よじ",
+        "4:00 a.m."
+      ],
+      [
+        "5",
+        "五（ご）時（じ）",
+        "ごじ",
+        "5:00 a.m."
+      ],
+      [
+        "6",
+        "六（ろく）時（じ）",
+        "ろくじ",
+        "6:00 a.m."
+      ],
+      [
+        "7",
+        "七（なな）時（じ）",
+        "しちじ / (ななじ)",
+        "7:00 a.m."
+      ],
+      [
+        "8",
+        "八（はち）時（じ）",
+        "はちじ",
+        "8:00 a.m."
+      ],
+      [
+        "9",
+        "九（きゅう）時（じ）",
+        "くじ",
+        "9:00 a.m."
+      ],
+      [
+        "10",
+        "十（じゅう）時（じ）",
+        "じゅうじ",
+        "10:00 a.m."
+      ],
+      [
+        "11",
+        "十（じゅう）一（いち）時（じ）",
+        "じゅういちじ",
+        "11:00 a.m."
+      ],
+      [
+        "12",
+        "十（じゅう）二（に）時（じ）",
+        "じゅうにじ",
+        "12:00 p.m."
+      ],
+      [
+        "13",
+        "十（じゅう）三（さん）時（じ）",
+        "じゅうさんじ",
+        "13:00 (1:00 p.m.)"
+      ],
+      [
+        "14",
+        "十（じゅう）四（よん）時（じ）",
+        "じゅうよじ",
+        "14:00 (2:00 p.m.)"
+      ],
+      [
+        "15",
+        "十（じゅう）五（ご）時（じ）",
+        "じゅうごじ",
+        "15:00 (3:00 p.m.)"
+      ],
+      [
+        "16",
+        "十（じゅう）六（ろく）時（じ）",
+        "じゅうろくじ",
+        "16:00 (4:00 p.m.)"
+      ],
+      [
+        "17",
+        "十（じゅう）七（なな）時（じ）",
+        "じゅうしちじ / (じゅうななじ)",
+        "17:00 (5:00 p.m.)"
+      ],
+      [
+        "18",
+        "十（じゅう）八（はち）時（じ）",
+        "じゅうはちじ",
+        "18:00 (6:00 p.m.)"
+      ],
+      [
+        "19",
+        "十（じゅう）九（きゅう）時（じ）",
+        "じゅうくじ",
+        "19:00 (7:00 p.m.)"
+      ],
+      [
+        "20",
+        "二（に）十（じゅう）時（じ）",
+        "にじゅうじ",
+        "20:00 (8:00 p.m.)"
+      ],
+      [
+        "21",
+        "二（に）十（じゅう）一（いち）時（じ）",
+        "にじゅういちじ",
+        "21:00 (9:00 p.m.)"
+      ],
+      [
+        "22",
+        "二（に）十（じゅう）二（に）時（じ）",
+        "にじゅうにじ",
+        "22:00 (10:00 p.m.)"
+      ],
+      [
+        "23",
+        "二（に）十（じゅう）三（さん）時（じ）",
+        "にじゅうさんじ",
+        "23:00 (11:00 p.m.)"
+      ],
+      [
+        "24",
+        "二（に）十（じゅう）四（よん）時（じ）",
+        "にじゅうよじ",
+        "24:00 (12:00 a.m.)"
+      ],
+      [
+        "0",
+        "零（れい）時（じ）",
+        "れいじ",
+        "0:00 (12:00 a.m./p.m.)"
+      ],
+      [
+        "What time",
+        "何時（いつ）",
+        "なんじ",
+        "What time"
+      ]
+    ],
+    [
+      [
+        "Numeral",
+        "Japanese",
+        "Reading"
+      ],
+      [
+        "1",
+        "一（いち）分（ふん）",
+        "いっぷん"
+      ],
+      [
+        "2",
+        "二分（にふん）",
+        "にふん"
+      ],
+      [
+        "3",
+        "三（さん）分（ふん）",
+        "さんぷん / (さんふん)"
+      ],
+      [
+        "4",
+        "四（よん）分（ふん）",
+        "よんぷん / (よんふん)"
+      ],
+      [
+        "5",
+        "五（ご）分（ふん）",
+        "ごふん"
+      ],
+      [
+        "6",
+        "六（ろく）分（ふん）",
+        "ろっぷん"
+      ],
+      [
+        "7",
+        "七（なな）分（ふん）",
+        "ななふん / (しちふん)"
+      ],
+      [
+        "8",
+        "八（はち）分（ふん）",
+        "はっぷん / (はちふん)"
+      ],
+      [
+        "9",
+        "九分（きゅうふん）",
+        "きゅうふん"
+      ],
+      [
+        "10",
+        "十（じゅう）分（ふん）",
+        "じゅっぷん / (じっぷん)"
+      ],
+      [
+        "11",
+        "十（じゅう）一（いち）分（ふん）",
+        "じゅういっぷん"
+      ],
+      [
+        "12",
+        "十（じゅう）二（に）分（ふん）",
+        "じゅうにふん"
+      ],
+      [
+        "What minute",
+        "何分（なにぶん）",
+        "なんぷん / (なんふん)"
+      ]
+    ],
+    [
+      [
+        "Numeral",
+        "Japanese",
+        "Reading"
+      ],
+      [
+        "1",
+        "一（いち）秒（びょう）",
+        "いちびょう"
+      ],
+      [
+        "2",
+        "二（に）秒（びょう）",
+        "にびょう"
+      ],
+      [
+        "3",
+        "三（さん）秒（びょう）",
+        "さんびょう"
+      ],
+      [
+        "4",
+        "四（よん）秒（びょう）",
+        "よんびょう"
+      ],
+      [
+        "5",
+        "五（ご）秒（びょう）",
+        "ごびょう"
+      ],
+      [
+        "6",
+        "六（ろく）秒（びょう）",
+        "ろくびょう"
+      ],
+      [
+        "7",
+        "七（なな）秒（びょう）",
+        "ななびょう"
+      ],
+      [
+        "8",
+        "八（はち）秒（びょう）",
+        "はちびょう"
+      ],
+      [
+        "9",
+        "九（きゅう）秒（びょう）",
+        "きゅうびょう"
+      ],
+      [
+        "10",
+        "十（じゅう）秒（びょう）",
+        "じゅうびょう"
+      ],
+      [
+        "11",
+        "十（じゅう）一（いち）秒（びょう）",
+        "じゅういちびょう"
+      ],
+      [
+        "12",
+        "十（じゅう）二（に）秒（びょう）",
+        "じゅうにびょう"
+      ],
+      [
+        "What second",
+        "何（なん）秒（びょう）",
+        "なんびょう"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "date",
+      "text": "Date"
+    },
+    {
+      "level": 4,
+      "id": "for-year",
+      "text": "年 for \"Year\""
+    },
+    {
+      "level": 4,
+      "id": "for-month",
+      "text": "月 for \"Month\""
+    },
+    {
+      "level": 4,
+      "id": "for-date",
+      "text": "日 for \"Date\""
+    },
+    {
+      "level": 4,
+      "id": "for-days-of-the-week",
+      "text": "曜日 for \"Days of The Week\""
+    },
+    {
+      "level": 3,
+      "id": "time",
+      "text": "Time"
+    },
+    {
+      "level": 4,
+      "id": "for-oclock",
+      "text": "時 for \"O'clock\""
+    },
+    {
+      "level": 4,
+      "id": "for-minute",
+      "text": "分 for \"Minute\""
+    },
+    {
+      "level": 4,
+      "id": "for-second",
+      "text": "秒 for \"Second\""
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "commonly-paired-suffixes",
+      "text": "Commonly Paired Suffixes"
+    },
+    {
+      "level": 4,
+      "id": "and--for-around-",
+      "text": "〜くらい and 〜頃 for \"Around 〜\""
+    },
+    {
+      "level": 4,
+      "id": "and--with-and-without-particle-",
+      "text": "〜くらい and 〜頃 with and without Particle に"
+    },
+    {
+      "level": 4,
+      "id": "for-shortly-before",
+      "text": "〜前 for \"Shortly Before…\""
+    },
+    {
+      "level": 4,
+      "id": "for-shortly-after",
+      "text": "〜過ぎ for \"Shortly After…\""
+    }
+  ],
+  "id": 9,
+  "slug": "date-and-time",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/date-and-time/",
+  "categories": [
+    "Suffix"
+  ]
+}

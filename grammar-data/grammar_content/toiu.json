@@ -1,0 +1,772 @@
+{
+  "title": "〜という",
+  "description": "〜という is a phrase with a wide array of functions, but it always denotes that what it's marking is based on hearsay or something that's said by people.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜という is a combination of the quotation marker と and the verb 言（い）う (to say). So at its most basic use, it can be used to mark what someone says, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本人（にっぽんじん）はよく「かわいい」と言（い）う。",
+      "english": "Japanese people often say \"kawaii\" (cute)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this use, 言（い）う is usually written in kanji."
+    },
+    {
+      "type": "paragraph",
+      "text": "〜という can also be used as a phrase, usually written in kana, indicating that what it's marking is hearsay."
+    },
+    {
+      "type": "paragraph",
+      "text": "To say, for example, that you heard your old friend named Takashi is working as lawyer, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "タカシは弁護士（べんごし）をしているという。",
+      "english": "I heard that Takashi is working as a lawyer."
+    },
+    {
+      "type": "example",
+      "japanese": "弁護士（べんごし）の仕事（しごと）はかなり忙（いそが）しいという。",
+      "english": "I heard that being a lawyer is a really busy job."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth noting that 〜という is a little stiff. The two examples above sound more like a written narrative than anything you'd say in person. For speaking, it's more common to use 〜らしい or 〜 んだ って, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "タカシは弁護士（べんごし）をしているらしい。",
+      "english": "I heard that Takashi is working as a lawyer."
+    },
+    {
+      "type": "example",
+      "japanese": "弁護士（べんごし）の仕事（しごと）はかなり忙（いそが）しいんだって。",
+      "english": "I heard that being a lawyer is a really busy job."
+    },
+    {
+      "type": "paragraph",
+      "text": "Apart from this use, 〜という has so many other functions. Let's move on and take a look at them!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-what-someonesomething-is-called",
+      "text": "〜という for \"What Someone/Something Is Called\""
+    },
+    {
+      "type": "paragraph",
+      "text": "〜という can be used to mark the name of someone or something. In this case, it doesn't mean hearsay or what people say, but it indicates what people call something."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you meet someone new, for example, you might ask their name and they might respond in the following manner."
+    },
+    {
+      "type": "example",
+      "japanese": "お名前（なまえ）は何（なに）というんですか。",
+      "english": "What's your name? (Literally: What is your name called?)"
+    },
+    {
+      "type": "example",
+      "japanese": "山田（やまだ）といいます。よろしくお願（ねが）いします。",
+      "english": "I'm Yamada. Nice to meet you. (Literally: I'm called Yamada. Nice to meet you.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, 〜という becomes 〜といいます in the second sentence. いう is a verb that can conjugate and it's taking the polite ます form here. If you aren't familiar with what verb conjugations are, check out this page !"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, it's worth remembering that 〜という is a quite formal expression. If you want to sound more casual, use 何（なに） て いう when asking and 〜 って いう for telling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, 〜という can also mark the meaning of a word in a different language. For instance, when asking how to say \"cat\" in Japanese, you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "Catは日本語（にほんご）で何（なに）といいますか。",
+      "english": "What is the Japanese word for \"cat\"? (Literally: What do you say for \"cat\" in Japanese?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "And your teacher might answer you while omitting the bit that's clear from the context:"
+    },
+    {
+      "type": "example",
+      "japanese": "(Catは日本語（にほんご）で)ネコといいます。",
+      "english": "Cat is \"neko\" in Japanese. (Literally: We call cats \"neko\" in Japanese.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, 〜という also indicates what people call the word in the specified language."
+    },
+    {
+      "type": "paragraph",
+      "text": "We've seen that 〜という by itself can be used for simple restatements — hearsay, reported speech, saying what something or someone is called, and so on. But in order to give longer definitions for words or concepts, you'll have to combine it with 意味（いみ） (meaning) to get 〜という意味（いみ）."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to explain what 猫（ねこ）派（は） (cat lover) means, for example, you can use 〜という意味（いみ） and say"
+    },
+    {
+      "type": "example",
+      "japanese": "「猫（ねこ）派（は）」とは、犬（いぬ）より猫（ねこ）が好（す）きという意味（いみ）です。",
+      "english": "\"Nekoha\" means you like cats more than dogs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on context, you could also replace 意味（いみ） here with another noun like たとえ (metaphor, example), 言葉（ことば） (word), and so on. This makes 〜という really versatile! It also leads us right to our next section, where we’ll look more closely at how という can be used for describing and modifying nouns. Let's go!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-describing-the-following-noun",
+      "text": "〜という〜 for \"Describing The Following Noun\""
+    },
+    {
+      "type": "paragraph",
+      "text": "In the preceding section, you saw that 〜という can mark an explanation of something by attaching to another word, like 〜という意味（いみ）. This is similar to saying \"the meaning that…\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is called a \"relative clause,\" and the part marked by 〜という modifies the noun that comes right after it. In other words, you can use 〜という to describe whatever noun you put it in front of."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you want to specify the name of a flower, you can put the name before 〜という and add the noun 花（はな） (flower) after it, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "これは、パンジーという花（はな）です。",
+      "english": "This is a flower (that's) called a pansy."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you read an article that says pansies are edible, you can put the content of the article before 〜という and 記事（きじ） (article), like:"
+    },
+    {
+      "type": "example",
+      "japanese": "パンジーは食（た）べれるという記事（きじ）を読（よ）みました。",
+      "english": "I read an article that says pansies can be eaten."
+    },
+    {
+      "type": "paragraph",
+      "text": "〜という is usually used like this when describing something that has been \"said\" or reported, like in a 記事（きじ） (article), 噂（うわさ） (rumor) or 話（はなし） (story). However, when describing an event or activity like イベント (event), パーティー (party), 仕事（しごと） (work), or 事件（じけん） (incident), 〜という can be omitted."
+    },
+    {
+      "type": "example",
+      "japanese": "パンジーを食（た）べる（という）イベントに参加（さんか）しました。",
+      "english": "I participated in an event where you eat pansies."
+    },
+    {
+      "type": "example",
+      "japanese": "でも、イベントのパンジーが盗（ぬす）まれる（という）事件（じけん）が起（お）きました。",
+      "english": "But, there was an incident in which the event's pansies were stolen."
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope they capture the thief so folks can finally eat those pansies!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "or-",
+      "text": "〜ということ or 〜というの"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜という often preceeds こと , which basically means \"thing\" for intangible, abstract things — knowledge, events, experiences, and many others. Thus, you can use 〜ということ (or its casual 〜ってこと) to specify the content of such intangible things."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you know that pansies are edible flowers, you can mark this piece of information with 〜ということ."
+    },
+    {
+      "type": "example",
+      "japanese": "パンジーが食（た）べられる花（はな）だということは知（し）っている。",
+      "english": "I know that pansies are edible flowers."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, こと can also be replaced with the nominalizer の ."
+    },
+    {
+      "type": "example",
+      "japanese": "パンジーが食（た）べられる花（はな）だというのは知（し）っている。",
+      "english": "I know that pansies are edible flowers."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use 〜ということ to mark the meaning, summary, or interpretation of a word, phrase, or situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Assume you're at a garden center, admiring lovely pansies with a 食用（しょくよう） label on them. You're pretty sure 食用（しょくよう） means \"edible,\" but you want to double-check that it actually means \"edible.\" So you ask a worker:"
+    },
+    {
+      "type": "example",
+      "japanese": "このパンジーは食（た）べられるということですか？",
+      "english": "Does this mean these pansies are edible?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, 〜ということ indicates that you're marking your interpretation or meaning from the label 食用（しょくよう）. In the form of 〜ということです, repacing こと with の changes the nuance. That is, こと is neutral while の emphasizes your surprise. So if you said このパンジーは食（た）べられるのですか？ it would come off as if you were surprised by the \"edible\" label on the pansies."
+    },
+    {
+      "type": "paragraph",
+      "text": "To show the logic of your inference more clearly, you can also mark the basis of your inference or reasoning with 〜ということ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "食用（しょくよう）ということは、このパンジーは食（た）べられるということですか？",
+      "english": "Does \"shokuyo\" mean these pansies are edible?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, if it's clear from context that you're talking about the label, you can omit reference to it and just start off with ということは, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "ということは、このパンジーは食（た）べられるということですか？",
+      "english": "Does that mean these pansies are edible?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, using ということは at the beginning of a setence is sort of like a set pattern, so you can't replace it with の in this example."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, 〜ということ can also be used to report anything you heard indirectly to someone. For example, if you want to report what you heard at the garden center to your boss, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "店員（てんいん）さんによると、このパンジーは食（た）べられるということです。",
+      "english": "According to the staff, these pansies are edible."
+    },
+    {
+      "type": "paragraph",
+      "text": "This use of 〜ということ has a formal ring to it, so it's frequently used when formally and/or officially reporting something. Again, replacing こと with の in the form of 〜というのです will sound like you're expressing astonsishment. It changes the tone and wouldn't be suitable for a formal report."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-someonesomething-like",
+      "text": "〜というような〜 for \"Someone/Something Like…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You learned that 〜という can directly attach to a noun to describe the noun. For example, 山田（やまだ）タカシという人（ひと） means \"a person called Yamada Takashi.\" You can also insert a word like ような (like, seem) between 〜という and the noun that follows, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "山田（やまだ）タカシというような人（ひと）は知（し）りません。",
+      "english": "I don't know a person with a name like Yamada Takashi."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, ような helps to make the description less specific. As a result, the above sentence indicates that you don't know a person named Yamada Takashi, or anyone with a name similar to Yamada Takashi."
+    },
+    {
+      "type": "paragraph",
+      "text": "Say you actually know Yamada Takashi, and remember that you heard he's moved to the US. In this case, you can also use 〜というような and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "そういえば、タカシはアメリカに行（い）ったというようなことを聞（き）いたな。",
+      "english": "Now that I think of it, I heard something like Takashi moved to the US."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, というような marks the information you heard while implying that you're not sure whether what you remember is entirely accurate."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-speaking-of",
+      "text": "〜というと for \"Speaking of…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "〜という can also be used with another quote marker と , as in 〜というと. This expression is similar to \"speaking of…\" in English. It's used in response to a topic to describe what it reminds the speaker of and/or to provide some additional information on it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider the following scenario: someone informs you that they are going to travel to Canada. If that reminds you of a common Canadian product, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "カナダというと、メープルシロップが有名（ゆうめい）ですよね。",
+      "english": "Speaking of Canada, they are famous for maple syrup, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "As mentioned above, 〜というと is a bit of a stiff expression and is often used in written language. In spoken language, it's more common to use 〜といえば or 〜っていうと instead."
+    },
+    {
+      "type": "example",
+      "japanese": "カナダ[といえば・っていうと]、メープルシロップが有名（ゆうめい）ですよね。",
+      "english": "Speaking of Canada, they are famous for maple syrup, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, note that sometimes the thing being referred to is omitted, especially when the response is made very swiftly."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-rather-than",
+      "text": "〜というより for \"Rather than…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Used with the comparison marker より (than), 〜というより can work similarly to \"rather than\" in English. For example, if you think your friend Takashi is more suited to being a politician than a lawyer, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "タカシは弁護士（べんごし）というより、政治（せいじ）家（か）っぽいよね。",
+      "english": "Takashi is more like a politician than a lawyer, don't you think?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, 〜というより implies that \"it's possible to say or call someone or something X, but Y is more fitting in comparison to X.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's say you ate something incredibly spicy and your friend asks if your mouth is tingling. If your mouth feels like it's on fire instead of tingling, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ピリピリするというより、燃（も）えている感（かん）じ。",
+      "english": "It's burning rather than tingling."
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope your mouth cools down soon. 👄🔥"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-when-youre-not-sure-how-to-describe-something",
+      "text": "〜というか〜というか for When You're Not Sure How to Describe Something"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜という can also be used with the particle か , which is a marker of the unknown. In this case, it usually denotes a parenthetical statement that lists your uncertain impression or judgment of a person, thing, event, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's say you were strolling down the street when someone approached you and asked if you could lend them 10,000 yen, claiming they had misplaced their wallet and needed to catch the shinkansen (bullet train) to get home. You felt bad and lent them 10,000 yen. Later, when you told your mother about it, she said:"
+    },
+    {
+      "type": "example",
+      "japanese": "知（し）らない人（ひと）に一（いち）万（まん）円（えん）を貸（か）すなんて、バカというか、お人（ひと）よしというか…。",
+      "english": "Lending 10,000 yen to a stranger? I'm not sure if you're stupid or just good-natured, or…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜というか marks your mom's assessment of who you are as a person based on what you did, but か expresses that she is still not sure what the best way to describe it is. It's common to list two examples, but it can also be just one example, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "知（し）らない人（ひと）に一（いち）万（まん）円（えん）を貸（か）すなんて、バカというか…。",
+      "english": "Lending 10,000 yen to a stranger? Either you're stupid, or…"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, sometimes the word is replaced with 何（なん） (what), like:"
+    },
+    {
+      "type": "example",
+      "japanese": "知（し）らない人（ひと）に一（いち）万（まん）円（えん）を貸（か）すなんて、バカというか、何（なん）というか…。",
+      "english": "Lending 10,000 yen to a stranger? I'm not sure if you're stupid or what…"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, it suggests that either your mother is unsure of how to describe you or that she is trying to avoid saying something quite obvious."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly, this pattern is often followed by the statement of an overall judgment."
+    },
+    {
+      "type": "example",
+      "japanese": "知（し）らない人（ひと）に一（いち）万（まん）円（えん）を貸（か）すなんて、バカというか、お人（ひと）よしというか、ほんと困（こま）った子（こ）だよ。",
+      "english": "Lending 10,000 yen to a stranger? I'm not sure if you're stupid or just good-natured. Whatever it is, you really make me worry."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-rephrasing-what-youve-just-said",
+      "text": "というか for Rephrasing What You've Just Said"
+    },
+    {
+      "type": "paragraph",
+      "text": "というか can also be used to rephrase something you've just said."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you are talking about a crafty woman but you think the word \"crafty\" is a little nasty, you can swiftly alter it to \"smart \" with というか, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "彼女（かのじょ）はずるい…というか賢（かしこ）いよね。",
+      "english": "She's so crafty… or smart, I should say."
+    },
+    {
+      "type": "paragraph",
+      "text": "By adding というか, you can express that ずるい (crafty) was something that popped out of your mouth as an example because you weren't initially sure how to describe her."
+    },
+    {
+      "type": "paragraph",
+      "text": "This use of というか has also developed into a way of changing the subject in conversation, like \"by the way\" in English. In this use, it's often used in the casual version っていうか."
+    },
+    {
+      "type": "example",
+      "japanese": "っていうか、日曜日（にちようび）、ヒマ？",
+      "english": "By the way, are you available on Sunday?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that some younger generations may also pronounce it (or even write it) as ってゆーか."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-emphasis",
+      "text": "〜という〜 for Emphasis"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, you may come across a situation where the same noun is used before and after という as in 木（き）という木（き）. This is an expression often used in literature. It points to the noun as a whole category, and demonstrates the extent to which anything in that category is affected by some event or situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider this scenario: you go for a walk every day, but one day you arrive at your favorite street to find that all the trees have been cut down. You can describe this situation as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "木（き）という木（き）が切（き）り倒（たお）されていた。",
+      "english": "All the trees were cut down. (Literally: Anything that could be called a tree was cut down.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "And then you also notice that all of the flowers have been trampled."
+    },
+    {
+      "type": "example",
+      "japanese": "花（はな）という花（はな）が踏（ふ）みつぶされていた。",
+      "english": "All the flowers were trampled. (Literally: Anything that could be called a flower was trampled.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "What a depressing situation! You can also use this pattern for positive things as well, though. For example, if instead you saw all the trees dense with foliage and all the flowers in bloom, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "木（き）という木（き）が青（あお）く茂（しげ）り、花（はな）という花（はな）が咲（さ）き誇（ほこ）っていた。",
+      "english": "All the trees were lush and all the flowers were in bloom."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜という is a combination of the quotation marker と and the verb 言（い）う (to say). So at its most basic use, it can be used to mark what someone says, like:",
+    "In this use, 言（い）う is usually written in kanji.",
+    "〜という can also be used as a phrase, usually written in kana, indicating that what it's marking is hearsay.",
+    "To say, for example, that you heard your old friend named Takashi is working as lawyer, you can say:",
+    "It's worth noting that 〜という is a little stiff. The two examples above sound more like a written narrative than anything you'd say in person. For speaking, it's more common to use 〜らしい or 〜 んだ って, as in:",
+    "Apart from this use, 〜という has so many other functions. Let's move on and take a look at them!",
+    "〜という can be used to mark the name of someone or something. In this case, it doesn't mean hearsay or what people say, but it indicates what people call something.",
+    "When you meet someone new, for example, you might ask their name and they might respond in the following manner.",
+    "As you can see, 〜という becomes 〜といいます in the second sentence. いう is a verb that can conjugate and it's taking the polite ます form here. If you aren't familiar with what verb conjugations are, check out this page !",
+    "Also, it's worth remembering that 〜という is a quite formal expression. If you want to sound more casual, use 何（なに） て いう when asking and 〜 って いう for telling.",
+    "Similarly, 〜という can also mark the meaning of a word in a different language. For instance, when asking how to say \"cat\" in Japanese, you might say:",
+    "And your teacher might answer you while omitting the bit that's clear from the context:",
+    "In this case, 〜という also indicates what people call the word in the specified language.",
+    "We've seen that 〜という by itself can be used for simple restatements — hearsay, reported speech, saying what something or someone is called, and so on. But in order to give longer definitions for words or concepts, you'll have to combine it with 意味（いみ） (meaning) to get 〜という意味（いみ）.",
+    "If you want to explain what 猫（ねこ）派（は） (cat lover) means, for example, you can use 〜という意味（いみ） and say",
+    "Depending on context, you could also replace 意味（いみ） here with another noun like たとえ (metaphor, example), 言葉（ことば） (word), and so on. This makes 〜という really versatile! It also leads us right to our next section, where we’ll look more closely at how という can be used for describing and modifying nouns. Let's go!",
+    "In the preceding section, you saw that 〜という can mark an explanation of something by attaching to another word, like 〜という意味（いみ）. This is similar to saying \"the meaning that…\" in English.",
+    "This is called a \"relative clause,\" and the part marked by 〜という modifies the noun that comes right after it. In other words, you can use 〜という to describe whatever noun you put it in front of.",
+    "For example, if you want to specify the name of a flower, you can put the name before 〜という and add the noun 花（はな） (flower) after it, like:",
+    "If you read an article that says pansies are edible, you can put the content of the article before 〜という and 記事（きじ） (article), like:",
+    "〜という is usually used like this when describing something that has been \"said\" or reported, like in a 記事（きじ） (article), 噂（うわさ） (rumor) or 話（はなし） (story). However, when describing an event or activity like イベント (event), パーティー (party), 仕事（しごと） (work), or 事件（じけん） (incident), 〜という can be omitted.",
+    "I hope they capture the thief so folks can finally eat those pansies!",
+    "〜という often preceeds こと , which basically means \"thing\" for intangible, abstract things — knowledge, events, experiences, and many others. Thus, you can use 〜ということ (or its casual 〜ってこと) to specify the content of such intangible things.",
+    "For example, if you know that pansies are edible flowers, you can mark this piece of information with 〜ということ.",
+    "In this case, こと can also be replaced with the nominalizer の .",
+    "You can also use 〜ということ to mark the meaning, summary, or interpretation of a word, phrase, or situation.",
+    "Assume you're at a garden center, admiring lovely pansies with a 食用（しょくよう） label on them. You're pretty sure 食用（しょくよう） means \"edible,\" but you want to double-check that it actually means \"edible.\" So you ask a worker:",
+    "In this example, 〜ということ indicates that you're marking your interpretation or meaning from the label 食用（しょくよう）. In the form of 〜ということです, repacing こと with の changes the nuance. That is, こと is neutral while の emphasizes your surprise. So if you said このパンジーは食（た）べられるのですか？ it would come off as if you were surprised by the \"edible\" label on the pansies.",
+    "To show the logic of your inference more clearly, you can also mark the basis of your inference or reasoning with 〜ということ and say:",
+    "In this case, if it's clear from context that you're talking about the label, you can omit reference to it and just start off with ということは, like:",
+    "Here, using ということは at the beginning of a setence is sort of like a set pattern, so you can't replace it with の in this example.",
+    "Finally, 〜ということ can also be used to report anything you heard indirectly to someone. For example, if you want to report what you heard at the garden center to your boss, you can say:",
+    "This use of 〜ということ has a formal ring to it, so it's frequently used when formally and/or officially reporting something. Again, replacing こと with の in the form of 〜というのです will sound like you're expressing astonsishment. It changes the tone and wouldn't be suitable for a formal report.",
+    "You learned that 〜という can directly attach to a noun to describe the noun. For example, 山田（やまだ）タカシという人（ひと） means \"a person called Yamada Takashi.\" You can also insert a word like ような (like, seem) between 〜という and the noun that follows, like:",
+    "In this case, ような helps to make the description less specific. As a result, the above sentence indicates that you don't know a person named Yamada Takashi, or anyone with a name similar to Yamada Takashi.",
+    "Say you actually know Yamada Takashi, and remember that you heard he's moved to the US. In this case, you can also use 〜というような and say:",
+    "Here, というような marks the information you heard while implying that you're not sure whether what you remember is entirely accurate.",
+    "〜という can also be used with another quote marker と , as in 〜というと. This expression is similar to \"speaking of…\" in English. It's used in response to a topic to describe what it reminds the speaker of and/or to provide some additional information on it.",
+    "Consider the following scenario: someone informs you that they are going to travel to Canada. If that reminds you of a common Canadian product, you could say:",
+    "As mentioned above, 〜というと is a bit of a stiff expression and is often used in written language. In spoken language, it's more common to use 〜といえば or 〜っていうと instead.",
+    "Also, note that sometimes the thing being referred to is omitted, especially when the response is made very swiftly.",
+    "Used with the comparison marker より (than), 〜というより can work similarly to \"rather than\" in English. For example, if you think your friend Takashi is more suited to being a politician than a lawyer, you can say:",
+    "In this case, 〜というより implies that \"it's possible to say or call someone or something X, but Y is more fitting in comparison to X.\"",
+    "Let's say you ate something incredibly spicy and your friend asks if your mouth is tingling. If your mouth feels like it's on fire instead of tingling, you can say:",
+    "I hope your mouth cools down soon. 👄🔥",
+    "〜という can also be used with the particle か , which is a marker of the unknown. In this case, it usually denotes a parenthetical statement that lists your uncertain impression or judgment of a person, thing, event, etc.",
+    "Let's say you were strolling down the street when someone approached you and asked if you could lend them 10,000 yen, claiming they had misplaced their wallet and needed to catch the shinkansen (bullet train) to get home. You felt bad and lent them 10,000 yen. Later, when you told your mother about it, she said:",
+    "Here, 〜というか marks your mom's assessment of who you are as a person based on what you did, but か expresses that she is still not sure what the best way to describe it is. It's common to list two examples, but it can also be just one example, like:",
+    "Also, sometimes the word is replaced with 何（なん） (what), like:",
+    "In this case, it suggests that either your mother is unsure of how to describe you or that she is trying to avoid saying something quite obvious.",
+    "Lastly, this pattern is often followed by the statement of an overall judgment.",
+    "というか can also be used to rephrase something you've just said.",
+    "For example, if you are talking about a crafty woman but you think the word \"crafty\" is a little nasty, you can swiftly alter it to \"smart \" with というか, like:",
+    "By adding というか, you can express that ずるい (crafty) was something that popped out of your mouth as an example because you weren't initially sure how to describe her.",
+    "This use of というか has also developed into a way of changing the subject in conversation, like \"by the way\" in English. In this use, it's often used in the casual version っていうか.",
+    "Note that some younger generations may also pronounce it (or even write it) as ってゆーか.",
+    "Sometimes, you may come across a situation where the same noun is used before and after という as in 木（き）という木（き）. This is an expression often used in literature. It points to the noun as a whole category, and demonstrates the extent to which anything in that category is affected by some event or situation.",
+    "Consider this scenario: you go for a walk every day, but one day you arrive at your favorite street to find that all the trees have been cut down. You can describe this situation as in:",
+    "And then you also notice that all of the flowers have been trampled.",
+    "What a depressing situation! You can also use this pattern for positive things as well, though. For example, if instead you saw all the trees dense with foliage and all the flowers in bloom, you could say:"
+  ],
+  "examples": [
+    {
+      "japanese": "日本人（にっぽんじん）はよく「かわいい」と言（い）う。",
+      "english": "Japanese people often say \"kawaii\" (cute)."
+    },
+    {
+      "japanese": "タカシは弁護士（べんごし）をしているという。",
+      "english": "I heard that Takashi is working as a lawyer."
+    },
+    {
+      "japanese": "弁護士（べんごし）の仕事（しごと）はかなり忙（いそが）しいという。",
+      "english": "I heard that being a lawyer is a really busy job."
+    },
+    {
+      "japanese": "タカシは弁護士（べんごし）をしているらしい。",
+      "english": "I heard that Takashi is working as a lawyer."
+    },
+    {
+      "japanese": "弁護士（べんごし）の仕事（しごと）はかなり忙（いそが）しいんだって。",
+      "english": "I heard that being a lawyer is a really busy job."
+    },
+    {
+      "japanese": "お名前（なまえ）は何（なに）というんですか。",
+      "english": "What's your name? (Literally: What is your name called?)"
+    },
+    {
+      "japanese": "山田（やまだ）といいます。よろしくお願（ねが）いします。",
+      "english": "I'm Yamada. Nice to meet you. (Literally: I'm called Yamada. Nice to meet you.)"
+    },
+    {
+      "japanese": "Catは日本語（にほんご）で何（なに）といいますか。",
+      "english": "What is the Japanese word for \"cat\"? (Literally: What do you say for \"cat\" in Japanese?)"
+    },
+    {
+      "japanese": "(Catは日本語（にほんご）で)ネコといいます。",
+      "english": "Cat is \"neko\" in Japanese. (Literally: We call cats \"neko\" in Japanese.)"
+    },
+    {
+      "japanese": "「猫（ねこ）派（は）」とは、犬（いぬ）より猫（ねこ）が好（す）きという意味（いみ）です。",
+      "english": "\"Nekoha\" means you like cats more than dogs."
+    },
+    {
+      "japanese": "これは、パンジーという花（はな）です。",
+      "english": "This is a flower (that's) called a pansy."
+    },
+    {
+      "japanese": "パンジーは食（た）べれるという記事（きじ）を読（よ）みました。",
+      "english": "I read an article that says pansies can be eaten."
+    },
+    {
+      "japanese": "パンジーを食（た）べる（という）イベントに参加（さんか）しました。",
+      "english": "I participated in an event where you eat pansies."
+    },
+    {
+      "japanese": "でも、イベントのパンジーが盗（ぬす）まれる（という）事件（じけん）が起（お）きました。",
+      "english": "But, there was an incident in which the event's pansies were stolen."
+    },
+    {
+      "japanese": "パンジーが食（た）べられる花（はな）だということは知（し）っている。",
+      "english": "I know that pansies are edible flowers."
+    },
+    {
+      "japanese": "パンジーが食（た）べられる花（はな）だというのは知（し）っている。",
+      "english": "I know that pansies are edible flowers."
+    },
+    {
+      "japanese": "このパンジーは食（た）べられるということですか？",
+      "english": "Does this mean these pansies are edible?"
+    },
+    {
+      "japanese": "食用（しょくよう）ということは、このパンジーは食（た）べられるということですか？",
+      "english": "Does \"shokuyo\" mean these pansies are edible?"
+    },
+    {
+      "japanese": "ということは、このパンジーは食（た）べられるということですか？",
+      "english": "Does that mean these pansies are edible?"
+    },
+    {
+      "japanese": "店員（てんいん）さんによると、このパンジーは食（た）べられるということです。",
+      "english": "According to the staff, these pansies are edible."
+    },
+    {
+      "japanese": "山田（やまだ）タカシというような人（ひと）は知（し）りません。",
+      "english": "I don't know a person with a name like Yamada Takashi."
+    },
+    {
+      "japanese": "そういえば、タカシはアメリカに行（い）ったというようなことを聞（き）いたな。",
+      "english": "Now that I think of it, I heard something like Takashi moved to the US."
+    },
+    {
+      "japanese": "カナダというと、メープルシロップが有名（ゆうめい）ですよね。",
+      "english": "Speaking of Canada, they are famous for maple syrup, right?"
+    },
+    {
+      "japanese": "カナダ[といえば・っていうと]、メープルシロップが有名（ゆうめい）ですよね。",
+      "english": "Speaking of Canada, they are famous for maple syrup, right?"
+    },
+    {
+      "japanese": "タカシは弁護士（べんごし）というより、政治（せいじ）家（か）っぽいよね。",
+      "english": "Takashi is more like a politician than a lawyer, don't you think?"
+    },
+    {
+      "japanese": "ピリピリするというより、燃（も）えている感（かん）じ。",
+      "english": "It's burning rather than tingling."
+    },
+    {
+      "japanese": "知（し）らない人（ひと）に一（いち）万（まん）円（えん）を貸（か）すなんて、バカというか、お人（ひと）よしというか…。",
+      "english": "Lending 10,000 yen to a stranger? I'm not sure if you're stupid or just good-natured, or…"
+    },
+    {
+      "japanese": "知（し）らない人（ひと）に一（いち）万（まん）円（えん）を貸（か）すなんて、バカというか…。",
+      "english": "Lending 10,000 yen to a stranger? Either you're stupid, or…"
+    },
+    {
+      "japanese": "知（し）らない人（ひと）に一（いち）万（まん）円（えん）を貸（か）すなんて、バカというか、何（なん）というか…。",
+      "english": "Lending 10,000 yen to a stranger? I'm not sure if you're stupid or what…"
+    },
+    {
+      "japanese": "知（し）らない人（ひと）に一（いち）万（まん）円（えん）を貸（か）すなんて、バカというか、お人（ひと）よしというか、ほんと困（こま）った子（こ）だよ。",
+      "english": "Lending 10,000 yen to a stranger? I'm not sure if you're stupid or just good-natured. Whatever it is, you really make me worry."
+    },
+    {
+      "japanese": "彼女（かのじょ）はずるい…というか賢（かしこ）いよね。",
+      "english": "She's so crafty… or smart, I should say."
+    },
+    {
+      "japanese": "っていうか、日曜日（にちようび）、ヒマ？",
+      "english": "By the way, are you available on Sunday?"
+    },
+    {
+      "japanese": "木（き）という木（き）が切（き）り倒（たお）されていた。",
+      "english": "All the trees were cut down. (Literally: Anything that could be called a tree was cut down.)"
+    },
+    {
+      "japanese": "花（はな）という花（はな）が踏（ふ）みつぶされていた。",
+      "english": "All the flowers were trampled. (Literally: Anything that could be called a flower was trampled.)"
+    },
+    {
+      "japanese": "木（き）という木（き）が青（あお）く茂（しげ）り、花（はな）という花（はな）が咲（さ）き誇（ほこ）っていた。",
+      "english": "All the trees were lush and all the flowers were in bloom."
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-what-someonesomething-is-called",
+      "text": "〜という for \"What Someone/Something Is Called\""
+    },
+    {
+      "level": 3,
+      "id": "for-describing-the-following-noun",
+      "text": "〜という〜 for \"Describing The Following Noun\""
+    },
+    {
+      "level": 3,
+      "id": "or-",
+      "text": "〜ということ or 〜というの"
+    },
+    {
+      "level": 3,
+      "id": "for-someonesomething-like",
+      "text": "〜というような〜 for \"Someone/Something Like…\""
+    },
+    {
+      "level": 3,
+      "id": "for-speaking-of",
+      "text": "〜というと for \"Speaking of…\""
+    },
+    {
+      "level": 3,
+      "id": "for-rather-than",
+      "text": "〜というより for \"Rather than…\""
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-when-youre-not-sure-how-to-describe-something",
+      "text": "〜というか〜というか for When You're Not Sure How to Describe Something"
+    },
+    {
+      "level": 4,
+      "id": "for-rephrasing-what-youve-just-said",
+      "text": "というか for Rephrasing What You've Just Said"
+    },
+    {
+      "level": 3,
+      "id": "for-emphasis",
+      "text": "〜という〜 for Emphasis"
+    }
+  ],
+  "id": 65,
+  "slug": "toiu",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/toiu/",
+  "categories": [
+    "Phrase"
+  ]
+}

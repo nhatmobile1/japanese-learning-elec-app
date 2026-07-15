@@ -1,0 +1,502 @@
+{
+  "title": "うち",
+  "description": "うち is a word that means “inside,” as opposed to “outside.” When it’s used with other grammar elements, like 〜のうち or 〜のうちに, it indicates the inside of a certain range.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "内（うち） (うち), is a word that originally means \"inside.\" When it's written in hiragana and combined with particles, it's used to specify the scope of quantity or time. For example, うち can be used to specify the number of items in total:"
+    },
+    {
+      "type": "example",
+      "japanese": "３つのタマゴのうち１つ割（わ）れていた。",
+      "english": "Out of three eggs, one was broken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Paired with the particle の, うち is used to mean \"out of\" three eggs, which is the total number of the eggs we are talking about here. There are gazillions of eggs in the world, but in this case, you're narrowing down the scope to three — as if you're using うち (inside) to say \"within the range of three eggs.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "うち can also be used for a period in time. In this case, it expresses the duration of a period when a certain situation remains in effect. For example, let's say you have a resolution to make some Japanese friends by the end of this year. In this case, you can use うち and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "今年（ことし）のうちに日本人（にっぽんじん）の友（とも）だちをつくる！",
+      "english": "By the end of this year, I'll make some Japanese friends!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, うち highlights the boundary between \"inside this year\" (before this year is over) and \"outside this year\" (next year). Combined with the particle に which drops a pin in the timeline, 今年（ことし）のうちに refers to \"this year, before it changes to next year,\" so it translates to \"by the end of this year.\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this section, we'll list the basic patterns used with うち."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun----",
+      "text": "Noun + の + うち"
+    },
+    {
+      "type": "paragraph",
+      "text": "うち can follow a noun, but in this case, you'll need to add the particle の between the noun and うち."
+    },
+    {
+      "type": "example",
+      "japanese": "二（ふた）つのうち一（ひと）つ",
+      "english": "one of the two things"
+    },
+    {
+      "type": "example",
+      "japanese": "夏休（なつやす）みのうちに、宿題（しゅくだい）を終（お）わらせた。",
+      "english": "I finished my homework by the end of the summer vacation."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective--",
+      "text": "い-adjective + うち"
+    },
+    {
+      "type": "paragraph",
+      "text": "うち can directly follow an い-adjective, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "子（こ）どもが小（ちい）さいうちは大変（たいへん）だ。",
+      "english": "It's so much work when the kids are little."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective----",
+      "text": "な-adjective + な + うち"
+    },
+    {
+      "type": "paragraph",
+      "text": "When うち follows a な-adjective, you'll need to add な between them."
+    },
+    {
+      "type": "example",
+      "japanese": "人気（にんき）なうちに、稼（かせ）ぎまくろう。",
+      "english": "Let's make a lot of money while we're still popular."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb--",
+      "text": "Verb + うち"
+    },
+    {
+      "type": "paragraph",
+      "text": "うち can also follow verbs. When it indicates a time period, it's common to attach to いる, the 〜ている form , 〜れる form , and 〜ない form of a verb."
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にっぽん）にいるうちに、たくさん旅行（りょこう）したい。",
+      "english": "While I'm in Japan, I want to visit many places."
+    },
+    {
+      "type": "example",
+      "japanese": "暗（くら）くならないうちに、帰（かえ）ろう。",
+      "english": "Let's go home before it gets dark."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "uses-of-",
+      "text": "Uses of うち"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-narrowing-down-items",
+      "text": "うち For Narrowing Down Items"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the particle の and the word うち follow a specific number of something, it's used like \"between,\" \"among,\" or \"out of (a specific number)\" in English. It indicates a range of items in which you make a differentiation between them."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can make various patterns using numbers with counters . For example, to say \"two out of three people,\" you can use the counter 人（ひと） and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "三（さん）人（にん）のうち二（に）人（にん）はピアニストです。",
+      "english": "Two out of three people are pianists."
+    },
+    {
+      "type": "paragraph",
+      "text": "Or, if you buy a series of ten comics and so far you've read the first four, you can use the counter 巻（まき） and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "十（じゅう）巻（かん）のうち四（よん）巻（かん）まで読（よ）んだ。",
+      "english": "Out of ten books, I've read four books so far."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, 〜のうち can be used to compare different options. So if you are torn between two jackets, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "この二（ふた）つのうち(で)、どっちにしようか迷（まよ）ってるんだよね。",
+      "english": "Between these two, I'm torn on which one I should go with."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see in the last example, sometimes the particle で follows 〜のうち to clarify the base range of comparison. In the same way, you can use 〜のうち(で) to describe one person or thing as having more of a quality than all other people or things in the range group:"
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）は五（ご）人（にん）のうち(で)一（いち）番（ばん）背（せ）が高（たか）い。",
+      "english": "He is the tallest of the five."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note this うち can be replaced with 中（ちゅう）, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）は五（ご）人（にん）の中（ちゅう）(で)一（いち）番（ばん）背（せ）が高（たか）い。",
+      "english": "He is the tallest of the five."
+    },
+    {
+      "type": "paragraph",
+      "text": "To see the difference between うち and 中（ちゅう）, check out this article !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-a-period-in-time",
+      "text": "うち For A Period In Time"
+    },
+    {
+      "type": "paragraph",
+      "text": "When うち gets used for a scope of time, it works like \"while it's (still)〜,\" as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "寝（ね）れるうちに、寝（ね）ておこう。",
+      "english": "Let's get some sleep while we still can."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like yin and yang, the word うち (inside) always implies that there's another half of the pair ー 外（そと） (outside). In this case, the outside means a time in the future after the うち period is over. In other words, うち indicates the length of time until something is over, or until a certain situation ends."
+    },
+    {
+      "type": "paragraph",
+      "text": "So combined with an action or situation, うち adds the nuance \"while that action or situation still lasts\" or \"before that action or situation ends.\" So 寝（ね）れるうちに translates to \"while we still can sleep.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like the above example, what follows after うち is commonly the particle に that can drop a pin in the timeline. For example, if you want to write down something you just learned before you forget, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "忘（わす）れないうちに、メモしておこう。",
+      "english": "Before I forget it, I'll make a note. (Literally: While I'm still not forgetting it, I'll make a note.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, 〜うち expresses the time during which a given state 忘（わす）れない still remains in effect, and に is used to specify the period of the time you take for the action of jotting the memo down."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also see this use of うち with other particles, such as the subject marker が and the topic marker は . For example, the followings are common phrases:"
+    },
+    {
+      "type": "example",
+      "japanese": "叱（しか）られるうちが華（はな）だ。",
+      "english": "Criticism is proof that they care. (Literally: While receiving criticism, you are still in bloom.)"
+    },
+    {
+      "type": "example",
+      "japanese": "若（わか）いうちは苦労（くろう）しておいた方（ほう）がいい。",
+      "english": "It's better to struggle when you're young. (Literally: When you are still young, you should experience some struggles.)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "vs-",
+      "text": "〜うちに VS 〜間に"
+    },
+    {
+      "type": "paragraph",
+      "text": "You've learned how 〜うちに expresses the time before a given action or state ends. When what comes before 〜うちに is something that indicates an interval of time, 〜うちに can be replaced with 〜間（あいだ）に."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine your baby finally falls asleep and you want to eat your lunch while they are still napping. In this case, you can either use 〜うちに and 〜間（あいだ）に and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "赤（あか）ちゃんがお昼寝（ひるね）しているうちに、ランチを食（た）べよう。 赤（あか）ちゃんがお昼寝（ひるね）している間（ま）に、ランチを食（た）べよう。",
+      "english": "While the baby is napping, I'm going to eat lunch."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the above sentences are very similar, there is a difference in nuance between うち and 間（ま）. That is, うち emphasizes the end point of the nap and adds the nuance \"before the nap is over\" or \"while the current situation still lasts.\" However, the word 間（ま） simply refers to the \"time interval\" between the beginning and the end points."
+    },
+    {
+      "type": "paragraph",
+      "text": "Thus, when there's not a clear starting or end point, うち gets used rather than 間（ま）. For example, imagine you grab a bottle of orange juice for your friend from the fridge and tell them that they should drink it before it gets warm. In this case, it's difficult to specify when the cold temperature of the juice first began and when it will end, so using 間（ま） sounds a bit off:"
+    },
+    {
+      "type": "example",
+      "japanese": "冷（つめ）たいうちに飲（の）んでね。 🔺冷（つめ）たい間（ま）に飲（の）んでね。",
+      "english": "Please drink it while it's cold."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, if you want to do some weeding outside before it gets hot, うち is better suited as the time boundary cannot be specified:"
+    },
+    {
+      "type": "example",
+      "japanese": "暑（あつ）くならないうちに草（くさ）むしりしちゃおう。 🔺暑（あつ）くならない間（ま）に草（くさ）むしりしちゃおう。",
+      "english": "I'm going to pull weeds before it gets too hot."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "tense-of-the-clause-before-",
+      "text": "Tense of the Clause Before うち"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you've seen, うち can be preceded by different types of words. One last note is that the clause that comes before うち usually has to be non-past tense, even if the main clause is in the past tense."
+    },
+    {
+      "type": "example",
+      "japanese": "⭕寝（ね）ているうちに、iPhoneを盗（ぬす）まれた。 ❌寝（ね）ていたうちに、iPhoneを盗（ぬす）まれた。",
+      "english": "I had my iPhone stolen while I was asleep."
+    },
+    {
+      "type": "paragraph",
+      "text": "There may be some exceptions (as is always the case), but that's the general rule of thumb!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "内（うち） (うち), is a word that originally means \"inside.\" When it's written in hiragana and combined with particles, it's used to specify the scope of quantity or time. For example, うち can be used to specify the number of items in total:",
+    "Paired with the particle の, うち is used to mean \"out of\" three eggs, which is the total number of the eggs we are talking about here. There are gazillions of eggs in the world, but in this case, you're narrowing down the scope to three — as if you're using うち (inside) to say \"within the range of three eggs.\"",
+    "うち can also be used for a period in time. In this case, it expresses the duration of a period when a certain situation remains in effect. For example, let's say you have a resolution to make some Japanese friends by the end of this year. In this case, you can use うち and say:",
+    "In this sentence, うち highlights the boundary between \"inside this year\" (before this year is over) and \"outside this year\" (next year). Combined with the particle に which drops a pin in the timeline, 今年（ことし）のうちに refers to \"this year, before it changes to next year,\" so it translates to \"by the end of this year.\"",
+    "In this section, we'll list the basic patterns used with うち.",
+    "うち can follow a noun, but in this case, you'll need to add the particle の between the noun and うち.",
+    "うち can directly follow an い-adjective, as in:",
+    "When うち follows a な-adjective, you'll need to add な between them.",
+    "うち can also follow verbs. When it indicates a time period, it's common to attach to いる, the 〜ている form , 〜れる form , and 〜ない form of a verb.",
+    "When the particle の and the word うち follow a specific number of something, it's used like \"between,\" \"among,\" or \"out of (a specific number)\" in English. It indicates a range of items in which you make a differentiation between them.",
+    "You can make various patterns using numbers with counters . For example, to say \"two out of three people,\" you can use the counter 人（ひと） and say:",
+    "Or, if you buy a series of ten comics and so far you've read the first four, you can use the counter 巻（まき） and say:",
+    "Similarly, 〜のうち can be used to compare different options. So if you are torn between two jackets, you may say:",
+    "As you can see in the last example, sometimes the particle で follows 〜のうち to clarify the base range of comparison. In the same way, you can use 〜のうち(で) to describe one person or thing as having more of a quality than all other people or things in the range group:",
+    "Note this うち can be replaced with 中（ちゅう）, as in:",
+    "To see the difference between うち and 中（ちゅう）, check out this article !",
+    "When うち gets used for a scope of time, it works like \"while it's (still)〜,\" as in:",
+    "Just like yin and yang, the word うち (inside) always implies that there's another half of the pair ー 外（そと） (outside). In this case, the outside means a time in the future after the うち period is over. In other words, うち indicates the length of time until something is over, or until a certain situation ends.",
+    "So combined with an action or situation, うち adds the nuance \"while that action or situation still lasts\" or \"before that action or situation ends.\" So 寝（ね）れるうちに translates to \"while we still can sleep.\"",
+    "Just like the above example, what follows after うち is commonly the particle に that can drop a pin in the timeline. For example, if you want to write down something you just learned before you forget, you can say:",
+    "In this example, 〜うち expresses the time during which a given state 忘（わす）れない still remains in effect, and に is used to specify the period of the time you take for the action of jotting the memo down.",
+    "You may also see this use of うち with other particles, such as the subject marker が and the topic marker は . For example, the followings are common phrases:",
+    "You've learned how 〜うちに expresses the time before a given action or state ends. When what comes before 〜うちに is something that indicates an interval of time, 〜うちに can be replaced with 〜間（あいだ）に.",
+    "For example, imagine your baby finally falls asleep and you want to eat your lunch while they are still napping. In this case, you can either use 〜うちに and 〜間（あいだ）に and say:",
+    "Although the above sentences are very similar, there is a difference in nuance between うち and 間（ま）. That is, うち emphasizes the end point of the nap and adds the nuance \"before the nap is over\" or \"while the current situation still lasts.\" However, the word 間（ま） simply refers to the \"time interval\" between the beginning and the end points.",
+    "Thus, when there's not a clear starting or end point, うち gets used rather than 間（ま）. For example, imagine you grab a bottle of orange juice for your friend from the fridge and tell them that they should drink it before it gets warm. In this case, it's difficult to specify when the cold temperature of the juice first began and when it will end, so using 間（ま） sounds a bit off:",
+    "In the same way, if you want to do some weeding outside before it gets hot, うち is better suited as the time boundary cannot be specified:",
+    "As you've seen, うち can be preceded by different types of words. One last note is that the clause that comes before うち usually has to be non-past tense, even if the main clause is in the past tense.",
+    "There may be some exceptions (as is always the case), but that's the general rule of thumb!"
+  ],
+  "examples": [
+    {
+      "japanese": "３つのタマゴのうち１つ割（わ）れていた。",
+      "english": "Out of three eggs, one was broken."
+    },
+    {
+      "japanese": "今年（ことし）のうちに日本人（にっぽんじん）の友（とも）だちをつくる！",
+      "english": "By the end of this year, I'll make some Japanese friends!"
+    },
+    {
+      "japanese": "二（ふた）つのうち一（ひと）つ",
+      "english": "one of the two things"
+    },
+    {
+      "japanese": "夏休（なつやす）みのうちに、宿題（しゅくだい）を終（お）わらせた。",
+      "english": "I finished my homework by the end of the summer vacation."
+    },
+    {
+      "japanese": "子（こ）どもが小（ちい）さいうちは大変（たいへん）だ。",
+      "english": "It's so much work when the kids are little."
+    },
+    {
+      "japanese": "人気（にんき）なうちに、稼（かせ）ぎまくろう。",
+      "english": "Let's make a lot of money while we're still popular."
+    },
+    {
+      "japanese": "日本（にっぽん）にいるうちに、たくさん旅行（りょこう）したい。",
+      "english": "While I'm in Japan, I want to visit many places."
+    },
+    {
+      "japanese": "暗（くら）くならないうちに、帰（かえ）ろう。",
+      "english": "Let's go home before it gets dark."
+    },
+    {
+      "japanese": "三（さん）人（にん）のうち二（に）人（にん）はピアニストです。",
+      "english": "Two out of three people are pianists."
+    },
+    {
+      "japanese": "十（じゅう）巻（かん）のうち四（よん）巻（かん）まで読（よ）んだ。",
+      "english": "Out of ten books, I've read four books so far."
+    },
+    {
+      "japanese": "この二（ふた）つのうち(で)、どっちにしようか迷（まよ）ってるんだよね。",
+      "english": "Between these two, I'm torn on which one I should go with."
+    },
+    {
+      "japanese": "彼（かれ）は五（ご）人（にん）のうち(で)一（いち）番（ばん）背（せ）が高（たか）い。",
+      "english": "He is the tallest of the five."
+    },
+    {
+      "japanese": "彼（かれ）は五（ご）人（にん）の中（ちゅう）(で)一（いち）番（ばん）背（せ）が高（たか）い。",
+      "english": "He is the tallest of the five."
+    },
+    {
+      "japanese": "寝（ね）れるうちに、寝（ね）ておこう。",
+      "english": "Let's get some sleep while we still can."
+    },
+    {
+      "japanese": "忘（わす）れないうちに、メモしておこう。",
+      "english": "Before I forget it, I'll make a note. (Literally: While I'm still not forgetting it, I'll make a note.)"
+    },
+    {
+      "japanese": "叱（しか）られるうちが華（はな）だ。",
+      "english": "Criticism is proof that they care. (Literally: While receiving criticism, you are still in bloom.)"
+    },
+    {
+      "japanese": "若（わか）いうちは苦労（くろう）しておいた方（ほう）がいい。",
+      "english": "It's better to struggle when you're young. (Literally: When you are still young, you should experience some struggles.)"
+    },
+    {
+      "japanese": "赤（あか）ちゃんがお昼寝（ひるね）しているうちに、ランチを食（た）べよう。 赤（あか）ちゃんがお昼寝（ひるね）している間（ま）に、ランチを食（た）べよう。",
+      "english": "While the baby is napping, I'm going to eat lunch."
+    },
+    {
+      "japanese": "冷（つめ）たいうちに飲（の）んでね。 🔺冷（つめ）たい間（ま）に飲（の）んでね。",
+      "english": "Please drink it while it's cold."
+    },
+    {
+      "japanese": "暑（あつ）くならないうちに草（くさ）むしりしちゃおう。 🔺暑（あつ）くならない間（ま）に草（くさ）むしりしちゃおう。",
+      "english": "I'm going to pull weeds before it gets too hot."
+    },
+    {
+      "japanese": "⭕寝（ね）ているうちに、iPhoneを盗（ぬす）まれた。 ❌寝（ね）ていたうちに、iPhoneを盗（ぬす）まれた。",
+      "english": "I had my iPhone stolen while I was asleep."
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "noun----",
+      "text": "Noun + の + うち"
+    },
+    {
+      "level": 4,
+      "id": "adjective--",
+      "text": "い-adjective + うち"
+    },
+    {
+      "level": 4,
+      "id": "adjective----",
+      "text": "な-adjective + な + うち"
+    },
+    {
+      "level": 4,
+      "id": "verb--",
+      "text": "Verb + うち"
+    },
+    {
+      "level": 2,
+      "id": "uses-of-",
+      "text": "Uses of うち"
+    },
+    {
+      "level": 3,
+      "id": "for-narrowing-down-items",
+      "text": "うち For Narrowing Down Items"
+    },
+    {
+      "level": 3,
+      "id": "for-a-period-in-time",
+      "text": "うち For A Period In Time"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "vs-",
+      "text": "〜うちに VS 〜間に"
+    },
+    {
+      "level": 4,
+      "id": "tense-of-the-clause-before-",
+      "text": "Tense of the Clause Before うち"
+    }
+  ],
+  "id": 93,
+  "slug": "uchi",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/uchi/",
+  "categories": [
+    "Vocabulary"
+  ]
+}

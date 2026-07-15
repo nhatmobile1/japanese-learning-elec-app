@@ -1,0 +1,1144 @@
+{
+  "title": "行く・来る",
+  "description": "行（い）く and 来（く）る are Japanese words for \"to go\" and \"to come.\" 行（い）く indicates that the speaker's on the departure side of the movement, while 来（く）る suggests the speaker's on the arrival side. They can also follow the て form of another verb to add a sense of direction.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "行（い）く (いく・ゆく) and 来（く）る (くる) are Japanese words for \"to go\" and \"to come.\" 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "The way you use 行（い）く and 来（く）る are mostly the same as their English counterparts. For example, imagine you and your friend are running to the platform to catch a train. To say \"the train will come soon,\" you use 来（く）る:"
+    },
+    {
+      "type": "example",
+      "japanese": "電車（でんしゃ）、もうすぐ来（く）るよ。",
+      "english": "The train will come soon."
+    },
+    {
+      "type": "paragraph",
+      "text": "But when you and your friend finally get to the platform, the train has already left. To say \"the train is gone ,\" you use 行（い）く:"
+    },
+    {
+      "type": "example",
+      "japanese": "電車（でんしゃ）、行（い）っちゃったね。",
+      "english": "The train's gone, huh?"
+    },
+    {
+      "type": "paragraph",
+      "text": "As this example shows, when the speaker and listener share the same perspective about the movement, Japanese works similarly to English. On the other hand, you have to be careful when their perspectives differ!"
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, say your friend is waiting for you to get ready to go out. They shout out, \"Hurry up, it's time to go!\" When you respond in English, you'll probably say something like \"Hold on, I'm coming now!\" In Japanese, however, you can't use 来（く）る in this situation."
+    },
+    {
+      "type": "example",
+      "japanese": "ちょっと 待（ま）って！今（いま） [⭕ 行（い）く・❌ 来（く）る] よ！",
+      "english": "Hold on, I'm coming now! (Literally: I'm going now!)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because in Japanese, you use 来（く）る when the movement is toward your current location and 行（い）く when it's away from your current location. Here, you're talking about your own movement, which will take you away from where you currently are, so you have to use 行（い）く instead of 来（く）る."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, \"to come\" in English can refer to movements shared between the speaker and listener in both directions. But to use \"go\" in English in the above scenario would sound a little strange, almost like you're going to a different, unrelated place (instead of to where your friend is waiting for you), or like you're about to leave without your friend. That's the most significant difference between English and Japanese, so just try to remember it when selecting 行（い）く or 来（く）る!"
+    },
+    {
+      "type": "paragraph",
+      "text": "On this page, you'll learn how 行（い）く and 来（く）る can be used with other words or in different forms to acquire additional meanings — let's go !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "Like all main verbs in Japanese, 行（い）く and 来（く）る generally go at the end of a sentence or clause."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "particle--",
+      "text": "Particle + 行く・来る"
+    },
+    {
+      "type": "paragraph",
+      "text": "行（い）く and 来（く）る are often used with the particle に as it can mark the location where someone is going or coming to."
+    },
+    {
+      "type": "example",
+      "japanese": "学校（がっこう）に [行（い）く・来（く）る]",
+      "english": "go/come to school"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this use, you can replace に with the particle へ or まで , as in 学校（がっこう） へ 行（い）く or 学校（がっこう） まで 来（く）る. Here, へ sounds more formal while まで emphasizes it's the endpoint of a movement, which can add the nuance of \"all the way to…\" The particle に can also follow a verbal noun, as in 勉強（べんきょう）に, or a verb in its stem form, as in 勉強（べんきょう）しに or 学（まな）びに, to explain why you're going or coming."
+    },
+    {
+      "type": "example",
+      "japanese": "勉強（べんきょう）(し)に [行（い）く・来（く）る]",
+      "english": "go/come to study"
+    },
+    {
+      "type": "example",
+      "japanese": "学（まな）びに [行（い）く・来（く）る]",
+      "english": "go/come to learn"
+    },
+    {
+      "type": "paragraph",
+      "text": "To specify the way you come or go somewhere, you can use the particle で , as in バスで (by bus), タクシーで (by taxi), 電車（でんしゃ）で (by train), or 徒歩（とほ）で (on foot)."
+    },
+    {
+      "type": "example",
+      "japanese": "バスで [行（い）く・来（く）る]",
+      "english": "go/come somewhere by bus"
+    },
+    {
+      "type": "paragraph",
+      "text": "When different particles mark multiple parts, you can switch around the positions."
+    },
+    {
+      "type": "example",
+      "japanese": "学校（がっこう）にバスで [行（い）く・来（く）る]バスで学校（がっこう）に [行（い）く・来（く）る]",
+      "english": "go/come to school by bus"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "form--",
+      "text": "て form + 行く・来る"
+    },
+    {
+      "type": "paragraph",
+      "text": "行（い）く and 来（く）る can attach to another verb in its て form . In this pattern, 行（い）く and 来（く）る become grammatical features and their literal meanings are weakened. Hence, they are commonly written in kana, as in 〜ていく/くる ."
+    },
+    {
+      "type": "example",
+      "japanese": "歩（ある）いて [いく・くる]",
+      "english": "go/come somewhere on foot"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also place other elements before the two combined verbs, or even in between them!"
+    },
+    {
+      "type": "example",
+      "japanese": "学校（がっこう）に歩（ある）いて [いく・くる]歩（ある）いて学校（がっこう）に [いく・くる]",
+      "english": "go/come to school on foot"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugations",
+      "text": "Conjugations"
+    },
+    {
+      "type": "paragraph",
+      "text": "The verb 行（い）く is a godan verb and the verb 来（く）る is an irregular verb , so they conjugate differently. Here are some basic conjugations of the two verbs:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Present",
+          "行（い）く",
+          "来（く）る"
+        ],
+        [
+          "Present (Polite)",
+          "行（い）きます",
+          "来（き）ます"
+        ],
+        [
+          "Past",
+          "行（い）った",
+          "来（き）た"
+        ],
+        [
+          "Past (Polite)",
+          "行（い）きました",
+          "来（き）ました"
+        ],
+        [
+          "Negative",
+          "行（い）かない",
+          "来（こ）ない"
+        ],
+        [
+          "Negative (Polite)",
+          "行（い）きません",
+          "来（き）ません"
+        ],
+        [
+          "Past",
+          "行（い）かなかった",
+          "来（こ）なかった"
+        ],
+        [
+          "Past (Polite)",
+          "行（い）きませんでした",
+          "来（き）ませんでした"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "type": "paragraph",
+      "text": "The formal versions are exactly the same for both 行（い）く and 来（く）る. The respectful ways of saying 行（い）く and 来（く）る are いらっしゃる or おいでになる, while the humble way of saying 行（い）く and 来（く）る is 参（まい）る. These words are used in formal situations."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Plain",
+          "Honorific",
+          "Humble"
+        ],
+        [
+          "行（い）く",
+          "いらっしゃるおいでになる",
+          "参（まい）る"
+        ],
+        [
+          "来（く）る",
+          "いらっしゃるおいでになる",
+          "参（まい）る"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-to-gocome-to-do-something",
+      "text": "〜に行く/来る for \"To Go/Come To Do Something\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Like \"go see\" or \"come visit\" in English, 行（い）く and 来（く）る can be used with other verbs to show the purpose of the movement."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, 行（い）く and 来（く）る follow the stem form of the purpose verb, and are marked by the particle に ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, say you are going to a movie theater to see My Neighbor Totoro . In English, you'll \"go see\" it. In Japanese, you'll 見（み）に行（い）く."
+    },
+    {
+      "type": "example",
+      "japanese": "映画館（えいがかん）に『となりのトトロ』を見（み）に行（い）く。",
+      "english": "I'm going to the movie theater to see My Neighbor Totoro."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at another situation. Imagine one of your friends is moving somewhere far away and says, \"Come visit me someday!\" In this situation, she'll use 会（あ）う (to see/meet someone) with に and 来（く）る and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "いつか会（あ）いに来（き）てね。",
+      "english": "Come visit me someday!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, \"go buy coffee\" is コーヒーを買（か）いに行（い）く and \"come eat sushi\" is 寿司（すし）を食（た）べに来（く）る. You can make many sentences with this pattern!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-supplementing-meaning",
+      "text": "〜て行く/来る for Supplementing Meaning"
+    },
+    {
+      "type": "paragraph",
+      "text": "行（い）く and 来（く）る can also follow another verb in its て form . Here they work as helping verbs, a.k.a. auxiliary verbs, which supplement the main verb. In this use, 行（い）く and 来（く）る are commonly written in kana, as in 〜ていく/くる, because they become a grammatical feature and their literal meanings are weakened."
+    },
+    {
+      "type": "paragraph",
+      "text": "What nuance いく and くる supplement can change depending on the main verb. This section will look at how they work with different types of verbs!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "general-action",
+      "text": "General Action"
+    },
+    {
+      "type": "paragraph",
+      "text": "When いく and くる follow a general action, such as 買（か）う (buy) or 食（た）べる (eat), it means the subject carries out the main action first and then goes or comes somewhere:"
+    },
+    {
+      "type": "example",
+      "japanese": "買（か）って [いく・くる]",
+      "english": "buy, and then go/come"
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べて [いく・くる]",
+      "english": "eat, and then go/come"
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you are going to visit your friend's place. If you are getting some donuts for the occasion, you can tell your friend:"
+    },
+    {
+      "type": "example",
+      "japanese": "ドーナツを買（か）っていくよ！",
+      "english": "I'll get some donuts for you/us. (Literally: I'll buy some donuts and then go there.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, it doesn't matter if you buy them on the way there or ahead of time. It simply means you'll purchase the donuts sometime before getting there."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the donuts are a surprise gift, you might not tell your friend until after you get to their house. In this case, you'll change いく to くる since you've already bought the donuts and arrived at your friend's house."
+    },
+    {
+      "type": "example",
+      "japanese": "ドーナツを買（か）ってきたよ！",
+      "english": "I got some donuts for you/us.(Literally: I bought some donuts and then came here.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, if you are going somewhere after eating lunch, you can say 昼（ひる）ごはんを食（た）べていく (I'll eat lunch and then go there). And after you arrive at your destination, you can say 昼（ひる）ごはんを食（た）べてきた (I ate lunch and then came here). It's pretty straightforward, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, these expressions can be used more situationally, though. Say you arrive at your friend's house, for example, and they ask if you've already had lunch. A simple answer like うん、食（た）べた (yes, I ate) would sound a bit direct, so it's more common to add another element like くる:"
+    },
+    {
+      "type": "example",
+      "japanese": "Friend: お昼（ひる）ごはん、もう食（た）べた？ You: あ、食（た）べてきた。",
+      "english": "Friend: Have you had lunch yet? You: Ah, I have.(Literally: Ah, I ate and then came here.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at one more example. Imagine after you and your friend have hung out for a while, your friend's mother comes home. Everyone says hello and chats for a bit, and then your friend's mother asks you a question:"
+    },
+    {
+      "type": "example",
+      "japanese": "夕飯（ゆうはん）、食（た）べていく？",
+      "english": "Would you like to have supper here? (Literally: Are you going to eat supper and then go?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you look at the literal meaning, it may seem a strange way of asking the question. However, by adding 行（い）く, your friend's mother can show she is aware that you have to leave at some point. It's a small additional nuance, but now the question can ask if you are willing to eat dinner while you are still at their place . 2"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "accompaniment",
+      "text": "Accompaniment"
+    },
+    {
+      "type": "paragraph",
+      "text": "Next, we'll check out the verbs that indicate you have something or someone with you, such as 持（も）つ (to have/carry something) and 連（つ）れる (to accompany someone)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When いく or くる follows this type of word, the meaning is pretty straightforward. It just indicates that you go or come somewhere with the thing or person referenced. Hence, 持（も）っていく and 連（つ）れていく mean \"to take\" and 持（も）ってくる and 連（つ）れてくる mean \"to bring\" something or someone respectively."
+    },
+    {
+      "type": "example",
+      "japanese": "学校（がっこう）に宿題（しゅくだい）を持（も）って [いく・くる] のを忘（わす）れた。",
+      "english": "I forgot to take/bring my homework to school."
+    },
+    {
+      "type": "example",
+      "japanese": "学校（がっこう）にネコを連（つ）れて [いった・きた] の！？",
+      "english": "Did you take/bring a cat to school!?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This use also applies to clothes-related verbs, such as 着（き）る (\"to wear\" for general items of clothing) or はく (\"to wear\" for bottoms, including shoes and socks). By adding 行（い）く or 来（く）る to those verbs, you can specify what clothes you have on when you go/come somewhere."
+    },
+    {
+      "type": "example",
+      "japanese": "パーティーに赤（あか）いドレスを着（き）て [いく・くる]",
+      "english": "go/come to a party in a red dress"
+    },
+    {
+      "type": "example",
+      "japanese": "ハイキングにパンプスをはいて [いく・くる]",
+      "english": "go/come to the hike wearing pumps"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "movement",
+      "text": "Movement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Often, 行（い）く and 来（く）る also follow movement verbs, such as 歩（ある）く (to walk), 走（はし）る (to run), 泳（およ）ぐ (to swim), and 飛（と）ぶ (to fly)."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's say you are off to the office on foot. In English, you can say \"I will walk to the office,\" but it's not very natural to say 会社（かいしゃ）に歩（ある）く in Japanese. This is because the Japanese verb 歩（ある）く (to walk) just describes the physical act of walking without a directional meaning."
+    },
+    {
+      "type": "paragraph",
+      "text": "To complement the meaning, you'll need an additional word that carries the directional nuance. That word can be a particle or preposition, like まで (up to) or 向（む）かって (toward), but it can also be a verb, like いく or くる."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this situation, you are talking about movement away from your current departure point, so you can say 歩（ある）いていく:"
+    },
+    {
+      "type": "example",
+      "japanese": "会社（かいしゃ）に歩（ある）いていく。",
+      "english": "I'm going to the office on foot."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are at or around the office and your focus shifts to the movement towards where you are, you switch it to 歩（ある）いてくる."
+    },
+    {
+      "type": "example",
+      "japanese": "会社（かいしゃ）に歩（ある）いてきた。",
+      "english": "I came to the office on foot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, if you are running to the office, you may 会社（かいしゃ）に走（はし）っていく/くる. If your office is on an island surrounded by a lake, you may 会社（かいしゃ）に泳（およ）いでいく/くる. And if you can fly like Anpanman, you may 会社（かいしゃ）に飛（と）んでいく/くる."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "motion",
+      "text": "Motion"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are also motion verbs that already carry a sense of direction, such as 入（はい）る (to go in), 出（で）る (to go out), 帰（かえ）る, and 戻（もど）る (to return) (to return). 3 When いく or くる follows this type of verb, it clarifies the speaker's perspective and describes the movements more dynamically."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you see someone coming into or out of where you are, you'd typically use 入（はい）ってくる or 出（で）ていく to describe the scene."
+    },
+    {
+      "type": "example",
+      "japanese": "先生（せんせい）が 教室（きょうしつ）に入（はい）ってきた。",
+      "english": "The teacher came into the classroom."
+    },
+    {
+      "type": "example",
+      "japanese": "先生（せんせい）が教室（きょうしつ）から出（で）ていった。",
+      "english": "The teacher went out of the classroom."
+    },
+    {
+      "type": "paragraph",
+      "text": "By adding いく or くる, you can show which side of the movement you are on and whether it's away from or toward you. It makes the sentence more dynamic than a simple statement of fact, like it's a scene of someone coming or going as viewed from your eye."
+    },
+    {
+      "type": "paragraph",
+      "text": "In other words, you don't add いく or くる if you just want to state a fact without involving your personal perspective. For example, picture a stakeout scene where you're a police officer reporting on the movements of your target. You see the culprit moving in and out of a classroom, for example, so you might say into your walky-talky:"
+    },
+    {
+      "type": "example",
+      "japanese": "今（いま）、 犯人（はんにん）が教室（きょうしつ）に入（はい）りました。",
+      "english": "The culprit has entered the classroom."
+    },
+    {
+      "type": "example",
+      "japanese": "今（いま）、犯人（はんにん）が教室（きょうしつ）から出（で）ました。",
+      "english": "The culprit has left the classroom."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, it's common to omit いく and くる. Without them, you don't implicate yourself in the scene. Your report to the other officers is just an objective statement about the culprit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at another example. Say you've made a Japanese friend named Hanako in some country that isn't Japan, but now she has left for her home country. In this case, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）は日本（にっぽん）に [戻（もど）った・帰（かえ）った]。 花子（はなこ）は日本（にっぽん）に [戻（もど）って・帰（かえ）って] いった。",
+      "english": "Hanako went back to Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, the first sentence sounds like you are stating the fact that Hanako went back to Japan. The second sentence better reflects your personal perspective, like you are sending off Hanako while thinking about her going toward Japan. Due to the nuance いく adds, there's a lingering image of Hanako heading to her home country, even after she has disappeared from your sight."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since いく conjures up a more descriptive image, as seen from your eyes, of Hanako going back to Japan, it might not work with future events that you haven't witnessed yet (unless you want to sound super poetic). To say something like \"Hanako is going back to Japan in a month,\" it's more natural just to say:"
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）は 来月（らいげつ）日本（にっぽん）に [帰（かえ）る・戻（もど）る]。",
+      "english": "Hanako will go back to Japan next month."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, if you're a member of Hanako's family in Japan and talking about her return, you'll typically add くる regardless of whether it's in the future or past. For people on the \"arrival\" end of the movement, it's natural to visualize her coming back toward them, and it doesn't carry any poetic tone, even if it's about a future event."
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）は来月（らいげつ）日本（にっぽん）に [帰（かえ）って・戻（もど）って] くる。",
+      "english": "Hanako will come back to Japan next month."
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）は日本（にっぽん）に [帰（かえ）って・戻（もど）って] きた。",
+      "english": "Hanako came back to Japan."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-going-and-coming-back",
+      "text": "〜て来る for Going and Coming Back"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the earlier section , you learned 食（た）べてくる means \"eat, and then come.\" You can also use this phrase when you are at home and just about to go eat somewhere. For example, imagine you are off to lunch with your friends and tell your family about it. In this case, you'd say:"
+    },
+    {
+      "type": "example",
+      "japanese": "友達（ともだち）とランチ食（た）べてくる。",
+      "english": "I'm going out for lunch with my friends (and coming back)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You are at the departure point, and the sentence is about your movement away from that point. So why use くる instead of いく here?"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's because this sort of expression is often used when you're talking to someone who'll be staying behind while you're away. When you leave the house, you expect to return later, right? So to the family members who won't be joining you, you're still doing the \"eat, and then come\" that 食（た）べてくる suggests. It's a nice gesture to inform the involved people what's going on from their perspective . Since the meaning of くる is a bit stretched in this use, it's typically written in kana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's continue with the same scenario. When you leave the house, you may tell your family members:"
+    },
+    {
+      "type": "example",
+      "japanese": "行（い）ってきます。",
+      "english": "I'm going (and coming back)."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a greeting phrase for when you are going out. It's a combination of 行（い）く and くる, so it implies you \"will go out but will come back later.\" In the old days, people risked their lives to travel, so saying 行（おこな）ってきます was like making a vow that they would return. 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll use this expression not only when you go out somewhere but also when you step out for a moment. For example, say you are now at a restaurant with some friends. However, one friend is late and hasn't messaged anyone. You are worried, so you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "どうしたのかな？ ちょっと 電話（でんわ）してくるよ。",
+      "english": "I wonder what happened. I'm going to go out and call him (and come back)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, 〜てくる adds the nuance of \"brb\" (be right back). It indicates that you'll leave the table to make a phone call and will be back afterward. 5"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-emphasizing-pushy-actions",
+      "text": "〜て来る for Emphasizing Pushy Actions"
+    },
+    {
+      "type": "paragraph",
+      "text": "When someone offers unsolicited or unwelcome action, you can add 〜てくる to express its pushiness. For example, imagine some backseat driver-type keeps lecturing you about the way you study Japanese. Here, you may complain about it to someone else, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "聞（き）いてもないのに 色々（いろいろ）（いろいろ） 教（おし）えてくるんだよね。",
+      "english": "They lecture me on things I don't even ask about."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, くる indicates that the act of 教（おし）える (to lecture/teach) directly comes towards you. It expresses the pushiness of the officious action."
+    },
+    {
+      "type": "paragraph",
+      "text": "What if you want to show your gratitude towards someone's act? In that case, you can use 〜てくれる or 〜てもらう instead."
+    },
+    {
+      "type": "example",
+      "japanese": "いつも色々（いろいろ）教（おし）えて [くれる・もらう] んだよね。",
+      "english": "They always teach me a lot."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜てくれる is a humble way of saying someone is doing something for you. 〜てもらう is basically the same, but it's often suited for when the favor is done upon your request."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section",
+      "text": "行っている"
+    },
+    {
+      "type": "paragraph",
+      "text": "It may feel a bit strange for English speakers, but you use the ている form of 行（い）く when someone has gone somewhere."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's say you have a daughter who is studying in New York. If someone asks you where your daughter is, you will describe the situation by using 行（おこな）っている (or its casual form 行（おこな）ってる), like:"
+    },
+    {
+      "type": "example",
+      "japanese": "うちの 娘（むすめ）はニューヨークに 留学（りゅうがく）に行（い）ってるんです。",
+      "english": "My daughter has gone to New York to study."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because a verb in the ている form describes an ongoing situation that began in the past. Think of it like a state or condition. The moment she left for New York she entered the \"going to New York\" state, and she'll remain in that ニューヨークに行（い）っている condition until she comes back."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use 行（おこな）っている for more day-to-day outings as well. For example, imagine someone calls your home phone and asks for your mom. To say she is out for shopping, it will be:"
+    },
+    {
+      "type": "example",
+      "japanese": "母（はは）は今（いま）、 買（か）い 物（もの）に行（い）っています。",
+      "english": "Mom is out shopping now."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section-1",
+      "text": "来ている"
+    },
+    {
+      "type": "paragraph",
+      "text": "When 来（く）る is in its ている form , you can express that you are currently visiting somewhere. For example, if you want to say you are visiting New York, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "今（こん）ニューヨークに来（き）ているんです。",
+      "english": "I'm in New York now."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, a verb in the ている form describes an ongoing situation that began in the past. When you arrive in New York, you enter a \"visiting New York\" or \"having come to New York\" condition. That condition will last as long as your stay does, so until you leave you can say you're 来（き）ている in New York."
+    },
+    {
+      "type": "paragraph",
+      "text": "To learn more about how the ている form works in general, check out its dedicated page!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-gradual-processes",
+      "text": "〜ていく and 〜てくる for Gradual Processes"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜ていく and 〜てくる can also express a gradual process in time. Here, 〜ていく focuses on the initial point of the process, while 〜てくる focuses on the endpoint."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you are watching instructional videos in Japanese, the instructor may say something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "一緒（いっしょ）に 頑張（がんば）っていきましょう。",
+      "english": "Let's work on this together!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜ていく implies a gradual process you are going to begin or continue. When it follows 一緒（いっしょ）に頑張（がんば）る (to work together), the teacher can express that you are standing at the start or middle of a learning journey, and they expect to continue working together with you."
+    },
+    {
+      "type": "paragraph",
+      "text": "The ending ましょう is a polite ます form with the verb suffix 〜よう . It politely proposes that the learners keep working together too."
+    },
+    {
+      "type": "paragraph",
+      "text": "After months of lessons, let's say you've mastered whatever you were learning. You feel you couldn't have made it to that point without the friends who had worked with you. In this situation, you may use 〜てくる and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "一緒（いっしょ）に頑張（がんば）ってきた 仲間（なかま）のおかげです。",
+      "english": "It's thanks to my friends who have worked hard with me."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, 〜てくる indicates the endpoint of a gradual process. In this example, it shows you and your friends had worked hard together, but now you are at the endpoint or at least some milestone from which you can look back at your past efforts."
+    },
+    {
+      "type": "paragraph",
+      "text": "To learn more about this use of 〜ていく and 〜てくる, check out its dedicated page ."
+    },
+    {
+      "type": "paragraph",
+      "text": "行（い）く can be read either いく or ゆく. However, いく is more commonly used in modern Japanese, and ゆく is generally used in a poetic context. &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "The expression 食（た）べていく can also mean \"to make a living,\" or more precisely \"to make enough money to buy food to survive.\" You can use this expression in a sentence like この 業界（ぎょうかい）で食（た）べていくのは 難（むずか）しい。 (It's difficult to make a living in this industry.) &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "While 帰（かえ）る and 戻（もど）る both mean \"to return,\" there is a difference in nuance between the two. 帰（かえ）る simply refers to returning to a place one considers to be a base or headquarters, like one's home, as in 家（いえ）に帰（かえ）る (to return home). In contrast, 戻（もど）る indicates returning to some place or state where one was previously. So while 戻（もど）る can also be used as \"returning to a location\" like 家（いえ）に戻（もど）る (to return to the home), it can be used for \"returning to a state\" such as カエルは 王子（おうじ）の 姿（すがた）に戻（もど）った (the frog returned to the appearance of a prince). &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "To answer 行（おこな）ってきます, people who will be staying would normally say 行（おこな）ってらっしゃい. Although it's just a greeting phrase nowadays, the phrase is made up of 行（い）く (go) and いらっしゃい (welcome), and it originally meant \"go, but please come back safely.\" &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Talking on the phone at a table is considered bad manners in Japan, especially in a fancy restaurant. &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "行（い）く (いく・ゆく) and 来（く）る (くる) are Japanese words for \"to go\" and \"to come.\" 1",
+    "The way you use 行（い）く and 来（く）る are mostly the same as their English counterparts. For example, imagine you and your friend are running to the platform to catch a train. To say \"the train will come soon,\" you use 来（く）る:",
+    "But when you and your friend finally get to the platform, the train has already left. To say \"the train is gone ,\" you use 行（い）く:",
+    "As this example shows, when the speaker and listener share the same perspective about the movement, Japanese works similarly to English. On the other hand, you have to be careful when their perspectives differ!",
+    "For example, say your friend is waiting for you to get ready to go out. They shout out, \"Hurry up, it's time to go!\" When you respond in English, you'll probably say something like \"Hold on, I'm coming now!\" In Japanese, however, you can't use 来（く）る in this situation.",
+    "This is because in Japanese, you use 来（く）る when the movement is toward your current location and 行（い）く when it's away from your current location. Here, you're talking about your own movement, which will take you away from where you currently are, so you have to use 行（い）く instead of 来（く）る.",
+    "On the other hand, \"to come\" in English can refer to movements shared between the speaker and listener in both directions. But to use \"go\" in English in the above scenario would sound a little strange, almost like you're going to a different, unrelated place (instead of to where your friend is waiting for you), or like you're about to leave without your friend. That's the most significant difference between English and Japanese, so just try to remember it when selecting 行（い）く or 来（く）る!",
+    "On this page, you'll learn how 行（い）く and 来（く）る can be used with other words or in different forms to acquire additional meanings — let's go !",
+    "Like all main verbs in Japanese, 行（い）く and 来（く）る generally go at the end of a sentence or clause.",
+    "行（い）く and 来（く）る are often used with the particle に as it can mark the location where someone is going or coming to.",
+    "In this use, you can replace に with the particle へ or まで , as in 学校（がっこう） へ 行（い）く or 学校（がっこう） まで 来（く）る. Here, へ sounds more formal while まで emphasizes it's the endpoint of a movement, which can add the nuance of \"all the way to…\" The particle に can also follow a verbal noun, as in 勉強（べんきょう）に, or a verb in its stem form, as in 勉強（べんきょう）しに or 学（まな）びに, to explain why you're going or coming.",
+    "To specify the way you come or go somewhere, you can use the particle で , as in バスで (by bus), タクシーで (by taxi), 電車（でんしゃ）で (by train), or 徒歩（とほ）で (on foot).",
+    "When different particles mark multiple parts, you can switch around the positions.",
+    "行（い）く and 来（く）る can attach to another verb in its て form . In this pattern, 行（い）く and 来（く）る become grammatical features and their literal meanings are weakened. Hence, they are commonly written in kana, as in 〜ていく/くる .",
+    "You can also place other elements before the two combined verbs, or even in between them!",
+    "The verb 行（い）く is a godan verb and the verb 来（く）る is an irregular verb , so they conjugate differently. Here are some basic conjugations of the two verbs:",
+    "The formal versions are exactly the same for both 行（い）く and 来（く）る. The respectful ways of saying 行（い）く and 来（く）る are いらっしゃる or おいでになる, while the humble way of saying 行（い）く and 来（く）る is 参（まい）る. These words are used in formal situations.",
+    "Like \"go see\" or \"come visit\" in English, 行（い）く and 来（く）る can be used with other verbs to show the purpose of the movement.",
+    "In this case, 行（い）く and 来（く）る follow the stem form of the purpose verb, and are marked by the particle に .",
+    "For example, say you are going to a movie theater to see My Neighbor Totoro . In English, you'll \"go see\" it. In Japanese, you'll 見（み）に行（い）く.",
+    "Let's take a look at another situation. Imagine one of your friends is moving somewhere far away and says, \"Come visit me someday!\" In this situation, she'll use 会（あ）う (to see/meet someone) with に and 来（く）る and say:",
+    "Similarly, \"go buy coffee\" is コーヒーを買（か）いに行（い）く and \"come eat sushi\" is 寿司（すし）を食（た）べに来（く）る. You can make many sentences with this pattern!",
+    "行（い）く and 来（く）る can also follow another verb in its て form . Here they work as helping verbs, a.k.a. auxiliary verbs, which supplement the main verb. In this use, 行（い）く and 来（く）る are commonly written in kana, as in 〜ていく/くる, because they become a grammatical feature and their literal meanings are weakened.",
+    "What nuance いく and くる supplement can change depending on the main verb. This section will look at how they work with different types of verbs!",
+    "When いく and くる follow a general action, such as 買（か）う (buy) or 食（た）べる (eat), it means the subject carries out the main action first and then goes or comes somewhere:",
+    "For example, imagine you are going to visit your friend's place. If you are getting some donuts for the occasion, you can tell your friend:",
+    "Here, it doesn't matter if you buy them on the way there or ahead of time. It simply means you'll purchase the donuts sometime before getting there.",
+    "If the donuts are a surprise gift, you might not tell your friend until after you get to their house. In this case, you'll change いく to くる since you've already bought the donuts and arrived at your friend's house.",
+    "Similarly, if you are going somewhere after eating lunch, you can say 昼（ひる）ごはんを食（た）べていく (I'll eat lunch and then go there). And after you arrive at your destination, you can say 昼（ひる）ごはんを食（た）べてきた (I ate lunch and then came here). It's pretty straightforward, right?",
+    "Sometimes, these expressions can be used more situationally, though. Say you arrive at your friend's house, for example, and they ask if you've already had lunch. A simple answer like うん、食（た）べた (yes, I ate) would sound a bit direct, so it's more common to add another element like くる:",
+    "Let's take a look at one more example. Imagine after you and your friend have hung out for a while, your friend's mother comes home. Everyone says hello and chats for a bit, and then your friend's mother asks you a question:",
+    "If you look at the literal meaning, it may seem a strange way of asking the question. However, by adding 行（い）く, your friend's mother can show she is aware that you have to leave at some point. It's a small additional nuance, but now the question can ask if you are willing to eat dinner while you are still at their place . 2",
+    "Next, we'll check out the verbs that indicate you have something or someone with you, such as 持（も）つ (to have/carry something) and 連（つ）れる (to accompany someone).",
+    "When いく or くる follows this type of word, the meaning is pretty straightforward. It just indicates that you go or come somewhere with the thing or person referenced. Hence, 持（も）っていく and 連（つ）れていく mean \"to take\" and 持（も）ってくる and 連（つ）れてくる mean \"to bring\" something or someone respectively.",
+    "This use also applies to clothes-related verbs, such as 着（き）る (\"to wear\" for general items of clothing) or はく (\"to wear\" for bottoms, including shoes and socks). By adding 行（い）く or 来（く）る to those verbs, you can specify what clothes you have on when you go/come somewhere.",
+    "Often, 行（い）く and 来（く）る also follow movement verbs, such as 歩（ある）く (to walk), 走（はし）る (to run), 泳（およ）ぐ (to swim), and 飛（と）ぶ (to fly).",
+    "For example, let's say you are off to the office on foot. In English, you can say \"I will walk to the office,\" but it's not very natural to say 会社（かいしゃ）に歩（ある）く in Japanese. This is because the Japanese verb 歩（ある）く (to walk) just describes the physical act of walking without a directional meaning.",
+    "To complement the meaning, you'll need an additional word that carries the directional nuance. That word can be a particle or preposition, like まで (up to) or 向（む）かって (toward), but it can also be a verb, like いく or くる.",
+    "In this situation, you are talking about movement away from your current departure point, so you can say 歩（ある）いていく:",
+    "If you are at or around the office and your focus shifts to the movement towards where you are, you switch it to 歩（ある）いてくる.",
+    "Similarly, if you are running to the office, you may 会社（かいしゃ）に走（はし）っていく/くる. If your office is on an island surrounded by a lake, you may 会社（かいしゃ）に泳（およ）いでいく/くる. And if you can fly like Anpanman, you may 会社（かいしゃ）に飛（と）んでいく/くる.",
+    "There are also motion verbs that already carry a sense of direction, such as 入（はい）る (to go in), 出（で）る (to go out), 帰（かえ）る, and 戻（もど）る (to return) (to return). 3 When いく or くる follows this type of verb, it clarifies the speaker's perspective and describes the movements more dynamically.",
+    "For example, if you see someone coming into or out of where you are, you'd typically use 入（はい）ってくる or 出（で）ていく to describe the scene.",
+    "By adding いく or くる, you can show which side of the movement you are on and whether it's away from or toward you. It makes the sentence more dynamic than a simple statement of fact, like it's a scene of someone coming or going as viewed from your eye.",
+    "In other words, you don't add いく or くる if you just want to state a fact without involving your personal perspective. For example, picture a stakeout scene where you're a police officer reporting on the movements of your target. You see the culprit moving in and out of a classroom, for example, so you might say into your walky-talky:",
+    "In this case, it's common to omit いく and くる. Without them, you don't implicate yourself in the scene. Your report to the other officers is just an objective statement about the culprit.",
+    "Let's take a look at another example. Say you've made a Japanese friend named Hanako in some country that isn't Japan, but now she has left for her home country. In this case, you can say:",
+    "Here, the first sentence sounds like you are stating the fact that Hanako went back to Japan. The second sentence better reflects your personal perspective, like you are sending off Hanako while thinking about her going toward Japan. Due to the nuance いく adds, there's a lingering image of Hanako heading to her home country, even after she has disappeared from your sight.",
+    "Since いく conjures up a more descriptive image, as seen from your eyes, of Hanako going back to Japan, it might not work with future events that you haven't witnessed yet (unless you want to sound super poetic). To say something like \"Hanako is going back to Japan in a month,\" it's more natural just to say:",
+    "On the other hand, if you're a member of Hanako's family in Japan and talking about her return, you'll typically add くる regardless of whether it's in the future or past. For people on the \"arrival\" end of the movement, it's natural to visualize her coming back toward them, and it doesn't carry any poetic tone, even if it's about a future event.",
+    "In the earlier section , you learned 食（た）べてくる means \"eat, and then come.\" You can also use this phrase when you are at home and just about to go eat somewhere. For example, imagine you are off to lunch with your friends and tell your family about it. In this case, you'd say:",
+    "You are at the departure point, and the sentence is about your movement away from that point. So why use くる instead of いく here?",
+    "It's because this sort of expression is often used when you're talking to someone who'll be staying behind while you're away. When you leave the house, you expect to return later, right? So to the family members who won't be joining you, you're still doing the \"eat, and then come\" that 食（た）べてくる suggests. It's a nice gesture to inform the involved people what's going on from their perspective . Since the meaning of くる is a bit stretched in this use, it's typically written in kana.",
+    "Let's continue with the same scenario. When you leave the house, you may tell your family members:",
+    "This is a greeting phrase for when you are going out. It's a combination of 行（い）く and くる, so it implies you \"will go out but will come back later.\" In the old days, people risked their lives to travel, so saying 行（おこな）ってきます was like making a vow that they would return. 4",
+    "You'll use this expression not only when you go out somewhere but also when you step out for a moment. For example, say you are now at a restaurant with some friends. However, one friend is late and hasn't messaged anyone. You are worried, so you say:",
+    "In this case, 〜てくる adds the nuance of \"brb\" (be right back). It indicates that you'll leave the table to make a phone call and will be back afterward. 5",
+    "When someone offers unsolicited or unwelcome action, you can add 〜てくる to express its pushiness. For example, imagine some backseat driver-type keeps lecturing you about the way you study Japanese. Here, you may complain about it to someone else, like:",
+    "In this example, くる indicates that the act of 教（おし）える (to lecture/teach) directly comes towards you. It expresses the pushiness of the officious action.",
+    "What if you want to show your gratitude towards someone's act? In that case, you can use 〜てくれる or 〜てもらう instead.",
+    "Here, 〜てくれる is a humble way of saying someone is doing something for you. 〜てもらう is basically the same, but it's often suited for when the favor is done upon your request.",
+    "It may feel a bit strange for English speakers, but you use the ている form of 行（い）く when someone has gone somewhere.",
+    "For example, let's say you have a daughter who is studying in New York. If someone asks you where your daughter is, you will describe the situation by using 行（おこな）っている (or its casual form 行（おこな）ってる), like:",
+    "This is because a verb in the ている form describes an ongoing situation that began in the past. Think of it like a state or condition. The moment she left for New York she entered the \"going to New York\" state, and she'll remain in that ニューヨークに行（い）っている condition until she comes back.",
+    "You can use 行（おこな）っている for more day-to-day outings as well. For example, imagine someone calls your home phone and asks for your mom. To say she is out for shopping, it will be:",
+    "When 来（く）る is in its ている form , you can express that you are currently visiting somewhere. For example, if you want to say you are visiting New York, you can say:",
+    "Again, a verb in the ている form describes an ongoing situation that began in the past. When you arrive in New York, you enter a \"visiting New York\" or \"having come to New York\" condition. That condition will last as long as your stay does, so until you leave you can say you're 来（き）ている in New York.",
+    "To learn more about how the ている form works in general, check out its dedicated page!",
+    "〜ていく and 〜てくる can also express a gradual process in time. Here, 〜ていく focuses on the initial point of the process, while 〜てくる focuses on the endpoint.",
+    "For example, if you are watching instructional videos in Japanese, the instructor may say something like:",
+    "Here, 〜ていく implies a gradual process you are going to begin or continue. When it follows 一緒（いっしょ）に頑張（がんば）る (to work together), the teacher can express that you are standing at the start or middle of a learning journey, and they expect to continue working together with you.",
+    "The ending ましょう is a polite ます form with the verb suffix 〜よう . It politely proposes that the learners keep working together too.",
+    "After months of lessons, let's say you've mastered whatever you were learning. You feel you couldn't have made it to that point without the friends who had worked with you. In this situation, you may use 〜てくる and say:",
+    "Again, 〜てくる indicates the endpoint of a gradual process. In this example, it shows you and your friends had worked hard together, but now you are at the endpoint or at least some milestone from which you can look back at your past efforts.",
+    "To learn more about this use of 〜ていく and 〜てくる, check out its dedicated page .",
+    "行（い）く can be read either いく or ゆく. However, いく is more commonly used in modern Japanese, and ゆく is generally used in a poetic context. &#8617;",
+    "The expression 食（た）べていく can also mean \"to make a living,\" or more precisely \"to make enough money to buy food to survive.\" You can use this expression in a sentence like この 業界（ぎょうかい）で食（た）べていくのは 難（むずか）しい。 (It's difficult to make a living in this industry.) &#8617;",
+    "While 帰（かえ）る and 戻（もど）る both mean \"to return,\" there is a difference in nuance between the two. 帰（かえ）る simply refers to returning to a place one considers to be a base or headquarters, like one's home, as in 家（いえ）に帰（かえ）る (to return home). In contrast, 戻（もど）る indicates returning to some place or state where one was previously. So while 戻（もど）る can also be used as \"returning to a location\" like 家（いえ）に戻（もど）る (to return to the home), it can be used for \"returning to a state\" such as カエルは 王子（おうじ）の 姿（すがた）に戻（もど）った (the frog returned to the appearance of a prince). &#8617;",
+    "To answer 行（おこな）ってきます, people who will be staying would normally say 行（おこな）ってらっしゃい. Although it's just a greeting phrase nowadays, the phrase is made up of 行（い）く (go) and いらっしゃい (welcome), and it originally meant \"go, but please come back safely.\" &#8617;",
+    "Talking on the phone at a table is considered bad manners in Japan, especially in a fancy restaurant. &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "電車（でんしゃ）、もうすぐ来（く）るよ。",
+      "english": "The train will come soon."
+    },
+    {
+      "japanese": "電車（でんしゃ）、行（い）っちゃったね。",
+      "english": "The train's gone, huh?"
+    },
+    {
+      "japanese": "ちょっと 待（ま）って！今（いま） [⭕ 行（い）く・❌ 来（く）る] よ！",
+      "english": "Hold on, I'm coming now! (Literally: I'm going now!)"
+    },
+    {
+      "japanese": "学校（がっこう）に [行（い）く・来（く）る]",
+      "english": "go/come to school"
+    },
+    {
+      "japanese": "勉強（べんきょう）(し)に [行（い）く・来（く）る]",
+      "english": "go/come to study"
+    },
+    {
+      "japanese": "学（まな）びに [行（い）く・来（く）る]",
+      "english": "go/come to learn"
+    },
+    {
+      "japanese": "バスで [行（い）く・来（く）る]",
+      "english": "go/come somewhere by bus"
+    },
+    {
+      "japanese": "学校（がっこう）にバスで [行（い）く・来（く）る]バスで学校（がっこう）に [行（い）く・来（く）る]",
+      "english": "go/come to school by bus"
+    },
+    {
+      "japanese": "歩（ある）いて [いく・くる]",
+      "english": "go/come somewhere on foot"
+    },
+    {
+      "japanese": "学校（がっこう）に歩（ある）いて [いく・くる]歩（ある）いて学校（がっこう）に [いく・くる]",
+      "english": "go/come to school on foot"
+    },
+    {
+      "japanese": "映画館（えいがかん）に『となりのトトロ』を見（み）に行（い）く。",
+      "english": "I'm going to the movie theater to see My Neighbor Totoro."
+    },
+    {
+      "japanese": "いつか会（あ）いに来（き）てね。",
+      "english": "Come visit me someday!"
+    },
+    {
+      "japanese": "買（か）って [いく・くる]",
+      "english": "buy, and then go/come"
+    },
+    {
+      "japanese": "食（た）べて [いく・くる]",
+      "english": "eat, and then go/come"
+    },
+    {
+      "japanese": "ドーナツを買（か）っていくよ！",
+      "english": "I'll get some donuts for you/us. (Literally: I'll buy some donuts and then go there.)"
+    },
+    {
+      "japanese": "ドーナツを買（か）ってきたよ！",
+      "english": "I got some donuts for you/us.(Literally: I bought some donuts and then came here.)"
+    },
+    {
+      "japanese": "Friend: お昼（ひる）ごはん、もう食（た）べた？ You: あ、食（た）べてきた。",
+      "english": "Friend: Have you had lunch yet? You: Ah, I have.(Literally: Ah, I ate and then came here.)"
+    },
+    {
+      "japanese": "夕飯（ゆうはん）、食（た）べていく？",
+      "english": "Would you like to have supper here? (Literally: Are you going to eat supper and then go?)"
+    },
+    {
+      "japanese": "学校（がっこう）に宿題（しゅくだい）を持（も）って [いく・くる] のを忘（わす）れた。",
+      "english": "I forgot to take/bring my homework to school."
+    },
+    {
+      "japanese": "学校（がっこう）にネコを連（つ）れて [いった・きた] の！？",
+      "english": "Did you take/bring a cat to school!?"
+    },
+    {
+      "japanese": "パーティーに赤（あか）いドレスを着（き）て [いく・くる]",
+      "english": "go/come to a party in a red dress"
+    },
+    {
+      "japanese": "ハイキングにパンプスをはいて [いく・くる]",
+      "english": "go/come to the hike wearing pumps"
+    },
+    {
+      "japanese": "会社（かいしゃ）に歩（ある）いていく。",
+      "english": "I'm going to the office on foot."
+    },
+    {
+      "japanese": "会社（かいしゃ）に歩（ある）いてきた。",
+      "english": "I came to the office on foot."
+    },
+    {
+      "japanese": "先生（せんせい）が 教室（きょうしつ）に入（はい）ってきた。",
+      "english": "The teacher came into the classroom."
+    },
+    {
+      "japanese": "先生（せんせい）が教室（きょうしつ）から出（で）ていった。",
+      "english": "The teacher went out of the classroom."
+    },
+    {
+      "japanese": "今（いま）、 犯人（はんにん）が教室（きょうしつ）に入（はい）りました。",
+      "english": "The culprit has entered the classroom."
+    },
+    {
+      "japanese": "今（いま）、犯人（はんにん）が教室（きょうしつ）から出（で）ました。",
+      "english": "The culprit has left the classroom."
+    },
+    {
+      "japanese": "花子（はなこ）は日本（にっぽん）に [戻（もど）った・帰（かえ）った]。 花子（はなこ）は日本（にっぽん）に [戻（もど）って・帰（かえ）って] いった。",
+      "english": "Hanako went back to Japan."
+    },
+    {
+      "japanese": "花子（はなこ）は 来月（らいげつ）日本（にっぽん）に [帰（かえ）る・戻（もど）る]。",
+      "english": "Hanako will go back to Japan next month."
+    },
+    {
+      "japanese": "花子（はなこ）は来月（らいげつ）日本（にっぽん）に [帰（かえ）って・戻（もど）って] くる。",
+      "english": "Hanako will come back to Japan next month."
+    },
+    {
+      "japanese": "花子（はなこ）は日本（にっぽん）に [帰（かえ）って・戻（もど）って] きた。",
+      "english": "Hanako came back to Japan."
+    },
+    {
+      "japanese": "友達（ともだち）とランチ食（た）べてくる。",
+      "english": "I'm going out for lunch with my friends (and coming back)."
+    },
+    {
+      "japanese": "行（い）ってきます。",
+      "english": "I'm going (and coming back)."
+    },
+    {
+      "japanese": "どうしたのかな？ ちょっと 電話（でんわ）してくるよ。",
+      "english": "I wonder what happened. I'm going to go out and call him (and come back)."
+    },
+    {
+      "japanese": "聞（き）いてもないのに 色々（いろいろ）（いろいろ） 教（おし）えてくるんだよね。",
+      "english": "They lecture me on things I don't even ask about."
+    },
+    {
+      "japanese": "いつも色々（いろいろ）教（おし）えて [くれる・もらう] んだよね。",
+      "english": "They always teach me a lot."
+    },
+    {
+      "japanese": "うちの 娘（むすめ）はニューヨークに 留学（りゅうがく）に行（い）ってるんです。",
+      "english": "My daughter has gone to New York to study."
+    },
+    {
+      "japanese": "母（はは）は今（いま）、 買（か）い 物（もの）に行（い）っています。",
+      "english": "Mom is out shopping now."
+    },
+    {
+      "japanese": "今（こん）ニューヨークに来（き）ているんです。",
+      "english": "I'm in New York now."
+    },
+    {
+      "japanese": "一緒（いっしょ）に 頑張（がんば）っていきましょう。",
+      "english": "Let's work on this together!"
+    },
+    {
+      "japanese": "一緒（いっしょ）に頑張（がんば）ってきた 仲間（なかま）のおかげです。",
+      "english": "It's thanks to my friends who have worked hard with me."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Present",
+        "行（い）く",
+        "来（く）る"
+      ],
+      [
+        "Present (Polite)",
+        "行（い）きます",
+        "来（き）ます"
+      ],
+      [
+        "Past",
+        "行（い）った",
+        "来（き）た"
+      ],
+      [
+        "Past (Polite)",
+        "行（い）きました",
+        "来（き）ました"
+      ],
+      [
+        "Negative",
+        "行（い）かない",
+        "来（こ）ない"
+      ],
+      [
+        "Negative (Polite)",
+        "行（い）きません",
+        "来（き）ません"
+      ],
+      [
+        "Past",
+        "行（い）かなかった",
+        "来（こ）なかった"
+      ],
+      [
+        "Past (Polite)",
+        "行（い）きませんでした",
+        "来（き）ませんでした"
+      ]
+    ],
+    [
+      [
+        "Plain",
+        "Honorific",
+        "Humble"
+      ],
+      [
+        "行（い）く",
+        "いらっしゃるおいでになる",
+        "参（まい）る"
+      ],
+      [
+        "来（く）る",
+        "いらっしゃるおいでになる",
+        "参（まい）る"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "particle--",
+      "text": "Particle + 行く・来る"
+    },
+    {
+      "level": 4,
+      "id": "form--",
+      "text": "て form + 行く・来る"
+    },
+    {
+      "level": 3,
+      "id": "conjugations",
+      "text": "Conjugations"
+    },
+    {
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "level": 2,
+      "id": "for-to-gocome-to-do-something",
+      "text": "〜に行く/来る for \"To Go/Come To Do Something\""
+    },
+    {
+      "level": 2,
+      "id": "for-supplementing-meaning",
+      "text": "〜て行く/来る for Supplementing Meaning"
+    },
+    {
+      "level": 3,
+      "id": "general-action",
+      "text": "General Action"
+    },
+    {
+      "level": 3,
+      "id": "accompaniment",
+      "text": "Accompaniment"
+    },
+    {
+      "level": 3,
+      "id": "movement",
+      "text": "Movement"
+    },
+    {
+      "level": 3,
+      "id": "motion",
+      "text": "Motion"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-going-and-coming-back",
+      "text": "〜て来る for Going and Coming Back"
+    },
+    {
+      "level": 3,
+      "id": "for-emphasizing-pushy-actions",
+      "text": "〜て来る for Emphasizing Pushy Actions"
+    },
+    {
+      "level": 3,
+      "id": "section",
+      "text": "行っている"
+    },
+    {
+      "level": 3,
+      "id": "section-1",
+      "text": "来ている"
+    },
+    {
+      "level": 3,
+      "id": "and--for-gradual-processes",
+      "text": "〜ていく and 〜てくる for Gradual Processes"
+    }
+  ],
+  "id": 129,
+  "slug": "iku-kuru",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/iku-kuru/",
+  "categories": [
+    "Verb",
+    "Vocabulary"
+  ]
+}

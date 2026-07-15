@@ -1,0 +1,766 @@
+{
+  "title": "あまり〜ない",
+  "description": "あまり〜ない indicates that the degree or extent of something is not high or great, as in \"not very\" or \"not much.\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Used on its own, 余（あま）り is a noun that indicates \"excess\" or \"remainder.\" When it's paired with a negative statement, it's almost always written in kana, as in あまり〜ない, and works as an adverb that indicates \"not many/much\" of something exists. It's often translated as \"not very\" and can also conveniently be used to describe something you don't do \"very often\" or \"very much.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a quick look at an example of a sentence with and without あまり to see how it works."
+    },
+    {
+      "type": "paragraph",
+      "text": "To start off, suppose someone asks you where the nearest convenience store is. You want to tell them that there is no convenience store, so you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "コンビニがない。",
+      "english": "There is no convenience store."
+    },
+    {
+      "type": "paragraph",
+      "text": "Simple, right? Now let's add あまり to the sentence, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまりコンビニがない。",
+      "english": "There aren't many convenience stores."
+    },
+    {
+      "type": "paragraph",
+      "text": "By adding あまり, the meaning changes to there being some convenience stores, but \"not many.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Used in casual spoken conversation, it's important to note that あまり often becomes あんまり, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "あんまりコンビニがない。",
+      "english": "There aren't many convenience stores."
+    },
+    {
+      "type": "paragraph",
+      "text": "Easy peasy, right? Here, the meaning doesn't change, just the pronunciation of あ(ん)まり. Let's continue the scenario. So after mentioning that there aren't many convenience stores around, you're asking about your shopping habits. They say:"
+    },
+    {
+      "type": "example",
+      "japanese": "えっ、あんまりないの？じゃあ、買（か）い物（もの）どうしてるの？",
+      "english": "Wow, not many convenience stores? So what do you do for your shopping?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you don't go shopping at all because you just shop online, you may respond with something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "買（か）い物（もの）に行（い）かない。全部（ぜんぶ）オンラインで買（か）うから。",
+      "english": "I don't go shopping. Cuz I buy everything online."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if you just don't go shopping very often because you mostly use online shopping, you can use あまり〜ないand say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり買（か）い物（もの）に行（い）かない。ほとんどオンラインで買（か）うから。",
+      "english": "I don't go shopping very often. Cuz I buy most things online."
+    },
+    {
+      "type": "paragraph",
+      "text": "あまり〜ない is a versatile expression that can be used with nouns, adjectives, and verbs, so let's get into the details of how it works with the patterns of use!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun--",
+      "text": "あまり + Noun + がない"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you saw in the example あまりコンビニがない (There aren't many convenience stores), あまり〜ない can be used with a noun in the pattern あまり+noun+がない."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this pattern, it generally indicates something still exists but isn't abundant, as in \"there isn't many/much…\" of whatever noun you're talking about."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're talking about something that you or someone else owns, the translation becomes \"don't have many/much…\" For example, to say that you don't have much money, you can use あまり〜ない like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまりお金（かね）がない。",
+      "english": "I don't have much money."
+    },
+    {
+      "type": "paragraph",
+      "text": "And to talk about the past, simply replace ない with なかった, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまりお金（かね）がなかった。",
+      "english": "I didn't have much money."
+    },
+    {
+      "type": "paragraph",
+      "text": "The replacement of ない with なかった applies to all the other uses below, too."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective--",
+      "text": "あまり + な-Adjective + じゃない・ではない"
+    },
+    {
+      "type": "paragraph",
+      "text": "Combined with an adjective, あまり〜ない indicates that the degree of that adjective is not high/great, as in \"not very…\" To use this pattern with a な-adjective, you need to add じゃ or では after the stem."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you booked a hotel that was advertised for its tranquil setting, but when you arrive it's not very quiet. You can use あまり〜ない with the な-adjective 静（しず）か (meaning \"quiet\") and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり静（しず）か[じゃ・では]ない。",
+      "english": "It's not very quiet."
+    },
+    {
+      "type": "paragraph",
+      "text": "You're pretty bummed that it's not as quiet as you anticipated. To express how you feel, you can use 好（す）き with あまり〜ない, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり好（す）き[じゃ・では]ない。",
+      "english": "I don't like it very much."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that although \"to like\" is a verb in English, its Japanese equivalent, 好（す）き, is a な-adjective."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see from this example, じゃ and では are essentially interchangeable. Which one you use will usually depend on whether you're speaking or writing. じゃ is the contracted version of the formal では, and more casual. So you often hear 〜じゃない in conversation, whereas 〜ではない is used more frequently when writing. To learn more about じゃ and では, check out this dedicated page ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective",
+      "text": "あまり + い-Adjectiveくない"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember, あまり〜ない is a negative statement, so to use it with an い-adjective, you need to conjugate the い-adjective into its negative form . To do this, simply remove the final い and add くない."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, to say something isn't 難（むずか）しい (difficult), it works like this:"
+    },
+    {
+      "type": "formula",
+      "japanese": "あまり + 難（むずか）しい + くない → あまり難（むずか）しくない",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "あまり + 難（むずか）しい + くない → あまり難（むずか）しくない"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり難（むずか）しくない。",
+      "english": "It's not very difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not very difficult, right? You might even say that it's fun! But if you disagree, you can use あまり with 楽（たの）しい (fun) in the くない form and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり楽（たの）しくない。",
+      "english": "It's not very fun."
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope that's not how you're actually feeling, though!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb",
+      "text": "あまり + Verbない"
+    },
+    {
+      "type": "paragraph",
+      "text": "When あまり〜ない is used with a verb in the negative form, it indicates that the frequency or quantity associated with that verb is low. Thus, depending on the context, あまり+Verb+ない could imply either \"not very often\" or \"not very much,\" or sometimes both."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on the type (or group) of verb , how you conjugate it in the ない form will vary."
+    },
+    {
+      "type": "paragraph",
+      "text": "To add 〜ない to a godan verb, you'll need to change the final character to the correct あ-line character from the hiragana chart. For example, 飲（の）む (to drink) is a godan verb that ends in 〜む. So to conjugate it into the ない form, you would remove the final 〜む and replace it with 〜ま, then add 〜ない, giving you 飲（の）まない, like this:"
+    },
+    {
+      "type": "formula",
+      "japanese": "飲（の）む + ま + ない = 飲（の）まない",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "So, to say your dog doesn't drink water very often, you can use the あまり〜ない pattern like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり水（みず）を飲（の）まない。",
+      "english": "She doesn't drink water very often."
+    },
+    {
+      "type": "paragraph",
+      "text": "To add 〜ない to an ichidan verb, simply remove the 〜る at the end and add 〜ない. Take the ichidan verb 食（た）べる (to eat), for example. In the ない form it becomes:"
+    },
+    {
+      "type": "formula",
+      "japanese": "食（た）べる + ない = 食（た）べない",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "So, if your dog doesn't eat very much kibble, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまりドッグフードを食（た）べない。",
+      "english": "She doesn't eat very much kibble."
+    },
+    {
+      "type": "paragraph",
+      "text": "Apart from godan and ichidan verbs, you also need to watch out for the three irregular verbs 来（く）る (to come), する (to do), and ある (to exist). Here's how they conjugate in ない form:"
+    },
+    {
+      "type": "formula",
+      "japanese": "来（く）る + ない = 来（こ）ない する + ない = しない ある → ない",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "来（く）る + ない = 来（こ） ない する + ない = し ない ある → ない"
+    },
+    {
+      "type": "paragraph",
+      "text": "If your dog doesn't come very often when you call her, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり私（わたし）のところに来（こ）ない。",
+      "english": "She doesn't come to me very often."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe it's because you don't often take her outside for a walk. In that case, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり散歩（さんぽ）をしないからだ。",
+      "english": "It's because I don't walk her very often."
+    },
+    {
+      "type": "paragraph",
+      "text": "Though, I hope if you're not walking the dog that another family member is!"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you aren't familiar with the verb ない form and want to learn more, you can check out its dedicated page ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now you've learned how to use あまり〜ない with various types of words. One thing you haven't learned is how to use the phrase politely."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are two ways to make あまり〜ない polite. One way is to add です at the end, as in あまり〜ないです, and the other is to use ありません instead of ない."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "conversational-",
+      "text": "Conversational あまり～ないんです"
+    },
+    {
+      "type": "paragraph",
+      "text": "Between the two, 〜ないです is more common in conversation, so while it's a typical response to a yes-no question, it's pretty direct used as-is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's say someone asks if you drink coffee, and your answer is \"not often/much.\" In this case, you could respond with:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり飲（の）まないです。",
+      "english": "I don't drink it very [often/much]."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if you are voluntarily telling someone that you don't drink coffee, it sounds a bit off to say:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）、あまりコーヒー飲（の）まないです。",
+      "english": "I don't drink coffee very [often/much]."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, it's more natural to add ん between ない and です, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）、あまりコーヒー飲（の）まないんです。",
+      "english": "I don't drink coffee very [often/much]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, ん serves as a communication tool that gives the statement an explanation-like vibe. It shows that you're bridging the communication gap between you and the other person. So when bringing up new information in conversation, ん is essential to making your statement feel more natural. If you want to learn more about how this works, check out its dedicated page ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "formal-",
+      "text": "Formal あまり～ありません"
+    },
+    {
+      "type": "paragraph",
+      "text": "Compared to 〜ない(ん)です, 〜ありません is more formal and may be reserved for polite explanation. This pattern is also a bit trickier grammatically, so that's something to watch out for with this expression."
+    },
+    {
+      "type": "paragraph",
+      "text": "With あまり + noun, な-adjective, and い-adjective ～くない, you can simply replace ない with ありません:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまりお金（かね）がない。→あまりお金（かね）がありません。",
+      "english": "I don't have much money."
+    },
+    {
+      "type": "example",
+      "japanese": "あまり静（しず）か[じゃ・では]ない。→あまり静（しず）か[じゃ・では]ありません。",
+      "english": "It's not very quiet."
+    },
+    {
+      "type": "example",
+      "japanese": "あまり難（むずか）しくない。→あまり難（むずか）しくありません。",
+      "english": "It's not very difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, with verbs, you can't just swap ない with ありません. Instead, you need to change them into the ます form , a.k.a. stem form, and then add ません."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, to add 〜ません to the verb 飲（の）む, you need to conjugate it into the ます form, which is 飲（の）み, and then add 〜ません. Like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり飲（の）みません。",
+      "english": "I don't drink it very [often/much]."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, to add 〜ません to the verb 食（た）べる, you need to conjugate it into the ます form, which is 食（た）べ, and then add 〜ません. Like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり食（た）べません。",
+      "english": "I don't eat it very [often/much]."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're not sure how to conjugate verbs into the ます form, or if you could use a refresher, check out its dedicated page !"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-other-verb-forms",
+      "text": "あまり〜ない with Other Verb Forms"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use あまり〜ない with other verb forms, too. Let's take a look at a couple examples to see how it works."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-havent-done-it-very-muchoften",
+      "text": "あまり〜ていない for \"Haven't Done (It) Very Much/Often\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the 〜ている form of verb with あまり〜ない. For instance, if you have a flu and haven't had much of an appetite, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり食（た）べて(い)ない。",
+      "english": "I haven't been eating very much."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜ている, or its shorter casual version 〜てる, indicates that you're talking about a certain period of time related to the activity of eating, and あまり〜て(い)ない shows the activity hasn't been performed very often during that period (here, it probably indicates the onset of the flu to up until the time of the conversation)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like the other あまり+Verb+ない examples, it can also indicate that the frequency of an action has been low. For example, say someone asks you if you've at least been drinking enough water. If you think you haven't, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり飲（の）んで(い)ない。",
+      "english": "I haven't been drinking (water) often enough."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, in this case, 〜ている indicates that you're talking about a certain period of time associated with the activity of drinking water, and あまり〜て(い)ない shows the activity hasn't been performed often up until the point of conversation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether あまり〜て(い)ない indicates the quality or frequency of the action totally depends on the speaker's intention, and often it can mean both. For example, if you haven't been drinking frequently enough, then it probably means you haven't had much to drink, either."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-cant-do-very-muchoften",
+      "text": "あまり〜られない for \"Can't Do Very Much/Often\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use the potential form of a verb with 〜られる ending with あまり〜ない. Let's continue the flu example. If you're too sick to eat much, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あまり食（た）べられない。",
+      "english": "I can't eat very much."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, depending on the context, the same statement can imply low frequency. For example, say your friend brings you some rare fruits as an omimai (get-well-soon) gift. Surprisingly, you have enough of an appetite to eat everything. So you do, and you tell your friend that you could eat it all because you don't have the opportunity to eat rare fruit \"very often.\""
+    },
+    {
+      "type": "example",
+      "japanese": "こんな美味（おい）しい果物（くだもの）、あまり食（た）べられないから、つい 勢（いきお）いづいちゃった。",
+      "english": "I don't get to eat this kind of delicious fruit very often, so I got a little carried away."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's usually easy to guess the implied meaning of あまり〜ない, though! Just keep in mind that it has the potential to imply two different things."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Used on its own, 余（あま）り is a noun that indicates \"excess\" or \"remainder.\" When it's paired with a negative statement, it's almost always written in kana, as in あまり〜ない, and works as an adverb that indicates \"not many/much\" of something exists. It's often translated as \"not very\" and can also conveniently be used to describe something you don't do \"very often\" or \"very much.\"",
+    "Let's take a quick look at an example of a sentence with and without あまり to see how it works.",
+    "To start off, suppose someone asks you where the nearest convenience store is. You want to tell them that there is no convenience store, so you say:",
+    "Simple, right? Now let's add あまり to the sentence, like:",
+    "By adding あまり, the meaning changes to there being some convenience stores, but \"not many.\"",
+    "Used in casual spoken conversation, it's important to note that あまり often becomes あんまり, as in:",
+    "Easy peasy, right? Here, the meaning doesn't change, just the pronunciation of あ(ん)まり. Let's continue the scenario. So after mentioning that there aren't many convenience stores around, you're asking about your shopping habits. They say:",
+    "If you don't go shopping at all because you just shop online, you may respond with something like:",
+    "But if you just don't go shopping very often because you mostly use online shopping, you can use あまり〜ないand say:",
+    "あまり〜ない is a versatile expression that can be used with nouns, adjectives, and verbs, so let's get into the details of how it works with the patterns of use!",
+    "As you saw in the example あまりコンビニがない (There aren't many convenience stores), あまり〜ない can be used with a noun in the pattern あまり+noun+がない.",
+    "In this pattern, it generally indicates something still exists but isn't abundant, as in \"there isn't many/much…\" of whatever noun you're talking about.",
+    "If you're talking about something that you or someone else owns, the translation becomes \"don't have many/much…\" For example, to say that you don't have much money, you can use あまり〜ない like this:",
+    "And to talk about the past, simply replace ない with なかった, as in:",
+    "The replacement of ない with なかった applies to all the other uses below, too.",
+    "Combined with an adjective, あまり〜ない indicates that the degree of that adjective is not high/great, as in \"not very…\" To use this pattern with a な-adjective, you need to add じゃ or では after the stem.",
+    "For example, imagine you booked a hotel that was advertised for its tranquil setting, but when you arrive it's not very quiet. You can use あまり〜ない with the な-adjective 静（しず）か (meaning \"quiet\") and say:",
+    "You're pretty bummed that it's not as quiet as you anticipated. To express how you feel, you can use 好（す）き with あまり〜ない, like:",
+    "Note that although \"to like\" is a verb in English, its Japanese equivalent, 好（す）き, is a な-adjective.",
+    "As you can see from this example, じゃ and では are essentially interchangeable. Which one you use will usually depend on whether you're speaking or writing. じゃ is the contracted version of the formal では, and more casual. So you often hear 〜じゃない in conversation, whereas 〜ではない is used more frequently when writing. To learn more about じゃ and では, check out this dedicated page .",
+    "Remember, あまり〜ない is a negative statement, so to use it with an い-adjective, you need to conjugate the い-adjective into its negative form . To do this, simply remove the final い and add くない.",
+    "For example, to say something isn't 難（むずか）しい (difficult), it works like this:",
+    "あまり + 難（むずか）しい + くない → あまり難（むずか）しくない",
+    "Not very difficult, right? You might even say that it's fun! But if you disagree, you can use あまり with 楽（たの）しい (fun) in the くない form and say:",
+    "I hope that's not how you're actually feeling, though!",
+    "When あまり〜ない is used with a verb in the negative form, it indicates that the frequency or quantity associated with that verb is low. Thus, depending on the context, あまり+Verb+ない could imply either \"not very often\" or \"not very much,\" or sometimes both.",
+    "Depending on the type (or group) of verb , how you conjugate it in the ない form will vary.",
+    "To add 〜ない to a godan verb, you'll need to change the final character to the correct あ-line character from the hiragana chart. For example, 飲（の）む (to drink) is a godan verb that ends in 〜む. So to conjugate it into the ない form, you would remove the final 〜む and replace it with 〜ま, then add 〜ない, giving you 飲（の）まない, like this:",
+    "So, to say your dog doesn't drink water very often, you can use the あまり〜ない pattern like this:",
+    "To add 〜ない to an ichidan verb, simply remove the 〜る at the end and add 〜ない. Take the ichidan verb 食（た）べる (to eat), for example. In the ない form it becomes:",
+    "So, if your dog doesn't eat very much kibble, you can say:",
+    "Apart from godan and ichidan verbs, you also need to watch out for the three irregular verbs 来（く）る (to come), する (to do), and ある (to exist). Here's how they conjugate in ない form:",
+    "来（く）る + ない = 来（こ） ない する + ない = し ない ある → ない",
+    "If your dog doesn't come very often when you call her, you can say:",
+    "Maybe it's because you don't often take her outside for a walk. In that case, you can say:",
+    "Though, I hope if you're not walking the dog that another family member is!",
+    "If you aren't familiar with the verb ない form and want to learn more, you can check out its dedicated page .",
+    "Now you've learned how to use あまり〜ない with various types of words. One thing you haven't learned is how to use the phrase politely.",
+    "There are two ways to make あまり〜ない polite. One way is to add です at the end, as in あまり〜ないです, and the other is to use ありません instead of ない.",
+    "Between the two, 〜ないです is more common in conversation, so while it's a typical response to a yes-no question, it's pretty direct used as-is.",
+    "Let's say someone asks if you drink coffee, and your answer is \"not often/much.\" In this case, you could respond with:",
+    "But if you are voluntarily telling someone that you don't drink coffee, it sounds a bit off to say:",
+    "In this case, it's more natural to add ん between ない and です, like:",
+    "Here, ん serves as a communication tool that gives the statement an explanation-like vibe. It shows that you're bridging the communication gap between you and the other person. So when bringing up new information in conversation, ん is essential to making your statement feel more natural. If you want to learn more about how this works, check out its dedicated page .",
+    "Compared to 〜ない(ん)です, 〜ありません is more formal and may be reserved for polite explanation. This pattern is also a bit trickier grammatically, so that's something to watch out for with this expression.",
+    "With あまり + noun, な-adjective, and い-adjective ～くない, you can simply replace ない with ありません:",
+    "However, with verbs, you can't just swap ない with ありません. Instead, you need to change them into the ます form , a.k.a. stem form, and then add ません.",
+    "For example, to add 〜ません to the verb 飲（の）む, you need to conjugate it into the ます form, which is 飲（の）み, and then add 〜ません. Like this:",
+    "In the same way, to add 〜ません to the verb 食（た）べる, you need to conjugate it into the ます form, which is 食（た）べ, and then add 〜ません. Like this:",
+    "If you're not sure how to conjugate verbs into the ます form, or if you could use a refresher, check out its dedicated page !",
+    "You can use あまり〜ない with other verb forms, too. Let's take a look at a couple examples to see how it works.",
+    "You can use the 〜ている form of verb with あまり〜ない. For instance, if you have a flu and haven't had much of an appetite, you can say:",
+    "Here, 〜ている, or its shorter casual version 〜てる, indicates that you're talking about a certain period of time related to the activity of eating, and あまり〜て(い)ない shows the activity hasn't been performed very often during that period (here, it probably indicates the onset of the flu to up until the time of the conversation).",
+    "Just like the other あまり+Verb+ない examples, it can also indicate that the frequency of an action has been low. For example, say someone asks you if you've at least been drinking enough water. If you think you haven't, you can say:",
+    "Again, in this case, 〜ている indicates that you're talking about a certain period of time associated with the activity of drinking water, and あまり〜て(い)ない shows the activity hasn't been performed often up until the point of conversation.",
+    "Whether あまり〜て(い)ない indicates the quality or frequency of the action totally depends on the speaker's intention, and often it can mean both. For example, if you haven't been drinking frequently enough, then it probably means you haven't had much to drink, either.",
+    "You can also use the potential form of a verb with 〜られる ending with あまり〜ない. Let's continue the flu example. If you're too sick to eat much, you can say:",
+    "Again, depending on the context, the same statement can imply low frequency. For example, say your friend brings you some rare fruits as an omimai (get-well-soon) gift. Surprisingly, you have enough of an appetite to eat everything. So you do, and you tell your friend that you could eat it all because you don't have the opportunity to eat rare fruit \"very often.\"",
+    "It's usually easy to guess the implied meaning of あまり〜ない, though! Just keep in mind that it has the potential to imply two different things."
+  ],
+  "examples": [
+    {
+      "japanese": "コンビニがない。",
+      "english": "There is no convenience store."
+    },
+    {
+      "japanese": "あまりコンビニがない。",
+      "english": "There aren't many convenience stores."
+    },
+    {
+      "japanese": "あんまりコンビニがない。",
+      "english": "There aren't many convenience stores."
+    },
+    {
+      "japanese": "えっ、あんまりないの？じゃあ、買（か）い物（もの）どうしてるの？",
+      "english": "Wow, not many convenience stores? So what do you do for your shopping?"
+    },
+    {
+      "japanese": "買（か）い物（もの）に行（い）かない。全部（ぜんぶ）オンラインで買（か）うから。",
+      "english": "I don't go shopping. Cuz I buy everything online."
+    },
+    {
+      "japanese": "あまり買（か）い物（もの）に行（い）かない。ほとんどオンラインで買（か）うから。",
+      "english": "I don't go shopping very often. Cuz I buy most things online."
+    },
+    {
+      "japanese": "あまりお金（かね）がない。",
+      "english": "I don't have much money."
+    },
+    {
+      "japanese": "あまりお金（かね）がなかった。",
+      "english": "I didn't have much money."
+    },
+    {
+      "japanese": "あまり静（しず）か[じゃ・では]ない。",
+      "english": "It's not very quiet."
+    },
+    {
+      "japanese": "あまり好（す）き[じゃ・では]ない。",
+      "english": "I don't like it very much."
+    },
+    {
+      "japanese": "あまり難（むずか）しくない。",
+      "english": "It's not very difficult."
+    },
+    {
+      "japanese": "あまり楽（たの）しくない。",
+      "english": "It's not very fun."
+    },
+    {
+      "japanese": "あまり水（みず）を飲（の）まない。",
+      "english": "She doesn't drink water very often."
+    },
+    {
+      "japanese": "あまりドッグフードを食（た）べない。",
+      "english": "She doesn't eat very much kibble."
+    },
+    {
+      "japanese": "あまり私（わたし）のところに来（こ）ない。",
+      "english": "She doesn't come to me very often."
+    },
+    {
+      "japanese": "あまり散歩（さんぽ）をしないからだ。",
+      "english": "It's because I don't walk her very often."
+    },
+    {
+      "japanese": "あまり飲（の）まないです。",
+      "english": "I don't drink it very [often/much]."
+    },
+    {
+      "japanese": "私（わたし）、あまりコーヒー飲（の）まないです。",
+      "english": "I don't drink coffee very [often/much]."
+    },
+    {
+      "japanese": "私（わたし）、あまりコーヒー飲（の）まないんです。",
+      "english": "I don't drink coffee very [often/much]."
+    },
+    {
+      "japanese": "あまりお金（かね）がない。→あまりお金（かね）がありません。",
+      "english": "I don't have much money."
+    },
+    {
+      "japanese": "あまり静（しず）か[じゃ・では]ない。→あまり静（しず）か[じゃ・では]ありません。",
+      "english": "It's not very quiet."
+    },
+    {
+      "japanese": "あまり難（むずか）しくない。→あまり難（むずか）しくありません。",
+      "english": "It's not very difficult."
+    },
+    {
+      "japanese": "あまり飲（の）みません。",
+      "english": "I don't drink it very [often/much]."
+    },
+    {
+      "japanese": "あまり食（た）べません。",
+      "english": "I don't eat it very [often/much]."
+    },
+    {
+      "japanese": "あまり食（た）べて(い)ない。",
+      "english": "I haven't been eating very much."
+    },
+    {
+      "japanese": "あまり飲（の）んで(い)ない。",
+      "english": "I haven't been drinking (water) often enough."
+    },
+    {
+      "japanese": "あまり食（た）べられない。",
+      "english": "I can't eat very much."
+    },
+    {
+      "japanese": "こんな美味（おい）しい果物（くだもの）、あまり食（た）べられないから、つい 勢（いきお）いづいちゃった。",
+      "english": "I don't get to eat this kind of delicious fruit very often, so I got a little carried away."
+    },
+    {
+      "japanese": "あまり + 難（むずか）しい + くない → あまり難（むずか）しくない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "飲（の）む + ま + ない = 飲（の）まない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "食（た）べる + ない = 食（た）べない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "来（く）る + ない = 来（こ）ない する + ない = しない ある → ない",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "noun--",
+      "text": "あまり + Noun + がない"
+    },
+    {
+      "level": 4,
+      "id": "adjective--",
+      "text": "あまり + な-Adjective + じゃない・ではない"
+    },
+    {
+      "level": 4,
+      "id": "adjective",
+      "text": "あまり + い-Adjectiveくない"
+    },
+    {
+      "level": 4,
+      "id": "verb",
+      "text": "あまり + Verbない"
+    },
+    {
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "level": 4,
+      "id": "conversational-",
+      "text": "Conversational あまり～ないんです"
+    },
+    {
+      "level": 4,
+      "id": "formal-",
+      "text": "Formal あまり～ありません"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "with-other-verb-forms",
+      "text": "あまり〜ない with Other Verb Forms"
+    },
+    {
+      "level": 4,
+      "id": "for-havent-done-it-very-muchoften",
+      "text": "あまり〜ていない for \"Haven't Done (It) Very Much/Often\""
+    },
+    {
+      "level": 4,
+      "id": "for-cant-do-very-muchoften",
+      "text": "あまり〜られない for \"Can't Do Very Much/Often\""
+    }
+  ],
+  "id": 82,
+  "slug": "amarinai",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/amarinai/",
+  "categories": [
+    "Phrase"
+  ]
+}

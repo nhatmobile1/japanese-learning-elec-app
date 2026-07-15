@@ -1,0 +1,562 @@
+{
+  "title": "Particle の (Nominalizer)",
+  "description": "の is a nominalizer. It turns non-nouns — things like verbs, adjectives, or clauses — into nouns.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle の has various roles in Japanese grammar, such as to modify nouns and to nominalize words (that is, turn non-nouns into nouns). On this page, we'll discuss the nominalizer function of particle の."
+    },
+    {
+      "type": "paragraph",
+      "text": "Nominalization may be a new word to you, but it's not actually a new concept! In English, verbs and clauses can act like a noun in a sentence, often taking forms like -ing. For example, when the verb \"run\" becomes \"running\" or \"to run,\" it can take the role of a noun in a sentence, as in \"I like running \" or \"I like to run .\" In Japanese, the same thing is accomplished with particle の:"
+    },
+    {
+      "type": "example",
+      "japanese": "走（はし）るのは楽（たの）しい。",
+      "english": "Running is fun."
+    },
+    {
+      "type": "paragraph",
+      "text": "See how の is stuck on to the end of the verb, 走（はし）る (run)? This nominalizes it, so now it can function in the sentence like a noun."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, particle の is a lot more versatile than -ing in English. の can nominalize other things than just verbs, and it can also stand in for lots of implied meanings depending on the context. Check it out:"
+    },
+    {
+      "type": "example",
+      "japanese": "走（はし）るのは明日（あした）だよ。",
+      "english": "(The time for) running is tomorrow."
+    },
+    {
+      "type": "example",
+      "japanese": "走（はし）るのはキャメロンだよ。",
+      "english": "(The person) running is Cameron."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though the only words we see are 走（はし）るの, which translates to \"running,\" the meaning can include implied information. The context of the first sentence allows us to infer that 走（はし）るの contains time information, as in \"the time for running.\" In fact, we could imagine that の is standing in for a noun, like 時間（じかん） (time). In the second example, we know that 走（はし）るの contains information about a person , as in \"the person running.\" We could replace の with 人（ひと） (person) here and it would make sense."
+    },
+    {
+      "type": "paragraph",
+      "text": "So to sum it up, we can think of particle の as a placeholder for another noun. We'll take a closer look at this idea throughout the page, so don't worry if you're still feeling a bit confused!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let's take a closer look at how nominalizer の changes words into nouns, and how it's used in sentences."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "relative-clause--",
+      "text": "Relative Clause + の"
+    },
+    {
+      "type": "paragraph",
+      "text": "The nominalizer の is a particle, but it's also important to know that it acts like a noun. In fact, it's almost like a placeholder for nouns like 事（こと） (non-physical thing) or 物（もの） (material thing). Depending on the context, it could also indicate a time, a place, or a reason."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, using 物（もの）, which is a word for a material thing, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "[お父（とう）さんが買（か）った]物（ぶつ）は、バナナです。",
+      "english": "The thing [dad bought] is a banana."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, the clause [お父（とう）さんが買（か）った] modifies 物（もの） (thing). In other words, the clause is adding detail to tell us what kind of \"thing\" this 物（もの） is. When a clause modifies a noun like this, it's called a relative clause . How is this related to nominalizer の? の works just like 物（もの） in the above example — instead of modifying a more specific word like 物（もの）, you modify the placeholder の with a relative clause."
+    },
+    {
+      "type": "example",
+      "japanese": "[お父（とう）さんが買（か）った]のは、バナナです。",
+      "english": "What [dad bought] is a banana."
+    },
+    {
+      "type": "paragraph",
+      "text": "This applies to the earlier example 走（はし）るの (running) as well. Yes, 走（はし）る is a verb, but it is a clause at the same time."
+    },
+    {
+      "type": "example",
+      "japanese": "[走（はし）る]のは楽（たの）しい。",
+      "english": "Running is fun."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, の is a placeholder for 事（こと）, which means \"non-physical things,\" including activities like running. So both 走（はし）る事（こと） and 走（はし）るの can indicate \"the act of running.\" Now, are you getting the gist?"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are a couple of things about relative clauses to bear in mind. You usually use the plain form, not the polite 〜ます form ."
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ お父（とう）さんが買（か）ったのは、バナナです。❌ お父（とう）さんが買（か）いましたのは、バナナです。",
+      "english": "What dad bought is a banana."
+    },
+    {
+      "type": "paragraph",
+      "text": "The second point is for when the clause ends with a な-adjective in the present positive form. You need to add な, just like when you modify nouns with な-adjectives:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ 大切（たいせつ）なのはやさしさだ。❌ 大切（たいせつ）のはやさしさだ。",
+      "english": "What's important is kindness."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "words--",
+      "text": "こそあど Words + の"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nominalizer の can be modified by some of the こそあど words, aka Japanese demonstratives. This is especially true for ones like こんな/そんな/あんな/どんな and こういう/そういう/ああいう/どういう, which mean \"like this/that/etc.\""
+    },
+    {
+      "type": "example",
+      "japanese": "こんなの要（い）らないよ。",
+      "english": "I don't need things like this."
+    },
+    {
+      "type": "example",
+      "japanese": "そういうのは、前（まえ）もって教（おし）えてください。",
+      "english": "Please let me know things like that in advance."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "at-the-end-of-sentences",
+      "text": "の At The End of Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "When nominalizer の comes at the end of a sentence, it can add an explanatory feel. If the sentence is a question, it can be used to request an explanation. の, in fact, is believed to be part of 〜のです, these days more commonly 〜んです , which adds an explanatory tone to sentences."
+    },
+    {
+      "type": "paragraph",
+      "text": "This explanatory feel means の is often used in strong commands — explaining things you should do or shouldn't do."
+    },
+    {
+      "type": "example",
+      "japanese": "授業（じゅぎょう）中（ちゅう）は、おしゃべりしないの！",
+      "english": "Don't chat during class!"
+    },
+    {
+      "type": "paragraph",
+      "text": "It might be helpful to think of this as sort of like a bullet point — \"not chatting during classes\" — as if it's a part of a list of dos and don'ts."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, の is used to explain a process or instructions for something, as if it's listing to-dos step by step."
+    },
+    {
+      "type": "example",
+      "japanese": "まずは、洗（あら）うの。それで、きれいになったら、こうやって切（き）るの。",
+      "english": "First, clean it. Then, once it is clean, cut it like this."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unless it's paired with a formal component such as the politeness marker です , this use of の is usually reserved for informal situations. It's also often associated with feminine and childish speech. However, this age/gender nuance disappears when used in questions with rising intonation. Instead, it just communicates a sense of curiosity."
+    },
+    {
+      "type": "example",
+      "japanese": "まずは、洗（あら）うの？",
+      "english": "Do you clean first?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "uses-of-nominalizer-",
+      "text": "Uses of Nominalizer の"
+    },
+    {
+      "type": "paragraph",
+      "text": "Meanings of nominalizer の change depending on the context because it acts like a placeholder for various words: 事（こと） (non-physical thing), 物（もの） (material thing) as well as \"time,\" \"place\" and \"reason.\" Now let's take a look at common examples of what の could mean."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "non-physical-things",
+      "text": "Non-Physical Things"
+    },
+    {
+      "type": "paragraph",
+      "text": "の often gets used for things that have no physical presence, such as an event, idea, fact, or thought. This is similar to the meanings of the Japanese noun 事（こと）, which is actually considered a nominalizer as well. In fact, の and 事（こと） are often interchangeable."
+    },
+    {
+      "type": "example",
+      "japanese": "一（いち）人（にん）でトイレに行（い）ったのが、よく思（おも）い出（だ）せない。一（いち）人（にん）でトイレに行（い）った事（こと）が、よく思（おも）い出（だ）せない。",
+      "english": "I can't really remember having gone to the bathroom by myself."
+    },
+    {
+      "type": "example",
+      "japanese": "バク転（うたて）できないのが、悔（くや）しい。バク転（うたて）できない事（こと）が、悔（くや）しい。",
+      "english": "I'm frustrated about not being able to backflip."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "material-things",
+      "text": "Material Things"
+    },
+    {
+      "type": "paragraph",
+      "text": "の is also used to turn clauses into nouns to describe \"material things\" that have a physical presence. This includes \"living things\" such as people or animals."
+    },
+    {
+      "type": "example",
+      "japanese": "甘（あま）いのが食（た）べたい。",
+      "english": "I want to eat sweet things."
+    },
+    {
+      "type": "example",
+      "japanese": "昔（むかし）飼（か）っていたのは、犬（いぬ）です。",
+      "english": "What I used to have as a pet was a dog."
+    },
+    {
+      "type": "example",
+      "japanese": "そこにいるのは、誰（だれ）ですか？",
+      "english": "Who's there?(Literally: Who is it that is there?)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "time-and-place",
+      "text": "Time and Place"
+    },
+    {
+      "type": "paragraph",
+      "text": "の is used to turn clauses into nouns to describe \"when\" and \"where\" something happens, and it often appears in sentences with other elements that indicate a certain time or place."
+    },
+    {
+      "type": "example",
+      "japanese": "スーツケースが届（とど）くのは明日（あした）です。",
+      "english": "It's tomorrow that the suitcase will be delivered."
+    },
+    {
+      "type": "example",
+      "japanese": "この町（まち）が美（うつく）しかったのは、五（ご）十（じゅう）年（ねん）前（まえ）です。",
+      "english": "When this city was beautiful is fifty years ago."
+    },
+    {
+      "type": "example",
+      "japanese": "次（つぎ）のオリンピックが開催（かいさい）されるのは東京（とうきょう）です。",
+      "english": "It's Tokyo where the next Olympics will be held."
+    },
+    {
+      "type": "example",
+      "japanese": "生（う）まれたのはニューヨークです。",
+      "english": "Where I was born is New York."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "reason",
+      "text": "Reason"
+    },
+    {
+      "type": "paragraph",
+      "text": "の can be used as a placeholder for a \"reason,\" especially when the purpose of the sentence is to explain or to ask for a reason."
+    },
+    {
+      "type": "example",
+      "japanese": "アメリカに住（す）みたいのは、英語（えいご）の勉強（べんきょう）がしたいからです。",
+      "english": "Why I want to live in the U.S. is because I want to study English."
+    },
+    {
+      "type": "example",
+      "japanese": "そう思（おも）ったのは、なぜですか。",
+      "english": "Why did you think so?(Literally: What's the reason for thinking so?)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "nominalizer--for-listing",
+      "text": "Nominalizer の For Listing"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nominalizer の can be used to list a couple of things that contrast with each other, or for things that are similar to each other."
+    },
+    {
+      "type": "example",
+      "japanese": "レストランに行（い）くの行（い）かないのでもめた。",
+      "english": "We argued about whether to go to a restaurant or not."
+    },
+    {
+      "type": "paragraph",
+      "text": "For nouns and な-adjectives , you'd need to add だ and say 〜だの〜だの."
+    },
+    {
+      "type": "example",
+      "japanese": "テスト勉強（べんきょう）だの部活（ぶかつ）だので忙（いそが）しいよ。",
+      "english": "I'm busy with things like studying for exams and club activities at school."
+    },
+    {
+      "type": "paragraph",
+      "text": "This use of の often carries a negative connotation, and may sound like you're complaining. However, there is a special, idiomatic pattern used to enthusiastically say that something is extraordinary. This is achieved when you take the same adjective and repeat it twice, once in the positive and once in the negative , followed of course by our nominalizer の. For example, with the い-adjective 美味（おい）しい (delicious), you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ポートランドのビール、そりゃ美味（おい）しいの、美味（おい）しくないのって！",
+      "english": "Beer in Portland is beyond delicious!(Literally: Beer in Portland is not even a matter of delicious or not delicious.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is often interchangeable with another idiomatic expression, 〜のなんのって, as in 美味（おい）しいのなんのって."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Particle の has various roles in Japanese grammar, such as to modify nouns and to nominalize words (that is, turn non-nouns into nouns). On this page, we'll discuss the nominalizer function of particle の.",
+    "Nominalization may be a new word to you, but it's not actually a new concept! In English, verbs and clauses can act like a noun in a sentence, often taking forms like -ing. For example, when the verb \"run\" becomes \"running\" or \"to run,\" it can take the role of a noun in a sentence, as in \"I like running \" or \"I like to run .\" In Japanese, the same thing is accomplished with particle の:",
+    "See how の is stuck on to the end of the verb, 走（はし）る (run)? This nominalizes it, so now it can function in the sentence like a noun.",
+    "However, particle の is a lot more versatile than -ing in English. の can nominalize other things than just verbs, and it can also stand in for lots of implied meanings depending on the context. Check it out:",
+    "Even though the only words we see are 走（はし）るの, which translates to \"running,\" the meaning can include implied information. The context of the first sentence allows us to infer that 走（はし）るの contains time information, as in \"the time for running.\" In fact, we could imagine that の is standing in for a noun, like 時間（じかん） (time). In the second example, we know that 走（はし）るの contains information about a person , as in \"the person running.\" We could replace の with 人（ひと） (person) here and it would make sense.",
+    "So to sum it up, we can think of particle の as a placeholder for another noun. We'll take a closer look at this idea throughout the page, so don't worry if you're still feeling a bit confused!",
+    "Now let's take a closer look at how nominalizer の changes words into nouns, and how it's used in sentences.",
+    "The nominalizer の is a particle, but it's also important to know that it acts like a noun. In fact, it's almost like a placeholder for nouns like 事（こと） (non-physical thing) or 物（もの） (material thing). Depending on the context, it could also indicate a time, a place, or a reason.",
+    "For example, using 物（もの）, which is a word for a material thing, you can say:",
+    "In this example, the clause [お父（とう）さんが買（か）った] modifies 物（もの） (thing). In other words, the clause is adding detail to tell us what kind of \"thing\" this 物（もの） is. When a clause modifies a noun like this, it's called a relative clause . How is this related to nominalizer の? の works just like 物（もの） in the above example — instead of modifying a more specific word like 物（もの）, you modify the placeholder の with a relative clause.",
+    "This applies to the earlier example 走（はし）るの (running) as well. Yes, 走（はし）る is a verb, but it is a clause at the same time.",
+    "In this case, の is a placeholder for 事（こと）, which means \"non-physical things,\" including activities like running. So both 走（はし）る事（こと） and 走（はし）るの can indicate \"the act of running.\" Now, are you getting the gist?",
+    "There are a couple of things about relative clauses to bear in mind. You usually use the plain form, not the polite 〜ます form .",
+    "The second point is for when the clause ends with a な-adjective in the present positive form. You need to add な, just like when you modify nouns with な-adjectives:",
+    "Nominalizer の can be modified by some of the こそあど words, aka Japanese demonstratives. This is especially true for ones like こんな/そんな/あんな/どんな and こういう/そういう/ああいう/どういう, which mean \"like this/that/etc.\"",
+    "When nominalizer の comes at the end of a sentence, it can add an explanatory feel. If the sentence is a question, it can be used to request an explanation. の, in fact, is believed to be part of 〜のです, these days more commonly 〜んです , which adds an explanatory tone to sentences.",
+    "This explanatory feel means の is often used in strong commands — explaining things you should do or shouldn't do.",
+    "It might be helpful to think of this as sort of like a bullet point — \"not chatting during classes\" — as if it's a part of a list of dos and don'ts.",
+    "Similarly, の is used to explain a process or instructions for something, as if it's listing to-dos step by step.",
+    "Unless it's paired with a formal component such as the politeness marker です , this use of の is usually reserved for informal situations. It's also often associated with feminine and childish speech. However, this age/gender nuance disappears when used in questions with rising intonation. Instead, it just communicates a sense of curiosity.",
+    "Meanings of nominalizer の change depending on the context because it acts like a placeholder for various words: 事（こと） (non-physical thing), 物（もの） (material thing) as well as \"time,\" \"place\" and \"reason.\" Now let's take a look at common examples of what の could mean.",
+    "の often gets used for things that have no physical presence, such as an event, idea, fact, or thought. This is similar to the meanings of the Japanese noun 事（こと）, which is actually considered a nominalizer as well. In fact, の and 事（こと） are often interchangeable.",
+    "の is also used to turn clauses into nouns to describe \"material things\" that have a physical presence. This includes \"living things\" such as people or animals.",
+    "の is used to turn clauses into nouns to describe \"when\" and \"where\" something happens, and it often appears in sentences with other elements that indicate a certain time or place.",
+    "の can be used as a placeholder for a \"reason,\" especially when the purpose of the sentence is to explain or to ask for a reason.",
+    "Nominalizer の can be used to list a couple of things that contrast with each other, or for things that are similar to each other.",
+    "For nouns and な-adjectives , you'd need to add だ and say 〜だの〜だの.",
+    "This use of の often carries a negative connotation, and may sound like you're complaining. However, there is a special, idiomatic pattern used to enthusiastically say that something is extraordinary. This is achieved when you take the same adjective and repeat it twice, once in the positive and once in the negative , followed of course by our nominalizer の. For example, with the い-adjective 美味（おい）しい (delicious), you can say:",
+    "This is often interchangeable with another idiomatic expression, 〜のなんのって, as in 美味（おい）しいのなんのって."
+  ],
+  "examples": [
+    {
+      "japanese": "走（はし）るのは楽（たの）しい。",
+      "english": "Running is fun."
+    },
+    {
+      "japanese": "走（はし）るのは明日（あした）だよ。",
+      "english": "(The time for) running is tomorrow."
+    },
+    {
+      "japanese": "走（はし）るのはキャメロンだよ。",
+      "english": "(The person) running is Cameron."
+    },
+    {
+      "japanese": "[お父（とう）さんが買（か）った]物（ぶつ）は、バナナです。",
+      "english": "The thing [dad bought] is a banana."
+    },
+    {
+      "japanese": "[お父（とう）さんが買（か）った]のは、バナナです。",
+      "english": "What [dad bought] is a banana."
+    },
+    {
+      "japanese": "[走（はし）る]のは楽（たの）しい。",
+      "english": "Running is fun."
+    },
+    {
+      "japanese": "⭕️ お父（とう）さんが買（か）ったのは、バナナです。❌ お父（とう）さんが買（か）いましたのは、バナナです。",
+      "english": "What dad bought is a banana."
+    },
+    {
+      "japanese": "⭕️ 大切（たいせつ）なのはやさしさだ。❌ 大切（たいせつ）のはやさしさだ。",
+      "english": "What's important is kindness."
+    },
+    {
+      "japanese": "こんなの要（い）らないよ。",
+      "english": "I don't need things like this."
+    },
+    {
+      "japanese": "そういうのは、前（まえ）もって教（おし）えてください。",
+      "english": "Please let me know things like that in advance."
+    },
+    {
+      "japanese": "授業（じゅぎょう）中（ちゅう）は、おしゃべりしないの！",
+      "english": "Don't chat during class!"
+    },
+    {
+      "japanese": "まずは、洗（あら）うの。それで、きれいになったら、こうやって切（き）るの。",
+      "english": "First, clean it. Then, once it is clean, cut it like this."
+    },
+    {
+      "japanese": "まずは、洗（あら）うの？",
+      "english": "Do you clean first?"
+    },
+    {
+      "japanese": "一（いち）人（にん）でトイレに行（い）ったのが、よく思（おも）い出（だ）せない。一（いち）人（にん）でトイレに行（い）った事（こと）が、よく思（おも）い出（だ）せない。",
+      "english": "I can't really remember having gone to the bathroom by myself."
+    },
+    {
+      "japanese": "バク転（うたて）できないのが、悔（くや）しい。バク転（うたて）できない事（こと）が、悔（くや）しい。",
+      "english": "I'm frustrated about not being able to backflip."
+    },
+    {
+      "japanese": "甘（あま）いのが食（た）べたい。",
+      "english": "I want to eat sweet things."
+    },
+    {
+      "japanese": "昔（むかし）飼（か）っていたのは、犬（いぬ）です。",
+      "english": "What I used to have as a pet was a dog."
+    },
+    {
+      "japanese": "そこにいるのは、誰（だれ）ですか？",
+      "english": "Who's there?(Literally: Who is it that is there?)"
+    },
+    {
+      "japanese": "スーツケースが届（とど）くのは明日（あした）です。",
+      "english": "It's tomorrow that the suitcase will be delivered."
+    },
+    {
+      "japanese": "この町（まち）が美（うつく）しかったのは、五（ご）十（じゅう）年（ねん）前（まえ）です。",
+      "english": "When this city was beautiful is fifty years ago."
+    },
+    {
+      "japanese": "次（つぎ）のオリンピックが開催（かいさい）されるのは東京（とうきょう）です。",
+      "english": "It's Tokyo where the next Olympics will be held."
+    },
+    {
+      "japanese": "生（う）まれたのはニューヨークです。",
+      "english": "Where I was born is New York."
+    },
+    {
+      "japanese": "アメリカに住（す）みたいのは、英語（えいご）の勉強（べんきょう）がしたいからです。",
+      "english": "Why I want to live in the U.S. is because I want to study English."
+    },
+    {
+      "japanese": "そう思（おも）ったのは、なぜですか。",
+      "english": "Why did you think so?(Literally: What's the reason for thinking so?)"
+    },
+    {
+      "japanese": "レストランに行（い）くの行（い）かないのでもめた。",
+      "english": "We argued about whether to go to a restaurant or not."
+    },
+    {
+      "japanese": "テスト勉強（べんきょう）だの部活（ぶかつ）だので忙（いそが）しいよ。",
+      "english": "I'm busy with things like studying for exams and club activities at school."
+    },
+    {
+      "japanese": "ポートランドのビール、そりゃ美味（おい）しいの、美味（おい）しくないのって！",
+      "english": "Beer in Portland is beyond delicious!(Literally: Beer in Portland is not even a matter of delicious or not delicious.)"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "relative-clause--",
+      "text": "Relative Clause + の"
+    },
+    {
+      "level": 4,
+      "id": "words--",
+      "text": "こそあど Words + の"
+    },
+    {
+      "level": 4,
+      "id": "at-the-end-of-sentences",
+      "text": "の At The End of Sentences"
+    },
+    {
+      "level": 3,
+      "id": "uses-of-nominalizer-",
+      "text": "Uses of Nominalizer の"
+    },
+    {
+      "level": 4,
+      "id": "non-physical-things",
+      "text": "Non-Physical Things"
+    },
+    {
+      "level": 4,
+      "id": "material-things",
+      "text": "Material Things"
+    },
+    {
+      "level": 4,
+      "id": "time-and-place",
+      "text": "Time and Place"
+    },
+    {
+      "level": 4,
+      "id": "reason",
+      "text": "Reason"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 4,
+      "id": "nominalizer--for-listing",
+      "text": "Nominalizer の For Listing"
+    }
+  ],
+  "id": 22,
+  "slug": "particle-no-nominalizer",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-no-nominalizer/",
+  "categories": [
+    "Particle"
+  ]
+}

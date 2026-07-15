@@ -1,0 +1,507 @@
+{
+  "title": "こんな・そんな・あんな・どんな",
+  "description": "こんな, そんな, あんな, and どんな are a set of こそあど言葉（ことば） (ko-so-a-do words). They all get placed before a noun to indicate what that noun is like.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "こんな, そんな, あんな, and どんな are a set of こそあど words. They go before nouns to indicate what that noun is like. In general, こんな is chosen to go before something close to the speaker, そんな for something close to the listener, or relatively far from both of them, and あんな with something close to neither the speaker nor listener. どんな is the question word that goes together with this set, and asks \"what kind of…?\" or \"what is … like?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "こんな, そんな, あんな, and どんな are casual expressions. In more formal settings, such as in an official speech or for formal writing, you'll use この 様（よう）な, その 様（よう）な, あの 様（よう）な, and どの 様（よう）な instead."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, all these words share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is how こそあど words work when referring to a physical object that you can see:"
+    },
+    {
+      "type": "formula",
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you'd like to read scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "こんな, そんな, あんな, and どんな go before nouns."
+    },
+    {
+      "type": "example",
+      "japanese": "こんな本（ほん）がほしかったんだ。",
+      "english": "I wanted this kind of book!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other words can go between こんな, そんな, あんな, and どんな and the noun to add more description. For example, you could insert the adjective おもしろい (interesting) between そんな and 本（ほん）."
+    },
+    {
+      "type": "example",
+      "japanese": "そんなおもしろい本（ほん）どこで買（か）ったの？",
+      "english": "Where did you buy an interesting book like that?"
+    },
+    {
+      "type": "paragraph",
+      "text": "こんな, そんな, あんな, and どんな can also go before the particle の , which is a stand-in for any noun."
+    },
+    {
+      "type": "example",
+      "japanese": "あんなのは見（み）たことがありません。",
+      "english": "I've never seen something like that over there."
+    },
+    {
+      "type": "paragraph",
+      "text": "These words can also go before the particle に ​​, which emphasizes the extent of the adjective or quantity. We'll talk more about this usage later."
+    },
+    {
+      "type": "example",
+      "japanese": "あんなにたくさん食（た）べて、大丈夫（だいじょうぶ）かな？",
+      "english": "I wonder if they are okay eating that much."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-describing-the-way-something-is",
+      "text": "こんな, そんな, あんな for Describing the Way Something Is"
+    },
+    {
+      "type": "paragraph",
+      "text": "こんな, そんな, and あんな are used before nouns to casually and subjectively describe the way the noun is. They are similar to \"like this,\" \"like that,\" \"this kind of,\" or \"that kind of\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "The noun that follows can be anything. It can be a concrete noun such as a person, an animal, or an object, but it can also be an abstract concept, such as an アイディア (idea) or 時（とき） (time)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you are talking about the manner of a concrete noun that's in sight, you can choose between こんな, そんな, and あんな. Which one you decide on is based on your perceived distance between you, the object, and often the person you are addressing."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's say you are reading a hairstyle magazine and find a really cool look, so you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）もこんな髪型（かみがた）にしてみたい。",
+      "english": "I'd like to try a hairstyle like this too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, you use こんな because you are holding the magazine. On the other hand, if you are meeting up with your friend and they show up with a new hairstyle that you also want to try, you would normally use そんな and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）もそんな髪型（かみがた）にしてみたい。",
+      "english": "I'd like to try out a hairstyle like that too."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, you are describing the hairstyle that is farther from you (the speaker) and closer to your friend (the listener). And if you happen to come across a random person who has a fashionable hairstyle, you may use あんな and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）もあんな髪型（かみがた）にしてみたい。",
+      "english": "I'd like to try a hairstyle like that out too."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, あんな shows that you're describing the hairstyle of a third person, who is far from both of you."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you are talking about something that's out of sight, you can choose between こんな, そんな, and あんな based on how you feel about the distance between you, the object, and often the person you are addressing."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine you meet an alien and the next day you tell your friend about it."
+    },
+    {
+      "type": "example",
+      "japanese": "昨日（きのう）宇宙（うちゅう）人（じん）に会（あ）ったんだよ。いやー、まさか[こんな・そんな・あんな]体験（たいけん）をする日（ひ）がくるとは…。",
+      "english": "I met an alien yesterday. I never thought I'd see the day when I'd have an experience like that."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, you first share what happened to you the day before, and then refer to the unusual experience using こんな, そんな, or あんな. As you can see, you can use any of these words to say something slightly different here."
+    },
+    {
+      "type": "paragraph",
+      "text": "When talking about your experience, こんな usually shows you are still emotionally involved in what you are referring to and describes the topic more vividly. Perhaps you are still excited about your meet-up with the alien…who wouldn't be?"
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, そんな indicates you are stepping back a little from the things you are talking about and looking at them from an objective point of view. For that reason, it's more commonly used for someone else's experiences, but if you use it for your own experience, it can show you are calm and dispassionate about what happened to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly, あんな is used when you are looking back at what happened. Even though it just happened yesterday, this adds the feel that you're looking at the experience from a distance. You're describing your recollection of your unusual encounter, rather than reliving the moment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-",
+      "text": "こんな, そんな, あんな, どんな with に"
+    },
+    {
+      "type": "paragraph",
+      "text": "By combining こんな, そんな, あんな, and どんな with the particle に, you can make another こそあど set, こんなに, そんなに, あんなに, and どんなに. 1 These are the equivalents of \"this much\" and \"that much,\" and are used to emphasize to what extent something is like or is done."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you just had the most delicious kimchi you've ever eaten, you can use こんなに with the adjective おいしい and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "こんなに美味（おい）しいキムチを食（た）べたのは初（はじ）めて。",
+      "english": "I've never eaten kimchi that's this delicious before."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a friend tells you how hard they worked on a project that didn't go well, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "そんなに頑張（がんば）ったのにダメだったんだね。",
+      "english": "You tried that hard but it didn't work out, huh?"
+    },
+    {
+      "type": "paragraph",
+      "text": "And your friend may respond to you, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "うん。あんなに頑張（がんば）ったんだけどな…",
+      "english": "Yeah, I worked so hard but…"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, あんなに shows your friend is looking back at all of her efforts and remembering how much work she put in. Using あんなに commonly conveys a certain sentimental feel."
+    },
+    {
+      "type": "paragraph",
+      "text": "どんなに can be used to ask the question \"how much?\" and it emphasizes the extent of an action. For example, if you are upset that your friend behaved recklessly and made you worry about them, you may tell them:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）がどんなに心配（しんぱい）してるか、分（わ）からないの？",
+      "english": "Don't you understand how worried I am about you?"
+    },
+    {
+      "type": "paragraph",
+      "text": "こんなに, そんなに, and あんなに can also be used when you want to express \"surprise\" at how much something costs. For example, let's say your friend gives you money for your wedding present. You open the envelope and find a check for $1,000,000. That is obviously too much, so you may shout out:"
+    },
+    {
+      "type": "example",
+      "japanese": "えっ、こんなに！？",
+      "english": "What, this much!?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-interjections",
+      "text": "そんな for Interjections"
+    },
+    {
+      "type": "paragraph",
+      "text": "そんな can be used alone as an interjection to express a combination of surprise and frustration. The translations vary depending on the context, but the common ones are: \"Oh no!\" \"No way!\" and \"Nooo!\""
+    },
+    {
+      "type": "paragraph",
+      "text": "When そんな is used alone, you can usually guess from context what would come next, even though it's left unsaid. For example, in the example below, it would probably be something like, そんなひどいことを言（い）わないでください (don't say harsh things like that), but そんな can indicate a similar nuance all by itself."
+    },
+    {
+      "type": "example",
+      "japanese": "これから毎日（まいにち）十（じゅう）時間（じかん）日本語（にほんご）を勉強（べんきょう）するんだ！",
+      "english": "You must study Japanese for ten hours every day from now on!"
+    },
+    {
+      "type": "example",
+      "japanese": "え、そんな！",
+      "english": "What!? No way!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with--1",
+      "text": "こんな, そんな, あんな, どんな with 風"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜 風（ふう） is another word for \"way\" or \"manner,\" and it's commonly used with names of people and locations, like ブラッド・ピット風（ふう） (Brad Pitt style) or イタリア風（ふう） (Italian style). As you can see, 〜風（かぜ） describes an approximate way or manner rather than a precise one."
+    },
+    {
+      "type": "paragraph",
+      "text": "By adding 〜風（かぜ） to こんな, そんな, あんな, and どんな, you can make another こそあど set, こんな風（かぜ）, そんな風（かぜ）, あんな風（かぜ）, and どんな風（かぜ）. You can use these to describe the way something is a little more indirectly."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you are at a hair salon and are telling the stylist which hairstyle you'd like to try out. By pointing to an example in your hairstyle magazine, you may either say:"
+    },
+    {
+      "type": "example",
+      "japanese": "こんな髪型（かみがた）にしてください。",
+      "english": "Please make my hair like this."
+    },
+    {
+      "type": "example",
+      "japanese": "こんな風（かぜ）な髪型（かみがた）にしてください。",
+      "english": "Please make my hair kind of like this."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, both are basically saying the same thing but 〜風（かぜ） can make your description slightly vaguer. You might say this if you're not totally sure you want the exact same hairstyle as the model, just something kind of similar."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other words like 〜風（かぜ） include 〜 感（かん）じ (feeling) and 〜 様（よう） (manner), and they are used in the same way. Here, 〜感（かん）じ is very casual and 〜様（さま） is very formal, while 〜風（かぜ） is neutral. 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "To make your hairstyle request even vaguer, you can also combine 〜風（かぜ） and 〜感（かん）じ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "こんな風（かぜ）な感（かん）じの髪型（かみがた）にしてください。",
+      "english": "Please make my hair kind of like this style."
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle に of こんなに, そんなに, and あんなに can be omitted in some dialects or in very casual conversation. &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜風（かぜ） and 〜様（さま） work as な-adjectives, while 〜感（かん）じ works as a noun. &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "こんな, そんな, あんな, and どんな are a set of こそあど words. They go before nouns to indicate what that noun is like. In general, こんな is chosen to go before something close to the speaker, そんな for something close to the listener, or relatively far from both of them, and あんな with something close to neither the speaker nor listener. どんな is the question word that goes together with this set, and asks \"what kind of…?\" or \"what is … like?\"",
+    "こんな, そんな, あんな, and どんな are casual expressions. In more formal settings, such as in an official speech or for formal writing, you'll use この 様（よう）な, その 様（よう）な, あの 様（よう）な, and どの 様（よう）な instead.",
+    "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど.",
+    "However, all these words share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play.",
+    "Here is how こそあど words work when referring to a physical object that you can see:",
+    "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question.",
+    "If you'd like to read scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !",
+    "こんな, そんな, あんな, and どんな go before nouns.",
+    "Other words can go between こんな, そんな, あんな, and どんな and the noun to add more description. For example, you could insert the adjective おもしろい (interesting) between そんな and 本（ほん）.",
+    "こんな, そんな, あんな, and どんな can also go before the particle の , which is a stand-in for any noun.",
+    "These words can also go before the particle に ​​, which emphasizes the extent of the adjective or quantity. We'll talk more about this usage later.",
+    "こんな, そんな, and あんな are used before nouns to casually and subjectively describe the way the noun is. They are similar to \"like this,\" \"like that,\" \"this kind of,\" or \"that kind of\" in English.",
+    "The noun that follows can be anything. It can be a concrete noun such as a person, an animal, or an object, but it can also be an abstract concept, such as an アイディア (idea) or 時（とき） (time).",
+    "When you are talking about the manner of a concrete noun that's in sight, you can choose between こんな, そんな, and あんな. Which one you decide on is based on your perceived distance between you, the object, and often the person you are addressing.",
+    "For example, let's say you are reading a hairstyle magazine and find a really cool look, so you say:",
+    "Here, you use こんな because you are holding the magazine. On the other hand, if you are meeting up with your friend and they show up with a new hairstyle that you also want to try, you would normally use そんな and say:",
+    "In this example, you are describing the hairstyle that is farther from you (the speaker) and closer to your friend (the listener). And if you happen to come across a random person who has a fashionable hairstyle, you may use あんな and say:",
+    "In this case, あんな shows that you're describing the hairstyle of a third person, who is far from both of you.",
+    "When you are talking about something that's out of sight, you can choose between こんな, そんな, and あんな based on how you feel about the distance between you, the object, and often the person you are addressing.",
+    "Imagine you meet an alien and the next day you tell your friend about it.",
+    "Here, you first share what happened to you the day before, and then refer to the unusual experience using こんな, そんな, or あんな. As you can see, you can use any of these words to say something slightly different here.",
+    "When talking about your experience, こんな usually shows you are still emotionally involved in what you are referring to and describes the topic more vividly. Perhaps you are still excited about your meet-up with the alien…who wouldn't be?",
+    "On the other hand, そんな indicates you are stepping back a little from the things you are talking about and looking at them from an objective point of view. For that reason, it's more commonly used for someone else's experiences, but if you use it for your own experience, it can show you are calm and dispassionate about what happened to you.",
+    "Lastly, あんな is used when you are looking back at what happened. Even though it just happened yesterday, this adds the feel that you're looking at the experience from a distance. You're describing your recollection of your unusual encounter, rather than reliving the moment.",
+    "By combining こんな, そんな, あんな, and どんな with the particle に, you can make another こそあど set, こんなに, そんなに, あんなに, and どんなに. 1 These are the equivalents of \"this much\" and \"that much,\" and are used to emphasize to what extent something is like or is done.",
+    "For example, if you just had the most delicious kimchi you've ever eaten, you can use こんなに with the adjective おいしい and say:",
+    "If a friend tells you how hard they worked on a project that didn't go well, you may say:",
+    "And your friend may respond to you, like:",
+    "In this example, あんなに shows your friend is looking back at all of her efforts and remembering how much work she put in. Using あんなに commonly conveys a certain sentimental feel.",
+    "どんなに can be used to ask the question \"how much?\" and it emphasizes the extent of an action. For example, if you are upset that your friend behaved recklessly and made you worry about them, you may tell them:",
+    "こんなに, そんなに, and あんなに can also be used when you want to express \"surprise\" at how much something costs. For example, let's say your friend gives you money for your wedding present. You open the envelope and find a check for $1,000,000. That is obviously too much, so you may shout out:",
+    "そんな can be used alone as an interjection to express a combination of surprise and frustration. The translations vary depending on the context, but the common ones are: \"Oh no!\" \"No way!\" and \"Nooo!\"",
+    "When そんな is used alone, you can usually guess from context what would come next, even though it's left unsaid. For example, in the example below, it would probably be something like, そんなひどいことを言（い）わないでください (don't say harsh things like that), but そんな can indicate a similar nuance all by itself.",
+    "〜 風（ふう） is another word for \"way\" or \"manner,\" and it's commonly used with names of people and locations, like ブラッド・ピット風（ふう） (Brad Pitt style) or イタリア風（ふう） (Italian style). As you can see, 〜風（かぜ） describes an approximate way or manner rather than a precise one.",
+    "By adding 〜風（かぜ） to こんな, そんな, あんな, and どんな, you can make another こそあど set, こんな風（かぜ）, そんな風（かぜ）, あんな風（かぜ）, and どんな風（かぜ）. You can use these to describe the way something is a little more indirectly.",
+    "For example, imagine you are at a hair salon and are telling the stylist which hairstyle you'd like to try out. By pointing to an example in your hairstyle magazine, you may either say:",
+    "As you can see, both are basically saying the same thing but 〜風（かぜ） can make your description slightly vaguer. You might say this if you're not totally sure you want the exact same hairstyle as the model, just something kind of similar.",
+    "Other words like 〜風（かぜ） include 〜 感（かん）じ (feeling) and 〜 様（よう） (manner), and they are used in the same way. Here, 〜感（かん）じ is very casual and 〜様（さま） is very formal, while 〜風（かぜ） is neutral. 2",
+    "To make your hairstyle request even vaguer, you can also combine 〜風（かぜ） and 〜感（かん）じ and say:",
+    "The particle に of こんなに, そんなに, and あんなに can be omitted in some dialects or in very casual conversation. &#8617;",
+    "〜風（かぜ） and 〜様（さま） work as な-adjectives, while 〜感（かん）じ works as a noun. &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "こんな本（ほん）がほしかったんだ。",
+      "english": "I wanted this kind of book!"
+    },
+    {
+      "japanese": "そんなおもしろい本（ほん）どこで買（か）ったの？",
+      "english": "Where did you buy an interesting book like that?"
+    },
+    {
+      "japanese": "あんなのは見（み）たことがありません。",
+      "english": "I've never seen something like that over there."
+    },
+    {
+      "japanese": "あんなにたくさん食（た）べて、大丈夫（だいじょうぶ）かな？",
+      "english": "I wonder if they are okay eating that much."
+    },
+    {
+      "japanese": "私（わたし）もこんな髪型（かみがた）にしてみたい。",
+      "english": "I'd like to try a hairstyle like this too."
+    },
+    {
+      "japanese": "私（わたし）もそんな髪型（かみがた）にしてみたい。",
+      "english": "I'd like to try out a hairstyle like that too."
+    },
+    {
+      "japanese": "私（わたし）もあんな髪型（かみがた）にしてみたい。",
+      "english": "I'd like to try a hairstyle like that out too."
+    },
+    {
+      "japanese": "昨日（きのう）宇宙（うちゅう）人（じん）に会（あ）ったんだよ。いやー、まさか[こんな・そんな・あんな]体験（たいけん）をする日（ひ）がくるとは…。",
+      "english": "I met an alien yesterday. I never thought I'd see the day when I'd have an experience like that."
+    },
+    {
+      "japanese": "こんなに美味（おい）しいキムチを食（た）べたのは初（はじ）めて。",
+      "english": "I've never eaten kimchi that's this delicious before."
+    },
+    {
+      "japanese": "そんなに頑張（がんば）ったのにダメだったんだね。",
+      "english": "You tried that hard but it didn't work out, huh?"
+    },
+    {
+      "japanese": "うん。あんなに頑張（がんば）ったんだけどな…",
+      "english": "Yeah, I worked so hard but…"
+    },
+    {
+      "japanese": "私（わたし）がどんなに心配（しんぱい）してるか、分（わ）からないの？",
+      "english": "Don't you understand how worried I am about you?"
+    },
+    {
+      "japanese": "えっ、こんなに！？",
+      "english": "What, this much!?"
+    },
+    {
+      "japanese": "これから毎日（まいにち）十（じゅう）時間（じかん）日本語（にほんご）を勉強（べんきょう）するんだ！",
+      "english": "You must study Japanese for ten hours every day from now on!"
+    },
+    {
+      "japanese": "え、そんな！",
+      "english": "What!? No way!"
+    },
+    {
+      "japanese": "こんな髪型（かみがた）にしてください。",
+      "english": "Please make my hair like this."
+    },
+    {
+      "japanese": "こんな風（かぜ）な髪型（かみがた）にしてください。",
+      "english": "Please make my hair kind of like this."
+    },
+    {
+      "japanese": "こんな風（かぜ）な感（かん）じの髪型（かみがた）にしてください。",
+      "english": "Please make my hair kind of like this style."
+    },
+    {
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "for-describing-the-way-something-is",
+      "text": "こんな, そんな, あんな for Describing the Way Something Is"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "with-",
+      "text": "こんな, そんな, あんな, どんな with に"
+    },
+    {
+      "level": 3,
+      "id": "for-interjections",
+      "text": "そんな for Interjections"
+    },
+    {
+      "level": 3,
+      "id": "with--1",
+      "text": "こんな, そんな, あんな, どんな with 風"
+    }
+  ],
+  "id": 106,
+  "slug": "konna-sonna-anna-donna",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/konna-sonna-anna-donna/",
+  "categories": [
+    "Demonstrative"
+  ]
+}

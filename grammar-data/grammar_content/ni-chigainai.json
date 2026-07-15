@@ -1,0 +1,110 @@
+{
+  "title": "〜に違いない",
+  "description": "〜に違（ちが）いない means \"must be\" or \"no doubt\" — a strong, confident inference. You're not stating a proven fact, but you're sure enough about it that there's \"no mistaking\" the conclusion.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "違（ちが）いない literally means \"there is no mistake,\" so 〜に違（ちが）いない marks a conclusion you feel certain of based on evidence. It attaches to plain-form verbs and い-adjectives, to な-adjectives and nouns with no linking word: 犯人（はんにん）に違（ちが）いない = \"it must be the culprit.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb・い-adj （plain）／ な-adj ／ Noun　＋ に違（ちが）いない",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "電気（でんき）が消（き）えている。もう寝（ね）たに違（ちが）いない。",
+      "english": "The lights are off. He must have gone to bed."
+    },
+    {
+      "type": "example",
+      "japanese": "あの人（ひと）は犯人（はんにん）に違（ちが）いない。",
+      "english": "That person must be the culprit."
+    },
+    {
+      "type": "example",
+      "japanese": "こんなに並（なら）んでいるなら、おいしいに違（ちが）いない。",
+      "english": "With a line like this, it must be delicious."
+    },
+    {
+      "type": "example",
+      "japanese": "彼女（かのじょ）は疲（つか）れているに違（ちが）いない。",
+      "english": "She must be tired."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "versus-hazu",
+      "text": "Nuance: に違いない vs はずだ vs かもしれない"
+    },
+    {
+      "type": "paragraph",
+      "text": "These three sit on a scale of certainty. かもしれない = \"might be\" (open possibility); はずだ = \"should be\" (logical expectation); に違（ちが）いない = \"must be\" (strong personal conviction). に違（ちが）いない is the most emphatic and is based on how sure the speaker feels, not just cold logic."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜に違（ちが）いない sounds somewhat formal and written or dramatic. In casual conversation, Japanese speakers more often say きっと〜だろう or 絶対（ぜったい）〜と思（おも）う to convey the same \"I'm sure\" feeling."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "Verb・い-adj （plain）／ な-adj ／ Noun　＋ に違（ちが）いない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "電気（でんき）が消（き）えている。もう寝（ね）たに違（ちが）いない。",
+      "english": "The lights are off. He must have gone to bed."
+    },
+    {
+      "japanese": "あの人（ひと）は犯人（はんにん）に違（ちが）いない。",
+      "english": "That person must be the culprit."
+    },
+    {
+      "japanese": "こんなに並（なら）んでいるなら、おいしいに違（ちが）いない。",
+      "english": "With a line like this, it must be delicious."
+    },
+    {
+      "japanese": "彼女（かのじょ）は疲（つか）れているに違（ちが）いない。",
+      "english": "She must be tired."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "versus-hazu",
+      "text": "Nuance: に違いない vs はずだ vs かもしれない"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1021,
+  "slug": "ni-chigainai",
+  "categories": [
+    "Phrase",
+    "Uncertainty"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

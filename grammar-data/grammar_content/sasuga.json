@@ -1,0 +1,699 @@
+{
+  "title": "さすが",
+  "description": "Used for both compliments and contradictions, さすが always adds the nuance that something is inevitable.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The word さすが — or 流石（さすが） in kanji — carries a feeling of inevitability. Although it's more widely recognized as a way to give compliments, it can also be used to highlight something that is contrary to expectations. さすが is a very nuanced, uniquely Japanese word, and there's no universal English translation that works in all situations. For this reason, you'll see it translated in various ways on this page."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-compliments",
+      "text": "さすが for Compliments"
+    },
+    {
+      "type": "paragraph",
+      "text": "When used as a compliment, さすが is pretty straightforward: we use it when something lives up to our expectations. In other words, we confirm that something is true to its reputation, which is often based on one of its attributes."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you're eating wagyu (Japanese beef) and you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "A5和牛（わぎゅう）は、さすがに美味（おい）しい。",
+      "english": "It's only natural that A5-grade wagyu is delicious."
+    },
+    {
+      "type": "paragraph",
+      "text": "A5 is the highest grade of wagyu, known for its quality and flavor. Your expectation is that A5-grade wagyu will taste good. In this example, the expectation and the outcome match — you knew it would be delicious, and it was delicious. さすが also carries the nuance that the speaker is impressed by the fulfillment of the expectation, while admitting that such a great outcome is inevitable and only natural considering a certain attribute — in this case, the high quality of wagyu. Therefore, さすが highlights the inevitability of wagyu's tastiness thanks to its high quality."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-contradictions",
+      "text": "さすが for Contradictions"
+    },
+    {
+      "type": "paragraph",
+      "text": "The use of さすが for highlighting contradictions is often overshadowed by its more widely-known complimentary use. However, it's important to know that さすが isn't only used for compliments, but also when something fails to match up to expectations for some reason. In this case, the reason is often linked to the situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, you're eating A5-grade wagyu, but this time you left the beef in the sun and it's rotten. You can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "A5和牛（わぎゅう）だけど、さすがに美味（おい）しくない。",
+      "english": "Despite being A5-grade wagyu, it's inevitable that it's not delicious."
+    },
+    {
+      "type": "paragraph",
+      "text": "The result \"not delicious\" goes against normal expectations. This unexpected result was inevitable only because the beef was spoiled. Using さすが to show a contradictory situation like this often emphasizes the uniqueness of the situation that has caused the outcome. At the same time, it supports the inevitability of the result, given the unusual circumstances. So, さすが in this example is highlighting the inevitability of wagyu's disappointing taste because of the condition of it being rotten."
+    },
+    {
+      "type": "paragraph",
+      "text": "…Still cloudy? Read our article さすが Is Not Always A Compliment — We dig this concept deeper with more example sentences!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let's take a look at different ways さすが can be used in a sentence. When it appears in certain positions in a sentence, it's used only for compliments. So in these cases, you can deduce the meaning from its position."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "exclaiming--as-a-compliment",
+      "text": "Exclaiming さすが！ as a Compliment"
+    },
+    {
+      "type": "paragraph",
+      "text": "さすが can be used to express spontaneous reactions like \"Of course!\" or \"No wonder!\" in a complimentary way. In this case, さすが often appears as a single word, followed by a period (。) or an exclamation mark."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, you're playing golf with your boss and he makes a hole-in-one. To express how impressed you are, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "さすが！",
+      "english": "No wonder!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps your boss has a reputation for being a skilled golfer, and the compliment is based on that: \"I'm not surprised you could make a hole-in-one. After all, you're such a great golfer!\" Or, if no such reputation exists, さすが makes it sound as if there is one, which would probably make the person feel pretty good."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-compliments-1",
+      "text": "(〜は)さすが for Compliments"
+    },
+    {
+      "type": "paragraph",
+      "text": "When さすが appears at the end of a sentence, it's an adjective that implies that the subject or topic of that sentence is impressive in a way that's in line with expectations. For example, when your boss, Mr. Suzuki, who is known as a talented golfer, makes an impressive shot, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "鈴木（すずき）部長（ぶちょう）のショットはさすがですね。",
+      "english": "Your shot's impressive, Mr. Suzuki."
+    },
+    {
+      "type": "paragraph",
+      "text": "さすが can also take a past tense marker such as だった or でした after it to express that something was impressive."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you're telling your coworkers about the round of golf you played on the previous day, you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "昨日（きのう）の鈴木（すずき）部長（ぶちょう）のショットは、さすがだったよ。",
+      "english": "Mr. Suzuki's shot was impressive yesterday."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since this さすが is only meant for compliments and to show admiration, it's good to keep in mind that it generally isn't used to say something is not impressive."
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 鈴木（すずき）部長（ぶちょう）のショットはさすがじゃない。",
+      "english": "Mr. Suzuki's shot isn't impressive."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to say something isn't impressive, you'd use a different word. For example, the word すごい (great) would work:"
+    },
+    {
+      "type": "example",
+      "japanese": "鈴木（すずき）部長（ぶちょう）のショットはそんなにすごくない。",
+      "english": "Mr. Suzuki's shot isn't that great."
+    },
+    {
+      "type": "paragraph",
+      "text": "The さすがじゃない example comes off as unnatural because this is not meant to be a compliment (in fact, it's rather rude!). However, technically speaking, there are some situations where さすが could appear in negative sentences. For example, when it's used in a tag question to say \"Isn't it impressive?\":"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ さすがじゃない?",
+      "english": "Isn't it impressive?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is totally fine because the intention here is to give a compliment. Another possibility is when it's used as a modest response to a さすが compliment:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ いやいや、全然（ぜんぜん）、さすがじゃないですよ。",
+      "english": "No no, it's not impressive at all."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-compliments-2",
+      "text": "さすが(は) for Compliments"
+    },
+    {
+      "type": "paragraph",
+      "text": "さすが can also come at the beginning of a sentence, and can optionally take the topic-marking particle は. In this case, it's complimentary, and the word that follows is the attribute that the compliment is based on, such as a title, role, position, or experience."
+    },
+    {
+      "type": "example",
+      "japanese": "さすが(は)プロですね。",
+      "english": "I'd expect nothing less of a professional like you."
+    },
+    {
+      "type": "paragraph",
+      "text": "The attribute here is \"professional,\" which is fairly broad and gives us some room for imagination. This sentence can be used for pretty much any situation where you're impressed by the way someone lives up to your expectation of them as a professional. For example, when you eat delicious food cooked by a professional cook, or when you see a professional typist typing at lightning speed."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also give a compliment to an individual using さすが(は):"
+    },
+    {
+      "type": "example",
+      "japanese": "さすが(は)ケンイチ！",
+      "english": "You don't disappoint, Kenichi!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Though Kenichi himself is not an attribute, this sentence implies that he is known for a certain characteristic, and he did something that is true to this characteristic. Obvious examples include being good at cooking or being fluent in a foreign language, but it could also be more subtle things like being close to his mom and knowing her tastes well. So this compliment could be a response from his mom when he picked out a gift for her, meaning \"You know my tastes impressively well, Kenichi!\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-compliments-and-contradictions",
+      "text": "さすがの for Compliments and Contradictions"
+    },
+    {
+      "type": "paragraph",
+      "text": "When さすが appears with の at the end, it could be complementary or contradictory, depending on the context. Either way, note that there is a grammatical restriction for さすがの, in that only a noun can go immediately after it."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-compliments-3",
+      "text": "さすがの for Compliments"
+    },
+    {
+      "type": "paragraph",
+      "text": "When さすがの is used for compliments, the noun that follows is an ability, skill, quality, or something else that you want to praise."
+    },
+    {
+      "type": "example",
+      "japanese": "さすがの歌唱（かしょう）力（りょく）でした。",
+      "english": "That was quite a singing ability!"
+    },
+    {
+      "type": "paragraph",
+      "text": "さすがの can mark \"singing ability\" as in the example above, but it doesn't work with 歌手（かしゅ）, which means \"singer.\" If you want to compliment someone's singing, making reference to the fact that they're a professional singer, you'd use さすがは instead."
+    },
+    {
+      "type": "example",
+      "japanese": "❌ さすがの歌手（かしゅ）！⭕️ さすがは歌手（かしゅ）！",
+      "english": "I'd expect nothing less from a singer!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-contradictions-1",
+      "text": "さすがの for Contradictions"
+    },
+    {
+      "type": "paragraph",
+      "text": "When さすがの is used for contradictions, it appears immediately before something that fails to fulfill expectations due to a specific reason. Let's look at an example:"
+    },
+    {
+      "type": "example",
+      "japanese": "さすがのA5和牛（わぎゅう）も、腐（くさ）っていれば、おいしくない。",
+      "english": "It's inevitable that even A5-grade wagyu isn't delicious if it's spoiled."
+    },
+    {
+      "type": "paragraph",
+      "text": "As we already mentioned, we'd usually expect A5-grade wagyu to be delicious. However, in this case, it's unavoidable that it won't live up to the hype because the beef is spoiled (which would be such a waste)!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, notice that も is used to mark the subject. Particles like も, すら, and さえ (which all mean \"even\") emphasize the unexpectedness and are often paired with さすが when expressing a contradiction."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-compliments-and-contradictions-1",
+      "text": "さすがに for Compliments and Contradictions"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the adverbial particle に comes after さすが, it transforms it into an adverb meaning something like \"inevitably.\" さすがに can be used for both compliments and contradictions, and since it's an adverb, there are fewer grammatical restrictions on its location within a sentence compared to other forms of さすが."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-compliments-4",
+      "text": "さすがに for Compliments"
+    },
+    {
+      "type": "example",
+      "japanese": "姉（あね）はさすがに子供（こども）の扱（あつか）いが上手（じょうず）だ。",
+      "english": "It's only natural that my sister is great with children."
+    },
+    {
+      "type": "paragraph",
+      "text": "さすが in this example implies that there is something about your sister that leads us to expect that she'd be great with children. Maybe she's a nursery teacher, or she has experience of raising children. The implication is that it's only natural that she's great with children, but you're still impressed when you see just how great she is."
+    },
+    {
+      "type": "paragraph",
+      "text": "さすがに can also be paired up with (な)だけある to express an attribute or cause that brings an expected result."
+    },
+    {
+      "type": "example",
+      "japanese": "さすがに姉（あね）は保育（ほいく）士（し）なだけある。",
+      "english": "You can really tell that my sister's a nursery teacher."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-contradictions-2",
+      "text": "さすがに for Contradictions"
+    },
+    {
+      "type": "example",
+      "japanese": "さすがにA5和牛（わぎゅう）も、腐（くさ）っていれば、おいしくない。",
+      "english": "It's inevitable even A5-grade wagyu isn't delicious if it's spoiled."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since さすがに has fewer restrictions regarding how it's used within a sentence, it's a little harder to work out whether it's being used for a compliment or a contradiction. However, remember that も is a helpful clue that the outcome didn't match the expectation, and so that さすが is showing a contradiction."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section",
+      "text": "だけある"
+    },
+    {
+      "type": "paragraph",
+      "text": "Often paired with さすが for compliments, だけある marks nouns, adjectives, and clauses, showing that these are attributes or causes that naturally lead to the expected result. Let's take a look at some examples of what you might say if you're impressed by how fluent your friend is in Chinese."
+    },
+    {
+      "type": "example",
+      "japanese": "さすがは通訳（つうやく）なだけある。",
+      "english": "Wow, I can really tell that you're an interpreter."
+    },
+    {
+      "type": "example",
+      "japanese": "さすがに天才（てんさい）なだけある。",
+      "english": "It's only natural, considering how gifted you are."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you notice that な was added before だけある? For nouns and な-adjectives, you have to add な, giving you な だけある."
+    },
+    {
+      "type": "example",
+      "japanese": "さすがは中国（ちゅうごく）に住（す）んでいただけある。",
+      "english": "Wow, it really shows that you lived in China."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is also used to connect clauses to make longer sentences, in the form of だけあって or だけに."
+    },
+    {
+      "type": "example",
+      "japanese": "中国（ちゅうごく）に住（す）んでいただけあって、さすがに中国語（ちゅうごくご）がうまいね。中国（ちゅうごく）に住（す）んでいただけに、さすがに中国語（ちゅうごくご）がうまいね。",
+      "english": "It really shows that you lived in China, you're great at Chinese."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-sarcasm",
+      "text": "さすが for Sarcasm"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although it's not very common, it's worth bearing in mind that compliments made with さすが can sometimes be sarcastic."
+    },
+    {
+      "type": "example",
+      "japanese": "さすが、田舎（いなか）。Wi-Fiが全然（ぜんぜん）ない。",
+      "english": "Typical, we really are in the countryside. There's no Wi-Fi at all."
+    },
+    {
+      "type": "paragraph",
+      "text": "You might not expect the countryside to be very convenient, but this example expresses that the speaker is even impressed (that is, beyond disappointed) by the fact they really don't have Wi-Fi at all."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "differences-between--and-",
+      "text": "Differences between さすが and やはり"
+    },
+    {
+      "type": "paragraph",
+      "text": "As さすが is often translated as \"as expected,\" many learners may wonder what the difference is between さすが and やはり (and its casual form やっぱり), since やはり tends to be translated in the same way. A big difference is that やはり simply expresses the way things happened \"as expected\" and doesn’t necessarily express the nuance of \"inevitability\" that さすが has (which reading this page hopefully helped you get the gist of!)."
+    },
+    {
+      "type": "paragraph",
+      "text": "What's more, やはり doesn't have the nuance of valuing and admiring that さすが has when it's used for compliments."
+    },
+    {
+      "type": "paragraph",
+      "text": "From a grammatical point of view, やはり is purely an adverb, so it lacks the ability of さすが to modify nouns. For example, you can't put やはり before a noun to describe it. Let's say that you want to describe the noun 歌唱（かしょう）力（りょく） (singing ability):"
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ やはりの歌唱（かしょう）力（りょく） ⭕️ さすがの歌唱（かしょう）力（りょく）",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "さすがの歌唱（かしょう）力（りょく） can be translated as \"impressive singing ability,\" but やはりの歌唱（かしょう）力（りょく） doesn't make sense. Similarly, やはり can't modify a subject to express how やはり it is. Neither can it end a sentence, or take a tense or truth value marker such as だ or だった, while さすが can, as we explained earlier on this page :"
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ あの歌唱（かしょう）力（りょく）は、やはりだ ⭕️ あの歌唱（かしょう）力（りょく）は、さすがだ。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "❌ あの歌唱（かしょう）力（りょく）は、やはりだ ⭕️ あの歌唱（かしょう）力（りょく）は、さすがだ。"
+    },
+    {
+      "type": "paragraph",
+      "text": "The other nuance that やはり lacks is the implication that a particular factor has caused an inevitable result. As we've seen, さすが has this nuance when it's used for contradictions. Let's say that your friend started dating a guy a while ago, but you hear from a mutual friend that they broke up. You could respond in either of the two ways below:"
+    },
+    {
+      "type": "example",
+      "japanese": "やっぱり別（わか）れたんだ。",
+      "english": "They broke up, as I expected."
+    },
+    {
+      "type": "example",
+      "japanese": "さすがに別（わか）れたんだ。",
+      "english": "They broke up (and it was inevitable for a specific reason)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although we are missing a lot of context, the example using やっぱり simply indicates that the break-up happened as you expected. You somehow knew that they weren't going to last. Perhaps they just didn't seem compatible to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, さすが implies that there was something that inevitably caused the break-up. Maybe they seemed to be a great match, but there were specific challenges, like the transition to a long-distance relationship, or a scandalous affair, that led to the break-up. さすが expresses that it was inevitable for a reason."
+    },
+    {
+      "type": "paragraph",
+      "text": "The differences between やはり and さすが can be subtle and the two words definitely have some overlap, especially because さすが can be interpreted as \"as expected for a reason ,\" (such as the distance or an affair in our example). However, it's a good idea to learn about the subtle nuances that a uniquely Japanese word like さすが has, and observe the differences with other words to deepen your understanding!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Feel like you got the gist of the word さすが now? Here's some bonus material — a two-part podcast series about さすが to take it to the next level and get a complimentary さすが from your sensei . In this episode, we discuss more real-life examples, so make sure to give it a listen!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "The word さすが — or 流石（さすが） in kanji — carries a feeling of inevitability. Although it's more widely recognized as a way to give compliments, it can also be used to highlight something that is contrary to expectations. さすが is a very nuanced, uniquely Japanese word, and there's no universal English translation that works in all situations. For this reason, you'll see it translated in various ways on this page.",
+    "When used as a compliment, さすが is pretty straightforward: we use it when something lives up to our expectations. In other words, we confirm that something is true to its reputation, which is often based on one of its attributes.",
+    "For example, imagine you're eating wagyu (Japanese beef) and you say:",
+    "A5 is the highest grade of wagyu, known for its quality and flavor. Your expectation is that A5-grade wagyu will taste good. In this example, the expectation and the outcome match — you knew it would be delicious, and it was delicious. さすが also carries the nuance that the speaker is impressed by the fulfillment of the expectation, while admitting that such a great outcome is inevitable and only natural considering a certain attribute — in this case, the high quality of wagyu. Therefore, さすが highlights the inevitability of wagyu's tastiness thanks to its high quality.",
+    "The use of さすが for highlighting contradictions is often overshadowed by its more widely-known complimentary use. However, it's important to know that さすが isn't only used for compliments, but also when something fails to match up to expectations for some reason. In this case, the reason is often linked to the situation.",
+    "For example, you're eating A5-grade wagyu, but this time you left the beef in the sun and it's rotten. You can say:",
+    "The result \"not delicious\" goes against normal expectations. This unexpected result was inevitable only because the beef was spoiled. Using さすが to show a contradictory situation like this often emphasizes the uniqueness of the situation that has caused the outcome. At the same time, it supports the inevitability of the result, given the unusual circumstances. So, さすが in this example is highlighting the inevitability of wagyu's disappointing taste because of the condition of it being rotten.",
+    "…Still cloudy? Read our article さすが Is Not Always A Compliment — We dig this concept deeper with more example sentences!",
+    "Now let's take a look at different ways さすが can be used in a sentence. When it appears in certain positions in a sentence, it's used only for compliments. So in these cases, you can deduce the meaning from its position.",
+    "さすが can be used to express spontaneous reactions like \"Of course!\" or \"No wonder!\" in a complimentary way. In this case, さすが often appears as a single word, followed by a period (。) or an exclamation mark.",
+    "For example, you're playing golf with your boss and he makes a hole-in-one. To express how impressed you are, you can say:",
+    "Perhaps your boss has a reputation for being a skilled golfer, and the compliment is based on that: \"I'm not surprised you could make a hole-in-one. After all, you're such a great golfer!\" Or, if no such reputation exists, さすが makes it sound as if there is one, which would probably make the person feel pretty good.",
+    "When さすが appears at the end of a sentence, it's an adjective that implies that the subject or topic of that sentence is impressive in a way that's in line with expectations. For example, when your boss, Mr. Suzuki, who is known as a talented golfer, makes an impressive shot, you can say:",
+    "さすが can also take a past tense marker such as だった or でした after it to express that something was impressive.",
+    "For example, if you're telling your coworkers about the round of golf you played on the previous day, you might say:",
+    "Since this さすが is only meant for compliments and to show admiration, it's good to keep in mind that it generally isn't used to say something is not impressive.",
+    "If you want to say something isn't impressive, you'd use a different word. For example, the word すごい (great) would work:",
+    "The さすがじゃない example comes off as unnatural because this is not meant to be a compliment (in fact, it's rather rude!). However, technically speaking, there are some situations where さすが could appear in negative sentences. For example, when it's used in a tag question to say \"Isn't it impressive?\":",
+    "This is totally fine because the intention here is to give a compliment. Another possibility is when it's used as a modest response to a さすが compliment:",
+    "さすが can also come at the beginning of a sentence, and can optionally take the topic-marking particle は. In this case, it's complimentary, and the word that follows is the attribute that the compliment is based on, such as a title, role, position, or experience.",
+    "The attribute here is \"professional,\" which is fairly broad and gives us some room for imagination. This sentence can be used for pretty much any situation where you're impressed by the way someone lives up to your expectation of them as a professional. For example, when you eat delicious food cooked by a professional cook, or when you see a professional typist typing at lightning speed.",
+    "You can also give a compliment to an individual using さすが(は):",
+    "Though Kenichi himself is not an attribute, this sentence implies that he is known for a certain characteristic, and he did something that is true to this characteristic. Obvious examples include being good at cooking or being fluent in a foreign language, but it could also be more subtle things like being close to his mom and knowing her tastes well. So this compliment could be a response from his mom when he picked out a gift for her, meaning \"You know my tastes impressively well, Kenichi!\"",
+    "When さすが appears with の at the end, it could be complementary or contradictory, depending on the context. Either way, note that there is a grammatical restriction for さすがの, in that only a noun can go immediately after it.",
+    "When さすがの is used for compliments, the noun that follows is an ability, skill, quality, or something else that you want to praise.",
+    "さすがの can mark \"singing ability\" as in the example above, but it doesn't work with 歌手（かしゅ）, which means \"singer.\" If you want to compliment someone's singing, making reference to the fact that they're a professional singer, you'd use さすがは instead.",
+    "When さすがの is used for contradictions, it appears immediately before something that fails to fulfill expectations due to a specific reason. Let's look at an example:",
+    "As we already mentioned, we'd usually expect A5-grade wagyu to be delicious. However, in this case, it's unavoidable that it won't live up to the hype because the beef is spoiled (which would be such a waste)!",
+    "Also, notice that も is used to mark the subject. Particles like も, すら, and さえ (which all mean \"even\") emphasize the unexpectedness and are often paired with さすが when expressing a contradiction.",
+    "When the adverbial particle に comes after さすが, it transforms it into an adverb meaning something like \"inevitably.\" さすがに can be used for both compliments and contradictions, and since it's an adverb, there are fewer grammatical restrictions on its location within a sentence compared to other forms of さすが.",
+    "さすが in this example implies that there is something about your sister that leads us to expect that she'd be great with children. Maybe she's a nursery teacher, or she has experience of raising children. The implication is that it's only natural that she's great with children, but you're still impressed when you see just how great she is.",
+    "さすがに can also be paired up with (な)だけある to express an attribute or cause that brings an expected result.",
+    "Since さすがに has fewer restrictions regarding how it's used within a sentence, it's a little harder to work out whether it's being used for a compliment or a contradiction. However, remember that も is a helpful clue that the outcome didn't match the expectation, and so that さすが is showing a contradiction.",
+    "Often paired with さすが for compliments, だけある marks nouns, adjectives, and clauses, showing that these are attributes or causes that naturally lead to the expected result. Let's take a look at some examples of what you might say if you're impressed by how fluent your friend is in Chinese.",
+    "Did you notice that な was added before だけある? For nouns and な-adjectives, you have to add な, giving you な だけある.",
+    "This is also used to connect clauses to make longer sentences, in the form of だけあって or だけに.",
+    "Although it's not very common, it's worth bearing in mind that compliments made with さすが can sometimes be sarcastic.",
+    "You might not expect the countryside to be very convenient, but this example expresses that the speaker is even impressed (that is, beyond disappointed) by the fact they really don't have Wi-Fi at all.",
+    "As さすが is often translated as \"as expected,\" many learners may wonder what the difference is between さすが and やはり (and its casual form やっぱり), since やはり tends to be translated in the same way. A big difference is that やはり simply expresses the way things happened \"as expected\" and doesn’t necessarily express the nuance of \"inevitability\" that さすが has (which reading this page hopefully helped you get the gist of!).",
+    "What's more, やはり doesn't have the nuance of valuing and admiring that さすが has when it's used for compliments.",
+    "From a grammatical point of view, やはり is purely an adverb, so it lacks the ability of さすが to modify nouns. For example, you can't put やはり before a noun to describe it. Let's say that you want to describe the noun 歌唱（かしょう）力（りょく） (singing ability):",
+    "さすがの歌唱（かしょう）力（りょく） can be translated as \"impressive singing ability,\" but やはりの歌唱（かしょう）力（りょく） doesn't make sense. Similarly, やはり can't modify a subject to express how やはり it is. Neither can it end a sentence, or take a tense or truth value marker such as だ or だった, while さすが can, as we explained earlier on this page :",
+    "❌ あの歌唱（かしょう）力（りょく）は、やはりだ ⭕️ あの歌唱（かしょう）力（りょく）は、さすがだ。",
+    "The other nuance that やはり lacks is the implication that a particular factor has caused an inevitable result. As we've seen, さすが has this nuance when it's used for contradictions. Let's say that your friend started dating a guy a while ago, but you hear from a mutual friend that they broke up. You could respond in either of the two ways below:",
+    "Although we are missing a lot of context, the example using やっぱり simply indicates that the break-up happened as you expected. You somehow knew that they weren't going to last. Perhaps they just didn't seem compatible to you.",
+    "On the other hand, さすが implies that there was something that inevitably caused the break-up. Maybe they seemed to be a great match, but there were specific challenges, like the transition to a long-distance relationship, or a scandalous affair, that led to the break-up. さすが expresses that it was inevitable for a reason.",
+    "The differences between やはり and さすが can be subtle and the two words definitely have some overlap, especially because さすが can be interpreted as \"as expected for a reason ,\" (such as the distance or an affair in our example). However, it's a good idea to learn about the subtle nuances that a uniquely Japanese word like さすが has, and observe the differences with other words to deepen your understanding!",
+    "Feel like you got the gist of the word さすが now? Here's some bonus material — a two-part podcast series about さすが to take it to the next level and get a complimentary さすが from your sensei . In this episode, we discuss more real-life examples, so make sure to give it a listen!"
+  ],
+  "examples": [
+    {
+      "japanese": "A5和牛（わぎゅう）は、さすがに美味（おい）しい。",
+      "english": "It's only natural that A5-grade wagyu is delicious."
+    },
+    {
+      "japanese": "A5和牛（わぎゅう）だけど、さすがに美味（おい）しくない。",
+      "english": "Despite being A5-grade wagyu, it's inevitable that it's not delicious."
+    },
+    {
+      "japanese": "さすが！",
+      "english": "No wonder!"
+    },
+    {
+      "japanese": "鈴木（すずき）部長（ぶちょう）のショットはさすがですね。",
+      "english": "Your shot's impressive, Mr. Suzuki."
+    },
+    {
+      "japanese": "昨日（きのう）の鈴木（すずき）部長（ぶちょう）のショットは、さすがだったよ。",
+      "english": "Mr. Suzuki's shot was impressive yesterday."
+    },
+    {
+      "japanese": "❌ 鈴木（すずき）部長（ぶちょう）のショットはさすがじゃない。",
+      "english": "Mr. Suzuki's shot isn't impressive."
+    },
+    {
+      "japanese": "鈴木（すずき）部長（ぶちょう）のショットはそんなにすごくない。",
+      "english": "Mr. Suzuki's shot isn't that great."
+    },
+    {
+      "japanese": "⭕️ さすがじゃない?",
+      "english": "Isn't it impressive?"
+    },
+    {
+      "japanese": "⭕️ いやいや、全然（ぜんぜん）、さすがじゃないですよ。",
+      "english": "No no, it's not impressive at all."
+    },
+    {
+      "japanese": "さすが(は)プロですね。",
+      "english": "I'd expect nothing less of a professional like you."
+    },
+    {
+      "japanese": "さすが(は)ケンイチ！",
+      "english": "You don't disappoint, Kenichi!"
+    },
+    {
+      "japanese": "さすがの歌唱（かしょう）力（りょく）でした。",
+      "english": "That was quite a singing ability!"
+    },
+    {
+      "japanese": "❌ さすがの歌手（かしゅ）！⭕️ さすがは歌手（かしゅ）！",
+      "english": "I'd expect nothing less from a singer!"
+    },
+    {
+      "japanese": "さすがのA5和牛（わぎゅう）も、腐（くさ）っていれば、おいしくない。",
+      "english": "It's inevitable that even A5-grade wagyu isn't delicious if it's spoiled."
+    },
+    {
+      "japanese": "姉（あね）はさすがに子供（こども）の扱（あつか）いが上手（じょうず）だ。",
+      "english": "It's only natural that my sister is great with children."
+    },
+    {
+      "japanese": "さすがに姉（あね）は保育（ほいく）士（し）なだけある。",
+      "english": "You can really tell that my sister's a nursery teacher."
+    },
+    {
+      "japanese": "さすがにA5和牛（わぎゅう）も、腐（くさ）っていれば、おいしくない。",
+      "english": "It's inevitable even A5-grade wagyu isn't delicious if it's spoiled."
+    },
+    {
+      "japanese": "さすがは通訳（つうやく）なだけある。",
+      "english": "Wow, I can really tell that you're an interpreter."
+    },
+    {
+      "japanese": "さすがに天才（てんさい）なだけある。",
+      "english": "It's only natural, considering how gifted you are."
+    },
+    {
+      "japanese": "さすがは中国（ちゅうごく）に住（す）んでいただけある。",
+      "english": "Wow, it really shows that you lived in China."
+    },
+    {
+      "japanese": "中国（ちゅうごく）に住（す）んでいただけあって、さすがに中国語（ちゅうごくご）がうまいね。中国（ちゅうごく）に住（す）んでいただけに、さすがに中国語（ちゅうごくご）がうまいね。",
+      "english": "It really shows that you lived in China, you're great at Chinese."
+    },
+    {
+      "japanese": "さすが、田舎（いなか）。Wi-Fiが全然（ぜんぜん）ない。",
+      "english": "Typical, we really are in the countryside. There's no Wi-Fi at all."
+    },
+    {
+      "japanese": "やっぱり別（わか）れたんだ。",
+      "english": "They broke up, as I expected."
+    },
+    {
+      "japanese": "さすがに別（わか）れたんだ。",
+      "english": "They broke up (and it was inevitable for a specific reason)."
+    },
+    {
+      "japanese": "❌ やはりの歌唱（かしょう）力（りょく） ⭕️ さすがの歌唱（かしょう）力（りょく）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "❌ あの歌唱（かしょう）力（りょく）は、やはりだ ⭕️ あの歌唱（かしょう）力（りょく）は、さすがだ。",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-compliments",
+      "text": "さすが for Compliments"
+    },
+    {
+      "level": 3,
+      "id": "for-contradictions",
+      "text": "さすが for Contradictions"
+    },
+    {
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "exclaiming--as-a-compliment",
+      "text": "Exclaiming さすが！ as a Compliment"
+    },
+    {
+      "level": 3,
+      "id": "for-compliments-1",
+      "text": "(〜は)さすが for Compliments"
+    },
+    {
+      "level": 3,
+      "id": "for-compliments-2",
+      "text": "さすが(は) for Compliments"
+    },
+    {
+      "level": 3,
+      "id": "for-compliments-and-contradictions",
+      "text": "さすがの for Compliments and Contradictions"
+    },
+    {
+      "level": 4,
+      "id": "for-compliments-3",
+      "text": "さすがの for Compliments"
+    },
+    {
+      "level": 4,
+      "id": "for-contradictions-1",
+      "text": "さすがの for Contradictions"
+    },
+    {
+      "level": 3,
+      "id": "for-compliments-and-contradictions-1",
+      "text": "さすがに for Compliments and Contradictions"
+    },
+    {
+      "level": 4,
+      "id": "for-compliments-4",
+      "text": "さすがに for Compliments"
+    },
+    {
+      "level": 4,
+      "id": "for-contradictions-2",
+      "text": "さすがに for Contradictions"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "section",
+      "text": "だけある"
+    },
+    {
+      "level": 3,
+      "id": "for-sarcasm",
+      "text": "さすが for Sarcasm"
+    },
+    {
+      "level": 3,
+      "id": "differences-between--and-",
+      "text": "Differences between さすが and やはり"
+    }
+  ],
+  "id": 107,
+  "slug": "sasuga",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/sasuga/",
+  "categories": [
+    "Vocabulary"
+  ]
+}

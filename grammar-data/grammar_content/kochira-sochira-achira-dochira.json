@@ -1,0 +1,605 @@
+{
+  "title": "こちら・そちら・あちら・どちら",
+  "description": "こちら, そちら, あちら, and どちら, along with their contractions こっち, そっち, あっち, and どっち, are a set of こそあど言葉（ことば） (ko-so-a-do words). They refer primarily to directions or places, but can also be used to refer to people, groups, things, or sides.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "こちら, そちら, あちら, and どちら are a set of こそあど words. They are used to refer to directions and places, but can also be used with people, groups, things, or sides."
+    },
+    {
+      "type": "paragraph",
+      "text": "In general, こちら is used for a direction or a place that is close to the speaker, そちら for one that's close to the listener, or relatively far from both the listener and the speaker, and あちら is for one that's close to neither of them."
+    },
+    {
+      "type": "paragraph",
+      "text": "どちら is the question word that goes with this set, and it means \"which one?\" out of a choice of two directions, places, people, or the like. どちら can also ask \"who?\" or \"where?\" politely."
+    },
+    {
+      "type": "paragraph",
+      "text": "こっち, そっち, あっち, and どっち are contractions of こちら, そちら, あちら, and どちら. They refer to exactly the same things, in a more casual way. The only exception is どっち, which only means \"which one?\" out of two choices, but not \"who?\" or \"where?\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど."
+    },
+    {
+      "type": "paragraph",
+      "text": "What's more, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is how こそあど words work when referring to a physical object that you can see:"
+    },
+    {
+      "type": "formula",
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you'd like to read scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "こちら, そちら, あちら, and どちら (こっち, そっち, あっち, and どっち) can be used in sentences in, more or less, the same way as nouns."
+    },
+    {
+      "type": "example",
+      "japanese": "あっちに行（い）こう。",
+      "english": "Let's go over there."
+    },
+    {
+      "type": "example",
+      "japanese": "こちらとそちら、どちらがいいですか？",
+      "english": "Out of this one and that one, which one would you like?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Like nouns, these words can also be attached to another noun with the particle の ."
+    },
+    {
+      "type": "example",
+      "japanese": "どちらのスカートになさいますか。",
+      "english": "Which skirt would you like?"
+    },
+    {
+      "type": "example",
+      "japanese": "こちらのスカートにします。",
+      "english": "I'll go with this skirt."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-directions-and-places",
+      "text": "こちら, そちら, あちら for Directions and Places"
+    },
+    {
+      "type": "paragraph",
+      "text": "こちら, そちら, and あちら (こっち, そっち, and あっち) can be used to refer to a direction. In this case, they are the equivalent of \"this way,\" \"that way,\" or \"that way over there\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at an example that uses a casual conversation. Imagine you and your friend are hiking and come across a forked road. Unfortunately, the track sign is old and illegible, so you wonder which path to take:"
+    },
+    {
+      "type": "example",
+      "japanese": "こっちの道（みち）かな、それともそっちかな？",
+      "english": "Is it this way or that way?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use こっち, そっち, and あっち to say \"here,\" \"there,\" and \"over there.\" So in the same scenario, if you find another path, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あ、ねえ見（み）てみて。あっちにも道（みち）があるよ。",
+      "english": "Oh, hey look! There is also a path over there."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you could choose to replace あっち with あそこ, which is a こそあど word specifically for locations . The difference is that, while あそこ simply points to a location that's distant from where you are, あっち indicates you are pointing to a distant location and comparing it with at least one other option."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-things",
+      "text": "こちら, そちら, あちら for Things"
+    },
+    {
+      "type": "paragraph",
+      "text": "こちら, そちら, あちら (こっち, そっち, あっち) can also be used for objects and things. In this case, they are the equivalent of \"this one,\" \"that one,\" and \"that one over there\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "So let's say you are at a bakery and wondering which cake to pick. You can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "こっちにしようかな。あ、でもそっちもおいしそう。あああ、でもあっちのケーキも気（き）になるー！",
+      "english": "I think I'll go with this one. Oh, but that one looks delicious too. Ah, but I'm also interested in that cake over there!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, you use casual expressions because what you are saying is self-directed. If the person behind the counter hears you deliberating, they might say the following to help you decide:"
+    },
+    {
+      "type": "example",
+      "japanese": "今（いま）ですと、こちらのピーチのケーキが旬（しゅん）でおいしいですよ。",
+      "english": "Right now, this peach cake is in season and it's delicious."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, the staff would usually use the more polite こちら to pay respect to you, the customer."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-which-one-out-of-two-choices",
+      "text": "どちら for \"Which One?\" Out of Two Choices"
+    },
+    {
+      "type": "paragraph",
+      "text": "The question word that comes with this set is どちら (どっち), and it's used to ask \"which one?\" Unlike こちら, そちら, あちら, which can be used with any number of choices, どちら is only used when there are just two choices."
+    },
+    {
+      "type": "paragraph",
+      "text": "So in the same scenario of being at a bakery, if you narrow your choice of cake down to two, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "どっちにしようかな。",
+      "english": "I wonder which of the two to get."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, at the beginning when you were wondering which cake to pick out of a wide array of selections, you would use a different question word, どれ , and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "どれにしようかな。",
+      "english": "I wonder which one to get."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-people",
+      "text": "こちら, そちら, あちら for People"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use こちら, そちら, and あちら (こっち, そっち, あっち) to casually refer to a person or a group of people."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, these words can simply refer to a person who is physically present, like \"this person,\" \"that person,\" and \"that person over there.\" But they can also be used to refer to someone who is out of sight, often because you're communicating remotely."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you are talking to your friend on the phone for the first time in a long time, you may ask things like:"
+    },
+    {
+      "type": "example",
+      "japanese": "こっちは元気（げんき）だよ。そっちは？",
+      "english": "I'm doing well. How about you? We're all doing well. How about you all?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, こっち translates to \"I\" or \"we\" and そっち translates \"you\" or \"you all.\" These directional words suggest you are talking about the person or people on your side and on their side ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are talking about a third person or group of people, they can be referred to as あっち, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "あっちもみんな元気（げんき）にしてるみたいだよ。",
+      "english": "I heard they are also doing well."
+    },
+    {
+      "type": "paragraph",
+      "text": "In formal speaking or writing, you'd switch こっち, そっち, and あっち to こちら, そちら, and あちら."
+    },
+    {
+      "type": "example",
+      "japanese": "お陰様（かげさま）で、こちらは皆（みな）元気（げんき）に過（す）ごしています。",
+      "english": "Thankfully, everyone here is doing well."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-who-or-where",
+      "text": "どちら for \"Who?\" or \"Where?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Both どちら and どっち can mean \"which person?\" or \"which place?\" out of two choices."
+    },
+    {
+      "type": "example",
+      "japanese": "どちらの女性（じょせい）がタイプですか？ どっちの女性（じょせい）がタイプ？",
+      "english": "Which woman is your type?"
+    },
+    {
+      "type": "example",
+      "japanese": "どちらの場所（ばしょ）に行（い）きたいですか？ どっちの場所（ばしょ）に行（い）きたい？",
+      "english": "Which place would you like to go to?"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, only どちら can be used to directly ask \"who?\" or \"where?\" politely. 1 When asking \"who?\" どちら is commonly followed by 様（さま） , as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "どちら様（さま）ですか？",
+      "english": "May I ask who this is?"
+    },
+    {
+      "type": "example",
+      "japanese": "どちらまでお出（で）かけですか？",
+      "english": "Where are you off to?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-",
+      "text": "こちら, そちら, あちら with 〜こそ"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜こそ emphasizes the word that comes before it. It's often used with こちら, そちら, and あちら (こっち, そっち, あっち) when they are referring to people."
+    },
+    {
+      "type": "paragraph",
+      "text": "This combination of words is only used to express opposition to what someone else has said or done. For example, imagine you quarrel with your partner and they ask you for an apology. In this case, your partner can't refer to you as そっちこそ because they are the first one to ask for the apology. In this case, they may just say:"
+    },
+    {
+      "type": "example",
+      "japanese": "謝（あやま）れよ！",
+      "english": "Apologize!"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if you disagree and think that they should be the one to apologize, you can counter by emphasizing そっち with こそ, and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "そっちこそ、謝（あやま）ったら？",
+      "english": "Why don't YOU apologize?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, そっち indicates your opposition to こっち, and こそ emphasizes the comparison."
+    },
+    {
+      "type": "paragraph",
+      "text": "This expression is not only used in negative situations. For example, in the same scenario, let's say your partner actually apologizes to you first. If you also feel bad and want to apologize, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "こっちこそ、ごめんね。",
+      "english": "I am sorry too."
+    },
+    {
+      "type": "paragraph",
+      "text": "The polite version of こっちこそ, which is こちらこそ, is also common. It's used a lot in Japanese conversation, particularly as a standard reply to certain expressions. For example, if someone thanks you, you may thank them back by saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "こちらこそ、有難（ありがと）うございます。",
+      "english": "I'm the one who should be saying thank you."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a very common way to respond to thanks. You can simply say こちらこそ on its own, too. Many Japanese speakers say this in response to thanks more frequently than they might say どういたしまして (\"you're welcome\")."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone says よろしくお願（ねが）いします to you, you may say よろしくお願（ねが）いします back to them with こちらこそ."
+    },
+    {
+      "type": "example",
+      "japanese": "こちらこそ、よろしくお願（ねが）いします。",
+      "english": "It's I who should be saying \"please take care of me.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also say こっちの方（ほう）こそ or こちらの方（ほう）こそ in a more formal conversation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section",
+      "text": "こちらのもの"
+    },
+    {
+      "type": "paragraph",
+      "text": "You've learned こちら can indicate you, or the people in your group, when you are addressing others. With the particle の and もの (thing), you can create this expression: こちらのもの."
+    },
+    {
+      "type": "paragraph",
+      "text": "こちらのもの literally means \"the thing on my/our side,\" or more simply, \"my/our thing.\" This expression is used to express that you think something positive will happen to you, and often those associated with you too, for a specific reason."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you just found out Michael Jordan is joining your basketball team for the next match. This makes you very confident your team will win the game. In this case, you can use こちらのもの and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "マイケルがうちのチームに来（く）るなら、勝負（しょうぶ）はこちらのものだ。",
+      "english": "If Michael joins our team, we'll surely win. (Literally: If Michael joins our team, this game will be ours.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope this announcement wasn't just a jōdan, or 冗談（じょうだん） (joke), and Michael Jordan really joins your team!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, you can replace こちらのもの with こっちのもの in a casual conversation."
+    },
+    {
+      "type": "paragraph",
+      "text": "The question word どなた also asks \"who?\" politely and can be used similarly to どちら. &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "こちら, そちら, あちら, and どちら are a set of こそあど words. They are used to refer to directions and places, but can also be used with people, groups, things, or sides.",
+    "In general, こちら is used for a direction or a place that is close to the speaker, そちら for one that's close to the listener, or relatively far from both the listener and the speaker, and あちら is for one that's close to neither of them.",
+    "どちら is the question word that goes with this set, and it means \"which one?\" out of a choice of two directions, places, people, or the like. どちら can also ask \"who?\" or \"where?\" politely.",
+    "こっち, そっち, あっち, and どっち are contractions of こちら, そちら, あちら, and どちら. They refer to exactly the same things, in a more casual way. The only exception is どっち, which only means \"which one?\" out of two choices, but not \"who?\" or \"where?\"",
+    "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど.",
+    "What's more, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play.",
+    "Here is how こそあど words work when referring to a physical object that you can see:",
+    "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question.",
+    "If you'd like to read scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !",
+    "こちら, そちら, あちら, and どちら (こっち, そっち, あっち, and どっち) can be used in sentences in, more or less, the same way as nouns.",
+    "Like nouns, these words can also be attached to another noun with the particle の .",
+    "こちら, そちら, and あちら (こっち, そっち, and あっち) can be used to refer to a direction. In this case, they are the equivalent of \"this way,\" \"that way,\" or \"that way over there\" in English.",
+    "Let's take a look at an example that uses a casual conversation. Imagine you and your friend are hiking and come across a forked road. Unfortunately, the track sign is old and illegible, so you wonder which path to take:",
+    "You can also use こっち, そっち, and あっち to say \"here,\" \"there,\" and \"over there.\" So in the same scenario, if you find another path, you may say:",
+    "In this case, you could choose to replace あっち with あそこ, which is a こそあど word specifically for locations . The difference is that, while あそこ simply points to a location that's distant from where you are, あっち indicates you are pointing to a distant location and comparing it with at least one other option.",
+    "こちら, そちら, あちら (こっち, そっち, あっち) can also be used for objects and things. In this case, they are the equivalent of \"this one,\" \"that one,\" and \"that one over there\" in English.",
+    "So let's say you are at a bakery and wondering which cake to pick. You can say:",
+    "In this example, you use casual expressions because what you are saying is self-directed. If the person behind the counter hears you deliberating, they might say the following to help you decide:",
+    "Here, the staff would usually use the more polite こちら to pay respect to you, the customer.",
+    "The question word that comes with this set is どちら (どっち), and it's used to ask \"which one?\" Unlike こちら, そちら, あちら, which can be used with any number of choices, どちら is only used when there are just two choices.",
+    "So in the same scenario of being at a bakery, if you narrow your choice of cake down to two, you could say:",
+    "However, at the beginning when you were wondering which cake to pick out of a wide array of selections, you would use a different question word, どれ , and say:",
+    "You can also use こちら, そちら, and あちら (こっち, そっち, あっち) to casually refer to a person or a group of people.",
+    "In this case, these words can simply refer to a person who is physically present, like \"this person,\" \"that person,\" and \"that person over there.\" But they can also be used to refer to someone who is out of sight, often because you're communicating remotely.",
+    "For example, if you are talking to your friend on the phone for the first time in a long time, you may ask things like:",
+    "Here, こっち translates to \"I\" or \"we\" and そっち translates \"you\" or \"you all.\" These directional words suggest you are talking about the person or people on your side and on their side .",
+    "If you are talking about a third person or group of people, they can be referred to as あっち, as in:",
+    "In formal speaking or writing, you'd switch こっち, そっち, and あっち to こちら, そちら, and あちら.",
+    "Both どちら and どっち can mean \"which person?\" or \"which place?\" out of two choices.",
+    "However, only どちら can be used to directly ask \"who?\" or \"where?\" politely. 1 When asking \"who?\" どちら is commonly followed by 様（さま） , as in:",
+    "〜こそ emphasizes the word that comes before it. It's often used with こちら, そちら, and あちら (こっち, そっち, あっち) when they are referring to people.",
+    "This combination of words is only used to express opposition to what someone else has said or done. For example, imagine you quarrel with your partner and they ask you for an apology. In this case, your partner can't refer to you as そっちこそ because they are the first one to ask for the apology. In this case, they may just say:",
+    "However, if you disagree and think that they should be the one to apologize, you can counter by emphasizing そっち with こそ, and say:",
+    "Here, そっち indicates your opposition to こっち, and こそ emphasizes the comparison.",
+    "This expression is not only used in negative situations. For example, in the same scenario, let's say your partner actually apologizes to you first. If you also feel bad and want to apologize, you can say:",
+    "The polite version of こっちこそ, which is こちらこそ, is also common. It's used a lot in Japanese conversation, particularly as a standard reply to certain expressions. For example, if someone thanks you, you may thank them back by saying:",
+    "This is a very common way to respond to thanks. You can simply say こちらこそ on its own, too. Many Japanese speakers say this in response to thanks more frequently than they might say どういたしまして (\"you're welcome\").",
+    "If someone says よろしくお願（ねが）いします to you, you may say よろしくお願（ねが）いします back to them with こちらこそ.",
+    "You can also say こっちの方（ほう）こそ or こちらの方（ほう）こそ in a more formal conversation.",
+    "You've learned こちら can indicate you, or the people in your group, when you are addressing others. With the particle の and もの (thing), you can create this expression: こちらのもの.",
+    "こちらのもの literally means \"the thing on my/our side,\" or more simply, \"my/our thing.\" This expression is used to express that you think something positive will happen to you, and often those associated with you too, for a specific reason.",
+    "For example, imagine you just found out Michael Jordan is joining your basketball team for the next match. This makes you very confident your team will win the game. In this case, you can use こちらのもの and say:",
+    "I hope this announcement wasn't just a jōdan, or 冗談（じょうだん） (joke), and Michael Jordan really joins your team!",
+    "Finally, you can replace こちらのもの with こっちのもの in a casual conversation.",
+    "The question word どなた also asks \"who?\" politely and can be used similarly to どちら. &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "あっちに行（い）こう。",
+      "english": "Let's go over there."
+    },
+    {
+      "japanese": "こちらとそちら、どちらがいいですか？",
+      "english": "Out of this one and that one, which one would you like?"
+    },
+    {
+      "japanese": "どちらのスカートになさいますか。",
+      "english": "Which skirt would you like?"
+    },
+    {
+      "japanese": "こちらのスカートにします。",
+      "english": "I'll go with this skirt."
+    },
+    {
+      "japanese": "こっちの道（みち）かな、それともそっちかな？",
+      "english": "Is it this way or that way?"
+    },
+    {
+      "japanese": "あ、ねえ見（み）てみて。あっちにも道（みち）があるよ。",
+      "english": "Oh, hey look! There is also a path over there."
+    },
+    {
+      "japanese": "こっちにしようかな。あ、でもそっちもおいしそう。あああ、でもあっちのケーキも気（き）になるー！",
+      "english": "I think I'll go with this one. Oh, but that one looks delicious too. Ah, but I'm also interested in that cake over there!"
+    },
+    {
+      "japanese": "今（いま）ですと、こちらのピーチのケーキが旬（しゅん）でおいしいですよ。",
+      "english": "Right now, this peach cake is in season and it's delicious."
+    },
+    {
+      "japanese": "どっちにしようかな。",
+      "english": "I wonder which of the two to get."
+    },
+    {
+      "japanese": "どれにしようかな。",
+      "english": "I wonder which one to get."
+    },
+    {
+      "japanese": "こっちは元気（げんき）だよ。そっちは？",
+      "english": "I'm doing well. How about you? We're all doing well. How about you all?"
+    },
+    {
+      "japanese": "あっちもみんな元気（げんき）にしてるみたいだよ。",
+      "english": "I heard they are also doing well."
+    },
+    {
+      "japanese": "お陰様（かげさま）で、こちらは皆（みな）元気（げんき）に過（す）ごしています。",
+      "english": "Thankfully, everyone here is doing well."
+    },
+    {
+      "japanese": "どちらの女性（じょせい）がタイプですか？ どっちの女性（じょせい）がタイプ？",
+      "english": "Which woman is your type?"
+    },
+    {
+      "japanese": "どちらの場所（ばしょ）に行（い）きたいですか？ どっちの場所（ばしょ）に行（い）きたい？",
+      "english": "Which place would you like to go to?"
+    },
+    {
+      "japanese": "どちら様（さま）ですか？",
+      "english": "May I ask who this is?"
+    },
+    {
+      "japanese": "どちらまでお出（で）かけですか？",
+      "english": "Where are you off to?"
+    },
+    {
+      "japanese": "謝（あやま）れよ！",
+      "english": "Apologize!"
+    },
+    {
+      "japanese": "そっちこそ、謝（あやま）ったら？",
+      "english": "Why don't YOU apologize?"
+    },
+    {
+      "japanese": "こっちこそ、ごめんね。",
+      "english": "I am sorry too."
+    },
+    {
+      "japanese": "こちらこそ、有難（ありがと）うございます。",
+      "english": "I'm the one who should be saying thank you."
+    },
+    {
+      "japanese": "こちらこそ、よろしくお願（ねが）いします。",
+      "english": "It's I who should be saying \"please take care of me.\""
+    },
+    {
+      "japanese": "マイケルがうちのチームに来（く）るなら、勝負（しょうぶ）はこちらのものだ。",
+      "english": "If Michael joins our team, we'll surely win. (Literally: If Michael joins our team, this game will be ours.)"
+    },
+    {
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "for-directions-and-places",
+      "text": "こちら, そちら, あちら for Directions and Places"
+    },
+    {
+      "level": 3,
+      "id": "for-things",
+      "text": "こちら, そちら, あちら for Things"
+    },
+    {
+      "level": 3,
+      "id": "for-which-one-out-of-two-choices",
+      "text": "どちら for \"Which One?\" Out of Two Choices"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-people",
+      "text": "こちら, そちら, あちら for People"
+    },
+    {
+      "level": 3,
+      "id": "for-who-or-where",
+      "text": "どちら for \"Who?\" or \"Where?\""
+    },
+    {
+      "level": 3,
+      "id": "with-",
+      "text": "こちら, そちら, あちら with 〜こそ"
+    },
+    {
+      "level": 3,
+      "id": "section",
+      "text": "こちらのもの"
+    }
+  ],
+  "id": 101,
+  "slug": "kochira-sochira-achira-dochira",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/kochira-sochira-achira-dochira/",
+  "categories": [
+    "Demonstrative"
+  ]
+}

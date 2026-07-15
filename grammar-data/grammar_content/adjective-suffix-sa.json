@@ -1,0 +1,291 @@
+{
+  "title": "Adjective さ (Objective Nouns)",
+  "description": "Adding 〜さ to an adjective turns it into a noun, and gives it the nuance that the noun is objective and measurable.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜さ is one of two suffixes that attach to adjectives and turn them into nouns. It is similar to adding \"…ness\" to adjectives in English, to turn them into nouns (e.g., goodness, freshness, liveliness). さ nouns tend to feel more objective and measurable compared to nouns ending in 〜み ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜さ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Forming さ nouns is simple. Just remove the present tense ending 〜い from い-adjectives or the な from な-adjectives , and add 〜さ to the stem form."
+    },
+    {
+      "type": "formula",
+      "japanese": "高（たか）い + さ → 高（たか）さ",
+      "english": ""
+    },
+    {
+      "type": "formula",
+      "japanese": "便利（べんり）な + さ → 便利（べんり）さ",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike the suffix 〜み, just about any adjective can 〜さ to form a noun."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "using--with--adjective-forming-suffixes",
+      "text": "Using 〜さ with い-Adjective Forming Suffixes"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can combine 〜さ with other suffixes like 〜たい , 〜やすい , 〜にくい , 〜らしい , 〜づらい , and 〜っぽい , which all turn other word types into い-adjectives. For example:"
+    },
+    {
+      "type": "formula",
+      "japanese": "使（つか）う → 使（つか）いやすい → 使（つか）いやすさ to use → easy to use → usability",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "使（つか）う → 使（つか）い やすい → 使（つか）いやす さ to use → easy to use → usability"
+    },
+    {
+      "type": "formula",
+      "japanese": "男（おとこ） → 男（おとこ）らしい → 男（おとこ）らしさ man → manly → manliness/masculinity",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "男（おとこ） → 男（おとこ） らしい → 男（おとこ）らし さ man → manly → manliness/masculinity"
+    },
+    {
+      "type": "formula",
+      "japanese": "行（い）く → 行（い）きたい → 行（ゆ）きたさ to go → want to go → eagerness to go",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "行（い）く → 行（い）き たい → 行（い）きた さ to go → want to go → eagerness to go"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "uses",
+      "text": "Uses"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-expressing-objective-amount",
+      "text": "〜さ for Expressing Objective Amount"
+    },
+    {
+      "type": "paragraph",
+      "text": "The fundamental use of さ nouns is to express amounts that are objectively measurable."
+    },
+    {
+      "type": "example",
+      "japanese": "空港（くうこう）へ行（い）く前（まえ）に、カバンの重（おも）さを測（はか）りました。",
+      "english": "I measured the weight of my luggage before going to the airport."
+    },
+    {
+      "type": "example",
+      "japanese": "プールの深（ふか）さを確認（かくにん）してから入（はい）ろう。",
+      "english": "Check the depth of the swimming pool before you get in."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-presenting-subjective-qualities-as-objective-truths",
+      "text": "〜さ for Presenting Subjective Qualities as Objective Truths"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜さ can be also used with adjectives that express subjective qualities, such as 優（やさ）しい (kind), 難（むずか）しい (difficult), and 面白（おもしろ）い (interesting). Despite the fact that these adjectives may feel subjective in nature, using the 〜さ form of these adjectives creates a sense that the quality being described is objective, or is an external truth. This stands in contrast to み nouns, which suggest a more personal, internally felt quality."
+    },
+    {
+      "type": "example",
+      "japanese": "テストの難（むずか）しさを予想（よそう）する。",
+      "english": "I can imagine how difficult the test is going to be."
+    },
+    {
+      "type": "paragraph",
+      "text": "While 難（むずか）しい may feel like a subjective quality, the use of 〜さ allows us to treat it like an objective \"level of difficulty.\" Depending on the context though, it might also take on a more subjective feel as well. That said, because 難（むずか）しい cannot take 〜み as a suffix, using 〜さ is your only choice. Some adjectives though, can take both:"
+    },
+    {
+      "type": "example",
+      "japanese": "あの映画（えいが）は面白（おもしろ）みに欠（か）けている。",
+      "english": "The movie is lacking an element that intrigues me."
+    },
+    {
+      "type": "example",
+      "japanese": "あの映画（えいが）は面白（おもしろ）さに欠（か）けている。",
+      "english": "The movie is lacking any interesting elements (to everyone)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the first example, 面白（おもしろ）み makes it clear that this \"intriguing element\" the movie lacks is one that is felt personally and internally by the speaker. In the second example, 面白（おもしろ）さ indicates that this missing element of intrigue is one that everyone would likely agree upon."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-opposite-pairs",
+      "text": "〜さ in Opposite Pairs"
+    },
+    {
+      "type": "paragraph",
+      "text": "さ nouns that are in opposite pairs (big and small, tall and short) tend to have different meanings on the positive ends of those spectrums. The positive ends usually represent the entire idea of that measurement. For example, when we use 大（おお）きさ (bigness), it often means \"size,\" while the opposite end of the spectrum, 小（ちい）ささ (smallness), only means \"smallness\" and doesn’t represent the concept of size as a whole. When we use 速（はや）さ (quickness), it often means \"speed,\" while 遅（おそ）さ (slowness) can only mean slowness. To represent the entire concept of measurement between two extremes, adding 〜さ to positive end usually does the trick."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜さ is one of two suffixes that attach to adjectives and turn them into nouns. It is similar to adding \"…ness\" to adjectives in English, to turn them into nouns (e.g., goodness, freshness, liveliness). さ nouns tend to feel more objective and measurable compared to nouns ending in 〜み .",
+    "Forming さ nouns is simple. Just remove the present tense ending 〜い from い-adjectives or the な from な-adjectives , and add 〜さ to the stem form.",
+    "Unlike the suffix 〜み, just about any adjective can 〜さ to form a noun.",
+    "You can combine 〜さ with other suffixes like 〜たい , 〜やすい , 〜にくい , 〜らしい , 〜づらい , and 〜っぽい , which all turn other word types into い-adjectives. For example:",
+    "使（つか）う → 使（つか）い やすい → 使（つか）いやす さ to use → easy to use → usability",
+    "男（おとこ） → 男（おとこ） らしい → 男（おとこ）らし さ man → manly → manliness/masculinity",
+    "行（い）く → 行（い）き たい → 行（い）きた さ to go → want to go → eagerness to go",
+    "The fundamental use of さ nouns is to express amounts that are objectively measurable.",
+    "〜さ can be also used with adjectives that express subjective qualities, such as 優（やさ）しい (kind), 難（むずか）しい (difficult), and 面白（おもしろ）い (interesting). Despite the fact that these adjectives may feel subjective in nature, using the 〜さ form of these adjectives creates a sense that the quality being described is objective, or is an external truth. This stands in contrast to み nouns, which suggest a more personal, internally felt quality.",
+    "While 難（むずか）しい may feel like a subjective quality, the use of 〜さ allows us to treat it like an objective \"level of difficulty.\" Depending on the context though, it might also take on a more subjective feel as well. That said, because 難（むずか）しい cannot take 〜み as a suffix, using 〜さ is your only choice. Some adjectives though, can take both:",
+    "In the first example, 面白（おもしろ）み makes it clear that this \"intriguing element\" the movie lacks is one that is felt personally and internally by the speaker. In the second example, 面白（おもしろ）さ indicates that this missing element of intrigue is one that everyone would likely agree upon.",
+    "さ nouns that are in opposite pairs (big and small, tall and short) tend to have different meanings on the positive ends of those spectrums. The positive ends usually represent the entire idea of that measurement. For example, when we use 大（おお）きさ (bigness), it often means \"size,\" while the opposite end of the spectrum, 小（ちい）ささ (smallness), only means \"smallness\" and doesn’t represent the concept of size as a whole. When we use 速（はや）さ (quickness), it often means \"speed,\" while 遅（おそ）さ (slowness) can only mean slowness. To represent the entire concept of measurement between two extremes, adding 〜さ to positive end usually does the trick."
+  ],
+  "examples": [
+    {
+      "japanese": "空港（くうこう）へ行（い）く前（まえ）に、カバンの重（おも）さを測（はか）りました。",
+      "english": "I measured the weight of my luggage before going to the airport."
+    },
+    {
+      "japanese": "プールの深（ふか）さを確認（かくにん）してから入（はい）ろう。",
+      "english": "Check the depth of the swimming pool before you get in."
+    },
+    {
+      "japanese": "テストの難（むずか）しさを予想（よそう）する。",
+      "english": "I can imagine how difficult the test is going to be."
+    },
+    {
+      "japanese": "あの映画（えいが）は面白（おもしろ）みに欠（か）けている。",
+      "english": "The movie is lacking an element that intrigues me."
+    },
+    {
+      "japanese": "あの映画（えいが）は面白（おもしろ）さに欠（か）けている。",
+      "english": "The movie is lacking any interesting elements (to everyone)."
+    },
+    {
+      "japanese": "高（たか）い + さ → 高（たか）さ",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "便利（べんり）な + さ → 便利（べんり）さ",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "使（つか）う → 使（つか）いやすい → 使（つか）いやすさ to use → easy to use → usability",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "男（おとこ） → 男（おとこ）らしい → 男（おとこ）らしさ man → manly → manliness/masculinity",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "行（い）く → 行（い）きたい → 行（ゆ）きたさ to go → want to go → eagerness to go",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜さ"
+    },
+    {
+      "level": 3,
+      "id": "using--with--adjective-forming-suffixes",
+      "text": "Using 〜さ with い-Adjective Forming Suffixes"
+    },
+    {
+      "level": 2,
+      "id": "uses",
+      "text": "Uses"
+    },
+    {
+      "level": 3,
+      "id": "for-expressing-objective-amount",
+      "text": "〜さ for Expressing Objective Amount"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-presenting-subjective-qualities-as-objective-truths",
+      "text": "〜さ for Presenting Subjective Qualities as Objective Truths"
+    },
+    {
+      "level": 3,
+      "id": "in-opposite-pairs",
+      "text": "〜さ in Opposite Pairs"
+    }
+  ],
+  "id": 1,
+  "slug": "adjective-suffix-sa",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/adjective-suffix-sa/",
+  "categories": [
+    "Adjective Form"
+  ]
+}

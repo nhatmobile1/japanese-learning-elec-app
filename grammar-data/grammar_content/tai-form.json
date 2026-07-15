@@ -1,0 +1,245 @@
+{
+  "title": "〜たい (Desire)",
+  "description": "〜たい is a verb suffix that adds a meaning of desire. Use it to say \"I want to do [this verb].\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜たい is used to express your inner desire to do something, just like \"want to (do something)\" in English. You attach it to a verb to describe what kind of action you want to do. For example, you can turn a verb 食（た）べる (to eat) into 食（た）べたい (want to eat) to express your desire to eat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜たい"
+    },
+    {
+      "type": "paragraph",
+      "text": "To attach 〜たい to a verb, start with the stem form of the verb and stick 〜たい at the end. If you are not familiar with the stem form , it's the ます form , but minus the ます!"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Godan",
+          "走（はし）ります + たい = 走（はし）りたい"
+        ],
+        [
+          "Ichidan",
+          "食（た）べます + たい = 食（た）べたい"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-expressing-your-desire",
+      "text": "たい for Expressing Your Desire"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's pretty straightforward, but 〜たい is used for expressing your desire. For example, you can use it for your run-of-the-mill daily urge."
+    },
+    {
+      "type": "example",
+      "japanese": "トイレに行（い）きたい。",
+      "english": "I want to go to a bathroom."
+    },
+    {
+      "type": "paragraph",
+      "text": "Or, even for a bigger, long-term desire, like your future dream."
+    },
+    {
+      "type": "example",
+      "japanese": "パイロットになりたい。",
+      "english": "I want to become a pilot."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "expressing-desire-of-someone-else",
+      "text": "Expressing Desire of Someone Else"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜たい is typically to express your own inner desire, things you want to do, not things someone else wants to do. Unlike using \"want to\" in English, it sounds awkward if you talk about someone else's desire using 〜たい. At least, if you use it as a standalone."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you want to speak for your bacon-obsessed friend, Mami, and say マミはベーコンを食（た）べたい meaning \"Mami wants to eat bacon,\" it would sound too assertive and weirdly certain for someone else to say. At the end of the day, you never know what others really think, you know? (Unless you are a mind reader…! 🔮)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You might still come across 〜たい being used for someone else's desire in a story (when characters' desires are narrated), but it is pretty rare in real-life speech. So even if you're pretty sure Mami wants to eat bacon (because she always does), it would be a good idea to make it clear that you're only assuming, or you have some evidence to back it up. Now, let's take a look at some of the options you can use:"
+    },
+    {
+      "type": "paragraph",
+      "text": "と言（い）っていた (they were saying)"
+    },
+    {
+      "type": "example",
+      "japanese": "木村（きむら）さんはお好（この）み焼（や）きを食（た）べたいと言（い）っていた。",
+      "english": "Kimura-san was saying he wants to eat okonomiyaki."
+    },
+    {
+      "type": "example",
+      "japanese": "田中（たなか）さんは木村（きむら）さんと飲（の）みに行（い）きたいそうだ。",
+      "english": "I heard that Tanaka-san wants to go get a drink with Kimura-san."
+    },
+    {
+      "type": "example",
+      "japanese": "田中（たなか）さんは帰（かえ）りたそうだ。",
+      "english": "It looks like Tanaka-san wants to go home."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: Check out our 〜そう for more details."
+    },
+    {
+      "type": "example",
+      "japanese": "木村（きむら）さんは喧嘩（けんか）したいらしい。",
+      "english": "It seems that Kimura-san wants to fight."
+    },
+    {
+      "type": "paragraph",
+      "text": "〜たい also pairs nicely with the explanatory-tone of んです/のです ."
+    },
+    {
+      "type": "example",
+      "japanese": "木村（きむら）さんはお好（この）み焼（や）きを食（た）べたいんです。",
+      "english": "(The situation is) Kimura-san wants to eat okonomiyaki."
+    },
+    {
+      "type": "paragraph",
+      "text": "There's also a way of describing someone else's desire without using 〜たい. Check out 〜たがる to learn all about it!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜たい is used to express your inner desire to do something, just like \"want to (do something)\" in English. You attach it to a verb to describe what kind of action you want to do. For example, you can turn a verb 食（た）べる (to eat) into 食（た）べたい (want to eat) to express your desire to eat.",
+    "To attach 〜たい to a verb, start with the stem form of the verb and stick 〜たい at the end. If you are not familiar with the stem form , it's the ます form , but minus the ます!",
+    "It's pretty straightforward, but 〜たい is used for expressing your desire. For example, you can use it for your run-of-the-mill daily urge.",
+    "Or, even for a bigger, long-term desire, like your future dream.",
+    "〜たい is typically to express your own inner desire, things you want to do, not things someone else wants to do. Unlike using \"want to\" in English, it sounds awkward if you talk about someone else's desire using 〜たい. At least, if you use it as a standalone.",
+    "For example, if you want to speak for your bacon-obsessed friend, Mami, and say マミはベーコンを食（た）べたい meaning \"Mami wants to eat bacon,\" it would sound too assertive and weirdly certain for someone else to say. At the end of the day, you never know what others really think, you know? (Unless you are a mind reader…! 🔮)",
+    "You might still come across 〜たい being used for someone else's desire in a story (when characters' desires are narrated), but it is pretty rare in real-life speech. So even if you're pretty sure Mami wants to eat bacon (because she always does), it would be a good idea to make it clear that you're only assuming, or you have some evidence to back it up. Now, let's take a look at some of the options you can use:",
+    "と言（い）っていた (they were saying)",
+    "Note: Check out our 〜そう for more details.",
+    "〜たい also pairs nicely with the explanatory-tone of んです/のです .",
+    "There's also a way of describing someone else's desire without using 〜たい. Check out 〜たがる to learn all about it!"
+  ],
+  "examples": [
+    {
+      "japanese": "トイレに行（い）きたい。",
+      "english": "I want to go to a bathroom."
+    },
+    {
+      "japanese": "パイロットになりたい。",
+      "english": "I want to become a pilot."
+    },
+    {
+      "japanese": "木村（きむら）さんはお好（この）み焼（や）きを食（た）べたいと言（い）っていた。",
+      "english": "Kimura-san was saying he wants to eat okonomiyaki."
+    },
+    {
+      "japanese": "田中（たなか）さんは木村（きむら）さんと飲（の）みに行（い）きたいそうだ。",
+      "english": "I heard that Tanaka-san wants to go get a drink with Kimura-san."
+    },
+    {
+      "japanese": "田中（たなか）さんは帰（かえ）りたそうだ。",
+      "english": "It looks like Tanaka-san wants to go home."
+    },
+    {
+      "japanese": "木村（きむら）さんは喧嘩（けんか）したいらしい。",
+      "english": "It seems that Kimura-san wants to fight."
+    },
+    {
+      "japanese": "木村（きむら）さんはお好（この）み焼（や）きを食（た）べたいんです。",
+      "english": "(The situation is) Kimura-san wants to eat okonomiyaki."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Godan",
+        "走（はし）ります + たい = 走（はし）りたい"
+      ],
+      [
+        "Ichidan",
+        "食（た）べます + たい = 食（た）べたい"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜たい"
+    },
+    {
+      "level": 3,
+      "id": "for-expressing-your-desire",
+      "text": "たい for Expressing Your Desire"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "expressing-desire-of-someone-else",
+      "text": "Expressing Desire of Someone Else"
+    }
+  ],
+  "id": 52,
+  "slug": "tai-form",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/tai-form/",
+  "categories": [
+    "Verb Form"
+  ]
+}

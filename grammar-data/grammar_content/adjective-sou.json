@@ -1,0 +1,385 @@
+{
+  "title": "Adjective そう",
+  "description": "〜そう can be added to adjectives to mark them as speculative, such as おいしそう = \"looks delicious\".",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "When 〜そう is attached to an adjective, it has a similar use to \"looks\" in English, as in \"looks delicious\". It is used to make a speculative statement based on evidence that you can see or have heard from someone. 〜そう can also be attached to verbs to give a similar meaning."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜そう"
+    },
+    {
+      "type": "paragraph",
+      "text": "To put an い-adjective into this form, simply remove the 〜い from the end and add 〜そう:"
+    },
+    {
+      "type": "formula",
+      "japanese": "おいしい (delicious) + そう = おいしそう (looks delicious)",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "おいし い (delicious) + そう = おいし そう (looks delicious)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Putting a な-adjective into this form is very simple as well. Simply add 〜そう to the end of the adjective:"
+    },
+    {
+      "type": "formula",
+      "japanese": "便利（べんり） (convenient) ＋ そう ＝ 便利（べんり）そう (looks convenient)",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "便利（べんり） (convenient) ＋ そう ＝ 便利（べんり）そう (looks convenient)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "negative-",
+      "text": "Negative 〜そう"
+    },
+    {
+      "type": "paragraph",
+      "text": "For negative い-adjectives ending in 〜くない , we'll need to take an extra step to add 〜そう. After removing the final 〜い, we'll add さ before そう"
+    },
+    {
+      "type": "formula",
+      "japanese": "おいしくない (not delicious) + さ + そう = おいしくなさそう (looks not-delicious)",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "おいしくな い (not delicious) + さ + そう = おいしくな さそう (looks not-delicious)"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜さそう is also used when putting いい (good) into this form, even in the positive. Because the stem of いい is よ, you'll need to say よさそう to tell someone \"that looks good\"."
+    },
+    {
+      "type": "paragraph",
+      "text": "To use 〜そう in the negative with な-adjectives, you'll have to add 〜そう to the negative marker じゃない . Just like with negative い-adjectives, you'll use 〜さそう in this case too:"
+    },
+    {
+      "type": "formula",
+      "japanese": "便利（べんり）じゃない (inconvenient) ＋ さ + そう ＝ 便利（べんり）じゃなさそう (looks inconvenient)",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "便利（べんり）じゃな い (inconvenient) ＋ さ + そう ＝ 便利（べんり）じゃな さそう (looks inconvenient)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "type": "paragraph",
+      "text": "Politeness in Japanese is marked at the end of a sentence with forms like です . You can add です after 〜そう to level-up your politeness:"
+    },
+    {
+      "type": "example",
+      "japanese": "おいしそうです。",
+      "english": "It looks delicious."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most simple sentence you can form with 〜そう is to simply use it alone:"
+    },
+    {
+      "type": "example",
+      "japanese": "おいしそう。",
+      "english": "It looks delicious."
+    },
+    {
+      "type": "paragraph",
+      "text": "Once 〜そう has been attached to a word, it functions like a な-adjective. This has an interesting implication for い-adjectives: For you can use words that typically cannot come after い-adjectives if they end in 〜そう. For example, you can add じゃない after おいしそう as an alternative to おいしくなさそう:"
+    },
+    {
+      "type": "example",
+      "japanese": "おいしそうじゃない。",
+      "english": "It doesn’t look delicious."
+    },
+    {
+      "type": "paragraph",
+      "text": "Using 〜そうじゃない instead of 〜なさそう gives a slightly softer and less direct nuance."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use だ after an い-adjective ending in 〜そう to add a stronger nuance:"
+    },
+    {
+      "type": "example",
+      "japanese": "おいしそうだ。",
+      "english": "It looks delicious!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Like other な-adjectives, we can attach adjectives in the 〜そう form to the beginning of nouns by adding な:"
+    },
+    {
+      "type": "example",
+      "japanese": "おいしそうなケーキだね！",
+      "english": "That’s a delicious-looking cake!"
+    },
+    {
+      "type": "paragraph",
+      "text": "And we can even turn it into an adverb with に :"
+    },
+    {
+      "type": "example",
+      "japanese": "おいしそうに食（た）べています。",
+      "english": "They look like they’re eating enjoyably."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "uses",
+      "text": "Uses"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-interpreting-things-we-can-see",
+      "text": "〜そう for Interpreting Things We Can See"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use this form to explain what you think is a characteristic of something or someone, based on what you can see at that moment. This is something that we think—but don’t know—is true, based on the information in front of our eyes."
+    },
+    {
+      "type": "example",
+      "japanese": "あのアパート、狭（せま）そう。",
+      "english": "That apartment looks small."
+    },
+    {
+      "type": "example",
+      "japanese": "あの人（ひと）、優（やさ）しそう。",
+      "english": "That person looks kind!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-interpreting-information-were-given",
+      "text": "〜そう for Interpreting Information We're Given"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use 〜そう in situations where you are assuming something is true based on information you've been given, even if it isn't visual information. Imagine, for example, that your friend in Okinawa tells you she doesn't have air conditioning in her room:"
+    },
+    {
+      "type": "example",
+      "japanese": "エアコン持（も）ってないの？ええ〜、部屋（へや）暑（あつ）そう。",
+      "english": "You don’t have air conditioning? Wow, your room must get hot."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you're not actually looking at your friend's room, but imagining what it must be like based on what they've told you."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have come across a very similar construction, where you add 〜そう to an い-adjective without removing the 〜い, for example おいしいそう. In this case you are no longer interpreting information yourself, but is reporting what you have heard. So if you want to say something looks delicious, rather than you've heard it's delicious, be careful to keep your い nice and short!"
+    },
+    {
+      "type": "example",
+      "japanese": "あのケーキ、おいしそうです。",
+      "english": "That cake looks delicious."
+    },
+    {
+      "type": "example",
+      "japanese": "あのケーキ、おいしいそうです。",
+      "english": "I've heard that cake is delicious."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "When 〜そう is attached to an adjective, it has a similar use to \"looks\" in English, as in \"looks delicious\". It is used to make a speculative statement based on evidence that you can see or have heard from someone. 〜そう can also be attached to verbs to give a similar meaning.",
+    "To put an い-adjective into this form, simply remove the 〜い from the end and add 〜そう:",
+    "おいし い (delicious) + そう = おいし そう (looks delicious)",
+    "Putting a な-adjective into this form is very simple as well. Simply add 〜そう to the end of the adjective:",
+    "便利（べんり） (convenient) ＋ そう ＝ 便利（べんり）そう (looks convenient)",
+    "For negative い-adjectives ending in 〜くない , we'll need to take an extra step to add 〜そう. After removing the final 〜い, we'll add さ before そう",
+    "おいしくな い (not delicious) + さ + そう = おいしくな さそう (looks not-delicious)",
+    "〜さそう is also used when putting いい (good) into this form, even in the positive. Because the stem of いい is よ, you'll need to say よさそう to tell someone \"that looks good\".",
+    "To use 〜そう in the negative with な-adjectives, you'll have to add 〜そう to the negative marker じゃない . Just like with negative い-adjectives, you'll use 〜さそう in this case too:",
+    "便利（べんり）じゃな い (inconvenient) ＋ さ + そう ＝ 便利（べんり）じゃな さそう (looks inconvenient)",
+    "Politeness in Japanese is marked at the end of a sentence with forms like です . You can add です after 〜そう to level-up your politeness:",
+    "The most simple sentence you can form with 〜そう is to simply use it alone:",
+    "Once 〜そう has been attached to a word, it functions like a な-adjective. This has an interesting implication for い-adjectives: For you can use words that typically cannot come after い-adjectives if they end in 〜そう. For example, you can add じゃない after おいしそう as an alternative to おいしくなさそう:",
+    "Using 〜そうじゃない instead of 〜なさそう gives a slightly softer and less direct nuance.",
+    "You can also use だ after an い-adjective ending in 〜そう to add a stronger nuance:",
+    "Like other な-adjectives, we can attach adjectives in the 〜そう form to the beginning of nouns by adding な:",
+    "And we can even turn it into an adverb with に :",
+    "You can use this form to explain what you think is a characteristic of something or someone, based on what you can see at that moment. This is something that we think—but don’t know—is true, based on the information in front of our eyes.",
+    "You can also use 〜そう in situations where you are assuming something is true based on information you've been given, even if it isn't visual information. Imagine, for example, that your friend in Okinawa tells you she doesn't have air conditioning in her room:",
+    "In this case, you're not actually looking at your friend's room, but imagining what it must be like based on what they've told you.",
+    "You may have come across a very similar construction, where you add 〜そう to an い-adjective without removing the 〜い, for example おいしいそう. In this case you are no longer interpreting information yourself, but is reporting what you have heard. So if you want to say something looks delicious, rather than you've heard it's delicious, be careful to keep your い nice and short!"
+  ],
+  "examples": [
+    {
+      "japanese": "おいしそうです。",
+      "english": "It looks delicious."
+    },
+    {
+      "japanese": "おいしそう。",
+      "english": "It looks delicious."
+    },
+    {
+      "japanese": "おいしそうじゃない。",
+      "english": "It doesn’t look delicious."
+    },
+    {
+      "japanese": "おいしそうだ。",
+      "english": "It looks delicious!"
+    },
+    {
+      "japanese": "おいしそうなケーキだね！",
+      "english": "That’s a delicious-looking cake!"
+    },
+    {
+      "japanese": "おいしそうに食（た）べています。",
+      "english": "They look like they’re eating enjoyably."
+    },
+    {
+      "japanese": "あのアパート、狭（せま）そう。",
+      "english": "That apartment looks small."
+    },
+    {
+      "japanese": "あの人（ひと）、優（やさ）しそう。",
+      "english": "That person looks kind!"
+    },
+    {
+      "japanese": "エアコン持（も）ってないの？ええ〜、部屋（へや）暑（あつ）そう。",
+      "english": "You don’t have air conditioning? Wow, your room must get hot."
+    },
+    {
+      "japanese": "あのケーキ、おいしそうです。",
+      "english": "That cake looks delicious."
+    },
+    {
+      "japanese": "あのケーキ、おいしいそうです。",
+      "english": "I've heard that cake is delicious."
+    },
+    {
+      "japanese": "おいしい (delicious) + そう = おいしそう (looks delicious)",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "便利（べんり） (convenient) ＋ そう ＝ 便利（べんり）そう (looks convenient)",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "おいしくない (not delicious) + さ + そう = おいしくなさそう (looks not-delicious)",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "便利（べんり）じゃない (inconvenient) ＋ さ + そう ＝ 便利（べんり）じゃなさそう (looks inconvenient)",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜そう"
+    },
+    {
+      "level": 3,
+      "id": "negative-",
+      "text": "Negative 〜そう"
+    },
+    {
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 2,
+      "id": "uses",
+      "text": "Uses"
+    },
+    {
+      "level": 3,
+      "id": "for-interpreting-things-we-can-see",
+      "text": "〜そう for Interpreting Things We Can See"
+    },
+    {
+      "level": 3,
+      "id": "for-interpreting-information-were-given",
+      "text": "〜そう for Interpreting Information We're Given"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 2,
+  "slug": "adjective-sou",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/adjective-sou/",
+  "categories": [
+    "Adjective Form"
+  ]
+}

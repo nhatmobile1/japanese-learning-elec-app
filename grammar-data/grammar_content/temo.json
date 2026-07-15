@@ -1,0 +1,162 @@
+{
+  "title": "〜ても (Even If)",
+  "description": "〜ても attaches to the て form to mean \"even if\" or \"even though\" — the first action or condition does not prevent the second. It is the neutral concessive: no blame, no frustration, just \"A, but B happens anyway.\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the て form of a verb and add も to get 〜ても: 食（た）べる → 食（た）べて → 食（た）べても (\"even if I eat\"). With verbs whose て form is で, it becomes でも: 飲（の）む → 飲（の）んで → 飲（の）んでも. The clause after it happens regardless of the first — A does not stop B."
+    },
+    {
+      "type": "formula",
+      "japanese": "て form ＋ も （でも）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "お金（かね）がなくても、新（あたら）しいiPhoneを買（か）います。",
+      "english": "Even if I don't have money, I'll buy a new iPhone."
+    },
+    {
+      "type": "example",
+      "japanese": "10時（じ）にクラスがあっても、9時（じ）50分（ぷん）に起（お）きます。",
+      "english": "Even if I have class at 10, I get up at 9:50."
+    },
+    {
+      "type": "example",
+      "japanese": "年上（としうえ）が間違（まちが）えても、年下（としした）は言（い）い返（かえ）さない。",
+      "english": "Even if an older person is wrong, the younger one doesn't talk back."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "nouns-and-adjectives",
+      "text": "With Nouns and Adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "い-adjectives drop the final い and add くても: 難（むずか）しい → 難（むずか）しくても. Nouns and な-adjectives take でも: 虫（むし） → 虫（むし）でも, 嫌（きら）い → 嫌（きら）いでも. The meaning is the same \"even if / even though.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "い-adj （－い）＋ くても　／　Noun・な-adj ＋ でも",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）が難（むずか）しくても、まだ勉強（べんきょう）します。",
+      "english": "Even if Japanese is hard, I'll keep studying."
+    },
+    {
+      "type": "example",
+      "japanese": "仕事（しごと）が嫌（きら）いでも、明日（あした）仕事（しごと）に行（い）きます。",
+      "english": "Even if I hate my job, I'm going to work tomorrow."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）が虫（むし）でも、あなたは私（わたし）を愛（あい）してくれますか。",
+      "english": "Even if I were a bug, would you still love me?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "no-matter",
+      "text": "No Matter … (Question Word ＋ ても)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pair 〜ても with a question word (何（なに）, 誰（だれ）, いくら, 何度（なんど）) to mean \"no matter what / who / how much / how many times.\" The outcome holds regardless of the variable."
+    },
+    {
+      "type": "example",
+      "japanese": "何度（なんど）言（い）っても、彼（かれ）は聞（き）かない。",
+      "english": "No matter how many times I say it, he doesn't listen."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't mix up 〜ても with 〜のに. Both can translate as \"even though,\" but 〜ても is neutral and works for hypotheticals (\"even if\"), while 〜のに carries frustration or surprise about something that actually happened. お金（かね）がなくても買（か）う = \"even if I have no money, I'll buy it\" (a stance); お金（かね）がないのに買（か）う = \"I'm buying it even though I have no money\" (and that's foolish)."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "て form ＋ も （でも）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "お金（かね）がなくても、新（あたら）しいiPhoneを買（か）います。",
+      "english": "Even if I don't have money, I'll buy a new iPhone."
+    },
+    {
+      "japanese": "10時（じ）にクラスがあっても、9時（じ）50分（ぷん）に起（お）きます。",
+      "english": "Even if I have class at 10, I get up at 9:50."
+    },
+    {
+      "japanese": "年上（としうえ）が間違（まちが）えても、年下（としした）は言（い）い返（かえ）さない。",
+      "english": "Even if an older person is wrong, the younger one doesn't talk back."
+    },
+    {
+      "japanese": "い-adj （－い）＋ くても　／　Noun・な-adj ＋ でも",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "日本語（にほんご）が難（むずか）しくても、まだ勉強（べんきょう）します。",
+      "english": "Even if Japanese is hard, I'll keep studying."
+    },
+    {
+      "japanese": "仕事（しごと）が嫌（きら）いでも、明日（あした）仕事（しごと）に行（い）きます。",
+      "english": "Even if I hate my job, I'm going to work tomorrow."
+    },
+    {
+      "japanese": "私（わたし）が虫（むし）でも、あなたは私（わたし）を愛（あい）してくれますか。",
+      "english": "Even if I were a bug, would you still love me?"
+    },
+    {
+      "japanese": "何度（なんど）言（い）っても、彼（かれ）は聞（き）かない。",
+      "english": "No matter how many times I say it, he doesn't listen."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "nouns-and-adjectives",
+      "text": "With Nouns and Adjectives"
+    },
+    {
+      "level": 2,
+      "id": "no-matter",
+      "text": "No Matter … (Question Word ＋ ても)"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1013,
+  "slug": "temo",
+  "categories": [
+    "Conditional",
+    "Verb Form"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

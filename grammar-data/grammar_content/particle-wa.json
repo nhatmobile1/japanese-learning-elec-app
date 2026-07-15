@@ -1,0 +1,1406 @@
+{
+  "title": "Particle は",
+  "description": "は marks the topic of a clause, sentence, or paragraph. It creates focus as well as a nuance of contrast with other potential topics.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle は is attached after a word (or a group of words) to show that it is the \"topic\" of the phrase, sentence, or paragraph. A topic is the theme of the conversation, and is always something that the speaker believes to be in the listener's consciousness, or believes that the listener can identify."
+    },
+    {
+      "type": "paragraph",
+      "text": "In fact, は is like a spotlight, shining on the topic and leaving other potential topics in the dark. This is because は creates a nuance of contrast between the topic it picks out and other potential topics, which are left in the shadows, whether those other topics are mentioned or not."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-a-topic-marker",
+      "text": "は as a Topic Marker"
+    },
+    {
+      "type": "paragraph",
+      "text": "In its most basic use, the particle は goes after a noun, or a group of words that works like a noun (a noun phrase) to show that this noun is the topic. It shines a spotlight on that noun, and tells us that it is the theme of our discourse. In terms of meaning, は is the rough equivalent of \"as for\" in English, but は is used far more frequently than \"as for.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the topic is always something that is supposed to be already in the listener's consciousness, the emphasis is on the information about the topic — which is the new information — rather than that topic itself."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, in the sentence below, 日本語（にほんご） (Japanese) is something the listener is already aware of, but the fact that it's 面白（おもしろ）い (interesting) is considered to be the new information, or the information we want to focus on:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）はおもしろい。",
+      "english": "Japanese is interesting. (Literally: As for Japanese, it's interesting.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a pretty special feature of Japanese, as there are very few languages in the world that have a specific grammatical way to pick out a topic. Since most languages don't indicate topics directly, it can be hard for the rest of us to pin down exactly what the concept of topic involves. Let's have a look at some examples to make this concept more concrete."
+    },
+    {
+      "type": "example",
+      "japanese": "これは何（なに）ですか。",
+      "english": "What's this?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, これ (this) is the topic. If someone says this to us, we would already know what これ refers to from the context. Maybe the person speaking is pointing to an object, making it clear that it's what they're talking about, or maybe they're holding something up to show you as they speak. Somehow or other, you should know what これ is from context, just as you would if someone said \"What's this?\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "What about this next sentence? Can you spot the topic?"
+    },
+    {
+      "type": "example",
+      "japanese": "夏（なつ）は日本（にっぽん）へ行（い）くつもりです。",
+      "english": "I plan to go to Japan in the summer."
+    },
+    {
+      "type": "paragraph",
+      "text": "That's right, it's 夏（なつ） (summer) — because that's what comes directly before は. So 夏（なつ） is our topic here. In this case, the concept of summer is something that everyone knows about. So, like これ in the previous example, 夏（なつ） is the established information, whereas what comes next is the important bit. Whoever said this sentence assumed that the people listening didn't previously know that they were planning to go to Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "What about if we were to flip this around, and assume that we know the person is going to Japan, but we don't know when? Then \"summer\" would be the new information, and \"going to Japan\" would be the topic:"
+    },
+    {
+      "type": "example",
+      "japanese": "[日本（にっぽん）へ行（い）くの]はいつですか。",
+      "english": "When is it [that you're going to Japan]?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example the whole phrase 日本（にっぽん）へ行（い）く(go to Japan) has been turned into a noun thanks to the particle の, and is being used as the topic."
+    },
+    {
+      "type": "paragraph",
+      "text": "We mentioned earlier that は implies a contrast with other topics. Just like \"as for\" in English, though, this contrast is on a sliding scale, depending on intonation, and other factors. In the examples we've seen so far, there is not necessarily a strong nuance of contrast."
+    },
+    {
+      "type": "paragraph",
+      "text": "So when is this nuance definitely present, regardless of intonation? One factor is how unusual it feels to use は in a particular sentence. For example, in the following sentence, コーヒー (coffee) is the object — it's on the receiving end of the action 飲（の）む (drink). So, in the example below, particle を goes after コーヒー to pick it out as the object:"
+    },
+    {
+      "type": "example",
+      "japanese": "コーヒーを飲（の）みますか。",
+      "english": "Do you drink coffee?"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if you were to make コーヒー the topic, that's a little unexpected:"
+    },
+    {
+      "type": "example",
+      "japanese": "コーヒーは飲（の）みますか。",
+      "english": "Do you drink coffee? (Literally: As for coffee, do you drink it?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Therefore, there's more of a feeling here that we're shining our spotlight on the coffee, but that there are other possible drinks lurking in the shadows. So maybe you've been talking about tea, and now you're moving the conversation on to coffee. Or maybe you want to offer your friend coffee, but also want to imply that there are other options available!"
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll go into this in a little more depth further down this page."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-contrasting-two-topics",
+      "text": "は for Contrasting Two Topics"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also have two topics in a sentence, in which case the nuance of contrast is generally pretty strong:"
+    },
+    {
+      "type": "example",
+      "japanese": "東京（とうきょう）は物価（ぶっか）が高（たか）いけど、田舎（いなか）は物価（ぶっか）が安（やす）い。",
+      "english": "Tokyo has a high cost of living, but the countryside has a low cost of living."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here you can imagine two spotlights, one highlighting 東京（とうきょう） (Tokyo) and the other 田舎（いなか） (the countryside), as we compare the cost of living of the two."
+    },
+    {
+      "type": "paragraph",
+      "text": "The second topic can also be implied, but not actually stated explicitly."
+    },
+    {
+      "type": "example",
+      "japanese": "東京（とうきょう）は物価（ぶっか）が高（たか）いけど・・・",
+      "english": "Tokyo has a high cost of living…"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you'll often be able to guess the second topic from context or prior knowledge."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with--adjectives",
+      "text": "は with い-Adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "は can also be added to the middle of the negative form of い-adjectives to add emphasis. So for example, if we want to say that something isn't difficult in a neutral way, we'd take the negative form of the adjective 難（むずか）しい (difficult):"
+    },
+    {
+      "type": "example",
+      "japanese": "難（むずか）しくない。",
+      "english": "It's not difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "If, however, we slip the particle は in between the く form of the adjective and the ない ending, we end up with this:"
+    },
+    {
+      "type": "example",
+      "japanese": "難（むずか）しくはない。",
+      "english": "It's not (exactly) difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here we add a nuance that while this thing is difficult, that's not the whole story. You can imagine the speaker might continue with something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "難（むずか）しくはないけど、ただ時間（じかん）がかかる。",
+      "english": "It's not (exactly) difficult, it's just time-consuming."
+    },
+    {
+      "type": "paragraph",
+      "text": "This works just as well in more formal language, too:"
+    },
+    {
+      "type": "example",
+      "japanese": "難（むずか）しくはありませんが、時間（じかん）がかかります。",
+      "english": "It's not (exactly) difficult, it's just time-consuming."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether or not the speaker does continue like this, or simply leaves you to guess from context, all depends on how obvious they think it is!"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also make the adjective positive by switching out the ない for its positive equivalent ある:"
+    },
+    {
+      "type": "example",
+      "japanese": "難（むずか）しくはある。",
+      "english": "It is difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, there is that same nuance that we don't have the whole story. Perhaps the implication is that it's difficult, but fun or rewarding. This could be left unsaid, or explicitly stated:"
+    },
+    {
+      "type": "example",
+      "japanese": "難（むずか）しくはあるけど、おもしろい。",
+      "english": "It is difficult, but it's also fun."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-nouns-and--adjectives",
+      "text": "は with Nouns and な-Adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "は can be also added to the middle of the negative form of nouns and な-adjective, to very similar effect. Here's an example with the な-adjective 有名（ゆうめい） (famous):"
+    },
+    {
+      "type": "example",
+      "japanese": "有名（ゆうめい）ではない。",
+      "english": "They're not (exactly) famous."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, you can imagine the speaker might continue with something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "有名（ゆうめい）ではないが、人気（にんき）はある。",
+      "english": "They're not (exactly) famous, but they are popular."
+    },
+    {
+      "type": "paragraph",
+      "text": "And here's an example with a noun, and in a more polite form:"
+    },
+    {
+      "type": "example",
+      "japanese": "先生（せんせい）ではありませんが、説明（せつめい）が上手（じょうず）な人（ひと）です。",
+      "english": "They're not (actually) a teacher, but they are really good at explaining things."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and-question-words",
+      "text": "は and Question Words"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apart from very specific circumstances, は cannot be used immediately after question words like 誰（だれ） (who), 何（なに） (what), どこ (where), and so on. This is because — as we've already seen — the topic is always something that is in the listener's consciousness. The very nature of question words is that they are asking about unknown information. If we know, we wouldn't ask the question, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "So, depending on their role in the sentence, question words may be followed by が , を, etc, but (almost) never は."
+    },
+    {
+      "type": "example",
+      "japanese": "誰（だれ）がいましたか。",
+      "english": "Who was there?"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's common to answer a question with は, though:"
+    },
+    {
+      "type": "example",
+      "japanese": "誰（だれ）が山田（やまだ）さんですか。",
+      "english": "Who is Yamada-san?"
+    },
+    {
+      "type": "example",
+      "japanese": "山田（やまだ）さんはあの人（ひと）です。",
+      "english": "That's Yamada-san. (Literally: Yamada-san is that person.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, we've flipped around the answer to make Yamada-san our topic. Since Yamada-san is familiar from the context, it's okay to use them as the topic!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-combination-with-other-particles",
+      "text": "は in Combination with Other Particles"
+    },
+    {
+      "type": "paragraph",
+      "text": "は can be combined with some other particles to make compound particles. However, it cannot be combined with が, を or も:"
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）が吠（ほ）えた。",
+      "english": "A dog barked."
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）は吠（ほ）えた。",
+      "english": "The dog barked."
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）を見（み）た。",
+      "english": "I saw a/the dog."
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）は見（み）た。",
+      "english": "I saw a/the dog."
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）もいた。",
+      "english": "A/The dog was there too."
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）はいた。",
+      "english": "A/The dog was there."
+    },
+    {
+      "type": "paragraph",
+      "text": "は can either \"replace\" に or become には:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にっぽん）に行（い）ったことがある。",
+      "english": "I've been to Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "This sentence sounds like a neutral statement, with no implication that you're making or implying a comparison. You're simply stating the fact that you've been to Japan."
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にっぽん）には行（おこな）ったことがある。",
+      "english": "I've been to Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "By adding は to に, you can add the feeling of comparison that は brings. So you've been to Japan, but maybe you haven't been to Korea, for example."
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にっぽん）は行（おこな）ったことがある。",
+      "english": "I've been to Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also simply replace に with は, to similar effect. Whether you use には or は very often comes down to personal preference, with は alone sounding more casual."
+    },
+    {
+      "type": "paragraph",
+      "text": "For all other particles, は is simply combined to make compound particles, such as では and とは. In this case, は always goes last, and adds the usual nuance of shining a spotlight on the topic."
+    },
+    {
+      "type": "example",
+      "japanese": "台所（だいどころ）で犬（いぬ）が吠（ほ）えています。",
+      "english": "The dog is barking in the kitchen."
+    },
+    {
+      "type": "example",
+      "japanese": "台所（だいどころ）では犬（いぬ）が吠（ほ）えています。",
+      "english": "The dog is barking in the kitchen."
+    },
+    {
+      "type": "paragraph",
+      "text": "While the first example is neutral, the は in the second sentence adds a slight nuance of contrast, as though we're shining our spotlight on the kitchen and picking it out as the stage of the action."
+    },
+    {
+      "type": "example",
+      "japanese": "弟（おとうと）と映画（えいが）館（かん）に行（い）きました。",
+      "english": "I went to the movies with my younger brother."
+    },
+    {
+      "type": "example",
+      "japanese": "弟（おとうと）とは映画（えいが）館（かん）に行（い）きました。",
+      "english": "I went to the movies with my younger brother."
+    },
+    {
+      "type": "paragraph",
+      "text": "The は in the second sentence above generally adds quite a bit of contrast here. This implication is that you went with your younger brother, but we don't know who else you did or didn't go with. The spotlight is on your brother."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-contrast",
+      "text": "は for Contrast"
+    },
+    {
+      "type": "paragraph",
+      "text": "As we mentioned before, there's always a pinch of contrast with は, because we’re always saying “I don’t know about that other stuff outside this spotlight, but as for my topic…”. But as we've already seen, the strength of the contrast depends on certain factors, such as the nature of the topic, and (in speaking) how much the topic and は are stressed. Let's look at this in a little more detail."
+    },
+    {
+      "type": "paragraph",
+      "text": "You remember how if は follows something that we wouldn’t expect to be the topic, the contrast is greater? Let's look at a few more examples of what we mean by this."
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）が好（す）きです。",
+      "english": "I like Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's pretty standard for が to be used after 日本語（にほんご） (Japanese) here because 日本語（にほんご） can be considered the subject of the adjective 好（す）き (likeable). So what if we make 日本語（にほんご） our topic instead?"
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）は好（す）きです。",
+      "english": "I like Japanese (but maybe I don't like other languages/subjects)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whereas the particle が excludes other subjects and focuses on Japanese exclusively, は gives us the impression that we've contrasting Japanese with other possible topics — maybe other languages, or maybe other subjects in general. So you might be implying that you like Japanese but you don't like other languages, or that you like Japanese but not math."
+    },
+    {
+      "type": "paragraph",
+      "text": "As we saw above, this nuance of contrast is even more marked if we make an object the topic. So if we say the following, it's neutral:"
+    },
+    {
+      "type": "example",
+      "japanese": "お肉（にく）を食（た）べない。",
+      "english": "I don't eat meat."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if we say the following, we're implying something else that we do eat, and contrasting it with meat:"
+    },
+    {
+      "type": "example",
+      "japanese": "お肉（にく）は食（た）べない。",
+      "english": "I don't eat meat, (but…)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe you don't eat meat, but you do eat fish:"
+    },
+    {
+      "type": "example",
+      "japanese": "お肉（にく）は食（た）べないけど魚（さかな）は食（た）べるよ。",
+      "english": "I don't eat meat, but I do eat fish."
+    },
+    {
+      "type": "paragraph",
+      "text": "Or maybe you don't eat meat, but you do drink beer. Who knows? 🍻"
+    },
+    {
+      "type": "example",
+      "japanese": "お肉（にく）は食（た）べないけどビールは飲（の）むよ。",
+      "english": "I don't eat meat, but I do drink beer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another indicator of how much contrast is involved is stress and intonation. This is pretty similar to English in most situations."
+    },
+    {
+      "type": "example",
+      "japanese": "これはおいしいよ。",
+      "english": "This is delicious."
+    },
+    {
+      "type": "example",
+      "japanese": "これはおいしいよ。",
+      "english": "This is delicious."
+    },
+    {
+      "type": "paragraph",
+      "text": "The feeling of contrast can also be increased with a pause after the は when speaking, which is generally shown as a comma in writing:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）は、好（す）き。",
+      "english": "I like Japanese (but…)"
+    },
+    {
+      "type": "example",
+      "japanese": "お肉（にく）は、食（た）べない。",
+      "english": "I don't eat meat (but…)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-hesitating-when-speaking",
+      "text": "は for Hesitating When Speaking"
+    },
+    {
+      "type": "paragraph",
+      "text": "は is often used to buy time when speaking, to give us a chance to think about what we want to say. To do this, it is often combined with the particle ね."
+    },
+    {
+      "type": "example",
+      "japanese": "お寿司（すし）は好（す）きですか。",
+      "english": "Do you like sushi?"
+    },
+    {
+      "type": "example",
+      "japanese": "お寿司（すし）はね…",
+      "english": "Hmm, sushi…"
+    },
+    {
+      "type": "paragraph",
+      "text": "ね isn't obligatory though. You can also simply pause after introducing your topic, to give you time to think:"
+    },
+    {
+      "type": "example",
+      "japanese": "お寿司（すし）は…",
+      "english": "Hmm, sushi…"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "when--is-replaced-with-a-comma",
+      "text": "When は is Replaced with a Comma"
+    },
+    {
+      "type": "paragraph",
+      "text": "は can be replaced with a comma in writing. The comma has a similar effect to は, but any notion of comparison (or other nuance) is softened. This is very common with time phrases such as 来週（らいしゅう） (next week), 先月（せんげつ） (last month), or 今年（ことし） (this year):"
+    },
+    {
+      "type": "example",
+      "japanese": "今年（ことし）は日本（にっぽん）に行（い）くんです。",
+      "english": "This year I'm going to Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, the implication may be that I haven't managed it in previous years, but, as for this year, I'm going to Japan. If we remove は, the implication of contrast is reduced, and so the sentence leans towards a more neutral interpretation:"
+    },
+    {
+      "type": "example",
+      "japanese": "今年（ことし）、日本（にっぽん）に行（い）くんです。",
+      "english": "This year I'm going to Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although this is common with time phrases, it's also possible with topics that aren't time phrases:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）、面白（おもしろ）い。",
+      "english": "Japanese is interesting."
+    },
+    {
+      "type": "example",
+      "japanese": "少（すこ）し、食（た）べました。",
+      "english": "I ate a little."
+    },
+    {
+      "type": "paragraph",
+      "text": "In speaking, you can simply pause where the comma is, and this generally creates the same effect!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-changing-scenes",
+      "text": "は for Changing Scenes"
+    },
+    {
+      "type": "paragraph",
+      "text": "は can be used both in conversation and in writing to create a change of scene. By repeating the topic when it's already obvious to the audience, the speaker shines the spotlight back onto that topic and shows that for some reason there is a break in the storyline or a shift in the dialogue."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the following example, the speaker is describing how her elder brother helped her with her homework yesterday:"
+    },
+    {
+      "type": "example",
+      "japanese": "昨日（きのう）はお兄（にい）ちゃんが勉強（べんきょう）を教（おし）えてくれた。まず、英語（えいご）の勉強（べんきょう）を教（おし）えてくれて、それから国語（こくご）の勉強（べんきょう）だった。でも、算数（さんすう）の宿題（しゅくだい）をしている途中（とちゅう）に、お兄（にい）ちゃんはゲームを始（はじ）めた。",
+      "english": "Yesterday, my big brother helped me study. To start with, he helped me with English, and then with Japanese. But he started playing a game while we were in the middle of doing my math homework."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first mention of お兄（にい）ちゃん (big brother) is followed by が, because he's being introduced into the dialogue for the first time. But then お兄（にい）ちゃん is mentioned again, followed by は, when he switches to a different action. This is unnecessary, because it's still obvious that we're talking about the big brother, but it serves to highlight the transition from teaching, to playing a game. It would be perfectly natural not to mention the topic here at all, so the fact that お兄（にい）ちゃん is explicitly mentioned again creates this feeling that we are changing scenes in the story. This change of scene effect can be found in both speaking and writing. By repeating the topic when it's already obvious to the audience, the speaker shines the spotlight back onto that topic and shows that for some reason there is a break in the storyline or a shift in the dialogue."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-relative-clauses",
+      "text": "は in Relative Clauses"
+    },
+    {
+      "type": "paragraph",
+      "text": "は is used less in relative clauses than が, but it is still possible under certain circumstances, and to add certain nuances. Look at this example from the children's story どうぞのいす:"
+    },
+    {
+      "type": "example",
+      "japanese": "はちみつの びんを かごに い���て いきました。[そんな ことは しらない] ろばさんは くう くう おひるね。",
+      "english": "The bear put a jar of honey into basket and left. Unaware of all this, the donkey kept on sleeping."
+    },
+    {
+      "type": "paragraph",
+      "text": "It would be more neutral to use を in the relative clause そんな ことは しらない, so why has the author gone for は? By shining the spotlight on そんなこと the author is emphasizing that the donkey is sleeping soundly, completely unaware of what's going on."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since it's also possible to use の in relative clauses, there are three possible ways to render a sentence like \"I was accepted by the school that Jenny failed to get into.\""
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーの落（お）ちた学校（がっこう）に私（わたし）は受（う）かった。ジェニーが落（お）ちた学校（がっこう）に私（わたし）は受（う）かった。ジェニーは落（お）ちた学校（がっこう）に私（わたし）は受（う）かった。",
+      "english": "I was accepted by the school that Jenny failed to get into."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, it's worth noting that は can only be used in this way if there is some kind of contrast implied, like in the sentences above. It the relative clause is simply describing the noun, with no nuance of contrast, only の and が can be used:"
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーの落（お）ちた学校（がっこう）に私（わたし）も落（お）ちた。ジェニーが落（お）ちた学校（がっこう）に私（わたし）も落（お）ちた。 ❌ ジェニーは落（お）ちた学校（がっこう）に私（わたし）も落（お）ちた。",
+      "english": "I also failed to get into the school that Jenny failed to get into."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Vocabulary"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "日本語（にほんご） (にほんご) — Japanese (noun)"
+        ],
+        [
+          "面白（おもしろ）い (おもしろい) — interesting (い-adjective / non-past tense)"
+        ],
+        [
+          "何（なに） (なん, なに) — what (pronoun)"
+        ],
+        [
+          "夏（なつ） (なつ) — summer (noun)"
+        ],
+        [
+          "日本（にっぽん） (にほん) — Japan (proper noun)"
+        ],
+        [
+          "行（い）く (いく) — to go (godan verb / non-past tense)"
+        ],
+        [
+          "つもり (つもり) — plan, intention (noun)"
+        ],
+        [
+          "いつ (いつ) — when (pronoun)"
+        ],
+        [
+          "コーヒー (こーひー) — coffee (noun)"
+        ],
+        [
+          "飲（の）みます (のみます) — to drink (godan verb / polite form / non-past tense)"
+        ],
+        [
+          "東京（とうきょう） (とうきょう) — Tokyo (proper noun)"
+        ],
+        [
+          "物価（ぶっか） (ぶっか) — prices, cost of living (noun)"
+        ],
+        [
+          "高（たか）い (たかい) — high, expensive (い-adjective / non-past tense)"
+        ],
+        [
+          "田舎（いなか） (いなか) — countryside (noun)"
+        ],
+        [
+          "安（やす）い (やすい) — cheap, inexpensive (い-adjective / non-past tense)"
+        ],
+        [
+          "難（むずか）しくない (むずかしくない) — not difficult (い-adjective / negative form / non-past tense)"
+        ],
+        [
+          "ただ (ただ) — just (adverb)"
+        ],
+        [
+          "時間（じかん） (じかん) — time (noun)"
+        ],
+        [
+          "かかる (かかる) — to take (godan verb / non-past tense)"
+        ],
+        [
+          "有名（ゆうめい） (ゆうめい) — famous (な-adjective)"
+        ],
+        [
+          "人気（にんき） (にんき) — popular (な-adjective)"
+        ],
+        [
+          "先生（せんせい） (せんせい) — teacher (noun)"
+        ],
+        [
+          "説明（せつめい） (せつめい) — explanation (noun)"
+        ],
+        [
+          "上手（じょうず） (じょうず) — good at (な-adjective)"
+        ],
+        [
+          "人（ひと） (ひと) — person (noun)"
+        ],
+        [
+          "誰（だれ） (だれ) — who (pronoun)"
+        ],
+        [
+          "どこ (どこ) — where (pronoun)"
+        ],
+        [
+          "居（い）ました (いました) — had, existed (for animate things) (ichidan verb / polite form / past tense)"
+        ],
+        [
+          "犬（いぬ） (いぬ) — dog (noun)"
+        ],
+        [
+          "吠（ほ）えた (ほえた) — barked (ichidan verb / past tense)"
+        ],
+        [
+          "見（み）た (みた) — saw (ichidan verb / past tense)"
+        ],
+        [
+          "行（い）った (いった) — went (godan verb / past tense)"
+        ],
+        [
+          "台所（だいどころ） (だいどころ) — kitchen (noun)"
+        ],
+        [
+          "弟（おとうと） (おとうと) — younger brother (noun)"
+        ],
+        [
+          "映画（えいが）館（かん） (えいがかん) — movie theatre (noun)"
+        ],
+        [
+          "好（す）き (すき) — like (な-adjective)"
+        ],
+        [
+          "肉（にく） (にく) — meat (noun)"
+        ],
+        [
+          "食（た）べない (たべない) — not eat (ichidan verb / negative form / non-past tense)"
+        ],
+        [
+          "魚（さかな） (さかな) — fish (noun)"
+        ],
+        [
+          "ビール (びーる) — beer (noun)"
+        ],
+        [
+          "美味（おい）しい (おいしい) — delicious (い-adjective / non-past tense)"
+        ],
+        [
+          "寿司（すし） (すし) — sushi (noun)"
+        ],
+        [
+          "今年（ことし） (ことし) — this year (noun)"
+        ],
+        [
+          "少（すこ）し (すこし) — a little (noun)"
+        ],
+        [
+          "昨日（きのう） (きのう) — yesterday (noun)"
+        ],
+        [
+          "お兄（にい）ちゃん (おにいちゃん) — big brother, older brother (noun)"
+        ],
+        [
+          "勉強（べんきょう） (べんきょう) — studies ()"
+        ],
+        [
+          "教（おし）えて (おしえて) — to teach (ichidan verb / te-form)"
+        ],
+        [
+          "先（ま）ず (まず) — first of all, to start with (adverb)"
+        ],
+        [
+          "英語（えいご） (えいご) — English (noun)"
+        ],
+        [
+          "国語（こくご） (こくご) — Japanese (noun)"
+        ],
+        [
+          "算数（さんすう） (さんすう) — math (noun)"
+        ],
+        [
+          "宿題（しゅくだい） (しゅくだい) — homework (noun)"
+        ],
+        [
+          "途中（とちゅう） (とちゅう) — on the way (noun)"
+        ],
+        [
+          "ゲーム (げーむ) — game (noun)"
+        ],
+        [
+          "始（はじ）めた (はじめた) — started (ichidan verb / past tense)"
+        ],
+        [
+          "蜂蜜（はちみつ） (はちみつ) — honey (noun)"
+        ],
+        [
+          "瓶（びん） (びん) — bottle, jar (noun)"
+        ],
+        [
+          "かご (かご) — basket (noun)"
+        ],
+        [
+          "入（い）れて (いれて) — to put in (ichidan verb / te-form)"
+        ],
+        [
+          "知（し）らない (しらない) — not know (godan verb / negative form / non-past tense)"
+        ],
+        [
+          "ろば (ろば) — donkey (noun)"
+        ],
+        [
+          "昼寝（ひるね） (ひるね) — nap (noun)"
+        ],
+        [
+          "落（お）ちた (おちた) — failed (ichidan verb / past tense)"
+        ],
+        [
+          "学校（がっこう） (がっこう) — school (noun)"
+        ],
+        [
+          "受（う）かった (うかった) — accepted, passed (godan verb / past tense)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "The particle は is attached after a word (or a group of words) to show that it is the \"topic\" of the phrase, sentence, or paragraph. A topic is the theme of the conversation, and is always something that the speaker believes to be in the listener's consciousness, or believes that the listener can identify.",
+    "In fact, は is like a spotlight, shining on the topic and leaving other potential topics in the dark. This is because は creates a nuance of contrast between the topic it picks out and other potential topics, which are left in the shadows, whether those other topics are mentioned or not.",
+    "In its most basic use, the particle は goes after a noun, or a group of words that works like a noun (a noun phrase) to show that this noun is the topic. It shines a spotlight on that noun, and tells us that it is the theme of our discourse. In terms of meaning, は is the rough equivalent of \"as for\" in English, but は is used far more frequently than \"as for.\"",
+    "Because the topic is always something that is supposed to be already in the listener's consciousness, the emphasis is on the information about the topic — which is the new information — rather than that topic itself.",
+    "For example, in the sentence below, 日本語（にほんご） (Japanese) is something the listener is already aware of, but the fact that it's 面白（おもしろ）い (interesting) is considered to be the new information, or the information we want to focus on:",
+    "This is a pretty special feature of Japanese, as there are very few languages in the world that have a specific grammatical way to pick out a topic. Since most languages don't indicate topics directly, it can be hard for the rest of us to pin down exactly what the concept of topic involves. Let's have a look at some examples to make this concept more concrete.",
+    "In this example, これ (this) is the topic. If someone says this to us, we would already know what これ refers to from the context. Maybe the person speaking is pointing to an object, making it clear that it's what they're talking about, or maybe they're holding something up to show you as they speak. Somehow or other, you should know what これ is from context, just as you would if someone said \"What's this?\" in English.",
+    "What about this next sentence? Can you spot the topic?",
+    "That's right, it's 夏（なつ） (summer) — because that's what comes directly before は. So 夏（なつ） is our topic here. In this case, the concept of summer is something that everyone knows about. So, like これ in the previous example, 夏（なつ） is the established information, whereas what comes next is the important bit. Whoever said this sentence assumed that the people listening didn't previously know that they were planning to go to Japan.",
+    "What about if we were to flip this around, and assume that we know the person is going to Japan, but we don't know when? Then \"summer\" would be the new information, and \"going to Japan\" would be the topic:",
+    "In this example the whole phrase 日本（にっぽん）へ行（い）く(go to Japan) has been turned into a noun thanks to the particle の, and is being used as the topic.",
+    "We mentioned earlier that は implies a contrast with other topics. Just like \"as for\" in English, though, this contrast is on a sliding scale, depending on intonation, and other factors. In the examples we've seen so far, there is not necessarily a strong nuance of contrast.",
+    "So when is this nuance definitely present, regardless of intonation? One factor is how unusual it feels to use は in a particular sentence. For example, in the following sentence, コーヒー (coffee) is the object — it's on the receiving end of the action 飲（の）む (drink). So, in the example below, particle を goes after コーヒー to pick it out as the object:",
+    "However, if you were to make コーヒー the topic, that's a little unexpected:",
+    "Therefore, there's more of a feeling here that we're shining our spotlight on the coffee, but that there are other possible drinks lurking in the shadows. So maybe you've been talking about tea, and now you're moving the conversation on to coffee. Or maybe you want to offer your friend coffee, but also want to imply that there are other options available!",
+    "We'll go into this in a little more depth further down this page.",
+    "You can also have two topics in a sentence, in which case the nuance of contrast is generally pretty strong:",
+    "Here you can imagine two spotlights, one highlighting 東京（とうきょう） (Tokyo) and the other 田舎（いなか） (the countryside), as we compare the cost of living of the two.",
+    "The second topic can also be implied, but not actually stated explicitly.",
+    "In this case, you'll often be able to guess the second topic from context or prior knowledge.",
+    "は can also be added to the middle of the negative form of い-adjectives to add emphasis. So for example, if we want to say that something isn't difficult in a neutral way, we'd take the negative form of the adjective 難（むずか）しい (difficult):",
+    "If, however, we slip the particle は in between the く form of the adjective and the ない ending, we end up with this:",
+    "Here we add a nuance that while this thing is difficult, that's not the whole story. You can imagine the speaker might continue with something like:",
+    "This works just as well in more formal language, too:",
+    "Whether or not the speaker does continue like this, or simply leaves you to guess from context, all depends on how obvious they think it is!",
+    "You can also make the adjective positive by switching out the ない for its positive equivalent ある:",
+    "In this case, there is that same nuance that we don't have the whole story. Perhaps the implication is that it's difficult, but fun or rewarding. This could be left unsaid, or explicitly stated:",
+    "は can be also added to the middle of the negative form of nouns and な-adjective, to very similar effect. Here's an example with the な-adjective 有名（ゆうめい） (famous):",
+    "Here, you can imagine the speaker might continue with something like:",
+    "And here's an example with a noun, and in a more polite form:",
+    "Apart from very specific circumstances, は cannot be used immediately after question words like 誰（だれ） (who), 何（なに） (what), どこ (where), and so on. This is because — as we've already seen — the topic is always something that is in the listener's consciousness. The very nature of question words is that they are asking about unknown information. If we know, we wouldn't ask the question, right?",
+    "So, depending on their role in the sentence, question words may be followed by が , を, etc, but (almost) never は.",
+    "It's common to answer a question with は, though:",
+    "Here, we've flipped around the answer to make Yamada-san our topic. Since Yamada-san is familiar from the context, it's okay to use them as the topic!",
+    "は can be combined with some other particles to make compound particles. However, it cannot be combined with が, を or も:",
+    "は can either \"replace\" に or become には:",
+    "This sentence sounds like a neutral statement, with no implication that you're making or implying a comparison. You're simply stating the fact that you've been to Japan.",
+    "By adding は to に, you can add the feeling of comparison that は brings. So you've been to Japan, but maybe you haven't been to Korea, for example.",
+    "You can also simply replace に with は, to similar effect. Whether you use には or は very often comes down to personal preference, with は alone sounding more casual.",
+    "For all other particles, は is simply combined to make compound particles, such as では and とは. In this case, は always goes last, and adds the usual nuance of shining a spotlight on the topic.",
+    "While the first example is neutral, the は in the second sentence adds a slight nuance of contrast, as though we're shining our spotlight on the kitchen and picking it out as the stage of the action.",
+    "The は in the second sentence above generally adds quite a bit of contrast here. This implication is that you went with your younger brother, but we don't know who else you did or didn't go with. The spotlight is on your brother.",
+    "As we mentioned before, there's always a pinch of contrast with は, because we’re always saying “I don’t know about that other stuff outside this spotlight, but as for my topic…”. But as we've already seen, the strength of the contrast depends on certain factors, such as the nature of the topic, and (in speaking) how much the topic and は are stressed. Let's look at this in a little more detail.",
+    "You remember how if は follows something that we wouldn’t expect to be the topic, the contrast is greater? Let's look at a few more examples of what we mean by this.",
+    "It's pretty standard for が to be used after 日本語（にほんご） (Japanese) here because 日本語（にほんご） can be considered the subject of the adjective 好（す）き (likeable). So what if we make 日本語（にほんご） our topic instead?",
+    "Whereas the particle が excludes other subjects and focuses on Japanese exclusively, は gives us the impression that we've contrasting Japanese with other possible topics — maybe other languages, or maybe other subjects in general. So you might be implying that you like Japanese but you don't like other languages, or that you like Japanese but not math.",
+    "As we saw above, this nuance of contrast is even more marked if we make an object the topic. So if we say the following, it's neutral:",
+    "But if we say the following, we're implying something else that we do eat, and contrasting it with meat:",
+    "Maybe you don't eat meat, but you do eat fish:",
+    "Or maybe you don't eat meat, but you do drink beer. Who knows? 🍻",
+    "Another indicator of how much contrast is involved is stress and intonation. This is pretty similar to English in most situations.",
+    "The feeling of contrast can also be increased with a pause after the は when speaking, which is generally shown as a comma in writing:",
+    "は is often used to buy time when speaking, to give us a chance to think about what we want to say. To do this, it is often combined with the particle ね.",
+    "ね isn't obligatory though. You can also simply pause after introducing your topic, to give you time to think:",
+    "は can be replaced with a comma in writing. The comma has a similar effect to は, but any notion of comparison (or other nuance) is softened. This is very common with time phrases such as 来週（らいしゅう） (next week), 先月（せんげつ） (last month), or 今年（ことし） (this year):",
+    "Here, the implication may be that I haven't managed it in previous years, but, as for this year, I'm going to Japan. If we remove は, the implication of contrast is reduced, and so the sentence leans towards a more neutral interpretation:",
+    "Although this is common with time phrases, it's also possible with topics that aren't time phrases:",
+    "In speaking, you can simply pause where the comma is, and this generally creates the same effect!",
+    "は can be used both in conversation and in writing to create a change of scene. By repeating the topic when it's already obvious to the audience, the speaker shines the spotlight back onto that topic and shows that for some reason there is a break in the storyline or a shift in the dialogue.",
+    "In the following example, the speaker is describing how her elder brother helped her with her homework yesterday:",
+    "The first mention of お兄（にい）ちゃん (big brother) is followed by が, because he's being introduced into the dialogue for the first time. But then お兄（にい）ちゃん is mentioned again, followed by は, when he switches to a different action. This is unnecessary, because it's still obvious that we're talking about the big brother, but it serves to highlight the transition from teaching, to playing a game. It would be perfectly natural not to mention the topic here at all, so the fact that お兄（にい）ちゃん is explicitly mentioned again creates this feeling that we are changing scenes in the story. This change of scene effect can be found in both speaking and writing. By repeating the topic when it's already obvious to the audience, the speaker shines the spotlight back onto that topic and shows that for some reason there is a break in the storyline or a shift in the dialogue.",
+    "は is used less in relative clauses than が, but it is still possible under certain circumstances, and to add certain nuances. Look at this example from the children's story どうぞのいす:",
+    "It would be more neutral to use を in the relative clause そんな ことは しらない, so why has the author gone for は? By shining the spotlight on そんなこと the author is emphasizing that the donkey is sleeping soundly, completely unaware of what's going on.",
+    "Since it's also possible to use の in relative clauses, there are three possible ways to render a sentence like \"I was accepted by the school that Jenny failed to get into.\"",
+    "However, it's worth noting that は can only be used in this way if there is some kind of contrast implied, like in the sentences above. It the relative clause is simply describing the noun, with no nuance of contrast, only の and が can be used:"
+  ],
+  "examples": [
+    {
+      "japanese": "日本語（にほんご）はおもしろい。",
+      "english": "Japanese is interesting. (Literally: As for Japanese, it's interesting.)"
+    },
+    {
+      "japanese": "これは何（なに）ですか。",
+      "english": "What's this?"
+    },
+    {
+      "japanese": "夏（なつ）は日本（にっぽん）へ行（い）くつもりです。",
+      "english": "I plan to go to Japan in the summer."
+    },
+    {
+      "japanese": "[日本（にっぽん）へ行（い）くの]はいつですか。",
+      "english": "When is it [that you're going to Japan]?"
+    },
+    {
+      "japanese": "コーヒーを飲（の）みますか。",
+      "english": "Do you drink coffee?"
+    },
+    {
+      "japanese": "コーヒーは飲（の）みますか。",
+      "english": "Do you drink coffee? (Literally: As for coffee, do you drink it?)"
+    },
+    {
+      "japanese": "東京（とうきょう）は物価（ぶっか）が高（たか）いけど、田舎（いなか）は物価（ぶっか）が安（やす）い。",
+      "english": "Tokyo has a high cost of living, but the countryside has a low cost of living."
+    },
+    {
+      "japanese": "東京（とうきょう）は物価（ぶっか）が高（たか）いけど・・・",
+      "english": "Tokyo has a high cost of living…"
+    },
+    {
+      "japanese": "難（むずか）しくない。",
+      "english": "It's not difficult."
+    },
+    {
+      "japanese": "難（むずか）しくはない。",
+      "english": "It's not (exactly) difficult."
+    },
+    {
+      "japanese": "難（むずか）しくはないけど、ただ時間（じかん）がかかる。",
+      "english": "It's not (exactly) difficult, it's just time-consuming."
+    },
+    {
+      "japanese": "難（むずか）しくはありませんが、時間（じかん）がかかります。",
+      "english": "It's not (exactly) difficult, it's just time-consuming."
+    },
+    {
+      "japanese": "難（むずか）しくはある。",
+      "english": "It is difficult."
+    },
+    {
+      "japanese": "難（むずか）しくはあるけど、おもしろい。",
+      "english": "It is difficult, but it's also fun."
+    },
+    {
+      "japanese": "有名（ゆうめい）ではない。",
+      "english": "They're not (exactly) famous."
+    },
+    {
+      "japanese": "有名（ゆうめい）ではないが、人気（にんき）はある。",
+      "english": "They're not (exactly) famous, but they are popular."
+    },
+    {
+      "japanese": "先生（せんせい）ではありませんが、説明（せつめい）が上手（じょうず）な人（ひと）です。",
+      "english": "They're not (actually) a teacher, but they are really good at explaining things."
+    },
+    {
+      "japanese": "誰（だれ）がいましたか。",
+      "english": "Who was there?"
+    },
+    {
+      "japanese": "誰（だれ）が山田（やまだ）さんですか。",
+      "english": "Who is Yamada-san?"
+    },
+    {
+      "japanese": "山田（やまだ）さんはあの人（ひと）です。",
+      "english": "That's Yamada-san. (Literally: Yamada-san is that person.)"
+    },
+    {
+      "japanese": "犬（いぬ）が吠（ほ）えた。",
+      "english": "A dog barked."
+    },
+    {
+      "japanese": "犬（いぬ）は吠（ほ）えた。",
+      "english": "The dog barked."
+    },
+    {
+      "japanese": "犬（いぬ）を見（み）た。",
+      "english": "I saw a/the dog."
+    },
+    {
+      "japanese": "犬（いぬ）は見（み）た。",
+      "english": "I saw a/the dog."
+    },
+    {
+      "japanese": "犬（いぬ）もいた。",
+      "english": "A/The dog was there too."
+    },
+    {
+      "japanese": "犬（いぬ）はいた。",
+      "english": "A/The dog was there."
+    },
+    {
+      "japanese": "日本（にっぽん）に行（い）ったことがある。",
+      "english": "I've been to Japan."
+    },
+    {
+      "japanese": "日本（にっぽん）には行（おこな）ったことがある。",
+      "english": "I've been to Japan."
+    },
+    {
+      "japanese": "日本（にっぽん）は行（おこな）ったことがある。",
+      "english": "I've been to Japan."
+    },
+    {
+      "japanese": "台所（だいどころ）で犬（いぬ）が吠（ほ）えています。",
+      "english": "The dog is barking in the kitchen."
+    },
+    {
+      "japanese": "台所（だいどころ）では犬（いぬ）が吠（ほ）えています。",
+      "english": "The dog is barking in the kitchen."
+    },
+    {
+      "japanese": "弟（おとうと）と映画（えいが）館（かん）に行（い）きました。",
+      "english": "I went to the movies with my younger brother."
+    },
+    {
+      "japanese": "弟（おとうと）とは映画（えいが）館（かん）に行（い）きました。",
+      "english": "I went to the movies with my younger brother."
+    },
+    {
+      "japanese": "日本語（にほんご）が好（す）きです。",
+      "english": "I like Japanese."
+    },
+    {
+      "japanese": "日本語（にほんご）は好（す）きです。",
+      "english": "I like Japanese (but maybe I don't like other languages/subjects)."
+    },
+    {
+      "japanese": "お肉（にく）を食（た）べない。",
+      "english": "I don't eat meat."
+    },
+    {
+      "japanese": "お肉（にく）は食（た）べない。",
+      "english": "I don't eat meat, (but…)"
+    },
+    {
+      "japanese": "お肉（にく）は食（た）べないけど魚（さかな）は食（た）べるよ。",
+      "english": "I don't eat meat, but I do eat fish."
+    },
+    {
+      "japanese": "お肉（にく）は食（た）べないけどビールは飲（の）むよ。",
+      "english": "I don't eat meat, but I do drink beer."
+    },
+    {
+      "japanese": "これはおいしいよ。",
+      "english": "This is delicious."
+    },
+    {
+      "japanese": "これはおいしいよ。",
+      "english": "This is delicious."
+    },
+    {
+      "japanese": "日本語（にほんご）は、好（す）き。",
+      "english": "I like Japanese (but…)"
+    },
+    {
+      "japanese": "お肉（にく）は、食（た）べない。",
+      "english": "I don't eat meat (but…)"
+    },
+    {
+      "japanese": "お寿司（すし）は好（す）きですか。",
+      "english": "Do you like sushi?"
+    },
+    {
+      "japanese": "お寿司（すし）はね…",
+      "english": "Hmm, sushi…"
+    },
+    {
+      "japanese": "お寿司（すし）は…",
+      "english": "Hmm, sushi…"
+    },
+    {
+      "japanese": "今年（ことし）は日本（にっぽん）に行（い）くんです。",
+      "english": "This year I'm going to Japan."
+    },
+    {
+      "japanese": "今年（ことし）、日本（にっぽん）に行（い）くんです。",
+      "english": "This year I'm going to Japan."
+    },
+    {
+      "japanese": "日本語（にほんご）、面白（おもしろ）い。",
+      "english": "Japanese is interesting."
+    },
+    {
+      "japanese": "少（すこ）し、食（た）べました。",
+      "english": "I ate a little."
+    },
+    {
+      "japanese": "昨日（きのう）はお兄（にい）ちゃんが勉強（べんきょう）を教（おし）えてくれた。まず、英語（えいご）の勉強（べんきょう）を教（おし）えてくれて、それから国語（こくご）の勉強（べんきょう）だった。でも、算数（さんすう）の宿題（しゅくだい）をしている途中（とちゅう）に、お兄（にい）ちゃんはゲームを始（はじ）めた。",
+      "english": "Yesterday, my big brother helped me study. To start with, he helped me with English, and then with Japanese. But he started playing a game while we were in the middle of doing my math homework."
+    },
+    {
+      "japanese": "はちみつの びんを かごに い���て いきました。[そんな ことは しらない] ろばさんは くう くう おひるね。",
+      "english": "The bear put a jar of honey into basket and left. Unaware of all this, the donkey kept on sleeping."
+    },
+    {
+      "japanese": "ジェニーの落（お）ちた学校（がっこう）に私（わたし）は受（う）かった。ジェニーが落（お）ちた学校（がっこう）に私（わたし）は受（う）かった。ジェニーは落（お）ちた学校（がっこう）に私（わたし）は受（う）かった。",
+      "english": "I was accepted by the school that Jenny failed to get into."
+    },
+    {
+      "japanese": "ジェニーの落（お）ちた学校（がっこう）に私（わたし）も落（お）ちた。ジェニーが落（お）ちた学校（がっこう）に私（わたし）も落（お）ちた。 ❌ ジェニーは落（お）ちた学校（がっこう）に私（わたし）も落（お）ちた。",
+      "english": "I also failed to get into the school that Jenny failed to get into."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "日本語（にほんご） (にほんご) — Japanese (noun)"
+      ],
+      [
+        "面白（おもしろ）い (おもしろい) — interesting (い-adjective / non-past tense)"
+      ],
+      [
+        "何（なに） (なん, なに) — what (pronoun)"
+      ],
+      [
+        "夏（なつ） (なつ) — summer (noun)"
+      ],
+      [
+        "日本（にっぽん） (にほん) — Japan (proper noun)"
+      ],
+      [
+        "行（い）く (いく) — to go (godan verb / non-past tense)"
+      ],
+      [
+        "つもり (つもり) — plan, intention (noun)"
+      ],
+      [
+        "いつ (いつ) — when (pronoun)"
+      ],
+      [
+        "コーヒー (こーひー) — coffee (noun)"
+      ],
+      [
+        "飲（の）みます (のみます) — to drink (godan verb / polite form / non-past tense)"
+      ],
+      [
+        "東京（とうきょう） (とうきょう) — Tokyo (proper noun)"
+      ],
+      [
+        "物価（ぶっか） (ぶっか) — prices, cost of living (noun)"
+      ],
+      [
+        "高（たか）い (たかい) — high, expensive (い-adjective / non-past tense)"
+      ],
+      [
+        "田舎（いなか） (いなか) — countryside (noun)"
+      ],
+      [
+        "安（やす）い (やすい) — cheap, inexpensive (い-adjective / non-past tense)"
+      ],
+      [
+        "難（むずか）しくない (むずかしくない) — not difficult (い-adjective / negative form / non-past tense)"
+      ],
+      [
+        "ただ (ただ) — just (adverb)"
+      ],
+      [
+        "時間（じかん） (じかん) — time (noun)"
+      ],
+      [
+        "かかる (かかる) — to take (godan verb / non-past tense)"
+      ],
+      [
+        "有名（ゆうめい） (ゆうめい) — famous (な-adjective)"
+      ],
+      [
+        "人気（にんき） (にんき) — popular (な-adjective)"
+      ],
+      [
+        "先生（せんせい） (せんせい) — teacher (noun)"
+      ],
+      [
+        "説明（せつめい） (せつめい) — explanation (noun)"
+      ],
+      [
+        "上手（じょうず） (じょうず) — good at (な-adjective)"
+      ],
+      [
+        "人（ひと） (ひと) — person (noun)"
+      ],
+      [
+        "誰（だれ） (だれ) — who (pronoun)"
+      ],
+      [
+        "どこ (どこ) — where (pronoun)"
+      ],
+      [
+        "居（い）ました (いました) — had, existed (for animate things) (ichidan verb / polite form / past tense)"
+      ],
+      [
+        "犬（いぬ） (いぬ) — dog (noun)"
+      ],
+      [
+        "吠（ほ）えた (ほえた) — barked (ichidan verb / past tense)"
+      ],
+      [
+        "見（み）た (みた) — saw (ichidan verb / past tense)"
+      ],
+      [
+        "行（い）った (いった) — went (godan verb / past tense)"
+      ],
+      [
+        "台所（だいどころ） (だいどころ) — kitchen (noun)"
+      ],
+      [
+        "弟（おとうと） (おとうと) — younger brother (noun)"
+      ],
+      [
+        "映画（えいが）館（かん） (えいがかん) — movie theatre (noun)"
+      ],
+      [
+        "好（す）き (すき) — like (な-adjective)"
+      ],
+      [
+        "肉（にく） (にく) — meat (noun)"
+      ],
+      [
+        "食（た）べない (たべない) — not eat (ichidan verb / negative form / non-past tense)"
+      ],
+      [
+        "魚（さかな） (さかな) — fish (noun)"
+      ],
+      [
+        "ビール (びーる) — beer (noun)"
+      ],
+      [
+        "美味（おい）しい (おいしい) — delicious (い-adjective / non-past tense)"
+      ],
+      [
+        "寿司（すし） (すし) — sushi (noun)"
+      ],
+      [
+        "今年（ことし） (ことし) — this year (noun)"
+      ],
+      [
+        "少（すこ）し (すこし) — a little (noun)"
+      ],
+      [
+        "昨日（きのう） (きのう) — yesterday (noun)"
+      ],
+      [
+        "お兄（にい）ちゃん (おにいちゃん) — big brother, older brother (noun)"
+      ],
+      [
+        "勉強（べんきょう） (べんきょう) — studies ()"
+      ],
+      [
+        "教（おし）えて (おしえて) — to teach (ichidan verb / te-form)"
+      ],
+      [
+        "先（ま）ず (まず) — first of all, to start with (adverb)"
+      ],
+      [
+        "英語（えいご） (えいご) — English (noun)"
+      ],
+      [
+        "国語（こくご） (こくご) — Japanese (noun)"
+      ],
+      [
+        "算数（さんすう） (さんすう) — math (noun)"
+      ],
+      [
+        "宿題（しゅくだい） (しゅくだい) — homework (noun)"
+      ],
+      [
+        "途中（とちゅう） (とちゅう) — on the way (noun)"
+      ],
+      [
+        "ゲーム (げーむ) — game (noun)"
+      ],
+      [
+        "始（はじ）めた (はじめた) — started (ichidan verb / past tense)"
+      ],
+      [
+        "蜂蜜（はちみつ） (はちみつ) — honey (noun)"
+      ],
+      [
+        "瓶（びん） (びん) — bottle, jar (noun)"
+      ],
+      [
+        "かご (かご) — basket (noun)"
+      ],
+      [
+        "入（い）れて (いれて) — to put in (ichidan verb / te-form)"
+      ],
+      [
+        "知（し）らない (しらない) — not know (godan verb / negative form / non-past tense)"
+      ],
+      [
+        "ろば (ろば) — donkey (noun)"
+      ],
+      [
+        "昼寝（ひるね） (ひるね) — nap (noun)"
+      ],
+      [
+        "落（お）ちた (おちた) — failed (ichidan verb / past tense)"
+      ],
+      [
+        "学校（がっこう） (がっこう) — school (noun)"
+      ],
+      [
+        "受（う）かった (うかった) — accepted, passed (godan verb / past tense)"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "as-a-topic-marker",
+      "text": "は as a Topic Marker"
+    },
+    {
+      "level": 3,
+      "id": "for-contrasting-two-topics",
+      "text": "は for Contrasting Two Topics"
+    },
+    {
+      "level": 3,
+      "id": "with--adjectives",
+      "text": "は with い-Adjectives"
+    },
+    {
+      "level": 3,
+      "id": "with-nouns-and--adjectives",
+      "text": "は with Nouns and な-Adjectives"
+    },
+    {
+      "level": 3,
+      "id": "and-question-words",
+      "text": "は and Question Words"
+    },
+    {
+      "level": 3,
+      "id": "in-combination-with-other-particles",
+      "text": "は in Combination with Other Particles"
+    },
+    {
+      "level": 3,
+      "id": "for-contrast",
+      "text": "は for Contrast"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-hesitating-when-speaking",
+      "text": "は for Hesitating When Speaking"
+    },
+    {
+      "level": 3,
+      "id": "when--is-replaced-with-a-comma",
+      "text": "When は is Replaced with a Comma"
+    },
+    {
+      "level": 3,
+      "id": "for-changing-scenes",
+      "text": "は for Changing Scenes"
+    },
+    {
+      "level": 3,
+      "id": "in-relative-clauses",
+      "text": "は in Relative Clauses"
+    }
+  ],
+  "id": 24,
+  "slug": "particle-wa",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-wa/",
+  "categories": [
+    "Particle"
+  ]
+}

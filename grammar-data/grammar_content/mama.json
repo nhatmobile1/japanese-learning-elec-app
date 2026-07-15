@@ -1,0 +1,137 @@
+{
+  "title": "〜まま",
+  "description": "〜まま means \"as is\" or \"leaving something in an unchanged state\" — an action or condition stays the way it was while something else happens.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜まま describes a state that is left unchanged. Most often it follows a past-tense (た form) verb: you do something and then leave that result standing while doing (or not doing) something else. 電気（でんき）をつけたまま寝（ね）る means \"sleep with the light left on.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "動詞（どうし）（た形（けい）／ない形（けい））＋まま",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "ドアを開（あ）けたまま出（で）かけました。",
+      "english": "I went out leaving the door open."
+    },
+    {
+      "type": "example",
+      "japanese": "パックをつけたまま寝（ね）られます。",
+      "english": "You can sleep with the face pack still on."
+    },
+    {
+      "type": "example",
+      "japanese": "靴（くつ）を履（は）いたまま入（はい）らないでください。",
+      "english": "Please don't come in with your shoes on."
+    },
+    {
+      "type": "example",
+      "japanese": "電気（でんき）をつけたまま寝（ね）てしまいました。",
+      "english": "I ended up falling asleep with the light on."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "nouns-and-demonstratives",
+      "text": "Nouns and この・そのまま"
+    },
+    {
+      "type": "paragraph",
+      "text": "With a noun, use 名詞（めいし）＋の＋まま to mean \"still in the state of ~.\" The set phrases そのまま and このまま mean \"as it is / as things are\" and are extremely common on their own."
+    },
+    {
+      "type": "formula",
+      "japanese": "名詞（めいし）＋の＋まま ／ その・このまま",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "そのままでいいですよ。",
+      "english": "It's fine as it is."
+    },
+    {
+      "type": "example",
+      "japanese": "家（いえ）は昔（むかし）のままです。",
+      "english": "The house is just the way it used to be."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't confuse 〜まま with 〜ながら. 〜ながら links two actions done at the same time by one person (テレビを見（み）ながら食（た）べる — \"eat while watching TV\"). 〜まま describes an unchanged state left in place, not a second active action: 立（た）ったまま食（た）べる means \"eat while remaining standing.\""
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "動詞（どうし）（た形（けい）／ない形（けい））＋まま",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "ドアを開（あ）けたまま出（で）かけました。",
+      "english": "I went out leaving the door open."
+    },
+    {
+      "japanese": "パックをつけたまま寝（ね）られます。",
+      "english": "You can sleep with the face pack still on."
+    },
+    {
+      "japanese": "靴（くつ）を履（は）いたまま入（はい）らないでください。",
+      "english": "Please don't come in with your shoes on."
+    },
+    {
+      "japanese": "電気（でんき）をつけたまま寝（ね）てしまいました。",
+      "english": "I ended up falling asleep with the light on."
+    },
+    {
+      "japanese": "名詞（めいし）＋の＋まま ／ その・このまま",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "そのままでいいですよ。",
+      "english": "It's fine as it is."
+    },
+    {
+      "japanese": "家（いえ）は昔（むかし）のままです。",
+      "english": "The house is just the way it used to be."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "nouns-and-demonstratives",
+      "text": "Nouns and この・そのまま"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1031,
+  "slug": "mama",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

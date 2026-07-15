@@ -1,0 +1,798 @@
+{
+  "title": "Verb Conjugation",
+  "description": "Japanese verbs have different conjugation patterns depending on what type they are — godan, ichidan, or irregular. Learn all about verb types and conjugation on this page.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japanese verbs can conjugate (that is, take a variety of endings) to express a whole range of meanings. Conjugation can show us whether a verb is in the present or past, whether it's positive or negative, and more. Before jumping into verb conjugation, though, it's helpful to become familiar with verb types. Japanese verbs come in three types: godan verbs, ichidan verbs, and irregular verbs. You'll probably also see them go by other names in all the various learning materials out there. For example, godan verbs can be referred to as う-verbs, Group I verbs, and consonant-root verbs. Ichidan verbs are also called る-verbs, Group II verbs, and vowel-root verbs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whatever term you prefer, what's important is understanding how each verb type requires a different method of attaching conjugational verb endings. For example, if you want to make a verb negative with the 〜ない ending, how you do so will be determined by its verb type. So an ichidan verb like 食（た）べる becomes 食（た）べない by simply replacing る with ない, but a godan verb 聞（き）く becomes 聞（き）かない. See how they conjugate differently? These conjugation patterns are explained on each of our pages dedicated to specific verb endings, so on this page we'll go behind the scenes on what makes verb types different."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't fret if the information on this page feels like a lot to you. We believe that understanding why verb types function differently is more empowering than simply memorizing a bunch of rules, but still, this is only intended as a reference. You should not try to memorize this info! Check back to this page when you want to brush up on the nuts and bolts of verb conjugation, but to master it in your own language use, follow the old adage \"practice makes perfect.\" Eventually, you'll be conjugating verbs on-the-fly without thinking twice about which verb type you're dealing with! To help get to that point, you might want to give an app like Japanese Conjugation Practice or Japanese Conjugation City a try."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "godan-verbs-",
+      "text": "Godan Verbs (五段動詞)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's start off with godan verbs. Examples of verbs in this category are 読（よ）む (yom u ) \"to read,\" 書（か）く (kak u ), \"to write,\" 話（はな）す (hanas u ), \"to speak,\" and 聞（き）く (kik u ), \"to listen.\" Notice that each of these end in a character on the う-line of the hiragana chart when they are in the plain/dictionary form, which explains why they're often called \"う-verbs\" in textbooks. As these verbs conjugate, the う-line character will shift through the five vowel sounds in the hiragana chart (あ, い, う, え, お). This is where they get the name 五段（ごだん） (five-level) verbs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's check this out with one of our example verbs, 聞（き）く (to listen):"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Hiragana Chart Line",
+          "Japanese",
+          "Romaji",
+          "English"
+        ],
+        [
+          "あ /a/",
+          "聞（き）かない",
+          "kikanai",
+          "not listen"
+        ],
+        [
+          "い /i/",
+          "聞（き）きます",
+          "kikimasu",
+          "listen (polite)"
+        ],
+        [
+          "う /u/",
+          "聞（き）く",
+          "kiku",
+          "listen (plain)"
+        ],
+        [
+          "え /e/",
+          "聞（き）ける",
+          "kikeru",
+          "can listen"
+        ],
+        [
+          "お /o/",
+          "聞（き）こう",
+          "kikou",
+          "let's listen"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Now that we can see everything laid out for us, let's revisit the linguistics terms for this verb group: consonant-root verbs. The \"root\" is the part of the verb that (almost always) remains the same when the verb is conjugated. Check out 聞（き）く in the table above. The part that remains the same in all the conjugations shown is kik , so it is the root."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you know your hiragana, then you might be confused since there is no character for /k/ in Japanese. As weird as it may seem, we have to separate hiragana characters into two distinct parts in order to find the root: the consonant and the vowel. This is because verb conjugation occurs at a phonological level, meaning that we are dealing with the sounds of the language here, which transcends the confines of the written language."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's explore this in a bit more depth, using the く from 聞（き）く as an example. In romaji, we write this character as \"ku.\" The /k/ part is the consonant, and the /u/ part is the vowel. Because the /u/ part of this character changes when the word is conjugated, as in 聞（聞） く (k u ) → 聞（聞） き ます (k i ), it is not included in the root. Only the part that remains the same, the /k/, is included in the root. Since the last part of the root of these verbs are consonants like /k/, these verbs are called \"consonant-root verbs.\" Are you with us so far?"
+    },
+    {
+      "type": "formula",
+      "japanese": "We are dealing with the sounds of the language here, which transcends the confines of the written language.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "We are dealing with the sounds of the language here, which transcends the confines of the written language."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're wondering what the point of all this is, just hang in there for a minute! The value of looking at verbs in this way will become abundantly clear when we begin comparing godan verbs with the next verb group."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "ichidan-verbs-",
+      "text": "Ichidan Verbs (一段動詞)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The next group of verbs we'll look at is ichidan verbs. Examples of these verbs include 見（み）る (mi ru ), \"to see,\" 起（お）きる (oki ru ), \"to wake up,\" 開（あ）ける (ake ru ), \"to open,\" and 食（た）べる (tabe ru ), \"to eat.\" These verbs are called \"る-verbs\" in many Japanese textbooks because they all end in the hiragana character る. Conjugating these verbs is easy — the る ending is replaced with a new verb ending. The character that comes before the る is unaffected, and so it remains on the same single hiragana line. Because only one hiragana line is involved per verb root, these verbs are called 一段（いちだん） (one-level) verbs."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's use another table to make this clear. Notice how the べ in 食（た）べる remains the same in each conjugation:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Hiragana Chart Line",
+          "Japanese",
+          "Romaji",
+          "English"
+        ],
+        [
+          "え /e/",
+          "食（た）べない",
+          "tabenai",
+          "not eat"
+        ],
+        [
+          "食（た）べます",
+          "tabemasu",
+          "eat (polite)"
+        ],
+        [
+          "食（た）べる",
+          "taberu",
+          "eat (plain)"
+        ],
+        [
+          "食（た）べられる食（た）べれる (ら抜（ぬ）き)",
+          "taberarerutabereru",
+          "can eat"
+        ],
+        [
+          "食（た）べよう",
+          "tabeyou",
+          "let's eat"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like we did with godan verbs, let's use the table above to examine the linguistics name for ichidan verbs: vowel-root verbs. This time, we've bolded \" tabe \" because it is the part of the verb that remains the same throughout all conjugations (i.e. it is the root). If we separate べ into its consonant /b/ and vowel /e/, you can see that the final sound in the root is the vowel, /e/. And there you have it — the reason these verbs are called \"vowel-root verbs\": the root always ends in a vowel!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just to be crystal clear, let's compare this with how godan verbs conjugate. For example, when changing from plain form to polite form, we see this shift: 聞（聞） く (k u ) → 聞（聞） き ます (k i ). The ending of the root is /k/, which is a consonant. See the difference between godan (consonant-root) verbs and ichidan (vowel-root) verbs?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "godan-verbs-disguised-as-ichidan-verbs",
+      "text": "Godan Verbs Disguised as Ichidan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some godan verbs are not immediately recognizable as such because they end in the hiragana character る, so they appear to be ichidan verbs. Despite that, る is on the う-line of the hiragana chart, so it makes sense that some る ending verbs could potentially be considered godan verbs, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Luckily, there is a trick to tell whether a verb ending in る is a godan verb or an ichidan verb: if the vowel sound that comes before る is / a /, / u /, or / o /, it is definitely a godan verb. If the vowel sound that comes before る is / e / or / i /, it is probably an ichidan verb (but there are exceptions, unfortunately!)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at the table below to see how this works:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Verb Group",
+          "Japanese",
+          "Romaji",
+          "English"
+        ],
+        [
+          "Godan (う verb ending in る)",
+          "分（わ）かる",
+          "wakaru",
+          "to understand"
+        ],
+        [
+          "作（つく）る",
+          "tsukuru",
+          "to make"
+        ],
+        [
+          "折（お）る",
+          "oru",
+          "to fold"
+        ],
+        [
+          "Ichidan (る verb)",
+          "食（た）べる",
+          "taberu",
+          "to eat"
+        ],
+        [
+          "起（お）きる",
+          "okiru",
+          "to wake up"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember, the test we described above is watertight if the vowel before る is / a /, / u /, or / o /. In those cases, like in 分（わ）かる (wak a ru), 作（つく）る (tsuk u ru), and 折（お）る ( o ru), we can be completely sure that they are godan verbs. However, if the vowel is / e / or / i /, like in 食（た）べる (tab e ru) or 起（お）きる (ok i ru), we can only be cautiously optimistic that they are ichidan verbs."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're unsure how to conjugate a る ending verb, we recommend looking it up in a dictionary like Jisho.org . Most of the time, it will indicate whether the verb belongs to the godan or ichidan verb group:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Common godan verbs that end in /iru/ or /eru/: いる (to need), 入（はい）る (to enter), 走（はし）る (to run), 帰（かえ）る (to return), 減（へ）る (to decrease), and 喋（しゃべ）る (to chat). Note that these verbs generally consist of the kanji plus the る ending. Ichidan verbs, on the other hand, are more likely to include the /i/ or /e/ sound in the okurigana (the hiragana ending), as in 起（お）きる, 開（あ）ける, and 食（た）べる."
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't fret, with enough practice, you'll learn how to conjugate these verbs without even thinking about which verb group they belong to!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "irregular-verbs-",
+      "text": "Irregular Verbs (変格動詞)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Out of all the verbs in Japanese, only two fall outside of the godan and ichidan verb groups: する (to do) and 来（く）る (to come). These verbs are so common, that as you learn new conjugations for them, you'll get enough practice that they will seem easy as pie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember how we mentioned that phonology (or in simpler terms, sound ) plays a big role in verb conjugation? In this section, we'll explain some of the ways that verb conjugations deviate from what you'd expect, due to sound-based factors."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "the-loss-of-the-w-sound",
+      "text": "The Loss of the /W/ Sound"
+    },
+    {
+      "type": "paragraph",
+      "text": "The sounds in every language change gradually over time, and these shifts often explain strange inconsistencies in the modern language. In English, for example, we still spell words like \"though\" and \"cough\" with ough , even though we no longer pronounce these words with the same throaty, guttural sound that Old English speakers did."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, one sound drift that occurred over the past 1000 years was the loss of the /w/ sound at the beginning of certain syllables. We still have わ /wa/, and some people still pronounce を as /wo/, but there is no hiragana character that represents /wi/, /wu/, or /we/. As it turns out, these sounds did exist in Japanese a long, long time ago, and this has ripple effects on some aspects of Modern Japanese. For example, around the year 1000 A.D., linguists believe 上（うえ） was pronounced /wuwe/, 田舎（いなか） was pronounced /winaka/, and 買（か）う（か ） was pronounced /kawu/."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since we're interested in how this sound drift affects verb conjugations, let's take a closer look at 買（か）う. If you've learned a few conjugation forms already, you'll know that when a verb ends in う it can have some conjugations that seem like strange exceptions. Verb endings like the plain negative 〜ない , the passive 〜られる , and the causative 〜させる all still use the /w/ sound in their conjugations of う-ending verbs like 買（か）う:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Conjugation Form",
+          "Japanese",
+          "Romaji"
+        ],
+        [
+          "Negative (Plain)",
+          "買（か）わない",
+          "kawanai"
+        ],
+        [
+          "Passive",
+          "買（か）われる",
+          "kawareru"
+        ],
+        [
+          "Causative",
+          "買（か）わせる",
+          "kawaseru"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "All the other conjugations of 買（か）う use hiragana characters on the あいうえお line, so these ones that use わ seem like exceptions and can be confusing to learners. If you take into account their historical context though, it starts to make sense! Language is a dynamic and changing system, and this sound drift is an example of that."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "sound-convenience-in-conjugations",
+      "text": "音便 (\"Sound Convenience\") in Conjugations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sound changes are at the heart of another verb conjugation mystery — the strange patterns we see with godan verbs in the て form , the past tense suffix 〜た , and some other forms that use 〜た like 〜たり and 〜たら . If you're not familiar with these forms, then I recommend coming back to this page later when you're learning them and are wondering why the conjugations are so weird. If you're here because you're ready to dig into the why , then read on!"
+    },
+    {
+      "type": "paragraph",
+      "text": "There is a concept in Japanese linguistics called 音便（おんびん）, which refers to changes in pronunciation that occur to make a word easier to say. If you look at the kanji, you'll see 音便（おんびん） is made up of \"sound\" and \"convenience\" , which makes sense because it refers to making difficult-to-say words easier on the tongue. An example of this from English is pronouncing \"want to\" as \"wanna\" or \"a lot of\" as \"alotta.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "To really get how 音便（おんびん） applies to verb conjugations, we're going to have to revisit some concepts. First is the idea of a verb root. This is the part of the verb that doesn't change when the verb is conjugated. However, ancient Japanese speakers decided that some conjugations that begin with a /t/ sound (like the て form) were too difficult/not pleasing to pronounce with certain verb roots. Out of this, three unique conjugation patterns that deviate from what you would expect were born:"
+    },
+    {
+      "type": "formula",
+      "japanese": "Double Consonant: when small っ pops up in a conjugation Assimilation: when two sounds blend together into ん Consonant Removal: when a consonant disappears",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't worry, we're about to dive into examples of each, and we'll use the て form to illustrate!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "double-consonant-with-small-",
+      "text": "Double Consonant with Small っ"
+    },
+    {
+      "type": "paragraph",
+      "text": "The double consonant (small っ) is used when a verb root ends in /w/, /t/, or /r/. Instead of pronouncing these sounds, it was deemed easier/more pleasing to drop them before conjugations that starts with a /t/ sound, and to add in a double consonant small っ instead:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Verb",
+          "Root",
+          "Expected て Form",
+          "Actual て Form"
+        ],
+        [
+          "買（か）う（か ）",
+          "ka(w)",
+          "買（か）いて",
+          "買（か）って"
+        ],
+        [
+          "持（も）つ（も ）",
+          "mot(s)",
+          "持（も）ちて",
+          "持（も）って"
+        ],
+        [
+          "降（ふ）る（ふ ）",
+          "fur",
+          "降（お）りて",
+          "降（ふ）って"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're scratching your head about /w/, scroll up and re-read the section above this one. In short though, verbs like 買（か）う used to be pronounced /kawu/, so the root was kaw . Even though the /w/ is gone in Modern Japanese, it still affects how 音便（おんびん） developed for /t/ conjugations like the て form."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "assimilation-with-",
+      "text": "Assimilation with ん"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ん character is used when a verb stem ends in /m/, /n/, or /b/. Ancient Japanese speakers felt that pronouncing these sounds before /t/ conjugations was too difficult, and so they blended them together by dropping the verb stem ending sound, replacing it with ん, and transforming the /t/ to a /d/:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Verb",
+          "Root",
+          "Exepcted て Form",
+          "Actual て Form"
+        ],
+        [
+          "飲（の）む（の ）",
+          "nom",
+          "飲（の）みて",
+          "飲（の）んで"
+        ],
+        [
+          "死（し）ぬ（し ）",
+          "shin",
+          "死（し）にて",
+          "死（し）んで"
+        ],
+        [
+          "呼（よ）ぶ（よ ）",
+          "yob",
+          "呼（よ）びて",
+          "呼（よ）んで"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "consonant-removal",
+      "text": "Consonant Removal"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a verb root ends in /k/ or /g/, the consonant was removed completely, but the vowel remained. If the verb root ended in /k/, the verb ending would be attached with a /t/ sound. However, if the verb root ended in a /g/, the verb ending would be attached with a /d/ sound:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Verb",
+          "Root",
+          "Exepcted て Form",
+          "Actual て Form"
+        ],
+        [
+          "聞（き）く（き ）",
+          "kik",
+          "聞（き）きて",
+          "聞（き）いて"
+        ],
+        [
+          "急（いそ）ぐ（いそ ）",
+          "isog",
+          "急（いそ）ぎて",
+          "急（いそ）いで"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember, it's not important to memorize this information — this is here purely for your info, and so that you can get all the answers you need to your burning questions about Japanese grammar. Honestly, this will all become second nature with enough practice."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now go forth and conjugate!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Points"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Japanese verbs can conjugate (that is, take a variety of endings) to express a whole range of meanings. Conjugation can show us whether a verb is in the present or past, whether it's positive or negative, and more. Before jumping into verb conjugation, though, it's helpful to become familiar with verb types. Japanese verbs come in three types: godan verbs, ichidan verbs, and irregular verbs. You'll probably also see them go by other names in all the various learning materials out there. For example, godan verbs can be referred to as う-verbs, Group I verbs, and consonant-root verbs. Ichidan verbs are also called る-verbs, Group II verbs, and vowel-root verbs.",
+    "Whatever term you prefer, what's important is understanding how each verb type requires a different method of attaching conjugational verb endings. For example, if you want to make a verb negative with the 〜ない ending, how you do so will be determined by its verb type. So an ichidan verb like 食（た）べる becomes 食（た）べない by simply replacing る with ない, but a godan verb 聞（き）く becomes 聞（き）かない. See how they conjugate differently? These conjugation patterns are explained on each of our pages dedicated to specific verb endings, so on this page we'll go behind the scenes on what makes verb types different.",
+    "Don't fret if the information on this page feels like a lot to you. We believe that understanding why verb types function differently is more empowering than simply memorizing a bunch of rules, but still, this is only intended as a reference. You should not try to memorize this info! Check back to this page when you want to brush up on the nuts and bolts of verb conjugation, but to master it in your own language use, follow the old adage \"practice makes perfect.\" Eventually, you'll be conjugating verbs on-the-fly without thinking twice about which verb type you're dealing with! To help get to that point, you might want to give an app like Japanese Conjugation Practice or Japanese Conjugation City a try.",
+    "Let's start off with godan verbs. Examples of verbs in this category are 読（よ）む (yom u ) \"to read,\" 書（か）く (kak u ), \"to write,\" 話（はな）す (hanas u ), \"to speak,\" and 聞（き）く (kik u ), \"to listen.\" Notice that each of these end in a character on the う-line of the hiragana chart when they are in the plain/dictionary form, which explains why they're often called \"う-verbs\" in textbooks. As these verbs conjugate, the う-line character will shift through the five vowel sounds in the hiragana chart (あ, い, う, え, お). This is where they get the name 五段（ごだん） (five-level) verbs.",
+    "Let's check this out with one of our example verbs, 聞（き）く (to listen):",
+    "Now that we can see everything laid out for us, let's revisit the linguistics terms for this verb group: consonant-root verbs. The \"root\" is the part of the verb that (almost always) remains the same when the verb is conjugated. Check out 聞（き）く in the table above. The part that remains the same in all the conjugations shown is kik , so it is the root.",
+    "If you know your hiragana, then you might be confused since there is no character for /k/ in Japanese. As weird as it may seem, we have to separate hiragana characters into two distinct parts in order to find the root: the consonant and the vowel. This is because verb conjugation occurs at a phonological level, meaning that we are dealing with the sounds of the language here, which transcends the confines of the written language.",
+    "Let's explore this in a bit more depth, using the く from 聞（き）く as an example. In romaji, we write this character as \"ku.\" The /k/ part is the consonant, and the /u/ part is the vowel. Because the /u/ part of this character changes when the word is conjugated, as in 聞（聞） く (k u ) → 聞（聞） き ます (k i ), it is not included in the root. Only the part that remains the same, the /k/, is included in the root. Since the last part of the root of these verbs are consonants like /k/, these verbs are called \"consonant-root verbs.\" Are you with us so far?",
+    "We are dealing with the sounds of the language here, which transcends the confines of the written language.",
+    "If you're wondering what the point of all this is, just hang in there for a minute! The value of looking at verbs in this way will become abundantly clear when we begin comparing godan verbs with the next verb group.",
+    "The next group of verbs we'll look at is ichidan verbs. Examples of these verbs include 見（み）る (mi ru ), \"to see,\" 起（お）きる (oki ru ), \"to wake up,\" 開（あ）ける (ake ru ), \"to open,\" and 食（た）べる (tabe ru ), \"to eat.\" These verbs are called \"る-verbs\" in many Japanese textbooks because they all end in the hiragana character る. Conjugating these verbs is easy — the る ending is replaced with a new verb ending. The character that comes before the る is unaffected, and so it remains on the same single hiragana line. Because only one hiragana line is involved per verb root, these verbs are called 一段（いちだん） (one-level) verbs.",
+    "Let's use another table to make this clear. Notice how the べ in 食（た）べる remains the same in each conjugation:",
+    "Just like we did with godan verbs, let's use the table above to examine the linguistics name for ichidan verbs: vowel-root verbs. This time, we've bolded \" tabe \" because it is the part of the verb that remains the same throughout all conjugations (i.e. it is the root). If we separate べ into its consonant /b/ and vowel /e/, you can see that the final sound in the root is the vowel, /e/. And there you have it — the reason these verbs are called \"vowel-root verbs\": the root always ends in a vowel!",
+    "Just to be crystal clear, let's compare this with how godan verbs conjugate. For example, when changing from plain form to polite form, we see this shift: 聞（聞） く (k u ) → 聞（聞） き ます (k i ). The ending of the root is /k/, which is a consonant. See the difference between godan (consonant-root) verbs and ichidan (vowel-root) verbs?",
+    "Some godan verbs are not immediately recognizable as such because they end in the hiragana character る, so they appear to be ichidan verbs. Despite that, る is on the う-line of the hiragana chart, so it makes sense that some る ending verbs could potentially be considered godan verbs, right?",
+    "Luckily, there is a trick to tell whether a verb ending in る is a godan verb or an ichidan verb: if the vowel sound that comes before る is / a /, / u /, or / o /, it is definitely a godan verb. If the vowel sound that comes before る is / e / or / i /, it is probably an ichidan verb (but there are exceptions, unfortunately!).",
+    "Let's take a look at the table below to see how this works:",
+    "Remember, the test we described above is watertight if the vowel before る is / a /, / u /, or / o /. In those cases, like in 分（わ）かる (wak a ru), 作（つく）る (tsuk u ru), and 折（お）る ( o ru), we can be completely sure that they are godan verbs. However, if the vowel is / e / or / i /, like in 食（た）べる (tab e ru) or 起（お）きる (ok i ru), we can only be cautiously optimistic that they are ichidan verbs.",
+    "If you're unsure how to conjugate a る ending verb, we recommend looking it up in a dictionary like Jisho.org . Most of the time, it will indicate whether the verb belongs to the godan or ichidan verb group:",
+    "Common godan verbs that end in /iru/ or /eru/: いる (to need), 入（はい）る (to enter), 走（はし）る (to run), 帰（かえ）る (to return), 減（へ）る (to decrease), and 喋（しゃべ）る (to chat). Note that these verbs generally consist of the kanji plus the る ending. Ichidan verbs, on the other hand, are more likely to include the /i/ or /e/ sound in the okurigana (the hiragana ending), as in 起（お）きる, 開（あ）ける, and 食（た）べる.",
+    "Don't fret, with enough practice, you'll learn how to conjugate these verbs without even thinking about which verb group they belong to!",
+    "Out of all the verbs in Japanese, only two fall outside of the godan and ichidan verb groups: する (to do) and 来（く）る (to come). These verbs are so common, that as you learn new conjugations for them, you'll get enough practice that they will seem easy as pie.",
+    "Remember how we mentioned that phonology (or in simpler terms, sound ) plays a big role in verb conjugation? In this section, we'll explain some of the ways that verb conjugations deviate from what you'd expect, due to sound-based factors.",
+    "The sounds in every language change gradually over time, and these shifts often explain strange inconsistencies in the modern language. In English, for example, we still spell words like \"though\" and \"cough\" with ough , even though we no longer pronounce these words with the same throaty, guttural sound that Old English speakers did.",
+    "In Japanese, one sound drift that occurred over the past 1000 years was the loss of the /w/ sound at the beginning of certain syllables. We still have わ /wa/, and some people still pronounce を as /wo/, but there is no hiragana character that represents /wi/, /wu/, or /we/. As it turns out, these sounds did exist in Japanese a long, long time ago, and this has ripple effects on some aspects of Modern Japanese. For example, around the year 1000 A.D., linguists believe 上（うえ） was pronounced /wuwe/, 田舎（いなか） was pronounced /winaka/, and 買（か）う（か ） was pronounced /kawu/.",
+    "Since we're interested in how this sound drift affects verb conjugations, let's take a closer look at 買（か）う. If you've learned a few conjugation forms already, you'll know that when a verb ends in う it can have some conjugations that seem like strange exceptions. Verb endings like the plain negative 〜ない , the passive 〜られる , and the causative 〜させる all still use the /w/ sound in their conjugations of う-ending verbs like 買（か）う:",
+    "All the other conjugations of 買（か）う use hiragana characters on the あいうえお line, so these ones that use わ seem like exceptions and can be confusing to learners. If you take into account their historical context though, it starts to make sense! Language is a dynamic and changing system, and this sound drift is an example of that.",
+    "Sound changes are at the heart of another verb conjugation mystery — the strange patterns we see with godan verbs in the て form , the past tense suffix 〜た , and some other forms that use 〜た like 〜たり and 〜たら . If you're not familiar with these forms, then I recommend coming back to this page later when you're learning them and are wondering why the conjugations are so weird. If you're here because you're ready to dig into the why , then read on!",
+    "There is a concept in Japanese linguistics called 音便（おんびん）, which refers to changes in pronunciation that occur to make a word easier to say. If you look at the kanji, you'll see 音便（おんびん） is made up of \"sound\" and \"convenience\" , which makes sense because it refers to making difficult-to-say words easier on the tongue. An example of this from English is pronouncing \"want to\" as \"wanna\" or \"a lot of\" as \"alotta.\"",
+    "To really get how 音便（おんびん） applies to verb conjugations, we're going to have to revisit some concepts. First is the idea of a verb root. This is the part of the verb that doesn't change when the verb is conjugated. However, ancient Japanese speakers decided that some conjugations that begin with a /t/ sound (like the て form) were too difficult/not pleasing to pronounce with certain verb roots. Out of this, three unique conjugation patterns that deviate from what you would expect were born:",
+    "Don't worry, we're about to dive into examples of each, and we'll use the て form to illustrate!",
+    "The double consonant (small っ) is used when a verb root ends in /w/, /t/, or /r/. Instead of pronouncing these sounds, it was deemed easier/more pleasing to drop them before conjugations that starts with a /t/ sound, and to add in a double consonant small っ instead:",
+    "If you're scratching your head about /w/, scroll up and re-read the section above this one. In short though, verbs like 買（か）う used to be pronounced /kawu/, so the root was kaw . Even though the /w/ is gone in Modern Japanese, it still affects how 音便（おんびん） developed for /t/ conjugations like the て form.",
+    "The ん character is used when a verb stem ends in /m/, /n/, or /b/. Ancient Japanese speakers felt that pronouncing these sounds before /t/ conjugations was too difficult, and so they blended them together by dropping the verb stem ending sound, replacing it with ん, and transforming the /t/ to a /d/:",
+    "When a verb root ends in /k/ or /g/, the consonant was removed completely, but the vowel remained. If the verb root ended in /k/, the verb ending would be attached with a /t/ sound. However, if the verb root ended in a /g/, the verb ending would be attached with a /d/ sound:",
+    "Remember, it's not important to memorize this information — this is here purely for your info, and so that you can get all the answers you need to your burning questions about Japanese grammar. Honestly, this will all become second nature with enough practice.",
+    "Now go forth and conjugate!"
+  ],
+  "examples": [
+    {
+      "japanese": "We are dealing with the sounds of the language here, which transcends the confines of the written language.",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "Double Consonant: when small っ pops up in a conjugation Assimilation: when two sounds blend together into ん Consonant Removal: when a consonant disappears",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Hiragana Chart Line",
+        "Japanese",
+        "Romaji",
+        "English"
+      ],
+      [
+        "あ /a/",
+        "聞（き）かない",
+        "kikanai",
+        "not listen"
+      ],
+      [
+        "い /i/",
+        "聞（き）きます",
+        "kikimasu",
+        "listen (polite)"
+      ],
+      [
+        "う /u/",
+        "聞（き）く",
+        "kiku",
+        "listen (plain)"
+      ],
+      [
+        "え /e/",
+        "聞（き）ける",
+        "kikeru",
+        "can listen"
+      ],
+      [
+        "お /o/",
+        "聞（き）こう",
+        "kikou",
+        "let's listen"
+      ]
+    ],
+    [
+      [
+        "Hiragana Chart Line",
+        "Japanese",
+        "Romaji",
+        "English"
+      ],
+      [
+        "え /e/",
+        "食（た）べない",
+        "tabenai",
+        "not eat"
+      ],
+      [
+        "食（た）べます",
+        "tabemasu",
+        "eat (polite)"
+      ],
+      [
+        "食（た）べる",
+        "taberu",
+        "eat (plain)"
+      ],
+      [
+        "食（た）べられる食（た）べれる (ら抜（ぬ）き)",
+        "taberarerutabereru",
+        "can eat"
+      ],
+      [
+        "食（た）べよう",
+        "tabeyou",
+        "let's eat"
+      ]
+    ],
+    [
+      [
+        "Verb Group",
+        "Japanese",
+        "Romaji",
+        "English"
+      ],
+      [
+        "Godan (う verb ending in る)",
+        "分（わ）かる",
+        "wakaru",
+        "to understand"
+      ],
+      [
+        "作（つく）る",
+        "tsukuru",
+        "to make"
+      ],
+      [
+        "折（お）る",
+        "oru",
+        "to fold"
+      ],
+      [
+        "Ichidan (る verb)",
+        "食（た）べる",
+        "taberu",
+        "to eat"
+      ],
+      [
+        "起（お）きる",
+        "okiru",
+        "to wake up"
+      ]
+    ],
+    [
+      [
+        "Conjugation Form",
+        "Japanese",
+        "Romaji"
+      ],
+      [
+        "Negative (Plain)",
+        "買（か）わない",
+        "kawanai"
+      ],
+      [
+        "Passive",
+        "買（か）われる",
+        "kawareru"
+      ],
+      [
+        "Causative",
+        "買（か）わせる",
+        "kawaseru"
+      ]
+    ],
+    [
+      [
+        "Verb",
+        "Root",
+        "Expected て Form",
+        "Actual て Form"
+      ],
+      [
+        "買（か）う（か ）",
+        "ka(w)",
+        "買（か）いて",
+        "買（か）って"
+      ],
+      [
+        "持（も）つ（も ）",
+        "mot(s)",
+        "持（も）ちて",
+        "持（も）って"
+      ],
+      [
+        "降（ふ）る（ふ ）",
+        "fur",
+        "降（お）りて",
+        "降（ふ）って"
+      ]
+    ],
+    [
+      [
+        "Verb",
+        "Root",
+        "Exepcted て Form",
+        "Actual て Form"
+      ],
+      [
+        "飲（の）む（の ）",
+        "nom",
+        "飲（の）みて",
+        "飲（の）んで"
+      ],
+      [
+        "死（し）ぬ（し ）",
+        "shin",
+        "死（し）にて",
+        "死（し）んで"
+      ],
+      [
+        "呼（よ）ぶ（よ ）",
+        "yob",
+        "呼（よ）びて",
+        "呼（よ）んで"
+      ]
+    ],
+    [
+      [
+        "Verb",
+        "Root",
+        "Exepcted て Form",
+        "Actual て Form"
+      ],
+      [
+        "聞（き）く（き ）",
+        "kik",
+        "聞（き）きて",
+        "聞（き）いて"
+      ],
+      [
+        "急（いそ）ぐ（いそ ）",
+        "isog",
+        "急（いそ）ぎて",
+        "急（いそ）いで"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "godan-verbs-",
+      "text": "Godan Verbs (五段動詞)"
+    },
+    {
+      "level": 3,
+      "id": "ichidan-verbs-",
+      "text": "Ichidan Verbs (一段動詞)"
+    },
+    {
+      "level": 3,
+      "id": "godan-verbs-disguised-as-ichidan-verbs",
+      "text": "Godan Verbs Disguised as Ichidan Verbs"
+    },
+    {
+      "level": 3,
+      "id": "irregular-verbs-",
+      "text": "Irregular Verbs (変格動詞)"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "the-loss-of-the-w-sound",
+      "text": "The Loss of the /W/ Sound"
+    },
+    {
+      "level": 3,
+      "id": "sound-convenience-in-conjugations",
+      "text": "音便 (\"Sound Convenience\") in Conjugations"
+    },
+    {
+      "level": 4,
+      "id": "double-consonant-with-small-",
+      "text": "Double Consonant with Small っ"
+    },
+    {
+      "level": 4,
+      "id": "assimilation-with-",
+      "text": "Assimilation with ん"
+    },
+    {
+      "level": 4,
+      "id": "consonant-removal",
+      "text": "Consonant Removal"
+    }
+  ],
+  "id": 43,
+  "slug": "verb-conjugation-groups",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-conjugation-groups/",
+  "categories": [
+    "Verb Form"
+  ]
+}

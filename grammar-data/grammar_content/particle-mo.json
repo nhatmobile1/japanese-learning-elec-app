@@ -1,0 +1,679 @@
+{
+  "title": "Particle も",
+  "description": "The particle も is similar to the English words \"too\" and \"also.\" It is placed after a word to show that the word is part of a set.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle も is similar to the English words \"too\" and \"also.\" It's attached to a word to mark that word as a part of a set of things that belong together."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-a-part-of-a-set",
+      "text": "も As a Part of a Set"
+    },
+    {
+      "type": "paragraph",
+      "text": "To conceptualize the particle も, it's helpful to imagine a list on a memo (me-も) sheet. The list is a group of things or people that belong together. When も goes after a word, it indicates that the word is a member of the group."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's say you are a Japanese teacher, and your friend introduces you to someone named Suzuki-san, who is also a Japanese teacher. In this case, your friend may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "鈴木（すずき）さんも日本語（にほんご）の先生（せんせい）です。",
+      "english": "Suzuki-san is also a Japanese teacher."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, you are the one who is already in the group of \"people who are Japanese teachers,\" and your friend included 鈴木（すずき）さん with も to show Suzuki-san is also a member on the \"list” of Japanese teachers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then, someone else may jump in and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）も日本語（にほんご）を教（おし）えています。",
+      "english": "I also teach Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "By marking 私（わたし） with も, this person also adds themselves to the group of \"people who are Japanese teachers.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Although も is used in a very similar way to the English \"too\" and \"also,\" its use is not exactly the same. For example, the English sentence, \"Suzuki-san is also a teacher\" can be interpreted in two different ways — Suzuki-san is a teacher in addition to being something else, or, Suzuki-san is a teacher in addition to someone else. This is because neither \"too\" nor \"also\" attaches to any specific word. Either variation of this sentence is a possibility."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, the particle も is only attached to the word that you want to add on to the list. So, if you say 鈴木（すずき）さん も , it is clear that 鈴木（すずき）さん is a new member in addition to someone else ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If your intention is to say, \"Suzuki-san is a teacher in addition to being something else ,\" you'd attach も to the specific word you wish to add to the set. For example, let's say Suzuki-san is a teacher and is also a gamer. In this case, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "鈴木（すずき）さんは先生（せんせい）です。鈴木（すずき）さんはゲーマーでもあります。",
+      "english": "Suzuki-san is a teacher. Suzuki-san is also a gamer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, the particle も accompanies ゲーマーである (is a gamer), creating the nuance \"Suzuki-san is a gamer in addition to being something else .\" In other words, も marks \"being a gamer\" as an additional item on the list of \"things that Suzuki-san is.\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this section, we'll list the basic structure used with the particle も. Later on, we'll take a more detailed look at its uses."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + も"
+    },
+    {
+      "type": "paragraph",
+      "text": "も often follows a noun or a noun phrase. What comes after も can be a lot of varieties of words and forms. It can be anything from nouns , い-adjectives , な-adjectives , to verbs in either the positive or negative form."
+    },
+    {
+      "type": "example",
+      "japanese": "これも花（はな）です。",
+      "english": "This is also a flower."
+    },
+    {
+      "type": "example",
+      "japanese": "これもかわいい。",
+      "english": "This is also cute."
+    },
+    {
+      "type": "example",
+      "japanese": "これも変（へん）じゃない。",
+      "english": "This isn't weird, either."
+    },
+    {
+      "type": "example",
+      "japanese": "これもできない。",
+      "english": "I cannot do this, either."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "at-the-end-of-a-sentence",
+      "text": "も at the End of a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "も can also be used in the predicate . If the predicate is a noun or a な-adjective, も is generally added between で (the て form of だ) and ある, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーは先生（せんせい）である。",
+      "english": "Jenny is a teacher."
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーは先生（せんせい）でもある。",
+      "english": "Jenny is also a teacher."
+    },
+    {
+      "type": "example",
+      "japanese": "ここは静（しず）かである。",
+      "english": "This place is quiet."
+    },
+    {
+      "type": "example",
+      "japanese": "ここは静（しず）かでもある。",
+      "english": "This place is also quiet."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the predicate is an い-adjective, も comes after the く form of the word and the verb ある is added:"
+    },
+    {
+      "type": "example",
+      "japanese": "クモはかわいい。",
+      "english": "Spiders are cute."
+    },
+    {
+      "type": "example",
+      "japanese": "クモはかわいくもある。",
+      "english": "Spiders are also cute."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "combined-with-other-particles",
+      "text": "も Combined with Other Particles"
+    },
+    {
+      "type": "paragraph",
+      "text": "も can be used with other particles, such as にも, でも, とも, or へも . Just like when it's used alone, も adds the nuance that the word or phrase is a part of a set. The following is one example, but you can learn more about double particles on their individual pages."
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーにもあげる。",
+      "english": "I'll also give it to Jenny"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "particle--as-in-also",
+      "text": "Particle も as in \"Also\""
+    },
+    {
+      "type": "paragraph",
+      "text": "The function of も is simple. It indicates an addition to a set, and you've already seen some examples. Here, we'll explore more examples to help you understand this better."
+    },
+    {
+      "type": "paragraph",
+      "text": "First, let's take a look at the following examples as a quick recap."
+    },
+    {
+      "type": "example",
+      "japanese": "林（はやし）さんは学生（がくせい）です。森（もり）さんも学生（がくせい）です。",
+      "english": "Hayashi-san is a student. Mori-san is also a student."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, Hayashi-san is already on the list of \"people who are students,\" も is paired with Mori-san to show that they are also a member of this group."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use も with things as well as people. For example, to say you bought strawberries and also milk, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "イチゴを買（か）いました。ミルクも買（か）いました。",
+      "english": "I bought strawberries. I also bought milk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, ミルク is marked by も, which adds the nuance of \"in addition to strawberries.\" Now, both strawberries and milk are on the list of \"things you purchased.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use も with periods of time, like yesterday or today. So if yesterday was rainy and today is too, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "昨日（きのう）は雨（あめ）でした。今日（きょう）も雨（あめ）でした。",
+      "english": "Yesterday, it was rainy. Today, it was also rainy."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, も attaches to 今日（きょう） and adds the nuance of \"in addition to yesterday.\" Now, both yesterday and today are in the set of \"days it rained.” Maybe we'll have to add 明日（あした） も (tomorrow, also) if the rain persists."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you want to add multiple new parts to the set, there are two ways. One way is to make an addition one by one, by marking every new word with も."
+    },
+    {
+      "type": "example",
+      "japanese": "林（はやし）さんは学生（がくせい）です。森（もり）さんも山田（やまだ）さんも学生（がくせい）です。",
+      "english": "Hayashi-san is a student. Mori-san and Yamada-san are also students."
+    },
+    {
+      "type": "paragraph",
+      "text": "Oftentimes, this use of も can be translated with \"both\" or \"all,\" as in \" Both Mori-san and Yamada-san are also students.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Another way is to use the particle と to group the additional members together, and then add them to the whole by attaching も at the end."
+    },
+    {
+      "type": "example",
+      "japanese": "林（はやし）さんは学生（がくせい）です。森（もり）さんと山田（やまだ）さんも学生（がくせい）です。",
+      "english": "Hayashi-san is a student. Mori-san and Yamada-san are also students."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, と groups together \"Mori-san and Yamada-san\" and then も marks the two of them as an addition to the set, as in [森（もり）さん と 山田（やまだ）さん] も ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "particle--as-in-either",
+      "text": "Particle も as in \"Either\""
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle も can also mean \"either,\" if the parts of the set consist of people or things who do not belong to a certain type of group. For example, to say Hayashi-san is not a student and Mori-san isn't either, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "林（はやし）さんは学生（がくせい）じゃありません。森（もり）さんも学生（がくせい）じゃありません。",
+      "english": "Hayashi-san is not a student. Mori-san is not a student, either."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, Hayashi-san is already on a list of \"people who are not students\" and も indicates Mori-san is also under this classification."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same fashion as the earlier examples, if you want to add multiple parts to the set, you can mark each individual word with も, one by one."
+    },
+    {
+      "type": "example",
+      "japanese": "林（はやし）さんは学生（がくせい）じゃありません。森（もり）さんも山田（やまだ）さんも学生（がくせい）じゃありません。",
+      "english": "Hayashi-san is not a student. Mori-san and Yamada-san are not students, either."
+    },
+    {
+      "type": "paragraph",
+      "text": "This use of も can also be translated using \"neither,\" as in, \" Neither Mori-san nor Yamada-san are students.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Or, you can first combine a group with と and then add them by using も at the end."
+    },
+    {
+      "type": "example",
+      "japanese": "林（はやし）さんは学生（がくせい）じゃありません。森（もり）さんと山田（やまだ）さんも学生（がくせい）じゃありません。",
+      "english": "Hayashi-san is not a student. Mori-san and Yamada-san are not students, either."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "particle--for-emphasis",
+      "text": "Particle も for Emphasis"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle も can also add emphasis on what comes before it in both a positive or a negative way. It shows that something is either surprising or extreme. For example, imagine your sweet tooth has been acting up again and so you eat ice cream, chocolate, and even an entire pumpkin pie! When your roommate finds this out, she may be surprised, and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "アイスとチョコを食（た）べた後（のち）に、パンプキンパイも食（た）べたの！？",
+      "english": "After eating ice cream and chocolate, you even ate a pumpkin pie!?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, パンプキンパイ is paired with も to indicate it's an additional part to the set of things you ate. In your roommate's eyes, this last addition is beyond what's considered \"normal,\" so the particle も is used more emphatically."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "quantity--",
+      "text": "Quantity + も"
+    },
+    {
+      "type": "paragraph",
+      "text": "The emphatic use of も can be used with a quantity even if there isn't anything in the set already. For example, if you are hungry and just ate six hamburgers, you can use も and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ハンバーガーを６個（こ）も食（た）べちゃった。",
+      "english": "I ate six hamburgers!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this situation, it's not that you'd eaten something else beforehand, but it's okay to use も here. Because you just added 6 hamburgers at once, you formed a new set of \"things you ate,\" and you want to show that it was an impressive amount. This can be used in various scenarios as long as the amount is somewhat surprising or extreme."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you notice you gained 5kg over Christmas break, you may think it was a lot of weight to gain. To emphasize the 5kg amount with も, you'd say:"
+    },
+    {
+      "type": "example",
+      "japanese": "５キロも太（ふと）った。",
+      "english": "I gained five kilos."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, if you had to wait for three hours at a hospital before seeing a doctor, you may think it was way too long and emphasize the length of time with も."
+    },
+    {
+      "type": "example",
+      "japanese": "３時間（じかん）も待（ま）った。",
+      "english": "I waited for three hours."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "question-word--",
+      "text": "Question Word + も"
+    },
+    {
+      "type": "paragraph",
+      "text": "In a similar way, the emphatic も can follow a question word . For example, let's say you are at a bakery and you're very indecisive about which bread to buy because everything looks so delicious. Here, you can add も to the question word どれ (which one) and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "どれもおいしそう！",
+      "english": "Everything looks delicious!"
+    },
+    {
+      "type": "paragraph",
+      "text": "どれ is the question word that asks \"which one?\" out of two options. With も, a question word works like a wild card that can be added to the set. So here, も indicates every choice available is added to the set of \"things that look delicious,\" making the sentence mean \"everything looks delicious.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, if you add も to the question word いつ (when), it becomes the word いつも, which means \"always.\" For example, if the above bakery's bread always tastes good, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここのパンはいつもおいしい。",
+      "english": "This bakery's bread always tastes good."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, も turns いつ into a wild card that has a value of \"every possible available time\" and adds it to the set of \"times when this bakery's bread tastes good.\" Combined together, it implies their bread always tastes good."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, imagine you are not feeling well, you have nausea and don't want to eat anything. In this scenario, you can use 何（なに） (what) with も in a negative sentence, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "何（なに）も食（た）べたくない。",
+      "english": "I don't want to eat anything."
+    },
+    {
+      "type": "paragraph",
+      "text": "何（なに） is the question word for \"what,\" so when も is paired with it, it indicates \"anything\" goes to the set. Here, the set is \"things you don't want to eat.\" So combined together, it means \"I don't want to eat anything.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Question words can also be used with でも , which is the て form of だ with the particle も. In this case, it would add the meaning \"no matter 〜,\" as in どれでも (no matter which one), いつでも (no matter when), or 何（なに）でも (no matter what)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "form----",
+      "text": "て Form + も + いい"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use も with the て form of a word and pair it with いい to express or ask for permission or concession. For example, to ask your parent if it's okay for you to watch TV, you can use this form, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "テレビ観（み）てもいい？",
+      "english": "Is it all right if I watch TV?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This sentence suggests that the person you are asking the question to has the authority to decide. も marks the activity or \"watching TV\" as a part of the set of \"things that are all right to do\" to the person with the authority. Ending a sentence with a rising intonation turns the sentence into a question, which asks if the activity belongs on the list of \"things that are all right to do.\" You can learn more about this use on its specific page."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "The particle も is similar to the English words \"too\" and \"also.\" It's attached to a word to mark that word as a part of a set of things that belong together.",
+    "To conceptualize the particle も, it's helpful to imagine a list on a memo (me-も) sheet. The list is a group of things or people that belong together. When も goes after a word, it indicates that the word is a member of the group.",
+    "For example, let's say you are a Japanese teacher, and your friend introduces you to someone named Suzuki-san, who is also a Japanese teacher. In this case, your friend may say:",
+    "In this example, you are the one who is already in the group of \"people who are Japanese teachers,\" and your friend included 鈴木（すずき）さん with も to show Suzuki-san is also a member on the \"list” of Japanese teachers.",
+    "Then, someone else may jump in and say:",
+    "By marking 私（わたし） with も, this person also adds themselves to the group of \"people who are Japanese teachers.\"",
+    "Although も is used in a very similar way to the English \"too\" and \"also,\" its use is not exactly the same. For example, the English sentence, \"Suzuki-san is also a teacher\" can be interpreted in two different ways — Suzuki-san is a teacher in addition to being something else, or, Suzuki-san is a teacher in addition to someone else. This is because neither \"too\" nor \"also\" attaches to any specific word. Either variation of this sentence is a possibility.",
+    "On the other hand, the particle も is only attached to the word that you want to add on to the list. So, if you say 鈴木（すずき）さん も , it is clear that 鈴木（すずき）さん is a new member in addition to someone else .",
+    "If your intention is to say, \"Suzuki-san is a teacher in addition to being something else ,\" you'd attach も to the specific word you wish to add to the set. For example, let's say Suzuki-san is a teacher and is also a gamer. In this case, you can say:",
+    "Here, the particle も accompanies ゲーマーである (is a gamer), creating the nuance \"Suzuki-san is a gamer in addition to being something else .\" In other words, も marks \"being a gamer\" as an additional item on the list of \"things that Suzuki-san is.\"",
+    "In this section, we'll list the basic structure used with the particle も. Later on, we'll take a more detailed look at its uses.",
+    "も often follows a noun or a noun phrase. What comes after も can be a lot of varieties of words and forms. It can be anything from nouns , い-adjectives , な-adjectives , to verbs in either the positive or negative form.",
+    "も can also be used in the predicate . If the predicate is a noun or a な-adjective, も is generally added between で (the て form of だ) and ある, as in:",
+    "If the predicate is an い-adjective, も comes after the く form of the word and the verb ある is added:",
+    "も can be used with other particles, such as にも, でも, とも, or へも . Just like when it's used alone, も adds the nuance that the word or phrase is a part of a set. The following is one example, but you can learn more about double particles on their individual pages.",
+    "The function of も is simple. It indicates an addition to a set, and you've already seen some examples. Here, we'll explore more examples to help you understand this better.",
+    "First, let's take a look at the following examples as a quick recap.",
+    "In this example, Hayashi-san is already on the list of \"people who are students,\" も is paired with Mori-san to show that they are also a member of this group.",
+    "You can use も with things as well as people. For example, to say you bought strawberries and also milk, you can say:",
+    "Here, ミルク is marked by も, which adds the nuance of \"in addition to strawberries.\" Now, both strawberries and milk are on the list of \"things you purchased.\"",
+    "You can also use も with periods of time, like yesterday or today. So if yesterday was rainy and today is too, you can say:",
+    "In this sentence, も attaches to 今日（きょう） and adds the nuance of \"in addition to yesterday.\" Now, both yesterday and today are in the set of \"days it rained.” Maybe we'll have to add 明日（あした） も (tomorrow, also) if the rain persists.",
+    "When you want to add multiple new parts to the set, there are two ways. One way is to make an addition one by one, by marking every new word with も.",
+    "Oftentimes, this use of も can be translated with \"both\" or \"all,\" as in \" Both Mori-san and Yamada-san are also students.\"",
+    "Another way is to use the particle と to group the additional members together, and then add them to the whole by attaching も at the end.",
+    "In this example, と groups together \"Mori-san and Yamada-san\" and then も marks the two of them as an addition to the set, as in [森（もり）さん と 山田（やまだ）さん] も .",
+    "The particle も can also mean \"either,\" if the parts of the set consist of people or things who do not belong to a certain type of group. For example, to say Hayashi-san is not a student and Mori-san isn't either, you can say:",
+    "In this example, Hayashi-san is already on a list of \"people who are not students\" and も indicates Mori-san is also under this classification.",
+    "In the same fashion as the earlier examples, if you want to add multiple parts to the set, you can mark each individual word with も, one by one.",
+    "This use of も can also be translated using \"neither,\" as in, \" Neither Mori-san nor Yamada-san are students.\"",
+    "Or, you can first combine a group with と and then add them by using も at the end.",
+    "The particle も can also add emphasis on what comes before it in both a positive or a negative way. It shows that something is either surprising or extreme. For example, imagine your sweet tooth has been acting up again and so you eat ice cream, chocolate, and even an entire pumpkin pie! When your roommate finds this out, she may be surprised, and say:",
+    "In this example, パンプキンパイ is paired with も to indicate it's an additional part to the set of things you ate. In your roommate's eyes, this last addition is beyond what's considered \"normal,\" so the particle も is used more emphatically.",
+    "The emphatic use of も can be used with a quantity even if there isn't anything in the set already. For example, if you are hungry and just ate six hamburgers, you can use も and say:",
+    "In this situation, it's not that you'd eaten something else beforehand, but it's okay to use も here. Because you just added 6 hamburgers at once, you formed a new set of \"things you ate,\" and you want to show that it was an impressive amount. This can be used in various scenarios as long as the amount is somewhat surprising or extreme.",
+    "For example, if you notice you gained 5kg over Christmas break, you may think it was a lot of weight to gain. To emphasize the 5kg amount with も, you'd say:",
+    "In the same way, if you had to wait for three hours at a hospital before seeing a doctor, you may think it was way too long and emphasize the length of time with も.",
+    "In a similar way, the emphatic も can follow a question word . For example, let's say you are at a bakery and you're very indecisive about which bread to buy because everything looks so delicious. Here, you can add も to the question word どれ (which one) and say:",
+    "どれ is the question word that asks \"which one?\" out of two options. With も, a question word works like a wild card that can be added to the set. So here, も indicates every choice available is added to the set of \"things that look delicious,\" making the sentence mean \"everything looks delicious.\"",
+    "In the same way, if you add も to the question word いつ (when), it becomes the word いつも, which means \"always.\" For example, if the above bakery's bread always tastes good, you can say:",
+    "Here, も turns いつ into a wild card that has a value of \"every possible available time\" and adds it to the set of \"times when this bakery's bread tastes good.\" Combined together, it implies their bread always tastes good.",
+    "Now, imagine you are not feeling well, you have nausea and don't want to eat anything. In this scenario, you can use 何（なに） (what) with も in a negative sentence, as in:",
+    "何（なに） is the question word for \"what,\" so when も is paired with it, it indicates \"anything\" goes to the set. Here, the set is \"things you don't want to eat.\" So combined together, it means \"I don't want to eat anything.\"",
+    "Question words can also be used with でも , which is the て form of だ with the particle も. In this case, it would add the meaning \"no matter 〜,\" as in どれでも (no matter which one), いつでも (no matter when), or 何（なに）でも (no matter what).",
+    "You can use も with the て form of a word and pair it with いい to express or ask for permission or concession. For example, to ask your parent if it's okay for you to watch TV, you can use this form, as in:",
+    "This sentence suggests that the person you are asking the question to has the authority to decide. も marks the activity or \"watching TV\" as a part of the set of \"things that are all right to do\" to the person with the authority. Ending a sentence with a rising intonation turns the sentence into a question, which asks if the activity belongs on the list of \"things that are all right to do.\" You can learn more about this use on its specific page."
+  ],
+  "examples": [
+    {
+      "japanese": "鈴木（すずき）さんも日本語（にほんご）の先生（せんせい）です。",
+      "english": "Suzuki-san is also a Japanese teacher."
+    },
+    {
+      "japanese": "私（わたし）も日本語（にほんご）を教（おし）えています。",
+      "english": "I also teach Japanese."
+    },
+    {
+      "japanese": "鈴木（すずき）さんは先生（せんせい）です。鈴木（すずき）さんはゲーマーでもあります。",
+      "english": "Suzuki-san is a teacher. Suzuki-san is also a gamer."
+    },
+    {
+      "japanese": "これも花（はな）です。",
+      "english": "This is also a flower."
+    },
+    {
+      "japanese": "これもかわいい。",
+      "english": "This is also cute."
+    },
+    {
+      "japanese": "これも変（へん）じゃない。",
+      "english": "This isn't weird, either."
+    },
+    {
+      "japanese": "これもできない。",
+      "english": "I cannot do this, either."
+    },
+    {
+      "japanese": "ジェニーは先生（せんせい）である。",
+      "english": "Jenny is a teacher."
+    },
+    {
+      "japanese": "ジェニーは先生（せんせい）でもある。",
+      "english": "Jenny is also a teacher."
+    },
+    {
+      "japanese": "ここは静（しず）かである。",
+      "english": "This place is quiet."
+    },
+    {
+      "japanese": "ここは静（しず）かでもある。",
+      "english": "This place is also quiet."
+    },
+    {
+      "japanese": "クモはかわいい。",
+      "english": "Spiders are cute."
+    },
+    {
+      "japanese": "クモはかわいくもある。",
+      "english": "Spiders are also cute."
+    },
+    {
+      "japanese": "ジェニーにもあげる。",
+      "english": "I'll also give it to Jenny"
+    },
+    {
+      "japanese": "林（はやし）さんは学生（がくせい）です。森（もり）さんも学生（がくせい）です。",
+      "english": "Hayashi-san is a student. Mori-san is also a student."
+    },
+    {
+      "japanese": "イチゴを買（か）いました。ミルクも買（か）いました。",
+      "english": "I bought strawberries. I also bought milk."
+    },
+    {
+      "japanese": "昨日（きのう）は雨（あめ）でした。今日（きょう）も雨（あめ）でした。",
+      "english": "Yesterday, it was rainy. Today, it was also rainy."
+    },
+    {
+      "japanese": "林（はやし）さんは学生（がくせい）です。森（もり）さんも山田（やまだ）さんも学生（がくせい）です。",
+      "english": "Hayashi-san is a student. Mori-san and Yamada-san are also students."
+    },
+    {
+      "japanese": "林（はやし）さんは学生（がくせい）です。森（もり）さんと山田（やまだ）さんも学生（がくせい）です。",
+      "english": "Hayashi-san is a student. Mori-san and Yamada-san are also students."
+    },
+    {
+      "japanese": "林（はやし）さんは学生（がくせい）じゃありません。森（もり）さんも学生（がくせい）じゃありません。",
+      "english": "Hayashi-san is not a student. Mori-san is not a student, either."
+    },
+    {
+      "japanese": "林（はやし）さんは学生（がくせい）じゃありません。森（もり）さんも山田（やまだ）さんも学生（がくせい）じゃありません。",
+      "english": "Hayashi-san is not a student. Mori-san and Yamada-san are not students, either."
+    },
+    {
+      "japanese": "林（はやし）さんは学生（がくせい）じゃありません。森（もり）さんと山田（やまだ）さんも学生（がくせい）じゃありません。",
+      "english": "Hayashi-san is not a student. Mori-san and Yamada-san are not students, either."
+    },
+    {
+      "japanese": "アイスとチョコを食（た）べた後（のち）に、パンプキンパイも食（た）べたの！？",
+      "english": "After eating ice cream and chocolate, you even ate a pumpkin pie!?"
+    },
+    {
+      "japanese": "ハンバーガーを６個（こ）も食（た）べちゃった。",
+      "english": "I ate six hamburgers!"
+    },
+    {
+      "japanese": "５キロも太（ふと）った。",
+      "english": "I gained five kilos."
+    },
+    {
+      "japanese": "３時間（じかん）も待（ま）った。",
+      "english": "I waited for three hours."
+    },
+    {
+      "japanese": "どれもおいしそう！",
+      "english": "Everything looks delicious!"
+    },
+    {
+      "japanese": "ここのパンはいつもおいしい。",
+      "english": "This bakery's bread always tastes good."
+    },
+    {
+      "japanese": "何（なに）も食（た）べたくない。",
+      "english": "I don't want to eat anything."
+    },
+    {
+      "japanese": "テレビ観（み）てもいい？",
+      "english": "Is it all right if I watch TV?"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "as-a-part-of-a-set",
+      "text": "も As a Part of a Set"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + も"
+    },
+    {
+      "level": 4,
+      "id": "at-the-end-of-a-sentence",
+      "text": "も at the End of a Sentence"
+    },
+    {
+      "level": 4,
+      "id": "combined-with-other-particles",
+      "text": "も Combined with Other Particles"
+    },
+    {
+      "level": 3,
+      "id": "particle--as-in-also",
+      "text": "Particle も as in \"Also\""
+    },
+    {
+      "level": 3,
+      "id": "particle--as-in-either",
+      "text": "Particle も as in \"Either\""
+    },
+    {
+      "level": 3,
+      "id": "particle--for-emphasis",
+      "text": "Particle も for Emphasis"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "quantity--",
+      "text": "Quantity + も"
+    },
+    {
+      "level": 3,
+      "id": "question-word--",
+      "text": "Question Word + も"
+    },
+    {
+      "level": 3,
+      "id": "form----",
+      "text": "て Form + も + いい"
+    }
+  ],
+  "id": 27,
+  "slug": "particle-mo",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-mo/",
+  "categories": [
+    "Particle"
+  ]
+}

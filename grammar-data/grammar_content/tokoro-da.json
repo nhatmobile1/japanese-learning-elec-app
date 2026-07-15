@@ -1,0 +1,159 @@
+{
+  "title": "〜ところだ",
+  "description": "〜ところだ pins an action to a point in time. The form of the verb in front of ところ sets the moment: dictionary form = about to do it, 〜ている form = right in the middle of it, and た form = just finished it.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "ところ literally means \"place,\" but here it marks a place in time. Change the verb form before it and you slide along the timeline of an action — just before, during, or just after. The three sections below each pair one formula with an example."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "about-to",
+      "text": "About To (Dictionary ＋ ところだ)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dictionary form plus ところだ means you are on the verge of doing something — it hasn't started yet."
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb （dictionary）＋ ところだ",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "これから出（で）かけるところです。",
+      "english": "I'm just about to head out."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "in-the-middle",
+      "text": "In the Middle Of (〜ている ＋ ところだ)"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 〜ている form plus ところだ means the action is underway right now — you're in the thick of it."
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb （〜ている）＋ ところだ",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "ちょうど夕食（ゆうしょく）を作（つく）っているところです。",
+      "english": "I'm right in the middle of making dinner."
+    },
+    {
+      "type": "example",
+      "japanese": "今（いま）、宿題（しゅくだい）をしているところだ。",
+      "english": "I'm in the middle of doing my homework now."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "just-finished",
+      "text": "Just Finished (た ＋ ところだ)"
+    },
+    {
+      "type": "paragraph",
+      "text": "た form plus ところだ means the action wrapped up a moment ago — you finished it just now."
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb （た）＋ ところだ",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "今（いま）、駅（えき）に着（つ）いたところです。",
+      "english": "I just arrived at the station."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜たところだ (just finished) and 〜たばかりだ (just did) overlap but differ: たところだ is strictly about the moment an action ends, so it needs a genuinely fresh event, while たばかりだ describes felt recency and tolerates more elapsed time (日本（にほん）に来（き）たばかり can mean \"I came to Japan recently,\" even weeks ago)."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "Verb （dictionary）＋ ところだ",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "これから出（で）かけるところです。",
+      "english": "I'm just about to head out."
+    },
+    {
+      "japanese": "Verb （〜ている）＋ ところだ",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "ちょうど夕食（ゆうしょく）を作（つく）っているところです。",
+      "english": "I'm right in the middle of making dinner."
+    },
+    {
+      "japanese": "今（いま）、宿題（しゅくだい）をしているところだ。",
+      "english": "I'm in the middle of doing my homework now."
+    },
+    {
+      "japanese": "Verb （た）＋ ところだ",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "今（いま）、駅（えき）に着（つ）いたところです。",
+      "english": "I just arrived at the station."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "about-to",
+      "text": "About To (Dictionary ＋ ところだ)"
+    },
+    {
+      "level": 2,
+      "id": "in-the-middle",
+      "text": "In the Middle Of (〜ている ＋ ところだ)"
+    },
+    {
+      "level": 2,
+      "id": "just-finished",
+      "text": "Just Finished (た ＋ ところだ)"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1018,
+  "slug": "tokoro-da",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

@@ -1,0 +1,728 @@
+{
+  "title": "〜させる (Causative)",
+  "description": "When a verb ends in 〜させる, it tells us that someone is forced to do the action, or allowed to do the action, depending on context. For this reason, 〜させる is known as the causative form.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜させる is a verb suffix that adds a meaning of causation or permission to a verb. In other words, adding 〜させる means that someone is forced to do the action, or allowed to do the action. For example, if your mom forces your dad to eat bugs, you could say お母（かあ）さんはお父（とう）さんに虫（むし）を食（た）べさせる. Depending on the context though, it could also mean that she lets your dad eat bugs too… hey, I'm not judging. ( Great source of protein , actually.) 🦗"
+    },
+    {
+      "type": "paragraph",
+      "text": "At its core, 〜させる tells us that the subject of the sentence somehow causes someone else to carry out the action in the sentence. This is why verbs ending in 〜させる are said to be in the causative form . Whether this causation is forceful or done through permission, 〜させる emphasizes the fact that someone has influence over an action that someone else carries out."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜させる"
+    },
+    {
+      "type": "paragraph",
+      "text": "The way 〜させる is added to verbs depends on their conjugation group . Here's an overview table:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Godan",
+          "会（あ）う → 会（あ）わせる 立（た）つ → 立（た）たせる 写（うつ）す → 写（うつ）させる 割（われ）る → 割（わ）らせる 書（か）く → 書（か）かせる 泳（およ）ぐ → 泳（およ）がせる 死（し）ぬ → 死（し）なせる 学（まな）ぶ → 学（まな）ばせる 休（やす）む → 休（やす）ませる"
+        ],
+        [
+          "Ichidan",
+          "食（た）べる → 食（た）べさせる 起（お）きる → 起（お）きさせる 閉（と）じる → 閉（と）じさせる"
+        ],
+        [
+          "Irregular",
+          "来（く）る（く ） → 来（こ）させる（こ ） する → させる"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "When it comes to godan verbs , calling the causative form 〜させる might actually be a bit of a misnomer. Instead of using さ, you'll need to look at the character that comes at the end of the verb in plain form, and transform it to the corresponding あ-column character on the kana chart. Then you can add せる. So if the plain form ending of your verb is む, the new ending will be 〜ませる. Let's look at 読（よ）む (to read) for example:"
+    },
+    {
+      "type": "formula",
+      "japanese": "読（よ）む + ま + せる = 読（よ）ませる",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "If your verb ends in つ, your new causative ending will be 〜たせる. As in 立（た）つ (to stand):"
+    },
+    {
+      "type": "formula",
+      "japanese": "立（た）つ + た + せる = 立（た）たせる",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Watch out for verbs that end in う, like 買（か）う (to buy). You might expect 買（か）う to become 買（がい） あ せる, but this is actually incorrect. In this case, it becomes 買（がい） わ せる:"
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ 買（か）う + あ + せる = 買（がい）あせる ⭕️ 買（か）う + わ + せる = 買（か）わせる",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "❌ 買（がい） う + あ + せる = 買（がい） あせる ⭕️ 買（がい） う + わ + せる = 買（がい） わせる"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "For ichidan verbs , conjugating to causative form is a piece of cake. Just replace the 〜る ending of the plain form verb with 〜させる. For example, 食（た）べ る (to eat) becomes 食（た）べ させる ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "irregular-verbs",
+      "text": "Irregular Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are only two irregular verbs to remember. Not bad! The causative form of 来（き） る （ く ） (to come) is 来（こ）させる（こ ）, and する (to do) becomes a totally-different-looking verb: させる ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "the--short-form",
+      "text": "The 〜さす Short Form"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although many textbooks don't cover this, there is another, shorter causative form in Japanese: 〜さす. It isn't always covered in textbooks because it tends to be limited to casual speech or dialects like Kansai-ben. Since the verb in this form ends in 〜さす or あ-column kana plus す, we call it the short causative form. In order to use this form, replace the 〜せる of the normal causative form with 〜す. Here's a chart of this short form, so you can compare it with the normal form above."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Godan",
+          "会（あ）う → 会（あ）わす 立（た）つ → 立（た）たす 写（うつ）す → 写（うつし）さす 割（われ）る → 割（わ）らす 書（か）く → 書（か）かす 泳（およ）ぐ → 泳（およ）がす 死（し）ぬ → 死（し）なす 学（まな）ぶ → 学（まな）ばす 休（やす）む → 休（きゅう）ます"
+        ],
+        [
+          "Ichidan",
+          "食（た）べる → 食（た）べさす 起（お）きる → 起（お）きさす 閉（と）じる → 閉（と）じさす"
+        ],
+        [
+          "Irregular",
+          "来（く）る（く ） → 来（こ）さす（こ ） する → さす"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "While overall this form is considered less standard than 〜させる, there are some 〜さす ending verbs that are commonly used as independent verbs. For example: 泳（およ）がす (to let someone swim or move around freely), 寝（ね）かす (to put someone to bed, to lay something down), or 沸（わ）かす (to boil water). Notice that they all have some causative or permissive meaning built in to them!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "forceful-vs-permissive-",
+      "text": "Forceful vs. Permissive 〜させる"
+    },
+    {
+      "type": "paragraph",
+      "text": "The causative form can be interpreted as expressing forceful causation, or permissive causation. Which interpretation applies for a particular context depends on the relationship between three elements of the sentence:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's try applying this to an actual sentence. Can you identify the action, actor, and causer?"
+    },
+    {
+      "type": "example",
+      "japanese": "お母（かあ）さんは弟（おとうと）を学校（がっこう）に行（い）かせた。",
+      "english": "My mom made my little brother go to school."
+    },
+    {
+      "type": "paragraph",
+      "text": "The action is \"go to school\", the actor is \"my little brother\", and the causer is \"my mom.\" Since my little brother probably didn't want to go to school, we're more likely to interpret this as a forceful causative, rather than a permissive one. That's why we used \"she made him go\" in the English translation. Now let's have a look at sentence that means \" let someone do something\":"
+    },
+    {
+      "type": "example",
+      "japanese": "コウイチはマミにベーコンを好（す）きなだけ食（た）べさせた。",
+      "english": "Koichi let Mami eat as much bacon as she liked."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, the action is \"eat bacon,\" the actor is Mami, and the causer is Koichi. Koichi let Mami eat as much bacon as she liked, he didn't make her eat it. We can assume this because the sentence includes 好（す）きなだけ (as much as she likes), and if you know Mami you'll know she is crazy about bacon. So this is a permissive causative sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, the difference between these two sentences is how the actor feels about the action. If it's against their will, 〜させる is like \"make someone do something.\" If it's what they want to do, then 〜させる shows permission, and is the equivalent of \"let someone do something.\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-giving--receiving-verbs",
+      "text": "〜させて with Giving & Receiving Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clearly there is potential for ambiguity between forceful and permissive 〜させる. When you want to emphasize that the meaning is \" let someone do something,\" you can use verbs of giving or receiving to clear this up. These verbs include あげる, やる, くれる and もらう . To use them, you'll need to change 〜させる into the て form, which lucky for you is easy. It conjugates like an ichidan verb, meaning you'll pop the 〜る off and change it to 〜て, then add your chosen giving/receiving verb. Yay!"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜させてくれる is used when you are the actor, and you're grateful that the causer has allowed you to do the action. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "両親（りょうしん）は私（わたし）を大学（だいがく）に行（い）かせてくれた。",
+      "english": "My parents let me go to university."
+    },
+    {
+      "type": "paragraph",
+      "text": "The honorific version of 〜くれる, which is 〜くださる works the same way, while adding an air of formality and politeness:"
+    },
+    {
+      "type": "example",
+      "japanese": "大学（だいがく）に行（い）かせてくださって、有難（ありがと）うございます。",
+      "english": "Thank you for allowing me to go to university."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use this form to ask for permission:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）にもやらせてくれる？",
+      "english": "Can you let me do that too?"
+    },
+    {
+      "type": "example",
+      "japanese": "もう少（すこ）し考（かんが）えさせてくれますか。",
+      "english": "Can you let me think about it for a little longer?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Changing the verb to its negative form adds a touch more politeness, kind of like saying \"Can't I~?\" or \"Won't you let me~?\" in English:"
+    },
+    {
+      "type": "example",
+      "japanese": "大学（だいがく）に行（い）かせてくれませんか？",
+      "english": "Would you please allow me to go to university?"
+    },
+    {
+      "type": "paragraph",
+      "text": "When 〜させて is combined with あげる (to give), it adds the nuance that the causer is allowing the actor to do the action."
+    },
+    {
+      "type": "example",
+      "japanese": "大学（だいがく）に行（い）かせてあげるつもりだ。",
+      "english": "I'm planning to let you go to university."
+    },
+    {
+      "type": "example",
+      "japanese": "いい子（こ）にしてないと、パーティに行（い）かせてあげないよ。",
+      "english": "If you don't behave well, I won't let you go to the party."
+    },
+    {
+      "type": "paragraph",
+      "text": "やる, the rougher version of あげる, works like this too. It gives a coarse, masculine feel to the sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "宝（たから）くじが当（あ）たったら、ハワイに行（い）かせてやるよ。",
+      "english": "If I won the lottery, I'd let you travel to Hawaii."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly, when 〜させて is combined with もらう (to receive), it means that the actor was allowed to do something by the causer and they appreciate it. The combination is equivalent to \"be allowed to\" or \"may I?\" in English."
+    },
+    {
+      "type": "example",
+      "japanese": "それでは、ちょっと自己（じこ）紹介（しょうかい）させてもらいます。",
+      "english": "Now, please allow me to introduce myself."
+    },
+    {
+      "type": "example",
+      "japanese": "有（あ）り難（がた）いことに、まだトーフグで仕事（しごと）をさせてもらっています。",
+      "english": "Thankfully, I'm still working at Tofugu."
+    },
+    {
+      "type": "paragraph",
+      "text": "いただく, the honorific version of もらう, makes it sound more formal and polite:"
+    },
+    {
+      "type": "example",
+      "japanese": "商品（しょうひん）の紹介（しょうかい）をさせていただきます。",
+      "english": "Please allow me to introduce our product."
+    },
+    {
+      "type": "paragraph",
+      "text": "As with くれる, you can use the negative form to ask for permission. Questions formed with もらう are usually more polite than questions formed with くれる:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）にもやらせてもらえない？",
+      "english": "Can you let me do that too?"
+    },
+    {
+      "type": "example",
+      "japanese": "大学（だいがく）に行（い）かせてもらえませんか？",
+      "english": "Could you allow me to go to university?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-transitive-and-intransitive-verbs",
+      "text": "〜させる with Transitive and Intransitive Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you change a verb to the causative form, you have to pay attention to whether the verb is transitive or intransitive. For a refresher, transitive verbs are those that take an object, and intransitive verbs are ones that usually don't. If you need even more of a refresher, check out our page on transitivity ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's start out with a reminder about \"the actor\" in causative sentences. The actor is the person in the sentence who is being caused to carry out the action by the causer. When the causative verb is intransitive, we can choose between particle を and particle に to mark the actor. That said, there are reasons why you might choose one over the other. Let's take a look at these guidelines with the help of a few example sentences."
+    },
+    {
+      "type": "paragraph",
+      "text": "に and を are both fine if the actor carries out an action willingly:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ 両親（りょうしん）は私（わたし）を好（す）きなだけ泳（およ）がせた。 ⭕️ 両親（りょうしん）は私（わたし）に好（す）きなだけ泳（およ）がせた。",
+      "english": "My parents let me swim as much as I liked."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the action is carried out un willingly though, you have to use を:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ 両親（りょうしん）は私（わたし）を無理矢理（むりやり）泳（およ）がせた。 ❌ 両親（りょうしん）は私（わたし）に無理矢理（むりやり）泳（およ）がせた。",
+      "english": "My parents made me swim."
+    },
+    {
+      "type": "paragraph",
+      "text": "You also have to use を if the verb is expressing something uncontrollable (such as to surprise or to laugh), no matter if the actor does so willingly or not:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ 両親（りょうしん）は私（わたし）を笑（わら）わせた。 ❌ 両親（りょうしん）は私（わたし）に笑（わら）わせた。",
+      "english": "My parents made me laugh."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the actor is a thing, it obviously has neither intention nor will, so it is always marked by を."
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ 雪（ゆき）でバナナを凍（こお）らせた。 ❌ 雪（ゆき）でバナナに凍（こお）らせた。",
+      "english": "I let a banana freeze in the snow."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let's turn our attention to transitive verbs. These verbs take a direct object, which is marked by particle を. This means that we only have particle に leftover for marking the actor. As a general rule, you cannot have particle を appear twice in the same clause."
+    },
+    {
+      "type": "example",
+      "japanese": "両親（りょうしん）は私（わたし）に好（す）きなだけベーコンを食（た）べさせた。",
+      "english": "My parents let me eat as much bacon as I liked."
+    },
+    {
+      "type": "example",
+      "japanese": "両親（りょうしん）は私（わたし）に無理矢理（むりやり）ベーコンを食（た）べさせた。",
+      "english": "My parents made me eat bacon."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, the actor is marked by に in both sentences, regardless of the actor's willingness to eat bacon."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly, the actor and the causer are frequently omitted in Japanese when it's understood from the context. For example, in the following sentences, the parts in parentheses can be omitted in Japanese:"
+    },
+    {
+      "type": "example",
+      "japanese": "(お前（まえ）、)私（わたし）を怒（おこ）らせたな！",
+      "english": "(You) made me mad!"
+    },
+    {
+      "type": "example",
+      "japanese": "あいつらが(私（わたし）を)怒（おこ）らせたんだ。",
+      "english": "They made (me) mad."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "the-causative-passive-",
+      "text": "The Causative-Passive 〜させられる"
+    },
+    {
+      "type": "paragraph",
+      "text": "So far, we've learned how to say that someone forced/allowed someone else to do something. What if you want to say that you were forced to do something by someone else ? In other words, when you are the actor, and you want to use the forceful causative, you'll need to add on to our trusty 〜させる ending. By adding on the passive 〜られる to form 〜させられる, you can express that you were forced against your will to do something by someone else. What a bummer, dude! 😤"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine you hate 納豆（なっとう） (natto—that delicious bean treat that some people inexplicably dislike). Your mom says it's good for you, so she makes you eat it anyway. In this case you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "毎日（まいにち）、母（はは）に納豆（なっとう）を食（た）べさせられます。",
+      "english": "I'm made to eat natto every day by my mom."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your dad is also big on keeping you healthy, and he wants you to get more exercise:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）は父（ちち）にスクワットを百（ひゃく）回（かい）させられた。",
+      "english": "I was made to do a set of one hundred squats by my dad."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ugh, why they gotta be that way? Just keep in mind that once 〜させる has been made passive, it loses its other meaning of \"to let someone do something,\" and just keeps the meaning of being made to do something."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "idiomatic-uses",
+      "text": "Idiomatic Uses"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are a lot of idioms that use verbs ending in 〜させる."
+    },
+    {
+      "type": "paragraph",
+      "text": "話（はなし）に花（はな）を咲（さ）かせる : This literally means to make blossoms bloom in talk, but idiomatically means to have an animated conversation."
+    },
+    {
+      "type": "example",
+      "japanese": "二（に）人（にん）は思（おも）い出（で）話（ばなし）に花（はな）を咲（さ）かせた。",
+      "english": "The two had a lively conversation about their past."
+    },
+    {
+      "type": "paragraph",
+      "text": "This literally means to make someone's words choke, and it is often used when someone is choked up with emotion:"
+    },
+    {
+      "type": "example",
+      "japanese": "今日子（きょうこ）は「さよなら」と言（い）った後（のち）、言葉（ことば）を詰（つ）まらせた。",
+      "english": "Kyouko could only say \"goodbye\" and then she was too choked up to talk."
+    },
+    {
+      "type": "paragraph",
+      "text": "欠（か）かせない : This is the negative form of 欠（か）かせる (to make/let something lack), and it means \"a must\" or \"essential.\""
+    },
+    {
+      "type": "example",
+      "japanese": "水（みず）は生活（せいかつ）に欠（か）かせないものだ。",
+      "english": "Water is essential for life."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜させる is a verb suffix that adds a meaning of causation or permission to a verb. In other words, adding 〜させる means that someone is forced to do the action, or allowed to do the action. For example, if your mom forces your dad to eat bugs, you could say お母（かあ）さんはお父（とう）さんに虫（むし）を食（た）べさせる. Depending on the context though, it could also mean that she lets your dad eat bugs too… hey, I'm not judging. ( Great source of protein , actually.) 🦗",
+    "At its core, 〜させる tells us that the subject of the sentence somehow causes someone else to carry out the action in the sentence. This is why verbs ending in 〜させる are said to be in the causative form . Whether this causation is forceful or done through permission, 〜させる emphasizes the fact that someone has influence over an action that someone else carries out.",
+    "The way 〜させる is added to verbs depends on their conjugation group . Here's an overview table:",
+    "When it comes to godan verbs , calling the causative form 〜させる might actually be a bit of a misnomer. Instead of using さ, you'll need to look at the character that comes at the end of the verb in plain form, and transform it to the corresponding あ-column character on the kana chart. Then you can add せる. So if the plain form ending of your verb is む, the new ending will be 〜ませる. Let's look at 読（よ）む (to read) for example:",
+    "If your verb ends in つ, your new causative ending will be 〜たせる. As in 立（た）つ (to stand):",
+    "Watch out for verbs that end in う, like 買（か）う (to buy). You might expect 買（か）う to become 買（がい） あ せる, but this is actually incorrect. In this case, it becomes 買（がい） わ せる:",
+    "❌ 買（がい） う + あ + せる = 買（がい） あせる ⭕️ 買（がい） う + わ + せる = 買（がい） わせる",
+    "For ichidan verbs , conjugating to causative form is a piece of cake. Just replace the 〜る ending of the plain form verb with 〜させる. For example, 食（た）べ る (to eat) becomes 食（た）べ させる .",
+    "There are only two irregular verbs to remember. Not bad! The causative form of 来（き） る （ く ） (to come) is 来（こ）させる（こ ）, and する (to do) becomes a totally-different-looking verb: させる .",
+    "Although many textbooks don't cover this, there is another, shorter causative form in Japanese: 〜さす. It isn't always covered in textbooks because it tends to be limited to casual speech or dialects like Kansai-ben. Since the verb in this form ends in 〜さす or あ-column kana plus す, we call it the short causative form. In order to use this form, replace the 〜せる of the normal causative form with 〜す. Here's a chart of this short form, so you can compare it with the normal form above.",
+    "While overall this form is considered less standard than 〜させる, there are some 〜さす ending verbs that are commonly used as independent verbs. For example: 泳（およ）がす (to let someone swim or move around freely), 寝（ね）かす (to put someone to bed, to lay something down), or 沸（わ）かす (to boil water). Notice that they all have some causative or permissive meaning built in to them!",
+    "The causative form can be interpreted as expressing forceful causation, or permissive causation. Which interpretation applies for a particular context depends on the relationship between three elements of the sentence:",
+    "Let's try applying this to an actual sentence. Can you identify the action, actor, and causer?",
+    "The action is \"go to school\", the actor is \"my little brother\", and the causer is \"my mom.\" Since my little brother probably didn't want to go to school, we're more likely to interpret this as a forceful causative, rather than a permissive one. That's why we used \"she made him go\" in the English translation. Now let's have a look at sentence that means \" let someone do something\":",
+    "In this example, the action is \"eat bacon,\" the actor is Mami, and the causer is Koichi. Koichi let Mami eat as much bacon as she liked, he didn't make her eat it. We can assume this because the sentence includes 好（す）きなだけ (as much as she likes), and if you know Mami you'll know she is crazy about bacon. So this is a permissive causative sentence.",
+    "As you can see, the difference between these two sentences is how the actor feels about the action. If it's against their will, 〜させる is like \"make someone do something.\" If it's what they want to do, then 〜させる shows permission, and is the equivalent of \"let someone do something.\"",
+    "Clearly there is potential for ambiguity between forceful and permissive 〜させる. When you want to emphasize that the meaning is \" let someone do something,\" you can use verbs of giving or receiving to clear this up. These verbs include あげる, やる, くれる and もらう . To use them, you'll need to change 〜させる into the て form, which lucky for you is easy. It conjugates like an ichidan verb, meaning you'll pop the 〜る off and change it to 〜て, then add your chosen giving/receiving verb. Yay!",
+    "〜させてくれる is used when you are the actor, and you're grateful that the causer has allowed you to do the action. For example:",
+    "The honorific version of 〜くれる, which is 〜くださる works the same way, while adding an air of formality and politeness:",
+    "You can also use this form to ask for permission:",
+    "Changing the verb to its negative form adds a touch more politeness, kind of like saying \"Can't I~?\" or \"Won't you let me~?\" in English:",
+    "When 〜させて is combined with あげる (to give), it adds the nuance that the causer is allowing the actor to do the action.",
+    "やる, the rougher version of あげる, works like this too. It gives a coarse, masculine feel to the sentence:",
+    "Lastly, when 〜させて is combined with もらう (to receive), it means that the actor was allowed to do something by the causer and they appreciate it. The combination is equivalent to \"be allowed to\" or \"may I?\" in English.",
+    "いただく, the honorific version of もらう, makes it sound more formal and polite:",
+    "As with くれる, you can use the negative form to ask for permission. Questions formed with もらう are usually more polite than questions formed with くれる:",
+    "When you change a verb to the causative form, you have to pay attention to whether the verb is transitive or intransitive. For a refresher, transitive verbs are those that take an object, and intransitive verbs are ones that usually don't. If you need even more of a refresher, check out our page on transitivity .",
+    "Let's start out with a reminder about \"the actor\" in causative sentences. The actor is the person in the sentence who is being caused to carry out the action by the causer. When the causative verb is intransitive, we can choose between particle を and particle に to mark the actor. That said, there are reasons why you might choose one over the other. Let's take a look at these guidelines with the help of a few example sentences.",
+    "に and を are both fine if the actor carries out an action willingly:",
+    "If the action is carried out un willingly though, you have to use を:",
+    "You also have to use を if the verb is expressing something uncontrollable (such as to surprise or to laugh), no matter if the actor does so willingly or not:",
+    "When the actor is a thing, it obviously has neither intention nor will, so it is always marked by を.",
+    "Now let's turn our attention to transitive verbs. These verbs take a direct object, which is marked by particle を. This means that we only have particle に leftover for marking the actor. As a general rule, you cannot have particle を appear twice in the same clause.",
+    "As you can see, the actor is marked by に in both sentences, regardless of the actor's willingness to eat bacon.",
+    "Lastly, the actor and the causer are frequently omitted in Japanese when it's understood from the context. For example, in the following sentences, the parts in parentheses can be omitted in Japanese:",
+    "So far, we've learned how to say that someone forced/allowed someone else to do something. What if you want to say that you were forced to do something by someone else ? In other words, when you are the actor, and you want to use the forceful causative, you'll need to add on to our trusty 〜させる ending. By adding on the passive 〜られる to form 〜させられる, you can express that you were forced against your will to do something by someone else. What a bummer, dude! 😤",
+    "Imagine you hate 納豆（なっとう） (natto—that delicious bean treat that some people inexplicably dislike). Your mom says it's good for you, so she makes you eat it anyway. In this case you can say:",
+    "Your dad is also big on keeping you healthy, and he wants you to get more exercise:",
+    "Ugh, why they gotta be that way? Just keep in mind that once 〜させる has been made passive, it loses its other meaning of \"to let someone do something,\" and just keeps the meaning of being made to do something.",
+    "There are a lot of idioms that use verbs ending in 〜させる.",
+    "話（はなし）に花（はな）を咲（さ）かせる : This literally means to make blossoms bloom in talk, but idiomatically means to have an animated conversation.",
+    "This literally means to make someone's words choke, and it is often used when someone is choked up with emotion:",
+    "欠（か）かせない : This is the negative form of 欠（か）かせる (to make/let something lack), and it means \"a must\" or \"essential.\""
+  ],
+  "examples": [
+    {
+      "japanese": "お母（かあ）さんは弟（おとうと）を学校（がっこう）に行（い）かせた。",
+      "english": "My mom made my little brother go to school."
+    },
+    {
+      "japanese": "コウイチはマミにベーコンを好（す）きなだけ食（た）べさせた。",
+      "english": "Koichi let Mami eat as much bacon as she liked."
+    },
+    {
+      "japanese": "両親（りょうしん）は私（わたし）を大学（だいがく）に行（い）かせてくれた。",
+      "english": "My parents let me go to university."
+    },
+    {
+      "japanese": "大学（だいがく）に行（い）かせてくださって、有難（ありがと）うございます。",
+      "english": "Thank you for allowing me to go to university."
+    },
+    {
+      "japanese": "私（わたし）にもやらせてくれる？",
+      "english": "Can you let me do that too?"
+    },
+    {
+      "japanese": "もう少（すこ）し考（かんが）えさせてくれますか。",
+      "english": "Can you let me think about it for a little longer?"
+    },
+    {
+      "japanese": "大学（だいがく）に行（い）かせてくれませんか？",
+      "english": "Would you please allow me to go to university?"
+    },
+    {
+      "japanese": "大学（だいがく）に行（い）かせてあげるつもりだ。",
+      "english": "I'm planning to let you go to university."
+    },
+    {
+      "japanese": "いい子（こ）にしてないと、パーティに行（い）かせてあげないよ。",
+      "english": "If you don't behave well, I won't let you go to the party."
+    },
+    {
+      "japanese": "宝（たから）くじが当（あ）たったら、ハワイに行（い）かせてやるよ。",
+      "english": "If I won the lottery, I'd let you travel to Hawaii."
+    },
+    {
+      "japanese": "それでは、ちょっと自己（じこ）紹介（しょうかい）させてもらいます。",
+      "english": "Now, please allow me to introduce myself."
+    },
+    {
+      "japanese": "有（あ）り難（がた）いことに、まだトーフグで仕事（しごと）をさせてもらっています。",
+      "english": "Thankfully, I'm still working at Tofugu."
+    },
+    {
+      "japanese": "商品（しょうひん）の紹介（しょうかい）をさせていただきます。",
+      "english": "Please allow me to introduce our product."
+    },
+    {
+      "japanese": "私（わたし）にもやらせてもらえない？",
+      "english": "Can you let me do that too?"
+    },
+    {
+      "japanese": "大学（だいがく）に行（い）かせてもらえませんか？",
+      "english": "Could you allow me to go to university?"
+    },
+    {
+      "japanese": "⭕️ 両親（りょうしん）は私（わたし）を好（す）きなだけ泳（およ）がせた。 ⭕️ 両親（りょうしん）は私（わたし）に好（す）きなだけ泳（およ）がせた。",
+      "english": "My parents let me swim as much as I liked."
+    },
+    {
+      "japanese": "⭕️ 両親（りょうしん）は私（わたし）を無理矢理（むりやり）泳（およ）がせた。 ❌ 両親（りょうしん）は私（わたし）に無理矢理（むりやり）泳（およ）がせた。",
+      "english": "My parents made me swim."
+    },
+    {
+      "japanese": "⭕️ 両親（りょうしん）は私（わたし）を笑（わら）わせた。 ❌ 両親（りょうしん）は私（わたし）に笑（わら）わせた。",
+      "english": "My parents made me laugh."
+    },
+    {
+      "japanese": "⭕️ 雪（ゆき）でバナナを凍（こお）らせた。 ❌ 雪（ゆき）でバナナに凍（こお）らせた。",
+      "english": "I let a banana freeze in the snow."
+    },
+    {
+      "japanese": "両親（りょうしん）は私（わたし）に好（す）きなだけベーコンを食（た）べさせた。",
+      "english": "My parents let me eat as much bacon as I liked."
+    },
+    {
+      "japanese": "両親（りょうしん）は私（わたし）に無理矢理（むりやり）ベーコンを食（た）べさせた。",
+      "english": "My parents made me eat bacon."
+    },
+    {
+      "japanese": "(お前（まえ）、)私（わたし）を怒（おこ）らせたな！",
+      "english": "(You) made me mad!"
+    },
+    {
+      "japanese": "あいつらが(私（わたし）を)怒（おこ）らせたんだ。",
+      "english": "They made (me) mad."
+    },
+    {
+      "japanese": "毎日（まいにち）、母（はは）に納豆（なっとう）を食（た）べさせられます。",
+      "english": "I'm made to eat natto every day by my mom."
+    },
+    {
+      "japanese": "私（わたし）は父（ちち）にスクワットを百（ひゃく）回（かい）させられた。",
+      "english": "I was made to do a set of one hundred squats by my dad."
+    },
+    {
+      "japanese": "二（に）人（にん）は思（おも）い出（で）話（ばなし）に花（はな）を咲（さ）かせた。",
+      "english": "The two had a lively conversation about their past."
+    },
+    {
+      "japanese": "今日子（きょうこ）は「さよなら」と言（い）った後（のち）、言葉（ことば）を詰（つ）まらせた。",
+      "english": "Kyouko could only say \"goodbye\" and then she was too choked up to talk."
+    },
+    {
+      "japanese": "水（みず）は生活（せいかつ）に欠（か）かせないものだ。",
+      "english": "Water is essential for life."
+    },
+    {
+      "japanese": "読（よ）む + ま + せる = 読（よ）ませる",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "立（た）つ + た + せる = 立（た）たせる",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "❌ 買（か）う + あ + せる = 買（がい）あせる ⭕️ 買（か）う + わ + せる = 買（か）わせる",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Godan",
+        "会（あ）う → 会（あ）わせる 立（た）つ → 立（た）たせる 写（うつ）す → 写（うつ）させる 割（われ）る → 割（わ）らせる 書（か）く → 書（か）かせる 泳（およ）ぐ → 泳（およ）がせる 死（し）ぬ → 死（し）なせる 学（まな）ぶ → 学（まな）ばせる 休（やす）む → 休（やす）ませる"
+      ],
+      [
+        "Ichidan",
+        "食（た）べる → 食（た）べさせる 起（お）きる → 起（お）きさせる 閉（と）じる → 閉（と）じさせる"
+      ],
+      [
+        "Irregular",
+        "来（く）る（く ） → 来（こ）させる（こ ） する → させる"
+      ]
+    ],
+    [
+      [
+        "Godan",
+        "会（あ）う → 会（あ）わす 立（た）つ → 立（た）たす 写（うつ）す → 写（うつし）さす 割（われ）る → 割（わ）らす 書（か）く → 書（か）かす 泳（およ）ぐ → 泳（およ）がす 死（し）ぬ → 死（し）なす 学（まな）ぶ → 学（まな）ばす 休（やす）む → 休（きゅう）ます"
+      ],
+      [
+        "Ichidan",
+        "食（た）べる → 食（た）べさす 起（お）きる → 起（お）きさす 閉（と）じる → 閉（と）じさす"
+      ],
+      [
+        "Irregular",
+        "来（く）る（く ） → 来（こ）さす（こ ） する → さす"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜させる"
+    },
+    {
+      "level": 4,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "level": 4,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "level": 4,
+      "id": "irregular-verbs",
+      "text": "Irregular Verbs"
+    },
+    {
+      "level": 3,
+      "id": "the--short-form",
+      "text": "The 〜さす Short Form"
+    },
+    {
+      "level": 3,
+      "id": "forceful-vs-permissive-",
+      "text": "Forceful vs. Permissive 〜させる"
+    },
+    {
+      "level": 3,
+      "id": "with-giving--receiving-verbs",
+      "text": "〜させて with Giving & Receiving Verbs"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "with-transitive-and-intransitive-verbs",
+      "text": "〜させる with Transitive and Intransitive Verbs"
+    },
+    {
+      "level": 3,
+      "id": "the-causative-passive-",
+      "text": "The Causative-Passive 〜させられる"
+    },
+    {
+      "level": 3,
+      "id": "idiomatic-uses",
+      "text": "Idiomatic Uses"
+    }
+  ],
+  "id": 48,
+  "slug": "verb-causative-form-saseru",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-causative-form-saseru/",
+  "categories": [
+    "Verb Form"
+  ]
+}

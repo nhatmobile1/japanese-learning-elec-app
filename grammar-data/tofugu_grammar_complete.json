@@ -1,0 +1,1316 @@
+{
+  "source": "Tofugu Japanese Grammar Index",
+  "url": "https://www.tofugu.com/japanese-grammar/",
+  "scraped_date": "2024-12-30",
+  "total_points": 129,
+  "grammar_points": [
+    {
+      "id": 1,
+      "title": "Adjective さ (Objective Nouns)",
+      "description": "Adding 〜さ to an adjective turns it into a noun, and gives it the nuance that the noun is objective and measurable.",
+      "categories": [
+        "Adjective Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/adjective-suffix-sa/",
+      "slug": "adjective-suffix-sa"
+    },
+    {
+      "id": 2,
+      "title": "Adjective そう",
+      "description": "〜そう can be added to adjectives to mark them as speculative, such as おいしそう = \"looks delicious\".",
+      "categories": [
+        "Adjective Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/adjective-sou/",
+      "slug": "adjective-sou"
+    },
+    {
+      "id": 3,
+      "title": "Adjective み (Subjective Nouns)",
+      "description": "Adding 〜み to an adjective turns it into a noun with a subjective quality, like the \"warmth\" of a person or the \"weight\" of a decision.",
+      "categories": [
+        "Adjective Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/adjective-suffix-mi/",
+      "slug": "adjective-suffix-mi"
+    },
+    {
+      "id": 4,
+      "title": "Building Sentences and Clauses",
+      "description": "Understanding clauses will help you to break down and understand complicated sentences in Japanese.",
+      "categories": [
+        "Clause"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/sentences-and-clauses/",
+      "slug": "sentences-and-clauses"
+    },
+    {
+      "id": 5,
+      "title": "Command Form",
+      "description": "Verbs in the command form express strong orders or demands. The form changes depending on the verb type, so learn more, 読め (read it)！",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-command-form-ro/",
+      "slug": "verb-command-form-ro"
+    },
+    {
+      "id": 6,
+      "title": "Conjunctive Particle ので",
+      "description": "Just like the English conjunction \"so,\" ので is a conjunctive particle that explains a reason or cause. It also contains a polite feel, a…",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/conjunctive-particle-node/",
+      "slug": "conjunctive-particle-node"
+    },
+    {
+      "id": 7,
+      "title": "Conjunctive Particle のに",
+      "description": "のに is a conjunctive particle that expresses a sense of surprise or frustration when something goes against the set expectation.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/conjunctive-particle-noni/",
+      "slug": "conjunctive-particle-noni"
+    },
+    {
+      "id": 8,
+      "title": "Conjunctive Particles が・けど",
+      "description": "Conjunctive particles が and けど are often used in a similar way to the English word \"but.\" Additionally, they can be used to link contex…",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/conjunctive-particle-ga-kedo/",
+      "slug": "conjunctive-particle-ga-kedo"
+    },
+    {
+      "id": 9,
+      "title": "Date and Time",
+      "description": "To give the date, you use 〜年 (year), 〜月 (month), 〜日 (day), and 〜曜日 (day of the week). To tell time, you use 〜時 (hour), 〜分 (minute), and 〜秒 (second).",
+      "categories": [
+        "Suffix"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/date-and-time/",
+      "slug": "date-and-time"
+    },
+    {
+      "id": 10,
+      "title": "First-Person Pronouns",
+      "description": "First-person pronouns are words that a speaker or a writer uses when they refer to themselves, like \"I\" or \"we\" in English.",
+      "categories": [
+        "Pronoun"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/first-person-pronouns/",
+      "slug": "first-person-pronouns"
+    },
+    {
+      "id": 11,
+      "title": "Honorific Prefix: 御〜 (お〜・ご〜)",
+      "description": "御 (read as お, ご or おん) is an \"honorific prefix\" that is generally placed before nouns. It adds politeness and shows respect to the pers…",
+      "categories": [
+        "Honorific",
+        "Prefix"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/honorific-prefix-o-go/",
+      "slug": "honorific-prefix-o-go"
+    },
+    {
+      "id": 12,
+      "title": "Nouns",
+      "description": "Nouns are words that label the world around us and are used to identify things.",
+      "categories": [
+        "Noun"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/noun/",
+      "slug": "noun"
+    },
+    {
+      "id": 13,
+      "title": "Numbers and Counters",
+      "description": "Japanese has two ways to count. Numbers are followed by different counters, or 助数詞（じょすうし）, depending on the thing being counted.",
+      "categories": [
+        "Suffix"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/numbers-and-counters/",
+      "slug": "numbers-and-counters"
+    },
+    {
+      "id": 14,
+      "title": "Particle か",
+      "description": "か indicates that something is unknown. It's used to form questions, indefinite pronouns, and lists of alternatives.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-ka/",
+      "slug": "particle-ka"
+    },
+    {
+      "id": 15,
+      "title": "Particle から",
+      "description": "から is a particle that marks the \"source,\" such as a starting point, an origin, or a reason.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-kara/",
+      "slug": "particle-kara"
+    },
+    {
+      "id": 16,
+      "title": "Particle が (Subject)",
+      "description": "が marks the subject of a sentence. In other words, whatever comes before が is the person or thing that's doing whatever comes next.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-ga/",
+      "slug": "particle-ga"
+    },
+    {
+      "id": 17,
+      "title": "Particle で",
+      "description": "で specifies where or how an activity or event takes place.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-de/",
+      "slug": "particle-de"
+    },
+    {
+      "id": 18,
+      "title": "Particle と",
+      "description": "と is used to connect two or more words together as companions",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-to/",
+      "slug": "particle-to"
+    },
+    {
+      "id": 19,
+      "title": "Particle と (Conditional)",
+      "description": "と can be used to show a \"strong causal relationship.\" In other words, it shows a condition and a result that always follows.",
+      "categories": [
+        "Conditional",
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-to/",
+      "slug": "verb-to"
+    },
+    {
+      "id": 20,
+      "title": "Particle に",
+      "description": "に is like a pin on a map. It shows where you are, where you are headed, or where you were before.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-ni/",
+      "slug": "particle-ni"
+    },
+    {
+      "id": 21,
+      "title": "Particle ね",
+      "description": "ね is a sentence ending particle that marks information as shared by the speaker and listener.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-ne/",
+      "slug": "particle-ne"
+    },
+    {
+      "id": 22,
+      "title": "Particle の (Nominalizer)",
+      "description": "の is a nominalizer. It turns non-nouns — things like verbs, adjectives, or clauses — into nouns.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-no-nominalizer/",
+      "slug": "particle-no-nominalizer"
+    },
+    {
+      "id": 23,
+      "title": "Particle の (Noun Modifier)",
+      "description": "の is like a label maker. It turns a noun into a label that modifies another noun.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-no-noun-modifier/",
+      "slug": "particle-no-noun-modifier"
+    },
+    {
+      "id": 24,
+      "title": "Particle は",
+      "description": "は marks the topic of a clause, sentence, or paragraph. It creates focus as well as a nuance of contrast with other potential topics.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-wa/",
+      "slug": "particle-wa"
+    },
+    {
+      "id": 25,
+      "title": "Particle へ",
+      "description": "へ is like an arrow that points the way to a destination or a direction.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-he/",
+      "slug": "particle-he"
+    },
+    {
+      "id": 26,
+      "title": "Particle まで",
+      "description": "まで is a particle that indicates the end point in space, time, and numbers.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-made/",
+      "slug": "particle-made"
+    },
+    {
+      "id": 27,
+      "title": "Particle も",
+      "description": "The particle も is similar to the English words \"too\" and \"also.\" It is placed after a word to show that the word is part of a set.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-mo/",
+      "slug": "particle-mo"
+    },
+    {
+      "id": 28,
+      "title": "Particle や",
+      "description": "や is used to list multiple items (usually two or three) as examples. It implies that there are more items on the list that you haven't …",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-ya/",
+      "slug": "particle-ya"
+    },
+    {
+      "id": 29,
+      "title": "Particle よ",
+      "description": "よ is a sentence-ending particle that gives an informative feel.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-yo/",
+      "slug": "particle-yo"
+    },
+    {
+      "id": 30,
+      "title": "Particle よね",
+      "description": "よね is a sentence-ending particle that is commonly used for confirmation.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-yone/",
+      "slug": "particle-yone"
+    },
+    {
+      "id": 31,
+      "title": "Particle より For \"Than…\" In Comparison",
+      "description": "In a comparative sentence, より is equivalent to the English word \"than...\"",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-yori-than/",
+      "slug": "particle-yori-than"
+    },
+    {
+      "id": 32,
+      "title": "Particle より: A Formal Version of 〜から (From)",
+      "description": "より is a formal version of the particle から (from).",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-yori-from/",
+      "slug": "particle-yori-from"
+    },
+    {
+      "id": 33,
+      "title": "Particle わ",
+      "description": "わ is a sentence-ending particle that reflects your perception or sentiment based on personal observation and/or experience.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/sentence-ending-particle-wa/",
+      "slug": "sentence-ending-particle-wa"
+    },
+    {
+      "id": 34,
+      "title": "Particle を",
+      "description": "を tells us what the direct object of a sentence is. In other words, it marks the thing that gets affected by the verb.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/particle-wo/",
+      "slug": "particle-wo"
+    },
+    {
+      "id": 35,
+      "title": "Personal Pronouns",
+      "description": "Personal pronouns are used to refer to people from various perspectives: the first person (I, we), the second person (you), and the third person (she, he, they).",
+      "categories": [
+        "Pronoun"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/personal-pronouns/",
+      "slug": "personal-pronouns"
+    },
+    {
+      "id": 36,
+      "title": "Plural Suffixes",
+      "description": "Plural suffixes attach to the end of nouns to indicate that they are plural.",
+      "categories": [
+        "Plurality"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/plural-suffix/",
+      "slug": "plural-suffix"
+    },
+    {
+      "id": 37,
+      "title": "Plural and Quantity",
+      "description": "The ways we express plurality and quantity are different in Japanese and English. In Japanese, we use quantifiers, plural suffixes, and repetition words.",
+      "categories": [
+        "Plurality"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/plural-and-quantity/",
+      "slug": "plural-and-quantity"
+    },
+    {
+      "id": 38,
+      "title": "Question Words",
+      "description": "Questions words are words like 何 (what), いつ (when), and なぜ (why). They are used for asking questions.",
+      "categories": [
+        "Noun"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/question-words/",
+      "slug": "question-words"
+    },
+    {
+      "id": 39,
+      "title": "Second-Person Pronouns",
+      "description": "Second-person pronouns are words like \"you\" that a speaker uses to refer to their audience.",
+      "categories": [
+        "Pronoun"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/second-person-pronouns/",
+      "slug": "second-person-pronouns"
+    },
+    {
+      "id": 40,
+      "title": "Stem Form",
+      "description": "The stem form is a type of Japanese verb form also known as V-stem form, and 〜ます form—this last name comes from the fact that it can be followed by ます.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-stem-form-conjugation/",
+      "slug": "verb-stem-form-conjugation"
+    },
+    {
+      "id": 41,
+      "title": "Third-Person Pronouns",
+      "description": "Third-person pronouns are words like \"he\" and \"she.\" They are used for people who are neither \"I\" nor \"you.\"",
+      "categories": [
+        "Pronoun"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/third-person-pronouns/",
+      "slug": "third-person-pronouns"
+    },
+    {
+      "id": 42,
+      "title": "Transitive and Intransitive Verbs",
+      "description": "Transitive verbs describe actions that happen to something else. Intransitive verbs describe actions that happen by themselves.",
+      "categories": [
+        "Transitivity"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/transitivity/",
+      "slug": "transitivity"
+    },
+    {
+      "id": 43,
+      "title": "Verb Conjugation",
+      "description": "Japanese verbs have different conjugation patterns depending on what type they are — godan, ichidan, or irregular. Learn all about verb types and conjugation.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-conjugation-groups/",
+      "slug": "verb-conjugation-groups"
+    },
+    {
+      "id": 44,
+      "title": "Verb Plain Present る Form",
+      "description": "The plain form of a Japanese verb (aka the dictionary form or the る form) is used to talk about both the present and future.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-plain-present-form/",
+      "slug": "verb-plain-present-form"
+    },
+    {
+      "id": 45,
+      "title": "Verb そう",
+      "description": "Adding 〜そう to a verb is the equivalent of \"looks like (someone or something) is going to do something\" in English.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-sou/",
+      "slug": "verb-sou"
+    },
+    {
+      "id": 46,
+      "title": "〜かもしれない",
+      "description": "〜かもしれない follows a sentence and expresses \"uncertainty.\"",
+      "categories": [
+        "Phrase",
+        "Uncertainty"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/kamoshirenai/",
+      "slug": "kamoshirenai"
+    },
+    {
+      "id": 47,
+      "title": "〜ことがある",
+      "description": "By adding 〜ことがある to a word in the plain, non-past form, you can talk about what you do on occasion.",
+      "categories": [
+        "Phrase"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/kotogaaru/",
+      "slug": "kotogaaru"
+    },
+    {
+      "id": 48,
+      "title": "〜させる (Causative)",
+      "description": "When a verb ends in 〜させる, it tells us that someone is forced to do the action, or allowed to do the action, depending on context. For the causative form.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-causative-form-saseru/",
+      "slug": "verb-causative-form-saseru"
+    },
+    {
+      "id": 49,
+      "title": "〜し",
+      "description": "し is often used to add emphasis to a list of parallel or sequential fields, much as \"and what's more\" or \"not only...but also...\" in English.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/shi/",
+      "slug": "shi"
+    },
+    {
+      "id": 50,
+      "title": "〜じゃない・〜ではない",
+      "description": "Adding 〜じゃない or 〜ではない to the end of a noun or a な-adjective makes it negative, similar to the way \"not\" functions in English. Between the two, 〜ではない is more formal.",
+      "categories": [
+        "だ/です"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/janai-dewanai/",
+      "slug": "janai-dewanai"
+    },
+    {
+      "id": 51,
+      "title": "〜た (Past, Plain)",
+      "description": "The suffix 〜た puts a plain form verb into the past tense. It tells us that the verb is completed or happened before the present moment.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-past-ta-form/",
+      "slug": "verb-past-ta-form"
+    },
+    {
+      "id": 52,
+      "title": "〜たい (Desire)",
+      "description": "〜たい is a verb suffix that adds a meaning of desire. Use it to say \"I want to do [this verb].\"",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/tai-form/",
+      "slug": "tai-form"
+    },
+    {
+      "id": 53,
+      "title": "〜たがる",
+      "description": "〜たがる is used to say that someone is \"showing signs of wanting to do\" something. Use it to say what other people want to do.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/tagaru-form/",
+      "slug": "tagaru-form"
+    },
+    {
+      "id": 54,
+      "title": "〜たことがある",
+      "description": "When 〜たことがある follows the past tense, it expresses what you've experienced in the past.",
+      "categories": [
+        "Phrase"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/takotogaaru/",
+      "slug": "takotogaaru"
+    },
+    {
+      "id": 55,
+      "title": "〜たら",
+      "description": "〜たら is a conditional form. Depending on the context, it can express time sequence like \"when/after\" and conditions like \"if.\"",
+      "categories": [
+        "Clause Link",
+        "Conditional",
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/conditional-form-tara/",
+      "slug": "conditional-form-tara"
+    },
+    {
+      "id": 56,
+      "title": "〜たりする",
+      "description": "〜たりする is used to list actions and states. It indicates the list is incomplete, meaning that there are more things speakers could list.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/tarisuru/",
+      "slug": "tarisuru"
+    },
+    {
+      "id": 57,
+      "title": "〜てある",
+      "description": "Used with a verb that expresses intentions, 〜てある describes a current state that's the result of a past action done by somebody, usually on purpose.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/tearu/",
+      "slug": "tearu"
+    },
+    {
+      "id": 58,
+      "title": "〜ていく・〜てくる",
+      "description": "〜ていく and 〜てくる can express a gradual process that takes place over time. While 〜ていく focuses on the starting point of the process, 〜てくる focuses on the end point.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/teiku-tekuru/",
+      "slug": "teiku-tekuru"
+    },
+    {
+      "id": 59,
+      "title": "〜ていた",
+      "description": "〜ていた is the past tense version of 〜ている. This form puts emphasis on the duration of a past action.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-past-continuous-form-teita/",
+      "slug": "verb-past-continuous-form-teita"
+    },
+    {
+      "id": 60,
+      "title": "〜ている",
+      "description": "Depending on the verb that 〜ている is used with, it can describe an ongoing action, or a current state that's the result of a past action.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-continuous-form-teiru/",
+      "slug": "verb-continuous-form-teiru"
+    },
+    {
+      "id": 61,
+      "title": "〜ておく",
+      "description": "〜ておく follows a verb and generally adds the nuance that you do the action in advance for future convenience.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/teoku/",
+      "slug": "teoku"
+    },
+    {
+      "id": 62,
+      "title": "〜てほしい",
+      "description": "〜てほしい expresses that you want someone to do something or something to happen.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/tehoshii/",
+      "slug": "tehoshii"
+    },
+    {
+      "id": 63,
+      "title": "〜てみる",
+      "description": "〜てみる follows the stem form of a verb and expresses an exploratory nuance, as in \"to try doing something\" to find out more about it.",
+      "categories": [
+        "Phrase"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/temiru/",
+      "slug": "temiru"
+    },
+    {
+      "id": 64,
+      "title": "〜てもいい",
+      "description": "〜てもいい is a phrase that expresses permission, concession, or approval.",
+      "categories": [
+        "Phrase"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/temoii/",
+      "slug": "temoii"
+    },
+    {
+      "id": 65,
+      "title": "〜という",
+      "description": "〜という is a phrase with a wide array of functions, but it always denotes that what it's marking is based on hearsay or something that's said.",
+      "categories": [
+        "Phrase"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/toiu/",
+      "slug": "toiu"
+    },
+    {
+      "id": 66,
+      "title": "〜とき (When)",
+      "description": "The Japanese word とき means \"time,\" and can function like \"when\" in English to create a time clause, such as \"when I was a child.\"",
+      "categories": [
+        "Noun"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/toki/",
+      "slug": "toki"
+    },
+    {
+      "id": 67,
+      "title": "〜な For ''Don't...!''",
+      "description": "When な is added to the plain form of a verb, it marks a strong negative imperative. It's like very strongly saying \"Don't…!\" in English.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/na/",
+      "slug": "na"
+    },
+    {
+      "id": 68,
+      "title": "〜ない (Negative, Plain)",
+      "description": "When 〜ない appears on the end of a verb, it means it is in the negative plain form. In other words, it has a similar function to \"not\".",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-negative-nai-form/",
+      "slug": "verb-negative-nai-form"
+    },
+    {
+      "id": 69,
+      "title": "〜なかった (Negative, Past)",
+      "description": "〜なかった is the past tense negative plain form of verbs. It adds the meaning of \"did not do [verb]\" to a sentence.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-negative-past-nakatta-form/",
+      "slug": "verb-negative-past-nakatta-form"
+    },
+    {
+      "id": 70,
+      "title": "〜ながら (Contrast)",
+      "description": "ながら for contrasting clauses is used to describe two contradictory situations, and is often translated as \"although.\"",
+      "categories": [
+        "Clause Link"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/nagara/",
+      "slug": "nagara"
+    },
+    {
+      "id": 71,
+      "title": "〜ながら (Simultaneous Actions)",
+      "description": "ながら is used to indicate that two actions take place simultaneously. It is similar to \"while\" in English.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-nagara/",
+      "slug": "verb-nagara"
+    },
+    {
+      "id": 72,
+      "title": "〜なさい (Polite, Command)",
+      "description": "〜なさい is a suffix that is used to make polite commands or directions. While polite, it still implies a sense of authority.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-imperative-form-nasai/",
+      "slug": "verb-imperative-form-nasai"
+    },
+    {
+      "id": 73,
+      "title": "〜にくい",
+      "description": "〜にくい is a verb suffix that means \"difficult to do (the verb).\"",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/nikui/",
+      "slug": "nikui"
+    },
+    {
+      "id": 74,
+      "title": "〜ば (Conditional)",
+      "description": "The suffix 〜ば puts verbs into the conditional form. In other words, it adds an \"if\" meaning to a sentence.",
+      "categories": [
+        "Conditional",
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-conditional-form-ba/",
+      "slug": "verb-conditional-form-ba"
+    },
+    {
+      "id": 75,
+      "title": "〜ます",
+      "description": "When a verb ends in 〜ます, it shows that you are speaking politely.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/masu/",
+      "slug": "masu"
+    },
+    {
+      "id": 76,
+      "title": "〜やすい",
+      "description": "〜やすい is a verb suffix that means \"easy to do (the verb).\"",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/yasui/",
+      "slug": "yasui"
+    },
+    {
+      "id": 77,
+      "title": "〜よう (Volitional)",
+      "description": "〜よう is a verb suffix that expresses volition, proposition, or invitation, akin to \"let's\" or \"shall we?\" in English.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-volitional-form-you/",
+      "slug": "verb-volitional-form-you"
+    },
+    {
+      "id": 78,
+      "title": "〜られる (Passive)",
+      "description": "The passive suffix 〜られる tells us that a verb is done to someone. It takes the emphasis off of who does the action, and places it on who receives it.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-passive-form-rareru/",
+      "slug": "verb-passive-form-rareru"
+    },
+    {
+      "id": 79,
+      "title": "〜れる (Potential)",
+      "description": "〜れる appears on the end of a verb show ability or possibility, similarly to \"can\" or \"be able to\" in English.",
+      "categories": [
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/verb-potential-form-reru/",
+      "slug": "verb-potential-form-reru"
+    },
+    {
+      "id": 80,
+      "title": "〜中（じゅう）",
+      "description": "中（じゅう） follows a location or time-specific word to mean \"everything within the area\" or \"all throughout the period of time,\" respectively.",
+      "categories": [
+        "Suffix"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/juu/",
+      "slug": "juu"
+    },
+    {
+      "id": 81,
+      "title": "〜中（ちゅう）",
+      "description": "中（ちゅう）follows another word to mean \"in the middle of,\" as in 食事中 (in the middle of eating) or to mean \"during,\" as in 会議中 (during the meeting).",
+      "categories": [
+        "Suffix"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/chuu/",
+      "slug": "chuu"
+    },
+    {
+      "id": 82,
+      "title": "あまり〜ない",
+      "description": "あまり〜ない indicates that the degree or extent of something is not high or great, as in \"not very\" or \"not much.\"",
+      "categories": [
+        "Phrase"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/amarinai/",
+      "slug": "amarinai"
+    },
+    {
+      "id": 83,
+      "title": "い-Adjective かった (Past Tense Form)",
+      "description": "〜かった allows you to make い-adjectives past tense, in a similar way to \"was\" in English.",
+      "categories": [
+        "Adjective Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-past-form-katta/",
+      "slug": "i-adjective-past-form-katta"
+    },
+    {
+      "id": 84,
+      "title": "い-Adjective がる",
+      "description": "い-adjectives can take the suffix 〜がる to describe how other people seem to feel, based on how they look or behave. This lets you state what another person is feeling.",
+      "categories": [
+        "Adjective Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-garu/",
+      "slug": "i-adjective-garu"
+    },
+    {
+      "id": 85,
+      "title": "い-Adjective く Form",
+      "description": "This page teaches you how to put an adjective into the くform and provides basics of its three usages.",
+      "categories": [
+        "Adjective Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-ku-form/",
+      "slug": "i-adjective-ku-form"
+    },
+    {
+      "id": 86,
+      "title": "い-Adjective くない (Negative Form)",
+      "description": "Adding 〜くない to the end of an い-adjective makes it negative, kind of like how \"not\" functions in English.",
+      "categories": [
+        "Adjective Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-negative-form-kunai/",
+      "slug": "i-adjective-negative-form-kunai"
+    },
+    {
+      "id": 87,
+      "title": "い-Adjective ければ",
+      "description": "Adding 〜ければ to the end of an い-adjective makes it conditional, similar to using \"if\" or \"when\" in English.",
+      "categories": [
+        "Adjective Form",
+        "Clause Link",
+        "Conditional"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-conditional-form-kereba/",
+      "slug": "i-adjective-conditional-form-kereba"
+    },
+    {
+      "id": 88,
+      "title": "い-Adjectives",
+      "description": "い-adjectives are one type of adjective in Japanese. Their main function is to describe nouns, and they can take different ending to change their meaning.",
+      "categories": [
+        "Adjective Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective/",
+      "slug": "i-adjective"
+    },
+    {
+      "id": 89,
+      "title": "い-Adjectiveく (Adverb Form)",
+      "description": "The く form can be used to turn い-adjectives into adverbs, in a similar way to \"-ly\" in English.",
+      "categories": [
+        "Adjective Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-ku-form-adverb/",
+      "slug": "i-adjective-ku-form-adverb"
+    },
+    {
+      "id": 90,
+      "title": "い-Adjectiveく (Linking)",
+      "description": "The く form of い-adjectives allows you to combine words and clauses together.",
+      "categories": [
+        "Adjective Form",
+        "Clause Link"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-ku-form-linking/",
+      "slug": "i-adjective-ku-form-linking"
+    },
+    {
+      "id": 91,
+      "title": "い-Adjectiveく (Noun)",
+      "description": "A few い-adjectives that relate to time or location can be used like nouns in their く form.",
+      "categories": [
+        "Adjective Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/i-adjective-ku-form-noun/",
+      "slug": "i-adjective-ku-form-noun"
+    },
+    {
+      "id": 92,
+      "title": "いる・ある",
+      "description": "The Japanese verbs いる and ある mean things like \"to be\" or \"to exist\" and can often be used in a similar way to \"there is\" and \"there are\" in English.",
+      "categories": [
+        "Verb",
+        "Vocabulary"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/iru-aru/",
+      "slug": "iru-aru"
+    },
+    {
+      "id": 93,
+      "title": "うち",
+      "description": "うち is a word that means \"inside,\" as opposed to \"outside.\" When it's used with other grammar elements, like 〜のうち or 〜のうちに, it indicates that something is taking place while another condition is true.",
+      "categories": [
+        "Vocabulary"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/uchi/",
+      "slug": "uchi"
+    },
+    {
+      "id": 94,
+      "title": "ください",
+      "description": "ください indicates a direct request while paying respect to the speaker. By adding it to a verb in its て form, you can request that someone do something.",
+      "categories": [
+        "Phrase"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/kudasai/",
+      "slug": "kudasai"
+    },
+    {
+      "id": 95,
+      "title": "くらい",
+      "description": "くらい (or ぐらい) signifies approximation. It follows another word or phrase and indicates that something is around a certain amount or level.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/kurai/",
+      "slug": "kurai"
+    },
+    {
+      "id": 96,
+      "title": "くれる・あげる・もらう",
+      "description": "あげる and くれる are Japanese words for \"to give,\" and もらう means \"to receive/get.\" When speaking from the giver's perspective, you use あげる. When speaking from the receiver's perspective, you use くれる or もらう.",
+      "categories": [
+        "Verb",
+        "Vocabulary"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/kureru-ageru-morau/",
+      "slug": "kureru-ageru-morau"
+    },
+    {
+      "id": 97,
+      "title": "こいつ・そいつ・あいつ・どいつ",
+      "description": "こいつ, そいつ, あいつ, and どいつ are a set of こそあど言葉 (ko-so-a-do words). These words are used to refer to people, but they're very informal, and can be offensive.",
+      "categories": [
+        "Demonstrative"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/koitsu-soitsu-aitsu-doitsu/",
+      "slug": "koitsu-soitsu-aitsu-doitsu"
+    },
+    {
+      "id": 98,
+      "title": "こう・そう・ああ・どう",
+      "description": "こう, そう, ああ, and どう are a set of こそあど言葉 (ko-so-a-do words). They come before an adjective or a verb to specify the way the adjective or verb is.",
+      "categories": [
+        "Demonstrative"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/kou-sou-aa-dou/",
+      "slug": "kou-sou-aa-dou"
+    },
+    {
+      "id": 99,
+      "title": "ここ・そこ・あそこ・どこ",
+      "description": "ここ, そこ, あそこ, and どこ are a set of こそあど言葉 (ko-so-a-do words). They are equivalent to \"here,\" \"there,\" and \"over there\" in English. どこ is used for asking \"where?\"",
+      "categories": [
+        "Demonstrative"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/koko-soko-asoko-doko/",
+      "slug": "koko-soko-asoko-doko"
+    },
+    {
+      "id": 100,
+      "title": "こそあど言葉 (Ko-So-A-Do Words)",
+      "description": "こそあど言葉 (ko-so-a-do words) are a series of Japanese words that can be used to refer to things, people and locations. The word you choose to use mostly depends on the distance between you and whatever you're talking about.",
+      "categories": [
+        "Demonstrative"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/kosoado/",
+      "slug": "kosoado"
+    },
+    {
+      "id": 101,
+      "title": "こちら・そちら・あちら・どちら",
+      "description": "こちら, そちら, あちら, and どちら, along with their contractions こっち, そっち, あっち, and どっち, are a set of こそあど言葉 (ko-so-a-do words). They refer primarily to directions or areas, but can also be used for people.",
+      "categories": [
+        "Demonstrative"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/kochira-sochira-achira-dochira/",
+      "slug": "kochira-sochira-achira-dochira"
+    },
+    {
+      "id": 102,
+      "title": "こと (事)",
+      "description": "こと basically means \"thing.\" It's a versatile word for intangible, abstract things — ideas, events, experiences, and many others. こと can function as a nominalizer or be used with other grammar.",
+      "categories": [
+        "Noun"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/koto/",
+      "slug": "koto"
+    },
+    {
+      "id": 103,
+      "title": "こなた・そなた・あなた・どなた",
+      "description": "こなた, そなた, あなた and どなた are a set of こそあど言葉 (ko-so-a-do words). The first three all mean \"you,\" though only あなた is still in use today, and どなた means \"who.\"",
+      "categories": [
+        "Demonstrative"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/konata-sonata-anata-donata/",
+      "slug": "konata-sonata-anata-donata"
+    },
+    {
+      "id": 104,
+      "title": "この・その・あの・どの",
+      "description": "この, その, あの, and どの are a set of こそあど言葉 (ko-so-a-do words). They are placed before nouns to give information about their location in relation to the speaker and listener.",
+      "categories": [
+        "Demonstrative"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/kono-sono-ano-dono/",
+      "slug": "kono-sono-ano-dono"
+    },
+    {
+      "id": 105,
+      "title": "これ・それ・あれ・どれ",
+      "description": "これ, それ, あれ, and どれ are a set of こそあど言葉 (ko-so-a-do words). They are equivalent to \"this one,\" \"that one,\" and \"that one over there\" in English. どれ is for \"which one?\"",
+      "categories": [
+        "Demonstrative"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/kore-sore-are-dore/",
+      "slug": "kore-sore-are-dore"
+    },
+    {
+      "id": 106,
+      "title": "こんな・そんな・あんな・どんな",
+      "description": "こんな, そんな, あんな, and どんな are a set of こそあど言葉 (ko-so-a-do words). They all get placed before a noun to indicate what that noun is like.",
+      "categories": [
+        "Demonstrative"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/konna-sonna-anna-donna/",
+      "slug": "konna-sonna-anna-donna"
+    },
+    {
+      "id": 107,
+      "title": "さすが",
+      "description": "Used for both compliments and contradictions, さすが always adds the nuance that something is inevitable.",
+      "categories": [
+        "Vocabulary"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/sasuga/",
+      "slug": "sasuga"
+    },
+    {
+      "id": 108,
+      "title": "すぎる",
+      "description": "すぎる follows other verbs and adjectives and signifies that there's too much of something.",
+      "categories": [
+        "Verb"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/sugiru/",
+      "slug": "sugiru"
+    },
+    {
+      "id": 109,
+      "title": "する",
+      "description": "する basically means \"to do,\" but it is incredibly versatile and goes beyond its English equivalent.",
+      "categories": [
+        "Verb"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/suru/",
+      "slug": "suru"
+    },
+    {
+      "id": 110,
+      "title": "だ",
+      "description": "だ marks nouns and な-adjectives as present tense and positive, but it can also add an emphatic nuance in some contexts.",
+      "categories": [
+        "だ/です"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/da/",
+      "slug": "da"
+    },
+    {
+      "id": 111,
+      "title": "だけ",
+      "description": "だけ means \"only\" and indicates the limitation or extent of something.",
+      "categories": [
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/dake/",
+      "slug": "dake"
+    },
+    {
+      "id": 112,
+      "title": "だった",
+      "description": "だった is a plain form past tense marker, typically used with nouns and な-adjectives.",
+      "categories": [
+        "だ/です"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/datta/",
+      "slug": "datta"
+    },
+    {
+      "id": 113,
+      "title": "だろう",
+      "description": "Often translated as \"probably,\" \"I assume,\" or \"I believe,\" だろう is used to speculate based on your interpretation of something.",
+      "categories": [
+        "Uncertainty",
+        "だ/です"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/darou/",
+      "slug": "darou"
+    },
+    {
+      "id": 114,
+      "title": "つもり",
+      "description": "つもり expresses the speaker's predetermined intention.",
+      "categories": [
+        "Noun"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/tsumori/",
+      "slug": "tsumori"
+    },
+    {
+      "id": 115,
+      "title": "て Form",
+      "description": "The て form links actions, events, and states. The relationship between linked words can be different depending on the context.",
+      "categories": [
+        "Adjective Form",
+        "Clause Link",
+        "Verb Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/te-form/",
+      "slug": "te-form"
+    },
+    {
+      "id": 116,
+      "title": "でした",
+      "description": "でした is a polite past tense marker, typically used with nouns and な-adjectives.",
+      "categories": [
+        "だ/です"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/deshita/",
+      "slug": "deshita"
+    },
+    {
+      "id": 117,
+      "title": "でしょう",
+      "description": "でしょう is used to speculate based on your interpretation of something, though you lack proof. It's often translated as \"perhaps,\" \"I assume,\" or \"I believe.\"",
+      "categories": [
+        "Uncertainty",
+        "だ/です"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/deshou/",
+      "slug": "deshou"
+    },
+    {
+      "id": 118,
+      "title": "です",
+      "description": "です is used to mark words as polite if they cannot conjugate to show politeness themselves.",
+      "categories": [
+        "だ/です"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/desu/",
+      "slug": "desu"
+    },
+    {
+      "id": 119,
+      "title": "な-Adjectives",
+      "description": "な-adjectives are one type of adjective in Japanese. Their main function is to describe nouns, but many can function as nouns themselves.",
+      "categories": [
+        "Adjective Form"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/na-adjective/",
+      "slug": "na-adjective"
+    },
+    {
+      "id": 120,
+      "title": "なら",
+      "description": "なら is a conditional particle. It means something like \"if\" in English.",
+      "categories": [
+        "Clause Link",
+        "Conditional",
+        "Particle"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/conditional-form-nara/",
+      "slug": "conditional-form-nara"
+    },
+    {
+      "id": 121,
+      "title": "なる",
+      "description": "なる is equivalent to the English verb \"to become.\"",
+      "categories": [
+        "Vocabulary"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/naru/",
+      "slug": "naru"
+    },
+    {
+      "id": 122,
+      "title": "まだ",
+      "description": "まだ means \"still\" and まだ〜ない means \"not…yet.\"",
+      "categories": [
+        "Adverb"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/mada/",
+      "slug": "mada"
+    },
+    {
+      "id": 123,
+      "title": "もう (A Little More...)",
+      "description": "もう suggests \"a little more\" than the current quantity or condition.",
+      "categories": [
+        "Adverb"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/mou-little-more/",
+      "slug": "mou-little-more"
+    },
+    {
+      "id": 124,
+      "title": "もう (Already / Not Anymore)",
+      "description": "もう is the equivalent of \"already\" or \"(not) any more\" in English.",
+      "categories": [
+        "Adverb"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/mou-already-not-anymore/",
+      "slug": "mou-already-not-anymore"
+    },
+    {
+      "id": 125,
+      "title": "んだ・んです",
+      "description": "んだ and its variants such as んです add an explanatory feel to a sentence. It's often used to provide information in order to fill the gap in the listener's understanding.",
+      "categories": [
+        "だ/です"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/explanatory-nda-ndesu-noda-nodesu/",
+      "slug": "explanatory-nda-ndesu-noda-nodesu"
+    },
+    {
+      "id": 126,
+      "title": "中（なか）",
+      "description": "中（なか）is a word for \"inside.\" It can also mark items for comparison, as in \"among\" these things, or indicate the circumstances \"in which\" something happens.",
+      "categories": [
+        "Noun"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/naka/",
+      "slug": "naka"
+    },
+    {
+      "id": 127,
+      "title": "前・後",
+      "description": "前 and 後 mean \"in front\" and \"behind\" respectively when referring to space, and \"before\" and \"after\" when talking about time.",
+      "categories": [
+        "Noun"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/mae-ushiro/",
+      "slug": "mae-ushiro"
+    },
+    {
+      "id": 128,
+      "title": "自分",
+      "description": "自分 is a Japanese pronoun that means \"self.\"",
+      "categories": [
+        "Pronoun"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/jibun/",
+      "slug": "jibun"
+    },
+    {
+      "id": 129,
+      "title": "行く・来る",
+      "description": "行く and 来る are Japanese words for \"to go\" and \"to come.\" 行く indicates that the speaker's on the departure side of the movement, while 来る indicates arrival at the speaker's side.",
+      "categories": [
+        "Verb",
+        "Vocabulary"
+      ],
+      "url": "https://www.tofugu.com/japanese-grammar/iku-kuru/",
+      "slug": "iku-kuru"
+    }
+  ]
+}

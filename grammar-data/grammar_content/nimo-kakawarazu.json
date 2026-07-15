@@ -1,0 +1,110 @@
+{
+  "title": "〜にもかかわらず",
+  "description": "〜にもかかわらず means \"despite\" or \"in spite of.\" It is a formal, written-sounding concessive: something happens even though the situation would normally prevent or discourage it.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜にもかかわらず attaches to a noun or to a plain-form clause and means the result holds despite it. 雨（あめ）にもかかわらず = \"despite the rain\"; 努力（どりょく）したにもかかわらず = \"despite having made an effort.\" It belongs to formal writing, speeches, and news rather than casual chat."
+    },
+    {
+      "type": "formula",
+      "japanese": "Noun ／ Verb・Adjective （plain）　＋ にもかかわらず",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）にもかかわらず、試合（しあい）は行（おこな）われた。",
+      "english": "Despite the rain, the match was held."
+    },
+    {
+      "type": "example",
+      "japanese": "努力（どりょく）したにもかかわらず、失敗（しっぱい）した。",
+      "english": "Despite making an effort, I failed."
+    },
+    {
+      "type": "example",
+      "japanese": "忙（いそが）しいにもかかわらず、彼（かれ）は手伝（てつだ）ってくれた。",
+      "english": "Despite being busy, he helped me out."
+    },
+    {
+      "type": "example",
+      "japanese": "何度（なんど）も注意（ちゅうい）したにもかかわらず、彼（かれ）は同（おな）じミスを繰（く）り返（かえ）す。",
+      "english": "Despite being warned many times, he keeps making the same mistake."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "register",
+      "text": "Register: 〜にもかかわらず vs 〜のに"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜のに and 〜にもかかわらず both mean \"even though / despite,\" but 〜のに is everyday spoken Japanese and often carries emotion, while 〜にもかかわらず is formal and objective. In an essay or announcement, 〜にもかかわらず sounds appropriate; in a chat with friends, 〜のに is more natural."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't drop the も. 〜にかかわらず (without も) means \"regardless of / irrespective of\" and pairs with words like 天候（てんこう） or 年齢（ねんれい）: 天候（てんこう）にかかわらず、決行（けっこう）します = \"we'll go ahead regardless of the weather.\" 〜にもかかわらず (with も) means \"despite (this specific thing).\" Same kanji, different job."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "Noun ／ Verb・Adjective （plain）　＋ にもかかわらず",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "雨（あめ）にもかかわらず、試合（しあい）は行（おこな）われた。",
+      "english": "Despite the rain, the match was held."
+    },
+    {
+      "japanese": "努力（どりょく）したにもかかわらず、失敗（しっぱい）した。",
+      "english": "Despite making an effort, I failed."
+    },
+    {
+      "japanese": "忙（いそが）しいにもかかわらず、彼（かれ）は手伝（てつだ）ってくれた。",
+      "english": "Despite being busy, he helped me out."
+    },
+    {
+      "japanese": "何度（なんど）も注意（ちゅうい）したにもかかわらず、彼（かれ）は同（おな）じミスを繰（く）り返（かえ）す。",
+      "english": "Despite being warned many times, he keeps making the same mistake."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "register",
+      "text": "Register: 〜にもかかわらず vs 〜のに"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1015,
+  "slug": "nimo-kakawarazu",
+  "categories": [
+    "Phrase",
+    "Clause Link"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N2"
+}

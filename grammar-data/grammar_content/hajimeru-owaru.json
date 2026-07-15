@@ -1,0 +1,152 @@
+{
+  "title": "〜はじめる・〜おわる",
+  "description": "Attach 始（はじ）める or 終（お）わる to a verb's ますstem to make a compound verb meaning \"start doing ~\" or \"finish doing ~.\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Drop ます from the polite stem of a verb and attach 始（はじ）める to mean \"begin doing ~,\" or 終（お）わる to mean \"finish doing ~.\" The result conjugates as a single verb: 食（た）べ始（はじ）める, 読（よ）み終（お）わる."
+    },
+    {
+      "type": "formula",
+      "japanese": "動詞（どうし）（ますstem）＋始（はじ）める／終（お）わる",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）が降（ふ）り始（はじ）めました。",
+      "english": "It started to rain."
+    },
+    {
+      "type": "example",
+      "japanese": "新（あたら）しいソフトウェアを使（つか）い始（はじ）めました。",
+      "english": "I started using new software."
+    },
+    {
+      "type": "example",
+      "japanese": "本（ほん）を読（よ）み終（お）わりました。",
+      "english": "I finished reading the book."
+    },
+    {
+      "type": "example",
+      "japanese": "ご飯（はん）を食（た）べ終（お）わってから、甘（あま）いものを食（た）べます。",
+      "english": "After I finish eating my meal, I have something sweet."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "start-verb-pair",
+      "text": "始（はじ）める vs 始（はじ）まる"
+    },
+    {
+      "type": "paragraph",
+      "text": "The compound always uses transitive 始（はじ）める, even when the base verb is intransitive: 雨（あめ）が降（ふ）り始（はじ）める. Don't swap in the intransitive 始（はじ）まる (\"to begin\"), which is used on its own for events like 授業（じゅぎょう）が始（はじ）まる (\"class begins\")."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Base verb",
+          "start doing",
+          "finish doing"
+        ],
+        [
+          "読（よ）む",
+          "読（よ）み始（はじ）める",
+          "読（よ）み終（お）わる"
+        ],
+        [
+          "食（た）べる",
+          "食（た）べ始（はじ）める",
+          "食（た）べ終（お）わる"
+        ],
+        [
+          "使（つか）う",
+          "使（つか）い始（はじ）める",
+          "使（つか）い終（お）わる"
+        ]
+      ]
+    },
+    {
+      "type": "example",
+      "japanese": "面接（めんせつ）を受（う）け始（はじ）めました。",
+      "english": "I started taking interviews."
+    },
+    {
+      "type": "example",
+      "japanese": "最後（さいご）に、分（わ）かり始（はじ）めました。",
+      "english": "At last, I started to understand."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜終（お）わる needs an action with a clear duration and endpoint (reading, eating). For an action that just happens or a result you didn't intend, use 〜てしまう instead. 読（よ）み終（お）わった means \"finished reading,\" while 読（よ）んでしまった leans toward \"read it all (and that's done / oops).\""
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "動詞（どうし）（ますstem）＋始（はじ）める／終（お）わる",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "雨（あめ）が降（ふ）り始（はじ）めました。",
+      "english": "It started to rain."
+    },
+    {
+      "japanese": "新（あたら）しいソフトウェアを使（つか）い始（はじ）めました。",
+      "english": "I started using new software."
+    },
+    {
+      "japanese": "本（ほん）を読（よ）み終（お）わりました。",
+      "english": "I finished reading the book."
+    },
+    {
+      "japanese": "ご飯（はん）を食（た）べ終（お）わってから、甘（あま）いものを食（た）べます。",
+      "english": "After I finish eating my meal, I have something sweet."
+    },
+    {
+      "japanese": "面接（めんせつ）を受（う）け始（はじ）めました。",
+      "english": "I started taking interviews."
+    },
+    {
+      "japanese": "最後（さいご）に、分（わ）かり始（はじ）めました。",
+      "english": "At last, I started to understand."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "start-verb-pair",
+      "text": "始（はじ）める vs 始（はじ）まる"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1034,
+  "slug": "hajimeru-owaru",
+  "categories": [
+    "Verb Form"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

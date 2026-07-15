@@ -1,0 +1,904 @@
+{
+  "title": "Building Sentences and Clauses",
+  "description": "Understanding clauses will help you to break down and understand complicated sentences in Japanese.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "We all know what a sentence is, but have you ever heard of a clause? We're talking about grammar here, not Santa Claus or your cat's claws . Being able to recognize clauses in Japanese sentences will make it much easier to parse complicated sentences, and help you to develop a deeper understanding of Japanese grammar."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "simple-sentences",
+      "text": "Simple Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll start things out by looking at simple sentences. A simple sentence is a sentence with only one clause. In this case, the clause and the sentence are the same thing! Yay for simplicity!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before we jump into the grammatical nuts and bolts of clauses, let's look at it from a somewhat simplified point of view. In general, we could say that the purpose of a sentence is to state a \"thing\" that we want to talk about, and then to give some information about that \"thing.\""
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Thing",
+          "Info About Thing"
+        ],
+        [
+          "The bus",
+          "is coming"
+        ],
+        [
+          "The sky",
+          "is bright"
+        ],
+        [
+          "This",
+          "is my house"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, both the \"thing\" and the information about that thing are required for a clause to be complete. In a sentence like \"It's hot outside today,\" \"it\" doesn't really refer to anything, but it has to be there to make the sentence grammatically correct. To put it another way, English requires that every clause have a subject . That is, the subject is an essential clause element in English. Of course, the second part of the sentence, or the \"info about the subject\" is also required in English."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "essential-clause-elements",
+      "text": "Essential Clause Elements"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let's turn the focus back to Japanese. As you may know, the subject is often dropped in Japanese. This means that, when the thing we want to talk about is known from context, we don't have to mention it at all."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "(Thing)",
+          "Info About Thing"
+        ],
+        [
+          "(バスが)",
+          "来（く）る"
+        ],
+        [
+          "(空（そら）が)",
+          "明（あか）るい"
+        ],
+        [
+          "(これが)",
+          "私（わたし）の家（いえ）です"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "In the examples above, the thing being discussed is placed in (parentheses) to show that it is optional. You can include the \"thing\" you're talking about if it's not clear from the context of the conversation, but it's not required in the same way that English requires a subject. The only essential clause element in Japanese is that second part of the clause — the info about the thing you're talking about."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "predicate",
+      "text": "Predicate"
+    },
+    {
+      "type": "paragraph",
+      "text": "This \"info about the thing you're talking about\" is called the predicate . A range of different word types can serve as the predicate of a Japanese sentence:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Noun:",
+          "(それは)犬（けん）。",
+          "That is a dog."
+        ],
+        [
+          "な-adjective:",
+          "(花子（はなこ）は)きれい。",
+          "Hanako is pretty."
+        ],
+        [
+          "い-adjective:",
+          "(今日（きょう）は)暑（あつ）い。",
+          "Today is hot."
+        ],
+        [
+          "Verb:",
+          "(今（いま）から)歌（うた）う。",
+          "Now I will sing."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can dress up these predicates with other clause elements to add more meaning and complexity, but all that you need in order to form a complete simple sentence in Japanese is a predicate!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "nonessential-clause-elements",
+      "text": "Nonessential Clause Elements"
+    },
+    {
+      "type": "paragraph",
+      "text": "So what are these nonessential clause elements that we can use to dress up the predicate? There are quite a few, and each of them are complex enough to deserve their own page, but we'll give a simple introduction to each of them here."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's start with a simple predicate — the verb 食（た）べる (eat). This verb could be used all on its own to create a complete sentence in Japanese. For example, your dad (who is known for his sushi making skills) is gearing up to make some sushi for your mom. He asks her, よし、お寿司（すし）食（た）べる？ (Alright, want to eat some sushi?). She emphatically responds:"
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べる！",
+      "english": "I do!"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, there is a pretty big difference between the Japanese example sentence and the English translation. The English sentence contains a \"thing\" (I) and \"information about the thing\" (do). In Japanese though, the sentence is boiled all the way down to just that \"information about the thing,\" or in other words, a predicate verb: 食（た）べる."
+    },
+    {
+      "type": "paragraph",
+      "text": "While this basic, predicate-only sentence is possible , it's a bit limited when you want to add new information to a context. Let's check out each of the categories of nonessential clause elements that we can add on to a predicate."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "object",
+      "text": "Object"
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll start off by adding an object to the verb 作（つく）る (make). An object is the element of a clause that is acted upon by a transitive verb. In Japanese, this element is marked by the particle を :"
+    },
+    {
+      "type": "example",
+      "japanese": "お寿司（すし）を作（つく）る。",
+      "english": "Make sushi."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, お寿司（すし） is marked as the object by the particle を. This tells us what is being 作（つく）るed."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "subject",
+      "text": "Subject"
+    },
+    {
+      "type": "paragraph",
+      "text": "Next, let's add a subject in. Subjects are typically marked by the particle が in Japanese:"
+    },
+    {
+      "type": "example",
+      "japanese": "お父（とう）さんがお寿司（すし）を作（つく）る。",
+      "english": "My father makes sushi."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, the particle が marks お父（とう）さん as the person who makes the sushi, showing that it's him and not anyone else who is going to do it. How important this emphasis is varies a lot depending on the context, though."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "topic",
+      "text": "Topic"
+    },
+    {
+      "type": "paragraph",
+      "text": "On the surface, the topic seems quite similar to the subject, but there are some differences. Topics are generally marked by the particle は :"
+    },
+    {
+      "type": "example",
+      "japanese": "毎週（まいしゅう）日曜日（にちようび）はお父（とう）さんがお寿司（すし）を作（つく）る。",
+      "english": "Every Sunday, my father makes sushi."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the example sentence above, the particle は marks 毎週（まいしゅう）日曜日（にちようび） as the topic of this sentence, and also the topic of the conversation, until it shifts to something else. This is a little different from a subject, which can change from clause to clause without the topic necessarily shifting. For example, if we follow up our example sentence with それから、お母（かあ）さんがその寿司（すし）を一（いち）人（にん）で食（た）べる (then, my mother eats the sushi all by herself), we can see that the subject of the new sentence is お母（かあ）さん (marked by が). The topic, however, is still 毎週（まいしゅう）日曜日（にちようび）."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adverbials",
+      "text": "Adverbials"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another of the optional clause elements is adverbials. Adverbials give information about the circumstances surrounding a sentence, such as when, where, why, or how. They come in many shapes and forms, but you'll often see them marked with particle に and particle で :"
+    },
+    {
+      "type": "example",
+      "japanese": "毎週（まいしゅう）日曜日（にちようび）はお父（とう）さんが台所（だいどころ）でお寿司（すし）を作（つく）る。",
+      "english": "Every Sunday, my father makes sushi in the kitchen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now we've added 台所（だいどころ）で (in the kitchen) to our sentence. This tells us where the sushi making takes place."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "sentence-final-particles",
+      "text": "Sentence Final Particles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly, let's add a sentence-final particle to the end of our sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "毎週（まいしゅう）日曜日（にちようび）はお父（とう）さんが台所（だいどころ）でお寿司（すし）を作（つく）るの。",
+      "english": "Every Sunday, my father makes sushi in the kitchen."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sentence-final particles are often very hard to translate into English. In this example, we see that the particle の has been added to the end of the sentence. This adds an explanatory nuance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other common sentence-final particles include the conversational particle よ and particle ね ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "sentence-order",
+      "text": "Sentence Order"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japanese is said to be an \"SOV language,\" meaning that the typical order of clause elements in a sentence is \"subject, object, verb.\" English, on the other hand, is an \"SVO language,\" meaning that sentences tend to take a \"subject, verb, object\" order. Let's turn back to our previous example to see how this works:"
+    },
+    {
+      "type": "example",
+      "japanese": "[お父（とう）さんが] [お寿司（すし）を] [作（つく）る] sub obj verb",
+      "english": "[My father] [makes] [sushi] sub verb obj"
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, it's very unnatural to deviate from this sentence order, unless you intend to sound like Yoda <(-.-)> In Japanese, however, it's much easier to switch up the order of your sentence. Thanks to those handy-dandy particles, it's clear what clause element a word is supposed to be even if the order is unusual. For example, let's say that you call up your mom on Sunday to see what she's up to. She says:"
+    },
+    {
+      "type": "example",
+      "japanese": "寿司（すし）を作（つく）っているの、お父（とう）さんがね。私（わたし）は見（み）ているだけ、お父（とう）さんのことを！",
+      "english": "We're making sushi, well, your dad is. I'm just watching, your dad that is."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the example sentences above, you can see that the sentence is in a pretty wacky order! The first sentence is OVS (object: 寿司（すし）を), (verb: 作（つく）っている), (subject: お父（とう）さんが). By placing the subject at the end of the sentence, it starts off sounding like she is making the sushi, until she throws in at the end of the sentence that it's your dad doing it, almost as though it's an unimportant detail. Oh Mom… 😑😅n this way, Japanese sentence order can be manipulated to highlight information at the beginning of the sentence, or tuck it away at the end like an afterthought."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the previous section, we looked at the elements of a simple sentence, which is a sentence that contains only one clause. In the following sections, we'll take a look at sentences that contain multiple clauses."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "complex-sentences",
+      "text": "Complex Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "A sentence that contains multiple clauses is known as a complex sentence. Generally speaking, there are two main ways to form a complex sentence — you can link clauses together, and you can embed clauses inside each other."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "linked-clauses",
+      "text": "Linked Clauses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Clauses are considered \"linked\" when the end of a clause attaches to the beginning of another, rather than having a period in between. Let's see what this looks like:"
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）は忙（いそが）しい。ストレスが溜（た）まっている。",
+      "english": "Today I'm busy. I'm feeling stressed out."
+    },
+    {
+      "type": "paragraph",
+      "text": "As it is right now, we have two simple sentences, one after the other. We can use our judgement to determine that the first sentence is the reason for the second sentence, so wouldn't it be nice if these were combined into a complex sentence, rather than just listed one after another? This would result in a more interesting and advanced sentence structure. Let's look at two ways of combining these sentences — with conjunctive particles and with conjugation."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "conjunctive-particles",
+      "text": "Conjunctive Particles"
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）は忙（いそが）しいから、ストレスが溜（た）まっている。",
+      "english": "Today I'm busy, so I'm feeling stressed out."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, we've added the particle から to the end of the first clause, allowing it to attach directly to the beginning of the next clause. から makes it clear that the first clause is the reason for the second clause, so it's similar to the English conjunction \"because.\" There are a range of other particles that function similarly, but add a different shade of meaning, such as ので , けど , なら, etc."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "conjugation",
+      "text": "Conjugation"
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to particles, there are some conjugation forms that allow one clause to link up with another. A conjugation is when a word changes its own structure, which is a capability of verbs and い-adjectives in Japanese. Let's see how it works:"
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）は忙（いそが）しくて、ストレスが溜（た）まっている。",
+      "english": "Today I'm busy, so I'm feeling stressed out."
+    },
+    {
+      "type": "paragraph",
+      "text": "By conjugating the い-adjective 忙（いそが）しい into the て form , it can now attach to the beginning of another sentence. This option is a little less direct than adding a conjunctive particle, since the particle makes the relationship between the two linked clauses explicitly clear."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "embedded-clauses",
+      "text": "Embedded Clauses"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also form a complex sentence by embedding a clause inside another clause. There are a few different ways to do this, such as through quotation and noun modification. We'll take a look at both in the following sections."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "quotation",
+      "text": "Quotation"
+    },
+    {
+      "type": "paragraph",
+      "text": "One way to embed a clause inside another is to treat the embedded clause as a quotation. This is not all that different from English, as you'll see:"
+    },
+    {
+      "type": "example",
+      "japanese": "弟（おとうと）は「火星（かせい）に住（す）みたい」と言（い）いました。",
+      "english": "My little brother said, \"I want to live on Mars.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "First, let's locate the two clauses in this sentence. We have the embedded clause, which is 火星（かせい）に住（す）みたい, and we have the main clause, which is 弟（おとうと）は〜と言（い）いました. In this case, the embedded clause is surrounded by 「quotation marks」 (or 鉤括弧（かぎかっこ） in Japanese). Unlike in English though, these quotation marks are not required for signaling a direct quote, so you can't always rely on them being there. In fact, there is no marked difference in Japanese between direct and indirect quotes — you'll even see quotation marks added to indirect quotations, just to add emphasis."
+    },
+    {
+      "type": "paragraph",
+      "text": "Next let's take a look an an indirect quotation that doesn't use any markings. A good example of this is when you express your thoughts using 〜と思（おも）う:"
+    },
+    {
+      "type": "example",
+      "japanese": "人間（にんげん）は火星（かせい）に住（す）めないと思（おも）う。",
+      "english": "I don't think that humans can live on Mars."
+    },
+    {
+      "type": "paragraph",
+      "text": "The embedded clause is a little harder to see in this case, since it isn't surrounded by quotation marks. If you're uncertain, look for the particle と , which acts almost like a spoken quotation mark. The most probable interpretation of this sentence is that 人間（にんげん）は火星（かせい）に住（す）めない is the embedded clause, and 〜と思（おも）う is the main clause. We can assume that 私（わたし）は has been omitted from the beginning of the sentence since it's clear that I am sharing my thoughts, so there's no need to point myself out. You could also argue that 人間（にんげん）は〜と思（おも）う is the main clause, and 火星（かせい）に住（す）めない is the embedded clause, meaning \"Humans think that you can't live on Mars.\" This is one of those cases where you need to use context clues to figure out the intended meaning."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun-modification",
+      "text": "Noun Modification"
+    },
+    {
+      "type": "paragraph",
+      "text": "The other way that a clause can be embedded inside another is when the embedded clause modifies a noun. In other words, a clause can modify a noun, like an adjective does. Let's check it out:"
+    },
+    {
+      "type": "example",
+      "japanese": "可愛（かわい）い猫（ねこ）",
+      "english": "cute cat"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the example above, we see that the noun 猫（ねこ） (cat) is being modified by an adjective, 可愛（かわい）い (cute). This allows us to describe the cat in more detail. We can also modify a noun with an entire clause:"
+    },
+    {
+      "type": "example",
+      "japanese": "スーパーの前（まえ）で拾（ひろ）った猫（ねこ）",
+      "english": "the cat that I found in front of the supermarket"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, the clause スーパーの前（まえ）で拾（ひろ）った modifies 猫（ねこ）. In English grammar, this is called a \"relative clause,\" and it comes after the noun. That's why you see \"the cat that I found in front of the supermarket \" in the translation. In Japanese, noun modifiers always come right before the noun."
+    },
+    {
+      "type": "paragraph",
+      "text": "A noun with a clause modifier can be used in any part of a sentence. Let's check out an example with スーパーの前（まえ）で拾（ひろ）った猫（ねこ） being used in a sentence. Can you tell which clause element it is?"
+    },
+    {
+      "type": "example",
+      "japanese": "残念（ざんねん）ながら、[スーパーの前（まえ）で拾（ひろ）った] 猫（ねこ）が逃（に）げたんだ。",
+      "english": "Unfortunately, the cat that I found in front of the supermarket ran away."
+    },
+    {
+      "type": "paragraph",
+      "text": "If it's hard to tell, we recommend removing the embedded clauses to find the simpler, main clause. This means removing the part of the sentence you see above in [brackets]. If you do that, you're left with 残念（ざんねん）ながら、猫（ねこ）が逃（に）げたんだ (Unfortunately, the cat ran away). 猫（ねこ） is the subject of this sentence, right? You'll even notice the particle が after it, marking it as such. Adding the relative clause back in doesn't change that, it just tells us a bit more about that subject 猫（ねこ）."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's step this up a notch. You can have a sentence with multiple relative clauses in the same sentence, which can be pretty tricky to parse:"
+    },
+    {
+      "type": "example",
+      "japanese": "[スーパーの前（まえ）で拾（ひろ）った] 猫（ねこ）が [お母（かあ）さんからもらった] ランプを壊（こわ）した。",
+      "english": "The cat that I found in front of the supermarket broke the lamp that I got from my mother."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yikes! What a sentence! We already know that スーパーの前（まえ）で拾（ひろ）った is modifying 猫（ねこ）, but what else is going on? Let's remove the relative clauses real quick to see the bigger picture. If we do that, we get 猫（ねこ）がランプを壊（こわ）した (the cat broke the lamp). So where does お母（かあ）さんからもらった fit in? You guessed it! It's a clause that modifies ランプ, telling us that it's a lamp that I got from my mother ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--in-clauses",
+      "text": "です and ます in Clauses"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, you can use です and ます to express politeness towards the person you're talking to. These politeness markers can be used in a clause, but not always."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "and--in-linked-clauses",
+      "text": "です and ます in Linked Clauses"
+    },
+    {
+      "type": "paragraph",
+      "text": "です and ます can appear in linked clauses , which are basically two independent sentences combined into one. Here's an example:"
+    },
+    {
+      "type": "example",
+      "japanese": "桜（さくら）が満開（まんかい）ですから、お花見（はなみ）に行（い）きます。",
+      "english": "The cherry blossoms are in full bloom, so we will go to see them."
+    },
+    {
+      "type": "paragraph",
+      "text": "See how there are two clauses, [A: 桜（さくら）が満開（まんかい） です ] and [B: お花見（はなみ）に行（い）き ます ]?"
+    },
+    {
+      "type": "example",
+      "japanese": "[A: 桜（さくら）が満開（まんかい）です]から、[B: お花見（はなみ）に行（い）きます]。",
+      "english": "[A: The cherry blossoms are in full bloom], so [B: we will go to see them]."
+    },
+    {
+      "type": "paragraph",
+      "text": "They're connected by the particle から . Without から, clause A and clause B are two independent sentences. This means it's possible for both clauses to have です and/or ます in them."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, note that a single politeness marker located at the end of the full sentence would usually work just fine, too. For instance, in the previous example you can replace the first politeness marker です with だ to turn it to the plain form while keeping ます at the end of the sentence, like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "[A: 桜（さくら）が満開（まんかい）だ]から、[B: お花見（はなみ）に行（い）きます]。",
+      "english": "[A: The cherry blossoms are in full bloom], so [B: we will go to see them]."
+    },
+    {
+      "type": "paragraph",
+      "text": "The overall tone of this sentence remains polite as long as it ends with a politeness marker. In Japanese, the end of a sentence is what sets the tone, so make sure to have a politeness marker at the end of the sentence if you want to sound polite. On the flip side, having a politeness marker in the middle of the sentence without having one at the end of the sentence would be a bit unnatural."
+    },
+    {
+      "type": "paragraph",
+      "text": "One exception to this would be when quoting something someone said. Let's check out how that works in the next section."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "and--for-quoting-someone",
+      "text": "です and ます For Quoting Someone"
+    },
+    {
+      "type": "paragraph",
+      "text": "です and ます can be used in the middle of a sentence to quote something someone said, such as:"
+    },
+    {
+      "type": "example",
+      "japanese": "近所（きんじょ）の人（ひと）から「桜（さくら）が満開（まんかい）ですよ」と教（おし）えてもらいました。",
+      "english": "A neighbor told me, \"the cherry blossoms are in full bloom.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example,「桜（さくら）が満開（まんかい） です よ」is a direct quote, meaning the exact words your neighbor said to you, or at least what you remember them saying. The quote in this example sentence is considered an embedded clause because it's inserted inside the main clause: 近所（きんじょ）の人（ひと）から…と教（おし）えてもらいました."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, note that です and ます can't be used in an embedded clause for indirect quotes. Indirect quotes are a summary of what someone said, not their exact words. Here's an example of an indirect quote:"
+    },
+    {
+      "type": "example",
+      "japanese": "近所（きんじょ）の人（ひと）から桜（さくら）が満開（まんかい）だと教（おし）えてもらった。",
+      "english": "A neighbor told me that the cherry blossoms were in full bloom."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, 桜（さくら）が満開（まんかい） だ is a summary of the neighbor's message. Notice that this example doesn't have 「」( kagikakko ), which are generally used for direct quotes. But you don't exactly see quotation marks (or a lack of them) when you're having a real-life conversation. So what other hints can you use to tell what's being said is just a summary and not a direct quote?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Compared to the politeness markers です and ます, だ is sort of an \"assertiveness\" marker. Using it without a communicative particle like よ or ね would sound standoff-ish and abrupt in spoken Japanese. So a sentence ending with だ wouldn't sound like something that's used in an actual conversation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since this clause is no longer a direct quote, a politeness marker shouldn't be added — it would come off as unnatural if you used them to relay a summary."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Points"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "We all know what a sentence is, but have you ever heard of a clause? We're talking about grammar here, not Santa Claus or your cat's claws . Being able to recognize clauses in Japanese sentences will make it much easier to parse complicated sentences, and help you to develop a deeper understanding of Japanese grammar.",
+    "We'll start things out by looking at simple sentences. A simple sentence is a sentence with only one clause. In this case, the clause and the sentence are the same thing! Yay for simplicity!",
+    "Before we jump into the grammatical nuts and bolts of clauses, let's look at it from a somewhat simplified point of view. In general, we could say that the purpose of a sentence is to state a \"thing\" that we want to talk about, and then to give some information about that \"thing.\"",
+    "In English, both the \"thing\" and the information about that thing are required for a clause to be complete. In a sentence like \"It's hot outside today,\" \"it\" doesn't really refer to anything, but it has to be there to make the sentence grammatically correct. To put it another way, English requires that every clause have a subject . That is, the subject is an essential clause element in English. Of course, the second part of the sentence, or the \"info about the subject\" is also required in English.",
+    "Now let's turn the focus back to Japanese. As you may know, the subject is often dropped in Japanese. This means that, when the thing we want to talk about is known from context, we don't have to mention it at all.",
+    "In the examples above, the thing being discussed is placed in (parentheses) to show that it is optional. You can include the \"thing\" you're talking about if it's not clear from the context of the conversation, but it's not required in the same way that English requires a subject. The only essential clause element in Japanese is that second part of the clause — the info about the thing you're talking about.",
+    "This \"info about the thing you're talking about\" is called the predicate . A range of different word types can serve as the predicate of a Japanese sentence:",
+    "You can dress up these predicates with other clause elements to add more meaning and complexity, but all that you need in order to form a complete simple sentence in Japanese is a predicate!",
+    "So what are these nonessential clause elements that we can use to dress up the predicate? There are quite a few, and each of them are complex enough to deserve their own page, but we'll give a simple introduction to each of them here.",
+    "Let's start with a simple predicate — the verb 食（た）べる (eat). This verb could be used all on its own to create a complete sentence in Japanese. For example, your dad (who is known for his sushi making skills) is gearing up to make some sushi for your mom. He asks her, よし、お寿司（すし）食（た）べる？ (Alright, want to eat some sushi?). She emphatically responds:",
+    "As you can see, there is a pretty big difference between the Japanese example sentence and the English translation. The English sentence contains a \"thing\" (I) and \"information about the thing\" (do). In Japanese though, the sentence is boiled all the way down to just that \"information about the thing,\" or in other words, a predicate verb: 食（た）べる.",
+    "While this basic, predicate-only sentence is possible , it's a bit limited when you want to add new information to a context. Let's check out each of the categories of nonessential clause elements that we can add on to a predicate.",
+    "We'll start off by adding an object to the verb 作（つく）る (make). An object is the element of a clause that is acted upon by a transitive verb. In Japanese, this element is marked by the particle を :",
+    "In this sentence, お寿司（すし） is marked as the object by the particle を. This tells us what is being 作（つく）るed.",
+    "Next, let's add a subject in. Subjects are typically marked by the particle が in Japanese:",
+    "In this sentence, the particle が marks お父（とう）さん as the person who makes the sushi, showing that it's him and not anyone else who is going to do it. How important this emphasis is varies a lot depending on the context, though.",
+    "On the surface, the topic seems quite similar to the subject, but there are some differences. Topics are generally marked by the particle は :",
+    "In the example sentence above, the particle は marks 毎週（まいしゅう）日曜日（にちようび） as the topic of this sentence, and also the topic of the conversation, until it shifts to something else. This is a little different from a subject, which can change from clause to clause without the topic necessarily shifting. For example, if we follow up our example sentence with それから、お母（かあ）さんがその寿司（すし）を一（いち）人（にん）で食（た）べる (then, my mother eats the sushi all by herself), we can see that the subject of the new sentence is お母（かあ）さん (marked by が). The topic, however, is still 毎週（まいしゅう）日曜日（にちようび）.",
+    "Another of the optional clause elements is adverbials. Adverbials give information about the circumstances surrounding a sentence, such as when, where, why, or how. They come in many shapes and forms, but you'll often see them marked with particle に and particle で :",
+    "Now we've added 台所（だいどころ）で (in the kitchen) to our sentence. This tells us where the sushi making takes place.",
+    "Lastly, let's add a sentence-final particle to the end of our sentence:",
+    "Sentence-final particles are often very hard to translate into English. In this example, we see that the particle の has been added to the end of the sentence. This adds an explanatory nuance.",
+    "Other common sentence-final particles include the conversational particle よ and particle ね .",
+    "Japanese is said to be an \"SOV language,\" meaning that the typical order of clause elements in a sentence is \"subject, object, verb.\" English, on the other hand, is an \"SVO language,\" meaning that sentences tend to take a \"subject, verb, object\" order. Let's turn back to our previous example to see how this works:",
+    "In English, it's very unnatural to deviate from this sentence order, unless you intend to sound like Yoda <(-.-)> In Japanese, however, it's much easier to switch up the order of your sentence. Thanks to those handy-dandy particles, it's clear what clause element a word is supposed to be even if the order is unusual. For example, let's say that you call up your mom on Sunday to see what she's up to. She says:",
+    "In the example sentences above, you can see that the sentence is in a pretty wacky order! The first sentence is OVS (object: 寿司（すし）を), (verb: 作（つく）っている), (subject: お父（とう）さんが). By placing the subject at the end of the sentence, it starts off sounding like she is making the sushi, until she throws in at the end of the sentence that it's your dad doing it, almost as though it's an unimportant detail. Oh Mom… 😑😅n this way, Japanese sentence order can be manipulated to highlight information at the beginning of the sentence, or tuck it away at the end like an afterthought.",
+    "In the previous section, we looked at the elements of a simple sentence, which is a sentence that contains only one clause. In the following sections, we'll take a look at sentences that contain multiple clauses.",
+    "A sentence that contains multiple clauses is known as a complex sentence. Generally speaking, there are two main ways to form a complex sentence — you can link clauses together, and you can embed clauses inside each other.",
+    "Clauses are considered \"linked\" when the end of a clause attaches to the beginning of another, rather than having a period in between. Let's see what this looks like:",
+    "As it is right now, we have two simple sentences, one after the other. We can use our judgement to determine that the first sentence is the reason for the second sentence, so wouldn't it be nice if these were combined into a complex sentence, rather than just listed one after another? This would result in a more interesting and advanced sentence structure. Let's look at two ways of combining these sentences — with conjunctive particles and with conjugation.",
+    "As you can see, we've added the particle から to the end of the first clause, allowing it to attach directly to the beginning of the next clause. から makes it clear that the first clause is the reason for the second clause, so it's similar to the English conjunction \"because.\" There are a range of other particles that function similarly, but add a different shade of meaning, such as ので , けど , なら, etc.",
+    "In addition to particles, there are some conjugation forms that allow one clause to link up with another. A conjugation is when a word changes its own structure, which is a capability of verbs and い-adjectives in Japanese. Let's see how it works:",
+    "By conjugating the い-adjective 忙（いそが）しい into the て form , it can now attach to the beginning of another sentence. This option is a little less direct than adding a conjunctive particle, since the particle makes the relationship between the two linked clauses explicitly clear.",
+    "You can also form a complex sentence by embedding a clause inside another clause. There are a few different ways to do this, such as through quotation and noun modification. We'll take a look at both in the following sections.",
+    "One way to embed a clause inside another is to treat the embedded clause as a quotation. This is not all that different from English, as you'll see:",
+    "First, let's locate the two clauses in this sentence. We have the embedded clause, which is 火星（かせい）に住（す）みたい, and we have the main clause, which is 弟（おとうと）は〜と言（い）いました. In this case, the embedded clause is surrounded by 「quotation marks」 (or 鉤括弧（かぎかっこ） in Japanese). Unlike in English though, these quotation marks are not required for signaling a direct quote, so you can't always rely on them being there. In fact, there is no marked difference in Japanese between direct and indirect quotes — you'll even see quotation marks added to indirect quotations, just to add emphasis.",
+    "Next let's take a look an an indirect quotation that doesn't use any markings. A good example of this is when you express your thoughts using 〜と思（おも）う:",
+    "The embedded clause is a little harder to see in this case, since it isn't surrounded by quotation marks. If you're uncertain, look for the particle と , which acts almost like a spoken quotation mark. The most probable interpretation of this sentence is that 人間（にんげん）は火星（かせい）に住（す）めない is the embedded clause, and 〜と思（おも）う is the main clause. We can assume that 私（わたし）は has been omitted from the beginning of the sentence since it's clear that I am sharing my thoughts, so there's no need to point myself out. You could also argue that 人間（にんげん）は〜と思（おも）う is the main clause, and 火星（かせい）に住（す）めない is the embedded clause, meaning \"Humans think that you can't live on Mars.\" This is one of those cases where you need to use context clues to figure out the intended meaning.",
+    "The other way that a clause can be embedded inside another is when the embedded clause modifies a noun. In other words, a clause can modify a noun, like an adjective does. Let's check it out:",
+    "In the example above, we see that the noun 猫（ねこ） (cat) is being modified by an adjective, 可愛（かわい）い (cute). This allows us to describe the cat in more detail. We can also modify a noun with an entire clause:",
+    "In this example, the clause スーパーの前（まえ）で拾（ひろ）った modifies 猫（ねこ）. In English grammar, this is called a \"relative clause,\" and it comes after the noun. That's why you see \"the cat that I found in front of the supermarket \" in the translation. In Japanese, noun modifiers always come right before the noun.",
+    "A noun with a clause modifier can be used in any part of a sentence. Let's check out an example with スーパーの前（まえ）で拾（ひろ）った猫（ねこ） being used in a sentence. Can you tell which clause element it is?",
+    "If it's hard to tell, we recommend removing the embedded clauses to find the simpler, main clause. This means removing the part of the sentence you see above in [brackets]. If you do that, you're left with 残念（ざんねん）ながら、猫（ねこ）が逃（に）げたんだ (Unfortunately, the cat ran away). 猫（ねこ） is the subject of this sentence, right? You'll even notice the particle が after it, marking it as such. Adding the relative clause back in doesn't change that, it just tells us a bit more about that subject 猫（ねこ）.",
+    "Let's step this up a notch. You can have a sentence with multiple relative clauses in the same sentence, which can be pretty tricky to parse:",
+    "Yikes! What a sentence! We already know that スーパーの前（まえ）で拾（ひろ）った is modifying 猫（ねこ）, but what else is going on? Let's remove the relative clauses real quick to see the bigger picture. If we do that, we get 猫（ねこ）がランプを壊（こわ）した (the cat broke the lamp). So where does お母（かあ）さんからもらった fit in? You guessed it! It's a clause that modifies ランプ, telling us that it's a lamp that I got from my mother .",
+    "In Japanese, you can use です and ます to express politeness towards the person you're talking to. These politeness markers can be used in a clause, but not always.",
+    "です and ます can appear in linked clauses , which are basically two independent sentences combined into one. Here's an example:",
+    "See how there are two clauses, [A: 桜（さくら）が満開（まんかい） です ] and [B: お花見（はなみ）に行（い）き ます ]?",
+    "They're connected by the particle から . Without から, clause A and clause B are two independent sentences. This means it's possible for both clauses to have です and/or ます in them.",
+    "However, note that a single politeness marker located at the end of the full sentence would usually work just fine, too. For instance, in the previous example you can replace the first politeness marker です with だ to turn it to the plain form while keeping ます at the end of the sentence, like this:",
+    "The overall tone of this sentence remains polite as long as it ends with a politeness marker. In Japanese, the end of a sentence is what sets the tone, so make sure to have a politeness marker at the end of the sentence if you want to sound polite. On the flip side, having a politeness marker in the middle of the sentence without having one at the end of the sentence would be a bit unnatural.",
+    "One exception to this would be when quoting something someone said. Let's check out how that works in the next section.",
+    "です and ます can be used in the middle of a sentence to quote something someone said, such as:",
+    "In this example,「桜（さくら）が満開（まんかい） です よ」is a direct quote, meaning the exact words your neighbor said to you, or at least what you remember them saying. The quote in this example sentence is considered an embedded clause because it's inserted inside the main clause: 近所（きんじょ）の人（ひと）から…と教（おし）えてもらいました.",
+    "However, note that です and ます can't be used in an embedded clause for indirect quotes. Indirect quotes are a summary of what someone said, not their exact words. Here's an example of an indirect quote:",
+    "In this sentence, 桜（さくら）が満開（まんかい） だ is a summary of the neighbor's message. Notice that this example doesn't have 「」( kagikakko ), which are generally used for direct quotes. But you don't exactly see quotation marks (or a lack of them) when you're having a real-life conversation. So what other hints can you use to tell what's being said is just a summary and not a direct quote?",
+    "Compared to the politeness markers です and ます, だ is sort of an \"assertiveness\" marker. Using it without a communicative particle like よ or ね would sound standoff-ish and abrupt in spoken Japanese. So a sentence ending with だ wouldn't sound like something that's used in an actual conversation.",
+    "Since this clause is no longer a direct quote, a politeness marker shouldn't be added — it would come off as unnatural if you used them to relay a summary."
+  ],
+  "examples": [
+    {
+      "japanese": "食（た）べる！",
+      "english": "I do!"
+    },
+    {
+      "japanese": "お寿司（すし）を作（つく）る。",
+      "english": "Make sushi."
+    },
+    {
+      "japanese": "お父（とう）さんがお寿司（すし）を作（つく）る。",
+      "english": "My father makes sushi."
+    },
+    {
+      "japanese": "毎週（まいしゅう）日曜日（にちようび）はお父（とう）さんがお寿司（すし）を作（つく）る。",
+      "english": "Every Sunday, my father makes sushi."
+    },
+    {
+      "japanese": "毎週（まいしゅう）日曜日（にちようび）はお父（とう）さんが台所（だいどころ）でお寿司（すし）を作（つく）る。",
+      "english": "Every Sunday, my father makes sushi in the kitchen."
+    },
+    {
+      "japanese": "毎週（まいしゅう）日曜日（にちようび）はお父（とう）さんが台所（だいどころ）でお寿司（すし）を作（つく）るの。",
+      "english": "Every Sunday, my father makes sushi in the kitchen."
+    },
+    {
+      "japanese": "[お父（とう）さんが] [お寿司（すし）を] [作（つく）る] sub obj verb",
+      "english": "[My father] [makes] [sushi] sub verb obj"
+    },
+    {
+      "japanese": "寿司（すし）を作（つく）っているの、お父（とう）さんがね。私（わたし）は見（み）ているだけ、お父（とう）さんのことを！",
+      "english": "We're making sushi, well, your dad is. I'm just watching, your dad that is."
+    },
+    {
+      "japanese": "今日（きょう）は忙（いそが）しい。ストレスが溜（た）まっている。",
+      "english": "Today I'm busy. I'm feeling stressed out."
+    },
+    {
+      "japanese": "今日（きょう）は忙（いそが）しいから、ストレスが溜（た）まっている。",
+      "english": "Today I'm busy, so I'm feeling stressed out."
+    },
+    {
+      "japanese": "今日（きょう）は忙（いそが）しくて、ストレスが溜（た）まっている。",
+      "english": "Today I'm busy, so I'm feeling stressed out."
+    },
+    {
+      "japanese": "弟（おとうと）は「火星（かせい）に住（す）みたい」と言（い）いました。",
+      "english": "My little brother said, \"I want to live on Mars.\""
+    },
+    {
+      "japanese": "人間（にんげん）は火星（かせい）に住（す）めないと思（おも）う。",
+      "english": "I don't think that humans can live on Mars."
+    },
+    {
+      "japanese": "可愛（かわい）い猫（ねこ）",
+      "english": "cute cat"
+    },
+    {
+      "japanese": "スーパーの前（まえ）で拾（ひろ）った猫（ねこ）",
+      "english": "the cat that I found in front of the supermarket"
+    },
+    {
+      "japanese": "残念（ざんねん）ながら、[スーパーの前（まえ）で拾（ひろ）った] 猫（ねこ）が逃（に）げたんだ。",
+      "english": "Unfortunately, the cat that I found in front of the supermarket ran away."
+    },
+    {
+      "japanese": "[スーパーの前（まえ）で拾（ひろ）った] 猫（ねこ）が [お母（かあ）さんからもらった] ランプを壊（こわ）した。",
+      "english": "The cat that I found in front of the supermarket broke the lamp that I got from my mother."
+    },
+    {
+      "japanese": "桜（さくら）が満開（まんかい）ですから、お花見（はなみ）に行（い）きます。",
+      "english": "The cherry blossoms are in full bloom, so we will go to see them."
+    },
+    {
+      "japanese": "[A: 桜（さくら）が満開（まんかい）です]から、[B: お花見（はなみ）に行（い）きます]。",
+      "english": "[A: The cherry blossoms are in full bloom], so [B: we will go to see them]."
+    },
+    {
+      "japanese": "[A: 桜（さくら）が満開（まんかい）だ]から、[B: お花見（はなみ）に行（い）きます]。",
+      "english": "[A: The cherry blossoms are in full bloom], so [B: we will go to see them]."
+    },
+    {
+      "japanese": "近所（きんじょ）の人（ひと）から「桜（さくら）が満開（まんかい）ですよ」と教（おし）えてもらいました。",
+      "english": "A neighbor told me, \"the cherry blossoms are in full bloom.\""
+    },
+    {
+      "japanese": "近所（きんじょ）の人（ひと）から桜（さくら）が満開（まんかい）だと教（おし）えてもらった。",
+      "english": "A neighbor told me that the cherry blossoms were in full bloom."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Thing",
+        "Info About Thing"
+      ],
+      [
+        "The bus",
+        "is coming"
+      ],
+      [
+        "The sky",
+        "is bright"
+      ],
+      [
+        "This",
+        "is my house"
+      ]
+    ],
+    [
+      [
+        "(Thing)",
+        "Info About Thing"
+      ],
+      [
+        "(バスが)",
+        "来（く）る"
+      ],
+      [
+        "(空（そら）が)",
+        "明（あか）るい"
+      ],
+      [
+        "(これが)",
+        "私（わたし）の家（いえ）です"
+      ]
+    ],
+    [
+      [
+        "Noun:",
+        "(それは)犬（けん）。",
+        "That is a dog."
+      ],
+      [
+        "な-adjective:",
+        "(花子（はなこ）は)きれい。",
+        "Hanako is pretty."
+      ],
+      [
+        "い-adjective:",
+        "(今日（きょう）は)暑（あつ）い。",
+        "Today is hot."
+      ],
+      [
+        "Verb:",
+        "(今（いま）から)歌（うた）う。",
+        "Now I will sing."
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "simple-sentences",
+      "text": "Simple Sentences"
+    },
+    {
+      "level": 3,
+      "id": "essential-clause-elements",
+      "text": "Essential Clause Elements"
+    },
+    {
+      "level": 4,
+      "id": "predicate",
+      "text": "Predicate"
+    },
+    {
+      "level": 3,
+      "id": "nonessential-clause-elements",
+      "text": "Nonessential Clause Elements"
+    },
+    {
+      "level": 4,
+      "id": "object",
+      "text": "Object"
+    },
+    {
+      "level": 4,
+      "id": "subject",
+      "text": "Subject"
+    },
+    {
+      "level": 4,
+      "id": "topic",
+      "text": "Topic"
+    },
+    {
+      "level": 4,
+      "id": "adverbials",
+      "text": "Adverbials"
+    },
+    {
+      "level": 4,
+      "id": "sentence-final-particles",
+      "text": "Sentence Final Particles"
+    },
+    {
+      "level": 3,
+      "id": "sentence-order",
+      "text": "Sentence Order"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "complex-sentences",
+      "text": "Complex Sentences"
+    },
+    {
+      "level": 3,
+      "id": "linked-clauses",
+      "text": "Linked Clauses"
+    },
+    {
+      "level": 4,
+      "id": "conjunctive-particles",
+      "text": "Conjunctive Particles"
+    },
+    {
+      "level": 4,
+      "id": "conjugation",
+      "text": "Conjugation"
+    },
+    {
+      "level": 3,
+      "id": "embedded-clauses",
+      "text": "Embedded Clauses"
+    },
+    {
+      "level": 4,
+      "id": "quotation",
+      "text": "Quotation"
+    },
+    {
+      "level": 4,
+      "id": "noun-modification",
+      "text": "Noun Modification"
+    },
+    {
+      "level": 3,
+      "id": "and--in-clauses",
+      "text": "です and ます in Clauses"
+    },
+    {
+      "level": 4,
+      "id": "and--in-linked-clauses",
+      "text": "です and ます in Linked Clauses"
+    },
+    {
+      "level": 4,
+      "id": "and--for-quoting-someone",
+      "text": "です and ます For Quoting Someone"
+    }
+  ],
+  "id": 4,
+  "slug": "sentences-and-clauses",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/sentences-and-clauses/",
+  "categories": [
+    "Clause"
+  ]
+}

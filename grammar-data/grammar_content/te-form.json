@@ -1,0 +1,621 @@
+{
+  "title": "て Form",
+  "description": "The て form links actions, events, and states. The relationship between linked words can be different depending on the context.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can think of the て form like a hook. It attaches to the word at the tail of a clause (or just a word) and links it up with the word or clause that comes next. The て form can be used for many purposes, but the most basic use is to connect simultaneous or sequential actions, events, or states together. For example, to say “I woke up and went to a bathroom,” you can hook the two actions together with て, as in 起（お）きてトイレに行（い）った。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "form-conjugations",
+      "text": "て Form Conjugations"
+    },
+    {
+      "type": "paragraph",
+      "text": "て can attach to four different word types - verbs, い-adjectives , な-adjectives , and nouns. Verbs and い-adjectives conjugate (or change their shape) to change into the て form. For な-adjectives and nouns, you can simply add で, which is the て form of だ , to link words together."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-verbs",
+      "text": "For Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "First, let's look at how to turn Japanese verbs into the て forms."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Godan",
+          "会（あ）う → 会（あ）って 立（た）つ → 立（た）って 割（われ）る → 割（わ）って 書（か）く → 書（か）いて 話（はな）す → 話（はな）して 泳（およ）ぐ → 泳（およ）いで 死（し）ぬ → 死（し）んで 遊（あそ）ぶ → 遊（あそ）んで 休（やす）む → 休（やす）んで"
+        ],
+        [
+          "Ichidan",
+          "食（た）べる → 食（た）べて 起（お）きる → 起（お）きて 閉（と）じる → 閉（と）じて"
+        ],
+        [
+          "Irregular",
+          "行（い）く → 行（おこな）って 来（く）る → 来（き）て（き ） する → して"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There are several different ways to conjugate a verb into the て form depending on the verb type. Let's break it down so it's a bit easier to understand."
+    },
+    {
+      "type": "paragraph",
+      "text": "Godan verbs conjugate into the て form in a bunch of different ways. If you're curious why, you can read about the process that caused this, which is known as 音便（おんびん） . It is the same reason why the past tense ending 〜た conjugation pattern also has the same wacky pattern. If you just want to know the rules though, then here they are:"
+    },
+    {
+      "type": "paragraph",
+      "text": "For godan verbs that end in う , つ , or る , replace the ending sounds with って . For example, the て form of 会（あ）う (to meet) is:"
+    },
+    {
+      "type": "formula",
+      "japanese": "会（あ）う + って = 会（あ）って",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "For verbs that end in ぬ , ぶ , or む , replace the ending kana with んで . For example, the て form of 死（し）ぬ (to die) is:"
+    },
+    {
+      "type": "formula",
+      "japanese": "死（し）ぬ + んで = 死（し）んで",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Verbs that end in す are conjugated by replacing す with して . For example, the て form of 話（はな）す (to speak) is:"
+    },
+    {
+      "type": "formula",
+      "japanese": "話（はな）す + して = 話（はな）して",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Verbs that end in く are conjugated by replacing く with いて . For example, the て form of 書（か）く (to write) is:"
+    },
+    {
+      "type": "formula",
+      "japanese": "書（か）く + いて = 書（か）いて",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "For verbs that end in ぐ , replace ぐ with いで . For example, the て form of 泳（およ）ぐ (to swim) is:"
+    },
+    {
+      "type": "formula",
+      "japanese": "泳（およ）ぐ + いで = 泳（およ）いで",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Hey! This should be called で form, not て form ��,\" you might say. You have a point, but we're still calling it て form (sorry, not sorry)."
+    },
+    {
+      "type": "paragraph",
+      "text": "As always, ichidan verbs are easy! Replace る with て . For example, the て form of 見（み）る (to see) is:"
+    },
+    {
+      "type": "formula",
+      "japanese": "見（み）る + て = 見（み）て",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Although 行（い）く (to go) is a godan verb that ends in く, its て form is irregular."
+    },
+    {
+      "type": "formula",
+      "japanese": "行（い）く → 行（おこな）って",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "As usual, 来（く）る (to come) and する (to do) conjugate irregularly. In the て form, they become:"
+    },
+    {
+      "type": "formula",
+      "japanese": "来（く）る → 来（き）て する → して",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "来（く）る → 来（き） て する → して"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for--adjectives",
+      "text": "For い-Adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "Like verbs, い-adjectives can be conjugated into the て form, which is actually much simpler than verbs. All you need to do is remove the 〜い ending from the い-adjective and replace it with 〜く, to create the く Form . This allows the い-adjective to stick to another word or element, in this case, て."
+    },
+    {
+      "type": "formula",
+      "japanese": "甘（あま）い + く + て = 甘（あま）くて",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "This works for all い-adjectives, without exception🎉 Bear in mind that the stem form of いい is よ, so its て form is よくて ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for--adjectives-and-nouns-changing--to-",
+      "text": "For な-Adjectives and Nouns (Changing だ to で)"
+    },
+    {
+      "type": "paragraph",
+      "text": "な-adjectives and nouns don’t conjugate themselves. Instead, you simply add で, which is the て form of だ."
+    },
+    {
+      "type": "formula",
+      "japanese": "静（しず）かだ + で = 静（しず）かで 頭痛（ずつう）だ + で = 頭痛（ずつう）で",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "静（しず）か だ + で = 静（しず）か で 頭痛（ずつう） だ + で = 頭痛（ずつう） で"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "fundamental-uses-of-the--form",
+      "text": "Fundamental Uses of the て Form"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "form-for-and",
+      "text": "て Form For “And”"
+    },
+    {
+      "type": "paragraph",
+      "text": "When て hooks two verbs together, it is used to connect two (or sometimes more) actions or events. It’s similar to \"and\" in English, as in \"I did this, and I did that.\" In this case, it's not only used to show off how busy and productive you were, but also to express the order of the events or actions. For instance, to say: First I run, and then I shower, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "走（はし）ってシャワーをする。",
+      "english": "I run and shower ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on the context though, the relationship between the actions or events can be interpreted differently. For example, if the two actions are overlapping, the actions are more simultaneous than occurring in a sequence."
+    },
+    {
+      "type": "example",
+      "japanese": "走（はし）って駅（えき）に行（い）く。",
+      "english": "I go to the station by running.(Literally: I run and go to the station.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "With this example, the relationship between these can also be interpreted as a main action (go to the station) and a sub-action, which is the means or the manner in which the main action was completed (by running)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, て can attach to an い-adjective or な adjective to link two states. So if we want to say that our favorite restaurant is both spacious and quiet, one way to do this is by using 〜くて:"
+    },
+    {
+      "type": "example",
+      "japanese": "あの店（みせ）は広（ひろ）くて静（しず）かだ。",
+      "english": "That restaurant is spacious and quiet."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also switch the order by using な-adjective + で:"
+    },
+    {
+      "type": "example",
+      "japanese": "あの店（みせ）は静（しず）かで広（ひろ）い。",
+      "english": "That restaurant is quiet and spacious."
+    },
+    {
+      "type": "paragraph",
+      "text": "We can also do this with more than two words, and you can freely combine different word types together to your heart's content. Just remember that all words other than the last one will be in the て form:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここは料理（りょうり）の鉄人（てつじん）のお店（みせ）で、静（しず）かで広（ひろ）くて人気（にんき）があって、おいしい。",
+      "english": "This is an Iron Chef's restaurant, and it's quiet, spacious, popular and delicious."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "form-for-so",
+      "text": "て Form For \"So\""
+    },
+    {
+      "type": "paragraph",
+      "text": "In some contexts, the connection between the linked words or clauses can be more like \"so\" than \"and\". This can be understood from the context, or it may be a bit ambiguous. Take the following example:"
+    },
+    {
+      "type": "example",
+      "japanese": "このケーキは甘（あま）くておいしい.",
+      "english": "This cake is sweet and delicious. This cake is sweet so (it's) delicious."
+    },
+    {
+      "type": "paragraph",
+      "text": "While the above example can go either way, other sentences are much clearer."
+    },
+    {
+      "type": "example",
+      "japanese": "このカフェは居心地（いごこち）がよくて好（す）きだ。",
+      "english": "This cafe is comfortable, so I like it."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also link verbs, な-adjectives or nouns to create this causal relationship."
+    },
+    {
+      "type": "example",
+      "japanese": "頭痛（ずつう）で眠（ねむ）れなかった。",
+      "english": "I had a headache so I couldn’t sleep."
+    },
+    {
+      "type": "example",
+      "japanese": "寝不足（ねぶそく）でフラフラだ。",
+      "english": "I didn’t sleep well, so I’m dizzy."
+    },
+    {
+      "type": "paragraph",
+      "text": "For this causal relationship usage of the て form, the consequence is usually something you don't have control over, such as can’t sleep or being dizzy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, this relationship is decided depending on the context. For example, the next example can be interpreted as either sequential relationship, simultaneous relationship, the means and the main action relationship, or a casual \"so\" relationship."
+    },
+    {
+      "type": "example",
+      "japanese": "睡眠薬（すいみんやく）を飲（の）んで眠（ねむ）った。",
+      "english": "I took a sleeping pill and I fell asleep. I fell asleep by taking a sleeping pill. I took a sleeping pill so I fell asleep."
+    },
+    {
+      "type": "paragraph",
+      "text": "In most cases, the relationship between the words will be clear from their meaning or the context in which the sentence occurs."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "form-with-other-sentence-endings",
+      "text": "て Form With Other Sentence Endings"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verbs in the て form are often accompanied by other sentence endings. For example, if you want to wake someone up politely, you can add ください and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "起（お）きてください。",
+      "english": "Please wake up."
+    },
+    {
+      "type": "paragraph",
+      "text": "ください is often translated as \"please\" in English, and it adds politeness to the request. If you ever spot your boss taking a sneaky nap at their desk, you can nap-shame them by saying this."
+    },
+    {
+      "type": "paragraph",
+      "text": "In fact, when the て form finishes a sentence all by itself, it is interpreted as a command or request. It's quite casual though, so maybe stick to using ください with your boss. If it's someone else, who you don't have to be polite to (like your little brother) you can simply say:"
+    },
+    {
+      "type": "example",
+      "japanese": "起（お）きて。",
+      "english": "Wake up."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are other elements that can follow the て form, such as aspect markers that indicate time-related or direction-related characteristics, such as いる, ある , おく , くる , and いく . We'll cover those on separate, dedicated pages."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "form-and-subjects-in-linked-clauses",
+      "text": "て Form And Subjects in Linked Clauses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most of the clauses linked together by the て form share the same subject. This is especially true when the subject in the first clause is marked by particle は or no particle. For example, the subject of the following sentence (bacon) remains the same in the first and the second part. In this case, the subject of the second part is usually omitted:"
+    },
+    {
+      "type": "example",
+      "japanese": "このベーコン(は)カリカリでおいしい。",
+      "english": "This bacon is crispy and (it’s) delicious. This bacon is crispy so (it's) delicious."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although not as common, it is possible to have a different two linked clauses with different subjects too:"
+    },
+    {
+      "type": "example",
+      "japanese": "このベーコンはカリカリで、このパンはフワフワだ。",
+      "english": "This bacon is crispy and this bread is fluffy."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the two clauses have different subjects, you'll most often see particle が mark the subject in the initial clause."
+    },
+    {
+      "type": "example",
+      "japanese": "このベーコンがカリカリで、このパンはフワフワだ。",
+      "english": "This bacon is crispy and this bread is fluffy."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are curious about the difference in nuance between は and が, check out our article about it!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "You can think of the て form like a hook. It attaches to the word at the tail of a clause (or just a word) and links it up with the word or clause that comes next. The て form can be used for many purposes, but the most basic use is to connect simultaneous or sequential actions, events, or states together. For example, to say “I woke up and went to a bathroom,” you can hook the two actions together with て, as in 起（お）きてトイレに行（い）った。",
+    "て can attach to four different word types - verbs, い-adjectives , な-adjectives , and nouns. Verbs and い-adjectives conjugate (or change their shape) to change into the て form. For な-adjectives and nouns, you can simply add で, which is the て form of だ , to link words together.",
+    "First, let's look at how to turn Japanese verbs into the て forms.",
+    "There are several different ways to conjugate a verb into the て form depending on the verb type. Let's break it down so it's a bit easier to understand.",
+    "Godan verbs conjugate into the て form in a bunch of different ways. If you're curious why, you can read about the process that caused this, which is known as 音便（おんびん） . It is the same reason why the past tense ending 〜た conjugation pattern also has the same wacky pattern. If you just want to know the rules though, then here they are:",
+    "For godan verbs that end in う , つ , or る , replace the ending sounds with って . For example, the て form of 会（あ）う (to meet) is:",
+    "For verbs that end in ぬ , ぶ , or む , replace the ending kana with んで . For example, the て form of 死（し）ぬ (to die) is:",
+    "Verbs that end in す are conjugated by replacing す with して . For example, the て form of 話（はな）す (to speak) is:",
+    "Verbs that end in く are conjugated by replacing く with いて . For example, the て form of 書（か）く (to write) is:",
+    "For verbs that end in ぐ , replace ぐ with いで . For example, the て form of 泳（およ）ぐ (to swim) is:",
+    "\"Hey! This should be called で form, not て form ��,\" you might say. You have a point, but we're still calling it て form (sorry, not sorry).",
+    "As always, ichidan verbs are easy! Replace る with て . For example, the て form of 見（み）る (to see) is:",
+    "Although 行（い）く (to go) is a godan verb that ends in く, its て form is irregular.",
+    "As usual, 来（く）る (to come) and する (to do) conjugate irregularly. In the て form, they become:",
+    "来（く）る → 来（き） て する → して",
+    "Like verbs, い-adjectives can be conjugated into the て form, which is actually much simpler than verbs. All you need to do is remove the 〜い ending from the い-adjective and replace it with 〜く, to create the く Form . This allows the い-adjective to stick to another word or element, in this case, て.",
+    "This works for all い-adjectives, without exception🎉 Bear in mind that the stem form of いい is よ, so its て form is よくて .",
+    "な-adjectives and nouns don’t conjugate themselves. Instead, you simply add で, which is the て form of だ.",
+    "静（しず）か だ + で = 静（しず）か で 頭痛（ずつう） だ + で = 頭痛（ずつう） で",
+    "When て hooks two verbs together, it is used to connect two (or sometimes more) actions or events. It’s similar to \"and\" in English, as in \"I did this, and I did that.\" In this case, it's not only used to show off how busy and productive you were, but also to express the order of the events or actions. For instance, to say: First I run, and then I shower, you can say:",
+    "Depending on the context though, the relationship between the actions or events can be interpreted differently. For example, if the two actions are overlapping, the actions are more simultaneous than occurring in a sequence.",
+    "With this example, the relationship between these can also be interpreted as a main action (go to the station) and a sub-action, which is the means or the manner in which the main action was completed (by running).",
+    "In the same way, て can attach to an い-adjective or な adjective to link two states. So if we want to say that our favorite restaurant is both spacious and quiet, one way to do this is by using 〜くて:",
+    "You can also switch the order by using な-adjective + で:",
+    "We can also do this with more than two words, and you can freely combine different word types together to your heart's content. Just remember that all words other than the last one will be in the て form:",
+    "In some contexts, the connection between the linked words or clauses can be more like \"so\" than \"and\". This can be understood from the context, or it may be a bit ambiguous. Take the following example:",
+    "While the above example can go either way, other sentences are much clearer.",
+    "You can also link verbs, な-adjectives or nouns to create this causal relationship.",
+    "For this causal relationship usage of the て form, the consequence is usually something you don't have control over, such as can’t sleep or being dizzy.",
+    "Again, this relationship is decided depending on the context. For example, the next example can be interpreted as either sequential relationship, simultaneous relationship, the means and the main action relationship, or a casual \"so\" relationship.",
+    "In most cases, the relationship between the words will be clear from their meaning or the context in which the sentence occurs.",
+    "Verbs in the て form are often accompanied by other sentence endings. For example, if you want to wake someone up politely, you can add ください and say:",
+    "ください is often translated as \"please\" in English, and it adds politeness to the request. If you ever spot your boss taking a sneaky nap at their desk, you can nap-shame them by saying this.",
+    "In fact, when the て form finishes a sentence all by itself, it is interpreted as a command or request. It's quite casual though, so maybe stick to using ください with your boss. If it's someone else, who you don't have to be polite to (like your little brother) you can simply say:",
+    "There are other elements that can follow the て form, such as aspect markers that indicate time-related or direction-related characteristics, such as いる, ある , おく , くる , and いく . We'll cover those on separate, dedicated pages.",
+    "Most of the clauses linked together by the て form share the same subject. This is especially true when the subject in the first clause is marked by particle は or no particle. For example, the subject of the following sentence (bacon) remains the same in the first and the second part. In this case, the subject of the second part is usually omitted:",
+    "Although not as common, it is possible to have a different two linked clauses with different subjects too:",
+    "When the two clauses have different subjects, you'll most often see particle が mark the subject in the initial clause.",
+    "If you are curious about the difference in nuance between は and が, check out our article about it!"
+  ],
+  "examples": [
+    {
+      "japanese": "走（はし）ってシャワーをする。",
+      "english": "I run and shower ."
+    },
+    {
+      "japanese": "走（はし）って駅（えき）に行（い）く。",
+      "english": "I go to the station by running.(Literally: I run and go to the station.)"
+    },
+    {
+      "japanese": "あの店（みせ）は広（ひろ）くて静（しず）かだ。",
+      "english": "That restaurant is spacious and quiet."
+    },
+    {
+      "japanese": "あの店（みせ）は静（しず）かで広（ひろ）い。",
+      "english": "That restaurant is quiet and spacious."
+    },
+    {
+      "japanese": "ここは料理（りょうり）の鉄人（てつじん）のお店（みせ）で、静（しず）かで広（ひろ）くて人気（にんき）があって、おいしい。",
+      "english": "This is an Iron Chef's restaurant, and it's quiet, spacious, popular and delicious."
+    },
+    {
+      "japanese": "このケーキは甘（あま）くておいしい.",
+      "english": "This cake is sweet and delicious. This cake is sweet so (it's) delicious."
+    },
+    {
+      "japanese": "このカフェは居心地（いごこち）がよくて好（す）きだ。",
+      "english": "This cafe is comfortable, so I like it."
+    },
+    {
+      "japanese": "頭痛（ずつう）で眠（ねむ）れなかった。",
+      "english": "I had a headache so I couldn’t sleep."
+    },
+    {
+      "japanese": "寝不足（ねぶそく）でフラフラだ。",
+      "english": "I didn’t sleep well, so I’m dizzy."
+    },
+    {
+      "japanese": "睡眠薬（すいみんやく）を飲（の）んで眠（ねむ）った。",
+      "english": "I took a sleeping pill and I fell asleep. I fell asleep by taking a sleeping pill. I took a sleeping pill so I fell asleep."
+    },
+    {
+      "japanese": "起（お）きてください。",
+      "english": "Please wake up."
+    },
+    {
+      "japanese": "起（お）きて。",
+      "english": "Wake up."
+    },
+    {
+      "japanese": "このベーコン(は)カリカリでおいしい。",
+      "english": "This bacon is crispy and (it’s) delicious. This bacon is crispy so (it's) delicious."
+    },
+    {
+      "japanese": "このベーコンはカリカリで、このパンはフワフワだ。",
+      "english": "This bacon is crispy and this bread is fluffy."
+    },
+    {
+      "japanese": "このベーコンがカリカリで、このパンはフワフワだ。",
+      "english": "This bacon is crispy and this bread is fluffy."
+    },
+    {
+      "japanese": "会（あ）う + って = 会（あ）って",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "死（し）ぬ + んで = 死（し）んで",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "話（はな）す + して = 話（はな）して",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "書（か）く + いて = 書（か）いて",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "泳（およ）ぐ + いで = 泳（およ）いで",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "見（み）る + て = 見（み）て",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "行（い）く → 行（おこな）って",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "来（く）る → 来（き）て する → して",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "甘（あま）い + く + て = 甘（あま）くて",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "静（しず）かだ + で = 静（しず）かで 頭痛（ずつう）だ + で = 頭痛（ずつう）で",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Godan",
+        "会（あ）う → 会（あ）って 立（た）つ → 立（た）って 割（われ）る → 割（わ）って 書（か）く → 書（か）いて 話（はな）す → 話（はな）して 泳（およ）ぐ → 泳（およ）いで 死（し）ぬ → 死（し）んで 遊（あそ）ぶ → 遊（あそ）んで 休（やす）む → 休（やす）んで"
+      ],
+      [
+        "Ichidan",
+        "食（た）べる → 食（た）べて 起（お）きる → 起（お）きて 閉（と）じる → 閉（と）じて"
+      ],
+      [
+        "Irregular",
+        "行（い）く → 行（おこな）って 来（く）る → 来（き）て（き ） する → して"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "form-conjugations",
+      "text": "て Form Conjugations"
+    },
+    {
+      "level": 4,
+      "id": "for-verbs",
+      "text": "For Verbs"
+    },
+    {
+      "level": 4,
+      "id": "for--adjectives",
+      "text": "For い-Adjectives"
+    },
+    {
+      "level": 4,
+      "id": "for--adjectives-and-nouns-changing--to-",
+      "text": "For な-Adjectives and Nouns (Changing だ to で)"
+    },
+    {
+      "level": 3,
+      "id": "fundamental-uses-of-the--form",
+      "text": "Fundamental Uses of the て Form"
+    },
+    {
+      "level": 4,
+      "id": "form-for-and",
+      "text": "て Form For “And”"
+    },
+    {
+      "level": 4,
+      "id": "form-for-so",
+      "text": "て Form For \"So\""
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "form-with-other-sentence-endings",
+      "text": "て Form With Other Sentence Endings"
+    },
+    {
+      "level": 3,
+      "id": "form-and-subjects-in-linked-clauses",
+      "text": "て Form And Subjects in Linked Clauses"
+    }
+  ],
+  "id": 115,
+  "slug": "te-form",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/te-form/",
+  "categories": [
+    "Adjective Form",
+    "Clause Link",
+    "Verb Form"
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "title": "Verb そう",
+  "description": "Adding 〜そう to a verb is the equivalent of \"looks like (someone or something) is going to do something\" in English.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is そう?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This form is the rough equivalent of \"looks like (someone or something) is going to\" in English. So for example, 落（お）ちそう means \"looks like it's going to fall\" and 雨（あめ）が降（お）りそう means \"looks like it's going to rain.\" The ending 〜そう can also be used with adjectives to give a similar kind of meaning, but in this post we're going to focus on verbs."
+    },
+    {
+      "type": "paragraph",
+      "text": "This verb form is made up of the ます form of a verb, with the 〜ます part removed and replaced with 〜そう. So if we want to say that someone \"looks like they're going to go cry,\" we need to use 泣（な）く (to cry). We take its polite ます form 泣（な）きます, remove the 〜ます, and add 〜そう. And hey presto, we have the そう form 泣（な）きそう:"
+    },
+    {
+      "type": "formula",
+      "japanese": "泣（な）きます + そう = 泣（な）きそう",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "This works for all verbs, without exception (hurray!). So, godan verbs , ichidan verbs and even the two irregular verbs all follow this exact same rule. Here are a few more examples to give you the idea:"
+    },
+    {
+      "type": "formula",
+      "japanese": "なります + そう = なりそう 言（い）います + そう = 言（い）いそう 食（た）べます + そう = 食（た）べそう します + そう = しそう 来（き）ます + そう = 来（き）そう",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "なり ます + そう = なり そう 言（い）い ます + そう = 言（い）い そう 食（た）べ ます + そう = 食（た）べ そう し ます + そう = し そう 来（き） ます + そう = 来（き） そう"
+    },
+    {
+      "type": "paragraph",
+      "text": "Once a verb is in the そう form, although it is still a verb in terms of meaning, it behaves just like a な-adjective in the way it fits together with other words. So, just like with な-adjectives, we can add だ or です onto the end, and we can join it to a noun with な. More about all of this in the next section! Let's take a detailed look at the different ways we can use 〜そう."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-interpreting-things-we-can-see",
+      "text": "そう for Interpreting Things We Can See"
+    },
+    {
+      "type": "paragraph",
+      "text": "As mentioned earlier, verbs ending in 〜そう are roughly the equivalent of \"looks like (someone or something) is going to (verb)\" in English. In other words, you can use this form to explain what you think is going to happen, based on what you can see at that moment. So if it suddenly gets colder and there are big black clouds right above us, we might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "今（いま）にも雨（あめ）が降（お）りそうです。",
+      "english": "It looks like it's going to rain at any moment."
+    },
+    {
+      "type": "paragraph",
+      "text": "If it turns out to be a major storm and the tree outside our window looks like it's going to topple over, we can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あの木（き）、倒（たお）れそうだよ！",
+      "english": "Looks like that tree is going to fall down!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-interpreting-things-we-feel",
+      "text": "そう for Interpreting Things We Feel"
+    },
+    {
+      "type": "paragraph",
+      "text": "This form can also be used to talk about things that you think you are going to do—usually without wanting to do them—based on the way you feel. In this case, you are picturing yourself feeling a certain feeling or emotion."
+    },
+    {
+      "type": "example",
+      "japanese": "つらい。泣（な）きそう。",
+      "english": "This is tough. I think I'm going to cry."
+    },
+    {
+      "type": "example",
+      "japanese": "残念（ざんねん）ながら、この美味（おい）しいケーキを残（のこ）しそうなんです。",
+      "english": "It's a pity, but I don't think I'm going to be able to eat all this delicious cake."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use 〜そう to assume something based on what you visualize in your mind."
+    },
+    {
+      "type": "example",
+      "japanese": "A: マラソンに一緒（いっしょ）に出（で）ない？B: やだよ、すごい疲（つか）れそう。",
+      "english": "A: Do you want to run a marathon with me?B: No. It's going to be very tiring."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this context, you are imagining yourself being tired from running the marathon."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "when-you-cant-use-",
+      "text": "When You Can't Use そう"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth mentioning here that, because this is based on something you see or feel at the moment you're speaking, you can't use it to give your interpretation of something that happened in the past. If you want to do that, you'll need to use either 〜らしい or 〜よう."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have already seen the past form of the verb with 〜そう, but in this case the meaning is different. We're no longer reporting a judgement based on what we can see or feel. Instead, we're reporting something we've heard."
+    },
+    {
+      "type": "example",
+      "japanese": "あの木（き）倒（たお）れたそうだよ！",
+      "english": "I heard that that tree fell down!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "other-forms-of-",
+      "text": "Other Forms of そう"
+    },
+    {
+      "type": "paragraph",
+      "text": "As we've already mentioned, once we change a verb into this form, although it keeps its meaning as a verb, it behaves just like a な-adjective. In other words, it fits together with other words just like any other な-adjective. So, just like with な-adjectives, we can add だ, です, and so on, onto the end:"
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）が降（お）りそうだ。雨（あめ）が降（お）りそうです。",
+      "english": "It looks like it's going to rain."
+    },
+    {
+      "type": "paragraph",
+      "text": "This also works in the past:"
+    },
+    {
+      "type": "example",
+      "japanese": "昨日（きのう）は雨（あめ）が降（お）りそうだったが、結局（けっきょく）降（ふ）らなかった。昨日（きのう）は雨（あめ）が降（お）りそうでしたが、結局（けっきょく）降（お）りませんでした。",
+      "english": "Yesterday it looked like it was going to rain, but in the end it didn't."
+    },
+    {
+      "type": "paragraph",
+      "text": "And, of course, we can attach it to the beginning of a noun by adding な between the two:"
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）が降（お）りそうな空（そら）",
+      "english": "A stormy sky (Literally: a sky that looks like it's going to rain.)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "This form is the rough equivalent of \"looks like (someone or something) is going to\" in English. So for example, 落（お）ちそう means \"looks like it's going to fall\" and 雨（あめ）が降（お）りそう means \"looks like it's going to rain.\" The ending 〜そう can also be used with adjectives to give a similar kind of meaning, but in this post we're going to focus on verbs.",
+    "This verb form is made up of the ます form of a verb, with the 〜ます part removed and replaced with 〜そう. So if we want to say that someone \"looks like they're going to go cry,\" we need to use 泣（な）く (to cry). We take its polite ます form 泣（な）きます, remove the 〜ます, and add 〜そう. And hey presto, we have the そう form 泣（な）きそう:",
+    "This works for all verbs, without exception (hurray!). So, godan verbs , ichidan verbs and even the two irregular verbs all follow this exact same rule. Here are a few more examples to give you the idea:",
+    "なり ます + そう = なり そう 言（い）い ます + そう = 言（い）い そう 食（た）べ ます + そう = 食（た）べ そう し ます + そう = し そう 来（き） ます + そう = 来（き） そう",
+    "Once a verb is in the そう form, although it is still a verb in terms of meaning, it behaves just like a な-adjective in the way it fits together with other words. So, just like with な-adjectives, we can add だ or です onto the end, and we can join it to a noun with な. More about all of this in the next section! Let's take a detailed look at the different ways we can use 〜そう.",
+    "As mentioned earlier, verbs ending in 〜そう are roughly the equivalent of \"looks like (someone or something) is going to (verb)\" in English. In other words, you can use this form to explain what you think is going to happen, based on what you can see at that moment. So if it suddenly gets colder and there are big black clouds right above us, we might say:",
+    "If it turns out to be a major storm and the tree outside our window looks like it's going to topple over, we can say:",
+    "This form can also be used to talk about things that you think you are going to do—usually without wanting to do them—based on the way you feel. In this case, you are picturing yourself feeling a certain feeling or emotion.",
+    "You can also use 〜そう to assume something based on what you visualize in your mind.",
+    "In this context, you are imagining yourself being tired from running the marathon.",
+    "It's worth mentioning here that, because this is based on something you see or feel at the moment you're speaking, you can't use it to give your interpretation of something that happened in the past. If you want to do that, you'll need to use either 〜らしい or 〜よう.",
+    "You may have already seen the past form of the verb with 〜そう, but in this case the meaning is different. We're no longer reporting a judgement based on what we can see or feel. Instead, we're reporting something we've heard.",
+    "As we've already mentioned, once we change a verb into this form, although it keeps its meaning as a verb, it behaves just like a な-adjective. In other words, it fits together with other words just like any other な-adjective. So, just like with な-adjectives, we can add だ, です, and so on, onto the end:",
+    "This also works in the past:",
+    "And, of course, we can attach it to the beginning of a noun by adding な between the two:"
+  ],
+  "examples": [
+    {
+      "japanese": "今（いま）にも雨（あめ）が降（お）りそうです。",
+      "english": "It looks like it's going to rain at any moment."
+    },
+    {
+      "japanese": "あの木（き）、倒（たお）れそうだよ！",
+      "english": "Looks like that tree is going to fall down!"
+    },
+    {
+      "japanese": "つらい。泣（な）きそう。",
+      "english": "This is tough. I think I'm going to cry."
+    },
+    {
+      "japanese": "残念（ざんねん）ながら、この美味（おい）しいケーキを残（のこ）しそうなんです。",
+      "english": "It's a pity, but I don't think I'm going to be able to eat all this delicious cake."
+    },
+    {
+      "japanese": "A: マラソンに一緒（いっしょ）に出（で）ない？B: やだよ、すごい疲（つか）れそう。",
+      "english": "A: Do you want to run a marathon with me?B: No. It's going to be very tiring."
+    },
+    {
+      "japanese": "あの木（き）倒（たお）れたそうだよ！",
+      "english": "I heard that that tree fell down!"
+    },
+    {
+      "japanese": "雨（あめ）が降（お）りそうだ。雨（あめ）が降（お）りそうです。",
+      "english": "It looks like it's going to rain."
+    },
+    {
+      "japanese": "昨日（きのう）は雨（あめ）が降（お）りそうだったが、結局（けっきょく）降（ふ）らなかった。昨日（きのう）は雨（あめ）が降（お）りそうでしたが、結局（けっきょく）降（お）りませんでした。",
+      "english": "Yesterday it looked like it was going to rain, but in the end it didn't."
+    },
+    {
+      "japanese": "雨（あめ）が降（お）りそうな空（そら）",
+      "english": "A stormy sky (Literally: a sky that looks like it's going to rain.)"
+    },
+    {
+      "japanese": "泣（な）きます + そう = 泣（な）きそう",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "なります + そう = なりそう 言（い）います + そう = 言（い）いそう 食（た）べます + そう = 食（た）べそう します + そう = しそう 来（き）ます + そう = 来（き）そう",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is そう?"
+    },
+    {
+      "level": 2,
+      "id": "for-interpreting-things-we-can-see",
+      "text": "そう for Interpreting Things We Can See"
+    },
+    {
+      "level": 2,
+      "id": "for-interpreting-things-we-feel",
+      "text": "そう for Interpreting Things We Feel"
+    },
+    {
+      "level": 2,
+      "id": "when-you-cant-use-",
+      "text": "When You Can't Use そう"
+    },
+    {
+      "level": 2,
+      "id": "other-forms-of-",
+      "text": "Other Forms of そう"
+    }
+  ],
+  "id": 45,
+  "slug": "verb-sou",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-sou/",
+  "categories": [
+    "Verb Form"
+  ]
+}

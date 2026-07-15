@@ -1,0 +1,146 @@
+{
+  "title": "〜たて",
+  "description": "〜たて attaches to a verb stem to mean \"freshly ~\" or \"just-~ed\" — an action finished only moments ago, with the result still fresh. Common with cooking and other made-just-now things.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜たて attaches to the ますstem of a verb to express that the action has just been completed and the result is still fresh. It behaves like a noun suffix: 作（つく）りたて (freshly made), 焼（や）きたて (freshly baked). To modify a following noun, add の: 焼（や）きたてのパン (freshly baked bread)."
+    },
+    {
+      "type": "formula",
+      "japanese": "verb stem ＋ たて",
+      "english": "freshly ~ / just-~ed"
+    },
+    {
+      "type": "example",
+      "japanese": "作（つく）りたて",
+      "english": "freshly made"
+    },
+    {
+      "type": "example",
+      "japanese": "焼（や）きたて",
+      "english": "freshly baked"
+    },
+    {
+      "type": "example",
+      "japanese": "洗（あら）いたての服（ふく）",
+      "english": "freshly washed clothes"
+    },
+    {
+      "type": "example",
+      "japanese": "採（と）れたての野菜（やさい）",
+      "english": "freshly picked vegetables"
+    },
+    {
+      "type": "example",
+      "japanese": "生（う）まれたての赤（あか）ちゃん",
+      "english": "a newborn baby"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "in-sentences",
+      "text": "In Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜たて is used most often with food and drink, but any verb whose \"just-finished\" state matters can take it. The freshness is emphasized — something loses that special quality soon after."
+    },
+    {
+      "type": "example",
+      "japanese": "淹（い）れたてのコーヒーはおいしいです。",
+      "english": "Freshly brewed coffee is delicious."
+    },
+    {
+      "type": "example",
+      "japanese": "この魚（さかな）は釣（つ）りたてです。",
+      "english": "This fish was just caught."
+    },
+    {
+      "type": "example",
+      "japanese": "ペンキが塗（ぬ）りたてなので、触（さわ）らないでください。",
+      "english": "The paint is freshly applied, so please don't touch it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜たて marks a fresh result, while 〜たばかり marks that an event happened a short time ago in general. 焼（や）きたてのパン stresses the bread is still fresh; 焼（や）いたばかりのパン simply says it was baked just now. Also, 〜たて attaches to the stem (焼（や）き〜), not the past form."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "verb stem ＋ たて",
+      "english": "freshly ~ / just-~ed",
+      "type": "formula"
+    },
+    {
+      "japanese": "作（つく）りたて",
+      "english": "freshly made"
+    },
+    {
+      "japanese": "焼（や）きたて",
+      "english": "freshly baked"
+    },
+    {
+      "japanese": "洗（あら）いたての服（ふく）",
+      "english": "freshly washed clothes"
+    },
+    {
+      "japanese": "採（と）れたての野菜（やさい）",
+      "english": "freshly picked vegetables"
+    },
+    {
+      "japanese": "生（う）まれたての赤（あか）ちゃん",
+      "english": "a newborn baby"
+    },
+    {
+      "japanese": "淹（い）れたてのコーヒーはおいしいです。",
+      "english": "Freshly brewed coffee is delicious."
+    },
+    {
+      "japanese": "この魚（さかな）は釣（つ）りたてです。",
+      "english": "This fish was just caught."
+    },
+    {
+      "japanese": "ペンキが塗（ぬ）りたてなので、触（さわ）らないでください。",
+      "english": "The paint is freshly applied, so please don't touch it."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "in-sentences",
+      "text": "In Sentences"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1035,
+  "slug": "tate",
+  "categories": [
+    "Verb Form",
+    "Suffix"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N2"
+}

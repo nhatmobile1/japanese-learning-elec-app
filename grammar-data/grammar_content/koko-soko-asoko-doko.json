@@ -1,0 +1,538 @@
+{
+  "title": "ここ・そこ・あそこ・どこ",
+  "description": "ここ, そこ, あそこ, and どこ are a set of こそあど言葉（ことば） (ko-so-a-do words). They are equivalent to \"here,\" \"there,\" and \"over there\" in English. どこ is a question word to ask \"where?\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "ここ, そこ, あそこ, and どこ are a set of こそあど words. They can describe places you want to talk about without specifying exactly where they are. In general, ここ refers to places close to the speaker, そこ refers to places close to the listener, or reasonably far from both the speaker and listener if they're side by side, and あそこ refers to places close to neither of them. どこ is the question word that pairs together with these characters, and asks \"where?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Just remember that it's あそこ not あこ, though some dialects, such as Kansai-ben, also use あこ or あっこ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is how こそあど words work when referring to a physical object that you can see:"
+    },
+    {
+      "type": "formula",
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you'd like to see scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "ここ, そこ, あそこ, and どこ can be used in sentences structure in the same way as nouns that refer to places, such as 日本（にっぽん） or レストラン."
+    },
+    {
+      "type": "example",
+      "japanese": "ここはどこですか？",
+      "english": "Where am I? (Literally: Where is here?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because they refer to places, they often come before the particle で and the particle に ."
+    },
+    {
+      "type": "example",
+      "japanese": "そこでおどろう。",
+      "english": "Let's dance there."
+    },
+    {
+      "type": "example",
+      "japanese": "あそこにチョコレートがある！",
+      "english": "There's chocolate over there!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-physical-places",
+      "text": "ここ, そこ, and あそこ for Physical Places"
+    },
+    {
+      "type": "paragraph",
+      "text": "ここ, そこ, and あそこ are used to refer to places in relation to where you are. They're the equivalent of \"here,\" \"there,\" and \"over there\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you and your friend are walking down the street, trying to find a place to grab lunch. And then, you come across a restaurant you've been to before and you know is good. To refer to the restaurant, you may use ここ if you are standing right in front of it because it's close to you, the speaker:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここ、おいしかったよ。",
+      "english": "This place was good."
+    },
+    {
+      "type": "paragraph",
+      "text": "What if the restaurant is across the street? In this case, you and your friend can see the place while standing next to each other, so you may use そこ if you feel just a little away from the restaurant and use あそこ if you feel it's far."
+    },
+    {
+      "type": "example",
+      "japanese": "そこ、おいしかったよ。 あそこ、おいしかったよ。",
+      "english": "That place was good. That place over there was good."
+    },
+    {
+      "type": "paragraph",
+      "text": "Which of the three characters to go for is not always set in stone and depends on the speaker's interpretation. Now, let's say there are multiple restaurants that looks interesting to both of you and you're indecisive about which one to choose. In this case, you can use ここ, そこ, and あそこ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "こことそこ、どっちにしよう。",
+      "english": "Here or there, which one should we go to?"
+    },
+    {
+      "type": "paragraph",
+      "text": "To say the same thing, you can also use こっち, そっち, and あっち ."
+    },
+    {
+      "type": "example",
+      "japanese": "こっちとそっち、どっちにしよう。",
+      "english": "This one or that one, which one should we go to?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-where",
+      "text": "どこ for \"Where?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "どこ is the Japanese word for \"where?\" The polite version of どこ is どちら ."
+    },
+    {
+      "type": "example",
+      "japanese": "どこに行（い）くの？ どちらに行（い）かれるんですか？",
+      "english": "Where are you going?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-parts-of-a-whole",
+      "text": "ここ, そこ, あそこ, and どこ for Parts of a Whole"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use ここ, そこ, and あそこ to refer to a part of something, like a specific part of the whole discussion, and どこ to ask a question about it."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's say you are discussing a project with your coworker. You agree with one part of your coworkers' opinion, but not the other part. In this case, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここについては同意（どうい）しますが、そこはゆずれません。",
+      "english": "I agree with this point, but that point is non-negotiable."
+    },
+    {
+      "type": "paragraph",
+      "text": "ここ, そこ, あこ, and どこ can also be used for a specific part of someone's character or nature. For example, if you want to tell off your friend who always lacks confidence, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "なんでそんなに自信（じしん）ないの？そこはあなたの直（なお）すべきところだよ。",
+      "english": "Why are you so unconfident? That's a part of you that you should try to fix."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with--for-a-limit-on-places",
+      "text": "ここ, そこ, あそこ with 〜だけ for a Limit on Places"
+    },
+    {
+      "type": "paragraph",
+      "text": "When ここ, そこ, and あそこ are used with 〜 だけ (only), you can say ここだけ (only this place), そこだけ (only that place), and あそこだけ (only that place over there)."
+    },
+    {
+      "type": "paragraph",
+      "text": "This expression is usually used when a certain part of a place is different compared to the other parts. For example, let's say your entire backyard is covered with snow except for one spot. You may wonder:"
+    },
+    {
+      "type": "example",
+      "japanese": "なんでここだけ雪（そそ）がないんだろう。",
+      "english": "I wonder why there's no snow only here."
+    },
+    {
+      "type": "paragraph",
+      "text": "ここだけ can also be used idiomatically, meaning \"between you and me.\" For example, if you win the lottery and want to share the good news with only one of your friends, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここだけの話（はなし）だけど、宝（たから）くじが当（あ）たったんだ！",
+      "english": "Just between you and me, I won the lottery!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with--for-an-approximate-of-places",
+      "text": "ここ, そこ, あそこ, どこ with 〜ら辺 for an Approximate of Places"
+    },
+    {
+      "type": "paragraph",
+      "text": "By adding 〜ら辺（あたり） to ここ, そこ, あそこ, and どこ, you can say ここら辺（へん） (around here), そこら辺（あたり） (around there), あそこら辺（あたり） (about over there), or どこら辺（あたり） (about where)."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you are hiking with your friend and want to suggest taking a break around where you are now, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここら辺（あたり）で休憩（きゅうけい）しようよ！",
+      "english": "Let's take a break around here."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note ここら辺（へん）, そこら辺（あたり）, and あそこら辺（あたり） are casual expressions. To describe an approximate place more formally, you use a different set of こそあど words この, その, あの, and どの with 〜辺（あたり） or 辺（あた）り, as in この辺（あたり） or この辺（あた）り."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-points-in-time",
+      "text": "ここ, そこ, and あそこ for Points in Time"
+    },
+    {
+      "type": "paragraph",
+      "text": "ここ, そこ, and あそこ can indicate a specific point in time. For example, imagine you are looking back at your life, and you're thinking about how everything was going well up to a certain time, at which point it all started to go downhill. To refer to that moment, you may use ここ, そこ, or あそこ and say things like:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここまでは順調（じゅんちょう）だった。",
+      "english": "It was going well up to this point."
+    },
+    {
+      "type": "example",
+      "japanese": "でも、そこからが波乱（はらん）の始（はじ）まりだった。",
+      "english": "But that was the point when the trouble began."
+    },
+    {
+      "type": "example",
+      "japanese": "あそこで違（ちが）う行動（こうどう）に出（で）ていたら、何（なに）か違（ちが）っていたのだろうか…",
+      "english": "If I had acted differently at that time, I wonder if it would have made a difference…"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, ここ is a little emphatic and can add the impression that you're almost reliving the moment, while そこ objectively refers to that point in time. On the other hand, あそこ suggests that you are looking back at the memory."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, ここ can also refer to the present moment. For example, the following is a common phrase to start a news report inserted in between other segments."
+    },
+    {
+      "type": "example",
+      "japanese": "ここでニュースをお知（し）らせします。",
+      "english": "Now, I'm going to report on the news."
+    },
+    {
+      "type": "paragraph",
+      "text": "And since そこ is objective, it can be combined with the particle で and form the conjunction そこで (and then, and so)."
+    },
+    {
+      "type": "example",
+      "japanese": "冷蔵庫（れいぞうこ）を開（あ）けると、卵（たまご）も牛乳（ぎゅうにゅう）も切（き）れていた。そこで、パンケーキを作（つく）るのはあきらめた。",
+      "english": "When I opened the refrigerator, I found that we were out of eggs and milk. So then I gave up on making pancakes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-duration",
+      "text": "ここ for Duration"
+    },
+    {
+      "type": "paragraph",
+      "text": "When ここ is attached to the beginning of a word for a duration, such as 三（さん）日間（にちかん） (three days) or 一（いち）週間（しゅうかん） (one week), it adds the meaning that you're talking about a specific period of time including the present moment."
+    },
+    {
+      "type": "paragraph",
+      "text": "The time period can stretch into the past, like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "田中（たなか）さんはここ一（いち）週間（しゅうかん）会社（かいしゃ）に来（き）ていない。",
+      "english": "Tanaka-san hasn't come to the office for a week now."
+    },
+    {
+      "type": "paragraph",
+      "text": "It can also stretch into the future:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここ２、３日（にち）が山（やま）になるでしょう。",
+      "english": "These next few days will be a critical time."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "referring-to-extent",
+      "text": "Referring to Extent"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, ここ, そこ, and あそこ can be used to refer to an extent to which something is done. For example, if you work hard for someone but that person betrays you, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "[ここ・そこ・あそこ]までしたのに、裏切（うらぎ）られるとは思（おも）ってなかった。",
+      "english": "I didn't expect to be betrayed after all I did for them."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, the choice between the three characters depends on how you feel about the amount of effort you put in. That is, ここ shows that you are still emotionally involved with, and frustrated by, all the work you put in for this person, given the outcome of the situation. It still feels raw. そこ sounds like you're calmly analyzing all your effort from an objective point of view. And あそこ indicates that you are looking back at what happened, so it often adds a sentimental tone, but with more distance than if you used ここ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "ここ, そこ, あそこ, and どこ are a set of こそあど words. They can describe places you want to talk about without specifying exactly where they are. In general, ここ refers to places close to the speaker, そこ refers to places close to the listener, or reasonably far from both the speaker and listener if they're side by side, and あそこ refers to places close to neither of them. どこ is the question word that pairs together with these characters, and asks \"where?\"",
+    "Just remember that it's あそこ not あこ, though some dialects, such as Kansai-ben, also use あこ or あっこ.",
+    "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど.",
+    "However, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play.",
+    "Here is how こそあど words work when referring to a physical object that you can see:",
+    "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question.",
+    "If you'd like to see scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !",
+    "ここ, そこ, あそこ, and どこ can be used in sentences structure in the same way as nouns that refer to places, such as 日本（にっぽん） or レストラン.",
+    "Because they refer to places, they often come before the particle で and the particle に .",
+    "ここ, そこ, and あそこ are used to refer to places in relation to where you are. They're the equivalent of \"here,\" \"there,\" and \"over there\" in English.",
+    "For example, imagine you and your friend are walking down the street, trying to find a place to grab lunch. And then, you come across a restaurant you've been to before and you know is good. To refer to the restaurant, you may use ここ if you are standing right in front of it because it's close to you, the speaker:",
+    "What if the restaurant is across the street? In this case, you and your friend can see the place while standing next to each other, so you may use そこ if you feel just a little away from the restaurant and use あそこ if you feel it's far.",
+    "Which of the three characters to go for is not always set in stone and depends on the speaker's interpretation. Now, let's say there are multiple restaurants that looks interesting to both of you and you're indecisive about which one to choose. In this case, you can use ここ, そこ, and あそこ and say:",
+    "To say the same thing, you can also use こっち, そっち, and あっち .",
+    "どこ is the Japanese word for \"where?\" The polite version of どこ is どちら .",
+    "You can use ここ, そこ, and あそこ to refer to a part of something, like a specific part of the whole discussion, and どこ to ask a question about it.",
+    "For example, let's say you are discussing a project with your coworker. You agree with one part of your coworkers' opinion, but not the other part. In this case, you can say:",
+    "ここ, そこ, あこ, and どこ can also be used for a specific part of someone's character or nature. For example, if you want to tell off your friend who always lacks confidence, you may say:",
+    "When ここ, そこ, and あそこ are used with 〜 だけ (only), you can say ここだけ (only this place), そこだけ (only that place), and あそこだけ (only that place over there).",
+    "This expression is usually used when a certain part of a place is different compared to the other parts. For example, let's say your entire backyard is covered with snow except for one spot. You may wonder:",
+    "ここだけ can also be used idiomatically, meaning \"between you and me.\" For example, if you win the lottery and want to share the good news with only one of your friends, you can say:",
+    "By adding 〜ら辺（あたり） to ここ, そこ, あそこ, and どこ, you can say ここら辺（へん） (around here), そこら辺（あたり） (around there), あそこら辺（あたり） (about over there), or どこら辺（あたり） (about where).",
+    "For example, if you are hiking with your friend and want to suggest taking a break around where you are now, you can say:",
+    "Note ここら辺（へん）, そこら辺（あたり）, and あそこら辺（あたり） are casual expressions. To describe an approximate place more formally, you use a different set of こそあど words この, その, あの, and どの with 〜辺（あたり） or 辺（あた）り, as in この辺（あたり） or この辺（あた）り.",
+    "ここ, そこ, and あそこ can indicate a specific point in time. For example, imagine you are looking back at your life, and you're thinking about how everything was going well up to a certain time, at which point it all started to go downhill. To refer to that moment, you may use ここ, そこ, or あそこ and say things like:",
+    "In this case, ここ is a little emphatic and can add the impression that you're almost reliving the moment, while そこ objectively refers to that point in time. On the other hand, あそこ suggests that you are looking back at the memory.",
+    "Sometimes, ここ can also refer to the present moment. For example, the following is a common phrase to start a news report inserted in between other segments.",
+    "And since そこ is objective, it can be combined with the particle で and form the conjunction そこで (and then, and so).",
+    "When ここ is attached to the beginning of a word for a duration, such as 三（さん）日間（にちかん） (three days) or 一（いち）週間（しゅうかん） (one week), it adds the meaning that you're talking about a specific period of time including the present moment.",
+    "The time period can stretch into the past, like this:",
+    "It can also stretch into the future:",
+    "Sometimes, ここ, そこ, and あそこ can be used to refer to an extent to which something is done. For example, if you work hard for someone but that person betrays you, you may say:",
+    "In this case, the choice between the three characters depends on how you feel about the amount of effort you put in. That is, ここ shows that you are still emotionally involved with, and frustrated by, all the work you put in for this person, given the outcome of the situation. It still feels raw. そこ sounds like you're calmly analyzing all your effort from an objective point of view. And あそこ indicates that you are looking back at what happened, so it often adds a sentimental tone, but with more distance than if you used ここ."
+  ],
+  "examples": [
+    {
+      "japanese": "ここはどこですか？",
+      "english": "Where am I? (Literally: Where is here?)"
+    },
+    {
+      "japanese": "そこでおどろう。",
+      "english": "Let's dance there."
+    },
+    {
+      "japanese": "あそこにチョコレートがある！",
+      "english": "There's chocolate over there!"
+    },
+    {
+      "japanese": "ここ、おいしかったよ。",
+      "english": "This place was good."
+    },
+    {
+      "japanese": "そこ、おいしかったよ。 あそこ、おいしかったよ。",
+      "english": "That place was good. That place over there was good."
+    },
+    {
+      "japanese": "こことそこ、どっちにしよう。",
+      "english": "Here or there, which one should we go to?"
+    },
+    {
+      "japanese": "こっちとそっち、どっちにしよう。",
+      "english": "This one or that one, which one should we go to?"
+    },
+    {
+      "japanese": "どこに行（い）くの？ どちらに行（い）かれるんですか？",
+      "english": "Where are you going?"
+    },
+    {
+      "japanese": "ここについては同意（どうい）しますが、そこはゆずれません。",
+      "english": "I agree with this point, but that point is non-negotiable."
+    },
+    {
+      "japanese": "なんでそんなに自信（じしん）ないの？そこはあなたの直（なお）すべきところだよ。",
+      "english": "Why are you so unconfident? That's a part of you that you should try to fix."
+    },
+    {
+      "japanese": "なんでここだけ雪（そそ）がないんだろう。",
+      "english": "I wonder why there's no snow only here."
+    },
+    {
+      "japanese": "ここだけの話（はなし）だけど、宝（たから）くじが当（あ）たったんだ！",
+      "english": "Just between you and me, I won the lottery!"
+    },
+    {
+      "japanese": "ここら辺（あたり）で休憩（きゅうけい）しようよ！",
+      "english": "Let's take a break around here."
+    },
+    {
+      "japanese": "ここまでは順調（じゅんちょう）だった。",
+      "english": "It was going well up to this point."
+    },
+    {
+      "japanese": "でも、そこからが波乱（はらん）の始（はじ）まりだった。",
+      "english": "But that was the point when the trouble began."
+    },
+    {
+      "japanese": "あそこで違（ちが）う行動（こうどう）に出（で）ていたら、何（なに）か違（ちが）っていたのだろうか…",
+      "english": "If I had acted differently at that time, I wonder if it would have made a difference…"
+    },
+    {
+      "japanese": "ここでニュースをお知（し）らせします。",
+      "english": "Now, I'm going to report on the news."
+    },
+    {
+      "japanese": "冷蔵庫（れいぞうこ）を開（あ）けると、卵（たまご）も牛乳（ぎゅうにゅう）も切（き）れていた。そこで、パンケーキを作（つく）るのはあきらめた。",
+      "english": "When I opened the refrigerator, I found that we were out of eggs and milk. So then I gave up on making pancakes."
+    },
+    {
+      "japanese": "田中（たなか）さんはここ一（いち）週間（しゅうかん）会社（かいしゃ）に来（き）ていない。",
+      "english": "Tanaka-san hasn't come to the office for a week now."
+    },
+    {
+      "japanese": "ここ２、３日（にち）が山（やま）になるでしょう。",
+      "english": "These next few days will be a critical time."
+    },
+    {
+      "japanese": "[ここ・そこ・あそこ]までしたのに、裏切（うらぎ）られるとは思（おも）ってなかった。",
+      "english": "I didn't expect to be betrayed after all I did for them."
+    },
+    {
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "and--for-physical-places",
+      "text": "ここ, そこ, and あそこ for Physical Places"
+    },
+    {
+      "level": 3,
+      "id": "for-where",
+      "text": "どこ for \"Where?\""
+    },
+    {
+      "level": 3,
+      "id": "and--for-parts-of-a-whole",
+      "text": "ここ, そこ, あそこ, and どこ for Parts of a Whole"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "with--for-a-limit-on-places",
+      "text": "ここ, そこ, あそこ with 〜だけ for a Limit on Places"
+    },
+    {
+      "level": 3,
+      "id": "with--for-an-approximate-of-places",
+      "text": "ここ, そこ, あそこ, どこ with 〜ら辺 for an Approximate of Places"
+    },
+    {
+      "level": 3,
+      "id": "and--for-points-in-time",
+      "text": "ここ, そこ, and あそこ for Points in Time"
+    },
+    {
+      "level": 3,
+      "id": "for-duration",
+      "text": "ここ for Duration"
+    },
+    {
+      "level": 3,
+      "id": "referring-to-extent",
+      "text": "Referring to Extent"
+    }
+  ],
+  "id": 99,
+  "slug": "koko-soko-asoko-doko",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/koko-soko-asoko-doko/",
+  "categories": [
+    "Demonstrative"
+  ]
+}

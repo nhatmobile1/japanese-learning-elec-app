@@ -1,0 +1,636 @@
+{
+  "title": "Particle へ",
+  "description": "へ is like an arrow that points the way to a destination or a direction.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle へ indicates a destination, or the direction that something is heading. It's written with the hiragana character へ /he/, but this is always pronounced like the え /e/ character when it's used as a particle."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "arrow-pointer-",
+      "text": "Arrow Pointer へ"
+    },
+    {
+      "type": "paragraph",
+      "text": "To understand the fundamental meaning of へ, it's helpful to imagine it as an arrow pointer. The word that comes before へ is the destination or direction that the arrow is indicating."
+    },
+    {
+      "type": "paragraph",
+      "text": "The use of へ is similar to that of \"to\" or \"towards\" in English. For example, to express your intention to climb Mt.Fuji, you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "富士山（ふじさん）の頂上（ちょうじょう）へ登（のぼ）る。",
+      "english": "I'm going to climb to the top of Mt.Fuji."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, へ marks 富士山（ふじさん）の 頂上（ちょうじょう） as your intended destination, and implies a sense of movement towards that destination, as though it's highlighting the path to get there."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "uses-of-",
+      "text": "Uses of へ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now that we have an understanding of the basic meaning of へ, let's take a closer look at some of the different contexts we can use it in."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-physical-destinations-and-directions",
+      "text": "へ For Physical Destinations and Directions"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you know, へ marks destinations, while also highlighting the route someone (or something) takes to get there. Thus, particle へ is often followed by a verb that expresses directional movement. For example, verbs like 行（い）く (go) and 来（く）る (come) are commonly found with particle へ:"
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）がアメリカへ行（い）く。",
+      "english": "Hanako is going to America."
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）がアメリカへ来（く）る。",
+      "english": "Hanako is coming to America."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, not all movement verbs express direction. For example, 歩（ある）く (walk), 走（はし）る (run), and 泳（およ）ぐ (swim) are all verbs that express physical movement of the body, but without the help of another element, they don't tell us anything about direction. Since へ indicates direction, you can use へ with these verbs to add clarify that we're talking about movement from one place to another:"
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）は学校（がっこう）へ歩（ある）いた。",
+      "english": "Hanako walked to school."
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）は学校（がっこう）へ走（はし）った。",
+      "english": "Hanako ran to school."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that this ability to add direction is a major difference between particle へ and particle に . This is often confusing for learners, since へ and に share many similarities. We'll touch on the difference between these two particles a bit later on this page."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-figurative-destinations-and-directions",
+      "text": "へ For Figurative Destinations and Directions"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use へ to mark a figurative destination or direction. For example, if you're heading west, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "西（にし）へ向（む）かっている。",
+      "english": "I'm heading west."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, へ marks 西（にし） (west) as the direction your arrow is pointing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The place you're heading can also be an abstract concept, such as a 目的（もくてき） (goal, objective)."
+    },
+    {
+      "type": "example",
+      "japanese": "目標（もくひょう）へ向（む）かって頑張（がんば）る。",
+      "english": "I'll work hard towards my goal."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, 目標（もくひょう） is marked by へ to indicate you are putting your effort towards it. It is your figurative destination."
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle へ can also be used when describing a transition, like the flow of time. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "奈良（なら）時代（じだい）から平安（へいあん）時代（じだい）へ",
+      "english": "From the Nara Period to the Heian Period"
+    },
+    {
+      "type": "paragraph",
+      "text": "The earlier era, the 奈良時代（ならじだい） is marked by から (from), and the later era, the 平安時代（へいあんじだい） is marked by へ. This makes sense, because particle へ points towards the later era, indicating the direction in which time flows."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-recipients",
+      "text": "へ For Recipients"
+    },
+    {
+      "type": "paragraph",
+      "text": "へ is also used to indicate the recipient of something. For example, if you sent a package to your daughter, you can use へ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "娘（むすめ）へ荷物（にもつ）を送（おく）った。",
+      "english": "I sent a package to my daughter."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, へ comes after 娘（むすめ）, indicating that she's the recipient of the package. This simply indicates the direction of your shipment, but doesn't convey whether the package has actually been received or not."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's also common to write \"name + へ\" at the beginning of a letter to indicate the addressee."
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）へ",
+      "english": "To Hanako"
+    },
+    {
+      "type": "paragraph",
+      "text": "This applies to any verb that expresses a transfer of something from one person to another. For example, if someone inherits a necklace from her mother, you can mark the daughter as the recipient with へ:"
+    },
+    {
+      "type": "example",
+      "japanese": "母（はは）から娘（むすめ）へ受（う）け継（つ）がれたネックレス",
+      "english": "the necklace that was passed down from the mother to the daughter"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, the particle へ marks 娘（むすめ） as the destination of the inheritance, representing the transfer of ownership from the mother to her daughter."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and-verb-omission",
+      "text": "へ and Verb Omission"
+    },
+    {
+      "type": "paragraph",
+      "text": "Omitting words that are known from context is a big thing in Japanese. You'll especially see this happen after certain particles, since they can signal what kind of word to expect next. Since particle へ indicates that a destination or direction will follow, it prompts users to anticipate specific verbs based on the context of the sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you enter a restaurant, the waiter may use the combination of こちら (this way) and particle へ to say:"
+    },
+    {
+      "type": "example",
+      "japanese": "どうぞ、こちらへ。 (Without omission: どうぞ、こちらへお来（こ）しください。 )",
+      "english": "Please come this way."
+    },
+    {
+      "type": "paragraph",
+      "text": "The waiter is about to guide you to your table, so you can predict that the verb will be \"come.\" You follow the waiter, and they point to a specific table and repeat the same phrase:"
+    },
+    {
+      "type": "example",
+      "japanese": "どうぞ、こちらへ。 (Without omission: どうぞ、こちらへお座（すわ）りください。 )",
+      "english": "Please (sit down at) this table."
+    },
+    {
+      "type": "paragraph",
+      "text": "こちら can also mean \"this one\" out of multiple options, so in this case, you can guess that the waiter is talking about a table. Thus, the verb omitted is probably \"sit down,\" or whatever fits the context."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "difference-between--and-",
+      "text": "Difference between に and へ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Learners of Japanese often struggle with the difference between particle に and particle へ. This is especially true when they're used to mark a destination. For example, to say you're going to Japan, you can use either に or へ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にっぽん）に行（い）く。 日本（にっぽん）へ行（い）く。",
+      "english": "I'm going to Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "So what's the difference between the two? In this example, not too much! Since 行（い）く (go) implies direction all on its own, it sounds natural with either particle に or particle へ. However, there is a slight difference. Remember how we said that particle へ is like an arrow, pointing the way to the destination? Well, this gives 日本（にっぽん）へ行（い）く a slightly more poetic feeling, which some might argue makes it the more polite option. Particle に on the other hand, does not indicate a path at all, it just acts like a pin on a map , marking your final destination."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the sense of directionality that particle へ carries makes it more significantly different from に in other contexts. If you use a verb that expresses movement, but lacks a sense of direction, then particle へ can help add direction:"
+    },
+    {
+      "type": "example",
+      "japanese": "コンビニへ歩（ある）いた。",
+      "english": "I walked to the convenience store."
+    },
+    {
+      "type": "paragraph",
+      "text": "歩（ある）く (walk) lacks a sense of direction if used alone, but particle へ adds this in for us. Particle に cannot add a feeling of directionality, so if we choose to use に in this sentence, we'll need to show this sense of direction in some other way:"
+    },
+    {
+      "type": "example",
+      "japanese": "コンビニに歩（ある）いて行（い）った。",
+      "english": "I walked to the convenience store."
+    },
+    {
+      "type": "example",
+      "japanese": "コンビニに向（む）かって歩（ある）いた。",
+      "english": "I walked towards the convenience store."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the first example, we put 歩（ある）く into the て Form , and combined it with the directional verb 行（い）く , as in 歩（ある）いて行（い）った. In the second example, we added in the verb 向（む）かう (face towards) to give 歩（ある）く a sense of direction. With particle に, these changes are necessary. We could use particle へ on top of 行（い）く or 向（む）かう, but the result would be quite flowery, and it less common in everyday communication."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "difference-between--and--1",
+      "text": "Difference between まで and へ"
+    },
+    {
+      "type": "paragraph",
+      "text": "まで is another particle that is sometimes confused with へ. Both particles can be used with から (from) to mean \"from A to B.\" For example, to say \"from Tokyo to Osaka,\" you can use either まで or へ:"
+    },
+    {
+      "type": "example",
+      "japanese": "東京（とうきょう）から大阪（おおさか）まで 東京（とうきょう）から大阪（おおさか）へ",
+      "english": "From Tokyo to Osaka"
+    },
+    {
+      "type": "paragraph",
+      "text": "So how are these two choices different? Let's start with まで. The combination of から and まで simply marks Tokyo and Osaka as beginning and end points. Imagine if you were taking the 新幹線（しんかんせん） (bullet train) between these two cities. Your ticket would probably say から and まで on it, since we're really only concerned with the start and end points."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let's think about へ. Since it highlights the way towards the destination, using this particle emphasizes the movement from point A to point B. It could have a bit of a romantic vibe, like you're staring out of the 新幹線（しんかんせん） window, basking in the experience of traveling from one city to the other."
+    },
+    {
+      "type": "paragraph",
+      "text": "For this reason, the から and まで combination is often the more typical choice. It's especially useful when you don't intend to highlight movement or transition, for example when giving the distance between two locations:"
+    },
+    {
+      "type": "example",
+      "japanese": "東京（とうきょう）から大阪（おおさか）までの距離（きょり）は約（やく）500kmです。",
+      "english": "The distance between Tokyo and Osaka is about 500km."
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle へ is acceptable here too, but only in certain contexts. For example, it would work if you're in Tokyo and you're talking about the distance towards Osaka from where you are, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "東京（とうきょう）から大阪（おおさか）への距離（きょり）は約（やく）500kmです。",
+      "english": "The distance from Tokyo to Osaka is about 500km."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, へ implies a \"from here (Tokyo) to get there (Osaka)\" feeling, rather than simply talking about the distance between the two cities."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "combined-with-other-particles",
+      "text": "へ Combined with Other Particles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Throughout this page, you might have noticed that particle へ can pair up with other particles too. Let's take a closer look at some of these pairings."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section",
+      "text": "へ + も"
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle も is similar to \"also\" in English. When へ combines with も, it adds the meaning that you're listing a destination or direction in addition to the others."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, during your upcoming trip to Japan you plan to climb Mt. Fuji (which is common) but also Mt. Aino, a less well-known mountain. After telling this to your friend, they react with surprise and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "え、間（ま）ノ岳（あいのだけ）へも登（のぼ）るんですか？",
+      "english": "Oh, are you going to climb Mt. Aino as well?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, へ marks 間（あい）ノ岳（だけ） as the destination, while も indicates it's not the only place you intend to climb. Again, this へ is interchangeable with に but へ carries a more polite, flowery tone. Since this is your friend and you're on casual terms, they may choose に over へ, such as:"
+    },
+    {
+      "type": "example",
+      "japanese": "え、間（ま）ノ岳（あいのだけ）にも登（のぼ）るの？",
+      "english": "Oh, are you going to climb Mt. Aino as well?"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-1",
+      "text": "への"
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle の is used to modify a noun with another noun. If you've read our page on it, you'll know that we like to think of it like a label, which can be attached to the noun that follows it to provide additional information. Particle へ can attach to particle の to form a label that has a directional vibe. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）への手紙（てがみ）",
+      "english": "Letter to Hanako"
+    },
+    {
+      "type": "paragraph",
+      "text": "We know that 花子（はなこ）へ means \"to Hanako,\" and is a common way to address a letter or note. If we stick For example, の on the end, it becomes a label. Now we can attach the label to another noun, such as 手紙（てがみ） (letter), to mean \"a letter to Hanako.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "We're not limited to nouns like 手紙（てがみ） that can take a real label. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "成功（せいこう）への道（みち）のりは険（けわ）しい。",
+      "english": "The road to success is steep."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, 成功（せいこう） is marked by へ to indicate \"towards success.\" This is marked by particle の, which turns 成功（せいこう）へ into a label. This label is attached to another noun, 道（みち）のり (the road). Hence, the subject of this sentence is the noun phrase 成功（せいこう）への道（みち）のり, meaning \"the road to success.\""
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-2",
+      "text": "へは"
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle は is a topic marker, which functions similarly to \"as for…\" in English. So when it's attached to 〜へ, the whole 〜へ part becomes a topic. In this case, the verb along with へ is omitted, but it can easily be anticipated from the nuance of the particle へ as well as the context. For instance, you can guess that the verb \"get\" is omitted in the following example:"
+    },
+    {
+      "type": "example",
+      "japanese": "ホテルへは、15分（ふん）くらいです。",
+      "english": "It takes about 15 minutes to get to the hotel. (Lit. As for (getting) to the hotel, it takes about 15 minutes.)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "The particle へ indicates a destination, or the direction that something is heading. It's written with the hiragana character へ /he/, but this is always pronounced like the え /e/ character when it's used as a particle.",
+    "To understand the fundamental meaning of へ, it's helpful to imagine it as an arrow pointer. The word that comes before へ is the destination or direction that the arrow is indicating.",
+    "The use of へ is similar to that of \"to\" or \"towards\" in English. For example, to express your intention to climb Mt.Fuji, you might say:",
+    "In this sentence, へ marks 富士山（ふじさん）の 頂上（ちょうじょう） as your intended destination, and implies a sense of movement towards that destination, as though it's highlighting the path to get there.",
+    "Now that we have an understanding of the basic meaning of へ, let's take a closer look at some of the different contexts we can use it in.",
+    "As you know, へ marks destinations, while also highlighting the route someone (or something) takes to get there. Thus, particle へ is often followed by a verb that expresses directional movement. For example, verbs like 行（い）く (go) and 来（く）る (come) are commonly found with particle へ:",
+    "However, not all movement verbs express direction. For example, 歩（ある）く (walk), 走（はし）る (run), and 泳（およ）ぐ (swim) are all verbs that express physical movement of the body, but without the help of another element, they don't tell us anything about direction. Since へ indicates direction, you can use へ with these verbs to add clarify that we're talking about movement from one place to another:",
+    "Note that this ability to add direction is a major difference between particle へ and particle に . This is often confusing for learners, since へ and に share many similarities. We'll touch on the difference between these two particles a bit later on this page.",
+    "You can also use へ to mark a figurative destination or direction. For example, if you're heading west, you can say:",
+    "Here, へ marks 西（にし） (west) as the direction your arrow is pointing.",
+    "The place you're heading can also be an abstract concept, such as a 目的（もくてき） (goal, objective).",
+    "In this example, 目標（もくひょう） is marked by へ to indicate you are putting your effort towards it. It is your figurative destination.",
+    "The particle へ can also be used when describing a transition, like the flow of time. For example:",
+    "The earlier era, the 奈良時代（ならじだい） is marked by から (from), and the later era, the 平安時代（へいあんじだい） is marked by へ. This makes sense, because particle へ points towards the later era, indicating the direction in which time flows.",
+    "へ is also used to indicate the recipient of something. For example, if you sent a package to your daughter, you can use へ and say:",
+    "In this case, へ comes after 娘（むすめ）, indicating that she's the recipient of the package. This simply indicates the direction of your shipment, but doesn't convey whether the package has actually been received or not.",
+    "It's also common to write \"name + へ\" at the beginning of a letter to indicate the addressee.",
+    "This applies to any verb that expresses a transfer of something from one person to another. For example, if someone inherits a necklace from her mother, you can mark the daughter as the recipient with へ:",
+    "Here, the particle へ marks 娘（むすめ） as the destination of the inheritance, representing the transfer of ownership from the mother to her daughter.",
+    "Omitting words that are known from context is a big thing in Japanese. You'll especially see this happen after certain particles, since they can signal what kind of word to expect next. Since particle へ indicates that a destination or direction will follow, it prompts users to anticipate specific verbs based on the context of the sentence.",
+    "For example, if you enter a restaurant, the waiter may use the combination of こちら (this way) and particle へ to say:",
+    "The waiter is about to guide you to your table, so you can predict that the verb will be \"come.\" You follow the waiter, and they point to a specific table and repeat the same phrase:",
+    "こちら can also mean \"this one\" out of multiple options, so in this case, you can guess that the waiter is talking about a table. Thus, the verb omitted is probably \"sit down,\" or whatever fits the context.",
+    "Learners of Japanese often struggle with the difference between particle に and particle へ. This is especially true when they're used to mark a destination. For example, to say you're going to Japan, you can use either に or へ and say:",
+    "So what's the difference between the two? In this example, not too much! Since 行（い）く (go) implies direction all on its own, it sounds natural with either particle に or particle へ. However, there is a slight difference. Remember how we said that particle へ is like an arrow, pointing the way to the destination? Well, this gives 日本（にっぽん）へ行（い）く a slightly more poetic feeling, which some might argue makes it the more polite option. Particle に on the other hand, does not indicate a path at all, it just acts like a pin on a map , marking your final destination.",
+    "However, the sense of directionality that particle へ carries makes it more significantly different from に in other contexts. If you use a verb that expresses movement, but lacks a sense of direction, then particle へ can help add direction:",
+    "歩（ある）く (walk) lacks a sense of direction if used alone, but particle へ adds this in for us. Particle に cannot add a feeling of directionality, so if we choose to use に in this sentence, we'll need to show this sense of direction in some other way:",
+    "In the first example, we put 歩（ある）く into the て Form , and combined it with the directional verb 行（い）く , as in 歩（ある）いて行（い）った. In the second example, we added in the verb 向（む）かう (face towards) to give 歩（ある）く a sense of direction. With particle に, these changes are necessary. We could use particle へ on top of 行（い）く or 向（む）かう, but the result would be quite flowery, and it less common in everyday communication.",
+    "まで is another particle that is sometimes confused with へ. Both particles can be used with から (from) to mean \"from A to B.\" For example, to say \"from Tokyo to Osaka,\" you can use either まで or へ:",
+    "So how are these two choices different? Let's start with まで. The combination of から and まで simply marks Tokyo and Osaka as beginning and end points. Imagine if you were taking the 新幹線（しんかんせん） (bullet train) between these two cities. Your ticket would probably say から and まで on it, since we're really only concerned with the start and end points.",
+    "Now let's think about へ. Since it highlights the way towards the destination, using this particle emphasizes the movement from point A to point B. It could have a bit of a romantic vibe, like you're staring out of the 新幹線（しんかんせん） window, basking in the experience of traveling from one city to the other.",
+    "For this reason, the から and まで combination is often the more typical choice. It's especially useful when you don't intend to highlight movement or transition, for example when giving the distance between two locations:",
+    "The particle へ is acceptable here too, but only in certain contexts. For example, it would work if you're in Tokyo and you're talking about the distance towards Osaka from where you are, as in:",
+    "In this case, へ implies a \"from here (Tokyo) to get there (Osaka)\" feeling, rather than simply talking about the distance between the two cities.",
+    "Throughout this page, you might have noticed that particle へ can pair up with other particles too. Let's take a closer look at some of these pairings.",
+    "Particle も is similar to \"also\" in English. When へ combines with も, it adds the meaning that you're listing a destination or direction in addition to the others.",
+    "For example, during your upcoming trip to Japan you plan to climb Mt. Fuji (which is common) but also Mt. Aino, a less well-known mountain. After telling this to your friend, they react with surprise and say:",
+    "In this example, へ marks 間（あい）ノ岳（だけ） as the destination, while も indicates it's not the only place you intend to climb. Again, this へ is interchangeable with に but へ carries a more polite, flowery tone. Since this is your friend and you're on casual terms, they may choose に over へ, such as:",
+    "Particle の is used to modify a noun with another noun. If you've read our page on it, you'll know that we like to think of it like a label, which can be attached to the noun that follows it to provide additional information. Particle へ can attach to particle の to form a label that has a directional vibe. For example:",
+    "We know that 花子（はなこ）へ means \"to Hanako,\" and is a common way to address a letter or note. If we stick For example, の on the end, it becomes a label. Now we can attach the label to another noun, such as 手紙（てがみ） (letter), to mean \"a letter to Hanako.\"",
+    "We're not limited to nouns like 手紙（てがみ） that can take a real label. For example:",
+    "In this example, 成功（せいこう） is marked by へ to indicate \"towards success.\" This is marked by particle の, which turns 成功（せいこう）へ into a label. This label is attached to another noun, 道（みち）のり (the road). Hence, the subject of this sentence is the noun phrase 成功（せいこう）への道（みち）のり, meaning \"the road to success.\"",
+    "Particle は is a topic marker, which functions similarly to \"as for…\" in English. So when it's attached to 〜へ, the whole 〜へ part becomes a topic. In this case, the verb along with へ is omitted, but it can easily be anticipated from the nuance of the particle へ as well as the context. For instance, you can guess that the verb \"get\" is omitted in the following example:"
+  ],
+  "examples": [
+    {
+      "japanese": "富士山（ふじさん）の頂上（ちょうじょう）へ登（のぼ）る。",
+      "english": "I'm going to climb to the top of Mt.Fuji."
+    },
+    {
+      "japanese": "花子（はなこ）がアメリカへ行（い）く。",
+      "english": "Hanako is going to America."
+    },
+    {
+      "japanese": "花子（はなこ）がアメリカへ来（く）る。",
+      "english": "Hanako is coming to America."
+    },
+    {
+      "japanese": "花子（はなこ）は学校（がっこう）へ歩（ある）いた。",
+      "english": "Hanako walked to school."
+    },
+    {
+      "japanese": "花子（はなこ）は学校（がっこう）へ走（はし）った。",
+      "english": "Hanako ran to school."
+    },
+    {
+      "japanese": "西（にし）へ向（む）かっている。",
+      "english": "I'm heading west."
+    },
+    {
+      "japanese": "目標（もくひょう）へ向（む）かって頑張（がんば）る。",
+      "english": "I'll work hard towards my goal."
+    },
+    {
+      "japanese": "奈良（なら）時代（じだい）から平安（へいあん）時代（じだい）へ",
+      "english": "From the Nara Period to the Heian Period"
+    },
+    {
+      "japanese": "娘（むすめ）へ荷物（にもつ）を送（おく）った。",
+      "english": "I sent a package to my daughter."
+    },
+    {
+      "japanese": "花子（はなこ）へ",
+      "english": "To Hanako"
+    },
+    {
+      "japanese": "母（はは）から娘（むすめ）へ受（う）け継（つ）がれたネックレス",
+      "english": "the necklace that was passed down from the mother to the daughter"
+    },
+    {
+      "japanese": "どうぞ、こちらへ。 (Without omission: どうぞ、こちらへお来（こ）しください。 )",
+      "english": "Please come this way."
+    },
+    {
+      "japanese": "どうぞ、こちらへ。 (Without omission: どうぞ、こちらへお座（すわ）りください。 )",
+      "english": "Please (sit down at) this table."
+    },
+    {
+      "japanese": "日本（にっぽん）に行（い）く。 日本（にっぽん）へ行（い）く。",
+      "english": "I'm going to Japan."
+    },
+    {
+      "japanese": "コンビニへ歩（ある）いた。",
+      "english": "I walked to the convenience store."
+    },
+    {
+      "japanese": "コンビニに歩（ある）いて行（い）った。",
+      "english": "I walked to the convenience store."
+    },
+    {
+      "japanese": "コンビニに向（む）かって歩（ある）いた。",
+      "english": "I walked towards the convenience store."
+    },
+    {
+      "japanese": "東京（とうきょう）から大阪（おおさか）まで 東京（とうきょう）から大阪（おおさか）へ",
+      "english": "From Tokyo to Osaka"
+    },
+    {
+      "japanese": "東京（とうきょう）から大阪（おおさか）までの距離（きょり）は約（やく）500kmです。",
+      "english": "The distance between Tokyo and Osaka is about 500km."
+    },
+    {
+      "japanese": "東京（とうきょう）から大阪（おおさか）への距離（きょり）は約（やく）500kmです。",
+      "english": "The distance from Tokyo to Osaka is about 500km."
+    },
+    {
+      "japanese": "え、間（ま）ノ岳（あいのだけ）へも登（のぼ）るんですか？",
+      "english": "Oh, are you going to climb Mt. Aino as well?"
+    },
+    {
+      "japanese": "え、間（ま）ノ岳（あいのだけ）にも登（のぼ）るの？",
+      "english": "Oh, are you going to climb Mt. Aino as well?"
+    },
+    {
+      "japanese": "花子（はなこ）への手紙（てがみ）",
+      "english": "Letter to Hanako"
+    },
+    {
+      "japanese": "成功（せいこう）への道（みち）のりは険（けわ）しい。",
+      "english": "The road to success is steep."
+    },
+    {
+      "japanese": "ホテルへは、15分（ふん）くらいです。",
+      "english": "It takes about 15 minutes to get to the hotel. (Lit. As for (getting) to the hotel, it takes about 15 minutes.)"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "arrow-pointer-",
+      "text": "Arrow Pointer へ"
+    },
+    {
+      "level": 2,
+      "id": "uses-of-",
+      "text": "Uses of へ"
+    },
+    {
+      "level": 3,
+      "id": "for-physical-destinations-and-directions",
+      "text": "へ For Physical Destinations and Directions"
+    },
+    {
+      "level": 3,
+      "id": "for-figurative-destinations-and-directions",
+      "text": "へ For Figurative Destinations and Directions"
+    },
+    {
+      "level": 3,
+      "id": "for-recipients",
+      "text": "へ For Recipients"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "and-verb-omission",
+      "text": "へ and Verb Omission"
+    },
+    {
+      "level": 3,
+      "id": "difference-between--and-",
+      "text": "Difference between に and へ"
+    },
+    {
+      "level": 3,
+      "id": "difference-between--and--1",
+      "text": "Difference between まで and へ"
+    },
+    {
+      "level": 3,
+      "id": "combined-with-other-particles",
+      "text": "へ Combined with Other Particles"
+    },
+    {
+      "level": 4,
+      "id": "section",
+      "text": "へ + も"
+    },
+    {
+      "level": 4,
+      "id": "section-1",
+      "text": "への"
+    },
+    {
+      "level": 4,
+      "id": "section-2",
+      "text": "へは"
+    }
+  ],
+  "id": 25,
+  "slug": "particle-he",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-he/",
+  "categories": [
+    "Particle"
+  ]
+}

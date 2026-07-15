@@ -1,0 +1,137 @@
+{
+  "title": "〜以上・〜以外",
+  "description": "Two similar-looking suffixes: 〜以上（いじょう） means \"more than / at least / above,\" while 〜以外（いがい） means \"except / other than.\" Different kanji, different meanings — don't mix them up.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ijou",
+      "text": "〜以上（いじょう）: More Than / At Least"
+    },
+    {
+      "type": "paragraph",
+      "text": "以上（いじょう） attaches to a number or amount to mean \"that much or more.\" It is inclusive — 千円（せんえん）以上（いじょう） means 1000 yen or more, including exactly 1000."
+    },
+    {
+      "type": "formula",
+      "japanese": "number / amount ＋ 以上（いじょう）",
+      "english": "~ or more / at least ~ / above ~"
+    },
+    {
+      "type": "example",
+      "japanese": "参加者（さんかしゃ）の半分（はんぶん）以上（いじょう）が学生（がくせい）です。",
+      "english": "More than half of the participants are students."
+    },
+    {
+      "type": "example",
+      "japanese": "千円（せんえん）以上（いじょう）買（か）うと送料（そうりょう）が無料（むりょう）になります。",
+      "english": "If you buy 1000 yen or more, shipping is free."
+    },
+    {
+      "type": "example",
+      "japanese": "この映画（えいが）は十八歳（じゅうはっさい）以上（いじょう）しか見（み）られません。",
+      "english": "Only people 18 and older can watch this movie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "igai",
+      "text": "〜以外（いがい）: Except / Other Than"
+    },
+    {
+      "type": "paragraph",
+      "text": "以外（いがい） attaches to a noun to mean \"other than that\" — it excludes the named thing and points to everything else. It often pairs with は or の."
+    },
+    {
+      "type": "formula",
+      "japanese": "noun ＋ 以外（いがい）",
+      "english": "except ~ / other than ~ / besides ~"
+    },
+    {
+      "type": "example",
+      "japanese": "この場所（ばしょ）以外（いがい）はどこでもいいです。",
+      "english": "Anywhere except this place is fine."
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）以外（いがい）の言語（げんご）も話（はな）せますか。",
+      "english": "Can you speak languages other than Japanese?"
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）以外（いがい）はみんな来（き）ました。",
+      "english": "Everyone except him came."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The trap is the kanji: 上（じょう, above） vs 外（がい, outside）. 以上（いじょう） = quantity \"or more\"; 以外（いがい） = \"everything but.\" Also note 以上（いじょう） is inclusive of the stated number — for \"more than but not including,\" you would say 〜より多（おお）い. The opposite of 以上（いじょう） in the counting sense is 以下（いか, ~ or less)."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "number / amount ＋ 以上（いじょう）",
+      "english": "~ or more / at least ~ / above ~",
+      "type": "formula"
+    },
+    {
+      "japanese": "参加者（さんかしゃ）の半分（はんぶん）以上（いじょう）が学生（がくせい）です。",
+      "english": "More than half of the participants are students."
+    },
+    {
+      "japanese": "千円（せんえん）以上（いじょう）買（か）うと送料（そうりょう）が無料（むりょう）になります。",
+      "english": "If you buy 1000 yen or more, shipping is free."
+    },
+    {
+      "japanese": "この映画（えいが）は十八歳（じゅうはっさい）以上（いじょう）しか見（み）られません。",
+      "english": "Only people 18 and older can watch this movie."
+    },
+    {
+      "japanese": "noun ＋ 以外（いがい）",
+      "english": "except ~ / other than ~ / besides ~",
+      "type": "formula"
+    },
+    {
+      "japanese": "この場所（ばしょ）以外（いがい）はどこでもいいです。",
+      "english": "Anywhere except this place is fine."
+    },
+    {
+      "japanese": "日本語（にほんご）以外（いがい）の言語（げんご）も話（はな）せますか。",
+      "english": "Can you speak languages other than Japanese?"
+    },
+    {
+      "japanese": "彼（かれ）以外（いがい）はみんな来（き）ました。",
+      "english": "Everyone except him came."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "ijou",
+      "text": "〜以上（いじょう）: More Than / At Least"
+    },
+    {
+      "level": 2,
+      "id": "igai",
+      "text": "〜以外（いがい）: Except / Other Than"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1043,
+  "slug": "ijou-igai",
+  "categories": [
+    "Suffix"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

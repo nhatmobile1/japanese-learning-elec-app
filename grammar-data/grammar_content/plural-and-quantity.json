@@ -1,0 +1,539 @@
+{
+  "title": "Plural and Quantity",
+  "description": "The ways we express plurality and quantity are different in Japanese and English. In Japanese, we use quantifiers, plural suffixes, and repetition words.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Japanese concept of plurality and quantity is different from English. On this page, we'll introduce some of the significant differences, and look at various ways of expressing plurality and quantity in Japanese."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "plurality-and-quantity",
+      "text": "Plurality and Quantity"
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, we're constantly making language choices based on plurality and singularity. Do you have an apple or apples? Are you meeting a person or people later? In Japanese, though, whether a noun is plural or singular matters less."
+    },
+    {
+      "type": "example",
+      "japanese": "リンゴがある。",
+      "english": "There's an apple.There are apples."
+    },
+    {
+      "type": "paragraph",
+      "text": "This example shows that リンゴ (apple) can be translated into two different ways in English: \"an apple\" and \"apples.\" Without further context, whether there is one apple or more than one apple is unknown."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, to talk about something general, it's common in Japanese to use the noun as it is, with no specification as to whether the noun is plural or singular. In English, the plural is typically used in these situations."
+    },
+    {
+      "type": "example",
+      "japanese": "リンゴが好（す）きです。",
+      "english": "I like apples."
+    },
+    {
+      "type": "example",
+      "japanese": "日本人（にっぽんじん）はよく風呂（ふろ）に入（はい）る。",
+      "english": "Japanese people take baths often."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, this does not mean we don't express plurality at all in Japanese. We do so in different ways — using quantifiers, plural suffixes, or repetition words. Let's explore the various ways to express plurality and quantity in Japanese."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "quantifiers",
+      "text": "Quantifiers"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quantifiers are words that express quantity. These include numerical phrases like ３枚（まい） (three sheets), which is made up of a number and a counter. We also consider words like たくさん (many) to be quantifiers. These words express unspecified amounts, which involve subjective judgment."
+    },
+    {
+      "type": "paragraph",
+      "text": "To modify a noun with a quantifier, you can use particle の:"
+    },
+    {
+      "type": "example",
+      "japanese": "３枚（まい）の紙（かみ）",
+      "english": "three sheets of paper"
+    },
+    {
+      "type": "example",
+      "japanese": "たくさんのリンゴ",
+      "english": "many apples"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use quantifiers near the end of a sentence, just before the verb. In this case, the quantifier acts like an adverb in Japanese:"
+    },
+    {
+      "type": "example",
+      "japanese": "紙（かみ）が３枚（まい）ある。",
+      "english": "There are three sheets of paper."
+    },
+    {
+      "type": "example",
+      "japanese": "リンゴをたくさん食（た）べた。",
+      "english": "I ate many apples."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way that you can use adjectives to describe something, you can use quantifiers to add detail to a sentence. Expressing whether a noun is singular or plural may not be required in Japanese the way it is in English, but that doesn't mean that you'll never want to! Now, let's take a closer look at each kind of quantifier."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "counters",
+      "text": "Counters"
+    },
+    {
+      "type": "paragraph",
+      "text": "Counters are a rather unique word type found in several East Asian languages, including Japanese. They come right after a number and indicate specific quantities of things. We don't have counters in English, but we do have something kind of similar — that is, words that are used to describe units, groups, or measurements of an uncountable noun or substance, such as a sheet of paper or a bottle of water."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if we are counting paper in Japanese, we'll use the counter for flat things, 〜枚（まい） :"
+    },
+    {
+      "type": "example",
+      "japanese": "紙（かみ）が１枚（まい）ある。",
+      "english": "There is one sheet of paper."
+    },
+    {
+      "type": "example",
+      "japanese": "紙（かみ）が５枚（まい）ある。",
+      "english": "There are five sheets of paper."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like that, you can explicitly state whether we're talking about paper in the plural or singular. For more information about counters, please check out our dedicated article ."
+    },
+    {
+      "type": "paragraph",
+      "text": "We don't want to scare you off, but as a disclaimer — Japanese has a huge variety of counters. You use different counters depending on what you want to count, sometimes its shape, sometimes whether it's alive or not, etc. If you're interested, check out these 350 counters we sorted by usefulness as well!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "words-for-unspecified-quantity",
+      "text": "Words for Unspecified Quantity"
+    },
+    {
+      "type": "paragraph",
+      "text": "Words for unspecified quantity include \"many,\" \"a few,\" and \"all\" in English. Compared to counters, they usually indicate a less specific quantity. They also tend to be more subjective, since it depends on your judgment whether an amount counts as \"many,\" \"a few,\" and so on."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, using the word たくさん, meaning \"many,\" you can loosely describe the quantity of apples you see."
+    },
+    {
+      "type": "example",
+      "japanese": "リンゴがたくさんある。",
+      "english": "There are many apples."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other common words for unspecified quantity are 少（すこ）し（すこ ）/ 少（すく）ない（すく ） (little, few), たくさん/ 多（おお）い（おお ） (many, much), 一部（いちぶ） (partially), 全部（ぜんぶ） (all) and いくつか (a few)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "plural-suffixes",
+      "text": "Plural Suffixes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plural suffixes are used mainly for living things like humans and animals. Attached to a noun, these words indicate a group of people or animals, or a person plus the people they're associated with."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, you can pluralize 少年（しょうねん） (boy) with a plural suffix 〜 達（たち）:"
+    },
+    {
+      "type": "example",
+      "japanese": "少年（しょうねん）達（たち）",
+      "english": "boys"
+    },
+    {
+      "type": "paragraph",
+      "text": "少年（しょうねん） could be used as plural or singular, but when you want to make sure it's taken as plural, you should use a plural suffix. For example, to say \"boys around the world,\" 世界（せかい）の少年（しょうねん）達（たち） would be more accurate than 世界（せかい）の少年（しょうねん）, which could mean \"a boy of the world.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth noting, though, that it's more natural to omit plural suffixes when the noun is modified with quantifiers ."
+    },
+    {
+      "type": "example",
+      "japanese": "３人（にん）の少年（しょうねん）(達（たち）)",
+      "english": "three boys"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plural suffixes are also used for the plural forms of personal pronouns . To say \"we\" in Japanese, for example, youd want to combine your choice of first-person pronoun with a plural suffix. So if you use the first-person pronoun 私（わたし）, you could add the plural suffix 〜達（たち） to give you:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）達（たち）",
+      "english": "we"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you say \"we,\" you mean you and the people with you, right? Similarly, plural suffixes can be attached to someone's name to refer to that person and the people around them. Let's take a look at an example."
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニー達（たち）",
+      "english": "Jenny and her companions"
+    },
+    {
+      "type": "paragraph",
+      "text": "This could mean multiple \"Jenny\"s if it's used for a group of people who are named Jenny, but it's more likely to be Jenny and the people she associates with her, whose names could be Cameron, Rachel, Michael… you name it! It's a bit like \"Jenny and the gang\"! We also like to think of it as the Japanese equivalent of et al. , which is Latin for \"and others.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Plural suffixes can also be used for non-living things, primarily when treating them as if they're people."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）の部屋（へや）にいるぬいぐるみ達（たち）が大好（だいす）きです。",
+      "english": "I love the plushies that are in my room."
+    },
+    {
+      "type": "paragraph",
+      "text": "〜達（たち）, which we used in all these examples, is the most flexible common suffix, but there are three others: 〜 方（がた）, 〜 等（ら） and 〜 供（ども）. Your choice will depend on what comes before the suffix and the formality you want to express with it. For more information, please check our page about plural suffixes ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "repetition-words-ii-rubyrprprtrtrprpruby",
+      "text": "Repetition Words 畳語 （ じょうご ）"
+    },
+    {
+      "type": "paragraph",
+      "text": "畳語（じょうご） refers to plural nouns that are formed by repeating a singular noun. If you're familair with the first kanji 畳（たたみ） (folding), you'll see that it actually means \"folded words.\" These are words like 人々（ひとびと）（ひとびと） (people) and 日々（ひび）（ひび） (days), which often used the repetition marker 々. It might help you to think of 畳語（じょうご） as words that are \"folded\" or \"layered.\"\""
+    },
+    {
+      "type": "paragraph",
+      "text": "畳語（じょうご） have a few functions, and one of them is to indicate plurals — specifically, many of something. 畳語（じょうご） conjure up an abstract image of many, and due to this abstract nature, you can't use a counter to specify the actual quantity of 畳語（じょうご）."
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ 三（さん）人（にん）の人々（ひとびと） ⭕️ たくさんの人々（ひとびと）",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Compared to other methods of expressing plurality, 畳語（じょうご） also has a somewhat poetic and literary feel to it. For example, to say \"villagers\" (people of the village), you could either say 村（むら）の人達（ひとたち）, which uses a plural suffix , or 村（むら）の人々（ひとびと）, which uses 畳語（じょうご）. While 村（むら）の人達（ひとたち） sounds more neutral, 村（むら）の人々（ひとびと） sounds like an expression you'd see in novels or poems!"
+    },
+    {
+      "type": "paragraph",
+      "text": "You might be thinking, so to pluralize something, can you always just repeat the same word twice? That's a good question, but the answer is no — the words that you can do this with are limited. So here's a list of common 畳語（じょうご）!"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "人々（ひとびと）（ひとびと）",
+          "people"
+        ],
+        [
+          "日々（ひび）（ひび）",
+          "days"
+        ],
+        [
+          "我々（われわれ）（われわれ）",
+          "we"
+        ],
+        [
+          "方々（かたがた）（かたがた）",
+          "people (formal)"
+        ],
+        [
+          "国々（くにぐに）（くにぐに）",
+          "countries"
+        ],
+        [
+          "山々（やまやま）（やまやま）",
+          "mountains"
+        ],
+        [
+          "木々（きぎ）（きぎ）",
+          "trees"
+        ],
+        [
+          "花（はな）々（はなばな）",
+          "flowers"
+        ],
+        [
+          "神（かみ）々（かみがみ）",
+          "gods"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There are some patterns that all 畳語（じょうご） follow. They can only be made up of wago (words of Japanese origin), which is why they rendaku in many cases, and they can never be made from proper nouns."
+    },
+    {
+      "type": "paragraph",
+      "text": "They also tend to be things that we commonly see in daily life, like 木々（きぎ） (trees) or 花（はな）々 (flowers). They aren't used for broader categories like 植物（しょくぶつ） (plants), or more specific types of something, like 杉（すぎ） (Japanese cedar)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on the context, 畳語（じょうご） could also mean each or every of many things, especially with time-related words like 日々（ひび） (days) or 月々（つきづき）（つきづき） (months)."
+    },
+    {
+      "type": "example",
+      "japanese": "日々（ひび）の暮（く）らし",
+      "english": "everyday life"
+    },
+    {
+      "type": "example",
+      "japanese": "月々（つきづき）の支払（しはら）い",
+      "english": "monthly payments"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Points"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "The Japanese concept of plurality and quantity is different from English. On this page, we'll introduce some of the significant differences, and look at various ways of expressing plurality and quantity in Japanese.",
+    "In English, we're constantly making language choices based on plurality and singularity. Do you have an apple or apples? Are you meeting a person or people later? In Japanese, though, whether a noun is plural or singular matters less.",
+    "This example shows that リンゴ (apple) can be translated into two different ways in English: \"an apple\" and \"apples.\" Without further context, whether there is one apple or more than one apple is unknown.",
+    "Similarly, to talk about something general, it's common in Japanese to use the noun as it is, with no specification as to whether the noun is plural or singular. In English, the plural is typically used in these situations.",
+    "However, this does not mean we don't express plurality at all in Japanese. We do so in different ways — using quantifiers, plural suffixes, or repetition words. Let's explore the various ways to express plurality and quantity in Japanese.",
+    "Quantifiers are words that express quantity. These include numerical phrases like ３枚（まい） (three sheets), which is made up of a number and a counter. We also consider words like たくさん (many) to be quantifiers. These words express unspecified amounts, which involve subjective judgment.",
+    "To modify a noun with a quantifier, you can use particle の:",
+    "You can also use quantifiers near the end of a sentence, just before the verb. In this case, the quantifier acts like an adverb in Japanese:",
+    "In the same way that you can use adjectives to describe something, you can use quantifiers to add detail to a sentence. Expressing whether a noun is singular or plural may not be required in Japanese the way it is in English, but that doesn't mean that you'll never want to! Now, let's take a closer look at each kind of quantifier.",
+    "Counters are a rather unique word type found in several East Asian languages, including Japanese. They come right after a number and indicate specific quantities of things. We don't have counters in English, but we do have something kind of similar — that is, words that are used to describe units, groups, or measurements of an uncountable noun or substance, such as a sheet of paper or a bottle of water.",
+    "For example, if we are counting paper in Japanese, we'll use the counter for flat things, 〜枚（まい） :",
+    "Just like that, you can explicitly state whether we're talking about paper in the plural or singular. For more information about counters, please check out our dedicated article .",
+    "We don't want to scare you off, but as a disclaimer — Japanese has a huge variety of counters. You use different counters depending on what you want to count, sometimes its shape, sometimes whether it's alive or not, etc. If you're interested, check out these 350 counters we sorted by usefulness as well!",
+    "Words for unspecified quantity include \"many,\" \"a few,\" and \"all\" in English. Compared to counters, they usually indicate a less specific quantity. They also tend to be more subjective, since it depends on your judgment whether an amount counts as \"many,\" \"a few,\" and so on.",
+    "For example, using the word たくさん, meaning \"many,\" you can loosely describe the quantity of apples you see.",
+    "Other common words for unspecified quantity are 少（すこ）し（すこ ）/ 少（すく）ない（すく ） (little, few), たくさん/ 多（おお）い（おお ） (many, much), 一部（いちぶ） (partially), 全部（ぜんぶ） (all) and いくつか (a few).",
+    "Plural suffixes are used mainly for living things like humans and animals. Attached to a noun, these words indicate a group of people or animals, or a person plus the people they're associated with.",
+    "For example, you can pluralize 少年（しょうねん） (boy) with a plural suffix 〜 達（たち）:",
+    "少年（しょうねん） could be used as plural or singular, but when you want to make sure it's taken as plural, you should use a plural suffix. For example, to say \"boys around the world,\" 世界（せかい）の少年（しょうねん）達（たち） would be more accurate than 世界（せかい）の少年（しょうねん）, which could mean \"a boy of the world.\"",
+    "It's worth noting, though, that it's more natural to omit plural suffixes when the noun is modified with quantifiers .",
+    "Plural suffixes are also used for the plural forms of personal pronouns . To say \"we\" in Japanese, for example, youd want to combine your choice of first-person pronoun with a plural suffix. So if you use the first-person pronoun 私（わたし）, you could add the plural suffix 〜達（たち） to give you:",
+    "When you say \"we,\" you mean you and the people with you, right? Similarly, plural suffixes can be attached to someone's name to refer to that person and the people around them. Let's take a look at an example.",
+    "This could mean multiple \"Jenny\"s if it's used for a group of people who are named Jenny, but it's more likely to be Jenny and the people she associates with her, whose names could be Cameron, Rachel, Michael… you name it! It's a bit like \"Jenny and the gang\"! We also like to think of it as the Japanese equivalent of et al. , which is Latin for \"and others.\"",
+    "Plural suffixes can also be used for non-living things, primarily when treating them as if they're people.",
+    "〜達（たち）, which we used in all these examples, is the most flexible common suffix, but there are three others: 〜 方（がた）, 〜 等（ら） and 〜 供（ども）. Your choice will depend on what comes before the suffix and the formality you want to express with it. For more information, please check our page about plural suffixes .",
+    "畳語（じょうご） refers to plural nouns that are formed by repeating a singular noun. If you're familair with the first kanji 畳（たたみ） (folding), you'll see that it actually means \"folded words.\" These are words like 人々（ひとびと）（ひとびと） (people) and 日々（ひび）（ひび） (days), which often used the repetition marker 々. It might help you to think of 畳語（じょうご） as words that are \"folded\" or \"layered.\"\"",
+    "畳語（じょうご） have a few functions, and one of them is to indicate plurals — specifically, many of something. 畳語（じょうご） conjure up an abstract image of many, and due to this abstract nature, you can't use a counter to specify the actual quantity of 畳語（じょうご）.",
+    "Compared to other methods of expressing plurality, 畳語（じょうご） also has a somewhat poetic and literary feel to it. For example, to say \"villagers\" (people of the village), you could either say 村（むら）の人達（ひとたち）, which uses a plural suffix , or 村（むら）の人々（ひとびと）, which uses 畳語（じょうご）. While 村（むら）の人達（ひとたち） sounds more neutral, 村（むら）の人々（ひとびと） sounds like an expression you'd see in novels or poems!",
+    "You might be thinking, so to pluralize something, can you always just repeat the same word twice? That's a good question, but the answer is no — the words that you can do this with are limited. So here's a list of common 畳語（じょうご）!",
+    "There are some patterns that all 畳語（じょうご） follow. They can only be made up of wago (words of Japanese origin), which is why they rendaku in many cases, and they can never be made from proper nouns.",
+    "They also tend to be things that we commonly see in daily life, like 木々（きぎ） (trees) or 花（はな）々 (flowers). They aren't used for broader categories like 植物（しょくぶつ） (plants), or more specific types of something, like 杉（すぎ） (Japanese cedar).",
+    "Depending on the context, 畳語（じょうご） could also mean each or every of many things, especially with time-related words like 日々（ひび） (days) or 月々（つきづき）（つきづき） (months)."
+  ],
+  "examples": [
+    {
+      "japanese": "リンゴがある。",
+      "english": "There's an apple.There are apples."
+    },
+    {
+      "japanese": "リンゴが好（す）きです。",
+      "english": "I like apples."
+    },
+    {
+      "japanese": "日本人（にっぽんじん）はよく風呂（ふろ）に入（はい）る。",
+      "english": "Japanese people take baths often."
+    },
+    {
+      "japanese": "３枚（まい）の紙（かみ）",
+      "english": "three sheets of paper"
+    },
+    {
+      "japanese": "たくさんのリンゴ",
+      "english": "many apples"
+    },
+    {
+      "japanese": "紙（かみ）が３枚（まい）ある。",
+      "english": "There are three sheets of paper."
+    },
+    {
+      "japanese": "リンゴをたくさん食（た）べた。",
+      "english": "I ate many apples."
+    },
+    {
+      "japanese": "紙（かみ）が１枚（まい）ある。",
+      "english": "There is one sheet of paper."
+    },
+    {
+      "japanese": "紙（かみ）が５枚（まい）ある。",
+      "english": "There are five sheets of paper."
+    },
+    {
+      "japanese": "リンゴがたくさんある。",
+      "english": "There are many apples."
+    },
+    {
+      "japanese": "少年（しょうねん）達（たち）",
+      "english": "boys"
+    },
+    {
+      "japanese": "３人（にん）の少年（しょうねん）(達（たち）)",
+      "english": "three boys"
+    },
+    {
+      "japanese": "私（わたし）達（たち）",
+      "english": "we"
+    },
+    {
+      "japanese": "ジェニー達（たち）",
+      "english": "Jenny and her companions"
+    },
+    {
+      "japanese": "私（わたし）の部屋（へや）にいるぬいぐるみ達（たち）が大好（だいす）きです。",
+      "english": "I love the plushies that are in my room."
+    },
+    {
+      "japanese": "日々（ひび）の暮（く）らし",
+      "english": "everyday life"
+    },
+    {
+      "japanese": "月々（つきづき）の支払（しはら）い",
+      "english": "monthly payments"
+    },
+    {
+      "japanese": "❌ 三（さん）人（にん）の人々（ひとびと） ⭕️ たくさんの人々（ひとびと）",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "人々（ひとびと）（ひとびと）",
+        "people"
+      ],
+      [
+        "日々（ひび）（ひび）",
+        "days"
+      ],
+      [
+        "我々（われわれ）（われわれ）",
+        "we"
+      ],
+      [
+        "方々（かたがた）（かたがた）",
+        "people (formal)"
+      ],
+      [
+        "国々（くにぐに）（くにぐに）",
+        "countries"
+      ],
+      [
+        "山々（やまやま）（やまやま）",
+        "mountains"
+      ],
+      [
+        "木々（きぎ）（きぎ）",
+        "trees"
+      ],
+      [
+        "花（はな）々（はなばな）",
+        "flowers"
+      ],
+      [
+        "神（かみ）々（かみがみ）",
+        "gods"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "plurality-and-quantity",
+      "text": "Plurality and Quantity"
+    },
+    {
+      "level": 3,
+      "id": "quantifiers",
+      "text": "Quantifiers"
+    },
+    {
+      "level": 4,
+      "id": "counters",
+      "text": "Counters"
+    },
+    {
+      "level": 4,
+      "id": "words-for-unspecified-quantity",
+      "text": "Words for Unspecified Quantity"
+    },
+    {
+      "level": 3,
+      "id": "plural-suffixes",
+      "text": "Plural Suffixes"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "repetition-words-ii-rubyrprprtrtrprpruby",
+      "text": "Repetition Words 畳語 （ じょうご ）"
+    }
+  ],
+  "id": 37,
+  "slug": "plural-and-quantity",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/plural-and-quantity/",
+  "categories": [
+    "Plurality"
+  ]
+}

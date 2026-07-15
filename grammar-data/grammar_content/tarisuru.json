@@ -1,0 +1,276 @@
+{
+  "title": "〜たりする",
+  "description": "〜たりする is used to list actions and states. It indicates the list is incomplete, meaning that there are more things speakers could list.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is たりする?"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜たりする links things together to create a list of actions or states of being. It's kind of like particle や, because it too is used to create an incomplete list. It implies that more things could have been included in the list, like a built-in \"etc.\" While particle や only works with nouns, 〜たりする works with verbs and adjectives, in addition to nouns."
+    },
+    {
+      "type": "paragraph",
+      "text": "To create a list using 〜たりする, the words that you want to list must be conjugated into their past tense forms. In fact, the た in たり refers to the 〜た found at the end of past tense forms, such as 〜かった for い-adjectives and だった for nouns and な-adjectives . Verbs must be in their past tense た form to attach to 〜たりする as well. It's important to note that the past tense forms here are purely functional—they do not actually mean that the words listed are referring to a time in the past. Instead, the する at the end of 〜たりする will change to indicate the tense of the sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Take a look at the table below to see how each word type connects to たり:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Verb",
+          "食（た）べる",
+          "食（た）べたり"
+        ],
+        [
+          "い-adjective",
+          "寒（さむ）い",
+          "寒（さむ）かったり"
+        ],
+        [
+          "Noun",
+          "猫（ねこ）",
+          "猫（ねこ）だったり"
+        ],
+        [
+          "な-adjective",
+          "有名（ゆうめい）",
+          "有名（ゆうめい）だったり"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll usually see たり occur twice in a sentence, as in 〜たり〜たりする, but it can be used alone, in lists of three, four, ten, or however many you want (depending on what the situation calls for). Read on to learn about how it used with different types of words!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "with-verbs",
+      "text": "たりする with Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "When paired with verbs, 〜たりする indicates an incomplete list of actions—more actions were taken, but only a few are actually being included in the list. It's often translated as \"I do things like… and…\" Let's take a look at this in an example sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "公園（こうえん）で自転車（じてんしゃ）に乗（の）ったりバレーボールしたりした。",
+      "english": "At the park, I did things like bike-riding and volleyball (among other things)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Using 〜たり to list these actions implies that you did other things at the park too, and these are just some examples. Using the て form to connect these actions would imply you only rode your bike and played volleyball at the park, and did nothing else in addition:"
+    },
+    {
+      "type": "example",
+      "japanese": "公園（こうえん）で自転車（じてんしゃ）に乗（の）ってバレーボールした。",
+      "english": "At the park, I rode my bike and played volleyball."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "with-adjectives",
+      "text": "たりする with Adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "When used with adjectives, 〜たり creates an incomplete list of states of being. Similar to your list of some (but not all) of the activities you did at the park, here you're stating some (but not all) of the ways something can be. For example, maybe a place is sometimes hot, sometimes cold, but also potentially other things as well. 〜たりする can help us express this:"
+    },
+    {
+      "type": "example",
+      "japanese": "この辺（あたり）は暑（あつ）かったり寒（さむ）かったりします。",
+      "english": "This area is sometimes hot and is sometimes cold (and sometimes is something else)."
+    },
+    {
+      "type": "paragraph",
+      "text": "〜たり can be used with い-adjectives, as in the previous example. It is also equally usable with な-adjectives. In fact, you can mix い-adjectives and な-adjectives together in the same sentence using 〜たり:"
+    },
+    {
+      "type": "example",
+      "japanese": "その図書館（としょかん）は静（しず）かだったりうるさかったりします。",
+      "english": "That library is sometimes quiet and is sometimes noisy (and sometimes is something else)."
+    },
+    {
+      "type": "paragraph",
+      "text": "A quick reminder about tense: while the い-adjectives in the example sentences are in the past tense かった form, and the な-adjective is marked with the past tense marker だった, they are not referring to the past. This is simply a way for them to connect with the 〜り part of 〜たり. The tense of both of these sentences in present, marked by します at the end of the sentence."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "with-nouns",
+      "text": "たりする with Nouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "When たり is used with nouns, it creates an incomplete list of scenarios involving different people, places, or things. (a.k.a. nouns!)"
+    },
+    {
+      "type": "example",
+      "japanese": "お昼（ひる）ごはんはサラダだったりおにぎりだったりする。",
+      "english": "Sometimes, my lunch is salad, and other times it is onigiri (and sometimes is something else)."
+    },
+    {
+      "type": "paragraph",
+      "text": "While this is similar to the particle や , which also creates an incomplete list of nouns, but the nuance is slightly different. To put it simply, 〜たり is used to list a few possible \"scenarios,\" and や is used to list a few samples from a list, like \"A, B, etc.\" For this reason, や is used to list nouns that pertain to one scenario, while 〜たり is almost always used to list nouns that pertain to different scenarios (as in, \"sometimes it's…, other times it's…\")."
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）のお昼（ひる）ごはんはサラダやおにぎりです。",
+      "english": "Today's lunch is salad, onigiri, etc."
+    },
+    {
+      "type": "example",
+      "japanese": "普段（ふだん）のお昼（ひる）ごはんはサラダやおにぎりです。",
+      "english": "My usual lunch is salad, onigiri, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, the two examples above that use や are talking about lunch as a single instance, even if its a general version of that lunch, like in the second sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also combine たり and や:"
+    },
+    {
+      "type": "example",
+      "japanese": "お昼（ひる）ごはんはサラダやおにぎりだったりします。",
+      "english": "Sometimes, my lunch is salad, onigiri, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, や lists two examples out of a bunch of items in your lunch, and だったり indicates that you are listing one example scenario out of a list of many different lunch scenarios."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜たりする links things together to create a list of actions or states of being. It's kind of like particle や, because it too is used to create an incomplete list. It implies that more things could have been included in the list, like a built-in \"etc.\" While particle や only works with nouns, 〜たりする works with verbs and adjectives, in addition to nouns.",
+    "To create a list using 〜たりする, the words that you want to list must be conjugated into their past tense forms. In fact, the た in たり refers to the 〜た found at the end of past tense forms, such as 〜かった for い-adjectives and だった for nouns and な-adjectives . Verbs must be in their past tense た form to attach to 〜たりする as well. It's important to note that the past tense forms here are purely functional—they do not actually mean that the words listed are referring to a time in the past. Instead, the する at the end of 〜たりする will change to indicate the tense of the sentence.",
+    "Take a look at the table below to see how each word type connects to たり:",
+    "You'll usually see たり occur twice in a sentence, as in 〜たり〜たりする, but it can be used alone, in lists of three, four, ten, or however many you want (depending on what the situation calls for). Read on to learn about how it used with different types of words!",
+    "When paired with verbs, 〜たりする indicates an incomplete list of actions—more actions were taken, but only a few are actually being included in the list. It's often translated as \"I do things like… and…\" Let's take a look at this in an example sentence:",
+    "Using 〜たり to list these actions implies that you did other things at the park too, and these are just some examples. Using the て form to connect these actions would imply you only rode your bike and played volleyball at the park, and did nothing else in addition:",
+    "When used with adjectives, 〜たり creates an incomplete list of states of being. Similar to your list of some (but not all) of the activities you did at the park, here you're stating some (but not all) of the ways something can be. For example, maybe a place is sometimes hot, sometimes cold, but also potentially other things as well. 〜たりする can help us express this:",
+    "〜たり can be used with い-adjectives, as in the previous example. It is also equally usable with な-adjectives. In fact, you can mix い-adjectives and な-adjectives together in the same sentence using 〜たり:",
+    "A quick reminder about tense: while the い-adjectives in the example sentences are in the past tense かった form, and the な-adjective is marked with the past tense marker だった, they are not referring to the past. This is simply a way for them to connect with the 〜り part of 〜たり. The tense of both of these sentences in present, marked by します at the end of the sentence.",
+    "When たり is used with nouns, it creates an incomplete list of scenarios involving different people, places, or things. (a.k.a. nouns!)",
+    "While this is similar to the particle や , which also creates an incomplete list of nouns, but the nuance is slightly different. To put it simply, 〜たり is used to list a few possible \"scenarios,\" and や is used to list a few samples from a list, like \"A, B, etc.\" For this reason, や is used to list nouns that pertain to one scenario, while 〜たり is almost always used to list nouns that pertain to different scenarios (as in, \"sometimes it's…, other times it's…\").",
+    "As you can see, the two examples above that use や are talking about lunch as a single instance, even if its a general version of that lunch, like in the second sentence.",
+    "You can also combine たり and や:",
+    "In this sentence, や lists two examples out of a bunch of items in your lunch, and だったり indicates that you are listing one example scenario out of a list of many different lunch scenarios."
+  ],
+  "examples": [
+    {
+      "japanese": "公園（こうえん）で自転車（じてんしゃ）に乗（の）ったりバレーボールしたりした。",
+      "english": "At the park, I did things like bike-riding and volleyball (among other things)."
+    },
+    {
+      "japanese": "公園（こうえん）で自転車（じてんしゃ）に乗（の）ってバレーボールした。",
+      "english": "At the park, I rode my bike and played volleyball."
+    },
+    {
+      "japanese": "この辺（あたり）は暑（あつ）かったり寒（さむ）かったりします。",
+      "english": "This area is sometimes hot and is sometimes cold (and sometimes is something else)."
+    },
+    {
+      "japanese": "その図書館（としょかん）は静（しず）かだったりうるさかったりします。",
+      "english": "That library is sometimes quiet and is sometimes noisy (and sometimes is something else)."
+    },
+    {
+      "japanese": "お昼（ひる）ごはんはサラダだったりおにぎりだったりする。",
+      "english": "Sometimes, my lunch is salad, and other times it is onigiri (and sometimes is something else)."
+    },
+    {
+      "japanese": "今日（きょう）のお昼（ひる）ごはんはサラダやおにぎりです。",
+      "english": "Today's lunch is salad, onigiri, etc."
+    },
+    {
+      "japanese": "普段（ふだん）のお昼（ひる）ごはんはサラダやおにぎりです。",
+      "english": "My usual lunch is salad, onigiri, etc."
+    },
+    {
+      "japanese": "お昼（ひる）ごはんはサラダやおにぎりだったりします。",
+      "english": "Sometimes, my lunch is salad, onigiri, etc."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Verb",
+        "食（た）べる",
+        "食（た）べたり"
+      ],
+      [
+        "い-adjective",
+        "寒（さむ）い",
+        "寒（さむ）かったり"
+      ],
+      [
+        "Noun",
+        "猫（ねこ）",
+        "猫（ねこ）だったり"
+      ],
+      [
+        "な-adjective",
+        "有名（ゆうめい）",
+        "有名（ゆうめい）だったり"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is たりする?"
+    },
+    {
+      "level": 2,
+      "id": "with-verbs",
+      "text": "たりする with Verbs"
+    },
+    {
+      "level": 2,
+      "id": "with-adjectives",
+      "text": "たりする with Adjectives"
+    },
+    {
+      "level": 2,
+      "id": "with-nouns",
+      "text": "たりする with Nouns"
+    }
+  ],
+  "id": 56,
+  "slug": "tarisuru",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/tarisuru/",
+  "categories": [
+    "Verb Form"
+  ]
+}

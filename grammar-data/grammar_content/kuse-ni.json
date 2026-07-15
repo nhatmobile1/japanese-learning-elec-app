@@ -1,0 +1,119 @@
+{
+  "title": "〜くせに",
+  "description": "〜くせに means \"even though,\" but unlike neutral concessives it always carries blame, criticism, or contempt toward the subject. Use it to point out that someone acts in a way that clashes with what they are or know.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜くせに links two clauses about the same person, where the second contradicts what you'd expect from the first — and you disapprove. It attaches like a な-adjective: verbs and い-adjectives in plain form, nouns with の, な-adjectives with な. 知（し）っているくせに = \"even though (they) know.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb・い-adj （plain）／ Noun ＋ の ／ な-adj ＋ な　＋ くせに",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "知（し）っているくせに、教（おし）えてくれない。",
+      "english": "Even though he knows, he won't tell me."
+    },
+    {
+      "type": "example",
+      "japanese": "子供（こども）のくせに、生意気（なまいき）だ。",
+      "english": "He's cheeky for a little kid (even though he's just a kid)."
+    },
+    {
+      "type": "example",
+      "japanese": "お金（かね）がないくせに、高（たか）い物（もの）ばかり買（か）う。",
+      "english": "Even though he has no money, he buys nothing but expensive things."
+    },
+    {
+      "type": "example",
+      "japanese": "下手（へた）なくせに、全然（ぜんぜん）練習（れんしゅう）しない。",
+      "english": "Even though he's bad at it, he never practices."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "versus-noni",
+      "text": "〜くせに vs 〜のに"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜のに and 〜くせに both translate as \"even though,\" but 〜のに is neutral surprise or disappointment, while 〜くせに adds a sneer. You generally cannot use 〜くせに about yourself, and both clauses must share the same subject — usually a person. Swap it in only when you mean to criticize."
+    },
+    {
+      "type": "example",
+      "japanese": "本当（ほんとう）は好（す）きなくせに、嫌（きら）いだと言（い）う。",
+      "english": "Even though he actually likes it, he says he hates it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because 〜くせに is blunt and judgmental, avoid it in polite or formal situations — use 〜のに or 〜にもかかわらず instead. Also don't use it when the two clauses have different subjects; 〜のに handles those cases, but 〜くせに sounds wrong."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "Verb・い-adj （plain）／ Noun ＋ の ／ な-adj ＋ な　＋ くせに",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "知（し）っているくせに、教（おし）えてくれない。",
+      "english": "Even though he knows, he won't tell me."
+    },
+    {
+      "japanese": "子供（こども）のくせに、生意気（なまいき）だ。",
+      "english": "He's cheeky for a little kid (even though he's just a kid)."
+    },
+    {
+      "japanese": "お金（かね）がないくせに、高（たか）い物（もの）ばかり買（か）う。",
+      "english": "Even though he has no money, he buys nothing but expensive things."
+    },
+    {
+      "japanese": "下手（へた）なくせに、全然（ぜんぜん）練習（れんしゅう）しない。",
+      "english": "Even though he's bad at it, he never practices."
+    },
+    {
+      "japanese": "本当（ほんとう）は好（す）きなくせに、嫌（きら）いだと言（い）う。",
+      "english": "Even though he actually likes it, he says he hates it."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "versus-noni",
+      "text": "〜くせに vs 〜のに"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1014,
+  "slug": "kuse-ni",
+  "categories": [
+    "Phrase",
+    "Clause Link"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

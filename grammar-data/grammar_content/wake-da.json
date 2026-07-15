@@ -1,0 +1,128 @@
+{
+  "title": "〜わけだ・〜わけではない",
+  "description": "〜わけだ means \"so that's why / no wonder\" — a conclusion that makes sense once you learn a new fact. Its negative 〜わけではない means \"it's not that / it doesn't mean that,\" softening or partially denying a claim.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜わけだ presents something as the natural, logical conclusion drawn from information you now have — English \"no wonder\" or \"that explains it.\" It attaches to plain-form verbs and い-adjectives directly, to な-adjectives with な, and to nouns with な (or である)."
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb・い-adj （plain）／ な-adj ＋ な　＋ わけだ",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "道理（どうり）で寒（さむ）いわけだ。窓（まど）が開（あ）いている。",
+      "english": "No wonder it's cold — the window's open."
+    },
+    {
+      "type": "example",
+      "japanese": "3年（ねん）も住（す）んでいたのか。だから日本語（にほんご）が上手（じょうず）なわけだ。",
+      "english": "You lived there three years? That's why your Japanese is so good."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "wake-dewa-nai",
+      "text": "Partial Denial 〜わけではない"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜わけではない (casual: 〜わけじゃない) doesn't fully negate — it says \"it's not (necessarily) the case that,\" heading off a wrong assumption. Use it to nuance a claim rather than flatly reject it."
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb・Adjective （plain）＋ わけではない",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "嫌（きら）いなわけではないが、あまり食（た）べない。",
+      "english": "It's not that I dislike it, but I don't eat it much."
+    },
+    {
+      "type": "example",
+      "japanese": "全部（ぜんぶ）が全部（ぜんぶ）悪（わる）いわけではない。",
+      "english": "It's not that every single thing is bad."
+    },
+    {
+      "type": "example",
+      "japanese": "お金（かね）がないわけではないが、無駄遣（むだづか）いはしたくない。",
+      "english": "It's not that I have no money, but I don't want to waste it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't confuse 〜わけだ with 〜はずだ. 〜はずだ is your expectation before the fact (\"it should be so\"), while 〜わけだ is the conclusion you reach after new information clicks into place (\"so that's why it is so\"). はず looks forward; わけ looks back and explains."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "Verb・い-adj （plain）／ な-adj ＋ な　＋ わけだ",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "道理（どうり）で寒（さむ）いわけだ。窓（まど）が開（あ）いている。",
+      "english": "No wonder it's cold — the window's open."
+    },
+    {
+      "japanese": "3年（ねん）も住（す）んでいたのか。だから日本語（にほんご）が上手（じょうず）なわけだ。",
+      "english": "You lived there three years? That's why your Japanese is so good."
+    },
+    {
+      "japanese": "Verb・Adjective （plain）＋ わけではない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "嫌（きら）いなわけではないが、あまり食（た）べない。",
+      "english": "It's not that I dislike it, but I don't eat it much."
+    },
+    {
+      "japanese": "全部（ぜんぶ）が全部（ぜんぶ）悪（わる）いわけではない。",
+      "english": "It's not that every single thing is bad."
+    },
+    {
+      "japanese": "お金（かね）がないわけではないが、無駄遣（むだづか）いはしたくない。",
+      "english": "It's not that I have no money, but I don't want to waste it."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "wake-dewa-nai",
+      "text": "Partial Denial 〜わけではない"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1019,
+  "slug": "wake-da",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

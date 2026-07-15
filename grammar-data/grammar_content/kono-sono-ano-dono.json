@@ -1,0 +1,554 @@
+{
+  "title": "この・その・あの・どの",
+  "description": "この, その, あの, and どの are a set of こそあど言葉（ことば） (ko-so-a-do words). They are placed before nouns to give information about their location in relation to you, as in このトマト (this tomato), そのトマト (that tomato), あのトマト (that tomato over there), and どのトマト (which tomato?)",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "この, その, あの, and どの are a set of こそあど words. They all go before nouns to give information about their location in relation to you. In general, この attaches to something close to the speaker, その to something close to the listener, and あの to something close to neither of them. どの is the question word that asks \"which…?\" out of a choice of three or more objects."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is how こそあど words work when referring to a physical object that you can see:"
+    },
+    {
+      "type": "formula",
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you'd like to see more scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "この, その, あの, and どの are added to the beginning of nouns. In the following example, each word is combined with the noun スカート (skirt)."
+    },
+    {
+      "type": "example",
+      "japanese": "このスカートとそのスカートとあのスカートだったら、どのスカートがいい？",
+      "english": "Out of this skirt, that skirt, and that skirt over there, which one do you like the best?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Other words can go in between この, その, あの, and どの and the noun to add more of a description. For example, you could insert the adjective 赤（あか）い (red) between その and スカート, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "その赤（あか）いスカートがいいな。",
+      "english": "I like that red skirt."
+    },
+    {
+      "type": "paragraph",
+      "text": "You could even insert a whole string of words between その and the noun, to be extra descriptive:"
+    },
+    {
+      "type": "example",
+      "japanese": "その[赤（あか）いヒラヒラの右（みぎ）の方（ほう）においてあるスカート]がいいな。",
+      "english": "I like that [red frilly] skirt [on the right]."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--with-physical-objects",
+      "text": "この, その, and あの with Physical Objects"
+    },
+    {
+      "type": "paragraph",
+      "text": "この, その, and あの can be used to refer to specific objects that are physically present, like このトマト (this tomato), そのトマト (that tomato), and あのトマト (that tomato over there)."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you and your sibling are harvesting tomatoes from your garden. You find a really big tomato, so you pick it, hold it up, and say to your sibling:"
+    },
+    {
+      "type": "example",
+      "japanese": "見（み）て！このトマト、めっちゃデカい。",
+      "english": "Look! This tomato is so big."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, you choose to use この because you're talking about the tomato you are holding and so, physically speaking, it's close to yourself. Then, your sibling also holds up a big tomato and grins. You react by saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "わっ、そのトマトもデカイね！",
+      "english": "Wow, that tomato is also big!"
+    },
+    {
+      "type": "paragraph",
+      "text": "This time, you use その because this tomato is closer to your sibling, who is the listener. After this, you spot an even bigger tomato. It's relatively far away from both of you, so you point at it and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "やばっ！あのトマト、さらにデカイよ。",
+      "english": "No way! That tomato is even bigger!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, あの is used because it's referring to the tomato that is far from both of you."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-which-out-of-three-or-more-options",
+      "text": "どの For \"Which…?\" Out of Three or More Options"
+    },
+    {
+      "type": "paragraph",
+      "text": "The question word どの is used with a noun to ask things like どのドア (which door?) However, どの can only be used when asking \"which…?\" out of a choice of three or more people or things."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you only have a choice of two options, you'll use どっち (or its polite version どちら) with the particle の instead, as in どっちのドア (which door?)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--with-multiple-objects",
+      "text": "この, その, and あの with Multiple Objects"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japanese words don't usually change depending on whether you are talking about one thing or multiple things. For example, トマト (tomato) is still トマト in Japanese even when you are talking about three tomato es ."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, you usually still use この, その, and あの to refer to multiple things. Imagine you walk into the kitchen and notice there are five tomatoes on your counter. You wonder if they're from the garden, so you ask your parent:"
+    },
+    {
+      "type": "example",
+      "japanese": "このトマト、庭（にわ）でとれたやつ？",
+      "english": "Are these tomatoes from our garden?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, you still use この even though you are talking about multiple tomatoes. This isn't the same as what happens in English, when \"this\" changes to \"these\" with multiples."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are the plural versions of この, その, and あの, which are combinations of これら, それら, and あれら and the particle の , as in これらの, それらの, and あれらの. 1 However, these words carry an explanatory tone and are generally used in more formal speaking or writing, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "ブドウ、ブルーベリー、トマト…これらの果物（くだもの）にはポリフェノールが多（おお）く含（ふく）まれている。",
+      "english": "Grapes, blueberries, tomatoes… these fruits contain high levels of polyphenols."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-longer-phrases",
+      "text": "この, その, あの with Longer Phrases"
+    },
+    {
+      "type": "paragraph",
+      "text": "We mentioned earlier that この, その, あの, and どの can be attached to a longer phrase, like その 赤（あか）いスカート (that red skirt ), as well as a noun on its own, like その スカート (that skirt )."
+    },
+    {
+      "type": "paragraph",
+      "text": "When attached to a longer phrase, the noun can be replaced with の, which has a similar meaning to \"one\" in English:"
+    },
+    {
+      "type": "example",
+      "japanese": "その赤（あか）いスカートがいいな。 その赤（あか）いのがいいな。",
+      "english": "I like that red skirt. I like that red one."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you'd like to learn more about this の, you can check out its dedicated page !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-numbers",
+      "text": "その with Numbers"
+    },
+    {
+      "type": "paragraph",
+      "text": "その can go directly before a number, as in その１, その２, or その３. These basically mean \"No. 1,\" \"No. 2,\" and \"No. 3,\" and are used to refer to the first, second, or third parts of something."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, say there is a blog post titled うちのネコのクシャミ (Our Cat's Sneeze) that is broken up into three different sections. In this case, the blogger may label each section with その and the corresponding number, as in:"
+    },
+    {
+      "type": "formula",
+      "japanese": "うちのネコのクシャミ (その１) うちのネコのクシャミ (その２） うちのネコのクシャミ (その３）",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "うちのネコのクシャミ (その１) うちのネコのクシャミ (その２） うちのネコのクシャミ (その３）"
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you want to recommend a few items of interest on your YouTube channel, you may use その with numbers to introduce each item:"
+    },
+    {
+      "type": "example",
+      "japanese": "おすすめアイテム、その１は、この「トマトスライサー」です。…その２は、…その３は、…",
+      "english": "Recommended items, No. 1 is this \"tomato slicer.\" Item No. 2 is… Item No. 3 is…"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "emphatic-",
+      "text": "Emphatic この"
+    },
+    {
+      "type": "paragraph",
+      "text": "You've learned that you can put この before words for people, like この人（ひと）."
+    },
+    {
+      "type": "paragraph",
+      "text": "この can also be used with a word that refers to the person speaking, in other words, a first-person pronoun , such as 私（わたし）, 僕（ぼく）, or 俺（おれ）. In this usage, この is emphatic and adds a comparative nuance to others, like the speaker is superior to and different from other people."
+    },
+    {
+      "type": "paragraph",
+      "text": "You will rarely see someone talking about themselves that way in real life, but it's a common speech style for arrogant characters in anime or creative writing pieces. For example, you may come across a very proud character who asks a question like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "お前（まえ）はこの私（わたし）を誰（だれ）だと思（おも）っているんだ？",
+      "english": "Who do you think I am?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-mutually-known-information",
+      "text": "あの for Mutually Known Information"
+    },
+    {
+      "type": "paragraph",
+      "text": "When referring to something being recalled from memory, あの goes before that which is known by both the speaker and the listener (or the writer and the reader). For example, if you are talking to your friend about a sushi restaurant you two used to go to together, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あの寿司（すし）屋（や）、昔（むかし）よく一緒（いっしょ）に行（い）ったよな！",
+      "english": "That sushi place, we used to go there a lot together, huh?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, by using あの, you can indicate that the sushi restaurant is a place filled with memories for both of you."
+    },
+    {
+      "type": "paragraph",
+      "text": "あの can also be used to emphasize that everybody knows about the thing or person in question, and that there is shared background knowledge of it."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's say there is a teacher who is known for being extremely intelligent. But you hear the teacher couldn't figure out a riddle your friend created. You are shocked and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あの先生（せんせい）でも分（わ）からなったの？",
+      "english": "Even THAT teacher couldn't figure it out?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, あの adds the nuance there is some common knowledge regarding the teacher and emphasizes that it is very surprising that the teacher couldn't figure out the answer to the riddle."
+    },
+    {
+      "type": "paragraph",
+      "text": "In writing, the author may use あの to add a similar effect. For example, the following is from the official outline of an episode of the anime 戦場（せんじょう）のヴァルキュリア (Valkyria Chronicles):"
+    },
+    {
+      "type": "example",
+      "japanese": "幼馴染（おさななじ）みのスージーと 義勇軍（ぎゆうぐん）へ 入隊（にゅうたい）したアリシアは、 任命式（にんめいしき）で 第（だい）7 小隊（しょうたい）への 配属（はいぞく）が 決（き）まる。なんと 隊長（たいちょう）はあのウェルキン。",
+      "english": "Alicia joins the volunteer army with her childhood friend, Suzy, and at the commissioning ceremony, she is assigned to the 7th platoon. The captain of the platoon is (the notorious) Welkin!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, あの indicates that the writer believes everyone knows who Welkin is and what he is like. Based on everyone's common knowledge, Welkin is not the kind of person to be selected as captain, so あの calls attention to that aspect and makes the announcement more remarkable, similar to the overexaggerated tone of \"ta-da!\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "referring-to-things-you-cant-see",
+      "text": "Referring to Things You Can't See"
+    },
+    {
+      "type": "paragraph",
+      "text": "この, その, and あの can also be used when you are referring to something you can't physically see, such as an abstract concept that is never visible, or a physical object that is out of sight."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, the same basic concept of \"distance\" still applies, but the choice between こ, そ, and あ is based on how close you feel the thing you are referring to is conceptually ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine your coworker brings up some really terrible news he read on Twitter. You knew the news already, so you respond:"
+    },
+    {
+      "type": "example",
+      "japanese": "[この・その・あの]ニュース、ありえないよね。",
+      "english": "That news is unbelievable, isn't it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A piece of news is information you cannot see, so here you can choose between この, その, or あの. Which one you decided on is based on how close you feel towards the news you are referring to."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, この suggests you regard the news as being close to you. One reason you feel close to the news may be because you are emotionally involved with the topic. Perhaps the news is still fresh in your memory and has triggered some emotional reaction."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, その indicates you are slightly distanced from the news. It implies you are referring to the topic from an objective point of view."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly, あの shows you are referring to the news as something that's distant from you. This doesn't mean that you are unfamiliar with the news but means that you are looking back at the memory of the news. It's sort of like gazing off into the distance while trying to remember something."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may wonder if you can say どれらの to ask a question, but どれらの is not a word. &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "この, その, あの, and どの are a set of こそあど words. They all go before nouns to give information about their location in relation to you. In general, この attaches to something close to the speaker, その to something close to the listener, and あの to something close to neither of them. どの is the question word that asks \"which…?\" out of a choice of three or more objects.",
+    "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど.",
+    "However, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play.",
+    "Here is how こそあど words work when referring to a physical object that you can see:",
+    "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question.",
+    "If you'd like to see more scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !",
+    "この, その, あの, and どの are added to the beginning of nouns. In the following example, each word is combined with the noun スカート (skirt).",
+    "Other words can go in between この, その, あの, and どの and the noun to add more of a description. For example, you could insert the adjective 赤（あか）い (red) between その and スカート, like:",
+    "You could even insert a whole string of words between その and the noun, to be extra descriptive:",
+    "この, その, and あの can be used to refer to specific objects that are physically present, like このトマト (this tomato), そのトマト (that tomato), and あのトマト (that tomato over there).",
+    "For example, imagine you and your sibling are harvesting tomatoes from your garden. You find a really big tomato, so you pick it, hold it up, and say to your sibling:",
+    "Here, you choose to use この because you're talking about the tomato you are holding and so, physically speaking, it's close to yourself. Then, your sibling also holds up a big tomato and grins. You react by saying:",
+    "This time, you use その because this tomato is closer to your sibling, who is the listener. After this, you spot an even bigger tomato. It's relatively far away from both of you, so you point at it and say:",
+    "In this example, あの is used because it's referring to the tomato that is far from both of you.",
+    "The question word どの is used with a noun to ask things like どのドア (which door?) However, どの can only be used when asking \"which…?\" out of a choice of three or more people or things.",
+    "When you only have a choice of two options, you'll use どっち (or its polite version どちら) with the particle の instead, as in どっちのドア (which door?)",
+    "Japanese words don't usually change depending on whether you are talking about one thing or multiple things. For example, トマト (tomato) is still トマト in Japanese even when you are talking about three tomato es .",
+    "In the same way, you usually still use この, その, and あの to refer to multiple things. Imagine you walk into the kitchen and notice there are five tomatoes on your counter. You wonder if they're from the garden, so you ask your parent:",
+    "Here, you still use この even though you are talking about multiple tomatoes. This isn't the same as what happens in English, when \"this\" changes to \"these\" with multiples.",
+    "There are the plural versions of この, その, and あの, which are combinations of これら, それら, and あれら and the particle の , as in これらの, それらの, and あれらの. 1 However, these words carry an explanatory tone and are generally used in more formal speaking or writing, as in:",
+    "We mentioned earlier that この, その, あの, and どの can be attached to a longer phrase, like その 赤（あか）いスカート (that red skirt ), as well as a noun on its own, like その スカート (that skirt ).",
+    "When attached to a longer phrase, the noun can be replaced with の, which has a similar meaning to \"one\" in English:",
+    "If you'd like to learn more about this の, you can check out its dedicated page !",
+    "その can go directly before a number, as in その１, その２, or その３. These basically mean \"No. 1,\" \"No. 2,\" and \"No. 3,\" and are used to refer to the first, second, or third parts of something.",
+    "For example, say there is a blog post titled うちのネコのクシャミ (Our Cat's Sneeze) that is broken up into three different sections. In this case, the blogger may label each section with その and the corresponding number, as in:",
+    "うちのネコのクシャミ (その１) うちのネコのクシャミ (その２） うちのネコのクシャミ (その３）",
+    "And if you want to recommend a few items of interest on your YouTube channel, you may use その with numbers to introduce each item:",
+    "You've learned that you can put この before words for people, like この人（ひと）.",
+    "この can also be used with a word that refers to the person speaking, in other words, a first-person pronoun , such as 私（わたし）, 僕（ぼく）, or 俺（おれ）. In this usage, この is emphatic and adds a comparative nuance to others, like the speaker is superior to and different from other people.",
+    "You will rarely see someone talking about themselves that way in real life, but it's a common speech style for arrogant characters in anime or creative writing pieces. For example, you may come across a very proud character who asks a question like this:",
+    "When referring to something being recalled from memory, あの goes before that which is known by both the speaker and the listener (or the writer and the reader). For example, if you are talking to your friend about a sushi restaurant you two used to go to together, you could say:",
+    "Here, by using あの, you can indicate that the sushi restaurant is a place filled with memories for both of you.",
+    "あの can also be used to emphasize that everybody knows about the thing or person in question, and that there is shared background knowledge of it.",
+    "For example, let's say there is a teacher who is known for being extremely intelligent. But you hear the teacher couldn't figure out a riddle your friend created. You are shocked and say:",
+    "In this example, あの adds the nuance there is some common knowledge regarding the teacher and emphasizes that it is very surprising that the teacher couldn't figure out the answer to the riddle.",
+    "In writing, the author may use あの to add a similar effect. For example, the following is from the official outline of an episode of the anime 戦場（せんじょう）のヴァルキュリア (Valkyria Chronicles):",
+    "In this case, あの indicates that the writer believes everyone knows who Welkin is and what he is like. Based on everyone's common knowledge, Welkin is not the kind of person to be selected as captain, so あの calls attention to that aspect and makes the announcement more remarkable, similar to the overexaggerated tone of \"ta-da!\"",
+    "この, その, and あの can also be used when you are referring to something you can't physically see, such as an abstract concept that is never visible, or a physical object that is out of sight.",
+    "In this case, the same basic concept of \"distance\" still applies, but the choice between こ, そ, and あ is based on how close you feel the thing you are referring to is conceptually .",
+    "For example, imagine your coworker brings up some really terrible news he read on Twitter. You knew the news already, so you respond:",
+    "A piece of news is information you cannot see, so here you can choose between この, その, or あの. Which one you decided on is based on how close you feel towards the news you are referring to.",
+    "In this example, この suggests you regard the news as being close to you. One reason you feel close to the news may be because you are emotionally involved with the topic. Perhaps the news is still fresh in your memory and has triggered some emotional reaction.",
+    "On the other hand, その indicates you are slightly distanced from the news. It implies you are referring to the topic from an objective point of view.",
+    "Lastly, あの shows you are referring to the news as something that's distant from you. This doesn't mean that you are unfamiliar with the news but means that you are looking back at the memory of the news. It's sort of like gazing off into the distance while trying to remember something.",
+    "You may wonder if you can say どれらの to ask a question, but どれらの is not a word. &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "このスカートとそのスカートとあのスカートだったら、どのスカートがいい？",
+      "english": "Out of this skirt, that skirt, and that skirt over there, which one do you like the best?"
+    },
+    {
+      "japanese": "その赤（あか）いスカートがいいな。",
+      "english": "I like that red skirt."
+    },
+    {
+      "japanese": "その[赤（あか）いヒラヒラの右（みぎ）の方（ほう）においてあるスカート]がいいな。",
+      "english": "I like that [red frilly] skirt [on the right]."
+    },
+    {
+      "japanese": "見（み）て！このトマト、めっちゃデカい。",
+      "english": "Look! This tomato is so big."
+    },
+    {
+      "japanese": "わっ、そのトマトもデカイね！",
+      "english": "Wow, that tomato is also big!"
+    },
+    {
+      "japanese": "やばっ！あのトマト、さらにデカイよ。",
+      "english": "No way! That tomato is even bigger!"
+    },
+    {
+      "japanese": "このトマト、庭（にわ）でとれたやつ？",
+      "english": "Are these tomatoes from our garden?"
+    },
+    {
+      "japanese": "ブドウ、ブルーベリー、トマト…これらの果物（くだもの）にはポリフェノールが多（おお）く含（ふく）まれている。",
+      "english": "Grapes, blueberries, tomatoes… these fruits contain high levels of polyphenols."
+    },
+    {
+      "japanese": "その赤（あか）いスカートがいいな。 その赤（あか）いのがいいな。",
+      "english": "I like that red skirt. I like that red one."
+    },
+    {
+      "japanese": "おすすめアイテム、その１は、この「トマトスライサー」です。…その２は、…その３は、…",
+      "english": "Recommended items, No. 1 is this \"tomato slicer.\" Item No. 2 is… Item No. 3 is…"
+    },
+    {
+      "japanese": "お前（まえ）はこの私（わたし）を誰（だれ）だと思（おも）っているんだ？",
+      "english": "Who do you think I am?"
+    },
+    {
+      "japanese": "あの寿司（すし）屋（や）、昔（むかし）よく一緒（いっしょ）に行（い）ったよな！",
+      "english": "That sushi place, we used to go there a lot together, huh?"
+    },
+    {
+      "japanese": "あの先生（せんせい）でも分（わ）からなったの？",
+      "english": "Even THAT teacher couldn't figure it out?"
+    },
+    {
+      "japanese": "幼馴染（おさななじ）みのスージーと 義勇軍（ぎゆうぐん）へ 入隊（にゅうたい）したアリシアは、 任命式（にんめいしき）で 第（だい）7 小隊（しょうたい）への 配属（はいぞく）が 決（き）まる。なんと 隊長（たいちょう）はあのウェルキン。",
+      "english": "Alicia joins the volunteer army with her childhood friend, Suzy, and at the commissioning ceremony, she is assigned to the 7th platoon. The captain of the platoon is (the notorious) Welkin!"
+    },
+    {
+      "japanese": "[この・その・あの]ニュース、ありえないよね。",
+      "english": "That news is unbelievable, isn't it?"
+    },
+    {
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "うちのネコのクシャミ (その１) うちのネコのクシャミ (その２） うちのネコのクシャミ (その３）",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "and--with-physical-objects",
+      "text": "この, その, and あの with Physical Objects"
+    },
+    {
+      "level": 3,
+      "id": "for-which-out-of-three-or-more-options",
+      "text": "どの For \"Which…?\" Out of Three or More Options"
+    },
+    {
+      "level": 3,
+      "id": "and--with-multiple-objects",
+      "text": "この, その, and あの with Multiple Objects"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "with-longer-phrases",
+      "text": "この, その, あの with Longer Phrases"
+    },
+    {
+      "level": 3,
+      "id": "with-numbers",
+      "text": "その with Numbers"
+    },
+    {
+      "level": 3,
+      "id": "emphatic-",
+      "text": "Emphatic この"
+    },
+    {
+      "level": 3,
+      "id": "for-mutually-known-information",
+      "text": "あの for Mutually Known Information"
+    },
+    {
+      "level": 3,
+      "id": "referring-to-things-you-cant-see",
+      "text": "Referring to Things You Can't See"
+    }
+  ],
+  "id": 104,
+  "slug": "kono-sono-ano-dono",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/kono-sono-ano-dono/",
+  "categories": [
+    "Demonstrative"
+  ]
+}

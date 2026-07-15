@@ -1,0 +1,421 @@
+{
+  "title": "い-Adjective くない (Negative Form)",
+  "description": "Adding 〜くない to the end of an い-adjective makes it negative, kind of like how \"not\" functions in English.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜くない is the negative form of い-adjectives . So while 難（かた）し い means \" is -difficult,\" 難（かた）し くない means \" is-not -difficult.\" Notice that both of these end in the present tense 〜い ending, a feature that they both share."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜くない"
+    },
+    {
+      "type": "paragraph",
+      "text": "To form 〜くない, you simply drop the 〜い ending from an い-adjective and replace it with 〜く, putting it into the くform . This allows the い-adjective to stick to another word or element, in this case, 〜ない ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s see how this works with an actual adjective:"
+    },
+    {
+      "type": "paragraph",
+      "text": "難（かた）し い + く + ない = 難（むずか）しく ない"
+    },
+    {
+      "type": "paragraph",
+      "text": "It certainly 難（むずか）しくない ( is not difficult ), right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This works for all い-adjectives, without exception🎉 Bear in mind that the stem form of いい is よ, so the negative form of いい is よくない ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-the-past",
+      "text": "〜くない in the Past"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜くない can also be used in the past tense, or the 〜かった form . To do so, you simply change the final 〜い to 〜かった, just like you do with positive い-adjectives."
+    },
+    {
+      "type": "paragraph",
+      "text": "That 難（むずか）しくなかった ( was not difficult ) either, was it?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "type": "paragraph",
+      "text": "Politeness in Japanese is marked at the end of a sentence with forms like です and 〜ます . If you have a sentence that ends in an い-adjective, you can level-up your politeness using these forms."
+    },
+    {
+      "type": "paragraph",
+      "text": "One option is to add です after the negative suffix 〜ない. This style is common in polite conversation:"
+    },
+    {
+      "type": "example",
+      "japanese": "難（むずか）しくないです",
+      "english": "is not difficult (formal)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Alternatively, you can switch out 〜ないです for the more formal ending, 〜ありません . This option feels a little bit too stiff for most spoken situations, so it tends to be used more commonly in writing."
+    },
+    {
+      "type": "example",
+      "japanese": "難（むずか）しくありません",
+      "english": "is not difficult (formal)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "Like positive い-adjectives, negative い-adjectives can appear either at the end of a sentence or immediately before a noun."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "at-the-end-of-a-sentence",
+      "text": "At the End of a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a negative い-adjective appears at the end of the sentence, it describes the subject of the sentence."
+    },
+    {
+      "type": "example",
+      "japanese": "あの芸人（げいにん）は面白（おもしろ）くない。",
+      "english": "That comedian is not funny."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, the negative い-adjective 面白（おもしろ）くない (is-not-funny) is describing the subject あの芸人（げいにん） (that comedian)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "immediately-before-a-noun",
+      "text": "Immediately Before a Noun"
+    },
+    {
+      "type": "paragraph",
+      "text": "Negative い-adjectives can appear directly before a noun. These modified nouns can appear anywhere that unmodified nouns can appear, such as the subject or object of the sentence."
+    },
+    {
+      "type": "example",
+      "japanese": "面白（おもしろ）くない芸人（げいにん）が、苦（にが）くないコーヒーを作（つく）った。",
+      "english": "A not-funny comedian made not-bitter coffee."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 面白（おもしろ）くない芸人（げいにん） is the subject and 苦（にが）くないコーヒー is the object."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "splitting--form-and--with-particle--for-contrast",
+      "text": "Splitting く Form and ない with Particle は for Contrast"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's easy to think of 〜くない and 〜くありません as units, but remember that they are in fact two separate components: くform + a negative word. Because of this, they can be separated by the particle は to give a nuance of contrast."
+    },
+    {
+      "type": "example",
+      "japanese": "おいしくはない",
+      "english": "not delicious (but…)"
+    },
+    {
+      "type": "example",
+      "japanese": "おいしくはありません",
+      "english": "not delicious (but…)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine that my friend is feeling a bit sick. I just so happen to have an amazing cold remedy tea, but the problem is, it tastes horrible. When offering it to her, I might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "おいしくはないけど、体（からだ）にいいよ。",
+      "english": "This isn't delicious, but it's good for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "By inserting particle は here, it creates the sense that whatever I say is going to be contrasted with something else. In this case, I contrast the taste (おいしくはない) with the health benefit (体（たい）にいい). For this reason, it’s quite common for 〜くはない to appear alongside \"but\" conjunctions, like が and けど . However, sometimes the contrast is implied rather than explicitly stated:"
+    },
+    {
+      "type": "example",
+      "japanese": "悪（わる）くはないよ！",
+      "english": "It's not bad (but…)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You might use this when you want to say that something isn’t bad, but imply that it isn’t exactly good either, without stating it explicitly. In fact, after drinking that nasty healthy tea, this would be a great way for my friend to respond!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "confirming-assumptions-with-",
+      "text": "Confirming Assumptions with 〜くない"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is common to use 〜くない to ask questions that you think you know the answer to. This is similar to asking, \"Isn’t it…?\" in English. While the question form is negative, the speaker usually assumes that the actual answer is positive."
+    },
+    {
+      "type": "example",
+      "japanese": "寒（さむ）くない？",
+      "english": "Isn't it cold?"
+    },
+    {
+      "type": "example",
+      "japanese": "高（たか）くない？",
+      "english": "Isn't it expensive?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "treating--adjectives-like--adjectives",
+      "text": "Treating い-Adjectives like な-Adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japanese has another type of adjective, called な-adjectives . Their grammar is more similar to Japanese nouns than to い-adjectives . For example, you can add 〜じゃない to form the negative form of な-adjectives."
+    },
+    {
+      "type": "example",
+      "japanese": "その蚊（か）は元気（げんき）じゃない。",
+      "english": "That mosquito is not well."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, using じゃない to make an い-adjective negative is ungrammatical."
+    },
+    {
+      "type": "example",
+      "japanese": "❌ そのハエはうるさいじゃない。",
+      "english": "⭕ そのハエはうるさくない。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "treating--adjectives-like--adjectives-1",
+      "text": "Treating な-Adjectives like い-Adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "It is also possible to mistake some な-adjectives for い-adjectives . For example, きれい (clean) is a な-adjective. However, it ends in い, so you could be forgiven for thinking it's an い-adjective."
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 私（わたし）の部屋（へや）はきれくない。",
+      "english": "⭕ 私の部屋はきれいじゃない。"
+    },
+    {
+      "type": "paragraph",
+      "text": "Luckily, there aren't so many な-adjectives ending in い. To distinguish them from い-adjectives, check their kanji version. Unlike い-adjectives, the final 〜い of these な-adjectives is not in hiragana. For example, the kanji for きれい is 綺麗（きれい）, not 綺麗（きれい）い. The only exception to this is 嫌（きら）い (to hate), which is a な-adjective in spite of the い hanging off the end. 🤷🏻️"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜くない is the negative form of い-adjectives . So while 難（かた）し い means \" is -difficult,\" 難（かた）し くない means \" is-not -difficult.\" Notice that both of these end in the present tense 〜い ending, a feature that they both share.",
+    "To form 〜くない, you simply drop the 〜い ending from an い-adjective and replace it with 〜く, putting it into the くform . This allows the い-adjective to stick to another word or element, in this case, 〜ない .",
+    "Let’s see how this works with an actual adjective:",
+    "難（かた）し い + く + ない = 難（むずか）しく ない",
+    "It certainly 難（むずか）しくない ( is not difficult ), right?",
+    "This works for all い-adjectives, without exception🎉 Bear in mind that the stem form of いい is よ, so the negative form of いい is よくない .",
+    "〜くない can also be used in the past tense, or the 〜かった form . To do so, you simply change the final 〜い to 〜かった, just like you do with positive い-adjectives.",
+    "That 難（むずか）しくなかった ( was not difficult ) either, was it?",
+    "Politeness in Japanese is marked at the end of a sentence with forms like です and 〜ます . If you have a sentence that ends in an い-adjective, you can level-up your politeness using these forms.",
+    "One option is to add です after the negative suffix 〜ない. This style is common in polite conversation:",
+    "Alternatively, you can switch out 〜ないです for the more formal ending, 〜ありません . This option feels a little bit too stiff for most spoken situations, so it tends to be used more commonly in writing.",
+    "Like positive い-adjectives, negative い-adjectives can appear either at the end of a sentence or immediately before a noun.",
+    "When a negative い-adjective appears at the end of the sentence, it describes the subject of the sentence.",
+    "In this case, the negative い-adjective 面白（おもしろ）くない (is-not-funny) is describing the subject あの芸人（げいにん） (that comedian).",
+    "Negative い-adjectives can appear directly before a noun. These modified nouns can appear anywhere that unmodified nouns can appear, such as the subject or object of the sentence.",
+    "Here, 面白（おもしろ）くない芸人（げいにん） is the subject and 苦（にが）くないコーヒー is the object.",
+    "It's easy to think of 〜くない and 〜くありません as units, but remember that they are in fact two separate components: くform + a negative word. Because of this, they can be separated by the particle は to give a nuance of contrast.",
+    "Imagine that my friend is feeling a bit sick. I just so happen to have an amazing cold remedy tea, but the problem is, it tastes horrible. When offering it to her, I might say:",
+    "By inserting particle は here, it creates the sense that whatever I say is going to be contrasted with something else. In this case, I contrast the taste (おいしくはない) with the health benefit (体（たい）にいい). For this reason, it’s quite common for 〜くはない to appear alongside \"but\" conjunctions, like が and けど . However, sometimes the contrast is implied rather than explicitly stated:",
+    "You might use this when you want to say that something isn’t bad, but imply that it isn’t exactly good either, without stating it explicitly. In fact, after drinking that nasty healthy tea, this would be a great way for my friend to respond!",
+    "It is common to use 〜くない to ask questions that you think you know the answer to. This is similar to asking, \"Isn’t it…?\" in English. While the question form is negative, the speaker usually assumes that the actual answer is positive.",
+    "Japanese has another type of adjective, called な-adjectives . Their grammar is more similar to Japanese nouns than to い-adjectives . For example, you can add 〜じゃない to form the negative form of な-adjectives.",
+    "However, using じゃない to make an い-adjective negative is ungrammatical.",
+    "It is also possible to mistake some な-adjectives for い-adjectives . For example, きれい (clean) is a な-adjective. However, it ends in い, so you could be forgiven for thinking it's an い-adjective.",
+    "Luckily, there aren't so many な-adjectives ending in い. To distinguish them from い-adjectives, check their kanji version. Unlike い-adjectives, the final 〜い of these な-adjectives is not in hiragana. For example, the kanji for きれい is 綺麗（きれい）, not 綺麗（きれい）い. The only exception to this is 嫌（きら）い (to hate), which is a な-adjective in spite of the い hanging off the end. 🤷🏻️"
+  ],
+  "examples": [
+    {
+      "japanese": "難（むずか）しくないです",
+      "english": "is not difficult (formal)"
+    },
+    {
+      "japanese": "難（むずか）しくありません",
+      "english": "is not difficult (formal)"
+    },
+    {
+      "japanese": "あの芸人（げいにん）は面白（おもしろ）くない。",
+      "english": "That comedian is not funny."
+    },
+    {
+      "japanese": "面白（おもしろ）くない芸人（げいにん）が、苦（にが）くないコーヒーを作（つく）った。",
+      "english": "A not-funny comedian made not-bitter coffee."
+    },
+    {
+      "japanese": "おいしくはない",
+      "english": "not delicious (but…)"
+    },
+    {
+      "japanese": "おいしくはありません",
+      "english": "not delicious (but…)"
+    },
+    {
+      "japanese": "おいしくはないけど、体（からだ）にいいよ。",
+      "english": "This isn't delicious, but it's good for you."
+    },
+    {
+      "japanese": "悪（わる）くはないよ！",
+      "english": "It's not bad (but…)"
+    },
+    {
+      "japanese": "寒（さむ）くない？",
+      "english": "Isn't it cold?"
+    },
+    {
+      "japanese": "高（たか）くない？",
+      "english": "Isn't it expensive?"
+    },
+    {
+      "japanese": "その蚊（か）は元気（げんき）じゃない。",
+      "english": "That mosquito is not well."
+    },
+    {
+      "japanese": "❌ そのハエはうるさいじゃない。",
+      "english": "⭕ そのハエはうるさくない。"
+    },
+    {
+      "japanese": "❌ 私（わたし）の部屋（へや）はきれくない。",
+      "english": "⭕ 私の部屋はきれいじゃない。"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜くない"
+    },
+    {
+      "level": 3,
+      "id": "in-the-past",
+      "text": "〜くない in the Past"
+    },
+    {
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "at-the-end-of-a-sentence",
+      "text": "At the End of a Sentence"
+    },
+    {
+      "level": 3,
+      "id": "immediately-before-a-noun",
+      "text": "Immediately Before a Noun"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "splitting--form-and--with-particle--for-contrast",
+      "text": "Splitting く Form and ない with Particle は for Contrast"
+    },
+    {
+      "level": 3,
+      "id": "confirming-assumptions-with-",
+      "text": "Confirming Assumptions with 〜くない"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "level": 3,
+      "id": "treating--adjectives-like--adjectives",
+      "text": "Treating い-Adjectives like な-Adjectives"
+    },
+    {
+      "level": 3,
+      "id": "treating--adjectives-like--adjectives-1",
+      "text": "Treating な-Adjectives like い-Adjectives"
+    }
+  ],
+  "id": 86,
+  "slug": "i-adjective-negative-form-kunai",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/i-adjective-negative-form-kunai/",
+  "categories": [
+    "Adjective Form"
+  ]
+}

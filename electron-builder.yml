@@ -1,0 +1,21 @@
+appId: com.nhattran.japanese-learning
+productName: Japanese Learning
+directories:
+  output: release
+files:
+  - dist-electron/**
+  - package.json
+extraResources:
+  - from: web/dist
+    to: web/dist
+  - from: grammar-data
+    to: grammar-data
+asarUnpack:
+  - node_modules/better-sqlite3/**
+mac:
+  target:
+    - dir
+    - dmg
+  icon: assets/icon.icns
+  category: public.app-category.education
+  identity: null   # ad-hoc signing — personal machine, no Developer ID

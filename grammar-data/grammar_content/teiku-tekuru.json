@@ -1,0 +1,579 @@
+{
+  "title": "〜ていく・〜てくる",
+  "description": "〜ていく and 〜てくる can express a gradual process that takes place over time. While 〜ていく focuses on the starting point of the process, 〜てくる focuses on the endpoint.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜ていく and 〜てくる combine て form verbs with 行（い）く or 来（く）る . They can be used for physical movements but can also be used for indicating gradual processes over time. On this page we'll mainly discuss the time-related uses, but let's start with the physical uses for comparison."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you use 〜ていく and 〜てくる for physical movements, 〜ていく indicates a movement away from the speaker. For example, to describe a situation where a gaggle of geese has flown away from where you are, you combine the て form of 飛（と）ぶ with 行（い）く and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ガチョウの 群（む）れが飛（と）んで行（い）った。",
+      "english": "A gaggle of geese flew away."
+    },
+    {
+      "type": "paragraph",
+      "text": "If they have flown towards you, you switch the verb to 来（く）る and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ガチョウの群（む）れが飛（と）んで来（き）た。",
+      "english": "A gaggle of geese flew in."
+    },
+    {
+      "type": "paragraph",
+      "text": "When 〜ていく and 〜てくる are used in expressions referring to time, you can still apply these physical concepts to them metaphorically."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, 〜ていく describes some action or state with the nuance that it's moving away from you in time. What kind of situation would that be? You might, for example, be talking about something that will continue happening or gradually transition after you first describe it."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, let's say you've just made a resolution to get into the habit of learning ten new Japanese words a day. Since you hope to continue the practice from now on, you can use 〜ていく and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "これから毎日（まいにち）、新（あたら）しい日本語（にほんご）の単語（たんご）を１０個（こ）覚（おぼ）えていくつもりです。",
+      "english": "From now on, I'm going to learn ten new Japanese words every day."
+    },
+    {
+      "type": "paragraph",
+      "text": "This 〜ていく is common when you are instructing others too. For example, if you are an exercise instructor, you may use 〜ていく to let your students know what you’ll all be working on next:"
+    },
+    {
+      "type": "example",
+      "japanese": "それでは、まずは軽（かる）いストレッチをしていきましょう。",
+      "english": "Let's start by doing some light stretching."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜ていく can express that everyone is now standing at the starting point of the light stretching activity and will continue working on it together into the future. It makes the transition to the new activity sound more gradual and less hectic."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, 〜てくる adds the nuance that the action or state is getting closer to you in time. In general, it means that you’re looking back at the continuation of some state or action from a moment in the past up to the current point in time."
+    },
+    {
+      "type": "paragraph",
+      "text": "So in the same scenario, when you are done with stretching and ready to move on to a new activity, you may recap what you've done so far by using 〜てくる."
+    },
+    {
+      "type": "example",
+      "japanese": "ここまでは軽（かる）いストレッチをしてきました。",
+      "english": "We've done some light stretching up to this point."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, 〜てくる indicates that everyone has worked on the stretch up until now. It highlights the entire stretch activity you did earlier and contrasts it with what's coming up next."
+    },
+    {
+      "type": "paragraph",
+      "text": "〜てくる doesn't necessarily mean that you are ending the old activity though. For example, in the middle of your illustrious career as an exercise instructor, you may one day pause and reflect on what you have accomplished so far. In this situation, you aren't ending your career, but you can still use 〜てくる and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "これまで、毎日（まいにち）エクササイズを教（おし）えてきた。",
+      "english": "Up until now, I have taught fitness every day."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜てくる shows that you are looking back at the period of time you taught fitness, from the beginning up until the present moment."
+    },
+    {
+      "type": "paragraph",
+      "text": "Are you getting the hang of how it works? To express that you are gradually understanding something, 〜てくる also comes into play. We'll talk about that expression soon, so read on if you are interested!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "form--",
+      "text": "て form + 行く・来る"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember that 〜ていく and 〜てくる are て form verbs with 行（い）く or 来（く）る attached. But since the meanings of 行（い）く and 来（く）る are not very literal in these expressions, it's more common to write them out in kana."
+    },
+    {
+      "type": "example",
+      "japanese": "書（か）き出（だ）していく",
+      "english": "keep writing (something) out"
+    },
+    {
+      "type": "example",
+      "japanese": "見（み）えてくる",
+      "english": "start to be more visible"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective--",
+      "text": "Adjective + なっていく・なってくる"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you describe a change in the state of something, you often combine an adjective and the verb なる (become) with 〜ていく or 〜てくる."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the adjective is a な-adjective , you connect it with なる by adding the particle に between them. So the pattern will look like 〜になっていく or 〜になってくる."
+    },
+    {
+      "type": "example",
+      "japanese": "静（しず）かになっていく",
+      "english": "be getting quieter"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the adjective is an い-adjective , you turn it into the く form to attach it to なる. So the pattern will look like 〜くなっていく or 〜くなってくる."
+    },
+    {
+      "type": "example",
+      "japanese": "うれしくなってくる",
+      "english": "be getting happier"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "when-only--works",
+      "text": "When Only 〜てくる Works"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are some types of verbs that don't take 〜ていく at all and only combine with 〜てくる. In this section, we'll look at those uses limited to 〜てくる."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "perception-verbs-with-",
+      "text": "Perception Verbs with 〜てくる"
+    },
+    {
+      "type": "paragraph",
+      "text": "One category of verbs that only take 〜てくる are perception verbs ー the verbs that convey the experience of your physical senses, such as 聞（き）こえる (to hear), 匂（にお）いがする (to smell), or 見（み）える (to see)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When 〜てくる follows this type of verb, it indicates the gradual process of perceiving something. For example, when you start to hear the chopping sounds of a knife from the kitchen, you may use the past tense of 〜てくる and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "包丁（ほうちょう）の音（おと）が聞（き）こえてきた。",
+      "english": "I started hearing the sounds of a knife."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜てきた adds the nuance it came from somewhere and reached your senses, and the sound resonated for a moment. If you just say 聞（き）こえた, it only expresses that you heard the sound, and it's not as dynamic as 聞（き）こえてきた."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you might have noticed, this use is somewhere between the physical and the time-based uses. The sound physically reaches your senses, but you also describe your gradual process of perceiving it in time. Needless to say, you are the receiver of some external stimulus, so the focus is on the arrival or endpoint of the process, and 〜てくる becomes suitable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's continue with the same scenario. Following the sound, say the smell of curry also starts to tickle your nose. To describe this situation, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "カレーの匂（にお）いがしてきた。",
+      "english": "It started smelling like curry."
+    },
+    {
+      "type": "paragraph",
+      "text": "With 〜てきた, it expresses the smell has departed the kitchen, floated in the air, and finally reached your senses. It usually starts with a very faint odor and then gradually gets stronger, though the change may not be noticeable, and 〜てきた can imply the process."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's change the subject to get some fresh air. Imagine you are on a pirate ship, looking for a specific island. According to the treasure map, you are very close to the location now. Then, one of your fellow pirates screams:"
+    },
+    {
+      "type": "example",
+      "japanese": "宝島（たからじま）が見（み）えてきたぞ！",
+      "english": "Treasure Island's come into sight!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, it means you can finally see the island. But it is still far away, or it's not fully visible yet for whatever reason (maybe it's hidden in sea fog), and you are expecting to see it more clearly soon."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "potential-verbs-with-",
+      "text": "Potential Verbs with 〜てくる"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another type of verb that only 〜てくる can follow are potential verbs. Potential verbs are the ones that show your ability, such as 分（わ）かる (to understand) or できる (can do)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When 〜てくる follows these verbs, it indicates the gradual process of obtaining a result. For example, let's say you are doing some homework. At first you have no idea how to solve the problems, but as you spend some time on it, you gradually come to understand it. To describe this situation, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "だんだん分（わ）かってきた。",
+      "english": "I'm starting to understand."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜てくる indicates that you’re just starting to understand the homework. Although you may not fully understand it yet, you are getting the hang of it and can see that more complete comprehension will come soon."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, if you are learning the moonwalk and you feel like you are starting to get the hang of it, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "できてきた。",
+      "english": "I'm starting to be able to do it!"
+    },
+    {
+      "type": "paragraph",
+      "text": "This use of 〜てくる can also be used with the potential form of a verb. For example, if you are getting the hang of some new dance moves, then you can use 踊（おど）る (to dance) in its potential form with 〜てくる and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "踊（おど）れてきた。",
+      "english": "I'm starting to be able to do this dance!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-upcoming-changes",
+      "text": "〜ていく and てくる for Upcoming Changes"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Basics section , you learned that 〜ていく indicates a forthcoming action or state, and 〜てくる indicates an action or state that has been occurring up until the present moment. However, you can also use 〜てくる at the beginning of what's about to happen, if you are already familiar with the upcoming change."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "and-",
+      "text": "なっていく and なってくる"
+    },
+    {
+      "type": "paragraph",
+      "text": "A common example of this is when you use the adjective + なる + ていく・てくる structure to describe how something is going to change."
+    },
+    {
+      "type": "paragraph",
+      "text": "First let's go back to the scenario where you are an exercise instructor finishing up a light stretch. To tell your students it's going to get a little more difficult, you can use either 〜ていく or 〜てくる and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここからは、ちょっと難（むずか）しくなっ [ていきます・てきます] よ。",
+      "english": "It gets a little more difficult from here."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜ていく simply shows you are objectively describing the forthcoming change. On the other hand, 〜てくる indicates your perspective also includes the endpoint of the change. Since you are an instructor, you know how it's going to change, right? So it emphasizes your familiarity with what's awaiting and suggests that it is coming from your personal experience. In this case, it's also possible that you are doing a class routine and you also expect your students to know what's coming up next."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at another example. This time, imagine you are playing your favorite video game with your friend. You already know the game is going to get more exciting from the point where you’re at currently. In this situation, you can tell your friend using either 〜ていく or 〜てくる:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここからがおもしろくなっ [ていく・てくる] んだよ。",
+      "english": "This is where it gets more exciting."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, 〜ていく sounds like you are describing the gradual change objectively. On the other hand, 〜てくる sounds more subjective, like you personally get really excited about what's coming up next."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "change-of-state-verbs-with--and-",
+      "text": "Change-of-State Verbs with 〜ていく and 〜てくる"
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, when 〜ていく and 〜てくる follow change-of-state verbs, such as 変（か）わる (to change) or 発展（はってん）する (to develop), 〜てくる can also express future changes."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the previous section, we looked at situations where you know exactly what's about to happen. However, you can still use 〜てくる even when you don't know what's going to come about."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, say you are making a general comment about changes in the world. Nobody knows how the world will change in the future, but you can use either 〜ていく or 〜てくる and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "これから世（よ）の中（なか）は、どんどん変（か）わっ [ていく・てくる] だろう。",
+      "english": "The world will keep changing more and more in the future."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here as well, the 〜ていく version sounds like an ordinary objective statement while 〜てくる sounds like a more personal statement."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because 〜てくる shows that you associate yourself with the change, in the sense that you see coming toward you and feel you’ll be affected by it. Maybe you feel like you have already lived in the changing world and expect the change to continue. Perhaps you are visualizing yourself as part of some future change and feel excited about it. Whatever the situation it is, 〜てくる stresses your involvement in the change to some extent."
+    },
+    {
+      "type": "paragraph",
+      "text": "What about when talking about changes that took place in the past? For example, say you want to discuss the rapid development of a particular industry after WWII."
+    },
+    {
+      "type": "example",
+      "japanese": "戦後（せんご）、その産業（さんぎょう）は急速（きゅうそく）に発展（はってん）し [ていった・てきた] 。",
+      "english": "After the war, the industry developed rapidly."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, 〜ていく still stresses the initial point of change. 発展（はってん）していった refers to a \"future development\" seen from the past and expresses that the industry went on developing. The concept of 〜てくる remains the same too. Since its focus is on the endpoint of the change, the nuance is one of looking back from the future at the results of the change. Hence, 発展（はってん）してきた can often translate to has developed ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like in the earlier examples, you may go with 〜てくる if you are looking back on past changes that you were involved in or otherwise familiar with."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜ていく and 〜てくる combine て form verbs with 行（い）く or 来（く）る . They can be used for physical movements but can also be used for indicating gradual processes over time. On this page we'll mainly discuss the time-related uses, but let's start with the physical uses for comparison.",
+    "When you use 〜ていく and 〜てくる for physical movements, 〜ていく indicates a movement away from the speaker. For example, to describe a situation where a gaggle of geese has flown away from where you are, you combine the て form of 飛（と）ぶ with 行（い）く and say:",
+    "If they have flown towards you, you switch the verb to 来（く）る and say:",
+    "When 〜ていく and 〜てくる are used in expressions referring to time, you can still apply these physical concepts to them metaphorically.",
+    "For example, 〜ていく describes some action or state with the nuance that it's moving away from you in time. What kind of situation would that be? You might, for example, be talking about something that will continue happening or gradually transition after you first describe it.",
+    "So, let's say you've just made a resolution to get into the habit of learning ten new Japanese words a day. Since you hope to continue the practice from now on, you can use 〜ていく and say:",
+    "This 〜ていく is common when you are instructing others too. For example, if you are an exercise instructor, you may use 〜ていく to let your students know what you’ll all be working on next:",
+    "Here, 〜ていく can express that everyone is now standing at the starting point of the light stretching activity and will continue working on it together into the future. It makes the transition to the new activity sound more gradual and less hectic.",
+    "On the other hand, 〜てくる adds the nuance that the action or state is getting closer to you in time. In general, it means that you’re looking back at the continuation of some state or action from a moment in the past up to the current point in time.",
+    "So in the same scenario, when you are done with stretching and ready to move on to a new activity, you may recap what you've done so far by using 〜てくる.",
+    "In this example, 〜てくる indicates that everyone has worked on the stretch up until now. It highlights the entire stretch activity you did earlier and contrasts it with what's coming up next.",
+    "〜てくる doesn't necessarily mean that you are ending the old activity though. For example, in the middle of your illustrious career as an exercise instructor, you may one day pause and reflect on what you have accomplished so far. In this situation, you aren't ending your career, but you can still use 〜てくる and say:",
+    "Here, 〜てくる shows that you are looking back at the period of time you taught fitness, from the beginning up until the present moment.",
+    "Are you getting the hang of how it works? To express that you are gradually understanding something, 〜てくる also comes into play. We'll talk about that expression soon, so read on if you are interested!",
+    "Remember that 〜ていく and 〜てくる are て form verbs with 行（い）く or 来（く）る attached. But since the meanings of 行（い）く and 来（く）る are not very literal in these expressions, it's more common to write them out in kana.",
+    "When you describe a change in the state of something, you often combine an adjective and the verb なる (become) with 〜ていく or 〜てくる.",
+    "If the adjective is a な-adjective , you connect it with なる by adding the particle に between them. So the pattern will look like 〜になっていく or 〜になってくる.",
+    "If the adjective is an い-adjective , you turn it into the く form to attach it to なる. So the pattern will look like 〜くなっていく or 〜くなってくる.",
+    "There are some types of verbs that don't take 〜ていく at all and only combine with 〜てくる. In this section, we'll look at those uses limited to 〜てくる.",
+    "One category of verbs that only take 〜てくる are perception verbs ー the verbs that convey the experience of your physical senses, such as 聞（き）こえる (to hear), 匂（にお）いがする (to smell), or 見（み）える (to see).",
+    "When 〜てくる follows this type of verb, it indicates the gradual process of perceiving something. For example, when you start to hear the chopping sounds of a knife from the kitchen, you may use the past tense of 〜てくる and say:",
+    "Here, 〜てきた adds the nuance it came from somewhere and reached your senses, and the sound resonated for a moment. If you just say 聞（き）こえた, it only expresses that you heard the sound, and it's not as dynamic as 聞（き）こえてきた.",
+    "As you might have noticed, this use is somewhere between the physical and the time-based uses. The sound physically reaches your senses, but you also describe your gradual process of perceiving it in time. Needless to say, you are the receiver of some external stimulus, so the focus is on the arrival or endpoint of the process, and 〜てくる becomes suitable.",
+    "Let's continue with the same scenario. Following the sound, say the smell of curry also starts to tickle your nose. To describe this situation, you can say:",
+    "With 〜てきた, it expresses the smell has departed the kitchen, floated in the air, and finally reached your senses. It usually starts with a very faint odor and then gradually gets stronger, though the change may not be noticeable, and 〜てきた can imply the process.",
+    "Let's change the subject to get some fresh air. Imagine you are on a pirate ship, looking for a specific island. According to the treasure map, you are very close to the location now. Then, one of your fellow pirates screams:",
+    "In this example, it means you can finally see the island. But it is still far away, or it's not fully visible yet for whatever reason (maybe it's hidden in sea fog), and you are expecting to see it more clearly soon.",
+    "Another type of verb that only 〜てくる can follow are potential verbs. Potential verbs are the ones that show your ability, such as 分（わ）かる (to understand) or できる (can do).",
+    "When 〜てくる follows these verbs, it indicates the gradual process of obtaining a result. For example, let's say you are doing some homework. At first you have no idea how to solve the problems, but as you spend some time on it, you gradually come to understand it. To describe this situation, you can say:",
+    "Here, 〜てくる indicates that you’re just starting to understand the homework. Although you may not fully understand it yet, you are getting the hang of it and can see that more complete comprehension will come soon.",
+    "Similarly, if you are learning the moonwalk and you feel like you are starting to get the hang of it, you can say:",
+    "This use of 〜てくる can also be used with the potential form of a verb. For example, if you are getting the hang of some new dance moves, then you can use 踊（おど）る (to dance) in its potential form with 〜てくる and say:",
+    "In the Basics section , you learned that 〜ていく indicates a forthcoming action or state, and 〜てくる indicates an action or state that has been occurring up until the present moment. However, you can also use 〜てくる at the beginning of what's about to happen, if you are already familiar with the upcoming change.",
+    "A common example of this is when you use the adjective + なる + ていく・てくる structure to describe how something is going to change.",
+    "First let's go back to the scenario where you are an exercise instructor finishing up a light stretch. To tell your students it's going to get a little more difficult, you can use either 〜ていく or 〜てくる and say:",
+    "Here, 〜ていく simply shows you are objectively describing the forthcoming change. On the other hand, 〜てくる indicates your perspective also includes the endpoint of the change. Since you are an instructor, you know how it's going to change, right? So it emphasizes your familiarity with what's awaiting and suggests that it is coming from your personal experience. In this case, it's also possible that you are doing a class routine and you also expect your students to know what's coming up next.",
+    "Let's take a look at another example. This time, imagine you are playing your favorite video game with your friend. You already know the game is going to get more exciting from the point where you’re at currently. In this situation, you can tell your friend using either 〜ていく or 〜てくる:",
+    "Again, 〜ていく sounds like you are describing the gradual change objectively. On the other hand, 〜てくる sounds more subjective, like you personally get really excited about what's coming up next.",
+    "Similarly, when 〜ていく and 〜てくる follow change-of-state verbs, such as 変（か）わる (to change) or 発展（はってん）する (to develop), 〜てくる can also express future changes.",
+    "In the previous section, we looked at situations where you know exactly what's about to happen. However, you can still use 〜てくる even when you don't know what's going to come about.",
+    "For example, say you are making a general comment about changes in the world. Nobody knows how the world will change in the future, but you can use either 〜ていく or 〜てくる and say:",
+    "Here as well, the 〜ていく version sounds like an ordinary objective statement while 〜てくる sounds like a more personal statement.",
+    "This is because 〜てくる shows that you associate yourself with the change, in the sense that you see coming toward you and feel you’ll be affected by it. Maybe you feel like you have already lived in the changing world and expect the change to continue. Perhaps you are visualizing yourself as part of some future change and feel excited about it. Whatever the situation it is, 〜てくる stresses your involvement in the change to some extent.",
+    "What about when talking about changes that took place in the past? For example, say you want to discuss the rapid development of a particular industry after WWII.",
+    "In this example, 〜ていく still stresses the initial point of change. 発展（はってん）していった refers to a \"future development\" seen from the past and expresses that the industry went on developing. The concept of 〜てくる remains the same too. Since its focus is on the endpoint of the change, the nuance is one of looking back from the future at the results of the change. Hence, 発展（はってん）してきた can often translate to has developed .",
+    "Just like in the earlier examples, you may go with 〜てくる if you are looking back on past changes that you were involved in or otherwise familiar with."
+  ],
+  "examples": [
+    {
+      "japanese": "ガチョウの 群（む）れが飛（と）んで行（い）った。",
+      "english": "A gaggle of geese flew away."
+    },
+    {
+      "japanese": "ガチョウの群（む）れが飛（と）んで来（き）た。",
+      "english": "A gaggle of geese flew in."
+    },
+    {
+      "japanese": "これから毎日（まいにち）、新（あたら）しい日本語（にほんご）の単語（たんご）を１０個（こ）覚（おぼ）えていくつもりです。",
+      "english": "From now on, I'm going to learn ten new Japanese words every day."
+    },
+    {
+      "japanese": "それでは、まずは軽（かる）いストレッチをしていきましょう。",
+      "english": "Let's start by doing some light stretching."
+    },
+    {
+      "japanese": "ここまでは軽（かる）いストレッチをしてきました。",
+      "english": "We've done some light stretching up to this point."
+    },
+    {
+      "japanese": "これまで、毎日（まいにち）エクササイズを教（おし）えてきた。",
+      "english": "Up until now, I have taught fitness every day."
+    },
+    {
+      "japanese": "書（か）き出（だ）していく",
+      "english": "keep writing (something) out"
+    },
+    {
+      "japanese": "見（み）えてくる",
+      "english": "start to be more visible"
+    },
+    {
+      "japanese": "静（しず）かになっていく",
+      "english": "be getting quieter"
+    },
+    {
+      "japanese": "うれしくなってくる",
+      "english": "be getting happier"
+    },
+    {
+      "japanese": "包丁（ほうちょう）の音（おと）が聞（き）こえてきた。",
+      "english": "I started hearing the sounds of a knife."
+    },
+    {
+      "japanese": "カレーの匂（にお）いがしてきた。",
+      "english": "It started smelling like curry."
+    },
+    {
+      "japanese": "宝島（たからじま）が見（み）えてきたぞ！",
+      "english": "Treasure Island's come into sight!"
+    },
+    {
+      "japanese": "だんだん分（わ）かってきた。",
+      "english": "I'm starting to understand."
+    },
+    {
+      "japanese": "できてきた。",
+      "english": "I'm starting to be able to do it!"
+    },
+    {
+      "japanese": "踊（おど）れてきた。",
+      "english": "I'm starting to be able to do this dance!"
+    },
+    {
+      "japanese": "ここからは、ちょっと難（むずか）しくなっ [ていきます・てきます] よ。",
+      "english": "It gets a little more difficult from here."
+    },
+    {
+      "japanese": "ここからがおもしろくなっ [ていく・てくる] んだよ。",
+      "english": "This is where it gets more exciting."
+    },
+    {
+      "japanese": "これから世（よ）の中（なか）は、どんどん変（か）わっ [ていく・てくる] だろう。",
+      "english": "The world will keep changing more and more in the future."
+    },
+    {
+      "japanese": "戦後（せんご）、その産業（さんぎょう）は急速（きゅうそく）に発展（はってん）し [ていった・てきた] 。",
+      "english": "After the war, the industry developed rapidly."
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "form--",
+      "text": "て form + 行く・来る"
+    },
+    {
+      "level": 4,
+      "id": "adjective--",
+      "text": "Adjective + なっていく・なってくる"
+    },
+    {
+      "level": 2,
+      "id": "when-only--works",
+      "text": "When Only 〜てくる Works"
+    },
+    {
+      "level": 3,
+      "id": "perception-verbs-with-",
+      "text": "Perception Verbs with 〜てくる"
+    },
+    {
+      "level": 3,
+      "id": "potential-verbs-with-",
+      "text": "Potential Verbs with 〜てくる"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "and--for-upcoming-changes",
+      "text": "〜ていく and てくる for Upcoming Changes"
+    },
+    {
+      "level": 4,
+      "id": "and-",
+      "text": "なっていく and なってくる"
+    },
+    {
+      "level": 4,
+      "id": "change-of-state-verbs-with--and-",
+      "text": "Change-of-State Verbs with 〜ていく and 〜てくる"
+    }
+  ],
+  "id": 58,
+  "slug": "teiku-tekuru",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/teiku-tekuru/",
+  "categories": [
+    "Verb Form"
+  ]
+}

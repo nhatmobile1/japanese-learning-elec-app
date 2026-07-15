@@ -1,0 +1,600 @@
+{
+  "title": "Particle と",
+  "description": "と is used to connect two or more words together as companions",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle と wears a lot of hats, but its fundamental meaning is quite simple — to connect two or more things together as companions."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "together",
+      "text": "と = Together"
+    },
+    {
+      "type": "paragraph",
+      "text": "We like to think of と's fundamental meaning as marking togetherness . Particle と is like a companion marker — when a word is marked by と, we know it's part of a pair or a group, or has some kind of companionship with other words or elements in the sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "To help drive this point home, let me introduce two penguin companions, ペン太（ふとし） and ペン子（こ）. These penguin pals are always together (or と-gether 😉) because they're great friends:"
+    },
+    {
+      "type": "example",
+      "japanese": "ペン太（ふとし）とペン子（こ）は友達（ともだち）だ。",
+      "english": "Penta and Penko are friends."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, と comes between the two penguins, ペン太（ふとし） and ペン子（こ）, just like the word \"and.\" As you read on, you'll see that particle と can pop up in different places, and take slightly different meanings. However, keep in mind the togetherness of our penguin pals, and all the different uses will make sense!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "uses-of-",
+      "text": "Uses of と"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-in-and",
+      "text": "と as in \"And\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like you saw before with our penguin friends, particle と can be used to connect two or more nouns in a similar way to \"and\" in English. This applies to all kinds of nouns, from places you plan to go, to food you want to eat:"
+    },
+    {
+      "type": "example",
+      "japanese": "トマトとバナナを食（た）べる。",
+      "english": "I'm going to eat tomatoes and bananas."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, と connects トマト and バナナ into a pair. To connect more than two items, you can simply repeat と, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "トマトとバナナとケーキとラーメンとすしを食（た）べる。",
+      "english": "I'm going to eat tomatoes, bananas, cake, ramen and sushi."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's simple and easy, but I hope your stomach is okay. 🍅🍌🍰🍜🍣😅"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-in-with",
+      "text": "と as in \"With\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle と can also be used to mean something like \"with\" in English. In this case, the noun that comes before と indicates who is together with you as you do an activity. So if you ate tomatoes with your little sister, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "妹（いもうと）とトマトを食（た）べた。",
+      "english": "I ate tomatoes with my little sister."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, と marks 妹（いもうと） (little sister) as the person accompanying you on your tomato eating adventure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Were there others joining in the feast with you and your 妹（いもうと）? In this case, you can connect them with と, as in \"and,\" like:"
+    },
+    {
+      "type": "example",
+      "japanese": "妹（いもうと）と弟（おとうと）とトマトを食（た）べた。",
+      "english": "I ate tomatoes with my little sister and my little brother."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, the と between 妹（いもうと） and 弟（おとうと） (little brother) works like \"and,\" connecting the two of them together. The と after 弟（おとうと） works like \"with,\" marking your 妹（いもうと） and 弟（おとうと） as the people who ate the tomatoes with you."
+    },
+    {
+      "type": "paragraph",
+      "text": "What if you ate more foods with more people? Well, you simply connect everyone together using と."
+    },
+    {
+      "type": "example",
+      "japanese": "妹（いもうと）と弟（おとうと）とお父（とう）さんとお母（かあ）さんとトマトとバナナとケーキとラーメンとすしを食（た）べた。",
+      "english": "I ate tomatoes, bananas, cake, ramen, and sushi with my little sister, my little brother, my father, and my mother."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like the English translation, this is kind of an unpleasant sentence in Japanese. Seriously, that's too (と) much と for me!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-listing-options",
+      "text": "と for Listing Options"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle と can also be used to list options, in which case it will be accompanied by a \"which one?\" question."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, to list beverage options and ask \"which one would you like?\" you can connect the options with と and ask:"
+    },
+    {
+      "type": "example",
+      "japanese": "牛乳（ぎゅうにゅう）とジュースと紅茶（こうちゃ）とコーヒー(と)、どれがいいですか？",
+      "english": "Which would you like: milk, juice, tea, or coffee?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, と ends up meaning something more like \"or,\" but these beverages are all still together in the same group — available drink options."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice that the final と, which comes after コーヒー, is in parentheses. While it can be included, the と that comes after the last noun tends to be omitted."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this section, we'll explore some advanced uses of と, while comparing them with the basic concept of と (togetherness)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-interactive-actions",
+      "text": "と for Interactive Actions"
+    },
+    {
+      "type": "paragraph",
+      "text": "You've learned that と can be used like \"with\" in English, and it marks someone who is engaged in the same activity as the subject. Sometimes, however, the Japanese idea of \"with\" is quite different from the English one. For example, to say you kissed your girlfriend, you can use と and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "彼女（かのじょ）とキスをした。",
+      "english": "I kissed my girlfriend.(Literally: I kissed with my girlfriend.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, と marks 彼女（かのじょ） (your girlfriend) as the person with whom the action was done . The nuance here is that both \"you\" and \"your girlfriend\" were engaged in the kissing together . This highlights that it was interactive and both parties were mutually involved."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, there are times when you want to show some directionality: who kissed whom? To do this, you would use particle に :"
+    },
+    {
+      "type": "example",
+      "japanese": "彼女（かのじょ）にキスをした。",
+      "english": "I kissed my girlfriend.(Literally: I kissed to my girlfriend.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, に marks 彼女（かのじょ） (your girlfriend) as the destination for your kiss, which implies that you initiated the action."
+    },
+    {
+      "type": "paragraph",
+      "text": "The same concept applies to other verbs that can be both be mutual and unidirectional. For example, if you are having an interactive phone call, you use と to say:"
+    },
+    {
+      "type": "example",
+      "japanese": "彼女（かのじょ）と電話（でんわ）をした。",
+      "english": "I called my girlfriend.(Literally: I called with my girlfriend.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is basically saying the same thing as \"I talked with my girlfriend on the phone.\" However, if you want to express that you are the one that placed the phone call, you would use に to say:"
+    },
+    {
+      "type": "example",
+      "japanese": "彼女（かのじょ）に電話（でんわ）をした。",
+      "english": "I called my girlfriend.(Literally: I called to my girlfriend.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "See how that works? Now, if the verb is something that is inherently done together, you will only have the option to use と. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕ 彼女（かのじょ）と結婚（けっこん）をした。❌ 彼女（かのじょ）に結婚（けっこん）をした。",
+      "english": "I married my girlfriend."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since marriage is something that must be done together , particle に is not an appropriate choice. Even though \"with\" feels strange to English speakers, take note that this kind of mutual activity or state will usually come with particle と in Japanese!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-different-interpretations",
+      "text": "と for Different Interpretations"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the action involves multiple subjects, と can sometimes create ambiguity because it could mean two different things — either the subjects involved are doing something to each other, or they’re doing something with each other. Take a look at the following examples:"
+    },
+    {
+      "type": "example",
+      "japanese": "第（だい）一（いち）次（じ）世界（せかい）対戦（たいせん）では、日本（にっぽん）はイギリスと戦（たたか）いました。",
+      "english": "In the First World War, Japan and Great Britain fought (together)."
+    },
+    {
+      "type": "example",
+      "japanese": "第（だい）二（に）次（じ）世界（せかい）対戦（たいせん）では、日本（にっぽん）はイギリスと戦（たたか）いました。",
+      "english": "In the Second World War, Japan and Great Britain fought (each other)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In these examples, と denotes that both Japan and the UK were engaged in the same activity – fighting. But like in English, we can only tell the difference from context."
+    },
+    {
+      "type": "paragraph",
+      "text": "To make it less ambiguous, we often use a phrase like 一緒（いっしょ）に (together) to indicate they were fighting on the same side."
+    },
+    {
+      "type": "example",
+      "japanese": "第（だい）一（いち）次（じ）世界（せかい）対戦（たいせん）では、日本（にっぽん）はイギリスと一緒（いっしょ）に戦（たたか）いました。",
+      "english": "In the First World War, Japan and Great Britain fought together."
+    },
+    {
+      "type": "paragraph",
+      "text": "When there’s no context to guess from and no clarification from words like 一緒（いっしょ）に, we can usually assume the sentence indicates “doing something to each other” instead of “doing something together.” For example, the following sentence implies that the two people fought each other."
+    },
+    {
+      "type": "example",
+      "japanese": "タケシはマサルとケンカをした。",
+      "english": "Takeshi and Masaru fought each other."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you’re referring to Takeshi and Masaru fighting together against a gang or some comparable situation, it’s better to add the phrase 一緒（いっしょ）に or other contextual clues."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-marking-quotations",
+      "text": "と for Marking Quotations"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use particle と to mark the end of a quotation. Think of it this way ー actions like 言（い）う (say) or 思（おも）う (think) occur together with words or thoughts. When you speak, there are always words, and when you think, there are always thoughts in your head."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's use an example to examine this idea:"
+    },
+    {
+      "type": "example",
+      "japanese": "キャメロンが「おはよう」と言（い）った。",
+      "english": "Cameron said, \"Morning!\""
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, と marks 「おはよう」 as a quote, which is inevitably paired with a verb like 言（い）う, since quotes have to be said, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Quick side note — although the Japanese quotation marks 「」, called かぎかっこ, are used in the above sentence, they can be omitted to mean the same thing. What's more, と is often replaced with って in casual conversation. So this next example sentence, while slightly different, is identical in meaning to the above one:"
+    },
+    {
+      "type": "example",
+      "japanese": "キャメロンがおはようって言（い）った。",
+      "english": "Cameron said, \"Morning!\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle と can also be used to quote your own thoughts. In this case, と is usually followed by a verb like 思（おも）う or 考（かんが）える, both of which mean \"think\" ( but with different nuances )."
+    },
+    {
+      "type": "example",
+      "japanese": "難（むずか）しい質問（しつもん）だと思（おも）う。",
+      "english": "I think that it's a difficult question."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, と marks 難（むずか）しい質問（しつもん）だ as your thought, and connects it with the verb 思（おも）う."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use と to quote オノマトペ . While the word literally means \"onomatopoeia,\" Japanese オノマトペ transcend the English ones, as they can both represent natural sounds and symbolize manners and states in an expressive fashion."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, sound of a dog barking, \"bow-wow,\" is ワンワン in Japanese. To say the dog is barking, you can use と to quote \"bow-wow\" and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）がワンワンと鳴（な）いている。",
+      "english": "The dog is barking.(Literally: The dog is barking, \"bow-wow.\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the オノマトペ is depicting a manner or a state, the word marked by と is generally translated with an adverb in English, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "赤（あか）ちゃんがスヤスヤと眠（ねむ）っている。",
+      "english": "The baby is sleeping soundly.(Literally: The baby is sleeping, \"zzz-zzz.\")"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-strong-causal-relationships",
+      "text": "と for Strong Causal Relationships"
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle と can also be used to show a \"strong causal relationship.\" In other words, you can use と to explain a certain condition, with a result that always follows. It's like saying \"When X happens, the result is always Y.\" To apply this use to the fundamental meaning of と, think of it this way ー と is marking a situation that always occurs together with another situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's say you always feel sleepy when you eat food. In this case, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ご飯（はん）を食（た）べると眠（ねむ）くなる。",
+      "english": "When I eat food, I feel sleepy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, the particle と is sandwiched between the condition (ご飯（はん）を食（た）べる) and the result (眠（ねむ）くなる), indicating that these two situations are not separable and always occur together ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, と can be used for successive actions where one activity immediately follows another, like \"As soon as X happens, Y happens.\" For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "ご飯（はん）を食（た）べると、買（か）い物（もの）に出（で）かけた。",
+      "english": "As soon as I ate food, I left for shopping."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, what と does remains the same ー it shows that each activity happened in such quick succession that they occured together . It suggests those actions are tightly packed, with one happening immediately after the other."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since this use is a bit advanced, it has its own page dedicated to explaining it. If you want to learn more about the use of と in strong casual relationships, check out Particle と (Conditional) ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "The particle と wears a lot of hats, but its fundamental meaning is quite simple — to connect two or more things together as companions.",
+    "We like to think of と's fundamental meaning as marking togetherness . Particle と is like a companion marker — when a word is marked by と, we know it's part of a pair or a group, or has some kind of companionship with other words or elements in the sentence.",
+    "To help drive this point home, let me introduce two penguin companions, ペン太（ふとし） and ペン子（こ）. These penguin pals are always together (or と-gether 😉) because they're great friends:",
+    "In this sentence, と comes between the two penguins, ペン太（ふとし） and ペン子（こ）, just like the word \"and.\" As you read on, you'll see that particle と can pop up in different places, and take slightly different meanings. However, keep in mind the togetherness of our penguin pals, and all the different uses will make sense!",
+    "Just like you saw before with our penguin friends, particle と can be used to connect two or more nouns in a similar way to \"and\" in English. This applies to all kinds of nouns, from places you plan to go, to food you want to eat:",
+    "In this sentence, と connects トマト and バナナ into a pair. To connect more than two items, you can simply repeat と, like:",
+    "It's simple and easy, but I hope your stomach is okay. 🍅🍌🍰🍜🍣😅",
+    "Particle と can also be used to mean something like \"with\" in English. In this case, the noun that comes before と indicates who is together with you as you do an activity. So if you ate tomatoes with your little sister, you can say:",
+    "In this example, と marks 妹（いもうと） (little sister) as the person accompanying you on your tomato eating adventure.",
+    "Were there others joining in the feast with you and your 妹（いもうと）? In this case, you can connect them with と, as in \"and,\" like:",
+    "In this case, the と between 妹（いもうと） and 弟（おとうと） (little brother) works like \"and,\" connecting the two of them together. The と after 弟（おとうと） works like \"with,\" marking your 妹（いもうと） and 弟（おとうと） as the people who ate the tomatoes with you.",
+    "What if you ate more foods with more people? Well, you simply connect everyone together using と.",
+    "Just like the English translation, this is kind of an unpleasant sentence in Japanese. Seriously, that's too (と) much と for me!",
+    "The particle と can also be used to list options, in which case it will be accompanied by a \"which one?\" question.",
+    "For example, to list beverage options and ask \"which one would you like?\" you can connect the options with と and ask:",
+    "In this case, と ends up meaning something more like \"or,\" but these beverages are all still together in the same group — available drink options.",
+    "Notice that the final と, which comes after コーヒー, is in parentheses. While it can be included, the と that comes after the last noun tends to be omitted.",
+    "In this section, we'll explore some advanced uses of と, while comparing them with the basic concept of と (togetherness).",
+    "You've learned that と can be used like \"with\" in English, and it marks someone who is engaged in the same activity as the subject. Sometimes, however, the Japanese idea of \"with\" is quite different from the English one. For example, to say you kissed your girlfriend, you can use と and say:",
+    "In this example, と marks 彼女（かのじょ） (your girlfriend) as the person with whom the action was done . The nuance here is that both \"you\" and \"your girlfriend\" were engaged in the kissing together . This highlights that it was interactive and both parties were mutually involved.",
+    "However, there are times when you want to show some directionality: who kissed whom? To do this, you would use particle に :",
+    "Here, に marks 彼女（かのじょ） (your girlfriend) as the destination for your kiss, which implies that you initiated the action.",
+    "The same concept applies to other verbs that can be both be mutual and unidirectional. For example, if you are having an interactive phone call, you use と to say:",
+    "This is basically saying the same thing as \"I talked with my girlfriend on the phone.\" However, if you want to express that you are the one that placed the phone call, you would use に to say:",
+    "See how that works? Now, if the verb is something that is inherently done together, you will only have the option to use と. For example:",
+    "Since marriage is something that must be done together , particle に is not an appropriate choice. Even though \"with\" feels strange to English speakers, take note that this kind of mutual activity or state will usually come with particle と in Japanese!",
+    "When the action involves multiple subjects, と can sometimes create ambiguity because it could mean two different things — either the subjects involved are doing something to each other, or they’re doing something with each other. Take a look at the following examples:",
+    "In these examples, と denotes that both Japan and the UK were engaged in the same activity – fighting. But like in English, we can only tell the difference from context.",
+    "To make it less ambiguous, we often use a phrase like 一緒（いっしょ）に (together) to indicate they were fighting on the same side.",
+    "When there’s no context to guess from and no clarification from words like 一緒（いっしょ）に, we can usually assume the sentence indicates “doing something to each other” instead of “doing something together.” For example, the following sentence implies that the two people fought each other.",
+    "And if you’re referring to Takeshi and Masaru fighting together against a gang or some comparable situation, it’s better to add the phrase 一緒（いっしょ）に or other contextual clues.",
+    "You can also use particle と to mark the end of a quotation. Think of it this way ー actions like 言（い）う (say) or 思（おも）う (think) occur together with words or thoughts. When you speak, there are always words, and when you think, there are always thoughts in your head.",
+    "Let's use an example to examine this idea:",
+    "In this sentence, と marks 「おはよう」 as a quote, which is inevitably paired with a verb like 言（い）う, since quotes have to be said, right?",
+    "Quick side note — although the Japanese quotation marks 「」, called かぎかっこ, are used in the above sentence, they can be omitted to mean the same thing. What's more, と is often replaced with って in casual conversation. So this next example sentence, while slightly different, is identical in meaning to the above one:",
+    "Particle と can also be used to quote your own thoughts. In this case, と is usually followed by a verb like 思（おも）う or 考（かんが）える, both of which mean \"think\" ( but with different nuances ).",
+    "In this example, と marks 難（むずか）しい質問（しつもん）だ as your thought, and connects it with the verb 思（おも）う.",
+    "You can also use と to quote オノマトペ . While the word literally means \"onomatopoeia,\" Japanese オノマトペ transcend the English ones, as they can both represent natural sounds and symbolize manners and states in an expressive fashion.",
+    "For example, sound of a dog barking, \"bow-wow,\" is ワンワン in Japanese. To say the dog is barking, you can use と to quote \"bow-wow\" and say:",
+    "When the オノマトペ is depicting a manner or a state, the word marked by と is generally translated with an adverb in English, as in:",
+    "Particle と can also be used to show a \"strong causal relationship.\" In other words, you can use と to explain a certain condition, with a result that always follows. It's like saying \"When X happens, the result is always Y.\" To apply this use to the fundamental meaning of と, think of it this way ー と is marking a situation that always occurs together with another situation.",
+    "For example, let's say you always feel sleepy when you eat food. In this case, you can say:",
+    "Here, the particle と is sandwiched between the condition (ご飯（はん）を食（た）べる) and the result (眠（ねむ）くなる), indicating that these two situations are not separable and always occur together .",
+    "Similarly, と can be used for successive actions where one activity immediately follows another, like \"As soon as X happens, Y happens.\" For example:",
+    "In this case, what と does remains the same ー it shows that each activity happened in such quick succession that they occured together . It suggests those actions are tightly packed, with one happening immediately after the other.",
+    "Since this use is a bit advanced, it has its own page dedicated to explaining it. If you want to learn more about the use of と in strong casual relationships, check out Particle と (Conditional) ."
+  ],
+  "examples": [
+    {
+      "japanese": "ペン太（ふとし）とペン子（こ）は友達（ともだち）だ。",
+      "english": "Penta and Penko are friends."
+    },
+    {
+      "japanese": "トマトとバナナを食（た）べる。",
+      "english": "I'm going to eat tomatoes and bananas."
+    },
+    {
+      "japanese": "トマトとバナナとケーキとラーメンとすしを食（た）べる。",
+      "english": "I'm going to eat tomatoes, bananas, cake, ramen and sushi."
+    },
+    {
+      "japanese": "妹（いもうと）とトマトを食（た）べた。",
+      "english": "I ate tomatoes with my little sister."
+    },
+    {
+      "japanese": "妹（いもうと）と弟（おとうと）とトマトを食（た）べた。",
+      "english": "I ate tomatoes with my little sister and my little brother."
+    },
+    {
+      "japanese": "妹（いもうと）と弟（おとうと）とお父（とう）さんとお母（かあ）さんとトマトとバナナとケーキとラーメンとすしを食（た）べた。",
+      "english": "I ate tomatoes, bananas, cake, ramen, and sushi with my little sister, my little brother, my father, and my mother."
+    },
+    {
+      "japanese": "牛乳（ぎゅうにゅう）とジュースと紅茶（こうちゃ）とコーヒー(と)、どれがいいですか？",
+      "english": "Which would you like: milk, juice, tea, or coffee?"
+    },
+    {
+      "japanese": "彼女（かのじょ）とキスをした。",
+      "english": "I kissed my girlfriend.(Literally: I kissed with my girlfriend.)"
+    },
+    {
+      "japanese": "彼女（かのじょ）にキスをした。",
+      "english": "I kissed my girlfriend.(Literally: I kissed to my girlfriend.)"
+    },
+    {
+      "japanese": "彼女（かのじょ）と電話（でんわ）をした。",
+      "english": "I called my girlfriend.(Literally: I called with my girlfriend.)"
+    },
+    {
+      "japanese": "彼女（かのじょ）に電話（でんわ）をした。",
+      "english": "I called my girlfriend.(Literally: I called to my girlfriend.)"
+    },
+    {
+      "japanese": "⭕ 彼女（かのじょ）と結婚（けっこん）をした。❌ 彼女（かのじょ）に結婚（けっこん）をした。",
+      "english": "I married my girlfriend."
+    },
+    {
+      "japanese": "第（だい）一（いち）次（じ）世界（せかい）対戦（たいせん）では、日本（にっぽん）はイギリスと戦（たたか）いました。",
+      "english": "In the First World War, Japan and Great Britain fought (together)."
+    },
+    {
+      "japanese": "第（だい）二（に）次（じ）世界（せかい）対戦（たいせん）では、日本（にっぽん）はイギリスと戦（たたか）いました。",
+      "english": "In the Second World War, Japan and Great Britain fought (each other)."
+    },
+    {
+      "japanese": "第（だい）一（いち）次（じ）世界（せかい）対戦（たいせん）では、日本（にっぽん）はイギリスと一緒（いっしょ）に戦（たたか）いました。",
+      "english": "In the First World War, Japan and Great Britain fought together."
+    },
+    {
+      "japanese": "タケシはマサルとケンカをした。",
+      "english": "Takeshi and Masaru fought each other."
+    },
+    {
+      "japanese": "キャメロンが「おはよう」と言（い）った。",
+      "english": "Cameron said, \"Morning!\""
+    },
+    {
+      "japanese": "キャメロンがおはようって言（い）った。",
+      "english": "Cameron said, \"Morning!\""
+    },
+    {
+      "japanese": "難（むずか）しい質問（しつもん）だと思（おも）う。",
+      "english": "I think that it's a difficult question."
+    },
+    {
+      "japanese": "犬（いぬ）がワンワンと鳴（な）いている。",
+      "english": "The dog is barking.(Literally: The dog is barking, \"bow-wow.\")"
+    },
+    {
+      "japanese": "赤（あか）ちゃんがスヤスヤと眠（ねむ）っている。",
+      "english": "The baby is sleeping soundly.(Literally: The baby is sleeping, \"zzz-zzz.\")"
+    },
+    {
+      "japanese": "ご飯（はん）を食（た）べると眠（ねむ）くなる。",
+      "english": "When I eat food, I feel sleepy."
+    },
+    {
+      "japanese": "ご飯（はん）を食（た）べると、買（か）い物（もの）に出（で）かけた。",
+      "english": "As soon as I ate food, I left for shopping."
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "together",
+      "text": "と = Together"
+    },
+    {
+      "level": 2,
+      "id": "uses-of-",
+      "text": "Uses of と"
+    },
+    {
+      "level": 3,
+      "id": "as-in-and",
+      "text": "と as in \"And\""
+    },
+    {
+      "level": 3,
+      "id": "as-in-with",
+      "text": "と as in \"With\""
+    },
+    {
+      "level": 3,
+      "id": "for-listing-options",
+      "text": "と for Listing Options"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-interactive-actions",
+      "text": "と for Interactive Actions"
+    },
+    {
+      "level": 3,
+      "id": "for-different-interpretations",
+      "text": "と for Different Interpretations"
+    },
+    {
+      "level": 3,
+      "id": "for-marking-quotations",
+      "text": "と for Marking Quotations"
+    },
+    {
+      "level": 3,
+      "id": "for-strong-causal-relationships",
+      "text": "と for Strong Causal Relationships"
+    }
+  ],
+  "id": 18,
+  "slug": "particle-to",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-to/",
+  "categories": [
+    "Particle"
+  ]
+}

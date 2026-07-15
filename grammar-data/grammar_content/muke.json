@@ -1,0 +1,127 @@
+{
+  "title": "〜向け",
+  "description": "〜向（む）け attaches to a noun to mean \"aimed at\" or \"intended for\" a particular group or audience — 子供（こども）向（む）け = for children.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "向（む）け comes from 向（む）ける (to point/direct toward). Attached to a noun, it means something was designed with that group as its target audience. Add の to modify a following noun (子供（こども）向（む）けの映画（えいが）), or use it predicatively with です (このアプリは学生（がくせい）向（む）けです)."
+    },
+    {
+      "type": "formula",
+      "japanese": "noun ＋ 向（む）け（の）",
+      "english": "aimed at ~ / intended for ~"
+    },
+    {
+      "type": "example",
+      "japanese": "子供（こども）向（む）けの映画（えいが）を見（み）ました。",
+      "english": "I watched a movie aimed at children."
+    },
+    {
+      "type": "example",
+      "japanese": "この本（ほん）は初心者（しょしんしゃ）向（む）けです。",
+      "english": "This book is aimed at beginners."
+    },
+    {
+      "type": "example",
+      "japanese": "海外（かいがい）向（む）けの商品（しょうひん）を開発（かいはつ）しています。",
+      "english": "We are developing products aimed at overseas markets."
+    },
+    {
+      "type": "example",
+      "japanese": "このアプリは学生（がくせい）向（む）けに作（つく）られました。",
+      "english": "This app was made for students."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "muke-vs-you",
+      "text": "〜向け vs 〜用（よう）"
+    },
+    {
+      "type": "paragraph",
+      "text": "Both suffixes translate as \"for,\" but they differ. 〜向（む）け marks the intended target audience — a product designed with that group in mind, though others could still use it (子供（こども）向（む）けの番組（ばんぐみ） is aimed at kids, but adults may watch too). 〜用（よう） marks the specific purpose or exclusive use — the item exists to be used for exactly that (子供（こども）用（よう）の椅子（いす） is a chair made for children to sit in; サラダ用（よう）の野菜（やさい） is vegetables for making salad)."
+    },
+    {
+      "type": "example",
+      "japanese": "これは子供（こども）向（む）けのアニメですが、大人（おとな）も楽（たの）しめます。",
+      "english": "This is a kids' anime, but adults can enjoy it too."
+    },
+    {
+      "type": "example",
+      "japanese": "子供（こども）用（よう）の椅子（いす）を買（か）いました。",
+      "english": "I bought a chair (made) for children (to use)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't swap 向（む）け and 用（よう）: use 向（む）け for the audience a thing is designed to appeal to, and 用（よう） for the concrete purpose or dedicated use of an item. Saying サラダ向（む）けの野菜（やさい） sounds odd — vegetables have a use (salad), not an audience, so it should be サラダ用（よう）."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "noun ＋ 向（む）け（の）",
+      "english": "aimed at ~ / intended for ~",
+      "type": "formula"
+    },
+    {
+      "japanese": "子供（こども）向（む）けの映画（えいが）を見（み）ました。",
+      "english": "I watched a movie aimed at children."
+    },
+    {
+      "japanese": "この本（ほん）は初心者（しょしんしゃ）向（む）けです。",
+      "english": "This book is aimed at beginners."
+    },
+    {
+      "japanese": "海外（かいがい）向（む）けの商品（しょうひん）を開発（かいはつ）しています。",
+      "english": "We are developing products aimed at overseas markets."
+    },
+    {
+      "japanese": "このアプリは学生（がくせい）向（む）けに作（つく）られました。",
+      "english": "This app was made for students."
+    },
+    {
+      "japanese": "これは子供（こども）向（む）けのアニメですが、大人（おとな）も楽（たの）しめます。",
+      "english": "This is a kids' anime, but adults can enjoy it too."
+    },
+    {
+      "japanese": "子供（こども）用（よう）の椅子（いす）を買（か）いました。",
+      "english": "I bought a chair (made) for children (to use)."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "muke-vs-you",
+      "text": "〜向け vs 〜用（よう）"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1044,
+  "slug": "muke",
+  "categories": [
+    "Suffix"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N2"
+}

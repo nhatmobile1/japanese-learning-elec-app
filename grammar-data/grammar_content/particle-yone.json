@@ -1,0 +1,439 @@
+{
+  "title": "Particle よね",
+  "description": "よね is a sentence-ending particle that is commonly used for confirmation.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "よね is a sentence-ending particle that adds a certain nuance to the entire sentence. It's a combination of the particles よ and ね and carries both of their nuances. That is, よ indicates that you believe you're providing new information, and ね suggests you think you are probably on the same page as your listener. So the meaning of よね falls somewhere in between the two, and it's mainly used for confirmation when you're pretty sure, but not certain, that the listener agrees."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing よね"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take a look at this image. Here you can see two people, the speaker and the listener. There's also a speech bubble with よね inside of it, which represents a statement ending in よね. In the speech bubble, the よ has no background pattern, just like the speaker, whereas the ね has the same pattern as the listener. Both people are extending their hands towards the speech bubble, indicating they probably share the same knowledge about the information."
+    },
+    {
+      "type": "paragraph",
+      "text": "We used this image to show that よね indicates that the speaker is pretty sure that the listener is on the same page about the information being offered, but that the speaker isn't entirely sure. So, よね is generally used when trying to double-check something with the listener. It also leaves more leeway for the listener to say \"no\" than if only ね was used."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, the following sentence states that it's raining. If you say it without particles, it sounds like you're talking to yourself."
+    },
+    {
+      "type": "example",
+      "japanese": "あ、雨（あめ）が降（ふ）ってる。",
+      "english": "Oh, it's raining."
+    },
+    {
+      "type": "paragraph",
+      "text": "By adding よね, it implies that you're saying this sentence to someone else and trying to confirm the rainy weather with them, while allowing room for the possibility that you're wrong."
+    },
+    {
+      "type": "example",
+      "japanese": "あ、雨（あめ）が降（ふ）ってるよね。",
+      "english": "Oh, it's raining, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Thus, よね is a communication tool between the speaker and the listener. The speaker's aim is usually to confirm whether the listener is on the same page regarding the information before よね, without sounding too self-assured."
+    },
+    {
+      "type": "paragraph",
+      "text": "よね creates a lively, conversational feel, while also implying modesty and empathy towards the listener. This fits in perfectly with Japanese communication styles and is, therefore, very popular to use in conversation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "at-the-end-of-sentences",
+      "text": "よね at the End of Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "We've seen how よね is used at the end of a sentence. A Japanese sentence can even consist of just one word with よね tacked on when the meaning is clear from context."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, よね can come directly after a verb."
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べるよね。",
+      "english": "You'll eat it, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "よね can also come directly after an い-adjective ."
+    },
+    {
+      "type": "example",
+      "japanese": "暑（あつ）いよね。",
+      "english": "It's hot, isn't it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the word before よね is a な-adjective or a noun, よね tends to add a feminine nuance. Since most modern Japanese speakers go for a more gender-neutral tone, it's common to insert the affirmative だ or the politeness marker です to sound more gender-neutral."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is an example of よね with the な-adjective しずか."
+    },
+    {
+      "type": "example",
+      "japanese": "しずかだよね。 しずかですよね。 しずかよね。",
+      "english": "It's quiet, isn't it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is an example of よね with the noun 犬（いぬ）."
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）だよね。 犬（いぬ）ですよね。 犬（いぬ）よね。",
+      "english": "It's a dog, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even if there's another particle after the な-adjective or noun, it's still common to have だ or です before よね for gender neutrality."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if we wanted to add particle も to 犬（いぬ） to express \"too,\" this is how we'd do it:"
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）もだよね。 犬（いぬ）もですよね。 犬（いぬ）もよね。",
+      "english": "Dogs too, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly, だよね and ですよね can be used on its own to express agreement with the person you're talking to. In this case, the person you're talking to will often have just said something ending in よ."
+    },
+    {
+      "type": "example",
+      "japanese": "You: やばい、明日（あした）試験（しけん）だっけ？Your friend: そうだよ。You: [だよね/ですよね]。ああ、どうしよ。",
+      "english": "You: Oh no, is the exam tomorrow?Your friend: That's right.You: Right, right. Oh, what should I do…"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-confirmation",
+      "text": "よね for Confirmation"
+    },
+    {
+      "type": "paragraph",
+      "text": "As mentioned, the most common use of よね is to confirm something with your listener while also implying your lack of total certainty. One of the most common scenarios for this is when you want to make sure that your knowledge is accurate or your understanding of something is the same as your listener's."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's imagine that you and your friend are chatting in the school cafeteria. You want to talk about the latest episode of the Tofugu podcast , which you're both big fans of. You're pretty sure your friend has already listened to it, but to be sure, you ask:"
+    },
+    {
+      "type": "example",
+      "japanese": "トーフグのポッドキャストの最新（さいしん）エピソード、もう聴（き）いたよね？",
+      "english": "You've already listened to the latest episode of the Tofugu podcast, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, よね indicates that you think your friend has probably already checked the podcast episode out but also shows that you're not sure. It serves as the perfect double-checker to see if your friend has listened to it or not."
+    },
+    {
+      "type": "paragraph",
+      "text": "How about a situation where you're actually super confident about the answer to the question you're asking? In this case, よね is still common, especially as a conversation starter. For example, let's say your friend recently told you they started learning Japanese. You know it first hand, but you can initiate the conversation by saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "最近（さいきん）日本語（にほんご）の勉強（べんきょう）始（はじ）めたんだよね？",
+      "english": "You started learning Japanese recently, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This gesture of double-checking is a good device to begin small talk, as よね implies that you think you know — or in this case, you're sure of — the answer, but it leaves space for your friend to answer. It shows you are asking for some discussion regarding the topic."
+    },
+    {
+      "type": "paragraph",
+      "text": "In other words, よね is commonly used after an icebreaker question. It's similar to what we do in English, like you may say, \"beautiful day, isn't it?\" to start talking about the weather."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-seeking-agreement",
+      "text": "よね for Seeking Agreement"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is very similar to confirmation, but you can also use よね for seeking agreement. In this case, よね suggests that you're stating your own thoughts or opinions and hoping your listener will be on the same side as you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's examine how this works. Imagine you've started learning Japanese, but you're struggling with kanji. You want to share how you feel about it with your friend, so you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）も日本語（にほんご）の勉強（べんきょう）始（はじ）めたの。でも、漢字（かんじ）が難（むずか）しいよね。",
+      "english": "I've also started learning Japanese, yet kanji is difficult, huh?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, you've stated your feelings about kanji, which is new information to your friend, and you're imagining that your friend shares your same feelings. While it still leaves room for your friend to disagree, you're definitely seeking sympathy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since this example is providing new information, you could use the particle よ alone, as in 漢字（かんじ）が難（むずか）しいよ. If you did that, it would simply suggest that you're stating how you feel. It's also possible to use the particle ね alone, as in, 漢字（かんじ）が難（むずか）しいね. In that case, it would imply that you assume your friend agrees with you that kanji is difficult."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another thing to note is that よね also works with soft orders or refusals, since they're very similar to seeking agreement. For example, let's say you don't want anybody else to know that you're struggling with kanji. To ask your friend to keep it between the two of you, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "誰（だれ）にも言（い）わないでよね。",
+      "english": "Don't tell anyone, okay?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, よね highlights that you're making a request, which is new information to your friend, as well as a strong suggestion that your friend agrees to it. You can say the same sentence with only よ, ね, or no particle at all, but よね can actually sound stronger than these other options. Together, よ emphasizes your request, and ね emphasizes your desire that your friend will agree with you."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's also noteworthy that you can add neither ね nor よね to strong orders, as ね suggests you and your listener are on the same page and isn't compatible with the harsher feel of demands. You can still use the particle よ because it just highlights the fact that you're making an order and that you want to make it clear to your listener."
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 誰（だれ）にも言（い）うなね。 ❌ 誰（だれ）にも言（い）うなよね。 ⭕ 誰（だれ）にも言（い）うな(よ)。",
+      "english": "Do not tell anyone else!"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you'd like to learn more about the differences between よ, ね, and よね, check out our article: よ and ね: What Do These Particles Really Mean to Japanese Speakers?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-showing-agreement",
+      "text": "よね for Showing Agreement"
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone says something to you and you want to show agreement, you can repeat whatever they said and add よね to the end. For example, when you shared with your friend that learning kanji is difficult, your friend could agree with you by saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "そうだよね。難（むずか）しいよね。",
+      "english": "I agree. It's difficult, huh?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, よ emphasizes your friend's feelings towards kanji, and ね shows that they agree with you. As a result, よね makes it sound like your friend is in exactly the same boat as you, and expresses their empathy towards you."
+    },
+    {
+      "type": "paragraph",
+      "text": "This might be genuine, or it might simply be a polite gesture. Either way, it still shows their compassion and will hopefully make you feel a bit better about your frustration towards kanji. This is another example of how よね is a very useful communication tool."
+    },
+    {
+      "type": "paragraph",
+      "text": "To demonstrate agreement, the particle ね alone works too, as in そうだね。難（むずか）しいね。In this case, however, it lacks that extra emphasis that your friend thinks the same thing. By adding よ, your friend is more actively showcasing their opinion that kanji is difficult. Their response with only ね can still show sympathy, but the effect is usually not as strong, compared to using よね."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that you don't necessarily show empathy when demonstrating agreement. When your listener is not sure about something but you are fairly certain about it, you may confirm the statement by using よね."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine your friend wants to show you a really cool kanji learning app called WaniKani but they can't find their laptop. Your friend starts mumbling and listing the possible places it could be, then says doubtfully, \"Did I put it in my bag?\" It sparks your memory and you answer:"
+    },
+    {
+      "type": "example",
+      "japanese": "あ、うん。確（たし）かさっきカバンの中（なか）に入（い）れたよね。",
+      "english": "Oh, yeah. You put it in your bag a little while ago, didn't you?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, よ indicates that you're offering your knowledge of the topic to remind or convince your listener, and ね shows your agreement. ね can also add the nuance that your friend should know about it, or you're confirming it with your friend."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "よね is a sentence-ending particle that adds a certain nuance to the entire sentence. It's a combination of the particles よ and ね and carries both of their nuances. That is, よ indicates that you believe you're providing new information, and ね suggests you think you are probably on the same page as your listener. So the meaning of よね falls somewhere in between the two, and it's mainly used for confirmation when you're pretty sure, but not certain, that the listener agrees.",
+    "Take a look at this image. Here you can see two people, the speaker and the listener. There's also a speech bubble with よね inside of it, which represents a statement ending in よね. In the speech bubble, the よ has no background pattern, just like the speaker, whereas the ね has the same pattern as the listener. Both people are extending their hands towards the speech bubble, indicating they probably share the same knowledge about the information.",
+    "We used this image to show that よね indicates that the speaker is pretty sure that the listener is on the same page about the information being offered, but that the speaker isn't entirely sure. So, よね is generally used when trying to double-check something with the listener. It also leaves more leeway for the listener to say \"no\" than if only ね was used.",
+    "For example, the following sentence states that it's raining. If you say it without particles, it sounds like you're talking to yourself.",
+    "By adding よね, it implies that you're saying this sentence to someone else and trying to confirm the rainy weather with them, while allowing room for the possibility that you're wrong.",
+    "Thus, よね is a communication tool between the speaker and the listener. The speaker's aim is usually to confirm whether the listener is on the same page regarding the information before よね, without sounding too self-assured.",
+    "よね creates a lively, conversational feel, while also implying modesty and empathy towards the listener. This fits in perfectly with Japanese communication styles and is, therefore, very popular to use in conversation.",
+    "We've seen how よね is used at the end of a sentence. A Japanese sentence can even consist of just one word with よね tacked on when the meaning is clear from context.",
+    "For example, よね can come directly after a verb.",
+    "よね can also come directly after an い-adjective .",
+    "When the word before よね is a な-adjective or a noun, よね tends to add a feminine nuance. Since most modern Japanese speakers go for a more gender-neutral tone, it's common to insert the affirmative だ or the politeness marker です to sound more gender-neutral.",
+    "Here is an example of よね with the な-adjective しずか.",
+    "Here is an example of よね with the noun 犬（いぬ）.",
+    "Even if there's another particle after the な-adjective or noun, it's still common to have だ or です before よね for gender neutrality.",
+    "For example, if we wanted to add particle も to 犬（いぬ） to express \"too,\" this is how we'd do it:",
+    "Lastly, だよね and ですよね can be used on its own to express agreement with the person you're talking to. In this case, the person you're talking to will often have just said something ending in よ.",
+    "As mentioned, the most common use of よね is to confirm something with your listener while also implying your lack of total certainty. One of the most common scenarios for this is when you want to make sure that your knowledge is accurate or your understanding of something is the same as your listener's.",
+    "For example, let's imagine that you and your friend are chatting in the school cafeteria. You want to talk about the latest episode of the Tofugu podcast , which you're both big fans of. You're pretty sure your friend has already listened to it, but to be sure, you ask:",
+    "In this example, よね indicates that you think your friend has probably already checked the podcast episode out but also shows that you're not sure. It serves as the perfect double-checker to see if your friend has listened to it or not.",
+    "How about a situation where you're actually super confident about the answer to the question you're asking? In this case, よね is still common, especially as a conversation starter. For example, let's say your friend recently told you they started learning Japanese. You know it first hand, but you can initiate the conversation by saying:",
+    "This gesture of double-checking is a good device to begin small talk, as よね implies that you think you know — or in this case, you're sure of — the answer, but it leaves space for your friend to answer. It shows you are asking for some discussion regarding the topic.",
+    "In other words, よね is commonly used after an icebreaker question. It's similar to what we do in English, like you may say, \"beautiful day, isn't it?\" to start talking about the weather.",
+    "This is very similar to confirmation, but you can also use よね for seeking agreement. In this case, よね suggests that you're stating your own thoughts or opinions and hoping your listener will be on the same side as you.",
+    "Let's examine how this works. Imagine you've started learning Japanese, but you're struggling with kanji. You want to share how you feel about it with your friend, so you might say:",
+    "In this sentence, you've stated your feelings about kanji, which is new information to your friend, and you're imagining that your friend shares your same feelings. While it still leaves room for your friend to disagree, you're definitely seeking sympathy.",
+    "Since this example is providing new information, you could use the particle よ alone, as in 漢字（かんじ）が難（むずか）しいよ. If you did that, it would simply suggest that you're stating how you feel. It's also possible to use the particle ね alone, as in, 漢字（かんじ）が難（むずか）しいね. In that case, it would imply that you assume your friend agrees with you that kanji is difficult.",
+    "Another thing to note is that よね also works with soft orders or refusals, since they're very similar to seeking agreement. For example, let's say you don't want anybody else to know that you're struggling with kanji. To ask your friend to keep it between the two of you, you may say:",
+    "In this sentence, よね highlights that you're making a request, which is new information to your friend, as well as a strong suggestion that your friend agrees to it. You can say the same sentence with only よ, ね, or no particle at all, but よね can actually sound stronger than these other options. Together, よ emphasizes your request, and ね emphasizes your desire that your friend will agree with you.",
+    "It's also noteworthy that you can add neither ね nor よね to strong orders, as ね suggests you and your listener are on the same page and isn't compatible with the harsher feel of demands. You can still use the particle よ because it just highlights the fact that you're making an order and that you want to make it clear to your listener.",
+    "If you'd like to learn more about the differences between よ, ね, and よね, check out our article: よ and ね: What Do These Particles Really Mean to Japanese Speakers?",
+    "If someone says something to you and you want to show agreement, you can repeat whatever they said and add よね to the end. For example, when you shared with your friend that learning kanji is difficult, your friend could agree with you by saying:",
+    "Here, よ emphasizes your friend's feelings towards kanji, and ね shows that they agree with you. As a result, よね makes it sound like your friend is in exactly the same boat as you, and expresses their empathy towards you.",
+    "This might be genuine, or it might simply be a polite gesture. Either way, it still shows their compassion and will hopefully make you feel a bit better about your frustration towards kanji. This is another example of how よね is a very useful communication tool.",
+    "To demonstrate agreement, the particle ね alone works too, as in そうだね。難（むずか）しいね。In this case, however, it lacks that extra emphasis that your friend thinks the same thing. By adding よ, your friend is more actively showcasing their opinion that kanji is difficult. Their response with only ね can still show sympathy, but the effect is usually not as strong, compared to using よね.",
+    "Note that you don't necessarily show empathy when demonstrating agreement. When your listener is not sure about something but you are fairly certain about it, you may confirm the statement by using よね.",
+    "For example, imagine your friend wants to show you a really cool kanji learning app called WaniKani but they can't find their laptop. Your friend starts mumbling and listing the possible places it could be, then says doubtfully, \"Did I put it in my bag?\" It sparks your memory and you answer:",
+    "In this case, よ indicates that you're offering your knowledge of the topic to remind or convince your listener, and ね shows your agreement. ね can also add the nuance that your friend should know about it, or you're confirming it with your friend."
+  ],
+  "examples": [
+    {
+      "japanese": "あ、雨（あめ）が降（ふ）ってる。",
+      "english": "Oh, it's raining."
+    },
+    {
+      "japanese": "あ、雨（あめ）が降（ふ）ってるよね。",
+      "english": "Oh, it's raining, right?"
+    },
+    {
+      "japanese": "食（た）べるよね。",
+      "english": "You'll eat it, right?"
+    },
+    {
+      "japanese": "暑（あつ）いよね。",
+      "english": "It's hot, isn't it?"
+    },
+    {
+      "japanese": "しずかだよね。 しずかですよね。 しずかよね。",
+      "english": "It's quiet, isn't it?"
+    },
+    {
+      "japanese": "犬（いぬ）だよね。 犬（いぬ）ですよね。 犬（いぬ）よね。",
+      "english": "It's a dog, right?"
+    },
+    {
+      "japanese": "犬（いぬ）もだよね。 犬（いぬ）もですよね。 犬（いぬ）もよね。",
+      "english": "Dogs too, right?"
+    },
+    {
+      "japanese": "You: やばい、明日（あした）試験（しけん）だっけ？Your friend: そうだよ。You: [だよね/ですよね]。ああ、どうしよ。",
+      "english": "You: Oh no, is the exam tomorrow?Your friend: That's right.You: Right, right. Oh, what should I do…"
+    },
+    {
+      "japanese": "トーフグのポッドキャストの最新（さいしん）エピソード、もう聴（き）いたよね？",
+      "english": "You've already listened to the latest episode of the Tofugu podcast, right?"
+    },
+    {
+      "japanese": "最近（さいきん）日本語（にほんご）の勉強（べんきょう）始（はじ）めたんだよね？",
+      "english": "You started learning Japanese recently, right?"
+    },
+    {
+      "japanese": "私（わたし）も日本語（にほんご）の勉強（べんきょう）始（はじ）めたの。でも、漢字（かんじ）が難（むずか）しいよね。",
+      "english": "I've also started learning Japanese, yet kanji is difficult, huh?"
+    },
+    {
+      "japanese": "誰（だれ）にも言（い）わないでよね。",
+      "english": "Don't tell anyone, okay?"
+    },
+    {
+      "japanese": "❌ 誰（だれ）にも言（い）うなね。 ❌ 誰（だれ）にも言（い）うなよね。 ⭕ 誰（だれ）にも言（い）うな(よ)。",
+      "english": "Do not tell anyone else!"
+    },
+    {
+      "japanese": "そうだよね。難（むずか）しいよね。",
+      "english": "I agree. It's difficult, huh?"
+    },
+    {
+      "japanese": "あ、うん。確（たし）かさっきカバンの中（なか）に入（い）れたよね。",
+      "english": "Oh, yeah. You put it in your bag a little while ago, didn't you?"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing よね"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "at-the-end-of-sentences",
+      "text": "よね at the End of Sentences"
+    },
+    {
+      "level": 3,
+      "id": "for-confirmation",
+      "text": "よね for Confirmation"
+    },
+    {
+      "level": 3,
+      "id": "for-seeking-agreement",
+      "text": "よね for Seeking Agreement"
+    },
+    {
+      "level": 3,
+      "id": "for-showing-agreement",
+      "text": "よね for Showing Agreement"
+    }
+  ],
+  "id": 30,
+  "slug": "particle-yone",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-yone/",
+  "categories": [
+    "Particle"
+  ]
+}

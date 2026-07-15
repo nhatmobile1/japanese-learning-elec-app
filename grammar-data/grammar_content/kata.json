@@ -1,0 +1,128 @@
+{
+  "title": "〜方（かた）",
+  "description": "〜方（かた） attaches to a verb stem to mean \"way of doing ~\" or \"how to ~.\" The result is a noun: 使（つか）い方（かた） = way of using, how to use.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attach 方（かた） to the ますstem of a verb to turn the action into a noun meaning \"the way/method of doing it.\" 読（よ）む → 読（よ）み方（かた） (way of reading), 作（つく）る → 作（つく）り方（かた） (way of making). The whole thing acts as a normal noun and takes particles like を and が."
+    },
+    {
+      "type": "formula",
+      "japanese": "verb stem ＋ 方（かた）",
+      "english": "way of ~ing / how to ~"
+    },
+    {
+      "type": "example",
+      "japanese": "この漢字（かんじ）の読（よ）み方（かた）が分（わ）かりません。",
+      "english": "I don't know how to read this kanji."
+    },
+    {
+      "type": "example",
+      "japanese": "作（つく）り方（かた）を間違（まちが）えた。",
+      "english": "I made a mistake in the way I prepared it."
+    },
+    {
+      "type": "example",
+      "japanese": "このアプリの使（つか）い方（かた）を教（おし）えてください。",
+      "english": "Please teach me how to use this app."
+    },
+    {
+      "type": "example",
+      "japanese": "電車（でんしゃ）の乗（の）り方（かた）が難（むずか）しい。",
+      "english": "The way to ride the train is difficult."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "suru-verbs",
+      "text": "The Special Form 仕方（しかた）"
+    },
+    {
+      "type": "paragraph",
+      "text": "する has an irregular form: instead of しかた built on the stem, it becomes 仕方（しかた） (way of doing). So a noun ＋ する verb uses 〜の仕方（しかた）: 注文（ちゅうもん）の仕方（しかた） (how to order), 世話（せわ）の仕方（しかた） (how to care for)."
+    },
+    {
+      "type": "example",
+      "japanese": "注文（ちゅうもん）の仕方（しかた）が分（わ）からなかった。",
+      "english": "I didn't know how to order."
+    },
+    {
+      "type": "example",
+      "japanese": "年上（としうえ）の人（ひと）の世話（せわ）の仕方（しかた）を学（まな）びました。",
+      "english": "I learned how to care for elderly people."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember to attach 方（かた） to the stem, not the dictionary form: it is 食（た）べ方（かた）, not 食（た）べる方（かた）. And for する verbs, don't say し方（かた） — use 仕方（しかた). Note that a separate 方（ほう） (read hō) means \"direction/side\" and is unrelated to this かた suffix."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "verb stem ＋ 方（かた）",
+      "english": "way of ~ing / how to ~",
+      "type": "formula"
+    },
+    {
+      "japanese": "この漢字（かんじ）の読（よ）み方（かた）が分（わ）かりません。",
+      "english": "I don't know how to read this kanji."
+    },
+    {
+      "japanese": "作（つく）り方（かた）を間違（まちが）えた。",
+      "english": "I made a mistake in the way I prepared it."
+    },
+    {
+      "japanese": "このアプリの使（つか）い方（かた）を教（おし）えてください。",
+      "english": "Please teach me how to use this app."
+    },
+    {
+      "japanese": "電車（でんしゃ）の乗（の）り方（かた）が難（むずか）しい。",
+      "english": "The way to ride the train is difficult."
+    },
+    {
+      "japanese": "注文（ちゅうもん）の仕方（しかた）が分（わ）からなかった。",
+      "english": "I didn't know how to order."
+    },
+    {
+      "japanese": "年上（としうえ）の人（ひと）の世話（せわ）の仕方（しかた）を学（まな）びました。",
+      "english": "I learned how to care for elderly people."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "suru-verbs",
+      "text": "The Special Form 仕方（しかた）"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1040,
+  "slug": "kata",
+  "categories": [
+    "Suffix",
+    "Verb Form"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

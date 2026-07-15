@@ -1,0 +1,138 @@
+{
+  "title": "〜なければならない・〜なきゃ",
+  "description": "〜なければならない expresses obligation — \"must do\" or \"have to do.\" It literally means \"if you don't do it, it won't do,\" and 〜なきゃ is the everyday casual contraction.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "To say you must do something, take the verb's ない-form, drop the final い, and add ければならない. 行（い）く → 行（い）かない → 行（い）かなければならない (\"have to go\"). The literal meaning is a double negative — \"if you don't go, it won't do\" — which is why it feels a little heavy and formal. In speech, people very often swap ならない for いけない, which is softer."
+    },
+    {
+      "type": "formula",
+      "japanese": "verb ない-form（drop い）＋ ければならない ／ ければいけない",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "もう行（い）かなければならない。",
+      "english": "I have to go now."
+    },
+    {
+      "type": "example",
+      "japanese": "上司（じょうし）に聞（き）かなければいけない。",
+      "english": "I have to ask my boss."
+    },
+    {
+      "type": "example",
+      "japanese": "毎朝（まいあさ）たくさんメールが来（く）るので、全部（ぜんぶ）消（け）さなければいけません。",
+      "english": "I get a lot of emails every morning, so I have to delete them all."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "casual-forms",
+      "text": "Casual Contractions 〜なきゃ・〜なくちゃ"
+    },
+    {
+      "type": "paragraph",
+      "text": "In casual speech, 〜なければ shortens to 〜なきゃ, and 〜なくては shortens to 〜なくちゃ. Often the ならない／いけない at the end is just dropped entirely — 行（い）かなきゃ！ already means \"I gotta go!\" The past tense is 〜なきゃいけなかった (\"had to\")."
+    },
+    {
+      "type": "formula",
+      "japanese": "〜なければ → 〜なきゃ　　〜なくては → 〜なくちゃ",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "家賃（やちん）を払（はら）わなきゃいけなかった。",
+      "english": "I had to pay the rent."
+    },
+    {
+      "type": "example",
+      "japanese": "飛行機（ひこうき）のチケットを予約（よやく）しなきゃ。",
+      "english": "I've gotta book the plane tickets."
+    },
+    {
+      "type": "example",
+      "japanese": "子供（こども）の頃（ころ）、母（はは）とベトナム語（ご）を使（つか）わなきゃいけなかった。",
+      "english": "When I was a kid, I had to speak Vietnamese with my mom."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "naranai-vs-ikenai",
+      "text": "ならない vs いけない"
+    },
+    {
+      "type": "paragraph",
+      "text": "Both endings mean \"must,\" but there's a subtle difference. 〜なければならない tends to describe a general, unavoidable obligation (rules, common sense, things true for everyone) and is common in writing. 〜なければいけない points more at a specific situation the speaker faces right now, and is more frequent in conversation. In casual speech, 〜なきゃ covers both."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "verb ない-form（drop い）＋ ければならない ／ ければいけない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "もう行（い）かなければならない。",
+      "english": "I have to go now."
+    },
+    {
+      "japanese": "上司（じょうし）に聞（き）かなければいけない。",
+      "english": "I have to ask my boss."
+    },
+    {
+      "japanese": "毎朝（まいあさ）たくさんメールが来（く）るので、全部（ぜんぶ）消（け）さなければいけません。",
+      "english": "I get a lot of emails every morning, so I have to delete them all."
+    },
+    {
+      "japanese": "〜なければ → 〜なきゃ　　〜なくては → 〜なくちゃ",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "家賃（やちん）を払（はら）わなきゃいけなかった。",
+      "english": "I had to pay the rent."
+    },
+    {
+      "japanese": "飛行機（ひこうき）のチケットを予約（よやく）しなきゃ。",
+      "english": "I've gotta book the plane tickets."
+    },
+    {
+      "japanese": "子供（こども）の頃（ころ）、母（はは）とベトナム語（ご）を使（つか）わなきゃいけなかった。",
+      "english": "When I was a kid, I had to speak Vietnamese with my mom."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "casual-forms",
+      "text": "Casual Contractions 〜なきゃ・〜なくちゃ"
+    },
+    {
+      "level": 2,
+      "id": "naranai-vs-ikenai",
+      "text": "ならない vs いけない"
+    }
+  ],
+  "id": 1003,
+  "slug": "nakereba-naranai",
+  "categories": [
+    "Verb Form",
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N5"
+}

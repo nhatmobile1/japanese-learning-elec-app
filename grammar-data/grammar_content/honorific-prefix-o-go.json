@@ -1,0 +1,620 @@
+{
+  "title": "Honorific Prefix: 御〜 (お〜・ご〜)",
+  "description": "御（ご） (read as お, ご or おん) is an \"honorific prefix\" that is generally placed before nouns. It adds politeness and shows respect to the person you're addressing.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "御（ご） is an \"honorific prefix,\" which means that it can be attached to the beginning of some words, to add a sense of respect and politeness."
+    },
+    {
+      "type": "paragraph",
+      "text": "御（ご） can be pronounced in a number of different ways, depending on the word that it's attached to. To make it easy to tell which reading is expected in each situation, 御（ご） is generally written in kana, unless the writing is very formal."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the primary function of 御（ご） is to show respect, it's commonly attached to something that belongs to the person you're addressing. This is often a concrete noun, like 車（くるま） (car), or a verbal noun (a word that can be used with する), like あいさつ (greeting). So to show respect to your 社長（しゃちょう） (company president) you can say things like 社長（しゃちょう）の お 車（くるま） (the president's car/your car) or 社長（しゃちょう）の ご あいさつ (the president's greeting speech/your greeting speech)."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, 御（ご） can also be attached to nouns that don't belong to the person you're talking to, such as お水（みず） (water) or ご本（ほん） (book). In this case, the addition of 御（ご） simply makes your speech more elegant."
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no hard-and-fast rule as to which words do and don't use 御（ご）, so to a certain extent, you'll simply need to memorize which ones work with 御（ご）, as well as which reading of 御（ご） to use, if it isn't written in kana. Despite the lack of clear-cut rules, there are general principles which will help you to choose. We'll introduce these principles on this page!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "pattern-of-uses",
+      "text": "Pattern of Uses"
+    },
+    {
+      "type": "paragraph",
+      "text": "御（ご） is a prefix, so it is added to the beginning of words. It's mostly used with nouns, but it can also be used with verb stems, and a handful of adverbs and adjectives, in certain situations."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "with-nouns",
+      "text": "With Nouns:"
+    },
+    {
+      "type": "formula",
+      "japanese": "御（お） + 箸（はし） (chopsticks) = 御（ご）箸（はし） (polite way to say \"chopsticks\")",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "御（お） + 箸（はし） (chopsticks) = 御（ご） 箸（はし） (polite way to say \"chopsticks\")"
+    },
+    {
+      "type": "formula",
+      "japanese": "御（ご） + 家族（かぞく） (family) = 御（ご）家族（かぞく） (respectful way to say \"family\")",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "御（ご） + 家族（かぞく） (family) = 御（ご） 家族（かぞく） (respectful way to say \"family\")"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "with-adverbs",
+      "text": "With Adverbs:"
+    },
+    {
+      "type": "formula",
+      "japanese": "お + 近（ちか）く (near) = お近（ちか）く (polite way to say \"near\")",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "お + 近（ちか）く (near) = お 近（ちか）く (polite way to say \"near\")"
+    },
+    {
+      "type": "formula",
+      "japanese": "ご + ゆっくり (slowly) = ごゆっくり (respectful way to say \"take your time\" or \"enjoy your stay\")",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "ご + ゆっくり (slowly) = ご ゆっくり (respectful way to say \"take your time\" or \"enjoy your stay\")"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "with-adjectives",
+      "text": "With Adjectives:"
+    },
+    {
+      "type": "formula",
+      "japanese": "お + やさしい (kind) = おやさしい (respectful way to say \"kind\")",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "お + やさしい (kind) = お やさしい (respectful way to say \"kind\")"
+    },
+    {
+      "type": "formula",
+      "japanese": "ご + もっとも (reasonable) = ごもっとも (respectful way to say \"you're right\")",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "ご + もっとも (reasonable) = ご もっとも (respectful way to say \"you're right\")"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "with-verbs",
+      "text": "With Verbs:"
+    },
+    {
+      "type": "paragraph",
+      "text": "御（ご） is used with a verb in the pattern お/ご〜する or お〜になる."
+    },
+    {
+      "type": "paragraph",
+      "text": "お/ご + verb stem/verbal noun + する:"
+    },
+    {
+      "type": "formula",
+      "japanese": "お + 預（あず）かり (look after) + する = お預（あず）かりする (respectful expression for \"to look after\")",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "お + 預（あず）かり (look after) + する = お 預（あず）かりする (respectful expression for \"to look after\")"
+    },
+    {
+      "type": "formula",
+      "japanese": "ご + 活躍（かつやく） (be active) + する = ご活躍（かつやく）する (polite expression for \"to be active\")",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "ご + 活躍（かつやく） (be active) + する = ご 活躍（かつやく）する (polite expression for \"to be active\")"
+    },
+    {
+      "type": "formula",
+      "japanese": "お + 食（た）べ (eat) + になる = お食（た）べになる (respectful expression for \"to eat\")",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "お + 食（た）べ (eat) + になる = お 食（た）べになる (respectful expression for \"to eat\")"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section",
+      "text": "お〜"
+    },
+    {
+      "type": "paragraph",
+      "text": "In general, お attaches to nouns that are native Japanese words (wago words), but some words of Chinese origin (kango words) also take お. The words that take お are often related to what you use in daily life, such as food and drinks, or things related to everyday tasks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here are some examples:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Wago Words",
+          "Kango Words"
+        ],
+        [
+          "Food & drink",
+          "おみかん (mandarin orange)お米（べい） (rice)おつまみ (snack to have with a drink)お酒（さけ） (alcohol)お水（みず） (water)",
+          "お野菜（やさい） (vegetable)お肉（にく） (meat)お醤油（しょうゆ） (soy sauce)お茶（ちゃ） (tea)お食事（しょくじ） (meal)"
+        ],
+        [
+          "Everyday items& tasks",
+          "お箸（はし） (chopsticks)お皿（さら） (plate)お金（かね） (money)お手紙（てがみ） (letter)お車（くるま） (car)お片付（かたづ）け (​​tidying up)お買（か）い物（もの） (shopping)",
+          "お勉強（べんきょう） (studying)お掃除（そうじ） (cleaning)お料理（りょうり） (cooking)お洗濯（せんたく） (doing laundry)お電話（でんわ） (telephone call)お化粧（けしょう） (makeup)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "お can also be used with words that refer to a family role. In this case, it's generally combined with a name ender, like さん or ちゃん."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, you can add お and さん to the word 父（ちち） (father), as in お父（とう）さん, to respectfully refer to your or another person's father. In the same way, 母（はは） (mother) can be お母（かあ）さん, 兄（あに） (big brother) can be お兄（にい）さん or お兄（にい）ちゃん, and 姉（あね） (big sister) can be お姉（ねえ）さん or お姉（ねえ）ちゃん. Although, 弟（おとうと） (little brother) and 妹（いもうと） (little sister) never become お弟（おとうと）さん or お妹（いもうと）さん."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why isn't お used for 弟（おとうと） or 妹（いもうと）? Traditionally, you don't show the same level of respect towards someone who is younger. To politely refer to someone else's little brother or sister, you can still add a name ender like 弟（おとうと）さん, 弟君（おとうとくん）, or 妹（いもうと）ちゃん, but お doesn't go with them."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, お is almost always written in hiragana, though you may occasionally see the kanji version in business or formal writing, as using the kanji increases the formality."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you are at a specialist chopsticks store, you may see お箸（はし） (chopsticks) labeled as 御（ご）箸（はし）, as this adds a feeling of formality and elegance. And if you are writing a thank you letter to customers, お礼（れい） (appreciation) may be written 御礼（おれい） as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "平素（へいそ）は 格別（かくべつ）のご 高配（こうはい）を 賜（たまわ）り、 厚（あつ）く 御礼（おれい） 申（もう）し 上（あ）げます。",
+      "english": "We would like to express our sincere gratitude for your continued support."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whoo, what a stiff-looking sentence! If this sentence looks very formal and advanced to you, you have the right instinct. The kanji 御（ご） is generally reserved for very formal writing like this."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section-1",
+      "text": "ご〜"
+    },
+    {
+      "type": "paragraph",
+      "text": "Contrary to お, ご is generally attached to nouns that are of Chinese origin (kango words). These words are often abstract nouns, meaning that they aren't physical objects. Examples of words that take ご include ご住所（じゅうしょ） (address), ご注文（ちゅうもん） (order), and ご結婚（けっこん） (marriage)."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the use of 御（ご） is full of exceptions. As you saw in the previous section, some words of Chinese origin that are related to daily life can also take お. A very small number of words can even take either ご or お, and in this case, the choice comes down to one's personal preference. However, these rules of thumb will help you guess correctly in the majority of cases."
+    },
+    {
+      "type": "paragraph",
+      "text": "ご is also used with a few native Japanese (wago) adverbs and adjectives, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "ごゆっくり！",
+      "english": "Take your time!/Enjoy your stay!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, ご actually adds meaning to the sentence. While ゆっくり！ means \"slowly!\", adding ご makes it more respectful, and transforms it into something like, \"Please take things slowly!\", or more naturally, \"Take your time!\" or \"Enjoy your stay!\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Another example is with the な-adjective もっとも, which means \"reasonable\" or \"convincing\" (not to be confused with 最（もっと）も). Again, attaching ご adds a sense of respect, and makes it clear that the sentence is directed towards the listener, changing the meaning to:"
+    },
+    {
+      "type": "example",
+      "japanese": "ごもっとも！",
+      "english": "You're absolutely right!"
+    },
+    {
+      "type": "paragraph",
+      "text": "While お is almost always written in kana, ご is more commonly written in kanji, unless it's in casual or everyday writing. So you may come across 御（ご）注文（ちゅうもん） (order) instead of ご注文（ちゅうもん） on an order slip at a restaurant in Japan. The kanji version increases the formality, and it's preferable when wanting to show respect to the people you are addressing."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "integrated-words",
+      "text": "Integrated Words"
+    },
+    {
+      "type": "paragraph",
+      "text": "お or ご has become an integral part of some words, such as おにぎり (rice ball), お前（まえ） (you), おはよう (good morning), おなら (fart), ごめん (sorry), and ご飯（はん） (meal/rice). In this case, they can't be removed, and don't add politeness or respect. In fact, お前（まえ） sounds quite rough and can come across as rude in a lot of situations. The other examples simply sound neutral."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "deciding-whether-to-use--or-no-prefix-at-all",
+      "text": "Deciding Whether to Use 御 or No Prefix At All"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since 御（ご） is generally added to show a feeling of respect or politeness towards someone you're addressing, it often isn't used with words that don't belong to the person you're talking to. So, you'll commonly hear お客様（きゃくさま）のお車（くるま） (the customer's car) but you're much less likely to hear お飛行機（ひこうき） (your airplane) or お電車（でんしゃ） (your train) because they're usually not going to be owned by the person you're talking to."
+    },
+    {
+      "type": "paragraph",
+      "text": "御（ご） is also not usually used with katakana words. For example, drinks in Japanese can either be called 飲（の）み物（もの） or ドリンク. However, while you can say お飲（の）み物（もの）, you cannot say おドリンク (unless you're being intentionally playful with the language)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Like most tendencies around the use of 御（ご）, there are lots of exceptions here too. So for example, you can say お船（ふね） (ship) even if it doesn't below to the person you're talking to, and you can say おトイレ despite it being a katakana word, probably because it's become so established that it also falls under everyday words. So as you can see, it's pretty complicated, but knowing these general tendencies will hopefully help you decide whether to add 御（ご） not with the majority of words."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-peoples-names",
+      "text": "お〜 With People's Names"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you saw in some of the earlier examples, お can also be used with words for family members, such as お父（とう）さん or お母（かあ）さん."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, お can also be added before someone's name (often women's first names) to make it a sort of nickname. Calling someone their name with お became common during the Muromachi period (1336-1573), and it was originally used out of politeness and to pay respect to that person. However, in modern Japanese, it's used as a nickname that carries an old-fashioned feel."
+    },
+    {
+      "type": "paragraph",
+      "text": "What comes after お is normally two Japanese syllables, so if the person's name is longer than two syllables, it's generally shortened. For instance, if someone wants to add お to the first name 花子（はなこ）, it's likely to be shortened to 花（はな）, as in お花（はな）. This nickname can also be followed by さん or ちゃん, as in お花（はな）さん or お花（はな）ちゃん to add some more politeness and/or friendliness."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "other-readings",
+      "text": "Other Readings"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-2",
+      "text": "おん〜"
+    },
+    {
+      "type": "paragraph",
+      "text": "In formal spoken Japanese, 御（ご） is pronounced as おん when the word it's attached to is referring to an organization. For example, you can say 御社（おんしゃ） to mean \"your company\" and 御（ご）校（こう） to mean \"your school.\" This is a way to show your respect to the whole organization or the person you are addressing who is a part of the organization. 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "御礼（おれい） is normally read as おれい but can be read as おんれい as well. So, 御礼（おれい） in the earlier example can be read either おれい or おんれい:"
+    },
+    {
+      "type": "example",
+      "japanese": "平素（へいそ）は 格別（かくべつ）のご 高配（こうはい）を 賜（たまわ）り、 厚（あつ）く 御礼（おんれい） 申（もう）し 上（あ）げます。",
+      "english": "We would like to express our sincere gratitude for your continued support."
+    },
+    {
+      "type": "paragraph",
+      "text": "By using the おんれい reading, you can raise the formality even higher, so it may be preferable in very formal contexts, such as an official speech at a ceremonial event."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-3",
+      "text": "み〜"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although it's much less common than the お, ご, or おん readings, the prefix 御（ご） can also be read as み. This reading is specifically used when talking about or to someone who deserves the highest respect. In Japanese culture, that's God, Buddha, the emperor, and members of the imperial family."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, 御（ご）心（こころ） is normally read as おこころ but it's read as みこころ when referring to the 心（こころ） (heart/love) of God, Buddha, or the emperor. In the same way, \"country\" becomes 御国（みくに）, \"name\" becomes 御名（みな）, \"hand\" becomes 御手（みて）, \"face\" becomes 御顔（みかお）, and \"spirit\" becomes 御霊（みたま） when referring to these entities of high respect."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you've read the Bible, books about Shintoism or Buddhism, or classical literature or historical novels that mention the emperor in Japanese, you may still come across words that use the み reading."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-4",
+      "text": "ぎょ〜"
+    },
+    {
+      "type": "paragraph",
+      "text": "When 御（ご） is read as ぎょ, it shows respect to the emperor and his family, whether it's used as a prefix or not. For example, the word 崩御（ほうぎょ） is used only to describe the death of the emperor or a member of his family."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, most words with this reading of 御（ご） are not known by ordinary people who don't have a special interest in the imperial family. There are a few exceptions: words whose meaning has become broader and now extend beyond the emperor and his family."
+    },
+    {
+      "type": "paragraph",
+      "text": "One of these words is 御意（ぎょい）. Originally a word to talk about the will of the emperor, it came to also mean \"as you wish\" and could be used for anyone of a higher status than you. This word is still in use today, though it is a bit old-fashioned and very formal. You're more likely to come across this word in writing. It can sound a little comical if you use it in daily conversation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another example is 御者（ぎょしゃ）. Its original meaning was a coachman who drives a horse-drawn coach or carriage for the emperor and his family. However, it eventually became a general word for \"coachman.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "In formal writing, however, 御（ご） is replaced with 貴（とうと） (き), as in 貴社（きしゃ） (your company), 貴校（きこう） (your school). &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "御（ご） is an \"honorific prefix,\" which means that it can be attached to the beginning of some words, to add a sense of respect and politeness.",
+    "御（ご） can be pronounced in a number of different ways, depending on the word that it's attached to. To make it easy to tell which reading is expected in each situation, 御（ご） is generally written in kana, unless the writing is very formal.",
+    "Since the primary function of 御（ご） is to show respect, it's commonly attached to something that belongs to the person you're addressing. This is often a concrete noun, like 車（くるま） (car), or a verbal noun (a word that can be used with する), like あいさつ (greeting). So to show respect to your 社長（しゃちょう） (company president) you can say things like 社長（しゃちょう）の お 車（くるま） (the president's car/your car) or 社長（しゃちょう）の ご あいさつ (the president's greeting speech/your greeting speech).",
+    "However, 御（ご） can also be attached to nouns that don't belong to the person you're talking to, such as お水（みず） (water) or ご本（ほん） (book). In this case, the addition of 御（ご） simply makes your speech more elegant.",
+    "There is no hard-and-fast rule as to which words do and don't use 御（ご）, so to a certain extent, you'll simply need to memorize which ones work with 御（ご）, as well as which reading of 御（ご） to use, if it isn't written in kana. Despite the lack of clear-cut rules, there are general principles which will help you to choose. We'll introduce these principles on this page!",
+    "御（ご） is a prefix, so it is added to the beginning of words. It's mostly used with nouns, but it can also be used with verb stems, and a handful of adverbs and adjectives, in certain situations.",
+    "御（お） + 箸（はし） (chopsticks) = 御（ご） 箸（はし） (polite way to say \"chopsticks\")",
+    "御（ご） + 家族（かぞく） (family) = 御（ご） 家族（かぞく） (respectful way to say \"family\")",
+    "お + 近（ちか）く (near) = お 近（ちか）く (polite way to say \"near\")",
+    "ご + ゆっくり (slowly) = ご ゆっくり (respectful way to say \"take your time\" or \"enjoy your stay\")",
+    "お + やさしい (kind) = お やさしい (respectful way to say \"kind\")",
+    "ご + もっとも (reasonable) = ご もっとも (respectful way to say \"you're right\")",
+    "御（ご） is used with a verb in the pattern お/ご〜する or お〜になる.",
+    "お/ご + verb stem/verbal noun + する:",
+    "お + 預（あず）かり (look after) + する = お 預（あず）かりする (respectful expression for \"to look after\")",
+    "ご + 活躍（かつやく） (be active) + する = ご 活躍（かつやく）する (polite expression for \"to be active\")",
+    "お + 食（た）べ (eat) + になる = お 食（た）べになる (respectful expression for \"to eat\")",
+    "In general, お attaches to nouns that are native Japanese words (wago words), but some words of Chinese origin (kango words) also take お. The words that take お are often related to what you use in daily life, such as food and drinks, or things related to everyday tasks.",
+    "Here are some examples:",
+    "お can also be used with words that refer to a family role. In this case, it's generally combined with a name ender, like さん or ちゃん.",
+    "For example, you can add お and さん to the word 父（ちち） (father), as in お父（とう）さん, to respectfully refer to your or another person's father. In the same way, 母（はは） (mother) can be お母（かあ）さん, 兄（あに） (big brother) can be お兄（にい）さん or お兄（にい）ちゃん, and 姉（あね） (big sister) can be お姉（ねえ）さん or お姉（ねえ）ちゃん. Although, 弟（おとうと） (little brother) and 妹（いもうと） (little sister) never become お弟（おとうと）さん or お妹（いもうと）さん.",
+    "Why isn't お used for 弟（おとうと） or 妹（いもうと）? Traditionally, you don't show the same level of respect towards someone who is younger. To politely refer to someone else's little brother or sister, you can still add a name ender like 弟（おとうと）さん, 弟君（おとうとくん）, or 妹（いもうと）ちゃん, but お doesn't go with them.",
+    "As you can see, お is almost always written in hiragana, though you may occasionally see the kanji version in business or formal writing, as using the kanji increases the formality.",
+    "For example, if you are at a specialist chopsticks store, you may see お箸（はし） (chopsticks) labeled as 御（ご）箸（はし）, as this adds a feeling of formality and elegance. And if you are writing a thank you letter to customers, お礼（れい） (appreciation) may be written 御礼（おれい） as in:",
+    "Whoo, what a stiff-looking sentence! If this sentence looks very formal and advanced to you, you have the right instinct. The kanji 御（ご） is generally reserved for very formal writing like this.",
+    "Contrary to お, ご is generally attached to nouns that are of Chinese origin (kango words). These words are often abstract nouns, meaning that they aren't physical objects. Examples of words that take ご include ご住所（じゅうしょ） (address), ご注文（ちゅうもん） (order), and ご結婚（けっこん） (marriage).",
+    "However, the use of 御（ご） is full of exceptions. As you saw in the previous section, some words of Chinese origin that are related to daily life can also take お. A very small number of words can even take either ご or お, and in this case, the choice comes down to one's personal preference. However, these rules of thumb will help you guess correctly in the majority of cases.",
+    "ご is also used with a few native Japanese (wago) adverbs and adjectives, like:",
+    "In this example, ご actually adds meaning to the sentence. While ゆっくり！ means \"slowly!\", adding ご makes it more respectful, and transforms it into something like, \"Please take things slowly!\", or more naturally, \"Take your time!\" or \"Enjoy your stay!\"",
+    "Another example is with the な-adjective もっとも, which means \"reasonable\" or \"convincing\" (not to be confused with 最（もっと）も). Again, attaching ご adds a sense of respect, and makes it clear that the sentence is directed towards the listener, changing the meaning to:",
+    "While お is almost always written in kana, ご is more commonly written in kanji, unless it's in casual or everyday writing. So you may come across 御（ご）注文（ちゅうもん） (order) instead of ご注文（ちゅうもん） on an order slip at a restaurant in Japan. The kanji version increases the formality, and it's preferable when wanting to show respect to the people you are addressing.",
+    "お or ご has become an integral part of some words, such as おにぎり (rice ball), お前（まえ） (you), おはよう (good morning), おなら (fart), ごめん (sorry), and ご飯（はん） (meal/rice). In this case, they can't be removed, and don't add politeness or respect. In fact, お前（まえ） sounds quite rough and can come across as rude in a lot of situations. The other examples simply sound neutral.",
+    "Since 御（ご） is generally added to show a feeling of respect or politeness towards someone you're addressing, it often isn't used with words that don't belong to the person you're talking to. So, you'll commonly hear お客様（きゃくさま）のお車（くるま） (the customer's car) but you're much less likely to hear お飛行機（ひこうき） (your airplane) or お電車（でんしゃ） (your train) because they're usually not going to be owned by the person you're talking to.",
+    "御（ご） is also not usually used with katakana words. For example, drinks in Japanese can either be called 飲（の）み物（もの） or ドリンク. However, while you can say お飲（の）み物（もの）, you cannot say おドリンク (unless you're being intentionally playful with the language).",
+    "Like most tendencies around the use of 御（ご）, there are lots of exceptions here too. So for example, you can say お船（ふね） (ship) even if it doesn't below to the person you're talking to, and you can say おトイレ despite it being a katakana word, probably because it's become so established that it also falls under everyday words. So as you can see, it's pretty complicated, but knowing these general tendencies will hopefully help you decide whether to add 御（ご） not with the majority of words.",
+    "As you saw in some of the earlier examples, お can also be used with words for family members, such as お父（とう）さん or お母（かあ）さん.",
+    "In the same way, お can also be added before someone's name (often women's first names) to make it a sort of nickname. Calling someone their name with お became common during the Muromachi period (1336-1573), and it was originally used out of politeness and to pay respect to that person. However, in modern Japanese, it's used as a nickname that carries an old-fashioned feel.",
+    "What comes after お is normally two Japanese syllables, so if the person's name is longer than two syllables, it's generally shortened. For instance, if someone wants to add お to the first name 花子（はなこ）, it's likely to be shortened to 花（はな）, as in お花（はな）. This nickname can also be followed by さん or ちゃん, as in お花（はな）さん or お花（はな）ちゃん to add some more politeness and/or friendliness.",
+    "In formal spoken Japanese, 御（ご） is pronounced as おん when the word it's attached to is referring to an organization. For example, you can say 御社（おんしゃ） to mean \"your company\" and 御（ご）校（こう） to mean \"your school.\" This is a way to show your respect to the whole organization or the person you are addressing who is a part of the organization. 1",
+    "御礼（おれい） is normally read as おれい but can be read as おんれい as well. So, 御礼（おれい） in the earlier example can be read either おれい or おんれい:",
+    "By using the おんれい reading, you can raise the formality even higher, so it may be preferable in very formal contexts, such as an official speech at a ceremonial event.",
+    "Although it's much less common than the お, ご, or おん readings, the prefix 御（ご） can also be read as み. This reading is specifically used when talking about or to someone who deserves the highest respect. In Japanese culture, that's God, Buddha, the emperor, and members of the imperial family.",
+    "For example, 御（ご）心（こころ） is normally read as おこころ but it's read as みこころ when referring to the 心（こころ） (heart/love) of God, Buddha, or the emperor. In the same way, \"country\" becomes 御国（みくに）, \"name\" becomes 御名（みな）, \"hand\" becomes 御手（みて）, \"face\" becomes 御顔（みかお）, and \"spirit\" becomes 御霊（みたま） when referring to these entities of high respect.",
+    "If you've read the Bible, books about Shintoism or Buddhism, or classical literature or historical novels that mention the emperor in Japanese, you may still come across words that use the み reading.",
+    "When 御（ご） is read as ぎょ, it shows respect to the emperor and his family, whether it's used as a prefix or not. For example, the word 崩御（ほうぎょ） is used only to describe the death of the emperor or a member of his family.",
+    "However, most words with this reading of 御（ご） are not known by ordinary people who don't have a special interest in the imperial family. There are a few exceptions: words whose meaning has become broader and now extend beyond the emperor and his family.",
+    "One of these words is 御意（ぎょい）. Originally a word to talk about the will of the emperor, it came to also mean \"as you wish\" and could be used for anyone of a higher status than you. This word is still in use today, though it is a bit old-fashioned and very formal. You're more likely to come across this word in writing. It can sound a little comical if you use it in daily conversation.",
+    "Another example is 御者（ぎょしゃ）. Its original meaning was a coachman who drives a horse-drawn coach or carriage for the emperor and his family. However, it eventually became a general word for \"coachman.\"",
+    "In formal writing, however, 御（ご） is replaced with 貴（とうと） (き), as in 貴社（きしゃ） (your company), 貴校（きこう） (your school). &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "平素（へいそ）は 格別（かくべつ）のご 高配（こうはい）を 賜（たまわ）り、 厚（あつ）く 御礼（おれい） 申（もう）し 上（あ）げます。",
+      "english": "We would like to express our sincere gratitude for your continued support."
+    },
+    {
+      "japanese": "ごゆっくり！",
+      "english": "Take your time!/Enjoy your stay!"
+    },
+    {
+      "japanese": "ごもっとも！",
+      "english": "You're absolutely right!"
+    },
+    {
+      "japanese": "平素（へいそ）は 格別（かくべつ）のご 高配（こうはい）を 賜（たまわ）り、 厚（あつ）く 御礼（おんれい） 申（もう）し 上（あ）げます。",
+      "english": "We would like to express our sincere gratitude for your continued support."
+    },
+    {
+      "japanese": "御（お） + 箸（はし） (chopsticks) = 御（ご）箸（はし） (polite way to say \"chopsticks\")",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "御（ご） + 家族（かぞく） (family) = 御（ご）家族（かぞく） (respectful way to say \"family\")",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "お + 近（ちか）く (near) = お近（ちか）く (polite way to say \"near\")",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "ご + ゆっくり (slowly) = ごゆっくり (respectful way to say \"take your time\" or \"enjoy your stay\")",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "お + やさしい (kind) = おやさしい (respectful way to say \"kind\")",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "ご + もっとも (reasonable) = ごもっとも (respectful way to say \"you're right\")",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "お + 預（あず）かり (look after) + する = お預（あず）かりする (respectful expression for \"to look after\")",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "ご + 活躍（かつやく） (be active) + する = ご活躍（かつやく）する (polite expression for \"to be active\")",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "お + 食（た）べ (eat) + になる = お食（た）べになる (respectful expression for \"to eat\")",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Wago Words",
+        "Kango Words"
+      ],
+      [
+        "Food & drink",
+        "おみかん (mandarin orange)お米（べい） (rice)おつまみ (snack to have with a drink)お酒（さけ） (alcohol)お水（みず） (water)",
+        "お野菜（やさい） (vegetable)お肉（にく） (meat)お醤油（しょうゆ） (soy sauce)お茶（ちゃ） (tea)お食事（しょくじ） (meal)"
+      ],
+      [
+        "Everyday items& tasks",
+        "お箸（はし） (chopsticks)お皿（さら） (plate)お金（かね） (money)お手紙（てがみ） (letter)お車（くるま） (car)お片付（かたづ）け (​​tidying up)お買（か）い物（もの） (shopping)",
+        "お勉強（べんきょう） (studying)お掃除（そうじ） (cleaning)お料理（りょうり） (cooking)お洗濯（せんたく） (doing laundry)お電話（でんわ） (telephone call)お化粧（けしょう） (makeup)"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "pattern-of-uses",
+      "text": "Pattern of Uses"
+    },
+    {
+      "level": 4,
+      "id": "with-nouns",
+      "text": "With Nouns:"
+    },
+    {
+      "level": 4,
+      "id": "with-adverbs",
+      "text": "With Adverbs:"
+    },
+    {
+      "level": 4,
+      "id": "with-adjectives",
+      "text": "With Adjectives:"
+    },
+    {
+      "level": 4,
+      "id": "with-verbs",
+      "text": "With Verbs:"
+    },
+    {
+      "level": 3,
+      "id": "section",
+      "text": "お〜"
+    },
+    {
+      "level": 3,
+      "id": "section-1",
+      "text": "ご〜"
+    },
+    {
+      "level": 3,
+      "id": "integrated-words",
+      "text": "Integrated Words"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "deciding-whether-to-use--or-no-prefix-at-all",
+      "text": "Deciding Whether to Use 御 or No Prefix At All"
+    },
+    {
+      "level": 3,
+      "id": "with-peoples-names",
+      "text": "お〜 With People's Names"
+    },
+    {
+      "level": 3,
+      "id": "other-readings",
+      "text": "Other Readings"
+    },
+    {
+      "level": 4,
+      "id": "section-2",
+      "text": "おん〜"
+    },
+    {
+      "level": 4,
+      "id": "section-3",
+      "text": "み〜"
+    },
+    {
+      "level": 4,
+      "id": "section-4",
+      "text": "ぎょ〜"
+    }
+  ],
+  "id": 11,
+  "slug": "honorific-prefix-o-go",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/honorific-prefix-o-go/",
+  "categories": [
+    "Honorific",
+    "Prefix"
+  ]
+}

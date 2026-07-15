@@ -1,0 +1,145 @@
+{
+  "title": "い-Adjective く Form",
+  "description": "This page teaches you how to put an adjective into the くform and provides basics of its three usages.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜く is one possible ending that an い-adjective can take. In traditional Japanese grammar, it is called the 連用形（れんようけい）, or the “continuative form,” because it allows い-adjectives to “continue” on and connect to other elements, forming new words and meanings. For example, the く form is the first step when putting an い-adjective into both its て form and its negative form ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜く"
+    },
+    {
+      "type": "paragraph",
+      "text": "Conjugating い-adjectives into the く Form is very simple: remove the 〜い to find the stem form , and then replace that ending with 〜く."
+    },
+    {
+      "type": "formula",
+      "japanese": "速（はや）い + く = 速（はや）く",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "As usual, though, bear in mind that when you’re conjugating いい (good), its stem form is よ ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "uses",
+      "text": "Uses"
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to its use as the continuative, い-adjectives in their く form can be used on their own in a variety of different ways."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-an-adverb",
+      "text": "As an Adverb"
+    },
+    {
+      "type": "paragraph",
+      "text": "The く form allows an い-adjective to be used as an adverb . While adjectives describe the quality of a noun, adverbs allow us to describe verbs. In other words, adverbs tell us about how an action is done. This is very similar to how English adjectives (like happy) are turned into adverbs by adding -ly (like happily)."
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）らは楽（たの）しく暮（く）らしていました。",
+      "english": "They lived happily."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-a-linking-device",
+      "text": "As a Linking Device"
+    },
+    {
+      "type": "paragraph",
+      "text": "The く form can also be used to link い-adjectives together. This is nearly identical to the 〜くて ending for い-adjectives, however 〜く gives a more formal and literary nuance. For this reason, you’ll mostly see words and clauses linked together with 〜く in writing."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-nouns-of-time-or-location",
+      "text": "As Nouns of Time or Location"
+    },
+    {
+      "type": "paragraph",
+      "text": "The く form can be used to change い-adjectives into nouns . However, the number of adjectives that can be used in this way is very limited in Japanese. Apart from 多（おお）い, only い-adjectives that describe characteristics of time or place can turn into く nouns."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜く is one possible ending that an い-adjective can take. In traditional Japanese grammar, it is called the 連用形（れんようけい）, or the “continuative form,” because it allows い-adjectives to “continue” on and connect to other elements, forming new words and meanings. For example, the く form is the first step when putting an い-adjective into both its て form and its negative form .",
+    "Conjugating い-adjectives into the く Form is very simple: remove the 〜い to find the stem form , and then replace that ending with 〜く.",
+    "As usual, though, bear in mind that when you’re conjugating いい (good), its stem form is よ .",
+    "In addition to its use as the continuative, い-adjectives in their く form can be used on their own in a variety of different ways.",
+    "The く form allows an い-adjective to be used as an adverb . While adjectives describe the quality of a noun, adverbs allow us to describe verbs. In other words, adverbs tell us about how an action is done. This is very similar to how English adjectives (like happy) are turned into adverbs by adding -ly (like happily).",
+    "The く form can also be used to link い-adjectives together. This is nearly identical to the 〜くて ending for い-adjectives, however 〜く gives a more formal and literary nuance. For this reason, you’ll mostly see words and clauses linked together with 〜く in writing.",
+    "The く form can be used to change い-adjectives into nouns . However, the number of adjectives that can be used in this way is very limited in Japanese. Apart from 多（おお）い, only い-adjectives that describe characteristics of time or place can turn into く nouns."
+  ],
+  "examples": [
+    {
+      "japanese": "彼（かれ）らは楽（たの）しく暮（く）らしていました。",
+      "english": "They lived happily."
+    },
+    {
+      "japanese": "速（はや）い + く = 速（はや）く",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜く"
+    },
+    {
+      "level": 2,
+      "id": "uses",
+      "text": "Uses"
+    },
+    {
+      "level": 3,
+      "id": "as-an-adverb",
+      "text": "As an Adverb"
+    },
+    {
+      "level": 3,
+      "id": "as-a-linking-device",
+      "text": "As a Linking Device"
+    },
+    {
+      "level": 3,
+      "id": "as-nouns-of-time-or-location",
+      "text": "As Nouns of Time or Location"
+    }
+  ],
+  "id": 85,
+  "slug": "i-adjective-ku-form",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/i-adjective-ku-form/",
+  "categories": [
+    "Adjective Form"
+  ]
+}

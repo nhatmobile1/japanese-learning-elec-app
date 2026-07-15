@@ -1,0 +1,731 @@
+{
+  "title": "First-Person Pronouns",
+  "description": "First-person pronouns are words that a speaker or a writer uses when they refer to themselves, like \"I\" or \"we\" in English.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "A first-person pronoun is a type of personal pronoun that a speaker or a writer uses when they refer to themselves. For example, if you want to talk about yourself, you'd use a first-person pronoun."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）はベーコンが好（す）きです。",
+      "english": "I like bacon."
+    },
+    {
+      "type": "paragraph",
+      "text": "There's a huge variety of first-person pronouns in Japanese. Each carries different connotations of formality, casualness, femininity, masculinity, and so on. Most speakers don't stick with one pronoun for their whole life, or even a whole day — they use different pronouns depending on how they want to present themselves in a given context."
+    },
+    {
+      "type": "paragraph",
+      "text": "This page covers the first-person pronouns that are used most commonly used in modern, real-life situations, especially in the Tokyo area — because there are regional differences too! If you're interested in going into more depth, check out our article Japanese First-Person Pronouns: わたし, ぼく, おれ, and A Whole Lot More . In the article, we also cover first-person pronouns that you might not hear in person, but could run into in creative writing or pop culture!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section",
+      "text": "私 (わたし/わたくし)"
+    },
+    {
+      "type": "paragraph",
+      "text": "わたし is quite a common first-person pronoun as it's used regardless of gender, and both in casual and formal situations."
+    },
+    {
+      "type": "paragraph",
+      "text": "In casual situations, like when used between family and friends, わたし has strong feminine associations, and is often used by women."
+    },
+    {
+      "type": "example",
+      "japanese": "わたし、明日（あした）は行（い）けないんだ。ごめんね。",
+      "english": "I can't go tomorrow. Sorry."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, in formal situations, わたし is gender-neutral, and widely used regardless of gender or age."
+    },
+    {
+      "type": "example",
+      "japanese": "わたし、明日（あした）は行（い）けないんです。本当（ほんとう）に、すみません。",
+      "english": "I'm afraid I can't make it tomorrow. I'm very sorry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because of this flexibility in terms of gender and formality, わたし is used in many Japanese textbooks right off the bat as the equivalent of \"I.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "わたくし, which shares the same kanji, 私（わたし）, is a more formal, and even rather stiff, version of わたし."
+    },
+    {
+      "type": "example",
+      "japanese": "わたくし、明日（あした）は伺（うかが）えないんです。大変（たいへん）、申（もう）し訳（わけ）ございません。",
+      "english": "I'm afraid I won't be able to make it tomorrow. I am terribly sorry."
+    },
+    {
+      "type": "paragraph",
+      "text": "It also has a certain elegant, sophisticated feel to it — you can imagine a princess and her servants using it, or perhaps the butler of a mansion."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section-1",
+      "text": "僕 (ぼく)"
+    },
+    {
+      "type": "paragraph",
+      "text": "僕（ぼく） is a first-person pronoun often associated with male speakers. It has earnest, polite, cultured connotations which are similar to those of the second-person pronoun 君（きみ） . Overall, 僕（ぼく） has a softer, less aggressive feel than 俺（おれ） , another common pronoun with masculine connotations."
+    },
+    {
+      "type": "example",
+      "japanese": "それ、僕（ぼく）の本（ほん）かな？",
+      "english": "Is that my book?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although it's commonly used by adult men, 僕（ぼく） is also seen stereotypically as a pronoun for little boys, as it's traditionally the \"first\" first-person pronoun they're taught to use. For this reason, it's also used for development in fiction to depict adult \"mama's boys.\""
+    },
+    {
+      "type": "example",
+      "japanese": "僕（ぼく）は将来（しょうらい）、サッカー選手（せんしゅ）になりたいです。",
+      "english": "I want to be a soccer player in the future."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section-2",
+      "text": "俺 (おれ)"
+    },
+    {
+      "type": "paragraph",
+      "text": "俺（おれ） is a first-person pronoun with a strong masculine feel. It sounds \"manly\" and less gentle than 僕（ぼく） . 俺（おれ） is also a pretty casual pronoun and can be seen as vulgar, especially when used in formal situations. In order to use 俺（おれ） naturally, the speech style also needs to match the manliness of 俺（おれ）. For this reason, it can be quite difficult to master, especially for beginners."
+    },
+    {
+      "type": "example",
+      "japanese": "俺（おれ）と飯（めし）食（ぐ）いに行（い）かない？",
+      "english": "Do you wanna go grab some food with me?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some pronouns can take name-ending suffixes, and 俺（おれ） has a few variations with suffixes. For example, 俺（おれ）様（さま） is a combination of 俺（おれ） and 様（さま）, which is an honorific name ender . It's quite arrogant and egotistic to use 様（さま） for yourself! So with 様（さま）, the masculine, aggressive vibe of 俺（おれ） is emphasized, and it becomes almost macho or sassy."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section-3",
+      "text": "うち"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although うち is rarely spotted in textbooks, this casual first-person pronoun with origins in the Kansai region has become popular with young people nationally."
+    },
+    {
+      "type": "paragraph",
+      "text": "Outside of the Kansai area, it sounds somewhat feminine as it's particularly popular with young female speakers, including high school girls."
+    },
+    {
+      "type": "example",
+      "japanese": "うちら、最（さい）近海（きんかい）行（い）ってなくない？",
+      "english": "We haven't been to the beach lately, have we?"
+    },
+    {
+      "type": "paragraph",
+      "text": "As the origin of the word — \"inside\" — suggests, うち also carries a feeling of unity, especially when used in its plural form, うちら."
+    },
+    {
+      "type": "example",
+      "japanese": "うちらの先生（せんせい）、めっちゃうざいよね。",
+      "english": "Our teacher is so annoying, right?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "plural-forms-of-first-person-pronouns",
+      "text": "Plural Forms of First-Person Pronouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "We introduced different ways to say \"I\" in Japanese, and now you might be wondering how to say \"we,\" in the plural. In Japanese, we use suffixes to pluralize nouns used for people, including personal pronouns, rather than having plural forms of nouns."
+    },
+    {
+      "type": "paragraph",
+      "text": "〜達（たち） (たち), 〜等（ら） (ら), 〜方（かた） (がた) and 〜供（ども） (ども) are common plural suffixes, and they all carry different nuances, mainly the level of formality. It sounds simple, but keep in mind that the polite/rude dynamic changes according to whether you are referring to yourself or to others."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, 〜方（かた） is generally considered to be a polite way to refer to others, but since it's an honorific way of doing so, using it with first-person pronouns doesn't make much sense. It's like you're honoring yourself, and that isn't considered polite in Japanese. Similarly, 〜供（ども） is usually considered to be a derogatory way of referring to others, but with first-person pronouns, it is used to speak about yourself with humility. Thus, it is a polite way to present yourself or your company."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way that 〜方（かた） is not used with first-person pronouns, some pronouns don't go as well as others with specific suffixes. It could be a mismatch of politeness, but it could also be how they sound together when they're paired up. For example, うち collocates with ら the most because that's the easiest combination to say out loud."
+    },
+    {
+      "type": "paragraph",
+      "text": "To give you a clearer picture, below is a mix-and-match chart of common pronouns and suffixes!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: △ shows that the combination works okay, but isn't very common. ✖️ shows that the combination is rarely used."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Honorific",
+          "Casual",
+          "Neutral",
+          "Polite (Humble)"
+        ],
+        [
+          "方（がた）",
+          "等（ら）",
+          "達（たち）",
+          "供（ども）"
+        ],
+        [
+          "私（わたし）",
+          "✖️",
+          "私（わたし）ら",
+          "私（わたし）たち",
+          "私（わたし）ども"
+        ],
+        [
+          "私（わたくし）",
+          "✖️",
+          "✖️",
+          "私（わたくし）たち",
+          "私（わたくし）ども"
+        ],
+        [
+          "僕（ぼく）",
+          "✖️",
+          "僕（ぼく）ら",
+          "僕（ぼく）たち",
+          "僕（ぼく）ども"
+        ],
+        [
+          "俺（おれ）",
+          "✖️",
+          "俺（おれ）ら",
+          "俺（おれ）たち",
+          "△"
+        ],
+        [
+          "うち",
+          "✖️",
+          "うちら",
+          "△",
+          "✖️"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "first-person-pronouns-and-particles",
+      "text": "First-Person Pronouns and Particles"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see from examples we've used on this page, Japanese pronouns do not change form. This is quite different from English, where \"I\" becomes \"my\" or \"me\" depending on its grammatical role."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reason is that Japanese pronouns are basically no different from regular nouns. In Japanese, it is particles, and not the pronouns themselves, that indicate the grammatical role a pronoun plays in a sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, to say \"my\" in Japanese, you use a first-person pronoun and the particle の, which shows that the noun that's immediately before it is in the possessive form."
+    },
+    {
+      "type": "formula",
+      "japanese": "First-Person Pronoun + の",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "First-Person Pronoun + の"
+    },
+    {
+      "type": "paragraph",
+      "text": "So if you use 私（わたし） to say \"my,\" it's going to look like:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）の",
+      "english": "my"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are many more possible combinations of first-person pronouns and particles, but here's a short list of major ones to give you an idea!"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Subject",
+          "Topic",
+          "Possessive",
+          "Object"
+        ],
+        [
+          "I",
+          "I / as for me",
+          "my / mine",
+          "me"
+        ],
+        [
+          "僕（ぼく）が",
+          "僕（ぼく）は",
+          "僕（ぼく）の",
+          "僕（ぼく）を"
+        ],
+        [
+          "俺（おれ）が",
+          "俺（おれ）は",
+          "俺（おれ）の",
+          "俺（おれ）を"
+        ],
+        [
+          "うちが",
+          "うちは",
+          "うちの",
+          "うちを"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "first-person-pronouns-can-be-omitted",
+      "text": "First-Person Pronouns Can Be Omitted"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep in mind that pronouns (or rather, subjects and objects in general) are often omitted in Japanese, whereas in English they are usually essential elements in sentences."
+    },
+    {
+      "type": "example",
+      "japanese": "(私（わたし）は)ベーコンが好（す）きです。",
+      "english": "(I) like bacon."
+    },
+    {
+      "type": "paragraph",
+      "text": "The above example works fine without the first person pronoun part — 私（わたし）は."
+    },
+    {
+      "type": "paragraph",
+      "text": "If someone says ベーコンが好（す）きです, it's natural to assume that it's about the speaker themselves, as in \"I like bacon,\" unless this was in the flow of conversation about someone else or something else. In this way, first-person pronouns can often be omitted in Japanese, unless you want to clarify that what you're saying is about yourself or comes from your point of view, or you want to change topics."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "first-person-pronouns-and-gender-expression",
+      "text": "First-Person Pronouns and Gender Expression"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many first-person pronouns carry gender nuances because of the associations accumulated through actual use. For example, 俺（おれ） has a strong masculine association. However, it's not accurate to say that 俺（おれ） is only for men."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even beyond dialectal differences (for example, 俺（おれ） is used by women in the Tohoku area) and use in LGBTQ community, there are more first-person pronoun uses that defy gender stereotypes these days."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, especially if you're fond of anime or video games, you might have noticed that some female characters are portrayed as \"masculine\" and use 俺（おれ） or 僕（ぼく）. And, perhaps in part because of these influences, some people make choices beyond the stereotypical use of first-person pronouns. Others do it to distance themselves from associations with stereotypical gender roles."
+    },
+    {
+      "type": "paragraph",
+      "text": "While reasons and motivations may vary, the use of first-person pronouns — and the Japanese language in general — is changing, sometimes beyond traditional gender stereotypes."
+    },
+    {
+      "type": "paragraph",
+      "text": "To learn more about these changes, check out our article Beyond the Binary: A Queer Take on Gendered Japanese and our podcast episode about First-Person Pronouns: When Female Speakers Use 僕（ぼく） or 俺（おれ） ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Vocabulary"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "ベーコン (べーこん) — bacon (noun)"
+        ],
+        [
+          "明日（あした） (あした) — tomorrow (noun)"
+        ],
+        [
+          "行（い）けない (いけない) — can't go (godan verb / negative potential form / non-past tense)"
+        ],
+        [
+          "本当（ほんとう）に (ほんとうに) — really (adverb)"
+        ],
+        [
+          "伺（うかが）えない (うかがえない) — can't visit (godan verb / polite negative potential form / non-past tense)"
+        ],
+        [
+          "大変（たいへん） (たいへん) — very (adverb)"
+        ],
+        [
+          "申（もう）し訳（わけ）ございません (もうしわけございません) — sorry (expression)"
+        ],
+        [
+          "本（ほん） (ほん) — book (noun)"
+        ],
+        [
+          "将来（しょうらい） (しょうらい) — future (noun)"
+        ],
+        [
+          "サッカー選手（せんしゅ） (さっかーせんしゅ) — soccer player (noun)"
+        ],
+        [
+          "飯（めし） (めし) — food, meal (noun)"
+        ],
+        [
+          "食（く）い (くい) — to eat (godan verb / stem form)"
+        ],
+        [
+          "最近（さいきん） (さいきん) — lately (noun)"
+        ],
+        [
+          "海（うみ） (うみ) — beach, ocean (noun)"
+        ],
+        [
+          "先生（せんせい） (せんせい) — teacher, sensei (noun)"
+        ],
+        [
+          "めっちゃ (めっちゃ) — very (adverb)"
+        ],
+        [
+          "うざい (うざい) — annoying (い-adjective)"
+        ],
+        [
+          "好（す）き (すき) — to like, favorite (な-adjective)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "A first-person pronoun is a type of personal pronoun that a speaker or a writer uses when they refer to themselves. For example, if you want to talk about yourself, you'd use a first-person pronoun.",
+    "There's a huge variety of first-person pronouns in Japanese. Each carries different connotations of formality, casualness, femininity, masculinity, and so on. Most speakers don't stick with one pronoun for their whole life, or even a whole day — they use different pronouns depending on how they want to present themselves in a given context.",
+    "This page covers the first-person pronouns that are used most commonly used in modern, real-life situations, especially in the Tokyo area — because there are regional differences too! If you're interested in going into more depth, check out our article Japanese First-Person Pronouns: わたし, ぼく, おれ, and A Whole Lot More . In the article, we also cover first-person pronouns that you might not hear in person, but could run into in creative writing or pop culture!",
+    "わたし is quite a common first-person pronoun as it's used regardless of gender, and both in casual and formal situations.",
+    "In casual situations, like when used between family and friends, わたし has strong feminine associations, and is often used by women.",
+    "However, in formal situations, わたし is gender-neutral, and widely used regardless of gender or age.",
+    "Because of this flexibility in terms of gender and formality, わたし is used in many Japanese textbooks right off the bat as the equivalent of \"I.\"",
+    "わたくし, which shares the same kanji, 私（わたし）, is a more formal, and even rather stiff, version of わたし.",
+    "It also has a certain elegant, sophisticated feel to it — you can imagine a princess and her servants using it, or perhaps the butler of a mansion.",
+    "僕（ぼく） is a first-person pronoun often associated with male speakers. It has earnest, polite, cultured connotations which are similar to those of the second-person pronoun 君（きみ） . Overall, 僕（ぼく） has a softer, less aggressive feel than 俺（おれ） , another common pronoun with masculine connotations.",
+    "Although it's commonly used by adult men, 僕（ぼく） is also seen stereotypically as a pronoun for little boys, as it's traditionally the \"first\" first-person pronoun they're taught to use. For this reason, it's also used for development in fiction to depict adult \"mama's boys.\"",
+    "俺（おれ） is a first-person pronoun with a strong masculine feel. It sounds \"manly\" and less gentle than 僕（ぼく） . 俺（おれ） is also a pretty casual pronoun and can be seen as vulgar, especially when used in formal situations. In order to use 俺（おれ） naturally, the speech style also needs to match the manliness of 俺（おれ）. For this reason, it can be quite difficult to master, especially for beginners.",
+    "Some pronouns can take name-ending suffixes, and 俺（おれ） has a few variations with suffixes. For example, 俺（おれ）様（さま） is a combination of 俺（おれ） and 様（さま）, which is an honorific name ender . It's quite arrogant and egotistic to use 様（さま） for yourself! So with 様（さま）, the masculine, aggressive vibe of 俺（おれ） is emphasized, and it becomes almost macho or sassy.",
+    "Although うち is rarely spotted in textbooks, this casual first-person pronoun with origins in the Kansai region has become popular with young people nationally.",
+    "Outside of the Kansai area, it sounds somewhat feminine as it's particularly popular with young female speakers, including high school girls.",
+    "As the origin of the word — \"inside\" — suggests, うち also carries a feeling of unity, especially when used in its plural form, うちら.",
+    "We introduced different ways to say \"I\" in Japanese, and now you might be wondering how to say \"we,\" in the plural. In Japanese, we use suffixes to pluralize nouns used for people, including personal pronouns, rather than having plural forms of nouns.",
+    "〜達（たち） (たち), 〜等（ら） (ら), 〜方（かた） (がた) and 〜供（ども） (ども) are common plural suffixes, and they all carry different nuances, mainly the level of formality. It sounds simple, but keep in mind that the polite/rude dynamic changes according to whether you are referring to yourself or to others.",
+    "For example, 〜方（かた） is generally considered to be a polite way to refer to others, but since it's an honorific way of doing so, using it with first-person pronouns doesn't make much sense. It's like you're honoring yourself, and that isn't considered polite in Japanese. Similarly, 〜供（ども） is usually considered to be a derogatory way of referring to others, but with first-person pronouns, it is used to speak about yourself with humility. Thus, it is a polite way to present yourself or your company.",
+    "In the same way that 〜方（かた） is not used with first-person pronouns, some pronouns don't go as well as others with specific suffixes. It could be a mismatch of politeness, but it could also be how they sound together when they're paired up. For example, うち collocates with ら the most because that's the easiest combination to say out loud.",
+    "To give you a clearer picture, below is a mix-and-match chart of common pronouns and suffixes!",
+    "Note: △ shows that the combination works okay, but isn't very common. ✖️ shows that the combination is rarely used.",
+    "As you can see from examples we've used on this page, Japanese pronouns do not change form. This is quite different from English, where \"I\" becomes \"my\" or \"me\" depending on its grammatical role.",
+    "The reason is that Japanese pronouns are basically no different from regular nouns. In Japanese, it is particles, and not the pronouns themselves, that indicate the grammatical role a pronoun plays in a sentence.",
+    "For example, to say \"my\" in Japanese, you use a first-person pronoun and the particle の, which shows that the noun that's immediately before it is in the possessive form.",
+    "First-Person Pronoun + の",
+    "So if you use 私（わたし） to say \"my,\" it's going to look like:",
+    "There are many more possible combinations of first-person pronouns and particles, but here's a short list of major ones to give you an idea!",
+    "Keep in mind that pronouns (or rather, subjects and objects in general) are often omitted in Japanese, whereas in English they are usually essential elements in sentences.",
+    "The above example works fine without the first person pronoun part — 私（わたし）は.",
+    "If someone says ベーコンが好（す）きです, it's natural to assume that it's about the speaker themselves, as in \"I like bacon,\" unless this was in the flow of conversation about someone else or something else. In this way, first-person pronouns can often be omitted in Japanese, unless you want to clarify that what you're saying is about yourself or comes from your point of view, or you want to change topics.",
+    "Many first-person pronouns carry gender nuances because of the associations accumulated through actual use. For example, 俺（おれ） has a strong masculine association. However, it's not accurate to say that 俺（おれ） is only for men.",
+    "Even beyond dialectal differences (for example, 俺（おれ） is used by women in the Tohoku area) and use in LGBTQ community, there are more first-person pronoun uses that defy gender stereotypes these days.",
+    "For example, especially if you're fond of anime or video games, you might have noticed that some female characters are portrayed as \"masculine\" and use 俺（おれ） or 僕（ぼく）. And, perhaps in part because of these influences, some people make choices beyond the stereotypical use of first-person pronouns. Others do it to distance themselves from associations with stereotypical gender roles.",
+    "While reasons and motivations may vary, the use of first-person pronouns — and the Japanese language in general — is changing, sometimes beyond traditional gender stereotypes.",
+    "To learn more about these changes, check out our article Beyond the Binary: A Queer Take on Gendered Japanese and our podcast episode about First-Person Pronouns: When Female Speakers Use 僕（ぼく） or 俺（おれ） ."
+  ],
+  "examples": [
+    {
+      "japanese": "私（わたし）はベーコンが好（す）きです。",
+      "english": "I like bacon."
+    },
+    {
+      "japanese": "わたし、明日（あした）は行（い）けないんだ。ごめんね。",
+      "english": "I can't go tomorrow. Sorry."
+    },
+    {
+      "japanese": "わたし、明日（あした）は行（い）けないんです。本当（ほんとう）に、すみません。",
+      "english": "I'm afraid I can't make it tomorrow. I'm very sorry."
+    },
+    {
+      "japanese": "わたくし、明日（あした）は伺（うかが）えないんです。大変（たいへん）、申（もう）し訳（わけ）ございません。",
+      "english": "I'm afraid I won't be able to make it tomorrow. I am terribly sorry."
+    },
+    {
+      "japanese": "それ、僕（ぼく）の本（ほん）かな？",
+      "english": "Is that my book?"
+    },
+    {
+      "japanese": "僕（ぼく）は将来（しょうらい）、サッカー選手（せんしゅ）になりたいです。",
+      "english": "I want to be a soccer player in the future."
+    },
+    {
+      "japanese": "俺（おれ）と飯（めし）食（ぐ）いに行（い）かない？",
+      "english": "Do you wanna go grab some food with me?"
+    },
+    {
+      "japanese": "うちら、最（さい）近海（きんかい）行（い）ってなくない？",
+      "english": "We haven't been to the beach lately, have we?"
+    },
+    {
+      "japanese": "うちらの先生（せんせい）、めっちゃうざいよね。",
+      "english": "Our teacher is so annoying, right?"
+    },
+    {
+      "japanese": "私（わたし）の",
+      "english": "my"
+    },
+    {
+      "japanese": "(私（わたし）は)ベーコンが好（す）きです。",
+      "english": "(I) like bacon."
+    },
+    {
+      "japanese": "First-Person Pronoun + の",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Honorific",
+        "Casual",
+        "Neutral",
+        "Polite (Humble)"
+      ],
+      [
+        "方（がた）",
+        "等（ら）",
+        "達（たち）",
+        "供（ども）"
+      ],
+      [
+        "私（わたし）",
+        "✖️",
+        "私（わたし）ら",
+        "私（わたし）たち",
+        "私（わたし）ども"
+      ],
+      [
+        "私（わたくし）",
+        "✖️",
+        "✖️",
+        "私（わたくし）たち",
+        "私（わたくし）ども"
+      ],
+      [
+        "僕（ぼく）",
+        "✖️",
+        "僕（ぼく）ら",
+        "僕（ぼく）たち",
+        "僕（ぼく）ども"
+      ],
+      [
+        "俺（おれ）",
+        "✖️",
+        "俺（おれ）ら",
+        "俺（おれ）たち",
+        "△"
+      ],
+      [
+        "うち",
+        "✖️",
+        "うちら",
+        "△",
+        "✖️"
+      ]
+    ],
+    [
+      [
+        "Subject",
+        "Topic",
+        "Possessive",
+        "Object"
+      ],
+      [
+        "I",
+        "I / as for me",
+        "my / mine",
+        "me"
+      ],
+      [
+        "僕（ぼく）が",
+        "僕（ぼく）は",
+        "僕（ぼく）の",
+        "僕（ぼく）を"
+      ],
+      [
+        "俺（おれ）が",
+        "俺（おれ）は",
+        "俺（おれ）の",
+        "俺（おれ）を"
+      ],
+      [
+        "うちが",
+        "うちは",
+        "うちの",
+        "うちを"
+      ]
+    ],
+    [
+      [
+        "ベーコン (べーこん) — bacon (noun)"
+      ],
+      [
+        "明日（あした） (あした) — tomorrow (noun)"
+      ],
+      [
+        "行（い）けない (いけない) — can't go (godan verb / negative potential form / non-past tense)"
+      ],
+      [
+        "本当（ほんとう）に (ほんとうに) — really (adverb)"
+      ],
+      [
+        "伺（うかが）えない (うかがえない) — can't visit (godan verb / polite negative potential form / non-past tense)"
+      ],
+      [
+        "大変（たいへん） (たいへん) — very (adverb)"
+      ],
+      [
+        "申（もう）し訳（わけ）ございません (もうしわけございません) — sorry (expression)"
+      ],
+      [
+        "本（ほん） (ほん) — book (noun)"
+      ],
+      [
+        "将来（しょうらい） (しょうらい) — future (noun)"
+      ],
+      [
+        "サッカー選手（せんしゅ） (さっかーせんしゅ) — soccer player (noun)"
+      ],
+      [
+        "飯（めし） (めし) — food, meal (noun)"
+      ],
+      [
+        "食（く）い (くい) — to eat (godan verb / stem form)"
+      ],
+      [
+        "最近（さいきん） (さいきん) — lately (noun)"
+      ],
+      [
+        "海（うみ） (うみ) — beach, ocean (noun)"
+      ],
+      [
+        "先生（せんせい） (せんせい) — teacher, sensei (noun)"
+      ],
+      [
+        "めっちゃ (めっちゃ) — very (adverb)"
+      ],
+      [
+        "うざい (うざい) — annoying (い-adjective)"
+      ],
+      [
+        "好（す）き (すき) — to like, favorite (な-adjective)"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "section",
+      "text": "私 (わたし/わたくし)"
+    },
+    {
+      "level": 3,
+      "id": "section-1",
+      "text": "僕 (ぼく)"
+    },
+    {
+      "level": 3,
+      "id": "section-2",
+      "text": "俺 (おれ)"
+    },
+    {
+      "level": 3,
+      "id": "section-3",
+      "text": "うち"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "plural-forms-of-first-person-pronouns",
+      "text": "Plural Forms of First-Person Pronouns"
+    },
+    {
+      "level": 3,
+      "id": "first-person-pronouns-and-particles",
+      "text": "First-Person Pronouns and Particles"
+    },
+    {
+      "level": 3,
+      "id": "first-person-pronouns-can-be-omitted",
+      "text": "First-Person Pronouns Can Be Omitted"
+    },
+    {
+      "level": 3,
+      "id": "first-person-pronouns-and-gender-expression",
+      "text": "First-Person Pronouns and Gender Expression"
+    }
+  ],
+  "id": 10,
+  "slug": "first-person-pronouns",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/first-person-pronouns/",
+  "categories": [
+    "Pronoun"
+  ]
+}

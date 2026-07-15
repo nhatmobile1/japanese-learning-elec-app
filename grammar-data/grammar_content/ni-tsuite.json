@@ -1,0 +1,146 @@
+{
+  "title": "〜について",
+  "description": "〜について attaches to a noun to mean \"about\" or \"concerning\" — it marks the topic you are talking, thinking, writing, or asking about.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜について follows a noun and means \"about\" or \"regarding.\" It marks the subject matter of verbs like 話（はな）す (to talk), 考（かんが）える (to think), 書（か）く (to write), 聞（き）く (to ask), and 知（し）る (to know). The noun before it is the thing being discussed."
+    },
+    {
+      "type": "formula",
+      "japanese": "名詞（めいし）＋について",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にほん）の文化（ぶんか）について話（はな）しましょう。",
+      "english": "Let's talk about Japanese culture."
+    },
+    {
+      "type": "example",
+      "japanese": "プレゼンテーションについて話（はな）しますか？",
+      "english": "Will you talk about the presentation?"
+    },
+    {
+      "type": "example",
+      "japanese": "ジョージアについてどう思（おも）いますか？",
+      "english": "What do you think about Georgia?"
+    },
+    {
+      "type": "example",
+      "japanese": "システムデザインについてもっと知（し）りたいです。",
+      "english": "I want to learn more about system design."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "as-a-modifier",
+      "text": "Modifying a Noun: 〜についての"
+    },
+    {
+      "type": "paragraph",
+      "text": "To connect について directly to a following noun (rather than a verb), change it to 〜についての. This makes it work like an adjective: \"the ~ about ...\""
+    },
+    {
+      "type": "formula",
+      "japanese": "名詞（めいし）＋についての＋名詞（めいし）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "会社（かいしゃ）の商品（しょうひん）についての説明（せつめい）を読（よ）みました。",
+      "english": "I read the explanation about the company's products."
+    },
+    {
+      "type": "example",
+      "japanese": "観光客（かんこうきゃく）についての記事（きじ）を見（み）ました。",
+      "english": "I saw an article about tourists."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't confuse the compound particle 〜について (\"about\") with the verb 〜について来（く）る／行（い）く, which comes from つく (to follow, to attach) and means \"to follow along.\" The compound particle needs a topic noun in front and a verb of communication or thought after it."
+    },
+    {
+      "type": "example",
+      "japanese": "おばあちゃんは私（わたし）について来（き）ました。",
+      "english": "Grandma followed me. (this is つく \"to follow,\" not the \"about\" particle)"
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "名詞（めいし）＋について",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "日本（にほん）の文化（ぶんか）について話（はな）しましょう。",
+      "english": "Let's talk about Japanese culture."
+    },
+    {
+      "japanese": "プレゼンテーションについて話（はな）しますか？",
+      "english": "Will you talk about the presentation?"
+    },
+    {
+      "japanese": "ジョージアについてどう思（おも）いますか？",
+      "english": "What do you think about Georgia?"
+    },
+    {
+      "japanese": "システムデザインについてもっと知（し）りたいです。",
+      "english": "I want to learn more about system design."
+    },
+    {
+      "japanese": "名詞（めいし）＋についての＋名詞（めいし）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "会社（かいしゃ）の商品（しょうひん）についての説明（せつめい）を読（よ）みました。",
+      "english": "I read the explanation about the company's products."
+    },
+    {
+      "japanese": "観光客（かんこうきゃく）についての記事（きじ）を見（み）ました。",
+      "english": "I saw an article about tourists."
+    },
+    {
+      "japanese": "おばあちゃんは私（わたし）について来（き）ました。",
+      "english": "Grandma followed me. (this is つく \"to follow,\" not the \"about\" particle)"
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "as-a-modifier",
+      "text": "Modifying a Noun: 〜についての"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1024,
+  "slug": "ni-tsuite",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

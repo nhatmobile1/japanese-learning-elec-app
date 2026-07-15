@@ -1,0 +1,785 @@
+{
+  "title": "Transitive and Intransitive Verbs",
+  "description": "Transitive verbs describe actions that happen to something else. Intransitive verbs describe actions that happen by themselves.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japanese verbs are often categorized into one of two categories — \"transitive\" or \"intransitive\". For most learners, transitivity is a concept that they encounter for the first time when studying foreign language, so you might be surprised to learn that it exists in most, if not all languages — even English! Transitivity in Japanese operates differently than in English, which is why it can be so hard to wrap your mind around. In this page, we'll explore what transitivity is, and how it differs in English and Japanese."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "what-is-transitivity",
+      "text": "What is transitivity?"
+    },
+    {
+      "type": "paragraph",
+      "text": "First, consider the word \"transitivity.\" It contains the same root word as \"transfer,\" and that is no coincidence. A verb that is transitive involves the transfer of energy from one entity to another, namely from a subject to an object."
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーがドアを開（あ）けた。",
+      "english": "Jenny opened the door."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a typical transitive sentence. The subject, Jenny, transfers energy to the door, causing it to open. It involves one entity acting upon another, which explains why the Japanese term for \"transitive verb\" is 他動詞（たどうし） — \"other verb\"."
+    },
+    {
+      "type": "paragraph",
+      "text": "An intransitive verb is the opposite of a transitive one. There is no transfer of energy between a subject and object. Instead, the verb expresses a change in the subject."
+    },
+    {
+      "type": "example",
+      "japanese": "ドアが開（ひら）いた。",
+      "english": "The door opened."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this intransitive sentence, we have no idea how or why the door opened, we just know that it happened… creepy 👻 Maybe a ghost opened it, or maybe it was the wind. In any case, the sentence presents \"open\" as though it happens independently, or by itself. This explains the native Japanese term for intransitive verbs — 自動詞（じどうし）, or \"self verb\"."
+    },
+    {
+      "type": "paragraph",
+      "text": "These Japanese terms are really good to keep in mind as you learn about transitivity in Japanese. Not only are these terms a bit more transparent than \"transitive\" and \"intransitive,\" but you'll also see the first kanji (他（た） and 自（じ）) in native dictionaries to indicate the transitivity of specific verbs."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "transitivity-pairs",
+      "text": "Transitivity Pairs"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, there are a large number of verbs that come in pairs, with each side of the pair having a transitive or intransitive meaning. This is an area where language learners struggle, since English does not have this feature. Let's check it out:"
+    },
+    {
+      "type": "example",
+      "japanese": "ドアを開（あ）ける。",
+      "english": "(Someone) opens the door."
+    },
+    {
+      "type": "example",
+      "japanese": "ドアが開（ひら）く。",
+      "english": "The door opens."
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, verbs either stay exactly the same no matter if they're used transitively or intransitively (like \"open\") or there are two totally different verbs that have a similar meaning but opposite transitivity (like \"I dropped the ball\" or \"The ball fell\")."
+    },
+    {
+      "type": "paragraph",
+      "text": "Japanese does something different — many verbs are part of a pair that share a root, but have different endings depending on their transitivity. In the examples above, you'll see that 開（あ）ける（あ ） is used in the transitive sentence, and 開（ひら）く（あ ） is used in the intransitive sentence. Their kanji is the same, but the way they end is different! These types of pairs are common in Japanese. Not all Japanese verbs are part of a pair, but there are at least 300 pairs that exist in modern Japanese. Check out this great resource from Meguro Language Center for examples of pairs with visuals and context sentences."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "particles--and-",
+      "text": "Particles を and が"
+    },
+    {
+      "type": "paragraph",
+      "text": "When it comes to determining if a verb is transitive or intransitive, particles are your friends! While there are some exceptions, transitive verbs will take an object marked with particle を , and intransitive verbs will only take a subject, marked with particle が . Let's examine the use of particles in sentences with the following transitivity pair: つける (to turn something on) & つく (something comes on)."
+    },
+    {
+      "type": "example",
+      "japanese": "キャメロンが電気（でんき）をつけた。",
+      "english": "Cameron turned on the lights."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this transitive sentence, 電気（でんき） (lights) is the object, and is marked with particle を. We also see a subject, Cameron, marked with particle が."
+    },
+    {
+      "type": "example",
+      "japanese": "電気（でんき）がつきました。",
+      "english": "The lights came on."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this intransitive sentence, 電気（でんき） is not the object, it's the subject, and so it is marked with particle が."
+    },
+    {
+      "type": "paragraph",
+      "text": "These particles are a helpful hint when you're trying to determine if a verb is transitive or intransitive, but there are a variety of reasons why you can't rely on them as a rule of thumb. For one, it's common to drop both subjects and objects from sentences when they are known from context. Consider the following conversation for example:"
+    },
+    {
+      "type": "formula",
+      "japanese": "コウイチ先生（せんせい）、トイレ行（い）っていい？ </br> KoichiSensei, can I go to the bathroom?",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "コウイチ 先生（せんせい）、トイレ行（い）っていい？ </br> Koichi Sensei, can I go to the bathroom?"
+    },
+    {
+      "type": "formula",
+      "japanese": "まみ先生（せんせい）始（はじ）まる前（まえ）に行（い）きなさい。 </br> Ms. MamiGo quickly before class begins.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "まみ先生（せんせい） 始（はじ）まる前（まえ）に行（い）きなさい。 </br> Ms. Mami Go quickly before class begins."
+    },
+    {
+      "type": "paragraph",
+      "text": "〜 Koichi goes to the bathroom and comes back 🚽〜"
+    },
+    {
+      "type": "formula",
+      "japanese": "まみ先生（せんせい）コウイチくん、お帰（かえ）り。では、始（はじ）めます。 </br> Ms. MamiWelcome back, Koichi. Ok, now I'll get class started.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "まみ先生（せんせい） コウイチくん、お帰（かえ）り。では、始（はじ）めます。 </br> Ms. Mami Welcome back, Koichi. Ok, now I'll get class started."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, both verbs in the transitivity pair 始（はじ）まる（はじ ） (something begins) and 始（はじ）める（はじ ） (to start something) appear in this dialogue, but particle を and が are nowhere to be found! Let's plug in those omitted elements back into the sentences:"
+    },
+    {
+      "type": "example",
+      "japanese": "(授業（じゅぎょう）が) 始（はじ）まる前（まえ）に行（い）きなさい。",
+      "english": "Go quickly before class begins."
+    },
+    {
+      "type": "paragraph",
+      "text": "始（はじ）まる is an intransitive verb, so we can only add a subject in. Since this is a conversation between a teacher and student, we can assume the thing that will begin in this sentence is 授業（じゅぎょう） (class). Stick particle が on the end of 授業（じゅぎょう） to clearly mark it as the subject!"
+    },
+    {
+      "type": "example",
+      "japanese": "では、(私（わたし）が) (授業（じゅぎょう）を) 始（はじ）めます。",
+      "english": "Ok, now I'll get class started."
+    },
+    {
+      "type": "paragraph",
+      "text": "始（はじ）める, on the other hand, is a transitive verb. This means we can add in both a subject and an object. Again, we assume that the thing being started is class, so we add 授業（じゅぎょう） back into this sentence, too. However, since the verb is transitive, we'll treat it as the object and add を after it. Now, we can add in a subject — who caused the class to start. That would be the teacher of course, so since she is the speaker of this sentence we'll add her in with the first-person pronoun , 私（わたし）. We'll stick が on the end too to clarify that 私（わたし） is the subject! Just a side note, though: it's so obvious that 私（わたし） is the subject here, that we'd almost always leave it out in Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "These sentences, and many others, are more natural with the subject and object omitted, so you really can't rely on particles alone to determine the transitivity of a verb."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you come across more examples of verbs in Japanese, you might begin to see peculiarities that are hard to explain using the traditional approach to transitivity presented above. For instance, you'll notice that not all intransitive verbs behave the same way — some can even take particle を!! 🧐 In this section, we’ll take a deeper look at the stranger aspects of transitivity."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "english-vs-japanese-transitivity",
+      "text": "English vs. Japanese Transitivity"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember how transitive in Japanese is 他動詞（たどうし） (“other” verb) and intransitive is 自動詞（じどうし） (“self” verb)? Keeping this idea in mind will help you to understand how transitivity in Japanese differs from English. In English, any verb that takes a direct object is considered to be transitive in that context, even if that object is not being acted on or affected by some “other” entity. For example:"
+    },
+    {
+      "type": "formula",
+      "japanese": "Jenny understands French.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Jenny understands French."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, “Jenny” is the subject, and “French” is the direct object. It is what she understands. The fact that we have a direct object makes this a transitive sentence in English. But what if we apply the Japanese concept of transitivity? The French language itself is not affected by whether Jenny understands it or not, right? Of course not. So in Japanese, the equivalent sentence will actually be intransitive:"
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーはフランス語（ご）が分（わ）かる。",
+      "english": "Jenny understands French."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since フランス語（ご） is not some “other” entity being affected by Jenny, this sentence is intransitive (自動詞（じどうし）) in the Japanese sense. That’s why you’ll see that フランス語（ご） is followed by the subject marking particle が. Many English speakers would instinctively want to put the object marking particle を here, so watch yourself! Here are a few other common verbs that might feel transitive to an English speaker, but are intransitive in Japanese:"
+    },
+    {
+      "type": "example",
+      "japanese": "かなえはフランス語（ご）の教科書（きょうかしょ）があります。",
+      "english": "Kanae has a French textbook."
+    },
+    {
+      "type": "example",
+      "japanese": "まみはカナダ人（じん）の友達（ともだち）がいる。",
+      "english": "Mami has Canadian friends."
+    },
+    {
+      "type": "paragraph",
+      "text": "The existential verbs, ある and いる, are intransitive in Japanese. This is why you see that 教科書（きょうかしょ） (textbook) and 友達（ともだち） (friends) are both marked by particle が, rather than particle を. Despite the fact that the English translation feels transitive, remember that neither 教科書（きょうかしょ） nor 友達（ともだち） are being affected or acted upon in these sentences."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "intransitive-verbs-with-particle-",
+      "text": "Intransitive Verbs with Particle を"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ok, so far so good, right? In Japanese, transitive verbs act upon something else, and that something else gets particle を. Intransitive verbs happen by themselves, and only take particle が. Right? …Right? 😅"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not always! There are a couple of reasons why an intransitive verb might actually appear with particle を… Sorry to burst your bubble! The truth is, that the boundary between transitive and intransitive verbs is often blurry—it’s more of a spectrum than it is a dichotomy."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verbs-with-intention",
+      "text": "Verbs with Intention"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you already know, 分（わ）かる is usually used with particle が. However, when there is a sense of intention in a sentence, sometimes を is actually possible too."
+    },
+    {
+      "type": "example",
+      "japanese": "かなえがフランス語（ご）が分（わ）かるようになった。",
+      "english": "Kanae became able to understand French."
+    },
+    {
+      "type": "example",
+      "japanese": "かなえがフランス語（ご）を分（わ）かるようになった。",
+      "english": "Kanae became able to understand French."
+    },
+    {
+      "type": "paragraph",
+      "text": "These sentences are not just about understanding French, but more so about the processes of becoming able to understand French, due to the use of なる (become) as the main verb. This creates a slightly more transitive feeling to the sentence, so even though が is still the more common choice, you could also choose を if you want to highlight the fact that Kanae did something to make herself understand French. The difference is subtle, but it's interesting to see how grammatical choices can add flavor and meaning to a sentence like this."
+    },
+    {
+      "type": "paragraph",
+      "text": "Intention also helps us understand how particle choice effects a word like 食（た）べたい (want to eat). It’s composed of two parts, the transitive verb 食（た）べる (to eat) and the intransitive suffix 〜たい (want to) . Since 食（た）べたい is composed of both a transitive and intransitive component, which particle is most appropriate? The answer is both!"
+    },
+    {
+      "type": "example",
+      "japanese": "うにが食（た）べたい！",
+      "english": "I want to eat uni (sea urchin)!"
+    },
+    {
+      "type": "example",
+      "japanese": "うにを食（た）べたい！",
+      "english": "I want to eat uni (sea urchin)!"
+    },
+    {
+      "type": "paragraph",
+      "text": "At first glance, you might think that both of these sentences express intention—we’re talking about wanting to do something, aren’t we? However, the first sentence with が is more likely to fit in a context where you spontaneously crave some of that goopy sea urchin sushi you ate last week, and verbalize that desire. You don’t actually intend to eat it in that moment! For that reason, が is more appropriate. If, however, you’re actually at your favorite sushi joint, you might excitedly tell your dining buddy うにを食（た）べたい to express both your desire and your intention to act on it right then and there."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "movement-verbs",
+      "text": "Movement Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verbs that describe a physical motion can also take を in certain circumstances. Many of these intransitive verbs are loners, meaning that they don’t have a transitive verb partner verb (aww 😢), such as 歩（ある）く (walk) or 泳（およ）ぐ (swim). Let’s take a look at these in context:"
+    },
+    {
+      "type": "example",
+      "japanese": "2016年（ねん）にキャメロンは熊野（くまの）古道（ふるみち）を歩（ある）いた。",
+      "english": "Cameron walked the Kumano Pilgrimage in 2016."
+    },
+    {
+      "type": "example",
+      "japanese": "毎年（まいとし）、ジェニーはイギリス海峡（かいきょう）を泳（およ）いだ。",
+      "english": "Jenny swam the English Channel every year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though we see particle を here, these verbs are still considered to be intransitive by Japanese grammarians. Instead of particle を marking an object, the idea is that it marks a path that the movement takes. This can be really hard to wrap your mind around if you view it from the English perspective of transitivity. If you apply the 他動詞（たどうし） vs. 自動詞（じどうし） concept though, you can see why this makes sense. Even though Cameron walked the pilgrimage and Jenny swam the channel, neither of those places were affected by their movement. They are just the paths taken."
+    },
+    {
+      "type": "paragraph",
+      "text": "Intention is actually a helpful concept for understanding the “path” meaning of particle を as well. For example, let’s look at how the meaning of the intransitive verb 上（あ）がる (go up) changes when particle が and particle を are used:"
+    },
+    {
+      "type": "example",
+      "japanese": "最近（さいきん）、ガソリンの値段（ねだん）が上（あ）がった。",
+      "english": "The price of gasoline went up recently."
+    },
+    {
+      "type": "example",
+      "japanese": "まちこは坂（さか）を上（あ）がった。",
+      "english": "Machiko went up the hill."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the first sentence with particle が, the thing that goes up is gas prices. The gasoline doesn’t cause its own price to rise, it just happens, driven by whatever forces affect gas prices. Think of this as a “spontaneous” intransitive—the verb just occurs by itself. In the second sentence though, Machiko is both who goes up and who causes the rising action to occur, since 上（あ）がる is a motion verb here. So this is an intentional act as well, since the verb is caused by the same entity that is affected, in this case, Machiko. Again, even though we see particle を after 坂（さか）, this sentence is considered to be intransitive since the hill is not being affected by the action—they are just the path taken."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Points"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Vocabulary"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "他動詞（たどうし） (たどうし) — transitive verb (noun)"
+        ],
+        [
+          "自動詞（じどうし） (じどうし) — intransitive verb (noun)"
+        ],
+        [
+          "開（あ）けた (あけた) — opened (by someone) (ichidan verb / past tense)"
+        ],
+        [
+          "ドア (どあ) — door (noun)"
+        ],
+        [
+          "開（ひら）いた (あいた) — opened (by itself) (godan verb / past tense)"
+        ],
+        [
+          "点（つ）けた (つけた) — turned on, ignited (by someone) (ichidan verb / past tense)"
+        ],
+        [
+          "点（つ）きました (つきました) — turned on, ignited (by itself) (godan verb / polite form / past tense)"
+        ],
+        [
+          "電気（でんき） (でんき) — lights, lamp (also electricity) (noun)"
+        ],
+        [
+          "先生（せんせい） (せんせい) — teacher (noun)"
+        ],
+        [
+          "トイレ (といれ) — toilet, bathroom (noun)"
+        ],
+        [
+          "行（い）って (いって) — to go (godan verb / te-form)"
+        ],
+        [
+          "始（はじ）まる (はじまる) — to begin (by itself) (godan verb / non-past tense)"
+        ],
+        [
+          "前（まえ） (まえ) — before, front (relational noun)"
+        ],
+        [
+          "行（い）きなさい (いきなさい) — (telling someone to) go (godan verb / polite imperative form)"
+        ],
+        [
+          "いい (いい) — good, ok (い-adjective / non-past tense)"
+        ],
+        [
+          "お帰（かえ）り (おかえり) — welcome back (expression)"
+        ],
+        [
+          "始（はじ）めます (はじめます) — to begin something (ichidan verb / polite form / non-past tense)"
+        ],
+        [
+          "授業（じゅぎょう） (じゅぎょう) — lesson, class (noun)"
+        ],
+        [
+          "私（わたし） (わたし) — I, me (personal pronoun)"
+        ],
+        [
+          "フランス語（ご） (ふらんすご) — French language (noun)"
+        ],
+        [
+          "分（わ）かる (わかる) — to understand (godan verb / non-past tense)"
+        ],
+        [
+          "教科書（きょうかしょ） (きょうかしょ) — textbook (noun)"
+        ],
+        [
+          "有（あ）ります (あります) — to have, to exist (for inanimate things) (irregular verb / polite form / non-past tense)"
+        ],
+        [
+          "カナダ人（じん） (かなだじん) — Canadian person (noun with person suffix)"
+        ],
+        [
+          "友達（ともだち） (ともだち) — friend (noun)"
+        ],
+        [
+          "居（い）る (いる) — to have, to exist (for animate things) (ichidan verb / non-past tense )"
+        ],
+        [
+          "海胆（うに） (うに) — sea urchin (noun)"
+        ],
+        [
+          "食（た）べたい (たべたい) — want to eat (ichidan verb / desiderative 〜たい form / non-past tense)"
+        ],
+        [
+          "歩（ある）いた (あるいた) — walked (godan verb / past tense)"
+        ],
+        [
+          "泳（およ）ぐ (およぐ) — to swim (godan verb / non-past tense)"
+        ],
+        [
+          "毎年（まいとし） (まいとし) — every year (temporal noun)"
+        ],
+        [
+          "熊野（くまの）古道（ふるみち） (くまのこどう) — Kumano Pilgrimage (proper noun)"
+        ],
+        [
+          "イギリス海峡（かいきょう） (いぎりすかいきょう) — English Channel (proper noun)"
+        ],
+        [
+          "最近（さいきん） (さいきん) — recently (temporal noun, adverb)"
+        ],
+        [
+          "ガソリン (がそりん) — gasoline (noun)"
+        ],
+        [
+          "値段（ねだん） (ねだん) — price (noun)"
+        ],
+        [
+          "上（あ）がった (あがった) — went up (godan verb / non-past tense)"
+        ],
+        [
+          "坂（さか） (さか) — hill (noun)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Japanese verbs are often categorized into one of two categories — \"transitive\" or \"intransitive\". For most learners, transitivity is a concept that they encounter for the first time when studying foreign language, so you might be surprised to learn that it exists in most, if not all languages — even English! Transitivity in Japanese operates differently than in English, which is why it can be so hard to wrap your mind around. In this page, we'll explore what transitivity is, and how it differs in English and Japanese.",
+    "First, consider the word \"transitivity.\" It contains the same root word as \"transfer,\" and that is no coincidence. A verb that is transitive involves the transfer of energy from one entity to another, namely from a subject to an object.",
+    "This is a typical transitive sentence. The subject, Jenny, transfers energy to the door, causing it to open. It involves one entity acting upon another, which explains why the Japanese term for \"transitive verb\" is 他動詞（たどうし） — \"other verb\".",
+    "An intransitive verb is the opposite of a transitive one. There is no transfer of energy between a subject and object. Instead, the verb expresses a change in the subject.",
+    "In this intransitive sentence, we have no idea how or why the door opened, we just know that it happened… creepy 👻 Maybe a ghost opened it, or maybe it was the wind. In any case, the sentence presents \"open\" as though it happens independently, or by itself. This explains the native Japanese term for intransitive verbs — 自動詞（じどうし）, or \"self verb\".",
+    "These Japanese terms are really good to keep in mind as you learn about transitivity in Japanese. Not only are these terms a bit more transparent than \"transitive\" and \"intransitive,\" but you'll also see the first kanji (他（た） and 自（じ）) in native dictionaries to indicate the transitivity of specific verbs.",
+    "In Japanese, there are a large number of verbs that come in pairs, with each side of the pair having a transitive or intransitive meaning. This is an area where language learners struggle, since English does not have this feature. Let's check it out:",
+    "In English, verbs either stay exactly the same no matter if they're used transitively or intransitively (like \"open\") or there are two totally different verbs that have a similar meaning but opposite transitivity (like \"I dropped the ball\" or \"The ball fell\").",
+    "Japanese does something different — many verbs are part of a pair that share a root, but have different endings depending on their transitivity. In the examples above, you'll see that 開（あ）ける（あ ） is used in the transitive sentence, and 開（ひら）く（あ ） is used in the intransitive sentence. Their kanji is the same, but the way they end is different! These types of pairs are common in Japanese. Not all Japanese verbs are part of a pair, but there are at least 300 pairs that exist in modern Japanese. Check out this great resource from Meguro Language Center for examples of pairs with visuals and context sentences.",
+    "When it comes to determining if a verb is transitive or intransitive, particles are your friends! While there are some exceptions, transitive verbs will take an object marked with particle を , and intransitive verbs will only take a subject, marked with particle が . Let's examine the use of particles in sentences with the following transitivity pair: つける (to turn something on) & つく (something comes on).",
+    "In this transitive sentence, 電気（でんき） (lights) is the object, and is marked with particle を. We also see a subject, Cameron, marked with particle が.",
+    "In this intransitive sentence, 電気（でんき） is not the object, it's the subject, and so it is marked with particle が.",
+    "These particles are a helpful hint when you're trying to determine if a verb is transitive or intransitive, but there are a variety of reasons why you can't rely on them as a rule of thumb. For one, it's common to drop both subjects and objects from sentences when they are known from context. Consider the following conversation for example:",
+    "コウイチ 先生（せんせい）、トイレ行（い）っていい？ </br> Koichi Sensei, can I go to the bathroom?",
+    "まみ先生（せんせい） 始（はじ）まる前（まえ）に行（い）きなさい。 </br> Ms. Mami Go quickly before class begins.",
+    "〜 Koichi goes to the bathroom and comes back 🚽〜",
+    "まみ先生（せんせい） コウイチくん、お帰（かえ）り。では、始（はじ）めます。 </br> Ms. Mami Welcome back, Koichi. Ok, now I'll get class started.",
+    "As you can see, both verbs in the transitivity pair 始（はじ）まる（はじ ） (something begins) and 始（はじ）める（はじ ） (to start something) appear in this dialogue, but particle を and が are nowhere to be found! Let's plug in those omitted elements back into the sentences:",
+    "始（はじ）まる is an intransitive verb, so we can only add a subject in. Since this is a conversation between a teacher and student, we can assume the thing that will begin in this sentence is 授業（じゅぎょう） (class). Stick particle が on the end of 授業（じゅぎょう） to clearly mark it as the subject!",
+    "始（はじ）める, on the other hand, is a transitive verb. This means we can add in both a subject and an object. Again, we assume that the thing being started is class, so we add 授業（じゅぎょう） back into this sentence, too. However, since the verb is transitive, we'll treat it as the object and add を after it. Now, we can add in a subject — who caused the class to start. That would be the teacher of course, so since she is the speaker of this sentence we'll add her in with the first-person pronoun , 私（わたし）. We'll stick が on the end too to clarify that 私（わたし） is the subject! Just a side note, though: it's so obvious that 私（わたし） is the subject here, that we'd almost always leave it out in Japanese.",
+    "These sentences, and many others, are more natural with the subject and object omitted, so you really can't rely on particles alone to determine the transitivity of a verb.",
+    "As you come across more examples of verbs in Japanese, you might begin to see peculiarities that are hard to explain using the traditional approach to transitivity presented above. For instance, you'll notice that not all intransitive verbs behave the same way — some can even take particle を!! 🧐 In this section, we’ll take a deeper look at the stranger aspects of transitivity.",
+    "Remember how transitive in Japanese is 他動詞（たどうし） (“other” verb) and intransitive is 自動詞（じどうし） (“self” verb)? Keeping this idea in mind will help you to understand how transitivity in Japanese differs from English. In English, any verb that takes a direct object is considered to be transitive in that context, even if that object is not being acted on or affected by some “other” entity. For example:",
+    "Jenny understands French.",
+    "In this sentence, “Jenny” is the subject, and “French” is the direct object. It is what she understands. The fact that we have a direct object makes this a transitive sentence in English. But what if we apply the Japanese concept of transitivity? The French language itself is not affected by whether Jenny understands it or not, right? Of course not. So in Japanese, the equivalent sentence will actually be intransitive:",
+    "Since フランス語（ご） is not some “other” entity being affected by Jenny, this sentence is intransitive (自動詞（じどうし）) in the Japanese sense. That’s why you’ll see that フランス語（ご） is followed by the subject marking particle が. Many English speakers would instinctively want to put the object marking particle を here, so watch yourself! Here are a few other common verbs that might feel transitive to an English speaker, but are intransitive in Japanese:",
+    "The existential verbs, ある and いる, are intransitive in Japanese. This is why you see that 教科書（きょうかしょ） (textbook) and 友達（ともだち） (friends) are both marked by particle が, rather than particle を. Despite the fact that the English translation feels transitive, remember that neither 教科書（きょうかしょ） nor 友達（ともだち） are being affected or acted upon in these sentences.",
+    "Ok, so far so good, right? In Japanese, transitive verbs act upon something else, and that something else gets particle を. Intransitive verbs happen by themselves, and only take particle が. Right? …Right? 😅",
+    "Not always! There are a couple of reasons why an intransitive verb might actually appear with particle を… Sorry to burst your bubble! The truth is, that the boundary between transitive and intransitive verbs is often blurry—it’s more of a spectrum than it is a dichotomy.",
+    "As you already know, 分（わ）かる is usually used with particle が. However, when there is a sense of intention in a sentence, sometimes を is actually possible too.",
+    "These sentences are not just about understanding French, but more so about the processes of becoming able to understand French, due to the use of なる (become) as the main verb. This creates a slightly more transitive feeling to the sentence, so even though が is still the more common choice, you could also choose を if you want to highlight the fact that Kanae did something to make herself understand French. The difference is subtle, but it's interesting to see how grammatical choices can add flavor and meaning to a sentence like this.",
+    "Intention also helps us understand how particle choice effects a word like 食（た）べたい (want to eat). It’s composed of two parts, the transitive verb 食（た）べる (to eat) and the intransitive suffix 〜たい (want to) . Since 食（た）べたい is composed of both a transitive and intransitive component, which particle is most appropriate? The answer is both!",
+    "At first glance, you might think that both of these sentences express intention—we’re talking about wanting to do something, aren’t we? However, the first sentence with が is more likely to fit in a context where you spontaneously crave some of that goopy sea urchin sushi you ate last week, and verbalize that desire. You don’t actually intend to eat it in that moment! For that reason, が is more appropriate. If, however, you’re actually at your favorite sushi joint, you might excitedly tell your dining buddy うにを食（た）べたい to express both your desire and your intention to act on it right then and there.",
+    "Verbs that describe a physical motion can also take を in certain circumstances. Many of these intransitive verbs are loners, meaning that they don’t have a transitive verb partner verb (aww 😢), such as 歩（ある）く (walk) or 泳（およ）ぐ (swim). Let’s take a look at these in context:",
+    "Even though we see particle を here, these verbs are still considered to be intransitive by Japanese grammarians. Instead of particle を marking an object, the idea is that it marks a path that the movement takes. This can be really hard to wrap your mind around if you view it from the English perspective of transitivity. If you apply the 他動詞（たどうし） vs. 自動詞（じどうし） concept though, you can see why this makes sense. Even though Cameron walked the pilgrimage and Jenny swam the channel, neither of those places were affected by their movement. They are just the paths taken.",
+    "Intention is actually a helpful concept for understanding the “path” meaning of particle を as well. For example, let’s look at how the meaning of the intransitive verb 上（あ）がる (go up) changes when particle が and particle を are used:",
+    "In the first sentence with particle が, the thing that goes up is gas prices. The gasoline doesn’t cause its own price to rise, it just happens, driven by whatever forces affect gas prices. Think of this as a “spontaneous” intransitive—the verb just occurs by itself. In the second sentence though, Machiko is both who goes up and who causes the rising action to occur, since 上（あ）がる is a motion verb here. So this is an intentional act as well, since the verb is caused by the same entity that is affected, in this case, Machiko. Again, even though we see particle を after 坂（さか）, this sentence is considered to be intransitive since the hill is not being affected by the action—they are just the path taken."
+  ],
+  "examples": [
+    {
+      "japanese": "ジェニーがドアを開（あ）けた。",
+      "english": "Jenny opened the door."
+    },
+    {
+      "japanese": "ドアが開（ひら）いた。",
+      "english": "The door opened."
+    },
+    {
+      "japanese": "ドアを開（あ）ける。",
+      "english": "(Someone) opens the door."
+    },
+    {
+      "japanese": "ドアが開（ひら）く。",
+      "english": "The door opens."
+    },
+    {
+      "japanese": "キャメロンが電気（でんき）をつけた。",
+      "english": "Cameron turned on the lights."
+    },
+    {
+      "japanese": "電気（でんき）がつきました。",
+      "english": "The lights came on."
+    },
+    {
+      "japanese": "(授業（じゅぎょう）が) 始（はじ）まる前（まえ）に行（い）きなさい。",
+      "english": "Go quickly before class begins."
+    },
+    {
+      "japanese": "では、(私（わたし）が) (授業（じゅぎょう）を) 始（はじ）めます。",
+      "english": "Ok, now I'll get class started."
+    },
+    {
+      "japanese": "ジェニーはフランス語（ご）が分（わ）かる。",
+      "english": "Jenny understands French."
+    },
+    {
+      "japanese": "かなえはフランス語（ご）の教科書（きょうかしょ）があります。",
+      "english": "Kanae has a French textbook."
+    },
+    {
+      "japanese": "まみはカナダ人（じん）の友達（ともだち）がいる。",
+      "english": "Mami has Canadian friends."
+    },
+    {
+      "japanese": "かなえがフランス語（ご）が分（わ）かるようになった。",
+      "english": "Kanae became able to understand French."
+    },
+    {
+      "japanese": "かなえがフランス語（ご）を分（わ）かるようになった。",
+      "english": "Kanae became able to understand French."
+    },
+    {
+      "japanese": "うにが食（た）べたい！",
+      "english": "I want to eat uni (sea urchin)!"
+    },
+    {
+      "japanese": "うにを食（た）べたい！",
+      "english": "I want to eat uni (sea urchin)!"
+    },
+    {
+      "japanese": "2016年（ねん）にキャメロンは熊野（くまの）古道（ふるみち）を歩（ある）いた。",
+      "english": "Cameron walked the Kumano Pilgrimage in 2016."
+    },
+    {
+      "japanese": "毎年（まいとし）、ジェニーはイギリス海峡（かいきょう）を泳（およ）いだ。",
+      "english": "Jenny swam the English Channel every year."
+    },
+    {
+      "japanese": "最近（さいきん）、ガソリンの値段（ねだん）が上（あ）がった。",
+      "english": "The price of gasoline went up recently."
+    },
+    {
+      "japanese": "まちこは坂（さか）を上（あ）がった。",
+      "english": "Machiko went up the hill."
+    },
+    {
+      "japanese": "コウイチ先生（せんせい）、トイレ行（い）っていい？ </br> KoichiSensei, can I go to the bathroom?",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "まみ先生（せんせい）始（はじ）まる前（まえ）に行（い）きなさい。 </br> Ms. MamiGo quickly before class begins.",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "まみ先生（せんせい）コウイチくん、お帰（かえ）り。では、始（はじ）めます。 </br> Ms. MamiWelcome back, Koichi. Ok, now I'll get class started.",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "Jenny understands French.",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "他動詞（たどうし） (たどうし) — transitive verb (noun)"
+      ],
+      [
+        "自動詞（じどうし） (じどうし) — intransitive verb (noun)"
+      ],
+      [
+        "開（あ）けた (あけた) — opened (by someone) (ichidan verb / past tense)"
+      ],
+      [
+        "ドア (どあ) — door (noun)"
+      ],
+      [
+        "開（ひら）いた (あいた) — opened (by itself) (godan verb / past tense)"
+      ],
+      [
+        "点（つ）けた (つけた) — turned on, ignited (by someone) (ichidan verb / past tense)"
+      ],
+      [
+        "点（つ）きました (つきました) — turned on, ignited (by itself) (godan verb / polite form / past tense)"
+      ],
+      [
+        "電気（でんき） (でんき) — lights, lamp (also electricity) (noun)"
+      ],
+      [
+        "先生（せんせい） (せんせい) — teacher (noun)"
+      ],
+      [
+        "トイレ (といれ) — toilet, bathroom (noun)"
+      ],
+      [
+        "行（い）って (いって) — to go (godan verb / te-form)"
+      ],
+      [
+        "始（はじ）まる (はじまる) — to begin (by itself) (godan verb / non-past tense)"
+      ],
+      [
+        "前（まえ） (まえ) — before, front (relational noun)"
+      ],
+      [
+        "行（い）きなさい (いきなさい) — (telling someone to) go (godan verb / polite imperative form)"
+      ],
+      [
+        "いい (いい) — good, ok (い-adjective / non-past tense)"
+      ],
+      [
+        "お帰（かえ）り (おかえり) — welcome back (expression)"
+      ],
+      [
+        "始（はじ）めます (はじめます) — to begin something (ichidan verb / polite form / non-past tense)"
+      ],
+      [
+        "授業（じゅぎょう） (じゅぎょう) — lesson, class (noun)"
+      ],
+      [
+        "私（わたし） (わたし) — I, me (personal pronoun)"
+      ],
+      [
+        "フランス語（ご） (ふらんすご) — French language (noun)"
+      ],
+      [
+        "分（わ）かる (わかる) — to understand (godan verb / non-past tense)"
+      ],
+      [
+        "教科書（きょうかしょ） (きょうかしょ) — textbook (noun)"
+      ],
+      [
+        "有（あ）ります (あります) — to have, to exist (for inanimate things) (irregular verb / polite form / non-past tense)"
+      ],
+      [
+        "カナダ人（じん） (かなだじん) — Canadian person (noun with person suffix)"
+      ],
+      [
+        "友達（ともだち） (ともだち) — friend (noun)"
+      ],
+      [
+        "居（い）る (いる) — to have, to exist (for animate things) (ichidan verb / non-past tense )"
+      ],
+      [
+        "海胆（うに） (うに) — sea urchin (noun)"
+      ],
+      [
+        "食（た）べたい (たべたい) — want to eat (ichidan verb / desiderative 〜たい form / non-past tense)"
+      ],
+      [
+        "歩（ある）いた (あるいた) — walked (godan verb / past tense)"
+      ],
+      [
+        "泳（およ）ぐ (およぐ) — to swim (godan verb / non-past tense)"
+      ],
+      [
+        "毎年（まいとし） (まいとし) — every year (temporal noun)"
+      ],
+      [
+        "熊野（くまの）古道（ふるみち） (くまのこどう) — Kumano Pilgrimage (proper noun)"
+      ],
+      [
+        "イギリス海峡（かいきょう） (いぎりすかいきょう) — English Channel (proper noun)"
+      ],
+      [
+        "最近（さいきん） (さいきん) — recently (temporal noun, adverb)"
+      ],
+      [
+        "ガソリン (がそりん) — gasoline (noun)"
+      ],
+      [
+        "値段（ねだん） (ねだん) — price (noun)"
+      ],
+      [
+        "上（あ）がった (あがった) — went up (godan verb / non-past tense)"
+      ],
+      [
+        "坂（さか） (さか) — hill (noun)"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "what-is-transitivity",
+      "text": "What is transitivity?"
+    },
+    {
+      "level": 3,
+      "id": "transitivity-pairs",
+      "text": "Transitivity Pairs"
+    },
+    {
+      "level": 3,
+      "id": "particles--and-",
+      "text": "Particles を and が"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "english-vs-japanese-transitivity",
+      "text": "English vs. Japanese Transitivity"
+    },
+    {
+      "level": 3,
+      "id": "intransitive-verbs-with-particle-",
+      "text": "Intransitive Verbs with Particle を"
+    },
+    {
+      "level": 4,
+      "id": "verbs-with-intention",
+      "text": "Verbs with Intention"
+    },
+    {
+      "level": 4,
+      "id": "movement-verbs",
+      "text": "Movement Verbs"
+    }
+  ],
+  "id": 42,
+  "slug": "transitivity",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/transitivity/",
+  "categories": [
+    "Transitivity"
+  ]
+}

@@ -1,0 +1,520 @@
+{
+  "title": "Particle より For \"Than…\" In Comparison",
+  "description": "In a comparative sentence, より is equivalent to the English word \"than...\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "In comparisons, particle より can be used in a similar way to \"than…\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, if you're comparing two different sizes of strawberries, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "このイチゴは、あのイチゴより大（おお）きい。",
+      "english": "This strawberry is bigger than that strawberry."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're growing strawberries and talking about how one strawberry grew faster than the other, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "このイチゴは、あのイチゴより速（はや）く育（そだ）っている。",
+      "english": "This strawberry has grown faster than that strawberry."
+    },
+    {
+      "type": "paragraph",
+      "text": "より indicates a comparison all by itself here, so the adjectives and adverbs that come after it — in this case 大（おお）きい (big) and 速（はや）く (quickly) — don't have to be changed at all. They keep their basic forms! Unlike English comparatives, which often require the addition of an -er suffix or words like \"more\" or \"less,\" Japanese comparative sentences don't need any additional changes to their adjectives and adverbs. To put it another way, you can build a lot of comparative sentences just by knowing a few patterns and vocabulary! Isn't that great?"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may already know that より can also be used to mean \"from\" and mark a starting point for something. If you are looking for information about より when it means \"from,\" please check out this page instead. Here we will focus on より when it means \"than\" in comparison. So let's move on and take a look at some of the sentence patterns that you can use with it!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section",
+      "text": "〜は〜より〜"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most basic sentence pattern with より is 〜は〜より〜, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "トムは、ベンより背（せ）が高（たか）い。",
+      "english": "Tom is taller than Ben."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this pattern, you first set a topic with the particle は , and then you set a comparison target with より."
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle も is sometimes added to より, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "トムは、ベンよりも背（せ）が高（たか）い。",
+      "english": "Tom is taller than Ben."
+    },
+    {
+      "type": "paragraph",
+      "text": "This も clarifies the relationship between the two compared entities, so it's a little emphatic, but the meaning remains the same."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note if the description part can be grammatically broken apart, 〜より can be put between the separated components."
+    },
+    {
+      "type": "example",
+      "japanese": "トムは、背（せ）が [ベンより] 高（たか）い。",
+      "english": "Tom is taller than Ben."
+    },
+    {
+      "type": "paragraph",
+      "text": "By switching orders, you can put some emphasis on the word pushed earlier in the position. However, especially in conversation, it's also possible that you just voiced the first thing that came to mind (背（せ）が) and then remembered to add the comparison (ベンより) and inserted it later."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-1",
+      "text": "〜方が〜より〜"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another common pattern with より is 〜方（かた）が〜より〜 (or より も , sometimes), like:"
+    },
+    {
+      "type": "example",
+      "japanese": "トムの方（ほう）が、ベンよりも背（せ）が高（たか）い。",
+      "english": "Tom is taller than Ben."
+    },
+    {
+      "type": "paragraph",
+      "text": "方（かた） is a word that can be used to indicate a particular \"direction.\" When it's used in a comparison, 方（かた） indicates you're comparing two entities and pointing to one of them. In this case, 方（かた） shows you're pointing in the direction of Tom and marks him as the subject of the comparison. Since 方（かた） behaves like a noun here, it takes the particle の to follow another noun トム, as in トム の 方（かた）."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, what makes this pattern distinct from the previous one? In the 〜は〜より〜 pattern, the particle は indicates Tom as a topic, making him a comparison benchmark. This pattern, on the other hand, merely compares the two people's heights without setting one as a basis. To put it another way, in the first pattern there's a sense that we're talking about Tom (because he's marked as the topic), but in the second pattern it feels like we're just talking about height."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 〜方（かた）が by itself can indicate the comparison and 〜より is often omitted if it's clear from the context or the situation. For example, if it's clear that you are comparing Tom with Ben, you can simply say:"
+    },
+    {
+      "type": "example",
+      "japanese": "トムの方（ほう）が背（せ）が高（たか）い。",
+      "english": "Tom is taller."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also compare adjectives with the pattern 〜方（かた）が〜より〜. If you're comparing い-adjectives like あつい (hot) or さむい (cold), you can directly attach them to 方（かた）."
+    },
+    {
+      "type": "example",
+      "japanese": "あつい方（ほう）が、さむいよりいい。",
+      "english": "It's better to be hot than cold."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course, な-adjectives like 真面目（まじめ） need a な when you attach them to 方（かた）. This is because 方（かた） works like noun — remember? より, on the other hand, is a particle and not a noun, so it can attach to な-adjectives without using a な."
+    },
+    {
+      "type": "example",
+      "japanese": "真面目（まじめ）な方（ほう）が、 不真面目（ふまじめ）よりいい。",
+      "english": "It's better to be serious than unserious."
+    },
+    {
+      "type": "paragraph",
+      "text": "What comes before 方（かた） can also be a clause. What is a clause?"
+    },
+    {
+      "type": "paragraph",
+      "text": "A clause is a sentence in its simplest form. It might be a whole sentence in and of itself, or it can be a sub-sentence within a longer sentence. The sentence \"[I like curry] and [I eat it every day]\" in English, for example, is made up of two clauses."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, a clause can directly modify another noun. For example, 私（わたし）が作（つく）る is a clause that means \"I make.\" If you attach this sentence to the noun カレー (curry), as in 私（わたし）が作（つく）るカレー, it can explain what kind of curry it is."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）が作（つく）る カレー",
+      "english": "the curry I make"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is known as a \"relative clause\" in English grammar, and it comes after the noun. That's why the translation says \"the curry I make.\" Conversely, clauses that modify nouns always come before the noun in Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, let's return to 方（かた）. If you want to say \"the curry I make is better than the curry Tom makes,\" you can use 方（かた） and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "[私（わたし）が作（つく）るカレー] の方（ほう）が [トムが作（つく）るカレー] よりおいしい。",
+      "english": "The curry I make is better than the curry Tom makes."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also attach a clause directly to 方（かた） and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "[私（わたし）が作（つく）る] 方（ほう）が [トムが作（つく）る] よりおいしい。",
+      "english": "I make it better than Tom does."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, if it's obvious what you are comparing with, you can omit 〜より and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "[私（わたし）が作（つく）る] 方（ほう）がおいしい。",
+      "english": "It tastes better when I make it."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "degrees-of-difference-with-",
+      "text": "Degrees of Difference with 〜より"
+    },
+    {
+      "type": "paragraph",
+      "text": "When comparing two entities, you might want to include information to talk about how much the entities differ by. In this case, that information is normally placed just after より or よりも. For example, if you want to say \"Tom is three years older than Ben,\" the word ３才（さい） (three years) comes after よりも, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "トムは、ベンよりも３才（さい）年上（としうえ）だ。",
+      "english": "Tom is three years older than Ben."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, if you want to state that an apple pie costs $5 more than a pumpkin pie, place 五（ご）ドル (five dollars) after より and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "アップルパイの方（ほう）が、パンプキンパイより五（ご）ドル高（たか）い。",
+      "english": "The apple pie is five dollars more expensive than the pumpkin pie."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "replace--with--in-negative-sentences",
+      "text": "Replace より with ほど in Negative Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "より, unlike the English word \"than,\" cannot be used in negative comparisons. Instead, replace より with ほど (degree/extent) and make the sentence negative. It'll mean something like \"not to the extent of…\" or \"not as much as…\" Don't worry, it's not as difficult as it appears. To see how this works, let's look at an earlier example. When comparing the size of two strawberries, you learned that you may say the following:"
+    },
+    {
+      "type": "example",
+      "japanese": "このイチゴは、あのイチゴより大（おお）きい。",
+      "english": "This strawberry is bigger than that strawberry."
+    },
+    {
+      "type": "paragraph",
+      "text": "To make this sentence negative, you switch より to ほど and turn 大（おお）きい to its negative くない form ."
+    },
+    {
+      "type": "example",
+      "japanese": "このイチゴは、あのイチゴほど大（おお）きくない。",
+      "english": "This strawberry is not as big as that strawberry."
+    },
+    {
+      "type": "paragraph",
+      "text": "This pattern is the main way to show comparisons of inferiority in Japanese. English has a couple ways to make those comparisons — \"not as big as\" or \"less big than,\" depending on the situation — but in Japanese you can rely on the ほど〜ない pattern alone for all your inferiority comparison needs. Pretty straightforward, right?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "when--means-than-and-from",
+      "text": "When より Means \"Than\" And \"From\""
+    },
+    {
+      "type": "paragraph",
+      "text": "We've seen how より means \"than\" in comparisons, but it has other uses as well.. より's fundamental meaning is \"source,\" and it was originally used to denote the starting point or origin of something. Nowadays, the particle から has mostly replaced this function, but より can still be used in that sense in formal contexts. We have a separate page for this use of より because the function is different from the comparative uses here."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are, however, some uses that overlap with the comparison ones. Let's have a look at a couple of examples. Let's say you're playing a game where people have to stand inside of a line. You may instruct others by saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "この線（せん）より内側（うちがわ）に立（た）ってください。",
+      "english": "Please stand on the inner side of this line. (Literally: Please stand farther in than this line.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, より marks この線（せん） (this line) and adds the meaning \"from this line onwards,\" so it's indicating a starting point in space. But because of the inside-outside contrast, it can also be used as a comparison word to mean \"farther in than this line.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is another scenario. Imagine your friend asks if they can phone you later. You're only available after six o'clock, so you respond:"
+    },
+    {
+      "type": "example",
+      "japanese": "六（ろく）時（じ）より後（のち）なら大丈夫（だいじょうぶ）だよ。",
+      "english": "I'll be good if it's after six o'clock. (Literally: I'll be good if it's later than six o'clock.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, より marks a point in time when you begin to be available. It is, however, also the point that separates the contrasted states (unavailable vs available) and hence includes the comparison nuance as well."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the two functions overlap, the formal tone of the starting point marker より often disappears. As a result, より as used in the examples above is pretty common in everyday conversation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section-2",
+      "text": "〜より仕方がない・〜より仕様がない・〜より他ない"
+    },
+    {
+      "type": "paragraph",
+      "text": "When より is used with 仕方（しかた）がない / 仕様（しよう）がない (no other way) or 他（ほか）ない (no other option), it means \"there is no other choice than to…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Assume you're planning to ride your bike to your friend's house. Just as you're about to leave the house, however, you find your bike's tires are flat. You have no choice but to walk there now. In this situation you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "歩（ある）くより [仕方（しかた）が・仕様（しよう）が・他（た）] ない。",
+      "english": "There is no other choice than to walk."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the phrases 仕方（しかた）がない and 仕様（しよう）がない are commonly used in everyday life, the より versions are formal and most often seen in literature. For everyday use, you can instead use the simpler 〜しかない, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "歩（ある）くしかない。",
+      "english": "There is no other choice than to walk."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "In comparisons, particle より can be used in a similar way to \"than…\" in English.",
+    "So, if you're comparing two different sizes of strawberries, you can say:",
+    "If you're growing strawberries and talking about how one strawberry grew faster than the other, you can say:",
+    "より indicates a comparison all by itself here, so the adjectives and adverbs that come after it — in this case 大（おお）きい (big) and 速（はや）く (quickly) — don't have to be changed at all. They keep their basic forms! Unlike English comparatives, which often require the addition of an -er suffix or words like \"more\" or \"less,\" Japanese comparative sentences don't need any additional changes to their adjectives and adverbs. To put it another way, you can build a lot of comparative sentences just by knowing a few patterns and vocabulary! Isn't that great?",
+    "You may already know that より can also be used to mean \"from\" and mark a starting point for something. If you are looking for information about より when it means \"from,\" please check out this page instead. Here we will focus on より when it means \"than\" in comparison. So let's move on and take a look at some of the sentence patterns that you can use with it!",
+    "The most basic sentence pattern with より is 〜は〜より〜, like:",
+    "In this pattern, you first set a topic with the particle は , and then you set a comparison target with より.",
+    "Particle も is sometimes added to より, as in:",
+    "This も clarifies the relationship between the two compared entities, so it's a little emphatic, but the meaning remains the same.",
+    "Note if the description part can be grammatically broken apart, 〜より can be put between the separated components.",
+    "By switching orders, you can put some emphasis on the word pushed earlier in the position. However, especially in conversation, it's also possible that you just voiced the first thing that came to mind (背（せ）が) and then remembered to add the comparison (ベンより) and inserted it later.",
+    "Another common pattern with より is 〜方（かた）が〜より〜 (or より も , sometimes), like:",
+    "方（かた） is a word that can be used to indicate a particular \"direction.\" When it's used in a comparison, 方（かた） indicates you're comparing two entities and pointing to one of them. In this case, 方（かた） shows you're pointing in the direction of Tom and marks him as the subject of the comparison. Since 方（かた） behaves like a noun here, it takes the particle の to follow another noun トム, as in トム の 方（かた）.",
+    "Now, what makes this pattern distinct from the previous one? In the 〜は〜より〜 pattern, the particle は indicates Tom as a topic, making him a comparison benchmark. This pattern, on the other hand, merely compares the two people's heights without setting one as a basis. To put it another way, in the first pattern there's a sense that we're talking about Tom (because he's marked as the topic), but in the second pattern it feels like we're just talking about height.",
+    "Note 〜方（かた）が by itself can indicate the comparison and 〜より is often omitted if it's clear from the context or the situation. For example, if it's clear that you are comparing Tom with Ben, you can simply say:",
+    "You can also compare adjectives with the pattern 〜方（かた）が〜より〜. If you're comparing い-adjectives like あつい (hot) or さむい (cold), you can directly attach them to 方（かた）.",
+    "Of course, な-adjectives like 真面目（まじめ） need a な when you attach them to 方（かた）. This is because 方（かた） works like noun — remember? より, on the other hand, is a particle and not a noun, so it can attach to な-adjectives without using a な.",
+    "What comes before 方（かた） can also be a clause. What is a clause?",
+    "A clause is a sentence in its simplest form. It might be a whole sentence in and of itself, or it can be a sub-sentence within a longer sentence. The sentence \"[I like curry] and [I eat it every day]\" in English, for example, is made up of two clauses.",
+    "In Japanese, a clause can directly modify another noun. For example, 私（わたし）が作（つく）る is a clause that means \"I make.\" If you attach this sentence to the noun カレー (curry), as in 私（わたし）が作（つく）るカレー, it can explain what kind of curry it is.",
+    "This is known as a \"relative clause\" in English grammar, and it comes after the noun. That's why the translation says \"the curry I make.\" Conversely, clauses that modify nouns always come before the noun in Japanese.",
+    "Now, let's return to 方（かた）. If you want to say \"the curry I make is better than the curry Tom makes,\" you can use 方（かた） and say:",
+    "You can also attach a clause directly to 方（かた） and say:",
+    "Again, if it's obvious what you are comparing with, you can omit 〜より and say:",
+    "When comparing two entities, you might want to include information to talk about how much the entities differ by. In this case, that information is normally placed just after より or よりも. For example, if you want to say \"Tom is three years older than Ben,\" the word ３才（さい） (three years) comes after よりも, as in:",
+    "Similarly, if you want to state that an apple pie costs $5 more than a pumpkin pie, place 五（ご）ドル (five dollars) after より and say:",
+    "より, unlike the English word \"than,\" cannot be used in negative comparisons. Instead, replace より with ほど (degree/extent) and make the sentence negative. It'll mean something like \"not to the extent of…\" or \"not as much as…\" Don't worry, it's not as difficult as it appears. To see how this works, let's look at an earlier example. When comparing the size of two strawberries, you learned that you may say the following:",
+    "To make this sentence negative, you switch より to ほど and turn 大（おお）きい to its negative くない form .",
+    "This pattern is the main way to show comparisons of inferiority in Japanese. English has a couple ways to make those comparisons — \"not as big as\" or \"less big than,\" depending on the situation — but in Japanese you can rely on the ほど〜ない pattern alone for all your inferiority comparison needs. Pretty straightforward, right?",
+    "We've seen how より means \"than\" in comparisons, but it has other uses as well.. より's fundamental meaning is \"source,\" and it was originally used to denote the starting point or origin of something. Nowadays, the particle から has mostly replaced this function, but より can still be used in that sense in formal contexts. We have a separate page for this use of より because the function is different from the comparative uses here.",
+    "There are, however, some uses that overlap with the comparison ones. Let's have a look at a couple of examples. Let's say you're playing a game where people have to stand inside of a line. You may instruct others by saying:",
+    "In this example, より marks この線（せん） (this line) and adds the meaning \"from this line onwards,\" so it's indicating a starting point in space. But because of the inside-outside contrast, it can also be used as a comparison word to mean \"farther in than this line.\"",
+    "Here is another scenario. Imagine your friend asks if they can phone you later. You're only available after six o'clock, so you respond:",
+    "In this sentence, より marks a point in time when you begin to be available. It is, however, also the point that separates the contrasted states (unavailable vs available) and hence includes the comparison nuance as well.",
+    "When the two functions overlap, the formal tone of the starting point marker より often disappears. As a result, より as used in the examples above is pretty common in everyday conversation.",
+    "When より is used with 仕方（しかた）がない / 仕様（しよう）がない (no other way) or 他（ほか）ない (no other option), it means \"there is no other choice than to…\"",
+    "Assume you're planning to ride your bike to your friend's house. Just as you're about to leave the house, however, you find your bike's tires are flat. You have no choice but to walk there now. In this situation you might say:",
+    "Although the phrases 仕方（しかた）がない and 仕様（しよう）がない are commonly used in everyday life, the より versions are formal and most often seen in literature. For everyday use, you can instead use the simpler 〜しかない, as in:"
+  ],
+  "examples": [
+    {
+      "japanese": "このイチゴは、あのイチゴより大（おお）きい。",
+      "english": "This strawberry is bigger than that strawberry."
+    },
+    {
+      "japanese": "このイチゴは、あのイチゴより速（はや）く育（そだ）っている。",
+      "english": "This strawberry has grown faster than that strawberry."
+    },
+    {
+      "japanese": "トムは、ベンより背（せ）が高（たか）い。",
+      "english": "Tom is taller than Ben."
+    },
+    {
+      "japanese": "トムは、ベンよりも背（せ）が高（たか）い。",
+      "english": "Tom is taller than Ben."
+    },
+    {
+      "japanese": "トムは、背（せ）が [ベンより] 高（たか）い。",
+      "english": "Tom is taller than Ben."
+    },
+    {
+      "japanese": "トムの方（ほう）が、ベンよりも背（せ）が高（たか）い。",
+      "english": "Tom is taller than Ben."
+    },
+    {
+      "japanese": "トムの方（ほう）が背（せ）が高（たか）い。",
+      "english": "Tom is taller."
+    },
+    {
+      "japanese": "あつい方（ほう）が、さむいよりいい。",
+      "english": "It's better to be hot than cold."
+    },
+    {
+      "japanese": "真面目（まじめ）な方（ほう）が、 不真面目（ふまじめ）よりいい。",
+      "english": "It's better to be serious than unserious."
+    },
+    {
+      "japanese": "私（わたし）が作（つく）る カレー",
+      "english": "the curry I make"
+    },
+    {
+      "japanese": "[私（わたし）が作（つく）るカレー] の方（ほう）が [トムが作（つく）るカレー] よりおいしい。",
+      "english": "The curry I make is better than the curry Tom makes."
+    },
+    {
+      "japanese": "[私（わたし）が作（つく）る] 方（ほう）が [トムが作（つく）る] よりおいしい。",
+      "english": "I make it better than Tom does."
+    },
+    {
+      "japanese": "[私（わたし）が作（つく）る] 方（ほう）がおいしい。",
+      "english": "It tastes better when I make it."
+    },
+    {
+      "japanese": "トムは、ベンよりも３才（さい）年上（としうえ）だ。",
+      "english": "Tom is three years older than Ben."
+    },
+    {
+      "japanese": "アップルパイの方（ほう）が、パンプキンパイより五（ご）ドル高（たか）い。",
+      "english": "The apple pie is five dollars more expensive than the pumpkin pie."
+    },
+    {
+      "japanese": "このイチゴは、あのイチゴより大（おお）きい。",
+      "english": "This strawberry is bigger than that strawberry."
+    },
+    {
+      "japanese": "このイチゴは、あのイチゴほど大（おお）きくない。",
+      "english": "This strawberry is not as big as that strawberry."
+    },
+    {
+      "japanese": "この線（せん）より内側（うちがわ）に立（た）ってください。",
+      "english": "Please stand on the inner side of this line. (Literally: Please stand farther in than this line.)"
+    },
+    {
+      "japanese": "六（ろく）時（じ）より後（のち）なら大丈夫（だいじょうぶ）だよ。",
+      "english": "I'll be good if it's after six o'clock. (Literally: I'll be good if it's later than six o'clock.)"
+    },
+    {
+      "japanese": "歩（ある）くより [仕方（しかた）が・仕様（しよう）が・他（た）] ない。",
+      "english": "There is no other choice than to walk."
+    },
+    {
+      "japanese": "歩（ある）くしかない。",
+      "english": "There is no other choice than to walk."
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "section",
+      "text": "〜は〜より〜"
+    },
+    {
+      "level": 4,
+      "id": "section-1",
+      "text": "〜方が〜より〜"
+    },
+    {
+      "level": 4,
+      "id": "degrees-of-difference-with-",
+      "text": "Degrees of Difference with 〜より"
+    },
+    {
+      "level": 3,
+      "id": "replace--with--in-negative-sentences",
+      "text": "Replace より with ほど in Negative Sentences"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "when--means-than-and-from",
+      "text": "When より Means \"Than\" And \"From\""
+    },
+    {
+      "level": 3,
+      "id": "section-2",
+      "text": "〜より仕方がない・〜より仕様がない・〜より他ない"
+    }
+  ],
+  "id": 31,
+  "slug": "particle-yori-than",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-yori-than/",
+  "categories": [
+    "Particle"
+  ]
+}

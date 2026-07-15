@@ -1,0 +1,338 @@
+{
+  "title": "〜なかった (Negative, Past)",
+  "description": "〜なかった is the past tense negative plain form of verbs. It adds the meaning of \"did not do [verb]\" to a sentence.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is なかった?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Verbs that end in 〜なかった, like 食（た）べなかった (did not eat), 飲（の）まなかった (did not drink), and 来（こ）なかった (did not come), are both past tense and negative. In other words, verbs in this form refer to the past and something that did not happen. In contrast to the verb ending 〜ませんでした, it does not show politeness. So when it is used at the end of a sentence, that sentence is casual rather than polite. It can also be used in the middle of a sentence, in which case it doesn't usually show whether the sentence is polite or not, but simply gives information about whatever comes next."
+    },
+    {
+      "type": "paragraph",
+      "text": "To conjugate verbs into 〜なかった, first conjugate verbs into the negative form , which ends in 〜ない. Since the 〜ない ending then conjugates like any other い-adjective , you can replace the 〜い on the end with 〜かった to make it past tense. For example, to turn 食（た）べる (to eat) into 〜なかった, you conjugate it into its negative form first, which is 食（た）べない. Then replace 〜い with 〜かった and, hey presto, you have the past negative form 食（た）べなかった."
+    },
+    {
+      "type": "formula",
+      "japanese": "食（た）べない + かった",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like the た form of verbs, 〜なかった is used to talk about the past. However, its use is a little more limited than its positive counterpart."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-the-past",
+      "text": "なかった for the Past"
+    },
+    {
+      "type": "paragraph",
+      "text": "We can use the past form 〜なかった to talk about a one-off action, a situation or a \"general truth\" in the past. It isn't generally used to talk about habitual actions (we tend to use 〜ていなかった to talk about habits). So if we watched our favorite Japanese TV show without subtitles last night, we might lament our inability to follow along by saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "全然（ぜんぜん）分（わ）からなかった。",
+      "english": "I didn't understand anything."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, if we understood the Japanese just fine, but found the show to be meaningless, we can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "見（み）る価値（かち）がなかった！",
+      "english": "Watching it was pointless!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In speaking, 〜なかった is often combined with particles to add a particular nuance or to give a more conversational tone:"
+    },
+    {
+      "type": "example",
+      "japanese": "全（まった）く意味（いみ）がなかったよね。",
+      "english": "It made no sense, huh?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "when-you-cant-use-",
+      "text": "When You Can't Use なかった"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are a couple of situations where you could be forgiven for thinking that this form would do the trick, but in fact it is either wrong, or might not have the meaning you'd expect."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first situation is the equivalent of the English \"haven't done.\" For example, your colleague is looking for a lunch buddy and asks if you've eaten:"
+    },
+    {
+      "type": "example",
+      "japanese": "お昼（ひる）ご飯（はん）もう食（た）べた？",
+      "english": "Have you had lunch yet?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you've eaten, you can give your answer in the past:"
+    },
+    {
+      "type": "example",
+      "japanese": "うん、もう食（た）べた。",
+      "english": "Yeah, I've already eaten."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if you want to tell your colleague that you haven't eaten yet, this is where Japanese differs quite a bit from English. In this case, you can't use the past form 〜なかった:"
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ まだ食（た）べなかった。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Instead, you'll want to use 〜ている in its negative form ていない. Since you're talking casually here, you'd probably also remove the い from 〜ている, giving you a response like:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ食（た）べてない。",
+      "english": "I haven't eaten yet."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reason for this might be easier to understand if you're familiar with British English. Whereas in American English, it is common to say, \"Did you eat yet?,\" a Brit would almost invariably say, \"Have you eaten yet?\" This is because, in the British mindset, sentences including \"yet\" and \"already\" are considered to be related to the present."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Japanese words もう (already) and まだ (yet) have exactly the same effect as \"yet\" and \"already\" in British English. When someone says もう食（た）べた？ this is the equivalent of \"Have you eaten yet?\" and so calls for the Japanese equivalent of \"I haven't eaten yet,\" which is 食（た）べていない."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's another way to think about it: 〜なかった indicates that the event happened at a particular moment in time in the past. However, the situation you are trying to describe here, \"not eating lunch yet,\" is something that still continues. Therefore, 〜なかった doesn't match, and you have to use 〜ている, which indicates the continuation of events."
+    },
+    {
+      "type": "paragraph",
+      "text": "Technically, you could answer without まだ and then 〜なかった would be possible. However, if you say 食（た）べなかった, this gives the impression that lunchtime is long gone, and so it would be a little odd in this context."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just in case you're wondering how to say \"I hadn't eaten,\" here we'd use the 食（た）べていなかった:"
+    },
+    {
+      "type": "example",
+      "japanese": "2時（じ）すぎたのに、まだ昼（ひる）ご飯（はん）を食（た）べていなかった。",
+      "english": "Although it was already after 2pm, I still hadn't eaten lunch."
+    },
+    {
+      "type": "paragraph",
+      "text": "The second situation where you might be tempted to use 〜なかった is if you want to say that you have never done something. Imagine your colleague asks you over lunch if you've ever been to Sapporo. If you've never been, the conversation would go something like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "札幌（さっぽろ）に行（い）ったこ��ある？",
+      "english": "Have you ever been to Sapporo?"
+    },
+    {
+      "type": "example",
+      "japanese": "いや、行（い）ったことない。",
+      "english": "No, I've never been."
+    },
+    {
+      "type": "paragraph",
+      "text": "Rather than using 行（い）かなかった or 行（い）ってない, we use the past plain form 行（おこな）った plus ことがない, or ことない in informal speech."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "in-the-middle-of-sentences",
+      "text": "なかった in the Middle of Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like other plain forms, 〜なかった can be used in the middle of a sentence. In this case, it no longer makes the sentence casual because politeness is generally shown at the end of a sentence. We say \"generally\" because if the parts of a sentence are self-contained (what linguists call \"independent clauses\"), politeness can be shown in the middle of a sentence. More about this later!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plenty of structures in Japanese only work when paired up with some kind of plain form. For this, 〜なかった will come in very handy. For example, かもしれない (probably) and と思（おも）う (I think) can both be used only with the plain form. So if we want to say we probably won't go to a party tomorrow, we can use かもしれない or its polite form かもしれません:"
+    },
+    {
+      "type": "example",
+      "japanese": "かなえはパーティーに行（い）かなかったかもしれません。",
+      "english": "Kanae probably didn't go to the party ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the overall sentence above is polite, and so has the polite form 〜ません at the end, using the polite form of 行（い）かなかった before かもしれません would be incorrect:"
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ 明日（あした）のパーティーに行（い）きませんかもしれません。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "❌ 明日（あした）のパーティーに行（い）きませんかもしれません。"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 〜なかった form also behaves like other plain forms in the way it fits together with nouns. If we want to say \"a TV show that wasn't interesting,\" we can simply put おもしろかった (was-interesting) before 番組（ばんぐみ） (TV program) to give us おもしろかった番組（ばんぐみ）. We can do exactly the same thing with verbs ending in 〜なかった too. This use is limited to situations where we really want to emphasize that the action happened in the past for some reason."
+    },
+    {
+      "type": "example",
+      "japanese": "行（い）かなかった場所（ばしょ）",
+      "english": "a place that I didn't go to"
+    },
+    {
+      "type": "example",
+      "japanese": "行（い）かなかった人（ひと）",
+      "english": "the person (or people) who didn't go"
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, we need to put the additional information afterwards, and often a word like \"who\" or \"that,\" but in Japanese we can simply add the extra information (in plain form) before the word. While this takes a little getting used to, it's a very handy way to make more complex sentences, and you'll come across it in Japanese all the time."
+    }
+  ],
+  "sections": [
+    "Verbs that end in 〜なかった, like 食（た）べなかった (did not eat), 飲（の）まなかった (did not drink), and 来（こ）なかった (did not come), are both past tense and negative. In other words, verbs in this form refer to the past and something that did not happen. In contrast to the verb ending 〜ませんでした, it does not show politeness. So when it is used at the end of a sentence, that sentence is casual rather than polite. It can also be used in the middle of a sentence, in which case it doesn't usually show whether the sentence is polite or not, but simply gives information about whatever comes next.",
+    "To conjugate verbs into 〜なかった, first conjugate verbs into the negative form , which ends in 〜ない. Since the 〜ない ending then conjugates like any other い-adjective , you can replace the 〜い on the end with 〜かった to make it past tense. For example, to turn 食（た）べる (to eat) into 〜なかった, you conjugate it into its negative form first, which is 食（た）べない. Then replace 〜い with 〜かった and, hey presto, you have the past negative form 食（た）べなかった.",
+    "Just like the た form of verbs, 〜なかった is used to talk about the past. However, its use is a little more limited than its positive counterpart.",
+    "We can use the past form 〜なかった to talk about a one-off action, a situation or a \"general truth\" in the past. It isn't generally used to talk about habitual actions (we tend to use 〜ていなかった to talk about habits). So if we watched our favorite Japanese TV show without subtitles last night, we might lament our inability to follow along by saying:",
+    "Similarly, if we understood the Japanese just fine, but found the show to be meaningless, we can say:",
+    "In speaking, 〜なかった is often combined with particles to add a particular nuance or to give a more conversational tone:",
+    "There are a couple of situations where you could be forgiven for thinking that this form would do the trick, but in fact it is either wrong, or might not have the meaning you'd expect.",
+    "The first situation is the equivalent of the English \"haven't done.\" For example, your colleague is looking for a lunch buddy and asks if you've eaten:",
+    "If you've eaten, you can give your answer in the past:",
+    "However, if you want to tell your colleague that you haven't eaten yet, this is where Japanese differs quite a bit from English. In this case, you can't use the past form 〜なかった:",
+    "Instead, you'll want to use 〜ている in its negative form ていない. Since you're talking casually here, you'd probably also remove the い from 〜ている, giving you a response like:",
+    "The reason for this might be easier to understand if you're familiar with British English. Whereas in American English, it is common to say, \"Did you eat yet?,\" a Brit would almost invariably say, \"Have you eaten yet?\" This is because, in the British mindset, sentences including \"yet\" and \"already\" are considered to be related to the present.",
+    "The Japanese words もう (already) and まだ (yet) have exactly the same effect as \"yet\" and \"already\" in British English. When someone says もう食（た）べた？ this is the equivalent of \"Have you eaten yet?\" and so calls for the Japanese equivalent of \"I haven't eaten yet,\" which is 食（た）べていない.",
+    "Here's another way to think about it: 〜なかった indicates that the event happened at a particular moment in time in the past. However, the situation you are trying to describe here, \"not eating lunch yet,\" is something that still continues. Therefore, 〜なかった doesn't match, and you have to use 〜ている, which indicates the continuation of events.",
+    "Technically, you could answer without まだ and then 〜なかった would be possible. However, if you say 食（た）べなかった, this gives the impression that lunchtime is long gone, and so it would be a little odd in this context.",
+    "Just in case you're wondering how to say \"I hadn't eaten,\" here we'd use the 食（た）べていなかった:",
+    "The second situation where you might be tempted to use 〜なかった is if you want to say that you have never done something. Imagine your colleague asks you over lunch if you've ever been to Sapporo. If you've never been, the conversation would go something like this:",
+    "Rather than using 行（い）かなかった or 行（い）ってない, we use the past plain form 行（おこな）った plus ことがない, or ことない in informal speech.",
+    "Just like other plain forms, 〜なかった can be used in the middle of a sentence. In this case, it no longer makes the sentence casual because politeness is generally shown at the end of a sentence. We say \"generally\" because if the parts of a sentence are self-contained (what linguists call \"independent clauses\"), politeness can be shown in the middle of a sentence. More about this later!",
+    "Plenty of structures in Japanese only work when paired up with some kind of plain form. For this, 〜なかった will come in very handy. For example, かもしれない (probably) and と思（おも）う (I think) can both be used only with the plain form. So if we want to say we probably won't go to a party tomorrow, we can use かもしれない or its polite form かもしれません:",
+    "Although the overall sentence above is polite, and so has the polite form 〜ません at the end, using the polite form of 行（い）かなかった before かもしれません would be incorrect:",
+    "❌ 明日（あした）のパーティーに行（い）きませんかもしれません。",
+    "The 〜なかった form also behaves like other plain forms in the way it fits together with nouns. If we want to say \"a TV show that wasn't interesting,\" we can simply put おもしろかった (was-interesting) before 番組（ばんぐみ） (TV program) to give us おもしろかった番組（ばんぐみ）. We can do exactly the same thing with verbs ending in 〜なかった too. This use is limited to situations where we really want to emphasize that the action happened in the past for some reason.",
+    "In English, we need to put the additional information afterwards, and often a word like \"who\" or \"that,\" but in Japanese we can simply add the extra information (in plain form) before the word. While this takes a little getting used to, it's a very handy way to make more complex sentences, and you'll come across it in Japanese all the time."
+  ],
+  "examples": [
+    {
+      "japanese": "全然（ぜんぜん）分（わ）からなかった。",
+      "english": "I didn't understand anything."
+    },
+    {
+      "japanese": "見（み）る価値（かち）がなかった！",
+      "english": "Watching it was pointless!"
+    },
+    {
+      "japanese": "全（まった）く意味（いみ）がなかったよね。",
+      "english": "It made no sense, huh?"
+    },
+    {
+      "japanese": "お昼（ひる）ご飯（はん）もう食（た）べた？",
+      "english": "Have you had lunch yet?"
+    },
+    {
+      "japanese": "うん、もう食（た）べた。",
+      "english": "Yeah, I've already eaten."
+    },
+    {
+      "japanese": "まだ食（た）べてない。",
+      "english": "I haven't eaten yet."
+    },
+    {
+      "japanese": "2時（じ）すぎたのに、まだ昼（ひる）ご飯（はん）を食（た）べていなかった。",
+      "english": "Although it was already after 2pm, I still hadn't eaten lunch."
+    },
+    {
+      "japanese": "札幌（さっぽろ）に行（い）ったこ��ある？",
+      "english": "Have you ever been to Sapporo?"
+    },
+    {
+      "japanese": "いや、行（い）ったことない。",
+      "english": "No, I've never been."
+    },
+    {
+      "japanese": "かなえはパーティーに行（い）かなかったかもしれません。",
+      "english": "Kanae probably didn't go to the party ."
+    },
+    {
+      "japanese": "行（い）かなかった場所（ばしょ）",
+      "english": "a place that I didn't go to"
+    },
+    {
+      "japanese": "行（い）かなかった人（ひと）",
+      "english": "the person (or people) who didn't go"
+    },
+    {
+      "japanese": "食（た）べない + かった",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "❌ まだ食（た）べなかった。",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "❌ 明日（あした）のパーティーに行（い）きませんかもしれません。",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is なかった?"
+    },
+    {
+      "level": 2,
+      "id": "for-the-past",
+      "text": "なかった for the Past"
+    },
+    {
+      "level": 2,
+      "id": "when-you-cant-use-",
+      "text": "When You Can't Use なかった"
+    },
+    {
+      "level": 2,
+      "id": "in-the-middle-of-sentences",
+      "text": "なかった in the Middle of Sentences"
+    }
+  ],
+  "id": 69,
+  "slug": "verb-negative-past-nakatta-form",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-negative-past-nakatta-form/",
+  "categories": [
+    "Verb Form"
+  ]
+}

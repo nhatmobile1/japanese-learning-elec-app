@@ -1,0 +1,137 @@
+{
+  "title": "〜おかげで",
+  "description": "〜おかげで credits a good outcome to a cause — \"thanks to.\" It is the positive counterpart of 〜せいで. Attach it to a noun with の or to a plain-form clause.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜おかげで expresses gratitude: something turned out well, and you're crediting the cause. Attach おかげで to a noun with の (先生（せんせい）のおかげで, \"thanks to my teacher\") or directly to a plain-form clause (薬（くすり）を飲（の）んだおかげで, \"thanks to taking the medicine\"). It comes from お陰（かげ）, literally \"honorable shade/shelter.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "noun ＋ の ＋ おかげで　／　plain form ＋ おかげで　（thanks to — good outcome）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "みんなのおかげで成功（せいこう）しました。",
+      "english": "Thanks to everyone, it was a success."
+    },
+    {
+      "type": "example",
+      "japanese": "先生（せんせい）のおかげで試験（しけん）に合格（ごうかく）できました。",
+      "english": "Thanks to my teacher, I was able to pass the exam."
+    },
+    {
+      "type": "example",
+      "japanese": "薬（くすり）を飲（の）んだおかげで熱（ねつ）が下（さ）がりました。",
+      "english": "Thanks to taking the medicine, my fever went down."
+    },
+    {
+      "type": "example",
+      "japanese": "あなたが手伝（てつだ）ってくれたおかげで早（はや）く終（お）わりました。",
+      "english": "Thanks to your help, I finished early."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "okagesama-and-irony",
+      "text": "おかげさまで and Ironic Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "おかげさまで is a set polite phrase — \"thanks to you / thankfully\" — used to answer after-you-well questions even when the listener did nothing specific. おかげで can also be turned sarcastic: pairing it with a bad result flips it into pointed blame, like saying \"thanks a lot\" through gritted teeth."
+    },
+    {
+      "type": "formula",
+      "japanese": "おかげさまで　（thankfully / thanks to you — set polite phrase）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "おかげさまで、家族（かぞく）はみんな元気（げんき）です。",
+      "english": "Thankfully, my whole family is doing well."
+    },
+    {
+      "type": "example",
+      "japanese": "君（きみ）のおかげで計画（けいかく）が台無（だいな）しだよ。",
+      "english": "Thanks to you, the plan is ruined. (sarcastic)"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "okagede-vs-seide-vs-tame",
+      "text": "おかげで vs せいで vs ため"
+    },
+    {
+      "type": "paragraph",
+      "text": "All three link a result to a cause, but the attitude differs. 〜おかげで gives credit — the outcome is good and you're grateful (先生（せんせい）のおかげで合格（ごうかく）した). 〜せいで assigns blame — the outcome is bad and you're pointing a finger (渋滞（じゅうたい）のせいで遅刻（ちこく）した). 〜ため is neutral and formal — it just states a cause with no praise or blame and fits written announcements (台風（たいふう）のため中止（ちゅうし）). Choose おかげで for good news, せいで for bad, and ため when you want to stay impartial."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "noun ＋ の ＋ おかげで　／　plain form ＋ おかげで　（thanks to — good outcome）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "みんなのおかげで成功（せいこう）しました。",
+      "english": "Thanks to everyone, it was a success."
+    },
+    {
+      "japanese": "先生（せんせい）のおかげで試験（しけん）に合格（ごうかく）できました。",
+      "english": "Thanks to my teacher, I was able to pass the exam."
+    },
+    {
+      "japanese": "薬（くすり）を飲（の）んだおかげで熱（ねつ）が下（さ）がりました。",
+      "english": "Thanks to taking the medicine, my fever went down."
+    },
+    {
+      "japanese": "あなたが手伝（てつだ）ってくれたおかげで早（はや）く終（お）わりました。",
+      "english": "Thanks to your help, I finished early."
+    },
+    {
+      "japanese": "おかげさまで　（thankfully / thanks to you — set polite phrase）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "おかげさまで、家族（かぞく）はみんな元気（げんき）です。",
+      "english": "Thankfully, my whole family is doing well."
+    },
+    {
+      "japanese": "君（きみ）のおかげで計画（けいかく）が台無（だいな）しだよ。",
+      "english": "Thanks to you, the plan is ruined. (sarcastic)"
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "okagesama-and-irony",
+      "text": "おかげさまで and Ironic Use"
+    },
+    {
+      "level": 2,
+      "id": "okagede-vs-seide-vs-tame",
+      "text": "おかげで vs せいで vs ため"
+    }
+  ],
+  "id": 1012,
+  "slug": "okage-de",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

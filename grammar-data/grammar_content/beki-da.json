@@ -1,0 +1,137 @@
+{
+  "title": "〜べきだ",
+  "description": "〜べきだ expresses that someone should or ought to do something — a strong opinion, moral duty, or firm piece of advice about the right thing to do.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attach べきだ to the plain (dictionary) form of a verb to say that doing it is the right or proper thing. 守（まも）る → 守（まも）るべきだ (\"ought to keep/protect\"). It's stronger and more principled than a casual suggestion — you're saying this is how things should be. For する, both するべき and the more formal すべき are used."
+    },
+    {
+      "type": "formula",
+      "japanese": "dictionary form ＋ べきだ　（する → するべき ／ すべき）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "約束（やくそく）は守（まも）るべきだ。",
+      "english": "You ought to keep your promises."
+    },
+    {
+      "type": "example",
+      "japanese": "学生（がくせい）はもっと勉強（べんきょう）するべきだ。",
+      "english": "Students should study more."
+    },
+    {
+      "type": "example",
+      "japanese": "親（おや）には本当（ほんとう）のことを言（い）うべきだ。",
+      "english": "You should tell your parents the truth."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "negative",
+      "text": "The Negative 〜べきではない"
+    },
+    {
+      "type": "paragraph",
+      "text": "To say someone shouldn't do something, use 〜べきではない (formal) or 〜べきじゃない (casual). This warns against an action as improper or wrong, not merely inadvisable."
+    },
+    {
+      "type": "formula",
+      "japanese": "〜べきではない ／ 〜べきじゃない　（shouldn't）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "性格（せいかく）のタイプは面白（おもしろ）いけど、一番（いちばん）大切（たいせつ）にするべきじゃない。",
+      "english": "Personality types are interesting, but you shouldn't treat them as the most important thing."
+    },
+    {
+      "type": "example",
+      "japanese": "人（ひと）の悪口（わるぐち）を言（い）うべきではない。",
+      "english": "You shouldn't badmouth people."
+    },
+    {
+      "type": "example",
+      "japanese": "そんな大事（だいじ）な決断（けつだん）を急（いそ）ぐべきではない。",
+      "english": "You shouldn't rush such an important decision."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beki-vs-hou-ga-ii",
+      "text": "べき vs ほうがいい"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜べきだ voices a strong, principled \"this is the right thing to do,\" so it can sound preachy when aimed at someone directly. 〜たほうがいい (\"you'd better…\") is gentler, everyday advice for a specific situation. And 〜なければならない is about necessity (you have no choice), while べきだ is about what's morally or logically correct. Note: べきだ is usually avoided for pointing obligations at a superior — it can come across as lecturing."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "dictionary form ＋ べきだ　（する → するべき ／ すべき）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "約束（やくそく）は守（まも）るべきだ。",
+      "english": "You ought to keep your promises."
+    },
+    {
+      "japanese": "学生（がくせい）はもっと勉強（べんきょう）するべきだ。",
+      "english": "Students should study more."
+    },
+    {
+      "japanese": "親（おや）には本当（ほんとう）のことを言（い）うべきだ。",
+      "english": "You should tell your parents the truth."
+    },
+    {
+      "japanese": "〜べきではない ／ 〜べきじゃない　（shouldn't）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "性格（せいかく）のタイプは面白（おもしろ）いけど、一番（いちばん）大切（たいせつ）にするべきじゃない。",
+      "english": "Personality types are interesting, but you shouldn't treat them as the most important thing."
+    },
+    {
+      "japanese": "人（ひと）の悪口（わるぐち）を言（い）うべきではない。",
+      "english": "You shouldn't badmouth people."
+    },
+    {
+      "japanese": "そんな大事（だいじ）な決断（けつだん）を急（いそ）ぐべきではない。",
+      "english": "You shouldn't rush such an important decision."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "negative",
+      "text": "The Negative 〜べきではない"
+    },
+    {
+      "level": 2,
+      "id": "beki-vs-hou-ga-ii",
+      "text": "べき vs ほうがいい"
+    }
+  ],
+  "id": 1006,
+  "slug": "beki-da",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

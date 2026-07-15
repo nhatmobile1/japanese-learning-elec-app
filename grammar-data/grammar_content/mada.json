@@ -1,0 +1,820 @@
+{
+  "title": "まだ",
+  "description": "まだ means \"still\" and まだ〜ない means \"not…yet.\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "まだ is a versatile adverb that can be used to express something you're still in the process of doing, or something you haven't done yet. Used in a positive context, まだ means \"still,\" whereas in a negative context, as in まだ〜ない, it implies that something has \"not yet\" happened."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, how does it work exactly? Let's take a look."
+    },
+    {
+      "type": "paragraph",
+      "text": "Say you went to the bathroom leaving your half-eaten breakfast on the table, and your mother asks, \"Hey, are you done with your breakfast?\" If you're not done yet, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ食（た）べる！",
+      "english": "I'm still gonna eat (it)!"
+    },
+    {
+      "type": "paragraph",
+      "text": "But after using the bathroom, you went straight into your room instead of returning to the table. An hour later, your mom asks:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ食（た）べないの？",
+      "english": "Are you going to finish this or not?(Literally: Are you not going to eat yet?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A note on translation: you'll notice that these look quite different, but the intention is the same — to ask whether or not you're still planning on eating what remains of your breakfast within a certain time frame. Like, \"You said you were coming back to eat this, so are you actually coming back or not?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "It's straightforward enough that you could just memorize the meanings of \"still\" and \"not yet,\" but in case you're curious, keep reading to find out why まだ can mean both \"still\" and \"(not) yet.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "At its core, まだ has similar connotations to the English \"yet\" – it assumes a pre-determined baseline for comparison, or reference point, by which the topic of a まだ statement is measured. To put it simply, まだ expresses that whatever it is you're talking about hasn't passed that point of reference, yet ."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the first example, your reference point was set to \"when you are done with your breakfast\" and まだ shows that you are still eating and you have not gone beyond that point yet ."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the second example, the reference point was set to \"when you resume eating,\" and your mom asks if you are still doing what you're doing and are not going to go beyond that point yet using まだ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Did you notice how the words still and not yet appear in both explanations? It's because the \"still\" and \"not yet\" statements are essentially rephrased versions of each other. In other words, \"I'm still eating\" is merely a paraphrase of \"I'm not done with my breakfast yet .\" And in Japanese, まだ is used for both versions."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb",
+      "text": "まだ + Verb"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you saw in the examples above, まだ can be paired with a verb, as in まだ食（た）べる (will still eat) and まだ食（た）べない (won't eat yet). In these examples, the plain form (a.k.a. dictionary form) 食（た）べる, or the negative form 食（た）べない, express whether you're going to eat or not, with まだ supplying the \"yet\" either positively (as in \"still\"), or negatively (as in, \"not yet\")."
+    },
+    {
+      "type": "paragraph",
+      "text": "To take it one step further, if the focus is on the fact that you are still eating rather than still going to eat, you would use the ている form of the verb or its negative form, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ食（た）べて(い)る。",
+      "english": "I'm still eating."
+    },
+    {
+      "type": "example",
+      "japanese": "まだ食（た）べて(い)ない。",
+      "english": "I haven't eaten yet."
+    },
+    {
+      "type": "paragraph",
+      "text": "(In this case, the い of the 〜ている form is commonly omitted in spoken language.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "So be on the lookout if someone asks you, \"Have you had lunch yet?\" Beginner learners frequently make the error of saying まだ食（た）べない, which means \"I won't eat yet.\" To say you haven't eaten yet, you need to say まだ食（た）べて(い)ない."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective",
+      "text": "まだ + Adjective"
+    },
+    {
+      "type": "paragraph",
+      "text": "まだ can also be used with an adjective to express that the current state of something is still that way, or not yet the way you describe, but it will be. For instance, if you want to talk about a drink you left in the car, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ 冷（つめ）たい。",
+      "english": "It's still cold."
+    },
+    {
+      "type": "example",
+      "japanese": "まだ冷（つめ）たくない。",
+      "english": "It's not cold yet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that the い-adjective 冷（つめ）たい (meaning \"cold\" for things) takes the negative くない form in the second example. 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the case of a な-adjective, you would attach じゃない to the end. Take the な-adjective 有名（ゆうめい） (meaning \"famous\"):"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ有名（ゆうめい）じゃない。",
+      "english": "I'm not famous yet."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun",
+      "text": "まだ + Noun"
+    },
+    {
+      "type": "paragraph",
+      "text": "まだ can also be paired with nouns that describe age, roles, time, places, events, or anything else that can eventually reach or pass a point."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you've been a teacher for some time and you want to say that you're still a teacher, you can use まだ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ先生（せんせい）。",
+      "english": "I'm still a teacher."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course, you can use まだ with です or だ , too, as in まだ 先生（せんせい）です or まだ 先生（せんせい）だ."
+    },
+    {
+      "type": "paragraph",
+      "text": "But to tell someone that you haven't become a school principal yet, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ 校長（こうちょう） 先生（せんせい）じゃない。",
+      "english": "I'm not a principal yet."
+    },
+    {
+      "type": "paragraph",
+      "text": "And again, you can use まだ with different variations, too, such as まだ 先生（せんせい）[じゃないです・ではない・ではありません]."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "without--for-not-yet",
+      "text": "まだ Without ない For \"Not Yet\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You learned that まだ means \"not yet\" when it's used in a negative statement with ない (not). However, sometimes this ない is omitted, but the connotation remains, \"not yet.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Say a friend asks if you've finished your homework, and you want to say that you haven't. You can simply say:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ！",
+      "english": "Not yet!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, ない (not done) is omitted and まだ by itself implies \"not yet.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at another example. Say you're hungry and wonder when dinner is going to be ready. In this situation, you might ask your parent:"
+    },
+    {
+      "type": "example",
+      "japanese": "晩（ばん）ごはんまだ？",
+      "english": "Is dinner ready yet?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a bit tricky because the English translation doesn't usually include the word \"not\" unless you want to express your surprise that dinner isn't ready yet. In Japanese, the complete statement would be, 晩（ばん）ごはんまだ できてない ？ (Is the dinner not ready yet?)."
+    },
+    {
+      "type": "paragraph",
+      "text": "To continue the scenario, if dinner isn't ready yet, your parent may respond with:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだだよ！",
+      "english": "Not yet!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, the full sentence would be まだ できてない よ. In its shortened form, できてない is replaced with だ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like in this example, まだ can be directly followed by the affirmative だ, as in まだだ, or the polite です, as in まだです, when indicating \"not yet.\""
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "is-this--not-yet-or-still",
+      "text": "Is This まだ \"Not Yet\" or \"Still\"?"
+    },
+    {
+      "type": "paragraph",
+      "text": "So how do you know if まだ means \"not yet\" without the ない? Don't worry. It's actually easy! Because まだ is more likely to signify \"not yet\" when used alone."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, you may respond with まだ (not yet) when your mom asks if you finished your homework."
+    },
+    {
+      "type": "example",
+      "japanese": "まだ宿題（しゅくだい）終（お）わってないの？",
+      "english": "You haven't finished your homework yet?"
+    },
+    {
+      "type": "example",
+      "japanese": "うん、まだ！",
+      "english": "Yeah, Not yet!"
+    },
+    {
+      "type": "paragraph",
+      "text": "The same question can be asked differently with まだ meaning \"still,\" as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ宿題（しゅくだい）してるの？",
+      "english": "Are you still doing your homework?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you would only rarely say まだ, but would combine it with another word that indicates the situation is ongoing (in this case, してる):"
+    },
+    {
+      "type": "example",
+      "japanese": "うん、まだしてる！",
+      "english": "Yeah, I'm still working on it!"
+    },
+    {
+      "type": "paragraph",
+      "text": "This doesn't mean that you should never use まだ on its own to denote \"still,\" but the use is more limited. That is, it's typically used when you're shocked that someone is continuing to do something that they're not supposed to be doing."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if your friend tells you they're still dating a man who cheated on them three times, you might react with まだ meaning \"still.\""
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）、まだあの男（おとこ）と付（つ）き合（あ）ってるんだよね。",
+      "english": "I'm still dating that guy."
+    },
+    {
+      "type": "example",
+      "japanese": "え、まだ！？早（はや）く別（わか）れなよ！",
+      "english": "What, still!? You should break up with him soon."
+    },
+    {
+      "type": "paragraph",
+      "text": "But depending on the context, まだ in this instance can also imply \"not yet.\" The identical dialogue, for instance, can be rephrased as follows:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）、まだあの男（おとこ）と別（わか）れてないんだよね。",
+      "english": "I haven't broken up with that guy yet."
+    },
+    {
+      "type": "example",
+      "japanese": "え、まだ！？早（はや）く別（わか）れなよ！",
+      "english": "What, not yet!? You should break up with him soon."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, when まだ means \"still,\" the context is focusing on the continuation of the situation. On the other hand, when まだ means \"not yet,\" the context is focusing on the end point of something and you still haven't reached that point yet ."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if you aren't sure if まだ means \"still\" or \"not yet,\" just pay attention to the context, and it will tell you the answer!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-still-have",
+      "text": "まだ For \"Still have…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You learned that まだ used in a positive statement means \"still,\" so when it's used in the context of something that remains the case, it indicates \"I still have…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider the following scenario: You're nearly finished with the JLPT (Japanese-Language Proficiency Test), but you're worried you won't be able to finish it in the given timeframe. You glance at the clock with some anxiety and are relieved to see that there are still 15 minutes left, so you tell yourself:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ十（じゅう）五（ご）分（ふん）もある。",
+      "english": "I still have 15 minutes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Phew, you still have some time left!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although it might seem obvious, this statement can also imply the adverse, meaning, you're describing an undesirable situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "For instance, if you force yourself to study kanji for two hours every day, you might start to get tired of it toward the end of your study session. まだ 十（じゅう）五（ご）分（ふん）もある in this context conveys the unfavorable implication that although you want to be done soon, you still have 15 minutes left to go."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at another example. Say, for instance, that you have a prescription antihistamine on hand at all times for a persistent allergy. You check the medication bottle one day, wondering if you need to renew your prescription, and find that you still have about ten days' worth of pills left, so you say to yourself:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ十（じゅう）日（にち）分（ぶん）くらい 残（のこ）ってる。",
+      "english": "I still have about ten days' worth of pills left."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, まだ indicates that you still have time to renew your prescription before your supply runs out, and you feel relieved."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, again, this sentence can also imply that you're talking about something negative that you don't want to remain the case. For example, if you're discussing your homework instead of your medication, you can say まだ 十（じゅう）日（にち）分（ぶん）くらい残（のこ）ってる in a tone that conveys your frustration."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "vs--still-have-vs-only-have",
+      "text": "まだ vs もう: \"Still have…\" vs \"Only have…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "I'm sure you've heard the phrase, \"Is the glass half full, or half empty?\" This expression is used rhetorically to suggest that a specific circumstance can be viewed either positively (half full) or negatively (half empty)."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see from the above instances, まだ can express an optimistic viewpoint, as in \"we still have this much of something remaining.\" To express the pessimistic viewpoint, as in \"we only have this much left,\" you would use もう (already) with しか and ない, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "もう十（じゅう）五（ご）分（ふん）しかない。",
+      "english": "I (already) only have 15 minutes."
+    },
+    {
+      "type": "example",
+      "japanese": "もう十（じゅう）日（にち）分（ぶん）くらいしか残（のこ）ってない。",
+      "english": "I (already) only have about ten days' worth of pills left."
+    },
+    {
+      "type": "paragraph",
+      "text": "In both examples, もう indicates that you have already reached a specific point, and しか and ない indicate that this is the point at which the quantity of something is insufficient. 2"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-only",
+      "text": "まだ For \"Only\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You learned まだ in the positive statement means \"still,\" but keep in mind that it's also common to translate it to \"only\" when expressing how little, small, young, or insignificant it is."
+    },
+    {
+      "type": "paragraph",
+      "text": "For instance, suppose you got a job babysitting a three-year-old boy. You aren't used to playing with small children and quickly get tired out. When you look at the clock, you're taken aback and exclaim:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ十（じゅう）五（ご）分（ふん）しかたってないの！？",
+      "english": "It's only been 15 minutes!?"
+    },
+    {
+      "type": "paragraph",
+      "text": "By using まだ here, you're expressing your surprise that only a mere 15 minutes has passed when in reality it feels like much more time had gone by. In other words, the time that passed hadn't gone beyond the point you expected yet ."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you might have noticed, しか in the 〜しか〜ない structure on its own indicates \"only…and anything more.\" So in this case, まだ is adding an extra nuance to stress that it's only been 15 minutes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's keep the same scenario going. Say it's finally snack time, and you thought you'd get some rest, but he spills milk all over the place. While cleaning the table and floor, you tell yourself:"
+    },
+    {
+      "type": "example",
+      "japanese": "まだ三（さん）才（さい）だから、仕方（しかた）ないよね。",
+      "english": "He's only three years old, so what can I do, huh?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, まだ expresses your understanding that he is not yet at an age where he has control over his actions. He's only three years old, so the circumstance is unavoidable."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-continuation-in-the-future",
+      "text": "まだ For \"Continuation In the Future\""
+    },
+    {
+      "type": "paragraph",
+      "text": "When まだ means \"still,\" it can indicate the continuation of something that started in the past, as in まだ 雨（あめ）が降（ふ）っている (it's still raining), but it can also be used to talk about something currently happening that will continue in the future. For instance, if it's raining and you think it will keep raining for a while, you can use まだ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）はまだ降（ふ）り続（つづ）けるだろう。",
+      "english": "The rain will probably (still) continue falling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, if recent rain has lowered the temperature and it has been relatively cool, but you feel the trend will continue and the temperature will drop even further, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "気温（きおん）はまだもっと下（さ）がるだろう。",
+      "english": "The temperature will (still) drop even more."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also double up まだ to emphasize that the trend still has a long way to go, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）はまだまだ降（ふ）り続（つづ）けるだろう。",
+      "english": "The rain will probably continue falling (on and on)."
+    },
+    {
+      "type": "example",
+      "japanese": "気温（きおん）はまだまだもっと下（さ）がるだろう。",
+      "english": "The temperature will drop even lower (and lower)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe it's obvious because it's pretty much the same in English, but if the context indicates that the trend will continue but only for a little longer, you must use the single まだ because the emphatic まだまだ will conflict."
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）は (❌まだまだ・⭕まだ) 少（すこ）し降（ふ）り続（つづ）けるだろう。",
+      "english": "The rain will probably (still) fall for a little while longer."
+    },
+    {
+      "type": "example",
+      "japanese": "気温（きおん）は (❌まだまだ・⭕まだ) 二（に）、三（さん）度（ど）下（さ）がるだろう。",
+      "english": "The temperature will (still) drop even lower by a few degrees."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "or--for-slightly-better-in-comparison",
+      "text": "まだいい or まだまし For \"Slightly Better\" In Comparison"
+    },
+    {
+      "type": "paragraph",
+      "text": "まだ can be used in phrases like まだいい or まだまし, which both express that none of the things listed are good, but one option is slightly preferable to the others."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, assume you despise anything sweet, but you got a fruit basket as a gift. You're not a big fan of fruit, but thinking about the possibility of having received something even sweeter, you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "フルーツの方（ほう）が、チョコレートよりはまだいいかな。",
+      "english": "Fruit is still slightly better than chocolate (would have been)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember when we talked about reference points earlier? Here, your reference points are the two options, and まだ indicates that getting a fruit basket is still on the preferable side, having not yet crossed the line to the vastly preferable — chocolate, in this case."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's consider another scenario. Someone asks you, \"Would you rather have nosy neighbors or noisy neighbors?\" Of course, neither sort of neighbor is desirable, but you might find that the nosy ones are slightly more tolerable than the ones who constantly make noise, so you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "うるさい人（ひと）より、人（ひと）のことを知（し）りたがる人（ひと）の方（ほう）がまだましかな。",
+      "english": "Maybe nosy neighbors are still slightly better than noisy ones."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, in this example, your reference point is whichever option is worse. So to refer back to the concept that using まだ indicates an established baseline, what you're saying is that having nosy neighbors is still on the bearable side of that line, having not yet crossed it."
+    },
+    {
+      "type": "paragraph",
+      "text": "冷（つめ）たい is the use of \"cold\" as in someTHING that is cold. If the weather is \"cold,\" you would use 寒（さむ）い instead. &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since まだ and もう express two sides of the same coin, Japanese has a saying: もうはまだなり まだはもうなり (When you think it's もう, it's actually still まだ. When you think まだ, it's actually already もう). This is a metaphor for things that are difficult to predict and often go completely the opposite as expected. This saying is often used in the stock market to describe a situation when you think the market has already bottomed out or reached a high, there is a further decline or rise, and when you think the market is still moving, it has already reached its limit. &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "まだ is a versatile adverb that can be used to express something you're still in the process of doing, or something you haven't done yet. Used in a positive context, まだ means \"still,\" whereas in a negative context, as in まだ〜ない, it implies that something has \"not yet\" happened.",
+    "So, how does it work exactly? Let's take a look.",
+    "Say you went to the bathroom leaving your half-eaten breakfast on the table, and your mother asks, \"Hey, are you done with your breakfast?\" If you're not done yet, you could say:",
+    "But after using the bathroom, you went straight into your room instead of returning to the table. An hour later, your mom asks:",
+    "A note on translation: you'll notice that these look quite different, but the intention is the same — to ask whether or not you're still planning on eating what remains of your breakfast within a certain time frame. Like, \"You said you were coming back to eat this, so are you actually coming back or not?\"",
+    "It's straightforward enough that you could just memorize the meanings of \"still\" and \"not yet,\" but in case you're curious, keep reading to find out why まだ can mean both \"still\" and \"(not) yet.\"",
+    "At its core, まだ has similar connotations to the English \"yet\" – it assumes a pre-determined baseline for comparison, or reference point, by which the topic of a まだ statement is measured. To put it simply, まだ expresses that whatever it is you're talking about hasn't passed that point of reference, yet .",
+    "In the first example, your reference point was set to \"when you are done with your breakfast\" and まだ shows that you are still eating and you have not gone beyond that point yet .",
+    "In the second example, the reference point was set to \"when you resume eating,\" and your mom asks if you are still doing what you're doing and are not going to go beyond that point yet using まだ.",
+    "Did you notice how the words still and not yet appear in both explanations? It's because the \"still\" and \"not yet\" statements are essentially rephrased versions of each other. In other words, \"I'm still eating\" is merely a paraphrase of \"I'm not done with my breakfast yet .\" And in Japanese, まだ is used for both versions.",
+    "As you saw in the examples above, まだ can be paired with a verb, as in まだ食（た）べる (will still eat) and まだ食（た）べない (won't eat yet). In these examples, the plain form (a.k.a. dictionary form) 食（た）べる, or the negative form 食（た）べない, express whether you're going to eat or not, with まだ supplying the \"yet\" either positively (as in \"still\"), or negatively (as in, \"not yet\").",
+    "To take it one step further, if the focus is on the fact that you are still eating rather than still going to eat, you would use the ている form of the verb or its negative form, like:",
+    "(In this case, the い of the 〜ている form is commonly omitted in spoken language.)",
+    "So be on the lookout if someone asks you, \"Have you had lunch yet?\" Beginner learners frequently make the error of saying まだ食（た）べない, which means \"I won't eat yet.\" To say you haven't eaten yet, you need to say まだ食（た）べて(い)ない.",
+    "まだ can also be used with an adjective to express that the current state of something is still that way, or not yet the way you describe, but it will be. For instance, if you want to talk about a drink you left in the car, you could say:",
+    "Note that the い-adjective 冷（つめ）たい (meaning \"cold\" for things) takes the negative くない form in the second example. 1",
+    "In the case of a な-adjective, you would attach じゃない to the end. Take the な-adjective 有名（ゆうめい） (meaning \"famous\"):",
+    "まだ can also be paired with nouns that describe age, roles, time, places, events, or anything else that can eventually reach or pass a point.",
+    "For example, if you've been a teacher for some time and you want to say that you're still a teacher, you can use まだ and say:",
+    "Of course, you can use まだ with です or だ , too, as in まだ 先生（せんせい）です or まだ 先生（せんせい）だ.",
+    "But to tell someone that you haven't become a school principal yet, you can say:",
+    "And again, you can use まだ with different variations, too, such as まだ 先生（せんせい）[じゃないです・ではない・ではありません].",
+    "You learned that まだ means \"not yet\" when it's used in a negative statement with ない (not). However, sometimes this ない is omitted, but the connotation remains, \"not yet.\"",
+    "Say a friend asks if you've finished your homework, and you want to say that you haven't. You can simply say:",
+    "In this example, ない (not done) is omitted and まだ by itself implies \"not yet.\"",
+    "Let's take a look at another example. Say you're hungry and wonder when dinner is going to be ready. In this situation, you might ask your parent:",
+    "This is a bit tricky because the English translation doesn't usually include the word \"not\" unless you want to express your surprise that dinner isn't ready yet. In Japanese, the complete statement would be, 晩（ばん）ごはんまだ できてない ？ (Is the dinner not ready yet?).",
+    "To continue the scenario, if dinner isn't ready yet, your parent may respond with:",
+    "Here, the full sentence would be まだ できてない よ. In its shortened form, できてない is replaced with だ.",
+    "Just like in this example, まだ can be directly followed by the affirmative だ, as in まだだ, or the polite です, as in まだです, when indicating \"not yet.\"",
+    "So how do you know if まだ means \"not yet\" without the ない? Don't worry. It's actually easy! Because まだ is more likely to signify \"not yet\" when used alone.",
+    "For example, you may respond with まだ (not yet) when your mom asks if you finished your homework.",
+    "The same question can be asked differently with まだ meaning \"still,\" as in:",
+    "In this case, you would only rarely say まだ, but would combine it with another word that indicates the situation is ongoing (in this case, してる):",
+    "This doesn't mean that you should never use まだ on its own to denote \"still,\" but the use is more limited. That is, it's typically used when you're shocked that someone is continuing to do something that they're not supposed to be doing.",
+    "For example, if your friend tells you they're still dating a man who cheated on them three times, you might react with まだ meaning \"still.\"",
+    "But depending on the context, まだ in this instance can also imply \"not yet.\" The identical dialogue, for instance, can be rephrased as follows:",
+    "As you can see, when まだ means \"still,\" the context is focusing on the continuation of the situation. On the other hand, when まだ means \"not yet,\" the context is focusing on the end point of something and you still haven't reached that point yet .",
+    "So if you aren't sure if まだ means \"still\" or \"not yet,\" just pay attention to the context, and it will tell you the answer!",
+    "You learned that まだ used in a positive statement means \"still,\" so when it's used in the context of something that remains the case, it indicates \"I still have…\"",
+    "Consider the following scenario: You're nearly finished with the JLPT (Japanese-Language Proficiency Test), but you're worried you won't be able to finish it in the given timeframe. You glance at the clock with some anxiety and are relieved to see that there are still 15 minutes left, so you tell yourself:",
+    "Phew, you still have some time left!",
+    "Although it might seem obvious, this statement can also imply the adverse, meaning, you're describing an undesirable situation.",
+    "For instance, if you force yourself to study kanji for two hours every day, you might start to get tired of it toward the end of your study session. まだ 十（じゅう）五（ご）分（ふん）もある in this context conveys the unfavorable implication that although you want to be done soon, you still have 15 minutes left to go.",
+    "Let's take a look at another example. Say, for instance, that you have a prescription antihistamine on hand at all times for a persistent allergy. You check the medication bottle one day, wondering if you need to renew your prescription, and find that you still have about ten days' worth of pills left, so you say to yourself:",
+    "Here, まだ indicates that you still have time to renew your prescription before your supply runs out, and you feel relieved.",
+    "However, again, this sentence can also imply that you're talking about something negative that you don't want to remain the case. For example, if you're discussing your homework instead of your medication, you can say まだ 十（じゅう）日（にち）分（ぶん）くらい残（のこ）ってる in a tone that conveys your frustration.",
+    "I'm sure you've heard the phrase, \"Is the glass half full, or half empty?\" This expression is used rhetorically to suggest that a specific circumstance can be viewed either positively (half full) or negatively (half empty).",
+    "As you can see from the above instances, まだ can express an optimistic viewpoint, as in \"we still have this much of something remaining.\" To express the pessimistic viewpoint, as in \"we only have this much left,\" you would use もう (already) with しか and ない, as in:",
+    "In both examples, もう indicates that you have already reached a specific point, and しか and ない indicate that this is the point at which the quantity of something is insufficient. 2",
+    "You learned まだ in the positive statement means \"still,\" but keep in mind that it's also common to translate it to \"only\" when expressing how little, small, young, or insignificant it is.",
+    "For instance, suppose you got a job babysitting a three-year-old boy. You aren't used to playing with small children and quickly get tired out. When you look at the clock, you're taken aback and exclaim:",
+    "By using まだ here, you're expressing your surprise that only a mere 15 minutes has passed when in reality it feels like much more time had gone by. In other words, the time that passed hadn't gone beyond the point you expected yet .",
+    "As you might have noticed, しか in the 〜しか〜ない structure on its own indicates \"only…and anything more.\" So in this case, まだ is adding an extra nuance to stress that it's only been 15 minutes.",
+    "Let's keep the same scenario going. Say it's finally snack time, and you thought you'd get some rest, but he spills milk all over the place. While cleaning the table and floor, you tell yourself:",
+    "Here, まだ expresses your understanding that he is not yet at an age where he has control over his actions. He's only three years old, so the circumstance is unavoidable.",
+    "When まだ means \"still,\" it can indicate the continuation of something that started in the past, as in まだ 雨（あめ）が降（ふ）っている (it's still raining), but it can also be used to talk about something currently happening that will continue in the future. For instance, if it's raining and you think it will keep raining for a while, you can use まだ and say:",
+    "Similarly, if recent rain has lowered the temperature and it has been relatively cool, but you feel the trend will continue and the temperature will drop even further, you can say:",
+    "You can also double up まだ to emphasize that the trend still has a long way to go, like:",
+    "Maybe it's obvious because it's pretty much the same in English, but if the context indicates that the trend will continue but only for a little longer, you must use the single まだ because the emphatic まだまだ will conflict.",
+    "まだ can be used in phrases like まだいい or まだまし, which both express that none of the things listed are good, but one option is slightly preferable to the others.",
+    "For example, assume you despise anything sweet, but you got a fruit basket as a gift. You're not a big fan of fruit, but thinking about the possibility of having received something even sweeter, you might say:",
+    "Remember when we talked about reference points earlier? Here, your reference points are the two options, and まだ indicates that getting a fruit basket is still on the preferable side, having not yet crossed the line to the vastly preferable — chocolate, in this case.",
+    "Let's consider another scenario. Someone asks you, \"Would you rather have nosy neighbors or noisy neighbors?\" Of course, neither sort of neighbor is desirable, but you might find that the nosy ones are slightly more tolerable than the ones who constantly make noise, so you say:",
+    "Again, in this example, your reference point is whichever option is worse. So to refer back to the concept that using まだ indicates an established baseline, what you're saying is that having nosy neighbors is still on the bearable side of that line, having not yet crossed it.",
+    "冷（つめ）たい is the use of \"cold\" as in someTHING that is cold. If the weather is \"cold,\" you would use 寒（さむ）い instead. &#8617;",
+    "Since まだ and もう express two sides of the same coin, Japanese has a saying: もうはまだなり まだはもうなり (When you think it's もう, it's actually still まだ. When you think まだ, it's actually already もう). This is a metaphor for things that are difficult to predict and often go completely the opposite as expected. This saying is often used in the stock market to describe a situation when you think the market has already bottomed out or reached a high, there is a further decline or rise, and when you think the market is still moving, it has already reached its limit. &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "まだ食（た）べる！",
+      "english": "I'm still gonna eat (it)!"
+    },
+    {
+      "japanese": "まだ食（た）べないの？",
+      "english": "Are you going to finish this or not?(Literally: Are you not going to eat yet?)"
+    },
+    {
+      "japanese": "まだ食（た）べて(い)る。",
+      "english": "I'm still eating."
+    },
+    {
+      "japanese": "まだ食（た）べて(い)ない。",
+      "english": "I haven't eaten yet."
+    },
+    {
+      "japanese": "まだ 冷（つめ）たい。",
+      "english": "It's still cold."
+    },
+    {
+      "japanese": "まだ冷（つめ）たくない。",
+      "english": "It's not cold yet."
+    },
+    {
+      "japanese": "まだ有名（ゆうめい）じゃない。",
+      "english": "I'm not famous yet."
+    },
+    {
+      "japanese": "まだ先生（せんせい）。",
+      "english": "I'm still a teacher."
+    },
+    {
+      "japanese": "まだ 校長（こうちょう） 先生（せんせい）じゃない。",
+      "english": "I'm not a principal yet."
+    },
+    {
+      "japanese": "まだ！",
+      "english": "Not yet!"
+    },
+    {
+      "japanese": "晩（ばん）ごはんまだ？",
+      "english": "Is dinner ready yet?"
+    },
+    {
+      "japanese": "まだだよ！",
+      "english": "Not yet!"
+    },
+    {
+      "japanese": "まだ宿題（しゅくだい）終（お）わってないの？",
+      "english": "You haven't finished your homework yet?"
+    },
+    {
+      "japanese": "うん、まだ！",
+      "english": "Yeah, Not yet!"
+    },
+    {
+      "japanese": "まだ宿題（しゅくだい）してるの？",
+      "english": "Are you still doing your homework?"
+    },
+    {
+      "japanese": "うん、まだしてる！",
+      "english": "Yeah, I'm still working on it!"
+    },
+    {
+      "japanese": "私（わたし）、まだあの男（おとこ）と付（つ）き合（あ）ってるんだよね。",
+      "english": "I'm still dating that guy."
+    },
+    {
+      "japanese": "え、まだ！？早（はや）く別（わか）れなよ！",
+      "english": "What, still!? You should break up with him soon."
+    },
+    {
+      "japanese": "私（わたし）、まだあの男（おとこ）と別（わか）れてないんだよね。",
+      "english": "I haven't broken up with that guy yet."
+    },
+    {
+      "japanese": "え、まだ！？早（はや）く別（わか）れなよ！",
+      "english": "What, not yet!? You should break up with him soon."
+    },
+    {
+      "japanese": "まだ十（じゅう）五（ご）分（ふん）もある。",
+      "english": "I still have 15 minutes."
+    },
+    {
+      "japanese": "まだ十（じゅう）日（にち）分（ぶん）くらい 残（のこ）ってる。",
+      "english": "I still have about ten days' worth of pills left."
+    },
+    {
+      "japanese": "もう十（じゅう）五（ご）分（ふん）しかない。",
+      "english": "I (already) only have 15 minutes."
+    },
+    {
+      "japanese": "もう十（じゅう）日（にち）分（ぶん）くらいしか残（のこ）ってない。",
+      "english": "I (already) only have about ten days' worth of pills left."
+    },
+    {
+      "japanese": "まだ十（じゅう）五（ご）分（ふん）しかたってないの！？",
+      "english": "It's only been 15 minutes!?"
+    },
+    {
+      "japanese": "まだ三（さん）才（さい）だから、仕方（しかた）ないよね。",
+      "english": "He's only three years old, so what can I do, huh?"
+    },
+    {
+      "japanese": "雨（あめ）はまだ降（ふ）り続（つづ）けるだろう。",
+      "english": "The rain will probably (still) continue falling."
+    },
+    {
+      "japanese": "気温（きおん）はまだもっと下（さ）がるだろう。",
+      "english": "The temperature will (still) drop even more."
+    },
+    {
+      "japanese": "雨（あめ）はまだまだ降（ふ）り続（つづ）けるだろう。",
+      "english": "The rain will probably continue falling (on and on)."
+    },
+    {
+      "japanese": "気温（きおん）はまだまだもっと下（さ）がるだろう。",
+      "english": "The temperature will drop even lower (and lower)."
+    },
+    {
+      "japanese": "雨（あめ）は (❌まだまだ・⭕まだ) 少（すこ）し降（ふ）り続（つづ）けるだろう。",
+      "english": "The rain will probably (still) fall for a little while longer."
+    },
+    {
+      "japanese": "気温（きおん）は (❌まだまだ・⭕まだ) 二（に）、三（さん）度（ど）下（さ）がるだろう。",
+      "english": "The temperature will (still) drop even lower by a few degrees."
+    },
+    {
+      "japanese": "フルーツの方（ほう）が、チョコレートよりはまだいいかな。",
+      "english": "Fruit is still slightly better than chocolate (would have been)."
+    },
+    {
+      "japanese": "うるさい人（ひと）より、人（ひと）のことを知（し）りたがる人（ひと）の方（ほう）がまだましかな。",
+      "english": "Maybe nosy neighbors are still slightly better than noisy ones."
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "verb",
+      "text": "まだ + Verb"
+    },
+    {
+      "level": 4,
+      "id": "adjective",
+      "text": "まだ + Adjective"
+    },
+    {
+      "level": 4,
+      "id": "noun",
+      "text": "まだ + Noun"
+    },
+    {
+      "level": 3,
+      "id": "without--for-not-yet",
+      "text": "まだ Without ない For \"Not Yet\""
+    },
+    {
+      "level": 4,
+      "id": "is-this--not-yet-or-still",
+      "text": "Is This まだ \"Not Yet\" or \"Still\"?"
+    },
+    {
+      "level": 3,
+      "id": "for-still-have",
+      "text": "まだ For \"Still have…\""
+    },
+    {
+      "level": 4,
+      "id": "vs--still-have-vs-only-have",
+      "text": "まだ vs もう: \"Still have…\" vs \"Only have…\""
+    },
+    {
+      "level": 3,
+      "id": "for-only",
+      "text": "まだ For \"Only\""
+    },
+    {
+      "level": 3,
+      "id": "for-continuation-in-the-future",
+      "text": "まだ For \"Continuation In the Future\""
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "or--for-slightly-better-in-comparison",
+      "text": "まだいい or まだまし For \"Slightly Better\" In Comparison"
+    }
+  ],
+  "id": 122,
+  "slug": "mada",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/mada/",
+  "categories": [
+    "Adverb"
+  ]
+}

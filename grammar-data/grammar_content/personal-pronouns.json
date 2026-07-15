@@ -1,0 +1,666 @@
+{
+  "title": "Personal Pronouns",
+  "description": "Personal pronouns are used to refer to people from various perspectives: the first person (I, we), the second person (you), and the third person (she, he, they).",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pronouns are words that stand in for other nouns. On this page, we'll focus on personal pronouns, which are pronouns that refer to people."
+    },
+    {
+      "type": "paragraph",
+      "text": "Japanese has different types of personal pronouns depending on the point of view they indicate. This is just like English: \"I\" indicates the first person, \"you\" the second person, and \"she\" and \"he\" the third person."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "i-me-and-my-in-japanese",
+      "text": "\"I, Me, and My\" in Japanese"
+    },
+    {
+      "type": "paragraph",
+      "text": "Grammatically speaking, there's actually not much to say about Japanese personal pronouns because they're quite simple! In fact, you can treat them just like other nouns."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, 私（わたし） is a Japanese first-person pronoun — a personal pronoun you use to talk about yourself. When a person named Jennifer introduces herself, she might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）はジェニファーです。",
+      "english": "I am Jennifer."
+    },
+    {
+      "type": "paragraph",
+      "text": "See how 私（わたし） is working as \"I\"? It's pretty straightforward, and it works just like English. Now, what if Jennifer wants to say \"me\"?"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）をジェニーと呼（よ）んでください。",
+      "english": "Please call me Jenny."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like that. To say both \"I\" and \"me,\" we can use the same ol' 私（わたし）. So…what about \"my\"?"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）のニックネームです。",
+      "english": "It's my nickname."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's still the same 私（わたし）! The fact that personal pronouns don't change their form is one of the differences with English personal pronouns. In English, \"I\" might become \"me\" and \"they\" might become \"their\" depending on their role within the sentence. In Japanese, on the other hand, it's the job of particles to assign the grammatical role to the noun."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let's go back to the previous examples and see what comes right after 私（わたし）, to see which particles are assigning 私（わたし） its role."
+    },
+    {
+      "type": "formula",
+      "japanese": "私（わたし）はジェニファーです。 — \"I\" 私（わたし）をジェニーと呼（よ）んでください。 — \"me\" 私（わたし）のニックネームです。 — \"my\"",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "私（わたし） は ジェニファーです。 — \"I\" 私（わたし） を ジェニーと呼（よ）んでください。 — \"me\" 私（わたし） の ニックネームです。 — \"my\""
+    },
+    {
+      "type": "paragraph",
+      "text": "は, を and の are all particles. In the first sentence, は is telling us that 私（わたし） is the topic. In the second, を shows us that 私（わたし） is the object of the sentence. In the third sentence, の is turning 私（わたし） into the possessive form — telling us that the nickname belongs to 私（わたし）. So when you say \"I,\" \"me,\" or even \"my,\" you use different particles depending on what you want to say, and the first-person pronouns stay exactly as they are."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "expressing-identity-and-social-context-with-personal-pronouns",
+      "text": "Expressing Identity And Social Context with Personal Pronouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Though different from English pronouns in that they don't change depending on their grammatical role, there are actually many more personal pronouns in Japanese than in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we take the grammatical variations out of the equation, then there's only one first-person and one second-person pronoun in most varieties of modern English: \"I\" and \"you.\" In Japanese, there's 私（わたし）, 僕（ぼく）, 俺（おれ）… and a whole a lot more. And that's just for first-person pronouns."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pronoun choice is influenced by different social factors, including self-expression, the relationship between the speaker and the listener, and the formality of the situation. Take a look at these two sentences:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）は日本人（にっぽんじん）です。 僕（ぼく）は日本人（にっぽんじん）です。",
+      "english": "I am Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both first-person pronouns, 私（わたし） and 僕（ぼく）, mean \"I.\" 私（わたし） is more neutral in terms of the gender nuance since it is used commonly, regardless of gender. However, 僕（ぼく） is generally used by male speakers, or speakers who wish to highlight their masculine identity, or reject traditional feminine identities."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are many different personal pronouns with different nuances like this. Later on this page, we'll cover the most common ones! There are also regional and generational differences in personal pronoun uses. We will mainly introduce ones used in the Tokyo area, unless specified as another dialect."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "personal-pronouns-are-often-invisible",
+      "text": "Personal Pronouns Are Often Invisible"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another big difference between English and Japanese is that Japanese sentences manage to function without personal pronouns. This is because, unlike English, Japanese allows you to form sentences without specifying the subject or object. This means that you don't use personal pronouns in Japanese as much as you do in English. For example, you can even omit the first-person pronoun when you introduce yourself."
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニファーです。",
+      "english": "Jennifer."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine you're meeting someone for the first time and hear this sentence. Maybe this person is even shaking hands with you. It's natural to assume that they're talking about themselves, right? So in this context, what it means is:"
+    },
+    {
+      "type": "example",
+      "japanese": "(私（わたし）は) ジェニファーです。",
+      "english": "(I am) Jennifer."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, you don't always say \"you\" in a sentence either."
+    },
+    {
+      "type": "example",
+      "japanese": "どこの出身（しゅっしん）ですか？",
+      "english": "Where from?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suppose this question popped up in a one-on-one conversation, especially in the flow of getting to know each other. It's obvious that they're asking about you, even though there's no mention of you in the sentence."
+    },
+    {
+      "type": "example",
+      "japanese": "(あなたは) どこの出身（しゅっしん）ですか？",
+      "english": "Where (are you) from?"
+    },
+    {
+      "type": "paragraph",
+      "text": "See how the second-person pronoun あなた is omitted? Unless you're changing the subject of the discussion, or there's some other reason personal pronouns are needed for clarity, we often simply leave them out. Another reason behind this frequent omission it that the process of selecting the pronoun can be complicated. The choice is based on various social factors, and the second-person is particularly tricky because you are directly addressing the person for whom you need to select the pronoun. In fact, all Japanese second-person pronouns can be seen as \"rude\" these days, and it's common to avoid using them in conversations like the ones above."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "first-person-pronouns-i",
+      "text": "First-Person Pronouns (\"I\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "First-person pronouns are words that a speaker or a writer uses when they refer to themselves. So if you want to talk about yourself, you'd use a first-person pronoun."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）はベーコンが好（す）きです。",
+      "english": "I like bacon."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's a quick reference of the most common Japanese first-person pronouns."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "私（わたし） (わたし/わたくし)",
+          "わたし expresses femininity when used in casual situations. In formal situations, it is gender-neutral and the most common choice. わたくし is a stiff version of わたし and has an elegant feel."
+        ],
+        [
+          "僕（ぼく） (ぼく)",
+          "僕（ぼく） is an earnest, polite pronoun with a somewhat masculine (or rather, boyish) feel, as well as connotations of being cultured."
+        ],
+        [
+          "俺（おれ） (おれ)",
+          "俺（おれ） is a pronoun with a strong masculine feel, which could sometimes be taken as vulgar."
+        ],
+        [
+          "うち",
+          "うち has become nationally popular relatively recently, mainly among young female speakers. It carries a feeling of unity."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "There are many more subtleties of nuance that are not covered in this list, and we go over them in more depth on our page about first-person pronouns . Check it out!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "second-person-pronouns-you",
+      "text": "Second-Person Pronouns (\"You\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "Second-person pronouns are personal pronouns that a speaker uses to refer to their listener, and a writer uses to refer to their readers, just like \"you\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if you want to refer to the person you're talking to, you would use a second-person pronoun."
+    },
+    {
+      "type": "example",
+      "japanese": "あなたはベーコン好（す）きですか？",
+      "english": "Do you like bacon?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Historically, Japanese second-person pronouns have always tended to lose politeness over time. Words that had an honorific feel in the past accumulated a feeling of directness from the moment they started to be used as second-person pronouns. And since being direct is generally considered impolite in Japanese culture, this increase in directness meant a reduction in politeness."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, 貴様（きさま） is a derogatory second-person pronoun that's seen as \"very rude\" nowadays. However, the kanji 貴（とうと） (noble) and 様（さま） (honorific title/name ender) show that it used to be a polite way to refer to others. Losing politeness like this is inevitable due to the nature of second-person pronouns, in that they are used to refer directly to the person you're talking to."
+    },
+    {
+      "type": "paragraph",
+      "text": "These days, there is no second-person pronoun that is guaranteed to give a respectful impression. That's why their use is often discouraged in conversation, especially when talking to your teacher or your boss, or other people to whom society expects you to be polite."
+    },
+    {
+      "type": "paragraph",
+      "text": "So how would you refer to them when you need to? Instead of using second-person pronouns, it's common to use their names, or social or family roles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Check out a quick reference of the most common second-person pronouns."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "貴方（あなた） (あなた)",
+          "あなた is the standard choice in textbooks, just like 私（わたし）. It's a comparatively neutral second-person pronoun, but it can acquire different nuances depending on how it's used."
+        ],
+        [
+          "君（きみ） (きみ)",
+          "君（きみ） has a range of nuances. Despite being described as \"friendly\" in dictionaries, it's often associated with male supervisors talking to their subordinates, and may sound condescending or snobbish nowadays. Outside of hierarchical places, it expresses a literary or poetic nuance similar to 僕（ぼく）, and is often used in creative writing."
+        ],
+        [
+          "お前（まえ） (おまえ)",
+          "お前（まえ） is a second-person pronoun that's masculine and rough — it's often used for cussing! 😳 It could also be a way to show affection to close friends, partners, and family in a very casual manner."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, this is a very simplified description of each, so if you're interested in finding out more, please check out our page about second-person pronouns !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "third-person-pronouns-heshe",
+      "text": "Third-Person Pronouns (\"He/She\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "Third-person pronouns are words like \"he,\" \"she,\" or \"they.\" They are personal pronouns that refer to someone other than \"I\" or \"you\" in conversations or narratives."
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）はベーコンが好（す）き。",
+      "english": "He likes bacon."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's a quick reference of the most common third-person pronouns."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "彼（かれ） (かれ)/彼女（かのじょ） (かのじょ)",
+          "彼（かれ） means \"he\" and 彼女（かのじょ） means \"she.\" However, they are used much less than their English equivalents — especially in conversation — to avoid sounding repetitive. They can also mean \"boyfriend\" and \"girlfriend.\""
+        ],
+        [
+          "こいつ/そいつ/あいつ",
+          "Basically, こいつ means \"this person,\" そいつ means \"that person\" and あいつ \"that person over there.\" They're very casual words that are sort of like \"this guy\" or \"that dude,\" though they don't indicate a particular gender."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We talk about these third-persons more in-depth on our page about third-person pronouns . Check it out!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "plural-forms-of-personal-pronouns",
+      "text": "Plural Forms of Personal Pronouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now all the basic pronouns are covered, you might be wondering what the plural versions — like \"we\" and \"they\" — are? In Japanese, we use suffixes to make nouns plural, rather than having a separate plural form of the noun. To pluralize nouns for people, we commonly use 〜達（たち） (たち), 〜等（ら） (ら), 〜方（かた） (がた) and 〜供（ども） (ども). They all carry different nuances, and particularly levels of formality."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, to pluralize 私（わたし）, which means \"I,\" you attach a suffix to the end of the pronoun:"
+    },
+    {
+      "type": "formula",
+      "japanese": "私（わたし） + 達（たち） = 私（わたし）達（たち） I + plural suffix = we",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "私（わたし） + 達（たち） = 私（わたし）達（たち） I + plural suffix = we"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-a-personal-pronoun",
+      "text": "自分 as a Personal Pronoun"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although 自分（じぶん） is considered to be a reflexive pronoun like \"oneself,\" it is also used as a first-person and a second-person pronoun."
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）も、そう思（おも）います。",
+      "english": "I think so too."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is an example of 自分（じぶん） when it's used as a first-person pronoun. While often associated with strict hierarchical systems, such those associated with military and sporting environments, it's more gender-neutral than common first-person pronouns like 私（わたし）, 俺（おれ） and 僕（ぼく）. For that reason, some people in the LGBTQ community prefer to use 自分（じぶん） in the first person."
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）、何（なに）してんの？",
+      "english": "What are you doing?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Using 自分（じぶん） in the second person (referring to your listener) is relatively common in the Kansai dialect. This use carries the nuance of \"caring\" as if approaching someone while trying to wear their shoes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "ways-of-addressing-children",
+      "text": "Ways of Addressing Children"
+    },
+    {
+      "type": "paragraph",
+      "text": "As it's all about perspective, personal pronouns are relative to the relationship between the speaker and the listener. In interactions with children, applying their perspective and sticking with it is common in Japanese. This is to help children understand who is being referring to."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, say that you're a mom, and you're talking to your child:"
+    },
+    {
+      "type": "example",
+      "japanese": "ママもお腹（なか）すいたよ。",
+      "english": "I am hungry too. (Literally: Mommy's hungry too.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "See how ママ (mom) can be used in the first person? This is similar to English, in which you can also say \"Mommy's hungry too,\" right? However, this is not the full extent of it in Japanese. Dads, brothers, sisters, aunties, grandpa, grandma can do this to their little loved ones. And this goes even outside of the family — you can also refer to yourself with your social role."
+    },
+    {
+      "type": "example",
+      "japanese": "先生（せんせい）の話（はなし）聞（き）いて。",
+      "english": "Listen to me. (Literally: Listen to sensei.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Teachers often refer to themselves as \" sensei \" when they talk to younger students."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can address a child using a first-person pronoun to refer to them as well. For example, when talking to a boy who looks lost, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "僕（ぼく）、迷子（まいご）？",
+      "english": "Are you lost?"
+    },
+    {
+      "type": "paragraph",
+      "text": "僕（ぼく） is a first-person pronoun meaning \"I,\" but this isn't someone wondering whether they, themselves, are lost. You can use 僕（ぼく） to refer to little boys when talking to them directly, because it's a pronoun they often use to refer to themselves. In the same way, when talking to little girls — especially those whose name you don't know — you can use 私（わたし） to mean \"you\", as this is the first-person pronoun that girls are commonly taught to use."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）、いくつ？",
+      "english": "How old are you?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Points"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Pronouns are words that stand in for other nouns. On this page, we'll focus on personal pronouns, which are pronouns that refer to people.",
+    "Japanese has different types of personal pronouns depending on the point of view they indicate. This is just like English: \"I\" indicates the first person, \"you\" the second person, and \"she\" and \"he\" the third person.",
+    "Grammatically speaking, there's actually not much to say about Japanese personal pronouns because they're quite simple! In fact, you can treat them just like other nouns.",
+    "For example, 私（わたし） is a Japanese first-person pronoun — a personal pronoun you use to talk about yourself. When a person named Jennifer introduces herself, she might say:",
+    "See how 私（わたし） is working as \"I\"? It's pretty straightforward, and it works just like English. Now, what if Jennifer wants to say \"me\"?",
+    "Just like that. To say both \"I\" and \"me,\" we can use the same ol' 私（わたし）. So…what about \"my\"?",
+    "It's still the same 私（わたし）! The fact that personal pronouns don't change their form is one of the differences with English personal pronouns. In English, \"I\" might become \"me\" and \"they\" might become \"their\" depending on their role within the sentence. In Japanese, on the other hand, it's the job of particles to assign the grammatical role to the noun.",
+    "Now let's go back to the previous examples and see what comes right after 私（わたし）, to see which particles are assigning 私（わたし） its role.",
+    "私（わたし） は ジェニファーです。 — \"I\" 私（わたし） を ジェニーと呼（よ）んでください。 — \"me\" 私（わたし） の ニックネームです。 — \"my\"",
+    "は, を and の are all particles. In the first sentence, は is telling us that 私（わたし） is the topic. In the second, を shows us that 私（わたし） is the object of the sentence. In the third sentence, の is turning 私（わたし） into the possessive form — telling us that the nickname belongs to 私（わたし）. So when you say \"I,\" \"me,\" or even \"my,\" you use different particles depending on what you want to say, and the first-person pronouns stay exactly as they are.",
+    "Though different from English pronouns in that they don't change depending on their grammatical role, there are actually many more personal pronouns in Japanese than in English.",
+    "If we take the grammatical variations out of the equation, then there's only one first-person and one second-person pronoun in most varieties of modern English: \"I\" and \"you.\" In Japanese, there's 私（わたし）, 僕（ぼく）, 俺（おれ）… and a whole a lot more. And that's just for first-person pronouns.",
+    "Pronoun choice is influenced by different social factors, including self-expression, the relationship between the speaker and the listener, and the formality of the situation. Take a look at these two sentences:",
+    "Both first-person pronouns, 私（わたし） and 僕（ぼく）, mean \"I.\" 私（わたし） is more neutral in terms of the gender nuance since it is used commonly, regardless of gender. However, 僕（ぼく） is generally used by male speakers, or speakers who wish to highlight their masculine identity, or reject traditional feminine identities.",
+    "There are many different personal pronouns with different nuances like this. Later on this page, we'll cover the most common ones! There are also regional and generational differences in personal pronoun uses. We will mainly introduce ones used in the Tokyo area, unless specified as another dialect.",
+    "Another big difference between English and Japanese is that Japanese sentences manage to function without personal pronouns. This is because, unlike English, Japanese allows you to form sentences without specifying the subject or object. This means that you don't use personal pronouns in Japanese as much as you do in English. For example, you can even omit the first-person pronoun when you introduce yourself.",
+    "Imagine you're meeting someone for the first time and hear this sentence. Maybe this person is even shaking hands with you. It's natural to assume that they're talking about themselves, right? So in this context, what it means is:",
+    "In the same way, you don't always say \"you\" in a sentence either.",
+    "Suppose this question popped up in a one-on-one conversation, especially in the flow of getting to know each other. It's obvious that they're asking about you, even though there's no mention of you in the sentence.",
+    "See how the second-person pronoun あなた is omitted? Unless you're changing the subject of the discussion, or there's some other reason personal pronouns are needed for clarity, we often simply leave them out. Another reason behind this frequent omission it that the process of selecting the pronoun can be complicated. The choice is based on various social factors, and the second-person is particularly tricky because you are directly addressing the person for whom you need to select the pronoun. In fact, all Japanese second-person pronouns can be seen as \"rude\" these days, and it's common to avoid using them in conversations like the ones above.",
+    "First-person pronouns are words that a speaker or a writer uses when they refer to themselves. So if you want to talk about yourself, you'd use a first-person pronoun.",
+    "Here's a quick reference of the most common Japanese first-person pronouns.",
+    "There are many more subtleties of nuance that are not covered in this list, and we go over them in more depth on our page about first-person pronouns . Check it out!",
+    "Second-person pronouns are personal pronouns that a speaker uses to refer to their listener, and a writer uses to refer to their readers, just like \"you\" in English.",
+    "So if you want to refer to the person you're talking to, you would use a second-person pronoun.",
+    "Historically, Japanese second-person pronouns have always tended to lose politeness over time. Words that had an honorific feel in the past accumulated a feeling of directness from the moment they started to be used as second-person pronouns. And since being direct is generally considered impolite in Japanese culture, this increase in directness meant a reduction in politeness.",
+    "For example, 貴様（きさま） is a derogatory second-person pronoun that's seen as \"very rude\" nowadays. However, the kanji 貴（とうと） (noble) and 様（さま） (honorific title/name ender) show that it used to be a polite way to refer to others. Losing politeness like this is inevitable due to the nature of second-person pronouns, in that they are used to refer directly to the person you're talking to.",
+    "These days, there is no second-person pronoun that is guaranteed to give a respectful impression. That's why their use is often discouraged in conversation, especially when talking to your teacher or your boss, or other people to whom society expects you to be polite.",
+    "So how would you refer to them when you need to? Instead of using second-person pronouns, it's common to use their names, or social or family roles.",
+    "Check out a quick reference of the most common second-person pronouns.",
+    "Again, this is a very simplified description of each, so if you're interested in finding out more, please check out our page about second-person pronouns !",
+    "Third-person pronouns are words like \"he,\" \"she,\" or \"they.\" They are personal pronouns that refer to someone other than \"I\" or \"you\" in conversations or narratives.",
+    "Here's a quick reference of the most common third-person pronouns.",
+    "We talk about these third-persons more in-depth on our page about third-person pronouns . Check it out!",
+    "Now all the basic pronouns are covered, you might be wondering what the plural versions — like \"we\" and \"they\" — are? In Japanese, we use suffixes to make nouns plural, rather than having a separate plural form of the noun. To pluralize nouns for people, we commonly use 〜達（たち） (たち), 〜等（ら） (ら), 〜方（かた） (がた) and 〜供（ども） (ども). They all carry different nuances, and particularly levels of formality.",
+    "For example, to pluralize 私（わたし）, which means \"I,\" you attach a suffix to the end of the pronoun:",
+    "私（わたし） + 達（たち） = 私（わたし）達（たち） I + plural suffix = we",
+    "Although 自分（じぶん） is considered to be a reflexive pronoun like \"oneself,\" it is also used as a first-person and a second-person pronoun.",
+    "This is an example of 自分（じぶん） when it's used as a first-person pronoun. While often associated with strict hierarchical systems, such those associated with military and sporting environments, it's more gender-neutral than common first-person pronouns like 私（わたし）, 俺（おれ） and 僕（ぼく）. For that reason, some people in the LGBTQ community prefer to use 自分（じぶん） in the first person.",
+    "Using 自分（じぶん） in the second person (referring to your listener) is relatively common in the Kansai dialect. This use carries the nuance of \"caring\" as if approaching someone while trying to wear their shoes.",
+    "As it's all about perspective, personal pronouns are relative to the relationship between the speaker and the listener. In interactions with children, applying their perspective and sticking with it is common in Japanese. This is to help children understand who is being referring to.",
+    "For example, say that you're a mom, and you're talking to your child:",
+    "See how ママ (mom) can be used in the first person? This is similar to English, in which you can also say \"Mommy's hungry too,\" right? However, this is not the full extent of it in Japanese. Dads, brothers, sisters, aunties, grandpa, grandma can do this to their little loved ones. And this goes even outside of the family — you can also refer to yourself with your social role.",
+    "Teachers often refer to themselves as \" sensei \" when they talk to younger students.",
+    "You can address a child using a first-person pronoun to refer to them as well. For example, when talking to a boy who looks lost, you can say:",
+    "僕（ぼく） is a first-person pronoun meaning \"I,\" but this isn't someone wondering whether they, themselves, are lost. You can use 僕（ぼく） to refer to little boys when talking to them directly, because it's a pronoun they often use to refer to themselves. In the same way, when talking to little girls — especially those whose name you don't know — you can use 私（わたし） to mean \"you\", as this is the first-person pronoun that girls are commonly taught to use."
+  ],
+  "examples": [
+    {
+      "japanese": "私（わたし）はジェニファーです。",
+      "english": "I am Jennifer."
+    },
+    {
+      "japanese": "私（わたし）をジェニーと呼（よ）んでください。",
+      "english": "Please call me Jenny."
+    },
+    {
+      "japanese": "私（わたし）のニックネームです。",
+      "english": "It's my nickname."
+    },
+    {
+      "japanese": "私（わたし）は日本人（にっぽんじん）です。 僕（ぼく）は日本人（にっぽんじん）です。",
+      "english": "I am Japanese."
+    },
+    {
+      "japanese": "ジェニファーです。",
+      "english": "Jennifer."
+    },
+    {
+      "japanese": "(私（わたし）は) ジェニファーです。",
+      "english": "(I am) Jennifer."
+    },
+    {
+      "japanese": "どこの出身（しゅっしん）ですか？",
+      "english": "Where from?"
+    },
+    {
+      "japanese": "(あなたは) どこの出身（しゅっしん）ですか？",
+      "english": "Where (are you) from?"
+    },
+    {
+      "japanese": "私（わたし）はベーコンが好（す）きです。",
+      "english": "I like bacon."
+    },
+    {
+      "japanese": "あなたはベーコン好（す）きですか？",
+      "english": "Do you like bacon?"
+    },
+    {
+      "japanese": "彼（かれ）はベーコンが好（す）き。",
+      "english": "He likes bacon."
+    },
+    {
+      "japanese": "自分（じぶん）も、そう思（おも）います。",
+      "english": "I think so too."
+    },
+    {
+      "japanese": "自分（じぶん）、何（なに）してんの？",
+      "english": "What are you doing?"
+    },
+    {
+      "japanese": "ママもお腹（なか）すいたよ。",
+      "english": "I am hungry too. (Literally: Mommy's hungry too.)"
+    },
+    {
+      "japanese": "先生（せんせい）の話（はなし）聞（き）いて。",
+      "english": "Listen to me. (Literally: Listen to sensei.)"
+    },
+    {
+      "japanese": "僕（ぼく）、迷子（まいご）？",
+      "english": "Are you lost?"
+    },
+    {
+      "japanese": "私（わたし）、いくつ？",
+      "english": "How old are you?"
+    },
+    {
+      "japanese": "私（わたし）はジェニファーです。 — \"I\" 私（わたし）をジェニーと呼（よ）んでください。 — \"me\" 私（わたし）のニックネームです。 — \"my\"",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "私（わたし） + 達（たち） = 私（わたし）達（たち） I + plural suffix = we",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "私（わたし） (わたし/わたくし)",
+        "わたし expresses femininity when used in casual situations. In formal situations, it is gender-neutral and the most common choice. わたくし is a stiff version of わたし and has an elegant feel."
+      ],
+      [
+        "僕（ぼく） (ぼく)",
+        "僕（ぼく） is an earnest, polite pronoun with a somewhat masculine (or rather, boyish) feel, as well as connotations of being cultured."
+      ],
+      [
+        "俺（おれ） (おれ)",
+        "俺（おれ） is a pronoun with a strong masculine feel, which could sometimes be taken as vulgar."
+      ],
+      [
+        "うち",
+        "うち has become nationally popular relatively recently, mainly among young female speakers. It carries a feeling of unity."
+      ]
+    ],
+    [
+      [
+        "貴方（あなた） (あなた)",
+        "あなた is the standard choice in textbooks, just like 私（わたし）. It's a comparatively neutral second-person pronoun, but it can acquire different nuances depending on how it's used."
+      ],
+      [
+        "君（きみ） (きみ)",
+        "君（きみ） has a range of nuances. Despite being described as \"friendly\" in dictionaries, it's often associated with male supervisors talking to their subordinates, and may sound condescending or snobbish nowadays. Outside of hierarchical places, it expresses a literary or poetic nuance similar to 僕（ぼく）, and is often used in creative writing."
+      ],
+      [
+        "お前（まえ） (おまえ)",
+        "お前（まえ） is a second-person pronoun that's masculine and rough — it's often used for cussing! 😳 It could also be a way to show affection to close friends, partners, and family in a very casual manner."
+      ]
+    ],
+    [
+      [
+        "彼（かれ） (かれ)/彼女（かのじょ） (かのじょ)",
+        "彼（かれ） means \"he\" and 彼女（かのじょ） means \"she.\" However, they are used much less than their English equivalents — especially in conversation — to avoid sounding repetitive. They can also mean \"boyfriend\" and \"girlfriend.\""
+      ],
+      [
+        "こいつ/そいつ/あいつ",
+        "Basically, こいつ means \"this person,\" そいつ means \"that person\" and あいつ \"that person over there.\" They're very casual words that are sort of like \"this guy\" or \"that dude,\" though they don't indicate a particular gender."
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "i-me-and-my-in-japanese",
+      "text": "\"I, Me, and My\" in Japanese"
+    },
+    {
+      "level": 3,
+      "id": "expressing-identity-and-social-context-with-personal-pronouns",
+      "text": "Expressing Identity And Social Context with Personal Pronouns"
+    },
+    {
+      "level": 3,
+      "id": "personal-pronouns-are-often-invisible",
+      "text": "Personal Pronouns Are Often Invisible"
+    },
+    {
+      "level": 3,
+      "id": "first-person-pronouns-i",
+      "text": "First-Person Pronouns (\"I\")"
+    },
+    {
+      "level": 3,
+      "id": "second-person-pronouns-you",
+      "text": "Second-Person Pronouns (\"You\")"
+    },
+    {
+      "level": 3,
+      "id": "third-person-pronouns-heshe",
+      "text": "Third-Person Pronouns (\"He/She\")"
+    },
+    {
+      "level": 3,
+      "id": "plural-forms-of-personal-pronouns",
+      "text": "Plural Forms of Personal Pronouns"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "as-a-personal-pronoun",
+      "text": "自分 as a Personal Pronoun"
+    },
+    {
+      "level": 3,
+      "id": "ways-of-addressing-children",
+      "text": "Ways of Addressing Children"
+    }
+  ],
+  "id": 35,
+  "slug": "personal-pronouns",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/personal-pronouns/",
+  "categories": [
+    "Pronoun"
+  ]
+}

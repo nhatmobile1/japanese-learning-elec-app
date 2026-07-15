@@ -1,0 +1,128 @@
+{
+  "title": "せっかく",
+  "description": "せっかく is an adverb marking that effort, trouble, or a rare opportunity went into something — \"with great effort,\" \"went to the trouble of,\" or \"long-awaited.\" It often carries a sense that this effort shouldn't go to waste.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "せっかく highlights that something took special effort or is a precious, hard-to-get chance. It sets up either \"since we went to all this trouble, let's make the most of it\" or, paired with のに, \"despite all that effort, something disappointing happened.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "せっかく ＋ clause（〜のに／〜だから）",
+      "english": "with great effort / since (I went to the trouble) / long-awaited"
+    },
+    {
+      "type": "example",
+      "japanese": "せっかく作（つく）ったのに、誰（だれ）も食（た）べなかった。",
+      "english": "I went to the trouble of making it, but no one ate it."
+    },
+    {
+      "type": "example",
+      "japanese": "せっかく日本（にほん）に来（き）たんだから、京都（きょうと）に行（い）きたい。",
+      "english": "Since I came all the way to Japan, I want to go to Kyoto."
+    },
+    {
+      "type": "example",
+      "japanese": "せっかくの休（やす）みなのに、雨（あめ）が降（ふ）っている。",
+      "english": "It's my precious day off, but it's raining."
+    },
+    {
+      "type": "example",
+      "japanese": "せっかくのチャンスを逃（のが）してしまった。",
+      "english": "I let a hard-won chance slip away."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "declining-politely",
+      "text": "Declining Politely"
+    },
+    {
+      "type": "paragraph",
+      "text": "せっかく〜が (often せっかくですが) is a set phrase for turning down an offer gracefully — acknowledging the kindness before saying no."
+    },
+    {
+      "type": "example",
+      "japanese": "せっかくですが、今日（きょう）は行（い）けません。",
+      "english": "I appreciate the offer, but I can't go today."
+    },
+    {
+      "type": "example",
+      "japanese": "せっかく誘（さそ）ってくれたのに、ごめんね。",
+      "english": "You were kind enough to invite me, but sorry (I can't)."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't confuse せっかく with わざわざ. Both involve going out of one's way, but わざわざ stresses doing something troublesome on purpose (often thanking someone), while せっかく stresses the value of the effort or opportunity and the wish not to waste it. せっかく is very frequently followed by のに to express disappointment."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "せっかく ＋ clause（〜のに／〜だから）",
+      "english": "with great effort / since (I went to the trouble) / long-awaited",
+      "type": "formula"
+    },
+    {
+      "japanese": "せっかく作（つく）ったのに、誰（だれ）も食（た）べなかった。",
+      "english": "I went to the trouble of making it, but no one ate it."
+    },
+    {
+      "japanese": "せっかく日本（にほん）に来（き）たんだから、京都（きょうと）に行（い）きたい。",
+      "english": "Since I came all the way to Japan, I want to go to Kyoto."
+    },
+    {
+      "japanese": "せっかくの休（やす）みなのに、雨（あめ）が降（ふ）っている。",
+      "english": "It's my precious day off, but it's raining."
+    },
+    {
+      "japanese": "せっかくのチャンスを逃（のが）してしまった。",
+      "english": "I let a hard-won chance slip away."
+    },
+    {
+      "japanese": "せっかくですが、今日（きょう）は行（い）けません。",
+      "english": "I appreciate the offer, but I can't go today."
+    },
+    {
+      "japanese": "せっかく誘（さそ）ってくれたのに、ごめんね。",
+      "english": "You were kind enough to invite me, but sorry (I can't)."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "declining-politely",
+      "text": "Declining Politely"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1041,
+  "slug": "sekkaku",
+  "categories": [
+    "Adverb",
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N2"
+}

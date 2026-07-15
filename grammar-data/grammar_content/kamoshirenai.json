@@ -1,0 +1,831 @@
+{
+  "title": "〜かもしれない",
+  "description": "〜かもしれない follows a sentence and expresses \"uncertainty.\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜かもしれない is the Japanese equivalent of \"may\" or \"might.\" It's attached to a word or a sentence to convey the nuance that there's a possibility something is the case, but you're not entirely certain. In other words, it is used to describe your guess when you don't have any solid evidence to back it up. There are other ways to communicate your supposition like と思（おも）う or だろう , but 〜かもしれない shows the weakest degree of confidence towards the assumption."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, suppose someone rang your doorbell and you assumed it was a pizza delivery person. You can use 〜かもしれない and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ピザ屋（や）さんかもしれない。",
+      "english": "It may be a pizza delivery person."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜かもしれない shows that you're guessing it's a delivery person but you aren't really sure. If you're quite confident that it is the pizza delivery person based on the delivery notification you received earlier, 〜かもしれない isn't what you want to use."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at another scenario: you glance out the window, the sky is a little dark and you suspect it's going to rain. In this case, you can use 〜かもしれない and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）が降（ふ）るかもしれない。",
+      "english": "It might rain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, 〜かもしれない here indicates that you think it might rain, but it's just a guess. If you checked the weather radar earlier or if the sky is for sure telling you it's going to rain soon, 〜かもしれない isn't suitable."
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll later learn additional expressions for when you're more confident in your prediction in Beyond the Basics , but for now, let's move on and check out the patterns of use."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜かもしれない is often attached to a clause . In other words, it comes right after a sentence, which can be as brief as one word. For instance, in the earlier example you saw how a single noun, ピザ屋（や）さん (a pizza delivery person), was directly followed by 〜かもしれない."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rule-of-thumb is that 〜かもしれない always follows the plain form, not the polite です / ます form. You wouldn’t say ですかもしれない, for example. But whether 〜かもしれない is attaching to a longer sentence or just one word, there are different rules for attaching 〜かもしれない depending on the type of word it follows. Let's take a deeper look."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "nouns--",
+      "text": "Nouns + 〜かもしれない"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜かもしれない can directly follow a noun, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "ネコかもしれない。",
+      "english": "It might be a cat."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you can't use the declarative だ since it conflicts with the uncertainess carried by 〜かもしれない."
+    },
+    {
+      "type": "example",
+      "japanese": "ネコだかもしれない。",
+      "english": "It might be a cat."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you can use だった to indicate you're talking about the past."
+    },
+    {
+      "type": "example",
+      "japanese": "ネコだったかもしれない。",
+      "english": "It might have been a cat."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also add じゃない or ではない to talk about negative things."
+    },
+    {
+      "type": "example",
+      "japanese": "ネコ[じゃない・ではない]かもしれない。",
+      "english": "It might not be a cat."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective--",
+      "text": "な-Adjective + 〜かもしれない"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since な-adjectives are noun-based adjectives, they work very similarly. In the same way a noun connects to 〜かもしれない, a な-adjective (in its stem form) directly attaches to 〜かもしれない."
+    },
+    {
+      "type": "example",
+      "japanese": "有名（ゆうめい）かもしれない。",
+      "english": "They might be famous."
+    },
+    {
+      "type": "paragraph",
+      "text": "And just as nouns don't take だ before 〜かもしれない, な-adjectives don't take だ either. だ is an assertiveness marker, and it conflicts with the uncertainty of 〜かもしれない."
+    },
+    {
+      "type": "example",
+      "japanese": "有名（ゆうめい）だかもしれない。",
+      "english": "They might be famous."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, when using a different tense, you would use variants of だ with 〜かもしれない. For example, if you are talking about the past, you use だった, which is the past form of だ."
+    },
+    {
+      "type": "example",
+      "japanese": "有名（ゆうめい）だったかもしれない。",
+      "english": "They might have been famous."
+    },
+    {
+      "type": "paragraph",
+      "text": "You also use じゃない or ではない to form negative sentences with 〜かもしれない."
+    },
+    {
+      "type": "example",
+      "japanese": "有名（ゆうめい）[じゃない・ではない]かもしれない。",
+      "english": "They might not be famous."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective---1",
+      "text": "い-Adjective + 〜かもしれない"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜かもしれない can directly follow an い-adjective , like:"
+    },
+    {
+      "type": "example",
+      "japanese": "面白（おもしろ）いかもしれない。",
+      "english": "It might be interesting."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you can conjugate い-adjectives into different forms. Here are a couple of examples."
+    },
+    {
+      "type": "paragraph",
+      "text": "The past tense (かった) form :"
+    },
+    {
+      "type": "example",
+      "japanese": "面白（おもしろ）かったかもしれない。",
+      "english": "Maybe it was interesting."
+    },
+    {
+      "type": "paragraph",
+      "text": "The negative (くない) form :"
+    },
+    {
+      "type": "example",
+      "japanese": "面白（おもしろ）くないかもしれない。",
+      "english": "Maybe it isn't interesting."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb--",
+      "text": "Verb + 〜かもしれない"
+    },
+    {
+      "type": "paragraph",
+      "text": "かもしれない can directly follow a verb, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べるかもしれない。",
+      "english": "Maybe they'll eat it."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you can conjugate the verb into different forms. Let's look at a few examples."
+    },
+    {
+      "type": "paragraph",
+      "text": "The past tense (た) form :"
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べたかもしれない。",
+      "english": "Maybe they ate it."
+    },
+    {
+      "type": "paragraph",
+      "text": "The negative (ない) form :"
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べないかもしれない。",
+      "english": "Maybe they won't eat it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep in mind that Japanese verbs have different conjugation patterns depending on type. If you aren't familiar with verb types, check out this page ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "conjunction-particle",
+      "text": "〜かもしれない + Conjunction Particle"
+    },
+    {
+      "type": "paragraph",
+      "text": "So far we've only seen examples where 〜かもしれない is used at the end of a sentence, but it can also be used in the middle. In this case it's usually followed by a conjunction such as から (so) or けど (but)."
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）が降（ふ）るかもしれないから、傘（かさ）を持（も）っていったら？",
+      "english": "It may rain, so why don't you take an umbrella?"
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）が降（ふ）るかもしれないけど、傘（かさ）はいらない。",
+      "english": "It may rain, but I don't need an umbrella."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-",
+      "text": "Conjugating 〜かもしれない"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ない part of 〜かもしれない conjugates like an い-adjective. Here are some basic examples:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Plain",
+          "Polite"
+        ],
+        [
+          "Present",
+          "〜かもしれない",
+          "〜かもしれません 〜かもしれないです"
+        ],
+        [
+          "Past",
+          "〜かもしれなかった",
+          "〜かもしれませんでした 〜かもしれなかったです"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-casual-conversation",
+      "text": "かも For Casual Conversation"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜かもしれない is often abbreviated to just かも in casual conversation. So if you're telling a friend that you might visit Japan next spring, it's common to say:"
+    },
+    {
+      "type": "example",
+      "japanese": "来年（らいねん）の春（はる）、日本（にっぽん）に行（い）くかも。",
+      "english": "I might go to Japan next spring."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if your friend thinks the cherry blossoms would be lovely at around that time of year, they might respond with:"
+    },
+    {
+      "type": "example",
+      "japanese": "春（はる）だったら、桜（さくら）が満開（まんかい）かも。",
+      "english": "In (you're going in the) spring, the cherry blossoms might be in full bloom."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the fact that it is technically grammatically incorrect, some people use かも with です to add a sense of casual politeness, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "来年（らいねん）の春（はる）、日本（にっぽん）に行（い）くかもです。",
+      "english": "I might go to Japan next spring."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may also see かも followed by だから〜 to say \"so…,\" as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "春（はる）だったら、桜（さくら）が満開（まんかい）かもだから、写真（しゃしん）撮（と）ってきてね。",
+      "english": "It's spring, the cherry blossoms might be in full bloom, so please take some pictures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although not necessarily the most traditional and proper usage, these expressions using かも are becoming increasingly popular, particularly among younger generations."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "expression-commonly-used-with-",
+      "text": "Expression Commonly Used with 〜かもしれない"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because 〜かもしれない expresses uncertainty, it pairs nicely with other terms that connote a lesser likelihood, such as もしかしたら/もしかすると or ひょっとしたら/ひょっとすると (perhaps) and \"if…\" sentences with the conditional forms 〜ば or 〜たら ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you tweeted a joke and it received 30 \"likes\" in a short amount of time, you might expect it to go viral. In this case, you can say something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "もしかしたら、バズるかもしれない。",
+      "english": "Perhaps, it might go viral."
+    },
+    {
+      "type": "example",
+      "japanese": "もしうまく[いけば・いったら]、バズるかもしれない。",
+      "english": "If it goes well, it might go viral."
+    },
+    {
+      "type": "paragraph",
+      "text": "As the probability level of the expression increases, it becomes less likely to be used with 〜かもしれない since the certainty levels diverge. For instance, 多分（たぶん） means \"possibly\" or \"probably,\" and it seems a bit odd when paired with 〜かもしれない, though you still might hear it nonetheless."
+    },
+    {
+      "type": "formula",
+      "japanese": "🔺 多分（たぶん）、バズるかもしれない。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Although it may be obvious, 〜かもしれない cannot be used with words that indicate a very high probability, such as きっと (surely) or 必（かなら）ず (inevitably)."
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ きっと、バズるかもしれない。",
+      "english": ""
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ 必（かなら）ず、バズるかもしれない。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "However, 〜かもしれない can sometimes be used with a word like 確（たし）かに (surely/certainly), as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "確（たし）かに、バズるかもしれない。",
+      "english": "Surely, it might go viral."
+    },
+    {
+      "type": "paragraph",
+      "text": "That's because 確（たし）かに isn't just about expressing the likelihood of something happening. It can also be used to confirm a fact, and is used similarly to \"indeed\" or \"you are correct that…\" Hence, when 確（たし）かに is used in the latter sense, it can be used with 〜かもしれない."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-adding-ambiguity-to-how-you-feel",
+      "text": "〜かもしれない For Adding Ambiguity To How You Feel"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the general rule of thumb for 〜かもしれない is to use it when you're unsure about something, it may also be used to describe how you now feel about something. Let's say you're telling your pal about how you just got a plane ticket to Japan and how thrilled you are. In this case, you can add かも（しれない）to めっちゃ楽（たの）しみ (super excited) and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "めっちゃ楽（たの）しみかも（しれない）。",
+      "english": "I'm super excited (maybe)!"
+    },
+    {
+      "type": "paragraph",
+      "text": "This concept might seem a bit odd because if you're feeling the excitement right now, it should be a certain thing, right? This combination, however, is common especially among younger generations in informal conversation. That's because Japanese people have a tendency of expressing their feelings in an indirect way. By adding 〜かもしれない, you can frame your message a bit more ambiguously instead of directly expressing your feelings."
+    },
+    {
+      "type": "paragraph",
+      "text": "You might be familiar with this if you watch any Japanese reality TV, or if you're a fan of recent J-dramas, as love confessions nowadays are often framed by かも（しれない）. It might sound something like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "すきかも。",
+      "english": "I might be in love with you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at a different scenario. Assume you're in charge of deciding your company's next-quarter projects. You're looking over the ideas that other employees have submitted, and one of them appears very intriguing. So you pick that one and tell your boss:"
+    },
+    {
+      "type": "example",
+      "japanese": "このアイディア、面白（おもしろ）いかもしれません。",
+      "english": "This idea (might be) interesting."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, it's possible that you're using かもしれません because you're only guessing that this project idea, if selected, will generate interesting results. However, it's also possible that you're using かもしれません to make how you really feel a little more vague. Perhaps you wish to avoid being affirmative because you're concerned that your supervisor will have a negative reaction to your suggestion. Or, perhaps you wish to lessen your decision-making responsibility. Whatever the reason, かもしれません provides a buffer to your statement and allows you to avoid taking full responsibility for it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section",
+      "text": "〜のかもしれない"
+    },
+    {
+      "type": "paragraph",
+      "text": "The explanatory の can also be used with 〜かもしれない, as in 〜のかもしれない. For instance, to discuss your suspicion that your friend will not eat raw fish, you could use 〜かもしれない with or without の:"
+    },
+    {
+      "type": "example",
+      "japanese": "生魚（なまざかな）は食（た）べないかもしれない。 生魚（なまざかな）は食（た）べないのかもしれない。",
+      "english": "She might not eat raw fish."
+    },
+    {
+      "type": "paragraph",
+      "text": "The nuance of each sentence, however, differs slightly in this example. Without の, the first sentence seems like you're purely guessing. The one with の, on the other hand, has a more explanatory tone. As a result, it appears that something occurred prior to the speech, and you are making a hypothesis based on the incident."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that if the word before 〜のかもしれない is a noun or a な-adjective in the present tense, you must add な. Here is an example with the noun 雪（ゆき） (snow):"
+    },
+    {
+      "type": "example",
+      "japanese": "明日（あした）は雪（ゆき）なのかもしれない。",
+      "english": "It may snow tomorrow."
+    },
+    {
+      "type": "paragraph",
+      "text": "And here is an example with the な-adjective 必要（ひつよう） (necessary)."
+    },
+    {
+      "type": "example",
+      "japanese": "金（きむ）が必要（ひつよう）なのかもしれない。",
+      "english": "They may need money."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-character-development",
+      "text": "かもしれぬ for Character Development"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you might've noticed, the ない of 〜かもしれない is the negative marker ない So, it's possible to swap it with the archaic version of ない, which is ぬ, as in 〜かもしれぬ. By changing ない to ぬ, you can make the speech sound more archaic and authoritative. Hence, an author might choose to employ this form in their creative writing to help develop their characters."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, a dignified, elderly character might use かもしれぬ like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "アイツは来（こ）ないかもしれぬ。",
+      "english": "That guy might not show up."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since ぬ is archaic, no one would use it this way in real life nowadays, but you still might come across it in novels or historical TV dramas and movies. By writing the character’s speech this way, the author can convey a sense of dignity and formality that provides the reader with clues as to their personality as well as the time period in which the piece is set."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-casual-speech",
+      "text": "かもしれん for Casual Speech"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although かもしれぬ has an archaic and formal tone, switching ぬ to its casual ん, as in かもしれん, transforms the tone into a fairly casual one. This form is still used in some dialects, such as Kansai-ben."
+    },
+    {
+      "type": "paragraph",
+      "text": "For instance, suppose you're meeting up with a friend, but he is yet to arrive. You remember him taking a nap earlier, so you're guessing he's still in bed. In this case, you can use かもしれん and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "アイツ、まだ寝（ね）てんのかもしれん。",
+      "english": "That guy might still be sleeping."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜かもしれない is the Japanese equivalent of \"may\" or \"might.\" It's attached to a word or a sentence to convey the nuance that there's a possibility something is the case, but you're not entirely certain. In other words, it is used to describe your guess when you don't have any solid evidence to back it up. There are other ways to communicate your supposition like と思（おも）う or だろう , but 〜かもしれない shows the weakest degree of confidence towards the assumption.",
+    "For example, suppose someone rang your doorbell and you assumed it was a pizza delivery person. You can use 〜かもしれない and say:",
+    "Here, 〜かもしれない shows that you're guessing it's a delivery person but you aren't really sure. If you're quite confident that it is the pizza delivery person based on the delivery notification you received earlier, 〜かもしれない isn't what you want to use.",
+    "Let's take a look at another scenario: you glance out the window, the sky is a little dark and you suspect it's going to rain. In this case, you can use 〜かもしれない and say:",
+    "Again, 〜かもしれない here indicates that you think it might rain, but it's just a guess. If you checked the weather radar earlier or if the sky is for sure telling you it's going to rain soon, 〜かもしれない isn't suitable.",
+    "You'll later learn additional expressions for when you're more confident in your prediction in Beyond the Basics , but for now, let's move on and check out the patterns of use.",
+    "〜かもしれない is often attached to a clause . In other words, it comes right after a sentence, which can be as brief as one word. For instance, in the earlier example you saw how a single noun, ピザ屋（や）さん (a pizza delivery person), was directly followed by 〜かもしれない.",
+    "The rule-of-thumb is that 〜かもしれない always follows the plain form, not the polite です / ます form. You wouldn’t say ですかもしれない, for example. But whether 〜かもしれない is attaching to a longer sentence or just one word, there are different rules for attaching 〜かもしれない depending on the type of word it follows. Let's take a deeper look.",
+    "〜かもしれない can directly follow a noun, like:",
+    "In this case, you can't use the declarative だ since it conflicts with the uncertainess carried by 〜かもしれない.",
+    "However, you can use だった to indicate you're talking about the past.",
+    "You can also add じゃない or ではない to talk about negative things.",
+    "Since な-adjectives are noun-based adjectives, they work very similarly. In the same way a noun connects to 〜かもしれない, a な-adjective (in its stem form) directly attaches to 〜かもしれない.",
+    "And just as nouns don't take だ before 〜かもしれない, な-adjectives don't take だ either. だ is an assertiveness marker, and it conflicts with the uncertainty of 〜かもしれない.",
+    "However, when using a different tense, you would use variants of だ with 〜かもしれない. For example, if you are talking about the past, you use だった, which is the past form of だ.",
+    "You also use じゃない or ではない to form negative sentences with 〜かもしれない.",
+    "〜かもしれない can directly follow an い-adjective , like:",
+    "In this case, you can conjugate い-adjectives into different forms. Here are a couple of examples.",
+    "The past tense (かった) form :",
+    "The negative (くない) form :",
+    "かもしれない can directly follow a verb, like:",
+    "In this case, you can conjugate the verb into different forms. Let's look at a few examples.",
+    "The past tense (た) form :",
+    "The negative (ない) form :",
+    "Keep in mind that Japanese verbs have different conjugation patterns depending on type. If you aren't familiar with verb types, check out this page .",
+    "So far we've only seen examples where 〜かもしれない is used at the end of a sentence, but it can also be used in the middle. In this case it's usually followed by a conjunction such as から (so) or けど (but).",
+    "The ない part of 〜かもしれない conjugates like an い-adjective. Here are some basic examples:",
+    "〜かもしれない is often abbreviated to just かも in casual conversation. So if you're telling a friend that you might visit Japan next spring, it's common to say:",
+    "And if your friend thinks the cherry blossoms would be lovely at around that time of year, they might respond with:",
+    "Despite the fact that it is technically grammatically incorrect, some people use かも with です to add a sense of casual politeness, as in:",
+    "You may also see かも followed by だから〜 to say \"so…,\" as in:",
+    "Although not necessarily the most traditional and proper usage, these expressions using かも are becoming increasingly popular, particularly among younger generations.",
+    "Because 〜かもしれない expresses uncertainty, it pairs nicely with other terms that connote a lesser likelihood, such as もしかしたら/もしかすると or ひょっとしたら/ひょっとすると (perhaps) and \"if…\" sentences with the conditional forms 〜ば or 〜たら .",
+    "For example, if you tweeted a joke and it received 30 \"likes\" in a short amount of time, you might expect it to go viral. In this case, you can say something like:",
+    "As the probability level of the expression increases, it becomes less likely to be used with 〜かもしれない since the certainty levels diverge. For instance, 多分（たぶん） means \"possibly\" or \"probably,\" and it seems a bit odd when paired with 〜かもしれない, though you still might hear it nonetheless.",
+    "Although it may be obvious, 〜かもしれない cannot be used with words that indicate a very high probability, such as きっと (surely) or 必（かなら）ず (inevitably).",
+    "However, 〜かもしれない can sometimes be used with a word like 確（たし）かに (surely/certainly), as in:",
+    "That's because 確（たし）かに isn't just about expressing the likelihood of something happening. It can also be used to confirm a fact, and is used similarly to \"indeed\" or \"you are correct that…\" Hence, when 確（たし）かに is used in the latter sense, it can be used with 〜かもしれない.",
+    "Although the general rule of thumb for 〜かもしれない is to use it when you're unsure about something, it may also be used to describe how you now feel about something. Let's say you're telling your pal about how you just got a plane ticket to Japan and how thrilled you are. In this case, you can add かも（しれない）to めっちゃ楽（たの）しみ (super excited) and say:",
+    "This concept might seem a bit odd because if you're feeling the excitement right now, it should be a certain thing, right? This combination, however, is common especially among younger generations in informal conversation. That's because Japanese people have a tendency of expressing their feelings in an indirect way. By adding 〜かもしれない, you can frame your message a bit more ambiguously instead of directly expressing your feelings.",
+    "You might be familiar with this if you watch any Japanese reality TV, or if you're a fan of recent J-dramas, as love confessions nowadays are often framed by かも（しれない）. It might sound something like this:",
+    "Let's take a look at a different scenario. Assume you're in charge of deciding your company's next-quarter projects. You're looking over the ideas that other employees have submitted, and one of them appears very intriguing. So you pick that one and tell your boss:",
+    "In this case, it's possible that you're using かもしれません because you're only guessing that this project idea, if selected, will generate interesting results. However, it's also possible that you're using かもしれません to make how you really feel a little more vague. Perhaps you wish to avoid being affirmative because you're concerned that your supervisor will have a negative reaction to your suggestion. Or, perhaps you wish to lessen your decision-making responsibility. Whatever the reason, かもしれません provides a buffer to your statement and allows you to avoid taking full responsibility for it.",
+    "The explanatory の can also be used with 〜かもしれない, as in 〜のかもしれない. For instance, to discuss your suspicion that your friend will not eat raw fish, you could use 〜かもしれない with or without の:",
+    "The nuance of each sentence, however, differs slightly in this example. Without の, the first sentence seems like you're purely guessing. The one with の, on the other hand, has a more explanatory tone. As a result, it appears that something occurred prior to the speech, and you are making a hypothesis based on the incident.",
+    "Note that if the word before 〜のかもしれない is a noun or a な-adjective in the present tense, you must add な. Here is an example with the noun 雪（ゆき） (snow):",
+    "And here is an example with the な-adjective 必要（ひつよう） (necessary).",
+    "As you might've noticed, the ない of 〜かもしれない is the negative marker ない So, it's possible to swap it with the archaic version of ない, which is ぬ, as in 〜かもしれぬ. By changing ない to ぬ, you can make the speech sound more archaic and authoritative. Hence, an author might choose to employ this form in their creative writing to help develop their characters.",
+    "For example, a dignified, elderly character might use かもしれぬ like this:",
+    "Since ぬ is archaic, no one would use it this way in real life nowadays, but you still might come across it in novels or historical TV dramas and movies. By writing the character’s speech this way, the author can convey a sense of dignity and formality that provides the reader with clues as to their personality as well as the time period in which the piece is set.",
+    "Although かもしれぬ has an archaic and formal tone, switching ぬ to its casual ん, as in かもしれん, transforms the tone into a fairly casual one. This form is still used in some dialects, such as Kansai-ben.",
+    "For instance, suppose you're meeting up with a friend, but he is yet to arrive. You remember him taking a nap earlier, so you're guessing he's still in bed. In this case, you can use かもしれん and say:"
+  ],
+  "examples": [
+    {
+      "japanese": "ピザ屋（や）さんかもしれない。",
+      "english": "It may be a pizza delivery person."
+    },
+    {
+      "japanese": "雨（あめ）が降（ふ）るかもしれない。",
+      "english": "It might rain."
+    },
+    {
+      "japanese": "ネコかもしれない。",
+      "english": "It might be a cat."
+    },
+    {
+      "japanese": "ネコだかもしれない。",
+      "english": "It might be a cat."
+    },
+    {
+      "japanese": "ネコだったかもしれない。",
+      "english": "It might have been a cat."
+    },
+    {
+      "japanese": "ネコ[じゃない・ではない]かもしれない。",
+      "english": "It might not be a cat."
+    },
+    {
+      "japanese": "有名（ゆうめい）かもしれない。",
+      "english": "They might be famous."
+    },
+    {
+      "japanese": "有名（ゆうめい）だかもしれない。",
+      "english": "They might be famous."
+    },
+    {
+      "japanese": "有名（ゆうめい）だったかもしれない。",
+      "english": "They might have been famous."
+    },
+    {
+      "japanese": "有名（ゆうめい）[じゃない・ではない]かもしれない。",
+      "english": "They might not be famous."
+    },
+    {
+      "japanese": "面白（おもしろ）いかもしれない。",
+      "english": "It might be interesting."
+    },
+    {
+      "japanese": "面白（おもしろ）かったかもしれない。",
+      "english": "Maybe it was interesting."
+    },
+    {
+      "japanese": "面白（おもしろ）くないかもしれない。",
+      "english": "Maybe it isn't interesting."
+    },
+    {
+      "japanese": "食（た）べるかもしれない。",
+      "english": "Maybe they'll eat it."
+    },
+    {
+      "japanese": "食（た）べたかもしれない。",
+      "english": "Maybe they ate it."
+    },
+    {
+      "japanese": "食（た）べないかもしれない。",
+      "english": "Maybe they won't eat it."
+    },
+    {
+      "japanese": "雨（あめ）が降（ふ）るかもしれないから、傘（かさ）を持（も）っていったら？",
+      "english": "It may rain, so why don't you take an umbrella?"
+    },
+    {
+      "japanese": "雨（あめ）が降（ふ）るかもしれないけど、傘（かさ）はいらない。",
+      "english": "It may rain, but I don't need an umbrella."
+    },
+    {
+      "japanese": "来年（らいねん）の春（はる）、日本（にっぽん）に行（い）くかも。",
+      "english": "I might go to Japan next spring."
+    },
+    {
+      "japanese": "春（はる）だったら、桜（さくら）が満開（まんかい）かも。",
+      "english": "In (you're going in the) spring, the cherry blossoms might be in full bloom."
+    },
+    {
+      "japanese": "来年（らいねん）の春（はる）、日本（にっぽん）に行（い）くかもです。",
+      "english": "I might go to Japan next spring."
+    },
+    {
+      "japanese": "春（はる）だったら、桜（さくら）が満開（まんかい）かもだから、写真（しゃしん）撮（と）ってきてね。",
+      "english": "It's spring, the cherry blossoms might be in full bloom, so please take some pictures."
+    },
+    {
+      "japanese": "もしかしたら、バズるかもしれない。",
+      "english": "Perhaps, it might go viral."
+    },
+    {
+      "japanese": "もしうまく[いけば・いったら]、バズるかもしれない。",
+      "english": "If it goes well, it might go viral."
+    },
+    {
+      "japanese": "確（たし）かに、バズるかもしれない。",
+      "english": "Surely, it might go viral."
+    },
+    {
+      "japanese": "めっちゃ楽（たの）しみかも（しれない）。",
+      "english": "I'm super excited (maybe)!"
+    },
+    {
+      "japanese": "すきかも。",
+      "english": "I might be in love with you."
+    },
+    {
+      "japanese": "このアイディア、面白（おもしろ）いかもしれません。",
+      "english": "This idea (might be) interesting."
+    },
+    {
+      "japanese": "生魚（なまざかな）は食（た）べないかもしれない。 生魚（なまざかな）は食（た）べないのかもしれない。",
+      "english": "She might not eat raw fish."
+    },
+    {
+      "japanese": "明日（あした）は雪（ゆき）なのかもしれない。",
+      "english": "It may snow tomorrow."
+    },
+    {
+      "japanese": "金（きむ）が必要（ひつよう）なのかもしれない。",
+      "english": "They may need money."
+    },
+    {
+      "japanese": "アイツは来（こ）ないかもしれぬ。",
+      "english": "That guy might not show up."
+    },
+    {
+      "japanese": "アイツ、まだ寝（ね）てんのかもしれん。",
+      "english": "That guy might still be sleeping."
+    },
+    {
+      "japanese": "🔺 多分（たぶん）、バズるかもしれない。",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "❌ きっと、バズるかもしれない。",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "❌ 必（かなら）ず、バズるかもしれない。",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Plain",
+        "Polite"
+      ],
+      [
+        "Present",
+        "〜かもしれない",
+        "〜かもしれません 〜かもしれないです"
+      ],
+      [
+        "Past",
+        "〜かもしれなかった",
+        "〜かもしれませんでした 〜かもしれなかったです"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "nouns--",
+      "text": "Nouns + 〜かもしれない"
+    },
+    {
+      "level": 4,
+      "id": "adjective--",
+      "text": "な-Adjective + 〜かもしれない"
+    },
+    {
+      "level": 4,
+      "id": "adjective---1",
+      "text": "い-Adjective + 〜かもしれない"
+    },
+    {
+      "level": 4,
+      "id": "verb--",
+      "text": "Verb + 〜かもしれない"
+    },
+    {
+      "level": 4,
+      "id": "conjunction-particle",
+      "text": "〜かもしれない + Conjunction Particle"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-",
+      "text": "Conjugating 〜かもしれない"
+    },
+    {
+      "level": 3,
+      "id": "for-casual-conversation",
+      "text": "かも For Casual Conversation"
+    },
+    {
+      "level": 3,
+      "id": "expression-commonly-used-with-",
+      "text": "Expression Commonly Used with 〜かもしれない"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-adding-ambiguity-to-how-you-feel",
+      "text": "〜かもしれない For Adding Ambiguity To How You Feel"
+    },
+    {
+      "level": 3,
+      "id": "section",
+      "text": "〜のかもしれない"
+    },
+    {
+      "level": 3,
+      "id": "for-character-development",
+      "text": "かもしれぬ for Character Development"
+    },
+    {
+      "level": 4,
+      "id": "for-casual-speech",
+      "text": "かもしれん for Casual Speech"
+    }
+  ],
+  "id": 46,
+  "slug": "kamoshirenai",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/kamoshirenai/",
+  "categories": [
+    "Phrase",
+    "Uncertainty"
+  ]
+}

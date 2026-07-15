@@ -1,0 +1,146 @@
+{
+  "title": "〜てしまう・〜ちゃう",
+  "description": "〜てしまう attaches to the て form to show an action is completely finished, or that it happened with a sense of regret — \"ended up doing.\" 〜ちゃう・〜じゃう are the casual contractions.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜てしまう adds one of two meanings to an action: completion (the action is fully done) or regret (it happened, and you wish it hadn't). Context decides which reading applies — sometimes both at once."
+    },
+    {
+      "type": "formula",
+      "japanese": "て form ＋ しまう",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "全部（ぜんぶ）食（た）べてしまいました。",
+      "english": "I ate it all. (completion)"
+    },
+    {
+      "type": "example",
+      "japanese": "番組（ばんぐみ）は終（お）わってしまいました。",
+      "english": "The program ended. (and I'm sad about it)"
+    },
+    {
+      "type": "example",
+      "japanese": "彼女（かのじょ）と別（わか）れてしまいました。",
+      "english": "I ended up breaking up with my girlfriend."
+    },
+    {
+      "type": "example",
+      "japanese": "悪（わる）い映画（えいが）を見（み）てしまいました。",
+      "english": "I ended up watching a bad movie."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "casual-contraction",
+      "text": "Casual Contraction 〜ちゃう・〜じゃう"
+    },
+    {
+      "type": "paragraph",
+      "text": "In casual speech, 〜てしまう contracts to 〜ちゃう and 〜でしまう contracts to 〜じゃう. The past forms are 〜ちゃった and 〜じゃった. The meaning is identical, just more conversational."
+    },
+    {
+      "type": "formula",
+      "japanese": "〜てしまう → 〜ちゃう ／ 〜でしまう → 〜じゃう",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べちゃった。",
+      "english": "I ate it. (oops)"
+    },
+    {
+      "type": "example",
+      "japanese": "飲（の）んじゃった。",
+      "english": "I drank it. (oops)"
+    },
+    {
+      "type": "example",
+      "japanese": "タイでバイクをぶつけちゃった。",
+      "english": "I crashed a bike in Thailand."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't confuse 〜てしまう with 〜ておく: 〜ておく is deliberate preparation in advance, while 〜てしまう is completion or an unintended outcome. 宿題（しゅくだい）をやっておいた means you did homework ahead of time; 宿題（しゅくだい）を忘（わす）れてしまった means you forgot it — and regret it."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "て form ＋ しまう",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "全部（ぜんぶ）食（た）べてしまいました。",
+      "english": "I ate it all. (completion)"
+    },
+    {
+      "japanese": "番組（ばんぐみ）は終（お）わってしまいました。",
+      "english": "The program ended. (and I'm sad about it)"
+    },
+    {
+      "japanese": "彼女（かのじょ）と別（わか）れてしまいました。",
+      "english": "I ended up breaking up with my girlfriend."
+    },
+    {
+      "japanese": "悪（わる）い映画（えいが）を見（み）てしまいました。",
+      "english": "I ended up watching a bad movie."
+    },
+    {
+      "japanese": "〜てしまう → 〜ちゃう ／ 〜でしまう → 〜じゃう",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "食（た）べちゃった。",
+      "english": "I ate it. (oops)"
+    },
+    {
+      "japanese": "飲（の）んじゃった。",
+      "english": "I drank it. (oops)"
+    },
+    {
+      "japanese": "タイでバイクをぶつけちゃった。",
+      "english": "I crashed a bike in Thailand."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "casual-contraction",
+      "text": "Casual Contraction 〜ちゃう・〜じゃう"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1002,
+  "slug": "te-shimau",
+  "categories": [
+    "Verb Form"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

@@ -1,0 +1,578 @@
+{
+  "title": "〜ます",
+  "description": "When a verb ends in 〜ます, it shows that you are speaking politely.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜ます is the polite form of Japanese verbs, as opposed to the plain form, or dictionary form. Typical beginner textbooks teach this form first because speaking politely is immediately useful in adult conversations. It's also a safer option as you're unlikely to offend someone with overly-casual speech."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let me give you an example. Imagine you just met someone who asks if you drink coffee. To respond politely that you do, you can use the ます form of the verb 飲（の）む (to drink) and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "飲（の）みます。",
+      "english": "I drink (coffee)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, if the same person asks you if you eat chocolate, you can turn the verb 食（た）べる (to eat) into the ます form and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べます。",
+      "english": "I eat (chocolate)."
+    },
+    {
+      "type": "paragraph",
+      "text": "As in these examples, ます is normally used when speaking to someone you aren't intimately acquainted with, or don't know very well. In conversation with acquaintances, or someone of a higher social rank like your teacher or boss, you would also generally use ます to show respect and deference. Keep in mind it's also not uncommon to use ます when you're conversing with a buddy in a formal setting, like an office."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're not sure if a situation calls for formality, you can always err on the side of caution using the polite form."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "how-to-make-the--form",
+      "text": "How To Make The ます Form"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's have a look at how to conjugate a verb to the ます form. Basically, you take the stem form of a verb and attach ます at the end. So it's important to first know how to make the stem form. While it isn't difficult, the method differs depending on the type of verb ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For godan verbs, replace the う-ending kana to the い-ending kana to make the ます form. For instance, 買（か）う (to buy) becomes 買（か）い (kai) and you add ます, as in 買（か）います. This is a relatively easy example because かう already ends in the vowel う."
+    },
+    {
+      "type": "paragraph",
+      "text": "But what about verbs that don't end in う? Try writing them down in romaji. For example, 飲（の）む (to drink) in romaji is nomu . To make the ます form, you can simply replace the final \"u\" with \"i.\" So nom u becomes nom i , or 飲（の）み. Add ます to this to create 飲（の）みます. Make sense?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Give it a try with some of the verbs below:"
+    },
+    {
+      "type": "paragraph",
+      "text": "For ichidan verbs, simply remove the final る, and add ます instead. So to bring back the first example, you can change 食（た）べる (to eat) into the ます form by replacing the final る with ます, as in 食（た）べます. That's it!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Apart from the verb types above, there are the irregular verbs 来（く）る (to come) and する (to do). For these, you can just remember their ます forms are 来（き）ます and します respectively."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-the--form",
+      "text": "Conjugating The ます Form"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ます form can be conjugated into other forms, too. To do this, you simply modify the す in ます. Here are a few examples:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Present",
+          "〜ます"
+        ],
+        [
+          "Past",
+          "〜ました"
+        ],
+        [
+          "Negative",
+          "〜ません"
+        ],
+        [
+          "Past Negative",
+          "〜ませんでした"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll go over each of these forms in the following sections."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "the-past-tense-of-",
+      "text": "ました: The Past Tense of ます"
+    },
+    {
+      "type": "paragraph",
+      "text": "ました is the past tense of ます. To politely talk about a past action or event with a verb, you use ました. For example, if you want to tell your teacher you passed the JLPT (Japanese Language Proficiency Test) , you would use 合格（ごうかく）する (to pass) with 〜ました and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "合格（ごうかく）しました。",
+      "english": "I passed."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to add another sentence to show the sense of achievement, you can also use やる (to do) with 〜ました and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "やりました！",
+      "english": "I did it!"
+    },
+    {
+      "type": "paragraph",
+      "text": "I bet your teacher must feel very proud of you."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "the-negative-",
+      "text": "ません: The Negative ます"
+    },
+    {
+      "type": "paragraph",
+      "text": "ません is the negative form of ます. You can use it when you want to politely say that you don't do something. Say your teacher writes something on the blackboard but the letters are too small and you can't see them. In this case, you can use 見（み）える (to be able to see) with ません and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "見（み）えません。",
+      "english": "I can't see them."
+    },
+    {
+      "type": "paragraph",
+      "text": "After you say that, the teacher re-writes them bigger. Now you can see them, but this time, you don't understand what she wrote. To express that, you can use 分（わ）かる (to understand) with ません and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "分（わ）かりません。",
+      "english": "I don't understand."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you want to add \"sorry,\" you can also say:"
+    },
+    {
+      "type": "example",
+      "japanese": "すみません。",
+      "english": "I'm sorry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although it's now an integrated phrase, すみません is made up of the verb 済（す）む (to finish) conjugated with the 〜ません ending. It originally meant \"unfinished,\" and people would use it in an irresolvable situation that led them to feel remorse or uneasiness. So it should make sense that it eventually came to signify \"sorry\" or \"excuse me.\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "the-negative--in-the-past-tense",
+      "text": "ませんでした: The Negative ます In The Past Tense"
+    },
+    {
+      "type": "paragraph",
+      "text": "By adding 〜でした to ません, as in ませんでした, you can politely talk about something you didn't do. For example, if you weren't able to do your homework, you can use 出来（でき）る (to be able to do) with 〜ませんでした and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "宿題（しゅくだい）が出来（でき）ませんでした。",
+      "english": "I couldn't do my homework."
+    },
+    {
+      "type": "paragraph",
+      "text": "And since you couldn't do your homework, you didn't want to go to school and ended up skipping class. You can express this using 行（い）く (to go) with 〜ませんでした:"
+    },
+    {
+      "type": "example",
+      "japanese": "学校（がっこう）に行（い）きませんでした。",
+      "english": "I didn't go to school."
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope you finish your homework soon and go to school tomorrow!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-politely-asking-questions",
+      "text": "〜ますか？ and 〜ませんか？ For Politely Asking Questions"
+    },
+    {
+      "type": "paragraph",
+      "text": "When ます is used with the particle か, as in 〜ますか, it indicates a question. For example, if you want to ask your boss about their hobbies, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "料理（りょうり）をしますか？",
+      "english": "Do you cook?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Like this example, 〜ますか can be used to ask about someone's current habits. You can also take this form to the next level by pairing it with a word like よかったら (if you like), to ask if someone is willing to do something. For example, you brought in home-made cookies to work and you want to offer some to a coworker, so you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "よかったら、食（た）べますか？",
+      "english": "Would you like a cookie? (Literally: Do you want to eat a cookie?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can actually ask the same question with the negative ません adding か, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "よかったら、食（た）べませんか？",
+      "english": "Would you like a cookie? (Literally: Do you want to eat a cookie?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Using ませんか here adds the nuance that you are not only asking the listener if they want to eat but that you are welcoming them to do so. As a result, it makes the question sound more inviting. Hence 〜ませんか is also common to ask if someone wants to do something with you, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "いっしょに、おどりませんか？",
+      "english": "Shall we dance?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "attached-to-various-verb-forms",
+      "text": "ます Attached To Various Verb Forms"
+    },
+    {
+      "type": "paragraph",
+      "text": "ます can also attach to other verb forms such as Verb 〜ている , Verb 〜れる (Potential form) , Verb 〜られる (Passive form) , and Verb 〜させる (Causative form) . These forms all act like ichidan verbs, so to attach ます to them, you just replace the final る with ます."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at each example. Imagine your boss calls you and asks you what you're doing. If you're eating lunch, you can use the ている (continuous) form of 食（た）べる (to eat), which is 食（た）べている, with ます and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "今（いま）、ランチを食（た）べています。",
+      "english": "I'm eating lunch now."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then, your boss asks if you can come to his office after lunch. To say you can, you can use the れる (potential) form of 行（い）く (to go), which is 行（い）ける, with ます and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "はい、行（い）けます。",
+      "english": "Yes, I can come."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice the English translation uses \"to come,\" while the Japanese use the verb 行（い）く (to go). This is because the Japanese verb 行（い）く (to go) is used when you're on the departure side of the movement, while 来（く）る (to come) suggests you're on the arrival side. If you aren't familiar with the two verbs, check out their dedicated page ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, let's go back to the scenario. Let's say you hang up the phone and your senior colleague asks you what the call was about. To reply that you were called in by your boss, you can use the られる (passive) form of 呼（よ）ぶ (to call), which is 呼（よ）ばれる, with the past tense of ます, which is ました:"
+    },
+    {
+      "type": "example",
+      "japanese": "ボスに呼（よ）ばれました。",
+      "english": "I was called in by the boss."
+    },
+    {
+      "type": "paragraph",
+      "text": "You then visit your boss's office and find out he is making you put together a presentation. To describe this situation, you can use the させる (causative) form of プレゼンする (to do a presentation), which is プレゼンさせる with ました:"
+    },
+    {
+      "type": "example",
+      "japanese": "ボスにプレゼンさせられました。",
+      "english": "I was made to do a presentation by the boss."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like that, you can attach ます to various verb forms, even complicated ones like the passive causative form!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-the-middle-of-a-sentence",
+      "text": "ます in the Middle of a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "In general, ます appears at the end of a sentence. However, you may sometimes see ます in the middle."
+    },
+    {
+      "type": "paragraph",
+      "text": "An example of this is in a direct quote:"
+    },
+    {
+      "type": "example",
+      "japanese": "ケンは 「大学（だいがく）に行（い）きます」 と言（い）いました。",
+      "english": "Ken said, \"I'll go to college.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence,「大学（だいがく）に行（い）き ます 」is a direct quote, which means that's exactly what Ken said, word-for-word. In this case, you're just using Ken's exact words (or at least what you remember he said), so using ます is acceptable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another example is when the whole sentence is a combination of two (or more) independent sentences."
+    },
+    {
+      "type": "example",
+      "japanese": "大学（だいがく）に行（い）きますが、仕事（しごと）もします。",
+      "english": "I will go to college, but I will also work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you see the two independent sentences here? Here's how to break it down:"
+    },
+    {
+      "type": "example",
+      "japanese": "[A: 大学（だいがく）に行（い）きます] が、[B: 仕事（しごと）もします]。",
+      "english": "[A: I will go to college], but [B: I will also work]."
+    },
+    {
+      "type": "paragraph",
+      "text": "These two sentences are connected by the particle が . Each sentence would work as a stand-alone even without が, so you can call them independent sentences. In cases like this, you can add ます to both sentences. For more information about ます and clauses, check out our clause page ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜ます is the polite form of Japanese verbs, as opposed to the plain form, or dictionary form. Typical beginner textbooks teach this form first because speaking politely is immediately useful in adult conversations. It's also a safer option as you're unlikely to offend someone with overly-casual speech.",
+    "Let me give you an example. Imagine you just met someone who asks if you drink coffee. To respond politely that you do, you can use the ます form of the verb 飲（の）む (to drink) and say:",
+    "Similarly, if the same person asks you if you eat chocolate, you can turn the verb 食（た）べる (to eat) into the ます form and say:",
+    "As in these examples, ます is normally used when speaking to someone you aren't intimately acquainted with, or don't know very well. In conversation with acquaintances, or someone of a higher social rank like your teacher or boss, you would also generally use ます to show respect and deference. Keep in mind it's also not uncommon to use ます when you're conversing with a buddy in a formal setting, like an office.",
+    "If you're not sure if a situation calls for formality, you can always err on the side of caution using the polite form.",
+    "Let's have a look at how to conjugate a verb to the ます form. Basically, you take the stem form of a verb and attach ます at the end. So it's important to first know how to make the stem form. While it isn't difficult, the method differs depending on the type of verb .",
+    "For godan verbs, replace the う-ending kana to the い-ending kana to make the ます form. For instance, 買（か）う (to buy) becomes 買（か）い (kai) and you add ます, as in 買（か）います. This is a relatively easy example because かう already ends in the vowel う.",
+    "But what about verbs that don't end in う? Try writing them down in romaji. For example, 飲（の）む (to drink) in romaji is nomu . To make the ます form, you can simply replace the final \"u\" with \"i.\" So nom u becomes nom i , or 飲（の）み. Add ます to this to create 飲（の）みます. Make sense?",
+    "Give it a try with some of the verbs below:",
+    "For ichidan verbs, simply remove the final る, and add ます instead. So to bring back the first example, you can change 食（た）べる (to eat) into the ます form by replacing the final る with ます, as in 食（た）べます. That's it!",
+    "Apart from the verb types above, there are the irregular verbs 来（く）る (to come) and する (to do). For these, you can just remember their ます forms are 来（き）ます and します respectively.",
+    "The ます form can be conjugated into other forms, too. To do this, you simply modify the す in ます. Here are a few examples:",
+    "We'll go over each of these forms in the following sections.",
+    "ました is the past tense of ます. To politely talk about a past action or event with a verb, you use ました. For example, if you want to tell your teacher you passed the JLPT (Japanese Language Proficiency Test) , you would use 合格（ごうかく）する (to pass) with 〜ました and say:",
+    "If you want to add another sentence to show the sense of achievement, you can also use やる (to do) with 〜ました and say:",
+    "I bet your teacher must feel very proud of you.",
+    "ません is the negative form of ます. You can use it when you want to politely say that you don't do something. Say your teacher writes something on the blackboard but the letters are too small and you can't see them. In this case, you can use 見（み）える (to be able to see) with ません and say:",
+    "After you say that, the teacher re-writes them bigger. Now you can see them, but this time, you don't understand what she wrote. To express that, you can use 分（わ）かる (to understand) with ません and say:",
+    "And if you want to add \"sorry,\" you can also say:",
+    "Although it's now an integrated phrase, すみません is made up of the verb 済（す）む (to finish) conjugated with the 〜ません ending. It originally meant \"unfinished,\" and people would use it in an irresolvable situation that led them to feel remorse or uneasiness. So it should make sense that it eventually came to signify \"sorry\" or \"excuse me.\"",
+    "By adding 〜でした to ません, as in ませんでした, you can politely talk about something you didn't do. For example, if you weren't able to do your homework, you can use 出来（でき）る (to be able to do) with 〜ませんでした and say:",
+    "And since you couldn't do your homework, you didn't want to go to school and ended up skipping class. You can express this using 行（い）く (to go) with 〜ませんでした:",
+    "I hope you finish your homework soon and go to school tomorrow!",
+    "When ます is used with the particle か, as in 〜ますか, it indicates a question. For example, if you want to ask your boss about their hobbies, you can say:",
+    "Like this example, 〜ますか can be used to ask about someone's current habits. You can also take this form to the next level by pairing it with a word like よかったら (if you like), to ask if someone is willing to do something. For example, you brought in home-made cookies to work and you want to offer some to a coworker, so you say:",
+    "You can actually ask the same question with the negative ません adding か, as in:",
+    "Using ませんか here adds the nuance that you are not only asking the listener if they want to eat but that you are welcoming them to do so. As a result, it makes the question sound more inviting. Hence 〜ませんか is also common to ask if someone wants to do something with you, like:",
+    "ます can also attach to other verb forms such as Verb 〜ている , Verb 〜れる (Potential form) , Verb 〜られる (Passive form) , and Verb 〜させる (Causative form) . These forms all act like ichidan verbs, so to attach ます to them, you just replace the final る with ます.",
+    "Let's take a look at each example. Imagine your boss calls you and asks you what you're doing. If you're eating lunch, you can use the ている (continuous) form of 食（た）べる (to eat), which is 食（た）べている, with ます and say:",
+    "Then, your boss asks if you can come to his office after lunch. To say you can, you can use the れる (potential) form of 行（い）く (to go), which is 行（い）ける, with ます and say:",
+    "Notice the English translation uses \"to come,\" while the Japanese use the verb 行（い）く (to go). This is because the Japanese verb 行（い）く (to go) is used when you're on the departure side of the movement, while 来（く）る (to come) suggests you're on the arrival side. If you aren't familiar with the two verbs, check out their dedicated page .",
+    "Now, let's go back to the scenario. Let's say you hang up the phone and your senior colleague asks you what the call was about. To reply that you were called in by your boss, you can use the られる (passive) form of 呼（よ）ぶ (to call), which is 呼（よ）ばれる, with the past tense of ます, which is ました:",
+    "You then visit your boss's office and find out he is making you put together a presentation. To describe this situation, you can use the させる (causative) form of プレゼンする (to do a presentation), which is プレゼンさせる with ました:",
+    "Just like that, you can attach ます to various verb forms, even complicated ones like the passive causative form!",
+    "In general, ます appears at the end of a sentence. However, you may sometimes see ます in the middle.",
+    "An example of this is in a direct quote:",
+    "In this sentence,「大学（だいがく）に行（い）き ます 」is a direct quote, which means that's exactly what Ken said, word-for-word. In this case, you're just using Ken's exact words (or at least what you remember he said), so using ます is acceptable.",
+    "Another example is when the whole sentence is a combination of two (or more) independent sentences.",
+    "Do you see the two independent sentences here? Here's how to break it down:",
+    "These two sentences are connected by the particle が . Each sentence would work as a stand-alone even without が, so you can call them independent sentences. In cases like this, you can add ます to both sentences. For more information about ます and clauses, check out our clause page ."
+  ],
+  "examples": [
+    {
+      "japanese": "飲（の）みます。",
+      "english": "I drink (coffee)."
+    },
+    {
+      "japanese": "食（た）べます。",
+      "english": "I eat (chocolate)."
+    },
+    {
+      "japanese": "合格（ごうかく）しました。",
+      "english": "I passed."
+    },
+    {
+      "japanese": "やりました！",
+      "english": "I did it!"
+    },
+    {
+      "japanese": "見（み）えません。",
+      "english": "I can't see them."
+    },
+    {
+      "japanese": "分（わ）かりません。",
+      "english": "I don't understand."
+    },
+    {
+      "japanese": "すみません。",
+      "english": "I'm sorry."
+    },
+    {
+      "japanese": "宿題（しゅくだい）が出来（でき）ませんでした。",
+      "english": "I couldn't do my homework."
+    },
+    {
+      "japanese": "学校（がっこう）に行（い）きませんでした。",
+      "english": "I didn't go to school."
+    },
+    {
+      "japanese": "料理（りょうり）をしますか？",
+      "english": "Do you cook?"
+    },
+    {
+      "japanese": "よかったら、食（た）べますか？",
+      "english": "Would you like a cookie? (Literally: Do you want to eat a cookie?)"
+    },
+    {
+      "japanese": "よかったら、食（た）べませんか？",
+      "english": "Would you like a cookie? (Literally: Do you want to eat a cookie?)"
+    },
+    {
+      "japanese": "いっしょに、おどりませんか？",
+      "english": "Shall we dance?"
+    },
+    {
+      "japanese": "今（いま）、ランチを食（た）べています。",
+      "english": "I'm eating lunch now."
+    },
+    {
+      "japanese": "はい、行（い）けます。",
+      "english": "Yes, I can come."
+    },
+    {
+      "japanese": "ボスに呼（よ）ばれました。",
+      "english": "I was called in by the boss."
+    },
+    {
+      "japanese": "ボスにプレゼンさせられました。",
+      "english": "I was made to do a presentation by the boss."
+    },
+    {
+      "japanese": "ケンは 「大学（だいがく）に行（い）きます」 と言（い）いました。",
+      "english": "Ken said, \"I'll go to college.\""
+    },
+    {
+      "japanese": "大学（だいがく）に行（い）きますが、仕事（しごと）もします。",
+      "english": "I will go to college, but I will also work."
+    },
+    {
+      "japanese": "[A: 大学（だいがく）に行（い）きます] が、[B: 仕事（しごと）もします]。",
+      "english": "[A: I will go to college], but [B: I will also work]."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Present",
+        "〜ます"
+      ],
+      [
+        "Past",
+        "〜ました"
+      ],
+      [
+        "Negative",
+        "〜ません"
+      ],
+      [
+        "Past Negative",
+        "〜ませんでした"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "how-to-make-the--form",
+      "text": "How To Make The ます Form"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-the--form",
+      "text": "Conjugating The ます Form"
+    },
+    {
+      "level": 3,
+      "id": "the-past-tense-of-",
+      "text": "ました: The Past Tense of ます"
+    },
+    {
+      "level": 3,
+      "id": "the-negative-",
+      "text": "ません: The Negative ます"
+    },
+    {
+      "level": 3,
+      "id": "the-negative--in-the-past-tense",
+      "text": "ませんでした: The Negative ます In The Past Tense"
+    },
+    {
+      "level": 3,
+      "id": "and--for-politely-asking-questions",
+      "text": "〜ますか？ and 〜ませんか？ For Politely Asking Questions"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "attached-to-various-verb-forms",
+      "text": "ます Attached To Various Verb Forms"
+    },
+    {
+      "level": 3,
+      "id": "in-the-middle-of-a-sentence",
+      "text": "ます in the Middle of a Sentence"
+    }
+  ],
+  "id": 75,
+  "slug": "masu",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/masu/",
+  "categories": [
+    "Verb Form"
+  ]
+}

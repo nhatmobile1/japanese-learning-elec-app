@@ -1,0 +1,810 @@
+{
+  "title": "Particle に",
+  "description": "に is like a pin on a map. It shows where you are, where you are headed, or where you were before.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle に is a complex particle with many uses. Some linguists have found that it can be used in more than twenty different ways! However, if you boil に down all the way to its basics, you'll find that it has a fundamental meaning that unites all its uses. In short, に shows you where something is, was, or will be in the future."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "pinning-down-",
+      "text": "Pinning Down に"
+    },
+    {
+      "type": "paragraph",
+      "text": "To get a deeper understanding of the fundamental meaning of に, it's helpful to imagine it as a pin on a map. You can drop a pin on the location where something exists, or on a place that you want to go to."
+    },
+    {
+      "type": "paragraph",
+      "text": "In some sentences, に is like a \"You are Here\" sign. It marks where you currently are, or where something or someone is located."
+    },
+    {
+      "type": "example",
+      "japanese": "コウイチは宇宙（うちゅう）にいる。",
+      "english": "Koichi is in space."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, に comes after the noun 宇宙（うちゅう） (space), telling us where Koichi is located. I wonder how he got there! 👽"
+    },
+    {
+      "type": "paragraph",
+      "text": "Not only does に mark where something is, it can also mark where something will be. This is like dropping a pin on a destination on a map application."
+    },
+    {
+      "type": "example",
+      "japanese": "コウイチは地球（ちきゅう）に帰（かえ）る。",
+      "english": "Koichi will return to Earth."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, に marks 地球（ちきゅう） (Earth) as the destination, not the location where Koichi currently is."
+    },
+    {
+      "type": "paragraph",
+      "text": "So to sum it up, に has the fundamental meaning of pinning down a point of existence (where something is, was, or will be)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this section, we'll list the basic patterns in which particle に tends to pop up. We'll save the explanations of how the fundamental concept applies to each use for later sections."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + に"
+    },
+    {
+      "type": "paragraph",
+      "text": "When に comes after a noun, the most basic use is pinning down a location."
+    },
+    {
+      "type": "example",
+      "japanese": "火星（かせい）にいる。",
+      "english": "I'm on Mars."
+    },
+    {
+      "type": "example",
+      "japanese": "火星（かせい）に行（い）く。",
+      "english": "I'm going to Mars."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are a wide range of different uses as well, but you'll learn them one by one later!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb-stem--",
+      "text": "Verb Stem + に"
+    },
+    {
+      "type": "paragraph",
+      "text": "When に follows a verb in its stem form , it pins down the activity represented by the verb as a purpose."
+    },
+    {
+      "type": "example",
+      "japanese": "コウイチは宇宙（うちゅう）人（じん）を探（さが）しに行（い）きました。",
+      "english": "Koichi went to search for an alien."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, the verb 探（さが）す (search for) is in its stem form, 探（さが）し. The に that follows lets us know that this is the purpose for going."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adj---adverb",
+      "text": "な-adj + に (=Adverb)"
+    },
+    {
+      "type": "paragraph",
+      "text": "When に comes after an な-adjective, it pins down a state or condition:"
+    },
+    {
+      "type": "example",
+      "japanese": "宇宙（うちゅう）はとても静（しず）かになった。",
+      "english": "Space became very quiet."
+    },
+    {
+      "type": "paragraph",
+      "text": "It can also pin down the manner in which an activity is carried out:"
+    },
+    {
+      "type": "example",
+      "japanese": "コウイチは宇宙船（うちゅうせん）を冷静（れいせい）に運転（うんてん）する。",
+      "english": "Koichi drives the spaceship calmly."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, に changes the adjective 冷静（れいせい） (calm) into an adverb (calmly) and describes how the spaceship is driven. This function is similar to the く form of い-adjectives , which also results in an adverb."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section",
+      "text": "の + に (=のに)"
+    },
+    {
+      "type": "paragraph",
+      "text": "に is part of the conjunctive particle のに , which can be used either at the end of a sentence or at the end of a clause to form a longer, complex sentence. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "火星（かせい）まで行（い）くのに、ロケットを使（つか）った。",
+      "english": "To get to Mars, they used rockets."
+    },
+    {
+      "type": "example",
+      "japanese": "火星（かせい）まで行（い）ったのに、宇宙（うちゅう）人（じん）が一（いち）人（にん）もいなかった。",
+      "english": "Even though we went all the way to Mars, there wasn't a single alien."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "uses-of-",
+      "text": "Uses of に"
+    },
+    {
+      "type": "paragraph",
+      "text": "When に comes after a noun, it can have a very wide range of meanings depending on other elements of the sentence, particularly the kind of verb. Here, we'll introduce basic uses of に, while focusing on the elements that change its meaning."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-location",
+      "text": "に for Location"
+    },
+    {
+      "type": "paragraph",
+      "text": "So far, you've learned that に works like a pin on a map. It points to the location where something is, or to a place you want to go. The type of verb that comes in the sentence will determine which meaning of に comes out."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the verb tells us that something exists , such as いる or ある, に acts like a \"You are Here\" sign."
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）はNASAにいる。",
+      "english": "I am at NASA today."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the verb expresses movement with direction, such as 行（い）く (go), 来（く）る (come), or 帰（かえ）る (return), に is like a map pin dropped on the destination point."
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）はNASAに行（い）く。",
+      "english": "I'm going to NASA today."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since you can say \"I walked to NASA\" in English, you may be tempted to say NASAに歩（ある）く, but this is not very natural in Japanese. Verbs like 歩（ある）く (walk) or 走（はし）る (run) lack a sense of directionality — they are just used to describe the physical act of walking or running. You'd want to combine it with another verb that carries a directional meaning, like, 行（い）く:"
+    },
+    {
+      "type": "example",
+      "japanese": "🔺今日（きょう）はNASAに歩（ある）いた。 ⭕今日（きょう）はNASAに歩（ある）いて行（い）った。",
+      "english": "I walked to NASA today."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, we took the verb 歩（ある）く and changed it into its て Form in order to make this happen. Using 歩（ある）く alone to express direction is a common learner mistake, so watch out!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-attachment",
+      "text": "に for Attachment"
+    },
+    {
+      "type": "paragraph",
+      "text": "に is also used to mark something as the place where attachment to another object occurs. For this reason, you'll often see に used with verbs that indicate some kind of attachment or contact, such as 貼（は）る (affix), 付（つ）ける (attach), and 掛（か）ける (hang)."
+    },
+    {
+      "type": "example",
+      "japanese": "ワニカニのポスターを壁（かべ）に貼（は）った。",
+      "english": "I stuck a Crabigator poster to the wall."
+    },
+    {
+      "type": "example",
+      "japanese": "コートをこのハンガーに掛（か）けていいよ。",
+      "english": "You can hang your coat on this hanger."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's apply our map metaphor as we analyze these example sentences. In the first sentence, に drops a pin on 壁（かべ） (wall), marking it as the destination or goal of the poster's attachment. In the second sentence, に drops a pin on ハンガー (hanger), indicating that it is the goal destination of the coat."
+    },
+    {
+      "type": "paragraph",
+      "text": "The idea of に marking attachment also explains why 乗（の）る (ride) takes に."
+    },
+    {
+      "type": "example",
+      "japanese": "自転車（じてんしゃ）に乗（の）るのが大好（だいす）きだ。",
+      "english": "I love riding my bike."
+    },
+    {
+      "type": "example",
+      "japanese": "毎朝（まいあさ）、電車（でんしゃ）に乗（の）ります。",
+      "english": "I take the train everyday."
+    },
+    {
+      "type": "paragraph",
+      "text": "English speakers are often tempted to use particle を to express things like \"ride my bike\" or \"take the train,\" since the nouns in these phrases are direct objects in English. In Japanese though, modes of transportation take に. Think of it like this — you are metaphorically \"attaching\" yourself to the bike or train when you ride it. Imagine that you're dropping a pin on the mode of transportation you'll take. If you think about it, while you're riding it, that is where you are, so it kind of makes sense!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-points-in-time",
+      "text": "に for Points in Time"
+    },
+    {
+      "type": "paragraph",
+      "text": "に can also mark points in time, regardless of if they are in the past, present, or future. Just imagine you're dropping a pin on a timeline rather than a map."
+    },
+    {
+      "type": "example",
+      "japanese": "NASAとの会議（かいぎ）が３時（じ）に始（はじ）まります。",
+      "english": "The meeting with NASA begins at 3pm."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, に drops a pin on a timeline, to mark exactly when the meeting will begin."
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle で can also a mark point in time, however it refers to the end point of an event. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "会議（かいぎ）が４時（じ） (に/で) 終（お）わります。",
+      "english": "The meeting ends at 4pm."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the verb 終（お）わる (finish) signifies that we're talking about an end point, で is possible here. However, で usually cannot replace に in the previous example sentence, since it signifies the starting point of the meeting."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-purpose",
+      "text": "に for Purpose"
+    },
+    {
+      "type": "paragraph",
+      "text": "に can be used to express a purpose when it follows ため (for the purpose of) or a verb in its stem form ."
+    },
+    {
+      "type": "example",
+      "japanese": "会議（かいぎ）のためにNASAに行（い）った。",
+      "english": "I went to NASA for a meeting."
+    },
+    {
+      "type": "example",
+      "japanese": "会議（かいぎ）をしにNASAに行（い）った。",
+      "english": "I went to NASA to hold a meeting."
+    },
+    {
+      "type": "paragraph",
+      "text": "In these examples, the に that follows ため or the stem form of する lets us know that this is the purpose for going. Thinking back to our map metaphor, you can imagine that a pin is dropped not on an intended location , but rather on an intended activity . In this case, that activity is \"a meeting\" or \"holding a meeting.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You learned earlier that marking a destination with に for motion verbs like 歩（ある）く or 走（はし）る sounds a bit unnatural. Just like how we added directionality to make this sound better before, we can also add purpose with ために to make the sentence sound more acceptable:"
+    },
+    {
+      "type": "example",
+      "japanese": "ロケットを見（み）るためにNASAに走（はし）った。",
+      "english": "I ran to NASA to watch a rocket."
+    },
+    {
+      "type": "paragraph",
+      "text": "Think of it like this — a purpose is like a destination… in your mind 🧠✨"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-marking-the-result-of-a-transformation",
+      "text": "に for Marking the Result of a Transformation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like に can mark physical destinations, it can also be used to mark the result of a change of state. This use of に appears with verbs that denote some kind of change or transformation, such as なる (become) or 変（か）わる (change)."
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーは宇宙（うちゅう）飛行（ひこう）士（し）になった。",
+      "english": "Jenny became an astronaut."
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーは勇敢（ゆうかん）になった。",
+      "english": "Jenny became brave."
+    },
+    {
+      "type": "paragraph",
+      "text": "When applying the map metaphor to this use, imagine that に marks the goal of the transformation. For the first example, we drop a pin on \"astronaut\" to mark the goal of Jenny's career change. Similarly, we drop a pin on the attribute \"brave\" to mark it as the result of Jenny's personal growth."
+    },
+    {
+      "type": "paragraph",
+      "text": "に can mark the result of a transformation in the present, past, or even before the change has occurred. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "宇宙船（うちゅうせん）を止（と）めて！信号（しんごう）が赤（あか）に変（か）わったよ！",
+      "english": "Stop the spaceship! The signal changed to red!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, the verb 変（か）わった is in the past tense, so clearly the transformation of the signal (from green, to yellow, to red) has already occurred. But に can also be used to mark the result of a transformation before it occurs:"
+    },
+    {
+      "type": "example",
+      "japanese": "宇宙船（うちゅうせん）を止（と）めて！これから信号（しんごう）が赤（あか）に変（か）わるよ！",
+      "english": "Stop the spaceship! The signal is about to change to red!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "As we've already pointed out, に has a lot of different meanings that are related to this idea of dropping a pin on a map. In this next section, we'll explore some of the more abstract uses of に, all while making sure to tie them in with our analogy."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-social-interactions-and-transactions",
+      "text": "に in Social Interactions and Transactions"
+    },
+    {
+      "type": "paragraph",
+      "text": "に can be used to mark the giver and the receiver of social interactions. This is easy to see with verbs that denote some sort of transaction, such as あげる (give) and もらう (receive) ."
+    },
+    {
+      "type": "example",
+      "japanese": "かなえはまみにアメリカのベーコンをあげた。",
+      "english": "Kanae gave American bacon to Mami."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, まみ is the receiver of the bacon, and に follows after her to mark this. Using our analogy, we're dropping a destination pin on Mami to mark her as the goal of the exchange. Now let's change up the verb from \"give\" to \"receive.\""
+    },
+    {
+      "type": "example",
+      "japanese": "かなえはまみにカナダのベーコンをもらった。",
+      "english": "Kanae received Canadian bacon from Mami."
+    },
+    {
+      "type": "paragraph",
+      "text": "まみ is still marked by に but she is no longer the receiver of the bacon — she is where it came from. In this case, に does not mark a destination, it is marking the starting point of the transaction. Think of it this way — Kanae is receiving the bacon, and she drops a pin on where it came from — Mami."
+    },
+    {
+      "type": "paragraph",
+      "text": "Exchanges between people do not need to be physical. People can also exchange more abstract things, like messages, knowledge, or information."
+    },
+    {
+      "type": "example",
+      "japanese": "キャメロンはかなえに英語（えいご）を教（おし）えた。",
+      "english": "Cameron taught English to Kanae."
+    },
+    {
+      "type": "example",
+      "japanese": "キャメロンはかなえに日本語（にほんご）を習（なら）った。",
+      "english": "Cameron learned Japanese from Kanae."
+    },
+    {
+      "type": "paragraph",
+      "text": "In these sentences, Cameron and Kanae are exchanging something abstract — knowledge about their native languages. Just like before, に drops a pin on the destination of that knowledge in the first sentence, and on the origin of the knowledge in the second sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "People can also be the goal of an interaction itself."
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーはまみに話（はな）した。",
+      "english": "Jenny talked to Mami."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, に drops a pin on まみ, indicating that Mami is Jenny's intended conversation partner. This suggests that Jenny approached Mami for the conversation. To say that Jenny and Mami talked together, without suggesting who initiated the conversation, you can use particle と ."
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーはマミと話（はな）した。",
+      "english": "Jenny talked with Mami."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-passive-sentences",
+      "text": "に in Passive Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "In a passive sentence , the person or thing that is being affected by the verb is placed at the beginning of the sentence. If に is included in the passive sentence, it marks the person or thing that causes the event to occur."
+    },
+    {
+      "type": "example",
+      "japanese": "キャメロンはジェニーにそのレストランをすすめられた。",
+      "english": "That restaurant was recommended to Cameron by Jenny."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, Jenny is marked by に, which shows that she is the one that did the recommending. In other words, に drops a pin on Jenny, to show that she is the point of origin of the recommendation."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because in passive sentences, the person who was affected by the verb is the \"receiver\" of the action. Just like the previous example with もらう, when the action indicates \"receiving,\" に does not mark the destination, but the starting point of the transaction. So in this case, Cameron is receiving the recommendation, and the pin drops on where it came from — Jenny."
+    },
+    {
+      "type": "paragraph",
+      "text": "We should point out that, just like English has lots of loose rules or suggestions about when to use (or not use) the passive voice, the passive voice in Japanese also has its own set of nuances and uses that make it quite distinct from English. Check out our page on the Japanese passive to learn more!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-causative-sentences",
+      "text": "に in Causative Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "The causative form is a verb conjugation that is used when someone or something causes the situation described in the sentence. Depending on the context, it can have two different meanings — to make someone do something, or to allow someone to do something. Let's check it out."
+    },
+    {
+      "type": "example",
+      "japanese": "まみは子供（こども）に外（そと）で遊（あそ）ばせた。",
+      "english": "Mami made/let her kids play outside."
+    },
+    {
+      "type": "paragraph",
+      "text": "Without context, this sentence could go one of two ways. Perhaps Mami's kids are being too rambunctious, so she made them go outside to play. Or, it's possible that her kids wanted to play outside, and she gave them permission. Regardless, Mami possesses the authority to decide what her kids should do. In other words, she can あげる (give) the order or the permission. As you learned in the former section, when the verb denotes \"giving,\" the receiver is marked by に."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same example, you can also use particle を to mean almost the same thing:"
+    },
+    {
+      "type": "example",
+      "japanese": "まみは子供（こども）を外（そと）で遊（あそ）ばせた。",
+      "english": "Mami made her kids play outside."
+    },
+    {
+      "type": "paragraph",
+      "text": "When particle を is used, the kids are treated as a direct object — something that Mami acts upon. For this reason, を in the causative is considered to be more suitable for a coercive situation. So if Mami made her kids play outside, whether they wanted to or not, you're more likely to use を. Still, を is sometimes used even when the kids intended to play outside."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are further nuances and considerations related to choosing a particle in this type of sentence. Learn more on our causative form page!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Particle に is a complex particle with many uses. Some linguists have found that it can be used in more than twenty different ways! However, if you boil に down all the way to its basics, you'll find that it has a fundamental meaning that unites all its uses. In short, に shows you where something is, was, or will be in the future.",
+    "To get a deeper understanding of the fundamental meaning of に, it's helpful to imagine it as a pin on a map. You can drop a pin on the location where something exists, or on a place that you want to go to.",
+    "In some sentences, に is like a \"You are Here\" sign. It marks where you currently are, or where something or someone is located.",
+    "In this sentence, に comes after the noun 宇宙（うちゅう） (space), telling us where Koichi is located. I wonder how he got there! 👽",
+    "Not only does に mark where something is, it can also mark where something will be. This is like dropping a pin on a destination on a map application.",
+    "In this sentence, に marks 地球（ちきゅう） (Earth) as the destination, not the location where Koichi currently is.",
+    "So to sum it up, に has the fundamental meaning of pinning down a point of existence (where something is, was, or will be).",
+    "In this section, we'll list the basic patterns in which particle に tends to pop up. We'll save the explanations of how the fundamental concept applies to each use for later sections.",
+    "When に comes after a noun, the most basic use is pinning down a location.",
+    "There are a wide range of different uses as well, but you'll learn them one by one later!",
+    "When に follows a verb in its stem form , it pins down the activity represented by the verb as a purpose.",
+    "In this example, the verb 探（さが）す (search for) is in its stem form, 探（さが）し. The に that follows lets us know that this is the purpose for going.",
+    "When に comes after an な-adjective, it pins down a state or condition:",
+    "It can also pin down the manner in which an activity is carried out:",
+    "In this case, に changes the adjective 冷静（れいせい） (calm) into an adverb (calmly) and describes how the spaceship is driven. This function is similar to the く form of い-adjectives , which also results in an adverb.",
+    "に is part of the conjunctive particle のに , which can be used either at the end of a sentence or at the end of a clause to form a longer, complex sentence. For example:",
+    "When に comes after a noun, it can have a very wide range of meanings depending on other elements of the sentence, particularly the kind of verb. Here, we'll introduce basic uses of に, while focusing on the elements that change its meaning.",
+    "So far, you've learned that に works like a pin on a map. It points to the location where something is, or to a place you want to go. The type of verb that comes in the sentence will determine which meaning of に comes out.",
+    "When the verb tells us that something exists , such as いる or ある, に acts like a \"You are Here\" sign.",
+    "When the verb expresses movement with direction, such as 行（い）く (go), 来（く）る (come), or 帰（かえ）る (return), に is like a map pin dropped on the destination point.",
+    "Since you can say \"I walked to NASA\" in English, you may be tempted to say NASAに歩（ある）く, but this is not very natural in Japanese. Verbs like 歩（ある）く (walk) or 走（はし）る (run) lack a sense of directionality — they are just used to describe the physical act of walking or running. You'd want to combine it with another verb that carries a directional meaning, like, 行（い）く:",
+    "As you can see, we took the verb 歩（ある）く and changed it into its て Form in order to make this happen. Using 歩（ある）く alone to express direction is a common learner mistake, so watch out!",
+    "に is also used to mark something as the place where attachment to another object occurs. For this reason, you'll often see に used with verbs that indicate some kind of attachment or contact, such as 貼（は）る (affix), 付（つ）ける (attach), and 掛（か）ける (hang).",
+    "Let's apply our map metaphor as we analyze these example sentences. In the first sentence, に drops a pin on 壁（かべ） (wall), marking it as the destination or goal of the poster's attachment. In the second sentence, に drops a pin on ハンガー (hanger), indicating that it is the goal destination of the coat.",
+    "The idea of に marking attachment also explains why 乗（の）る (ride) takes に.",
+    "English speakers are often tempted to use particle を to express things like \"ride my bike\" or \"take the train,\" since the nouns in these phrases are direct objects in English. In Japanese though, modes of transportation take に. Think of it like this — you are metaphorically \"attaching\" yourself to the bike or train when you ride it. Imagine that you're dropping a pin on the mode of transportation you'll take. If you think about it, while you're riding it, that is where you are, so it kind of makes sense!",
+    "に can also mark points in time, regardless of if they are in the past, present, or future. Just imagine you're dropping a pin on a timeline rather than a map.",
+    "In this example, に drops a pin on a timeline, to mark exactly when the meeting will begin.",
+    "Particle で can also a mark point in time, however it refers to the end point of an event. For example:",
+    "Because the verb 終（お）わる (finish) signifies that we're talking about an end point, で is possible here. However, で usually cannot replace に in the previous example sentence, since it signifies the starting point of the meeting.",
+    "に can be used to express a purpose when it follows ため (for the purpose of) or a verb in its stem form .",
+    "In these examples, the に that follows ため or the stem form of する lets us know that this is the purpose for going. Thinking back to our map metaphor, you can imagine that a pin is dropped not on an intended location , but rather on an intended activity . In this case, that activity is \"a meeting\" or \"holding a meeting.\"",
+    "You learned earlier that marking a destination with に for motion verbs like 歩（ある）く or 走（はし）る sounds a bit unnatural. Just like how we added directionality to make this sound better before, we can also add purpose with ために to make the sentence sound more acceptable:",
+    "Think of it like this — a purpose is like a destination… in your mind 🧠✨",
+    "Just like に can mark physical destinations, it can also be used to mark the result of a change of state. This use of に appears with verbs that denote some kind of change or transformation, such as なる (become) or 変（か）わる (change).",
+    "When applying the map metaphor to this use, imagine that に marks the goal of the transformation. For the first example, we drop a pin on \"astronaut\" to mark the goal of Jenny's career change. Similarly, we drop a pin on the attribute \"brave\" to mark it as the result of Jenny's personal growth.",
+    "に can mark the result of a transformation in the present, past, or even before the change has occurred. For example:",
+    "In this sentence, the verb 変（か）わった is in the past tense, so clearly the transformation of the signal (from green, to yellow, to red) has already occurred. But に can also be used to mark the result of a transformation before it occurs:",
+    "As we've already pointed out, に has a lot of different meanings that are related to this idea of dropping a pin on a map. In this next section, we'll explore some of the more abstract uses of に, all while making sure to tie them in with our analogy.",
+    "に can be used to mark the giver and the receiver of social interactions. This is easy to see with verbs that denote some sort of transaction, such as あげる (give) and もらう (receive) .",
+    "In this sentence, まみ is the receiver of the bacon, and に follows after her to mark this. Using our analogy, we're dropping a destination pin on Mami to mark her as the goal of the exchange. Now let's change up the verb from \"give\" to \"receive.\"",
+    "まみ is still marked by に but she is no longer the receiver of the bacon — she is where it came from. In this case, に does not mark a destination, it is marking the starting point of the transaction. Think of it this way — Kanae is receiving the bacon, and she drops a pin on where it came from — Mami.",
+    "Exchanges between people do not need to be physical. People can also exchange more abstract things, like messages, knowledge, or information.",
+    "In these sentences, Cameron and Kanae are exchanging something abstract — knowledge about their native languages. Just like before, に drops a pin on the destination of that knowledge in the first sentence, and on the origin of the knowledge in the second sentence.",
+    "People can also be the goal of an interaction itself.",
+    "In this sentence, に drops a pin on まみ, indicating that Mami is Jenny's intended conversation partner. This suggests that Jenny approached Mami for the conversation. To say that Jenny and Mami talked together, without suggesting who initiated the conversation, you can use particle と .",
+    "In a passive sentence , the person or thing that is being affected by the verb is placed at the beginning of the sentence. If に is included in the passive sentence, it marks the person or thing that causes the event to occur.",
+    "In this sentence, Jenny is marked by に, which shows that she is the one that did the recommending. In other words, に drops a pin on Jenny, to show that she is the point of origin of the recommendation.",
+    "This is because in passive sentences, the person who was affected by the verb is the \"receiver\" of the action. Just like the previous example with もらう, when the action indicates \"receiving,\" に does not mark the destination, but the starting point of the transaction. So in this case, Cameron is receiving the recommendation, and the pin drops on where it came from — Jenny.",
+    "We should point out that, just like English has lots of loose rules or suggestions about when to use (or not use) the passive voice, the passive voice in Japanese also has its own set of nuances and uses that make it quite distinct from English. Check out our page on the Japanese passive to learn more!",
+    "The causative form is a verb conjugation that is used when someone or something causes the situation described in the sentence. Depending on the context, it can have two different meanings — to make someone do something, or to allow someone to do something. Let's check it out.",
+    "Without context, this sentence could go one of two ways. Perhaps Mami's kids are being too rambunctious, so she made them go outside to play. Or, it's possible that her kids wanted to play outside, and she gave them permission. Regardless, Mami possesses the authority to decide what her kids should do. In other words, she can あげる (give) the order or the permission. As you learned in the former section, when the verb denotes \"giving,\" the receiver is marked by に.",
+    "In the same example, you can also use particle を to mean almost the same thing:",
+    "When particle を is used, the kids are treated as a direct object — something that Mami acts upon. For this reason, を in the causative is considered to be more suitable for a coercive situation. So if Mami made her kids play outside, whether they wanted to or not, you're more likely to use を. Still, を is sometimes used even when the kids intended to play outside.",
+    "There are further nuances and considerations related to choosing a particle in this type of sentence. Learn more on our causative form page!"
+  ],
+  "examples": [
+    {
+      "japanese": "コウイチは宇宙（うちゅう）にいる。",
+      "english": "Koichi is in space."
+    },
+    {
+      "japanese": "コウイチは地球（ちきゅう）に帰（かえ）る。",
+      "english": "Koichi will return to Earth."
+    },
+    {
+      "japanese": "火星（かせい）にいる。",
+      "english": "I'm on Mars."
+    },
+    {
+      "japanese": "火星（かせい）に行（い）く。",
+      "english": "I'm going to Mars."
+    },
+    {
+      "japanese": "コウイチは宇宙（うちゅう）人（じん）を探（さが）しに行（い）きました。",
+      "english": "Koichi went to search for an alien."
+    },
+    {
+      "japanese": "宇宙（うちゅう）はとても静（しず）かになった。",
+      "english": "Space became very quiet."
+    },
+    {
+      "japanese": "コウイチは宇宙船（うちゅうせん）を冷静（れいせい）に運転（うんてん）する。",
+      "english": "Koichi drives the spaceship calmly."
+    },
+    {
+      "japanese": "火星（かせい）まで行（い）くのに、ロケットを使（つか）った。",
+      "english": "To get to Mars, they used rockets."
+    },
+    {
+      "japanese": "火星（かせい）まで行（い）ったのに、宇宙（うちゅう）人（じん）が一（いち）人（にん）もいなかった。",
+      "english": "Even though we went all the way to Mars, there wasn't a single alien."
+    },
+    {
+      "japanese": "今日（きょう）はNASAにいる。",
+      "english": "I am at NASA today."
+    },
+    {
+      "japanese": "今日（きょう）はNASAに行（い）く。",
+      "english": "I'm going to NASA today."
+    },
+    {
+      "japanese": "🔺今日（きょう）はNASAに歩（ある）いた。 ⭕今日（きょう）はNASAに歩（ある）いて行（い）った。",
+      "english": "I walked to NASA today."
+    },
+    {
+      "japanese": "ワニカニのポスターを壁（かべ）に貼（は）った。",
+      "english": "I stuck a Crabigator poster to the wall."
+    },
+    {
+      "japanese": "コートをこのハンガーに掛（か）けていいよ。",
+      "english": "You can hang your coat on this hanger."
+    },
+    {
+      "japanese": "自転車（じてんしゃ）に乗（の）るのが大好（だいす）きだ。",
+      "english": "I love riding my bike."
+    },
+    {
+      "japanese": "毎朝（まいあさ）、電車（でんしゃ）に乗（の）ります。",
+      "english": "I take the train everyday."
+    },
+    {
+      "japanese": "NASAとの会議（かいぎ）が３時（じ）に始（はじ）まります。",
+      "english": "The meeting with NASA begins at 3pm."
+    },
+    {
+      "japanese": "会議（かいぎ）が４時（じ） (に/で) 終（お）わります。",
+      "english": "The meeting ends at 4pm."
+    },
+    {
+      "japanese": "会議（かいぎ）のためにNASAに行（い）った。",
+      "english": "I went to NASA for a meeting."
+    },
+    {
+      "japanese": "会議（かいぎ）をしにNASAに行（い）った。",
+      "english": "I went to NASA to hold a meeting."
+    },
+    {
+      "japanese": "ロケットを見（み）るためにNASAに走（はし）った。",
+      "english": "I ran to NASA to watch a rocket."
+    },
+    {
+      "japanese": "ジェニーは宇宙（うちゅう）飛行（ひこう）士（し）になった。",
+      "english": "Jenny became an astronaut."
+    },
+    {
+      "japanese": "ジェニーは勇敢（ゆうかん）になった。",
+      "english": "Jenny became brave."
+    },
+    {
+      "japanese": "宇宙船（うちゅうせん）を止（と）めて！信号（しんごう）が赤（あか）に変（か）わったよ！",
+      "english": "Stop the spaceship! The signal changed to red!"
+    },
+    {
+      "japanese": "宇宙船（うちゅうせん）を止（と）めて！これから信号（しんごう）が赤（あか）に変（か）わるよ！",
+      "english": "Stop the spaceship! The signal is about to change to red!"
+    },
+    {
+      "japanese": "かなえはまみにアメリカのベーコンをあげた。",
+      "english": "Kanae gave American bacon to Mami."
+    },
+    {
+      "japanese": "かなえはまみにカナダのベーコンをもらった。",
+      "english": "Kanae received Canadian bacon from Mami."
+    },
+    {
+      "japanese": "キャメロンはかなえに英語（えいご）を教（おし）えた。",
+      "english": "Cameron taught English to Kanae."
+    },
+    {
+      "japanese": "キャメロンはかなえに日本語（にほんご）を習（なら）った。",
+      "english": "Cameron learned Japanese from Kanae."
+    },
+    {
+      "japanese": "ジェニーはまみに話（はな）した。",
+      "english": "Jenny talked to Mami."
+    },
+    {
+      "japanese": "ジェニーはマミと話（はな）した。",
+      "english": "Jenny talked with Mami."
+    },
+    {
+      "japanese": "キャメロンはジェニーにそのレストランをすすめられた。",
+      "english": "That restaurant was recommended to Cameron by Jenny."
+    },
+    {
+      "japanese": "まみは子供（こども）に外（そと）で遊（あそ）ばせた。",
+      "english": "Mami made/let her kids play outside."
+    },
+    {
+      "japanese": "まみは子供（こども）を外（そと）で遊（あそ）ばせた。",
+      "english": "Mami made her kids play outside."
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "pinning-down-",
+      "text": "Pinning Down に"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + に"
+    },
+    {
+      "level": 4,
+      "id": "verb-stem--",
+      "text": "Verb Stem + に"
+    },
+    {
+      "level": 4,
+      "id": "adj---adverb",
+      "text": "な-adj + に (=Adverb)"
+    },
+    {
+      "level": 4,
+      "id": "section",
+      "text": "の + に (=のに)"
+    },
+    {
+      "level": 2,
+      "id": "uses-of-",
+      "text": "Uses of に"
+    },
+    {
+      "level": 3,
+      "id": "for-location",
+      "text": "に for Location"
+    },
+    {
+      "level": 3,
+      "id": "for-attachment",
+      "text": "に for Attachment"
+    },
+    {
+      "level": 3,
+      "id": "for-points-in-time",
+      "text": "に for Points in Time"
+    },
+    {
+      "level": 3,
+      "id": "for-purpose",
+      "text": "に for Purpose"
+    },
+    {
+      "level": 3,
+      "id": "for-marking-the-result-of-a-transformation",
+      "text": "に for Marking the Result of a Transformation"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "in-social-interactions-and-transactions",
+      "text": "に in Social Interactions and Transactions"
+    },
+    {
+      "level": 3,
+      "id": "in-passive-sentences",
+      "text": "に in Passive Sentences"
+    },
+    {
+      "level": 3,
+      "id": "in-causative-sentences",
+      "text": "に in Causative Sentences"
+    }
+  ],
+  "id": 20,
+  "slug": "particle-ni",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-ni/",
+  "categories": [
+    "Particle"
+  ]
+}

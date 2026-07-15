@@ -1,0 +1,144 @@
+{
+  "title": "〜ようとする・〜ようと思う",
+  "description": "Both build on the volitional form (〜よう). 〜ようとする means \"to be about to / try to\" — you're on the verge of an action or making an attempt. 〜ようと思（おも）う means \"I'm thinking of doing\" — a softer statement of intention.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "First make the volitional form: 食（た）べる → 食（た）べよう, 行（い）く → 行（い）こう, する → しよう, 来（く）る → 来（こ）よう. Adding とする or と思（おも）う to that form gives two very common patterns — one about being on the point of acting, the other about intending to act."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "you-to-suru",
+      "text": "About To / Trying To 〜ようとする"
+    },
+    {
+      "type": "paragraph",
+      "text": "Volitional ＋ とする means you're just about to do something, or you make an attempt at it. In the past tense it often sets up an interruption: you were about to do X when Y happened."
+    },
+    {
+      "type": "formula",
+      "japanese": "Volitional ＋ とする",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "寝（ね）ようとしたとき、電話（でんわ）が鳴（な）った。",
+      "english": "Just as I was about to sleep, the phone rang."
+    },
+    {
+      "type": "example",
+      "japanese": "ドアを開（あ）けようとしたが、鍵（かぎ）がかかっていた。",
+      "english": "I tried to open the door, but it was locked."
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）は若（わか）く見（み）えようとしている。",
+      "english": "He's trying to look younger."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "you-to-omou",
+      "text": "Thinking of Doing 〜ようと思う"
+    },
+    {
+      "type": "paragraph",
+      "text": "Volitional ＋ と思（おも）う states an intention more softly than 〜つもり. The 〜ようと思（おも）っている (progressive) form implies a plan you've been holding; 〜ようと思（おも）った (past) means you just made up your mind."
+    },
+    {
+      "type": "formula",
+      "japanese": "Volitional ＋ と思（おも）う",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "来年（らいねん）、日本（にほん）に行（い）こうと思（おも）っている。",
+      "english": "I'm thinking of going to Japan next year."
+    },
+    {
+      "type": "example",
+      "japanese": "今夜（こんや）は早（はや）く寝（ね）ようと思（おも）います。",
+      "english": "I think I'll go to bed early tonight."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't confuse 〜ようとする (about to / attempt) with 〜ようにする (make an effort to, as a habit). 開（あ）けようとする = \"try to open (right now)\"; 開（あ）けるようにする = \"make a point of opening (regularly).\" The とする version uses the volitional; the にする version uses the dictionary form."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "Volitional ＋ とする",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "寝（ね）ようとしたとき、電話（でんわ）が鳴（な）った。",
+      "english": "Just as I was about to sleep, the phone rang."
+    },
+    {
+      "japanese": "ドアを開（あ）けようとしたが、鍵（かぎ）がかかっていた。",
+      "english": "I tried to open the door, but it was locked."
+    },
+    {
+      "japanese": "彼（かれ）は若（わか）く見（み）えようとしている。",
+      "english": "He's trying to look younger."
+    },
+    {
+      "japanese": "Volitional ＋ と思（おも）う",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "来年（らいねん）、日本（にほん）に行（い）こうと思（おも）っている。",
+      "english": "I'm thinking of going to Japan next year."
+    },
+    {
+      "japanese": "今夜（こんや）は早（はや）く寝（ね）ようと思（おも）います。",
+      "english": "I think I'll go to bed early tonight."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "you-to-suru",
+      "text": "About To / Trying To 〜ようとする"
+    },
+    {
+      "level": 2,
+      "id": "you-to-omou",
+      "text": "Thinking of Doing 〜ようと思う"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1023,
+  "slug": "you-to-suru",
+  "categories": [
+    "Verb Form",
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

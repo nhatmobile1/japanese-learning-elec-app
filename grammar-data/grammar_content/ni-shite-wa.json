@@ -1,0 +1,127 @@
+{
+  "title": "〜にしては",
+  "description": "〜にしては means \"for ~\" or \"considering it's ~\" — it sets up a standard, then points out that reality is surprisingly different from what that standard would lead you to expect.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜にしては attaches to a noun or a plain-form verb to give a yardstick, then says the result is unexpected given that yardstick. \"For a 40-year-old, she's beautiful\" implies you wouldn't normally expect it. There is always a note of mild surprise."
+    },
+    {
+      "type": "formula",
+      "japanese": "名詞（めいし）／動詞（どうし）（普通形（ふつうけい））＋にしては",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "40歳（さい）にしては、きれいです。",
+      "english": "She's beautiful for a 40-year-old."
+    },
+    {
+      "type": "example",
+      "japanese": "チワワにしては大（おお）きいですね。",
+      "english": "It's big for a Chihuahua."
+    },
+    {
+      "type": "example",
+      "japanese": "12月（がつ）にしては暖（あたた）かいです。",
+      "english": "It's warm for December."
+    },
+    {
+      "type": "example",
+      "japanese": "初（はじ）めてにしては上手（じょうず）です。",
+      "english": "You're good, for a first try."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "with-verbs",
+      "text": "With Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜にしては also follows a plain-form verb, giving the action as the standard: \"considering you only just started ~.\""
+    },
+    {
+      "type": "example",
+      "japanese": "習（なら）ったばかりにしては、上手（じょうず）に話（はな）します。",
+      "english": "For someone who just started learning, you speak well."
+    },
+    {
+      "type": "example",
+      "japanese": "サンフランシスコにしては暑（あつ）かったです。",
+      "english": "It was hot for San Francisco."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't mix up 〜にしては with 〜にとって. 〜にとって means \"from someone's point of view\" (私（わたし）にとって大切（たいせつ）だ — \"important to me\"), while 〜にしては sets a standard and flags a surprising gap (子供（こども）にしては上手（じょうず）だ — \"good, for a child\"). Also note that the standard in にしては must be a concrete, known fact, not a plan or guess."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "名詞（めいし）／動詞（どうし）（普通形（ふつうけい））＋にしては",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "40歳（さい）にしては、きれいです。",
+      "english": "She's beautiful for a 40-year-old."
+    },
+    {
+      "japanese": "チワワにしては大（おお）きいですね。",
+      "english": "It's big for a Chihuahua."
+    },
+    {
+      "japanese": "12月（がつ）にしては暖（あたた）かいです。",
+      "english": "It's warm for December."
+    },
+    {
+      "japanese": "初（はじ）めてにしては上手（じょうず）です。",
+      "english": "You're good, for a first try."
+    },
+    {
+      "japanese": "習（なら）ったばかりにしては、上手（じょうず）に話（はな）します。",
+      "english": "For someone who just started learning, you speak well."
+    },
+    {
+      "japanese": "サンフランシスコにしては暑（あつ）かったです。",
+      "english": "It was hot for San Francisco."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "with-verbs",
+      "text": "With Verbs"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1028,
+  "slug": "ni-shite-wa",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N2"
+}

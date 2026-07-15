@@ -1,0 +1,137 @@
+{
+  "title": "〜せいで",
+  "description": "〜せいで attributes a bad or unwanted outcome to a cause — it assigns blame. \"Because of / thanks to (negatively).\" Attach it to a noun with の or to a plain-form clause.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜せいで points a finger: something went wrong, and you're naming the cause. It carries a clear negative, blaming tone. Attach せいで to a noun with の (渋滞（じゅうたい）のせいで, \"because of the traffic\") or directly to a plain-form clause (寝坊（ねぼう）したせいで, \"because I overslept\")."
+    },
+    {
+      "type": "formula",
+      "japanese": "noun ＋ の ＋ せいで　／　plain form ＋ せいで　（because of — bad outcome）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "渋滞（じゅうたい）のせいで六時間（ろくじかん）もかかりました。",
+      "english": "Because of the traffic, it took a full six hours."
+    },
+    {
+      "type": "example",
+      "japanese": "埃（ほこり）のせいで喉（のど）が痛（いた）いです。",
+      "english": "My throat hurts because of the dust."
+    },
+    {
+      "type": "example",
+      "japanese": "会社（かいしゃ）のせいで彼女（かのじょ）は仕事（しごと）を辞（や）めました。",
+      "english": "Because of the company, she quit her job."
+    },
+    {
+      "type": "example",
+      "japanese": "寝坊（ねぼう）したせいで電車（でんしゃ）に乗（の）り遅（おく）れました。",
+      "english": "Because I overslept, I missed the train."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "assigning-fault",
+      "text": "Assigning Fault: 〜のせい・〜のせいにする"
+    },
+    {
+      "type": "paragraph",
+      "text": "せい works as a noun on its own meaning \"fault\": 君（きみ）のせいだ (\"it's your fault\"), 彼女（かのじょ）のせいじゃない (\"it's not her fault\"). The pattern 〜のせいにする means \"to pin the blame on\" something or someone."
+    },
+    {
+      "type": "formula",
+      "japanese": "〜のせいにする　（to blame it on 〜）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "それは彼女（かのじょ）のせいじゃないよ。",
+      "english": "That's not her fault."
+    },
+    {
+      "type": "example",
+      "japanese": "失敗（しっぱい）を他人（たにん）のせいにするな。",
+      "english": "Don't blame your failures on other people."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "seide-vs-okagede-vs-tame",
+      "text": "せいで vs おかげで vs ため"
+    },
+    {
+      "type": "paragraph",
+      "text": "All three tie a result to a cause, but the feeling differs. 〜せいで assigns blame — the outcome is bad and you're pointing a finger (渋滞（じゅうたい）のせいで遅刻（ちこく）した). 〜おかげで gives credit — the outcome is good and you're grateful (先生（せんせい）のおかげで合格（ごうかく）した). 〜ため is neutral and formal — it simply states a cause with no praise or blame, and is the natural choice in written announcements (台風（たいふう）のため中止（ちゅうし）). Use せいで with a good result and it sounds sarcastic; use ため where blame is meant and it just sounds detached."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "noun ＋ の ＋ せいで　／　plain form ＋ せいで　（because of — bad outcome）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "渋滞（じゅうたい）のせいで六時間（ろくじかん）もかかりました。",
+      "english": "Because of the traffic, it took a full six hours."
+    },
+    {
+      "japanese": "埃（ほこり）のせいで喉（のど）が痛（いた）いです。",
+      "english": "My throat hurts because of the dust."
+    },
+    {
+      "japanese": "会社（かいしゃ）のせいで彼女（かのじょ）は仕事（しごと）を辞（や）めました。",
+      "english": "Because of the company, she quit her job."
+    },
+    {
+      "japanese": "寝坊（ねぼう）したせいで電車（でんしゃ）に乗（の）り遅（おく）れました。",
+      "english": "Because I overslept, I missed the train."
+    },
+    {
+      "japanese": "〜のせいにする　（to blame it on 〜）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "それは彼女（かのじょ）のせいじゃないよ。",
+      "english": "That's not her fault."
+    },
+    {
+      "japanese": "失敗（しっぱい）を他人（たにん）のせいにするな。",
+      "english": "Don't blame your failures on other people."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "assigning-fault",
+      "text": "Assigning Fault: 〜のせい・〜のせいにする"
+    },
+    {
+      "level": 2,
+      "id": "seide-vs-okagede-vs-tame",
+      "text": "せいで vs おかげで vs ため"
+    }
+  ],
+  "id": 1011,
+  "slug": "sei-de",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

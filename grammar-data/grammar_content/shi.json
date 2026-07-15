@@ -1,0 +1,661 @@
+{
+  "title": "〜し",
+  "description": "し is often used to add emphasis to a list of parallel or sequential fields, much as \"and what's more\" or \"not only...but also...\" in English.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "し functions similarly to the English phrase \"…and what's more.\" It connects two sentences (or two clauses) with the nuance of adding related information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's have a look at an example. Assume you're talking about your friend Hanako, who's not only generous but smart to boot. You could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）は優（やさ）しいし、かしこい。",
+      "english": "Hanako is generous and smart."
+    },
+    {
+      "type": "paragraph",
+      "text": "Technically you could say the same thing using the て form , as in 優（やさ）しく て 、かしこい, but し places extra emphasis on the fact that Hanako has multiple desirable qualities in a friend, whereas the て form merely lists two of her character traits. Since the act of topping off one piece of information with another is emphatic by nature, し typically adds an emphatic nuance."
+    },
+    {
+      "type": "paragraph",
+      "text": "What if Hanako is not only generous and smart but also charming? If you want to list more than two traits, you can simply repeat し, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）は優（やさ）しいし、かしこいし、かわいらしい。",
+      "english": "Hanako is generous, smart, and charming."
+    },
+    {
+      "type": "paragraph",
+      "text": "Isn't it simple? You might also hear someone end a sentence with し, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "花子（はなこ）は優（やさ）しいし、かしこいし、かわいらしいし…。",
+      "english": "Hanako is generous, smart, charming, and…(you know?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because with し you can list as many things as you like. You'll often hear this structure used in conversation when people intend to give more information but instead trail off, implying that, \"The list goes on, you know?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "So far, so good? Up to this point, we've only looked at examples using い-adjectives such as 優（やさ）しい, but し can also follow other types of words. So let's move on to the patterns of use and check out how し is used!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective--",
+      "text": "い-adjective + し"
+    },
+    {
+      "type": "paragraph",
+      "text": "As we saw earlier, し can directly follow い-adjectives in various forms. For example, if you're talking about a gloomy, sketchy-looking street, you can use the basic form of these い-adjectives and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "この道（みち）は暗（くら）いし、危（あぶ）ない。",
+      "english": "This street is dark and dangerous."
+    },
+    {
+      "type": "paragraph",
+      "text": "If, on the other hand, a town project enhanced the atmosphere and the street is no longer dismal and suspect, you can use the negative forms of the same adjectives and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "この道（みち）はもう暗（くら）くないし、危（あぶ）なくない。",
+      "english": "This street is no longer dark and dangerous."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, the word もう is thrown in to indicate that something is \"no longer\" the case. Without it, it simply describes a street that is neither dark nor dangerous."
+    },
+    {
+      "type": "paragraph",
+      "text": "To state that the street used to be a dark and dangerous place, you can use the past tense, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "この道（みち）は暗（くら）かったし、危（あぶ）なかった。 この道（みち）は暗（くら）いし、危（あぶ）なかった。",
+      "english": "This street was dark and dangerous."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although in the instance of Verb + し you transform both verbs into the past tense, in the case of Adjective + し it's fairly common to merely conjugate the final adjective into the past tense."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective-or-noun----",
+      "text": "な-adjective or Noun + だ + し"
+    },
+    {
+      "type": "paragraph",
+      "text": "To use し with な-adjectives or nouns, you need to add だ after the stem (な-adjectives are noun-based adjectives so they often work similarly like this). For example, say you have a boyfriend who is a super cool, well-known model, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）の彼氏（かれし）は、有名（ゆうめい）だし、モデルだし、かっこいい。",
+      "english": "My boyfriend is famous, a model, and cool."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if he's no longer any of these things and you want to say that he was famous in the past, you can conjugate だ into the past tense だった:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）の彼氏（かれし）は、有名（ゆうめい）だったし、モデルだったし、かっこよかった。",
+      "english": "My boyfriend was famous, a model, and cool."
+    },
+    {
+      "type": "paragraph",
+      "text": "In these examples, 有名（ゆうめい） is a な-adjective, モデル is a noun, and かっこいい is an い-adjective. Just like that, you can connect different types of words with し, as long as the information is related (in the case of this example, all positive traits describing your boyfriend)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb--",
+      "text": "Verb + し"
+    },
+    {
+      "type": "paragraph",
+      "text": "し can directly follow a verb in various forms. Let's take a look at a few examples."
+    },
+    {
+      "type": "paragraph",
+      "text": "To talk about all the things someone normally does, simply add し to the dictionary form of the verb."
+    },
+    {
+      "type": "example",
+      "japanese": "うちの犬（いぬ）は、テレビも見（み）るし、新聞（しんぶん）も読（よ）む。",
+      "english": "Our dog watches TV and reads the newspaper."
+    },
+    {
+      "type": "paragraph",
+      "text": "To express that your dog can perform certain tasks, simply conjugate the verb into the potential form and then add し. Like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "うちの犬（いぬ）は、テレビも見（み）れるし、新聞（しんぶん）も読（よ）める。",
+      "english": "Our dog can watch TV and read the newspaper."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if your dog could do them, but for whatever reason can't anymore, you can turn the verbs into the past tense too, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "うちの犬（いぬ）は、テレビも見（み）れたし、新聞（しんぶん）も読（よ）めた。",
+      "english": "Our dog could watch TV and read the newspaper."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, the verb forms in two separate sentences connected by し generally match. However, to add politeness you can either conjugate both verbs into the ます form or just keep everything in the plain form with the exception of the final verb."
+    },
+    {
+      "type": "example",
+      "japanese": "うちの犬（いぬ）は、テレビも見（み）ますし、新聞（しんぶん）も読（よ）みます。 うちの犬（いぬ）は、テレビも見（み）るし、新聞（しんぶん）も読（よ）みます。",
+      "english": "Our dog watches TV and reads the newspaper."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and-the-particle-",
+      "text": "〜し and the Particle も"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the examples you've seen so far, し can be used to list related information, i.e. things that make sense when grouped together, like traits or abilities. The particle も , which means \"also,\" and 〜し are similar in nature; they're both used for grouping things that have something in common and they're often used together."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at some examples. Imagine you stumble across a pair of shoes that you like that are also reasonably priced. In this case, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "この靴（くつ）は、デザインも可愛（かわい）いし、値段（ねだん）も安（やす）い。",
+      "english": "These shoes have a cute design and are inexpensive. (Literally: As for these shoes, the design is cute and the price is cheap.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you're describing \"these shoes\" by listing their pros. Both the design and the price are characteristics used to describe what makes the shoes great. Hence, も works well in this example."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use も with し when listing negative traits. For example, if you're talking about someone with no money and talent, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "アイツは、お金（かね）もないし、才能（さいのう）もない。",
+      "english": "He has no money and no talent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, both お金（かね） (money) and 才能（さいのう） (talent) are characteristics belonging to a category, which can be characterized as \"things he lacks.\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-indicating-reasonscauses",
+      "text": "〜し For Indicating Reasons/Causes"
+    },
+    {
+      "type": "paragraph",
+      "text": "し can also be used similarly to \"so\" in English. The sentence(s) marked by し can often be a reason/cause for the next sentence. For example, suppose it's a beautiful day and you want to go on a picnic with your friends. In this case, you can ask them:"
+    },
+    {
+      "type": "example",
+      "japanese": "天気（てんき）もいいし、ピクニックに行（い）かない？",
+      "english": "The weather is nice, so why don't we go for a picnic?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, も and し hint that the good weather isn't the only reason for the invite. It implies there are also other factors at play (maybe you're in the mood for a picnic in the first place) and the nice weather is just one of the reasons."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's continue the scenario. Your friend checks the weather forecast and apparently it's supposed to rain later. So they say: 1"
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）が降（ふ）るみたいだし、違（ちが）う日（ひ）にしない？",
+      "english": "It looks like it's going to rain, so why don't we do it another day?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the rain would undoubtedly put a damper on your plans, the use of し here implies there may be other reasons for your friend to deny the invitation to go on a picnic. Your friend might be hinting that they aren't in the mood for a picnic right now (though they don't have the heart to say that explicitly) or they can't articulate why but feel that today is just not a good day for a picnic. Since your friend isn't offering any clarity on the matter by supplying the specific reasons (while implying there are other reasons), using し here adds some ambiguity. Since avoiding being too direct is often a sign of politeness in Japanese, this is one way to soften the rejection of the invite."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if your friend is certain about the reasons and wants to communicate them, they can use から (or its formal version ので ) instead of し:"
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）が降（ふ）るみたいだから、違（ちが）う日（ひ）にしない？(casual) 雨（あめ）が降（ふ）るみたいなので、違（ちが）う日（ひ）にしませんか？ (formal)",
+      "english": "It looks like it's going to rain, so why don't we do it on a different day?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This doesn't mean you'd need to pick one or the other — し and から/ので can be used in the same sentence, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）はちょっと忙（いそが）しいし、雨（あめ）も降（ふ）るみたいだから、違（ちが）う日（ひ）にしない？(casual) 今日（きょう）は少（すこ）し忙（いそが）しいし、雨（あめ）も降（ふ）るみたいなので、違（ちが）う日（ひ）にしませんか？ (formal)",
+      "english": "I'm a little busy today and it looks like it's going to rain, so why don't we do it on a different day?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that から and ので are conjunctive particles that indicate a reason or cause, like “so” in English, whereas し functions essentially like “and.” While it can appear after an explanation, its nature is simply to indicate additional information, meaning it lacks the nuance of から and ので. In cases where they are used in combination, し can be used to list reasons and から/ので can follow it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-giving-explanatory-reasons",
+      "text": "〜んだし For Giving Explanatory Reasons"
+    },
+    {
+      "type": "paragraph",
+      "text": "You learned that 〜し can indicates a reason or cause. This し is often used with んだ to add a sense of providing an explanation when giving someone advice."
+    },
+    {
+      "type": "paragraph",
+      "text": "Assume you frequently forget to carry your wallet when you go out and you request that your mother deliver it to you. You're going to turn 20, yet you're often forgetful and in need of assistance. It's possible that your mother will sigh and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "もうすぐ二（に）十（じゅう）歳（さい）になるんだし、もう少（すこ）ししっかりしたら？",
+      "english": "Now that you're almost twenty, why don't you get a little more organized?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The primary purpose of んだ is to bridge the communication gap between a speaker and a listener. By adding it, your mother can give the statement an explanatory tone, which could potentially make the advice sound like a lecture."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because of this nuance, 〜んだし is commonly used to tell someone to do or not do something, but you might also use it a pep talk, or trying to convince yourself not to do something."
+    },
+    {
+      "type": "paragraph",
+      "text": "For instance, if you agreed to your mother's above suggestion and believe you need to get more organized, you might think to yourself:"
+    },
+    {
+      "type": "example",
+      "japanese": "もうすぐ二（に）十（じゅう）歳（さい）になるんだし、もう少（すこ）ししっかりしなきゃだよね。",
+      "english": "Now that I'm almost twenty, I really should get a little more organized."
+    },
+    {
+      "type": "paragraph",
+      "text": "〜んだし does the same thing here, except you're telling yourself that you're approaching an age where you should be more disciplined."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-emphasizing-the-cause-of-a-negative-situation",
+      "text": "〜し、〜しで For Emphasizing the Cause of a Negative Situation"
+    },
+    {
+      "type": "paragraph",
+      "text": "When using し to list reasons/causes for unfavorable situations, the particle で is often added to emphasize them. For instance, if you had to come into the office on your day off solely to listen to the company president's speech, you might gripe about it to your friend later, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "長（なが）いし、面白（おもしろ）くないしで、ほんと、帰（かえ）りたかったよ。",
+      "english": "It was long and uninteresting, and I really wanted to leave."
+    },
+    {
+      "type": "paragraph",
+      "text": "​​Here, で indicates that \"long and dull\" was the background information for the statement that followed. You could say the same thing without で, but adding it stresses the grounds for your desire to leave."
+    },
+    {
+      "type": "paragraph",
+      "text": "After hearing your complaint, your friend might remind you that you're lucky to have a job, even if it forces you to go to the office on your day off to listen to a long, tedious speech. Then he might go into detail about how bad his position is."
+    },
+    {
+      "type": "example",
+      "japanese": "こっちは、子供（こども）は生（う）まれるし、仕事（しごと）はクビになるしで、ホントやばいよ。",
+      "english": "I'm having a baby, but I got fired from my job. I'm in a really terrible situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, で serves the same function — emphasizing the list of reasons for the terrible circumstance. When each reason/cause is a sentence with a subject, they are usually marked by the particle は to show \"contrast.\" But it's also common to replace them with も:"
+    },
+    {
+      "type": "example",
+      "japanese": "こっちは、子供（こども）も生（う）まれるし、仕事（しごと）もクビになるしで、ホントやばいよ。",
+      "english": "I'm having a baby, but I got fired from my job. I'm in a really terrible situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a quick refresher, the particle も indicates the も-marked items are part of a set. It expresses that you're bringing up a couple examples from a list rather than contrasting two significant reasons. As a result, it would sound slightly less emphatic than using は."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "sentence-ends-with--for-weakeningstressing-the-statement",
+      "text": "Sentence Ends with し For Weakening/Stressing The Statement"
+    },
+    {
+      "type": "paragraph",
+      "text": "し is a conjunctive particle that typically connects sentences, not ends them. However, it's quite common to end a sentence with し and leave it unfinished in conversation."
+    },
+    {
+      "type": "paragraph",
+      "text": "We saw one example in the introduction where you meant to add more information by using し but ended up stopping there while hinting that \"the list goes on.\" Aside from that, there are also times when a sentence ends with し in order to weaken and obscure the cause/reason."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if someone asks you to go on a date but you don't want to, it's common to provide a reason and leave off with し, essentially finishing the sentence."
+    },
+    {
+      "type": "example",
+      "japanese": "次（つぎ）の日（ひ）試験（しけん）があるし…。",
+      "english": "I have an exam the next day, so…."
+    },
+    {
+      "type": "paragraph",
+      "text": "By ending the sentence with し, you can avoid declining the offer outright and leave it up to the listener's interpretation. Because directness is generally considered impolite in Japan, unfinished sentences like this are common to avoid saying too much, especially among younger generations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Typically, a sentence-ending particle is employed to add a certain nuance. However, し is more self-contained. While other particles already carry a specific nuance, (like ね or よ for confirmation or emphasis, respectively), in the case of し, on its own it has no such nuance necessarily. However, employed as a sentence-ending particle, despite its technical grammatical function, it serves to prompt the listener into understanding that you are implying something through your communication. And combined with your tone of voice and non-verbal communication (gestures, facial expressions, etc.), it can have quite varied meanings. It simply indicates that you hope the listener infers what you're feeling or trying to communicate, shows you don't know what to do or say about a certain situation, or leaves the statement sounding slightly more ambiguous."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's say you don't like the person asking you out on a date, and you complain to your friend about how much you hate being asked out. In this situation, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "マジで嫌（いや）だし！",
+      "english": "I really hate it!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, you are directly stating how you feel about the situation and the し at the end might be interpreted differently based on the way you say it. For instance, if you say it with an expression or gesture that suggests \"you know?\" in English, it typically means that you won't go into great detail, but you hope your friend catches your meaning. If you just say it with a lot of frustration without looking at your friend, it may underscore your unexplainable disgust towards the situation, similar to \"ugh!\" in English. If you say it to yourself but calmly and monotonously, し may just function to soften what would otherwise be a very strong statement."
+    },
+    {
+      "type": "paragraph",
+      "text": "On a final note, it's important to understand that while typically used in a negative sense like in the previous examples, it can also be used in a positive sense, such as:"
+    },
+    {
+      "type": "example",
+      "japanese": "やばい、赤（あか）ちゃんめっちゃ可愛（かわい）いし！",
+      "english": "Oh man, the baby is so cute!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Used this way, し implies that you are overcome by how cute this baby is and you \"just can't.\" As a result, by adding し, you can stress your feelings about how cute the baby is. However, depending on how you say it, it could also imply that you're hoping your friend shares the emotion or that you're softening your statement to avoid exposing your sentiment too much."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, the sentence-ending particle し can be very nuanced, and because of that, it's often used in casual settings to share your personal stance, and can sound a bit slang-y."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, the first part of the sentence ends with みたい (it looks like). This word functions as な-adjective, so it takes だ before し. &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "し functions similarly to the English phrase \"…and what's more.\" It connects two sentences (or two clauses) with the nuance of adding related information.",
+    "Let's have a look at an example. Assume you're talking about your friend Hanako, who's not only generous but smart to boot. You could say:",
+    "Technically you could say the same thing using the て form , as in 優（やさ）しく て 、かしこい, but し places extra emphasis on the fact that Hanako has multiple desirable qualities in a friend, whereas the て form merely lists two of her character traits. Since the act of topping off one piece of information with another is emphatic by nature, し typically adds an emphatic nuance.",
+    "What if Hanako is not only generous and smart but also charming? If you want to list more than two traits, you can simply repeat し, like:",
+    "Isn't it simple? You might also hear someone end a sentence with し, like:",
+    "This is because with し you can list as many things as you like. You'll often hear this structure used in conversation when people intend to give more information but instead trail off, implying that, \"The list goes on, you know?\"",
+    "So far, so good? Up to this point, we've only looked at examples using い-adjectives such as 優（やさ）しい, but し can also follow other types of words. So let's move on to the patterns of use and check out how し is used!",
+    "As we saw earlier, し can directly follow い-adjectives in various forms. For example, if you're talking about a gloomy, sketchy-looking street, you can use the basic form of these い-adjectives and say:",
+    "If, on the other hand, a town project enhanced the atmosphere and the street is no longer dismal and suspect, you can use the negative forms of the same adjectives and say:",
+    "Here, the word もう is thrown in to indicate that something is \"no longer\" the case. Without it, it simply describes a street that is neither dark nor dangerous.",
+    "To state that the street used to be a dark and dangerous place, you can use the past tense, like:",
+    "Although in the instance of Verb + し you transform both verbs into the past tense, in the case of Adjective + し it's fairly common to merely conjugate the final adjective into the past tense.",
+    "To use し with な-adjectives or nouns, you need to add だ after the stem (な-adjectives are noun-based adjectives so they often work similarly like this). For example, say you have a boyfriend who is a super cool, well-known model, you could say:",
+    "And if he's no longer any of these things and you want to say that he was famous in the past, you can conjugate だ into the past tense だった:",
+    "In these examples, 有名（ゆうめい） is a な-adjective, モデル is a noun, and かっこいい is an い-adjective. Just like that, you can connect different types of words with し, as long as the information is related (in the case of this example, all positive traits describing your boyfriend).",
+    "し can directly follow a verb in various forms. Let's take a look at a few examples.",
+    "To talk about all the things someone normally does, simply add し to the dictionary form of the verb.",
+    "To express that your dog can perform certain tasks, simply conjugate the verb into the potential form and then add し. Like this:",
+    "And if your dog could do them, but for whatever reason can't anymore, you can turn the verbs into the past tense too, like:",
+    "As you can see, the verb forms in two separate sentences connected by し generally match. However, to add politeness you can either conjugate both verbs into the ます form or just keep everything in the plain form with the exception of the final verb.",
+    "In the examples you've seen so far, し can be used to list related information, i.e. things that make sense when grouped together, like traits or abilities. The particle も , which means \"also,\" and 〜し are similar in nature; they're both used for grouping things that have something in common and they're often used together.",
+    "Let's take a look at some examples. Imagine you stumble across a pair of shoes that you like that are also reasonably priced. In this case, you can say:",
+    "In this case, you're describing \"these shoes\" by listing their pros. Both the design and the price are characteristics used to describe what makes the shoes great. Hence, も works well in this example.",
+    "You can also use も with し when listing negative traits. For example, if you're talking about someone with no money and talent, you can say:",
+    "Here, both お金（かね） (money) and 才能（さいのう） (talent) are characteristics belonging to a category, which can be characterized as \"things he lacks.\"",
+    "し can also be used similarly to \"so\" in English. The sentence(s) marked by し can often be a reason/cause for the next sentence. For example, suppose it's a beautiful day and you want to go on a picnic with your friends. In this case, you can ask them:",
+    "Here, も and し hint that the good weather isn't the only reason for the invite. It implies there are also other factors at play (maybe you're in the mood for a picnic in the first place) and the nice weather is just one of the reasons.",
+    "Let's continue the scenario. Your friend checks the weather forecast and apparently it's supposed to rain later. So they say: 1",
+    "Although the rain would undoubtedly put a damper on your plans, the use of し here implies there may be other reasons for your friend to deny the invitation to go on a picnic. Your friend might be hinting that they aren't in the mood for a picnic right now (though they don't have the heart to say that explicitly) or they can't articulate why but feel that today is just not a good day for a picnic. Since your friend isn't offering any clarity on the matter by supplying the specific reasons (while implying there are other reasons), using し here adds some ambiguity. Since avoiding being too direct is often a sign of politeness in Japanese, this is one way to soften the rejection of the invite.",
+    "However, if your friend is certain about the reasons and wants to communicate them, they can use から (or its formal version ので ) instead of し:",
+    "This doesn't mean you'd need to pick one or the other — し and から/ので can be used in the same sentence, like:",
+    "Note that から and ので are conjunctive particles that indicate a reason or cause, like “so” in English, whereas し functions essentially like “and.” While it can appear after an explanation, its nature is simply to indicate additional information, meaning it lacks the nuance of から and ので. In cases where they are used in combination, し can be used to list reasons and から/ので can follow it.",
+    "You learned that 〜し can indicates a reason or cause. This し is often used with んだ to add a sense of providing an explanation when giving someone advice.",
+    "Assume you frequently forget to carry your wallet when you go out and you request that your mother deliver it to you. You're going to turn 20, yet you're often forgetful and in need of assistance. It's possible that your mother will sigh and say:",
+    "The primary purpose of んだ is to bridge the communication gap between a speaker and a listener. By adding it, your mother can give the statement an explanatory tone, which could potentially make the advice sound like a lecture.",
+    "Because of this nuance, 〜んだし is commonly used to tell someone to do or not do something, but you might also use it a pep talk, or trying to convince yourself not to do something.",
+    "For instance, if you agreed to your mother's above suggestion and believe you need to get more organized, you might think to yourself:",
+    "〜んだし does the same thing here, except you're telling yourself that you're approaching an age where you should be more disciplined.",
+    "When using し to list reasons/causes for unfavorable situations, the particle で is often added to emphasize them. For instance, if you had to come into the office on your day off solely to listen to the company president's speech, you might gripe about it to your friend later, like:",
+    "​​Here, で indicates that \"long and dull\" was the background information for the statement that followed. You could say the same thing without で, but adding it stresses the grounds for your desire to leave.",
+    "After hearing your complaint, your friend might remind you that you're lucky to have a job, even if it forces you to go to the office on your day off to listen to a long, tedious speech. Then he might go into detail about how bad his position is.",
+    "In this example, で serves the same function — emphasizing the list of reasons for the terrible circumstance. When each reason/cause is a sentence with a subject, they are usually marked by the particle は to show \"contrast.\" But it's also common to replace them with も:",
+    "As a quick refresher, the particle も indicates the も-marked items are part of a set. It expresses that you're bringing up a couple examples from a list rather than contrasting two significant reasons. As a result, it would sound slightly less emphatic than using は.",
+    "し is a conjunctive particle that typically connects sentences, not ends them. However, it's quite common to end a sentence with し and leave it unfinished in conversation.",
+    "We saw one example in the introduction where you meant to add more information by using し but ended up stopping there while hinting that \"the list goes on.\" Aside from that, there are also times when a sentence ends with し in order to weaken and obscure the cause/reason.",
+    "For example, if someone asks you to go on a date but you don't want to, it's common to provide a reason and leave off with し, essentially finishing the sentence.",
+    "By ending the sentence with し, you can avoid declining the offer outright and leave it up to the listener's interpretation. Because directness is generally considered impolite in Japan, unfinished sentences like this are common to avoid saying too much, especially among younger generations.",
+    "Typically, a sentence-ending particle is employed to add a certain nuance. However, し is more self-contained. While other particles already carry a specific nuance, (like ね or よ for confirmation or emphasis, respectively), in the case of し, on its own it has no such nuance necessarily. However, employed as a sentence-ending particle, despite its technical grammatical function, it serves to prompt the listener into understanding that you are implying something through your communication. And combined with your tone of voice and non-verbal communication (gestures, facial expressions, etc.), it can have quite varied meanings. It simply indicates that you hope the listener infers what you're feeling or trying to communicate, shows you don't know what to do or say about a certain situation, or leaves the statement sounding slightly more ambiguous.",
+    "For example, let's say you don't like the person asking you out on a date, and you complain to your friend about how much you hate being asked out. In this situation, you can say:",
+    "Here, you are directly stating how you feel about the situation and the し at the end might be interpreted differently based on the way you say it. For instance, if you say it with an expression or gesture that suggests \"you know?\" in English, it typically means that you won't go into great detail, but you hope your friend catches your meaning. If you just say it with a lot of frustration without looking at your friend, it may underscore your unexplainable disgust towards the situation, similar to \"ugh!\" in English. If you say it to yourself but calmly and monotonously, し may just function to soften what would otherwise be a very strong statement.",
+    "On a final note, it's important to understand that while typically used in a negative sense like in the previous examples, it can also be used in a positive sense, such as:",
+    "Used this way, し implies that you are overcome by how cute this baby is and you \"just can't.\" As a result, by adding し, you can stress your feelings about how cute the baby is. However, depending on how you say it, it could also imply that you're hoping your friend shares the emotion or that you're softening your statement to avoid exposing your sentiment too much.",
+    "As you can see, the sentence-ending particle し can be very nuanced, and because of that, it's often used in casual settings to share your personal stance, and can sound a bit slang-y.",
+    "In this example, the first part of the sentence ends with みたい (it looks like). This word functions as な-adjective, so it takes だ before し. &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "花子（はなこ）は優（やさ）しいし、かしこい。",
+      "english": "Hanako is generous and smart."
+    },
+    {
+      "japanese": "花子（はなこ）は優（やさ）しいし、かしこいし、かわいらしい。",
+      "english": "Hanako is generous, smart, and charming."
+    },
+    {
+      "japanese": "花子（はなこ）は優（やさ）しいし、かしこいし、かわいらしいし…。",
+      "english": "Hanako is generous, smart, charming, and…(you know?)"
+    },
+    {
+      "japanese": "この道（みち）は暗（くら）いし、危（あぶ）ない。",
+      "english": "This street is dark and dangerous."
+    },
+    {
+      "japanese": "この道（みち）はもう暗（くら）くないし、危（あぶ）なくない。",
+      "english": "This street is no longer dark and dangerous."
+    },
+    {
+      "japanese": "この道（みち）は暗（くら）かったし、危（あぶ）なかった。 この道（みち）は暗（くら）いし、危（あぶ）なかった。",
+      "english": "This street was dark and dangerous."
+    },
+    {
+      "japanese": "私（わたし）の彼氏（かれし）は、有名（ゆうめい）だし、モデルだし、かっこいい。",
+      "english": "My boyfriend is famous, a model, and cool."
+    },
+    {
+      "japanese": "私（わたし）の彼氏（かれし）は、有名（ゆうめい）だったし、モデルだったし、かっこよかった。",
+      "english": "My boyfriend was famous, a model, and cool."
+    },
+    {
+      "japanese": "うちの犬（いぬ）は、テレビも見（み）るし、新聞（しんぶん）も読（よ）む。",
+      "english": "Our dog watches TV and reads the newspaper."
+    },
+    {
+      "japanese": "うちの犬（いぬ）は、テレビも見（み）れるし、新聞（しんぶん）も読（よ）める。",
+      "english": "Our dog can watch TV and read the newspaper."
+    },
+    {
+      "japanese": "うちの犬（いぬ）は、テレビも見（み）れたし、新聞（しんぶん）も読（よ）めた。",
+      "english": "Our dog could watch TV and read the newspaper."
+    },
+    {
+      "japanese": "うちの犬（いぬ）は、テレビも見（み）ますし、新聞（しんぶん）も読（よ）みます。 うちの犬（いぬ）は、テレビも見（み）るし、新聞（しんぶん）も読（よ）みます。",
+      "english": "Our dog watches TV and reads the newspaper."
+    },
+    {
+      "japanese": "この靴（くつ）は、デザインも可愛（かわい）いし、値段（ねだん）も安（やす）い。",
+      "english": "These shoes have a cute design and are inexpensive. (Literally: As for these shoes, the design is cute and the price is cheap.)"
+    },
+    {
+      "japanese": "アイツは、お金（かね）もないし、才能（さいのう）もない。",
+      "english": "He has no money and no talent."
+    },
+    {
+      "japanese": "天気（てんき）もいいし、ピクニックに行（い）かない？",
+      "english": "The weather is nice, so why don't we go for a picnic?"
+    },
+    {
+      "japanese": "雨（あめ）が降（ふ）るみたいだし、違（ちが）う日（ひ）にしない？",
+      "english": "It looks like it's going to rain, so why don't we do it another day?"
+    },
+    {
+      "japanese": "雨（あめ）が降（ふ）るみたいだから、違（ちが）う日（ひ）にしない？(casual) 雨（あめ）が降（ふ）るみたいなので、違（ちが）う日（ひ）にしませんか？ (formal)",
+      "english": "It looks like it's going to rain, so why don't we do it on a different day?"
+    },
+    {
+      "japanese": "今日（きょう）はちょっと忙（いそが）しいし、雨（あめ）も降（ふ）るみたいだから、違（ちが）う日（ひ）にしない？(casual) 今日（きょう）は少（すこ）し忙（いそが）しいし、雨（あめ）も降（ふ）るみたいなので、違（ちが）う日（ひ）にしませんか？ (formal)",
+      "english": "I'm a little busy today and it looks like it's going to rain, so why don't we do it on a different day?"
+    },
+    {
+      "japanese": "もうすぐ二（に）十（じゅう）歳（さい）になるんだし、もう少（すこ）ししっかりしたら？",
+      "english": "Now that you're almost twenty, why don't you get a little more organized?"
+    },
+    {
+      "japanese": "もうすぐ二（に）十（じゅう）歳（さい）になるんだし、もう少（すこ）ししっかりしなきゃだよね。",
+      "english": "Now that I'm almost twenty, I really should get a little more organized."
+    },
+    {
+      "japanese": "長（なが）いし、面白（おもしろ）くないしで、ほんと、帰（かえ）りたかったよ。",
+      "english": "It was long and uninteresting, and I really wanted to leave."
+    },
+    {
+      "japanese": "こっちは、子供（こども）は生（う）まれるし、仕事（しごと）はクビになるしで、ホントやばいよ。",
+      "english": "I'm having a baby, but I got fired from my job. I'm in a really terrible situation."
+    },
+    {
+      "japanese": "こっちは、子供（こども）も生（う）まれるし、仕事（しごと）もクビになるしで、ホントやばいよ。",
+      "english": "I'm having a baby, but I got fired from my job. I'm in a really terrible situation."
+    },
+    {
+      "japanese": "次（つぎ）の日（ひ）試験（しけん）があるし…。",
+      "english": "I have an exam the next day, so…."
+    },
+    {
+      "japanese": "マジで嫌（いや）だし！",
+      "english": "I really hate it!"
+    },
+    {
+      "japanese": "やばい、赤（あか）ちゃんめっちゃ可愛（かわい）いし！",
+      "english": "Oh man, the baby is so cute!"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "adjective--",
+      "text": "い-adjective + し"
+    },
+    {
+      "level": 4,
+      "id": "adjective-or-noun----",
+      "text": "な-adjective or Noun + だ + し"
+    },
+    {
+      "level": 4,
+      "id": "verb--",
+      "text": "Verb + し"
+    },
+    {
+      "level": 3,
+      "id": "and-the-particle-",
+      "text": "〜し and the Particle も"
+    },
+    {
+      "level": 3,
+      "id": "for-indicating-reasonscauses",
+      "text": "〜し For Indicating Reasons/Causes"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-giving-explanatory-reasons",
+      "text": "〜んだし For Giving Explanatory Reasons"
+    },
+    {
+      "level": 3,
+      "id": "for-emphasizing-the-cause-of-a-negative-situation",
+      "text": "〜し、〜しで For Emphasizing the Cause of a Negative Situation"
+    },
+    {
+      "level": 3,
+      "id": "sentence-ends-with--for-weakeningstressing-the-statement",
+      "text": "Sentence Ends with し For Weakening/Stressing The Statement"
+    }
+  ],
+  "id": 49,
+  "slug": "shi",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/shi/",
+  "categories": [
+    "Particle"
+  ]
+}

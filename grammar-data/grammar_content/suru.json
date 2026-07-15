@@ -1,0 +1,1408 @@
+{
+  "title": "する",
+  "description": "する basically means \"to do,\" but it is incredibly versatile and goes beyond its English equivalent.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "する is a versatile verb that basically means \"to perform an action,\" and there's a lot of similarity between する and its English equivalent, \"to do.\" Both can refer to an action in general, for example, without specifying what that action is:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）がするよ。",
+      "english": "I'll do it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course, you can also use it when you want to specify what kind of action you're doing. Let's take a look at an example using 宿題（しゅくだい） (homework):"
+    },
+    {
+      "type": "example",
+      "japanese": "宿題（しゅくだい）をする",
+      "english": "to do homework"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, する and \"to do\" aren't always interchangeable. There are meanings that only \"to do\" has, and there are also a number of uses that are unique to する. For instance, you wouldn't say \"to do\" when putting on accessories in English, like \"to do a necklace,\" but it is common to use する for putting on accessories in Japanese."
+    },
+    {
+      "type": "example",
+      "japanese": "ネックレスをする",
+      "english": "to put on a necklace"
+    },
+    {
+      "type": "paragraph",
+      "text": "And, this is just the tip of the iceberg — する is a must-know verb that is very versatile and useful to keep in your pocket. Read on, and you'll find out all kinds of ways you can use する!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-",
+      "text": "Conjugating する"
+    },
+    {
+      "type": "paragraph",
+      "text": "To master the useful する verb, you should first know how to conjugate it. する is an irregular verb, which means that there are no other verbs that conjugate the way it does. Conjugating する is pretty straightforward though. As seen in the below table, only the base form する begins with す (su). When you conjugate it, you'll have to change す to し (shi). Then, instead of る, you'll use different polite or plain endings like ます or た ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Plain",
+          "Polite"
+        ],
+        [
+          "Present",
+          "する",
+          "します"
+        ],
+        [
+          "Past",
+          "した",
+          "しました"
+        ],
+        [
+          "Negative",
+          "しない",
+          "しません"
+        ],
+        [
+          "Negative Past",
+          "しなかった",
+          "しませんでした"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, let's take a look at how する can be used in sentences. Since it has many different applications, you often see it paired up with various particles or other grammar components. Note however that you will see する following a noun most of the time. There may be a particle between the two, but the noun usually comes first. This is because する is like a generic placeholder verb — it is often used when actions don't have their own verbs to describe them. In these cases, actions usually have a name (noun form) instead. For example, 宿題（しゅくだい） (homework) is a noun, and it doesn't have a specific verb that describes the action of doing homework. So you use する, or \"to do,\" as a verb. In the following sections, we'll take a closer look at common patterns used with する."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section",
+      "text": "〜をする"
+    },
+    {
+      "type": "paragraph",
+      "text": "When する is used for a specific action, it is generally used with the particle を because it marks an object (in this case, the thing being done)."
+    },
+    {
+      "type": "example",
+      "japanese": "宿題（しゅくだい）をする",
+      "english": "to do homework"
+    },
+    {
+      "type": "example",
+      "japanese": "洗濯（せんたく）をする",
+      "english": "to do the laundry"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, particles other than を can be used to mark an object and express a different meaning. For example, imagine your mom asks you about your homework when you're playing a video game. To say \"I'll do my homework too\" (in addition to all that gaming), you can replace を with the particle も (meaning \"too\") and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "宿題（しゅくだい）もする。",
+      "english": "I'll do my homework too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Next, your mom asks you to help her with some house chores. To tell her you'll do the laundry but not the other chores, you can replace を with the particle は to mark the comparison, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "洗濯（せんたく）はする。",
+      "english": "I'll do the laundry (but not other chores)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-1",
+      "text": "〜にする"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use する when selecting something (from a number of options). In this case, the thing you're selecting is marked by the particle に ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Say you're in a donut shop, deciding what kind of donut to buy. When you've made your final decision, you might use 〜にする and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "これにする。",
+      "english": "I'll go with this one."
+    },
+    {
+      "type": "paragraph",
+      "text": "〜にする can also be used with a different meaning, \"to change the state of something/someone (else),\" but we'll talk about that usage later on."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-2",
+      "text": "〜がする"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use する to report on sensations like smell and taste, or on feelings you experience. In this case, the sensation or feeling is marked by the particle が ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you wake up and smell coffee, you can use 〜がする with コーヒーのにおい (smell of coffee) and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "コーヒーのにおいがする。",
+      "english": "I smell coffee. (Literally: It smells of coffee.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll see more examples of this use later on this page ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun----verbs",
+      "text": "Noun + する (する Verbs)"
+    },
+    {
+      "type": "paragraph",
+      "text": "する can turn a variety of nouns into verbs, and these noun-based verbs are called する verbs. Many of the words that する can make into verbs are compound words of Chinese origin (Sino-Japanese), such as 旅行（りょこう） (travel). In other words, if the word is made of multiple kanji with on'yomi readings, that's a good sign that you could just attach する at the end and use it as a verb. And of course, the noun should be something actionable/doable, like \"travel.\""
+    },
+    {
+      "type": "example",
+      "japanese": "旅行（りょこう）する",
+      "english": "to travel"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's also common to use する with loanwords from other countries, such as ドライブ (drive)."
+    },
+    {
+      "type": "example",
+      "japanese": "ドライブする",
+      "english": "to drive"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note you can often use the particle を to mark the compound or loan word itself as the direct object of する, such as 旅行（りょこう） を する or ドライブ を する. The two versions technically mean the same thing, but the one with を puts a little more emphasis on the specific action — not on the doing itself, in other words, but on what you're doing. If it helps, you can kind of imagine the noun that を marks as being underlined."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-to-do",
+      "text": "する for \"To Do\""
+    },
+    {
+      "type": "paragraph",
+      "text": "As said in the beginning, する has a number of uses that are akin to the English \"to do.\" The most prevalent ones are everyday tasks, such as 洗（あら）い物（もの）をする (to do the dishes) or 洗濯（せんたく）をする (to do the laundry). Here is a list of some examples, with some nonstandard translations given in parentheses."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "買（か）い物（もの）をする",
+          "to shop (to do some shopping)"
+        ],
+        [
+          "料理（りょうり）をする",
+          "to cook (to do the cooking)"
+        ],
+        [
+          "掃除（そうじ）をする",
+          "to clean (to do the cleaning)"
+        ],
+        [
+          "洗濯（せんたく）をする",
+          "to do the laundry"
+        ],
+        [
+          "洗（あら）い物（もの）をする",
+          "to do the dishes"
+        ],
+        [
+          "宿題（しゅくだい）をする",
+          "to do homework"
+        ],
+        [
+          "仕事（しごと）をする",
+          "to do a/the job"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Another example is workout-related expressions that use する in Japanese and \"to do\" in English. Many workout actions don't have a specific verb, so it's common to use する to express them."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "腕立（うでた）て伏（ふ）せをする",
+          "to do push-ups"
+        ],
+        [
+          "腹筋（ふっきん）をする",
+          "to do sit-ups"
+        ],
+        [
+          "スクワットをする",
+          "to do squats"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-to-have-or-to-take",
+      "text": "する for \"To Have\" or \"To Take\""
+    },
+    {
+      "type": "paragraph",
+      "text": "To express certain activities, especially occasions that involve other people, like a party or a meeting, it's common to use \"to have\" in English. There are also activities that you express with the verb \"to take,\" like a walk or a trip. However, in Japanese, we can often use する instead, for the nouns that usually combine with \"have\" or \"take\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here are some examples:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "話（はな）しをする",
+          "to have a chat"
+        ],
+        [
+          "議論（ぎろん）をする",
+          "to have a discussion"
+        ],
+        [
+          "口論（こうろん）をする",
+          "to have an argument"
+        ],
+        [
+          "会議（かいぎ）をする",
+          "to have a meeting"
+        ],
+        [
+          "経験（けいけん）をする",
+          "to have an experience"
+        ],
+        [
+          "お茶（ちゃ）をする",
+          "to have tea, to have a tea break"
+        ],
+        [
+          "パーティーをする",
+          "to have a party"
+        ],
+        [
+          "飲（の）み会（かい）をする",
+          "to have a drinking party"
+        ],
+        [
+          "休憩（きゅうけい）をする",
+          "to have/take a break"
+        ],
+        [
+          "散歩（さんぽ）をする",
+          "to have/take a walk"
+        ],
+        [
+          "食事（しょくじ）をする",
+          "to have/take a meal"
+        ],
+        [
+          "旅行（りょこう）をする",
+          "to take a trip"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You should also know that while する is a versatile verb that works for all this, some of these activities could also be described with more specific verbs too. You can say お茶（ちゃ）を飲（の）む (to drink tea), for example, or パーティーを開（ひら）く (\"to have a party\" in Japanese; literally \"to open a party\")."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-to-make",
+      "text": "する for \"To Make\""
+    },
+    {
+      "type": "paragraph",
+      "text": "する can also be used as a translation for some of the English expressions that use \"to make.\" When する is used this way, it is commonly used when preparing something or making a public announcement."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "準備（じゅんび）をする",
+          "to make preparations"
+        ],
+        [
+          "予約（よやく）をする",
+          "to make a reservation"
+        ],
+        [
+          "発表（はっぴょう）をする",
+          "to make an announcement"
+        ],
+        [
+          "スピーチをする",
+          "to make (give) a speech"
+        ],
+        [
+          "プレゼンをする",
+          "to make (give) a presentation"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-to-play",
+      "text": "する for \"To Play\""
+    },
+    {
+      "type": "paragraph",
+      "text": "する can also mean \"to play\" when playing a game, sport, or role."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "ゲームをする",
+          "to play a game/video game"
+        ],
+        [
+          "かくれんぼをする",
+          "to play hide-and-seek"
+        ],
+        [
+          "おにごっこをする",
+          "to play tag"
+        ],
+        [
+          "ポーカーをする",
+          "to play poker"
+        ],
+        [
+          "バスケットをする",
+          "to play basketball"
+        ],
+        [
+          "テニスをする",
+          "to play tennis"
+        ],
+        [
+          "ハムレットをする",
+          "to play Hamlet"
+        ],
+        [
+          "ハムレットの役（やく）をする",
+          "to play the role of Hamlet"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Be aware that instruments are an exception! You don't normally use する for playing instruments. Instead, you'd usually use a word like 弾（ひ）く (to play) or 演奏（えんそう）する (to perform)."
+    },
+    {
+      "type": "example",
+      "japanese": "ギターを弾（ひ）く",
+      "english": "to play the guitar"
+    },
+    {
+      "type": "example",
+      "japanese": "ピアノを演奏（えんそう）する",
+      "english": "to give a piano performance"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, する can be used to describe a state in which someone is practicing music habitually. For example, if you found out your friend is taking piano lessons, you can use the ている form of する and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "え、ピアノしてるの？",
+      "english": "Oh, you're taking piano lessons?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that the particle を is often omitted in casual conversation, as above."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-to-wear-accessories",
+      "text": "する for \"To Wear (Accessories)\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though there's another verb, 付（つ）ける, which can be used for wearing accessories, する can also come into play when putting on accessories such as jewelry, glasses, scarves, ties, and so on. So if you're planning to put on a red necktie tomorrow, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "明日（あした）は赤（あか）いネクタイをする。",
+      "english": "I'll put on a red necktie tomorrow."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that if you want to say you're currently wearing the accessories in question, you'll commonly change する to している (the ている form ). To say you're wearing a red necktie today, for example:"
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）は赤（あか）いネクタイをしている。",
+      "english": "I'm wearing a red necktie today."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more examples of this use, check out the below list!"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "アクセサリーをする",
+          "to wear accessories"
+        ],
+        [
+          "イヤリングをする",
+          "to wear earrings"
+        ],
+        [
+          "ネックレスをする",
+          "to wear a necklace"
+        ],
+        [
+          "指輪（ゆびわ）をする",
+          "to wear a ring"
+        ],
+        [
+          "腕時計（うでどけい）をする",
+          "to wear a watch"
+        ],
+        [
+          "メガネをする",
+          "to wear glasses"
+        ],
+        [
+          "サングラスをする",
+          "to wear sunglasses"
+        ],
+        [
+          "コンタクト（レンズ）をする",
+          "to wear contact lenses"
+        ],
+        [
+          "スカーフをする",
+          "to wear a scarf"
+        ],
+        [
+          "ネクタイをする",
+          "to wear a necktie"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-selecting-or-deciding-something",
+      "text": "〜にする for Selecting or Deciding Something"
+    },
+    {
+      "type": "paragraph",
+      "text": "You've already seen some examples of how 〜にする is used when selecting something, but let's do a quick review. Imagine you're in a cafe with your friend and you're looking at the menu to figure out what to order. To ask your friend which one they're thinking of choosing, you can use 〜にする with the question word どれ (which one) and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "どれにする？",
+      "english": "Which one are you going to pick?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Then, if your friend decides on the cake set, they may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ケーキセットにする。",
+      "english": "I'm gonna do the cake set."
+    },
+    {
+      "type": "paragraph",
+      "text": "Piece of cake, right? This nuance of 〜にする can also be applied when you're deciding what to do. For example, say you're studying with your friend when your stomach grumbles. If you want to take a break for lunch, you can ask:"
+    },
+    {
+      "type": "example",
+      "japanese": "そろそろランチにする？",
+      "english": "Want to do lunch soon?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, 〜にする implies that the action in question can be taken at your discretion — or the listener's. It lets them know the decision is still theirs, so it's suitable for when you want to softly suggest that it's time to do something."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "price---for-indicating-how-much-something-costs",
+      "text": "Price + する for Indicating How Much Something Costs"
+    },
+    {
+      "type": "paragraph",
+      "text": "When following an amount of money, する can also indicate how much something costs. This use of する is often used when you feel the cost is too expensive."
+    },
+    {
+      "type": "example",
+      "japanese": "げ、一（いち）万（まん）円（えん）する！",
+      "english": "Oh no, it costs 10,000 yen!"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's also common to emphasize the amount of money using the particle も ."
+    },
+    {
+      "type": "example",
+      "japanese": "げ、一（いち）万（まん）円（えん）もする！",
+      "english": "Oh no, it costs 10,000 yen!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-what-you-do-for-a-living",
+      "text": "する for What You Do for a Living"
+    },
+    {
+      "type": "paragraph",
+      "text": "する can also be used to talk about your occupation or the role you play (at work, on a team, and so on). For example, if you were assigned to be a team leader at work, you can use チームリーダー with する and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "チームリーダーをすることになった。",
+      "english": "It turns out that I will be the team leader."
+    },
+    {
+      "type": "paragraph",
+      "text": "For an occupation or role, you can also conjugate する to している (the ている form ) to show it's an ongoing state. So if your brother is a police officer, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "兄（あに）は警察官（けいさつかん）をしている。",
+      "english": "My older brother works as a police officer."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you are explaining that you work as a manager, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "マネージャーをしています。",
+      "english": "I work as a manager."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-turning--into-",
+      "text": "〜を〜にする for \"Turning … Into …\""
+    },
+    {
+      "type": "paragraph",
+      "text": "When you turn one thing into another thing (like water into wine or lead into gold, for example), you can use 〜にする to express that change in state. In this usage, you mark what you are changing with the particle を and mark the result of a change of state with the particle に ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The result of the change (the part marked by に) can be a noun, such as 社長（しゃちょう） (company president)."
+    },
+    {
+      "type": "example",
+      "japanese": "カナエを社長（しゃちょう）にする。",
+      "english": "I'll make Kanae the company president."
+    },
+    {
+      "type": "paragraph",
+      "text": "Or, it can also be a な-adjective, such as 簡単（かんたん） (easy)."
+    },
+    {
+      "type": "example",
+      "japanese": "テストを簡単（かんたん）にする。",
+      "english": "I'll make the test easy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note in this pattern, the 〜を part is often omitted when it's obvious from the context or situation."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective--form--",
+      "text": "〜を + い-adjective く Form + する"
+    },
+    {
+      "type": "paragraph",
+      "text": "The use of する as \"to turn … into …\" can also work with い-adjectives. When the result of a change of state is described with an い-adjective, you'll need to turn it into the く form and add する, instead of adding 〜にする."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, the く form of かわいい (cute) is かわいく, so if you're styling your hair in a cute way, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "髪型（かみがた）をかわいくする。",
+      "english": "I'll make my hairstyle cute."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-adverbs",
+      "text": "する with Adverbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "する can also be attached to adverbs. By adverbs, I mean words like ゆっくり (slowly), the adverb form of い-adjectives , such as 早（はや）く (quickly) or 強（つよ）く (strongly), or the adverb form of a な-adjective, such as 大事（だいじ）に."
+    },
+    {
+      "type": "paragraph",
+      "text": "When する comes right after adverbs, it indicates the act of doing something in a certain manner. For example, if you're being slow preparing for school in the morning, your mom might use 早（はや）くする and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "早（はや）くしなさい！",
+      "english": "Hurry up!(Literally: Do it quickly!)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many of these combinations are also employed as idioms. For instance, ゆっくりする can mean not only \"to do something slowly\" but also \"to enjoy doing something at your own pace.\" As a result, it's a typical expression used to advise a guest to \"make themselves at home,\" \"enjoy their stay,\" \"take it easy,\" or something along those lines."
+    },
+    {
+      "type": "example",
+      "japanese": "ゆっくりしてくださいね。",
+      "english": "Enjoy your stay."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's another example of a common adverb-する pair: 大事（だいじ）にする. This indicates the act of \"treating something with care.\" Therefore, it's used when you look after someone or when you treasure something. For example, if you have a girlfriend, someone may give you advice such as:"
+    },
+    {
+      "type": "example",
+      "japanese": "彼女（かのじょ）のこと、大事（だいじ）にするんだぞ！",
+      "english": "You should look after your girlfriend."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember how する can be used when turning something into something else ? It's the same idea here — the combination of an adverb and する can indicate the act of changing something's condition a certain way — in other words, it can indicate a willful change . Let's say you're in the backseat of a car and it's too hot. You want to ask someone in the front seat to turn up the A/C. For that, you can use 強（つよ）くする and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "冷房（れいぼう）、もうちょっと強（つよ）くしてくれない？",
+      "english": "Can you turn up the A/C a little more?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-onomatopoeia",
+      "text": "する with Onomatopoeia"
+    },
+    {
+      "type": "paragraph",
+      "text": "する can directly attach to an onomatopoeic word and turn it into a verb as well. For example, する can be added to ドキドキ (onomatopoeia for heartbeats):"
+    },
+    {
+      "type": "example",
+      "japanese": "ドキドキする",
+      "english": "to be nervous/thrilled"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japanese onomatopoeia is often a repetition of the same sound, such as ドキドキ. It's to represent that the sound or action repeats or continues. On the other hand, if it's used only once, it expresses a momentary sound or action. When the unrepeated version consists of one or two syllables, you usually need to add っ/ッ with と between the word and する."
+    },
+    {
+      "type": "example",
+      "japanese": "ドキッとする",
+      "english": "to feel shocked"
+    },
+    {
+      "type": "example",
+      "japanese": "はっとする",
+      "english": "to be stunned"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the unrepeated onomatopoeia has more than two syllables, you can simply add 〜とする directly."
+    },
+    {
+      "type": "example",
+      "japanese": "びくりとする",
+      "english": "to get startled"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-reporting-sensations-and-feelings",
+      "text": "〜がする for Reporting Sensations and Feelings"
+    },
+    {
+      "type": "paragraph",
+      "text": "する can also be used to report your sensations. In this case, you use the particle が to mark the sensation. So let's say you've lost your sense of taste or smell due to a temporary illness. When you've recovered and notice you can taste or smell things again, you may use 〜がする and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "味（あじ）がする。",
+      "english": "I can taste it. (Literally: It has a taste.)"
+    },
+    {
+      "type": "example",
+      "japanese": "においがする。",
+      "english": "I can smell it. (Literally: It has a smell.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "But unless you're in a unique situation like this one where you realize you can suddenly taste or smell again, the sensations you report are normally more descriptive. For example, if you pop a candy in your mouth and find it's strawberry-flavored, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "イチゴの味（あじ）がする。",
+      "english": "This tastes like strawberry."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you're starving and you smell something delicious cooking, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "いいにおいがする。",
+      "english": "I smell something good. (Literally: It smells good.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use 〜がする when describing how you feel. For example, if you're sad, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "悲（かな）しい気持（きも）ちがする。",
+      "english": "I feel sad."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you use 〜がする, however, it sounds like you're more objectively describing how you feel. You might use it while communicating your feelings to others, but when simply expressing your sad emotion, it's more common just to say 悲（かな）しい (I'm sad)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since 〜がする indicates that you're articulating a sense, it's suitable when you suspect that something is the case or something might happen. For example, if you're watching a detective show and suspect a mail carrier is the culprit, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あの郵便（ゆうびん）屋（や）さんが犯人（はんにん）な気（き）がする。",
+      "english": "I have a feeling that the mail carrier is the culprit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, if you are positive that you will be able to visit Japan this year, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "今年（ことし）は日本（にっぽん）に行（い）ける気（き）がする。",
+      "english": "I have a feeling that I can go to Japan this year."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "する is a versatile verb that basically means \"to perform an action,\" and there's a lot of similarity between する and its English equivalent, \"to do.\" Both can refer to an action in general, for example, without specifying what that action is:",
+    "Of course, you can also use it when you want to specify what kind of action you're doing. Let's take a look at an example using 宿題（しゅくだい） (homework):",
+    "However, する and \"to do\" aren't always interchangeable. There are meanings that only \"to do\" has, and there are also a number of uses that are unique to する. For instance, you wouldn't say \"to do\" when putting on accessories in English, like \"to do a necklace,\" but it is common to use する for putting on accessories in Japanese.",
+    "And, this is just the tip of the iceberg — する is a must-know verb that is very versatile and useful to keep in your pocket. Read on, and you'll find out all kinds of ways you can use する!",
+    "To master the useful する verb, you should first know how to conjugate it. する is an irregular verb, which means that there are no other verbs that conjugate the way it does. Conjugating する is pretty straightforward though. As seen in the below table, only the base form する begins with す (su). When you conjugate it, you'll have to change す to し (shi). Then, instead of る, you'll use different polite or plain endings like ます or た .",
+    "Now, let's take a look at how する can be used in sentences. Since it has many different applications, you often see it paired up with various particles or other grammar components. Note however that you will see する following a noun most of the time. There may be a particle between the two, but the noun usually comes first. This is because する is like a generic placeholder verb — it is often used when actions don't have their own verbs to describe them. In these cases, actions usually have a name (noun form) instead. For example, 宿題（しゅくだい） (homework) is a noun, and it doesn't have a specific verb that describes the action of doing homework. So you use する, or \"to do,\" as a verb. In the following sections, we'll take a closer look at common patterns used with する.",
+    "When する is used for a specific action, it is generally used with the particle を because it marks an object (in this case, the thing being done).",
+    "Sometimes, particles other than を can be used to mark an object and express a different meaning. For example, imagine your mom asks you about your homework when you're playing a video game. To say \"I'll do my homework too\" (in addition to all that gaming), you can replace を with the particle も (meaning \"too\") and say:",
+    "Next, your mom asks you to help her with some house chores. To tell her you'll do the laundry but not the other chores, you can replace を with the particle は to mark the comparison, like:",
+    "You can also use する when selecting something (from a number of options). In this case, the thing you're selecting is marked by the particle に .",
+    "Say you're in a donut shop, deciding what kind of donut to buy. When you've made your final decision, you might use 〜にする and say:",
+    "〜にする can also be used with a different meaning, \"to change the state of something/someone (else),\" but we'll talk about that usage later on.",
+    "You can also use する to report on sensations like smell and taste, or on feelings you experience. In this case, the sensation or feeling is marked by the particle が .",
+    "For example, if you wake up and smell coffee, you can use 〜がする with コーヒーのにおい (smell of coffee) and say:",
+    "We'll see more examples of this use later on this page .",
+    "する can turn a variety of nouns into verbs, and these noun-based verbs are called する verbs. Many of the words that する can make into verbs are compound words of Chinese origin (Sino-Japanese), such as 旅行（りょこう） (travel). In other words, if the word is made of multiple kanji with on'yomi readings, that's a good sign that you could just attach する at the end and use it as a verb. And of course, the noun should be something actionable/doable, like \"travel.\"",
+    "It's also common to use する with loanwords from other countries, such as ドライブ (drive).",
+    "Note you can often use the particle を to mark the compound or loan word itself as the direct object of する, such as 旅行（りょこう） を する or ドライブ を する. The two versions technically mean the same thing, but the one with を puts a little more emphasis on the specific action — not on the doing itself, in other words, but on what you're doing. If it helps, you can kind of imagine the noun that を marks as being underlined.",
+    "As said in the beginning, する has a number of uses that are akin to the English \"to do.\" The most prevalent ones are everyday tasks, such as 洗（あら）い物（もの）をする (to do the dishes) or 洗濯（せんたく）をする (to do the laundry). Here is a list of some examples, with some nonstandard translations given in parentheses.",
+    "Another example is workout-related expressions that use する in Japanese and \"to do\" in English. Many workout actions don't have a specific verb, so it's common to use する to express them.",
+    "To express certain activities, especially occasions that involve other people, like a party or a meeting, it's common to use \"to have\" in English. There are also activities that you express with the verb \"to take,\" like a walk or a trip. However, in Japanese, we can often use する instead, for the nouns that usually combine with \"have\" or \"take\" in English.",
+    "Here are some examples:",
+    "You should also know that while する is a versatile verb that works for all this, some of these activities could also be described with more specific verbs too. You can say お茶（ちゃ）を飲（の）む (to drink tea), for example, or パーティーを開（ひら）く (\"to have a party\" in Japanese; literally \"to open a party\").",
+    "する can also be used as a translation for some of the English expressions that use \"to make.\" When する is used this way, it is commonly used when preparing something or making a public announcement.",
+    "する can also mean \"to play\" when playing a game, sport, or role.",
+    "Be aware that instruments are an exception! You don't normally use する for playing instruments. Instead, you'd usually use a word like 弾（ひ）く (to play) or 演奏（えんそう）する (to perform).",
+    "However, する can be used to describe a state in which someone is practicing music habitually. For example, if you found out your friend is taking piano lessons, you can use the ている form of する and say:",
+    "Note that the particle を is often omitted in casual conversation, as above.",
+    "Even though there's another verb, 付（つ）ける, which can be used for wearing accessories, する can also come into play when putting on accessories such as jewelry, glasses, scarves, ties, and so on. So if you're planning to put on a red necktie tomorrow, you could say:",
+    "Note that if you want to say you're currently wearing the accessories in question, you'll commonly change する to している (the ている form ). To say you're wearing a red necktie today, for example:",
+    "For more examples of this use, check out the below list!",
+    "You've already seen some examples of how 〜にする is used when selecting something, but let's do a quick review. Imagine you're in a cafe with your friend and you're looking at the menu to figure out what to order. To ask your friend which one they're thinking of choosing, you can use 〜にする with the question word どれ (which one) and say:",
+    "Then, if your friend decides on the cake set, they may say:",
+    "Piece of cake, right? This nuance of 〜にする can also be applied when you're deciding what to do. For example, say you're studying with your friend when your stomach grumbles. If you want to take a break for lunch, you can ask:",
+    "In this example, 〜にする implies that the action in question can be taken at your discretion — or the listener's. It lets them know the decision is still theirs, so it's suitable for when you want to softly suggest that it's time to do something.",
+    "When following an amount of money, する can also indicate how much something costs. This use of する is often used when you feel the cost is too expensive.",
+    "It's also common to emphasize the amount of money using the particle も .",
+    "する can also be used to talk about your occupation or the role you play (at work, on a team, and so on). For example, if you were assigned to be a team leader at work, you can use チームリーダー with する and say:",
+    "For an occupation or role, you can also conjugate する to している (the ている form ) to show it's an ongoing state. So if your brother is a police officer, you can say:",
+    "And if you are explaining that you work as a manager, you can say:",
+    "When you turn one thing into another thing (like water into wine or lead into gold, for example), you can use 〜にする to express that change in state. In this usage, you mark what you are changing with the particle を and mark the result of a change of state with the particle に .",
+    "The result of the change (the part marked by に) can be a noun, such as 社長（しゃちょう） (company president).",
+    "Or, it can also be a な-adjective, such as 簡単（かんたん） (easy).",
+    "Note in this pattern, the 〜を part is often omitted when it's obvious from the context or situation.",
+    "The use of する as \"to turn … into …\" can also work with い-adjectives. When the result of a change of state is described with an い-adjective, you'll need to turn it into the く form and add する, instead of adding 〜にする.",
+    "For example, the く form of かわいい (cute) is かわいく, so if you're styling your hair in a cute way, you can say:",
+    "する can also be attached to adverbs. By adverbs, I mean words like ゆっくり (slowly), the adverb form of い-adjectives , such as 早（はや）く (quickly) or 強（つよ）く (strongly), or the adverb form of a な-adjective, such as 大事（だいじ）に.",
+    "When する comes right after adverbs, it indicates the act of doing something in a certain manner. For example, if you're being slow preparing for school in the morning, your mom might use 早（はや）くする and say:",
+    "Many of these combinations are also employed as idioms. For instance, ゆっくりする can mean not only \"to do something slowly\" but also \"to enjoy doing something at your own pace.\" As a result, it's a typical expression used to advise a guest to \"make themselves at home,\" \"enjoy their stay,\" \"take it easy,\" or something along those lines.",
+    "Here's another example of a common adverb-する pair: 大事（だいじ）にする. This indicates the act of \"treating something with care.\" Therefore, it's used when you look after someone or when you treasure something. For example, if you have a girlfriend, someone may give you advice such as:",
+    "Remember how する can be used when turning something into something else ? It's the same idea here — the combination of an adverb and する can indicate the act of changing something's condition a certain way — in other words, it can indicate a willful change . Let's say you're in the backseat of a car and it's too hot. You want to ask someone in the front seat to turn up the A/C. For that, you can use 強（つよ）くする and say:",
+    "する can directly attach to an onomatopoeic word and turn it into a verb as well. For example, する can be added to ドキドキ (onomatopoeia for heartbeats):",
+    "Japanese onomatopoeia is often a repetition of the same sound, such as ドキドキ. It's to represent that the sound or action repeats or continues. On the other hand, if it's used only once, it expresses a momentary sound or action. When the unrepeated version consists of one or two syllables, you usually need to add っ/ッ with と between the word and する.",
+    "If the unrepeated onomatopoeia has more than two syllables, you can simply add 〜とする directly.",
+    "する can also be used to report your sensations. In this case, you use the particle が to mark the sensation. So let's say you've lost your sense of taste or smell due to a temporary illness. When you've recovered and notice you can taste or smell things again, you may use 〜がする and say:",
+    "But unless you're in a unique situation like this one where you realize you can suddenly taste or smell again, the sensations you report are normally more descriptive. For example, if you pop a candy in your mouth and find it's strawberry-flavored, you could say:",
+    "When you're starving and you smell something delicious cooking, you may say:",
+    "You can also use 〜がする when describing how you feel. For example, if you're sad, you can say:",
+    "When you use 〜がする, however, it sounds like you're more objectively describing how you feel. You might use it while communicating your feelings to others, but when simply expressing your sad emotion, it's more common just to say 悲（かな）しい (I'm sad).",
+    "Since 〜がする indicates that you're articulating a sense, it's suitable when you suspect that something is the case or something might happen. For example, if you're watching a detective show and suspect a mail carrier is the culprit, you can say:",
+    "Also, if you are positive that you will be able to visit Japan this year, you can say:"
+  ],
+  "examples": [
+    {
+      "japanese": "私（わたし）がするよ。",
+      "english": "I'll do it."
+    },
+    {
+      "japanese": "宿題（しゅくだい）をする",
+      "english": "to do homework"
+    },
+    {
+      "japanese": "ネックレスをする",
+      "english": "to put on a necklace"
+    },
+    {
+      "japanese": "宿題（しゅくだい）をする",
+      "english": "to do homework"
+    },
+    {
+      "japanese": "洗濯（せんたく）をする",
+      "english": "to do the laundry"
+    },
+    {
+      "japanese": "宿題（しゅくだい）もする。",
+      "english": "I'll do my homework too."
+    },
+    {
+      "japanese": "洗濯（せんたく）はする。",
+      "english": "I'll do the laundry (but not other chores)."
+    },
+    {
+      "japanese": "これにする。",
+      "english": "I'll go with this one."
+    },
+    {
+      "japanese": "コーヒーのにおいがする。",
+      "english": "I smell coffee. (Literally: It smells of coffee.)"
+    },
+    {
+      "japanese": "旅行（りょこう）する",
+      "english": "to travel"
+    },
+    {
+      "japanese": "ドライブする",
+      "english": "to drive"
+    },
+    {
+      "japanese": "ギターを弾（ひ）く",
+      "english": "to play the guitar"
+    },
+    {
+      "japanese": "ピアノを演奏（えんそう）する",
+      "english": "to give a piano performance"
+    },
+    {
+      "japanese": "え、ピアノしてるの？",
+      "english": "Oh, you're taking piano lessons?"
+    },
+    {
+      "japanese": "明日（あした）は赤（あか）いネクタイをする。",
+      "english": "I'll put on a red necktie tomorrow."
+    },
+    {
+      "japanese": "今日（きょう）は赤（あか）いネクタイをしている。",
+      "english": "I'm wearing a red necktie today."
+    },
+    {
+      "japanese": "どれにする？",
+      "english": "Which one are you going to pick?"
+    },
+    {
+      "japanese": "ケーキセットにする。",
+      "english": "I'm gonna do the cake set."
+    },
+    {
+      "japanese": "そろそろランチにする？",
+      "english": "Want to do lunch soon?"
+    },
+    {
+      "japanese": "げ、一（いち）万（まん）円（えん）する！",
+      "english": "Oh no, it costs 10,000 yen!"
+    },
+    {
+      "japanese": "げ、一（いち）万（まん）円（えん）もする！",
+      "english": "Oh no, it costs 10,000 yen!"
+    },
+    {
+      "japanese": "チームリーダーをすることになった。",
+      "english": "It turns out that I will be the team leader."
+    },
+    {
+      "japanese": "兄（あに）は警察官（けいさつかん）をしている。",
+      "english": "My older brother works as a police officer."
+    },
+    {
+      "japanese": "マネージャーをしています。",
+      "english": "I work as a manager."
+    },
+    {
+      "japanese": "カナエを社長（しゃちょう）にする。",
+      "english": "I'll make Kanae the company president."
+    },
+    {
+      "japanese": "テストを簡単（かんたん）にする。",
+      "english": "I'll make the test easy."
+    },
+    {
+      "japanese": "髪型（かみがた）をかわいくする。",
+      "english": "I'll make my hairstyle cute."
+    },
+    {
+      "japanese": "早（はや）くしなさい！",
+      "english": "Hurry up!(Literally: Do it quickly!)"
+    },
+    {
+      "japanese": "ゆっくりしてくださいね。",
+      "english": "Enjoy your stay."
+    },
+    {
+      "japanese": "彼女（かのじょ）のこと、大事（だいじ）にするんだぞ！",
+      "english": "You should look after your girlfriend."
+    },
+    {
+      "japanese": "冷房（れいぼう）、もうちょっと強（つよ）くしてくれない？",
+      "english": "Can you turn up the A/C a little more?"
+    },
+    {
+      "japanese": "ドキドキする",
+      "english": "to be nervous/thrilled"
+    },
+    {
+      "japanese": "ドキッとする",
+      "english": "to feel shocked"
+    },
+    {
+      "japanese": "はっとする",
+      "english": "to be stunned"
+    },
+    {
+      "japanese": "びくりとする",
+      "english": "to get startled"
+    },
+    {
+      "japanese": "味（あじ）がする。",
+      "english": "I can taste it. (Literally: It has a taste.)"
+    },
+    {
+      "japanese": "においがする。",
+      "english": "I can smell it. (Literally: It has a smell.)"
+    },
+    {
+      "japanese": "イチゴの味（あじ）がする。",
+      "english": "This tastes like strawberry."
+    },
+    {
+      "japanese": "いいにおいがする。",
+      "english": "I smell something good. (Literally: It smells good.)"
+    },
+    {
+      "japanese": "悲（かな）しい気持（きも）ちがする。",
+      "english": "I feel sad."
+    },
+    {
+      "japanese": "あの郵便（ゆうびん）屋（や）さんが犯人（はんにん）な気（き）がする。",
+      "english": "I have a feeling that the mail carrier is the culprit."
+    },
+    {
+      "japanese": "今年（ことし）は日本（にっぽん）に行（い）ける気（き）がする。",
+      "english": "I have a feeling that I can go to Japan this year."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Plain",
+        "Polite"
+      ],
+      [
+        "Present",
+        "する",
+        "します"
+      ],
+      [
+        "Past",
+        "した",
+        "しました"
+      ],
+      [
+        "Negative",
+        "しない",
+        "しません"
+      ],
+      [
+        "Negative Past",
+        "しなかった",
+        "しませんでした"
+      ]
+    ],
+    [
+      [
+        "買（か）い物（もの）をする",
+        "to shop (to do some shopping)"
+      ],
+      [
+        "料理（りょうり）をする",
+        "to cook (to do the cooking)"
+      ],
+      [
+        "掃除（そうじ）をする",
+        "to clean (to do the cleaning)"
+      ],
+      [
+        "洗濯（せんたく）をする",
+        "to do the laundry"
+      ],
+      [
+        "洗（あら）い物（もの）をする",
+        "to do the dishes"
+      ],
+      [
+        "宿題（しゅくだい）をする",
+        "to do homework"
+      ],
+      [
+        "仕事（しごと）をする",
+        "to do a/the job"
+      ]
+    ],
+    [
+      [
+        "腕立（うでた）て伏（ふ）せをする",
+        "to do push-ups"
+      ],
+      [
+        "腹筋（ふっきん）をする",
+        "to do sit-ups"
+      ],
+      [
+        "スクワットをする",
+        "to do squats"
+      ]
+    ],
+    [
+      [
+        "話（はな）しをする",
+        "to have a chat"
+      ],
+      [
+        "議論（ぎろん）をする",
+        "to have a discussion"
+      ],
+      [
+        "口論（こうろん）をする",
+        "to have an argument"
+      ],
+      [
+        "会議（かいぎ）をする",
+        "to have a meeting"
+      ],
+      [
+        "経験（けいけん）をする",
+        "to have an experience"
+      ],
+      [
+        "お茶（ちゃ）をする",
+        "to have tea, to have a tea break"
+      ],
+      [
+        "パーティーをする",
+        "to have a party"
+      ],
+      [
+        "飲（の）み会（かい）をする",
+        "to have a drinking party"
+      ],
+      [
+        "休憩（きゅうけい）をする",
+        "to have/take a break"
+      ],
+      [
+        "散歩（さんぽ）をする",
+        "to have/take a walk"
+      ],
+      [
+        "食事（しょくじ）をする",
+        "to have/take a meal"
+      ],
+      [
+        "旅行（りょこう）をする",
+        "to take a trip"
+      ]
+    ],
+    [
+      [
+        "準備（じゅんび）をする",
+        "to make preparations"
+      ],
+      [
+        "予約（よやく）をする",
+        "to make a reservation"
+      ],
+      [
+        "発表（はっぴょう）をする",
+        "to make an announcement"
+      ],
+      [
+        "スピーチをする",
+        "to make (give) a speech"
+      ],
+      [
+        "プレゼンをする",
+        "to make (give) a presentation"
+      ]
+    ],
+    [
+      [
+        "ゲームをする",
+        "to play a game/video game"
+      ],
+      [
+        "かくれんぼをする",
+        "to play hide-and-seek"
+      ],
+      [
+        "おにごっこをする",
+        "to play tag"
+      ],
+      [
+        "ポーカーをする",
+        "to play poker"
+      ],
+      [
+        "バスケットをする",
+        "to play basketball"
+      ],
+      [
+        "テニスをする",
+        "to play tennis"
+      ],
+      [
+        "ハムレットをする",
+        "to play Hamlet"
+      ],
+      [
+        "ハムレットの役（やく）をする",
+        "to play the role of Hamlet"
+      ]
+    ],
+    [
+      [
+        "アクセサリーをする",
+        "to wear accessories"
+      ],
+      [
+        "イヤリングをする",
+        "to wear earrings"
+      ],
+      [
+        "ネックレスをする",
+        "to wear a necklace"
+      ],
+      [
+        "指輪（ゆびわ）をする",
+        "to wear a ring"
+      ],
+      [
+        "腕時計（うでどけい）をする",
+        "to wear a watch"
+      ],
+      [
+        "メガネをする",
+        "to wear glasses"
+      ],
+      [
+        "サングラスをする",
+        "to wear sunglasses"
+      ],
+      [
+        "コンタクト（レンズ）をする",
+        "to wear contact lenses"
+      ],
+      [
+        "スカーフをする",
+        "to wear a scarf"
+      ],
+      [
+        "ネクタイをする",
+        "to wear a necktie"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-",
+      "text": "Conjugating する"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "section",
+      "text": "〜をする"
+    },
+    {
+      "level": 4,
+      "id": "section-1",
+      "text": "〜にする"
+    },
+    {
+      "level": 4,
+      "id": "section-2",
+      "text": "〜がする"
+    },
+    {
+      "level": 4,
+      "id": "noun----verbs",
+      "text": "Noun + する (する Verbs)"
+    },
+    {
+      "level": 3,
+      "id": "for-to-do",
+      "text": "する for \"To Do\""
+    },
+    {
+      "level": 3,
+      "id": "for-to-have-or-to-take",
+      "text": "する for \"To Have\" or \"To Take\""
+    },
+    {
+      "level": 3,
+      "id": "for-to-make",
+      "text": "する for \"To Make\""
+    },
+    {
+      "level": 3,
+      "id": "for-to-play",
+      "text": "する for \"To Play\""
+    },
+    {
+      "level": 3,
+      "id": "for-to-wear-accessories",
+      "text": "する for \"To Wear (Accessories)\""
+    },
+    {
+      "level": 3,
+      "id": "for-selecting-or-deciding-something",
+      "text": "〜にする for Selecting or Deciding Something"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "price---for-indicating-how-much-something-costs",
+      "text": "Price + する for Indicating How Much Something Costs"
+    },
+    {
+      "level": 3,
+      "id": "for-what-you-do-for-a-living",
+      "text": "する for What You Do for a Living"
+    },
+    {
+      "level": 3,
+      "id": "for-turning--into-",
+      "text": "〜を〜にする for \"Turning … Into …\""
+    },
+    {
+      "level": 4,
+      "id": "adjective--form--",
+      "text": "〜を + い-adjective く Form + する"
+    },
+    {
+      "level": 3,
+      "id": "with-adverbs",
+      "text": "する with Adverbs"
+    },
+    {
+      "level": 3,
+      "id": "with-onomatopoeia",
+      "text": "する with Onomatopoeia"
+    },
+    {
+      "level": 3,
+      "id": "for-reporting-sensations-and-feelings",
+      "text": "〜がする for Reporting Sensations and Feelings"
+    }
+  ],
+  "id": 109,
+  "slug": "suru",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/suru/",
+  "categories": [
+    "Verb"
+  ]
+}

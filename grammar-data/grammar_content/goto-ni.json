@@ -1,0 +1,127 @@
+{
+  "title": "〜ごとに",
+  "description": "〜ごとに attaches to a noun to mean \"every ~\" or \"at each ~\" — marking regular intervals or that something applies to each member of a group.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜ごとに (from 毎（ごと）) attaches directly to a noun, often a number plus a counter, to mean \"every ~\" at regular intervals. The に is often kept but can be dropped in casual speech."
+    },
+    {
+      "type": "formula",
+      "japanese": "noun (often number ＋ counter) ＋ ごとに",
+      "english": "every ~ / at each ~"
+    },
+    {
+      "type": "example",
+      "japanese": "会社（かいしゃ）は２年（ねん）ごとに新（あたら）しいパソコンをくれます。",
+      "english": "The company gives us a new computer every two years."
+    },
+    {
+      "type": "example",
+      "japanese": "一日（いちにち）四時間（よじかん）ごとに散歩（さんぽ）に行（い）きます。",
+      "english": "I go for a walk every four hours during the day."
+    },
+    {
+      "type": "example",
+      "japanese": "オリンピックは四年（よねん）ごとに開（ひら）かれます。",
+      "english": "The Olympics are held every four years."
+    },
+    {
+      "type": "example",
+      "japanese": "この薬（くすり）は六時間（ろくじかん）ごとに飲（の）んでください。",
+      "english": "Take this medicine every six hours."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "each-member",
+      "text": "\"Each\" Meaning"
+    },
+    {
+      "type": "paragraph",
+      "text": "With a countable noun, ごとに can also mean \"each\" or \"one by one\" — the statement applies to every individual member."
+    },
+    {
+      "type": "example",
+      "japanese": "この電車（でんしゃ）は駅（えき）ごとに止（と）まります。",
+      "english": "This train stops at every station."
+    },
+    {
+      "type": "example",
+      "japanese": "人（ひと）ごとに考（かんが）え方（かた）が違（ちが）います。",
+      "english": "Each person thinks differently."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜ごとに (every X, at each X) overlaps with 〜おきに (with X in between). 一日（いちにち）ごとに means \"every day,\" but 一日（いちにち）おきに means \"every other day.\" For intervals, ごとに includes the counted unit; おきに leaves a gap of that size between events."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "noun (often number ＋ counter) ＋ ごとに",
+      "english": "every ~ / at each ~",
+      "type": "formula"
+    },
+    {
+      "japanese": "会社（かいしゃ）は２年（ねん）ごとに新（あたら）しいパソコンをくれます。",
+      "english": "The company gives us a new computer every two years."
+    },
+    {
+      "japanese": "一日（いちにち）四時間（よじかん）ごとに散歩（さんぽ）に行（い）きます。",
+      "english": "I go for a walk every four hours during the day."
+    },
+    {
+      "japanese": "オリンピックは四年（よねん）ごとに開（ひら）かれます。",
+      "english": "The Olympics are held every four years."
+    },
+    {
+      "japanese": "この薬（くすり）は六時間（ろくじかん）ごとに飲（の）んでください。",
+      "english": "Take this medicine every six hours."
+    },
+    {
+      "japanese": "この電車（でんしゃ）は駅（えき）ごとに止（と）まります。",
+      "english": "This train stops at every station."
+    },
+    {
+      "japanese": "人（ひと）ごとに考（かんが）え方（かた）が違（ちが）います。",
+      "english": "Each person thinks differently."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "each-member",
+      "text": "\"Each\" Meaning"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1039,
+  "slug": "goto-ni",
+  "categories": [
+    "Suffix"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

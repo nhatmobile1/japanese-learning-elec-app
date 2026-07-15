@@ -1,0 +1,774 @@
+{
+  "title": "だけ",
+  "description": "だけ means \"only\" and indicates the limitation or extent of something.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "だけ is a particle that means \"just\" or \"only.\" It follows another word or phrase and indicates the limit or extent of something."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's say your weak point in Japanese is kanji, and you've been focusing solely on learning it recently. To say that, you can combine 漢字（かんじ） (kanji) and だけ, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "最近（さいきん）は、漢字（かんじ）だけ勉強（べんきょう）している。",
+      "english": "Lately, I've only been studying kanji."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you only devote one hour every day to learning kanji, you can combine 一（いち）時間（じかん） (one hour) and だけ to say:"
+    },
+    {
+      "type": "example",
+      "japanese": "毎日（まいにち）、一（いち）時間（じかん）だけ勉強（べんきょう）している。",
+      "english": "I study for just one hour every day."
+    },
+    {
+      "type": "paragraph",
+      "text": "\" Just an hour!\" your friend could exclaim. Sure, we understand how difficult it is to study kanji for that long. However, the speaker might choose to add だけ if they believe it is \"only\" that much."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although だけ is attached to a noun in the examples above, it can also follow adjectives and verbs. Let's have a look at more of these types of patterns in the next section!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "だけ is a useful particle that can appear in a variety of patterns, but we'll focus on the basics in this section."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + だけ"
+    },
+    {
+      "type": "paragraph",
+      "text": "As previously seen, だけ can follow a noun . So, if all you had for breakfast was just some juice, you can use だけ to mark the noun ジュース (juice) and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "朝（あさ）ごはんはジュースだけだった。",
+      "english": "My breakfast was just some juice."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also emphasize how little you had for breakfast by specifying \"how much\" juice you had, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "朝（あさ）ごはんはジュース１杯（はい）だけだった。",
+      "english": "My breakfast was just a glass of juice."
+    },
+    {
+      "type": "paragraph",
+      "text": "In case you were not sure, 〜杯（はい） is a counter for liquids in cups, glasses, or bowls. So one glass of juice is described as １杯（はい）. In Japanese, the word signifying amount is often placed immediately after the item being counted, like ジュース１杯（はい） (one glass of juice)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective--",
+      "text": "Adjective + だけ"
+    },
+    {
+      "type": "paragraph",
+      "text": "だけ can also follow adjectives to express that something is \"just\" as the chosen adjective describes, and nothing else. Let's take a look at how this works."
+    },
+    {
+      "type": "paragraph",
+      "text": "For い-adjectives , you can directly attach だけ. Imagine you don't understand the point of saunas because to you they're just a terribly hot and uncomfortable environment. To express this, you can combine the い-adjective 暑（あつ）い (hot) with だけ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "サウナなんて、暑（あつ）いだけじゃん。",
+      "english": "Saunas are just hot (and nothing else)."
+    },
+    {
+      "type": "paragraph",
+      "text": "To use だけ with a な-adjective , first add な to the stem, and then attach だけ. 1 Let's say you're talking about a celebrity you think is just famous but not particularly noteworthy. To express that, you can use the な-adjective stem 有名（ゆうめい） (famous) with な and add だけ:"
+    },
+    {
+      "type": "example",
+      "japanese": "有名（ゆうめい）なだけでしょ？",
+      "english": "They're just famous, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜だけ shows that something or someone only has that attribute marked by だけ and no others. As you might have picked up on in the both of the examples above, だけ is often used in a negative context to imply that there is nothing distinctive about what is being described apart from the だけ-marked trait."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb--",
+      "text": "Verb + だけ"
+    },
+    {
+      "type": "paragraph",
+      "text": "だけ can also directly follow verbs . Consider the following scenario: You took your kid to a toy store yesterday to get a toy he wanted. Today, he wants to go to the store again. To emphasize that you can go to the store, but that's it (you're not buying another toy), you can use the verb 行（い）く (to go) and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "行（い）くだけだよ？",
+      "english": "We are only going (to the store and that's it), alright?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, at the toy store, your kid is laser-focused on another toy and won't budge. You remind him that you were only going to the store, not buying more toys, and he says:"
+    },
+    {
+      "type": "example",
+      "japanese": "ちょっと見（み）るだけだよ。",
+      "english": "I'm just checking it out a little."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, notice ちょっと (a little) is used. だけ often gets paired up with words like this to justify doing something trivial or just a little bit."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "clause--",
+      "text": "Clause + だけ"
+    },
+    {
+      "type": "paragraph",
+      "text": "だけ can also be attached to a sentence (or a \"clause,\" in this case) to express more complicated situations. This is called a relative clause . Here are a few examples:"
+    },
+    {
+      "type": "paragraph",
+      "text": "First, let's refer back to the previous example of the celebrity who's \"just\" famous. You want to clarify that not only is he \"just famous and nothing else,\" but that the only reason he is famous at all is because of his celebrity parents. You can use だ��� like this and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "[親（おや）が有名（ゆうめい）だった] だけ。",
+      "english": "It's just that his parents were famous (not because he did anything in particular to become famous)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The friend you're talking to doesn't seem to agree, and tries to convince you that he is, in fact, famous because he is talented. Obviously your friend is not aware of his lack of talent, but you think it's pretty common knowledge, so you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "[あんたが知（し）らない] だけで、みんな知（し）ってることだよ。",
+      "english": "You just don't know it, but everyone else knows it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Look at the brackets. See how だけ is following complete sentences in these examples and adding the meaning of \"just\" to them? It's also worth noting that relative clauses always end with the plain form as opposed to the polite form. So, clauses themselves don't end with です or ます . This is because it causes double politeness. It's a common error, so be careful!"
+    },
+    {
+      "type": "paragraph",
+      "text": "So how can you make a relative clause sound polite then? You simply add the polite form to the end of the whole sentence. Take again, for instance, the example of describing what you had for breakfast:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕ 朝（あさ）はジュースを飲（の）むだけで十分（じゅうぶん）です。 ❌ 朝（あさ）はジュースを飲（の）みますだけで十分（じゅうぶん）です。",
+      "english": "Just drinking some juice in the morning is sufficient for me."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "location-of-",
+      "text": "Location of だけ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now that you know how to attach it, the next important point to pay attention to is what だけ is attaching to because it can change the meaning of the sentence. You've already learned some differences in nuance in the previous section, but let's go over one more important example to help you understand the difference particle placement can make."
+    },
+    {
+      "type": "paragraph",
+      "text": "Take a look at how だけ is used in different positions in the sentence 朝（あさ）はジュースを飲（の）む (I drink some juice in the morning) below."
+    },
+    {
+      "type": "formula",
+      "japanese": "朝（あさ）はジュースを飲（の）むだけ。 朝（あさ）はジュースだけを飲（の）む。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "In the first example だけ follows the verb 飲（の）む (to drink), whereas it comes after the noun ジュース (juice) in the second. Can you tell the difference in meaning between them?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In both examples, ジュース is the object of the action. When the action itself — in this case 飲（の）む — is marked by だけ, it indicates \"that's the only thing you do.\" As a result, the first sentence can carry the nuance of \"I just do…, and that's all.\""
+    },
+    {
+      "type": "example",
+      "japanese": "朝（あさ）はジュースを飲（の）むだけ。",
+      "english": "In the morning, I just drink some juice, and that's all."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the object is marked by だけ as in the second example, it indicates a limitation to that object, which in this case is juice. Hence, the second sentence means:"
+    },
+    {
+      "type": "example",
+      "japanese": "朝（あさ）はジュースだけを飲（の）む。",
+      "english": "In the morning, I drink only juice."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sounds good? The difference can be subtle depending on the context, but there is a difference!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-only-this-or-that-much",
+      "text": "これだけ and それだけ for \"Only This\" or \"That Much\""
+    },
+    {
+      "type": "paragraph",
+      "text": "だけ is often used with こそあど words , such as これ (this one), それ (that one), あれ (that one over there), or どれ (which one). In this section, we'll focus on the more common これだけ and それだけ and see how they work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Consider the following scenario: you want to inform your friend that they can ignore anything else except what you're about to say. To do this, you can use これ with だけ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "これだけは聞（き）いて！",
+      "english": "Listen to me just on this one!"
+    },
+    {
+      "type": "paragraph",
+      "text": "これだけ and それだけ are also used to say \"this/that is all.\" Let's continue the same scenario. After telling your friend about something you thought was really important, your friend dismisses it as a trivial matter, saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "は？それだけ？",
+      "english": "Huh? Is that all?"
+    },
+    {
+      "type": "paragraph",
+      "text": "それだけ can be used in a variety of contexts to indicate how significant — or in the case of the previous example, how insignificant — something is. Let's say you're putting in a lot of effort studying for the JLPT (Japanese Language Proficiency Test) but you're still worried about passing. Your friend might say something like this to you to encourage you:"
+    },
+    {
+      "type": "example",
+      "japanese": "それだけがんばってれば、受（う）かるでしょ！",
+      "english": "If you're working that much, you should pass the exam!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like that, what これだけ or それだけ refer to depends on the context."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-just-by",
+      "text": "〜だけで For \"Just By…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "When だけ is used with a verb and the particle で , it means \"just by…\" Imagine it's Sunday night, and the thought of getting up for work the next morning makes you melancholy. To say that, you can use 〜だけで and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "想像（そうぞう）するだけでブルーになる。",
+      "english": "Just by imagining it, I get depressed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at a different scenario. Assume you purchased frozen chicken nuggets that will be ready 5 minutes after being microwaved. The package may state:"
+    },
+    {
+      "type": "example",
+      "japanese": "５分（ふん）チンするだけで食（た）べれます。",
+      "english": "Just by microwaving it for five minutes, it'll be ready to eat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Mmm, I wish I could have delicious chicken nuggets in just five minutes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-not-onlybut-also",
+      "text": "〜だけでなく〜も for \"Not Only…But Also…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "だけ can be used in the pattern 〜だけでなく〜も to express \"not only…but also…\" You might actually recognize the components used in this expression. To break it down, なく is ない (not) in its く form . And も is a particle that means \"too\" or \"also.\" So combined with だけ (only), it should make sense that it means \"not only…but also…\" right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, let's take a look at an example. Assume you're a teacher in a primary school. You may also see a version with 〜だけで は なく〜も. To tell your students that they should eat not only meat but also vegetables,\" you can use this pattern and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "お肉（にく）だけでなく野菜（やさい）も食（た）べましょう。",
+      "english": "It's important not only to eat your meat, but your vegetables too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note でなく or ではなく is a little formal. In more casual speech, it commonly switches to じゃ, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "お肉（にく）だけじゃなく野菜（やさい）も食（た）べましょう。",
+      "english": "It's important not only to eat your meat, but your vegetables too."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "vs-",
+      "text": "だけ vs しか"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, だけ isn't the only term that means \"only.\" しか is another one, and it's used differently than だけ. So how are they different?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most significant difference is that しか is always used with a negative ending, while だけ can be used in sentences with both positive and negative endings. しか also adds a more subjective nuance whereas だけ is more neutral and objective. Let's take a look at some examples to see what that means."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's say you come across a box of chocolates in your cupboard, but there's only one piece left. You can use either だけ or しか to describe the situation, like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "チョコレートが一（ひと）つだけある。 チョコレートが一（ひと）つしかない。",
+      "english": "There is only one chocolate."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since しか is only used in negative sentences, you see ない (to not exist) there as opposed to ある (to exist)."
+    },
+    {
+      "type": "paragraph",
+      "text": "By describing the situation with だけある, you are just stating the fact that \"there's only one chocolate.\" It is objective — there are no personal feelings or judgment. On the other hand, when using しかない, you're emphasizing how much chocolate there isn't and how small the amount is. In this case, it sounds like you are complaining that just one piece of chocolate is not enough. Say you have a brother and are anticipating a sibling feud over a piece of chocolate; in this case しかない is a more suitable choice."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, that doesn't necessarily mean しか〜ない is always used in negative context to complain about something. For example, if you live just five minutes away from the train station, you can describe that convenience by using しか〜ない:"
+    },
+    {
+      "type": "example",
+      "japanese": "駅（えき）まで歩（ある）いて５分（ふん）しかかからない。",
+      "english": "It's only a five-minute walk to the station."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, the verb かかる meaning \"to take\" for time, conjugated with a negative ending. And the combination of かからない and しか stresses how it doesn't take much time (and it's only five minutes) to walk to your apartment from the station. Because the context suggests that you're trying to express how close you live to the station, using the objective だけかかる would be an unnatural choice, even if it is grammatically correct."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take one more example. This time, you're doing some online shopping and keep coming across products that pique your interest. Your shopping cart now contains thirty items. \"Are you getting all of those?\" asks your roommate, who has just peered over your shoulder. You've already reduced the options to two in your mind, so you respond:"
+    },
+    {
+      "type": "example",
+      "japanese": "ううん、これとこれ [だけ買（か）う・しか買（か）わない]。",
+      "english": "No, I'm only buying this and this."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you say これとこれだけ買（か）う, you're simply stating that \"you're only buying this and this,\" right? On the other hand, by using しか買（か）わない, you emphasize how much you are NOT buying. It stresses your effort to limit your purchase to only those two items and nothing else. When the verb is used to explain the action you will (or will not) take, this \"limiting\" nuance is often created."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly, I want to note that だけ can actually be added to しか〜ない in all of the above examples, resulting in だけしか〜ない. In this case, だけ adds more emphasis to what it's attached to and stresses the nuance of しか〜ない based on the situation. Let's try adding だけ to しか買（か）わない in the previous example:"
+    },
+    {
+      "type": "example",
+      "japanese": "これとこれだけしか買（か）わない。",
+      "english": "I'm only buying this and this."
+    },
+    {
+      "type": "paragraph",
+      "text": "The meaning is the same, with or without だけ. What だけ does here is add another layer of emphasis to the word \"only,\" further stressing your adamant refusal to buy anything else."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "vs--1",
+      "text": "だけ vs たったの"
+    },
+    {
+      "type": "paragraph",
+      "text": "たったの is another word for \"only,\" but it's always followed by the word indicating quantity to emphasize how small the quantity is compared to the usual or expected amount. For example, if you bought a bag that cost only 100 yen, you can use たったの and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "このカバン、たったの百（ひゃく）円（えん）だったんだよ。",
+      "english": "This bag was only 100 yen."
+    },
+    {
+      "type": "paragraph",
+      "text": "To say the same thing, beginners often make a mistake, saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "❌ このカバン、百（ひゃく）円（えん）だけだったんだよ。",
+      "english": "This bag was only 100 yen."
+    },
+    {
+      "type": "paragraph",
+      "text": "But using だけ in this example sounds a bit off. That's because だけ indicates a limitation to that object neutrally and objectively, rather than expressing \"how inexpensive it is.\" If you want to use だけ, you'll need another context to express the nuance, such as 〜しか〜ない."
+    },
+    {
+      "type": "example",
+      "japanese": "このカバン、百（ひゃく）円（えん）だけしかかからなかったんだよ。",
+      "english": "This bag cost only 100 yen."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you learned in the previous section, 〜しか〜ない emphasizing how much the bag cost (in this case, 百（ひゃく）円（えん）) and how small the amount is. And when だけ is used with it, it just adds another layer of emphasis to the word \"only,\" further stressing the amount you spent. たったの can also work as an extra stress, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "このカバン、たったの百（ひゃく）円（えん）しかかからなかったんだよ。",
+      "english": "This bag cost ONLY 100 yen."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, たったの doesn't just mean \"only\" but also highlights \"how small the amount is.\" It amplify the meaning of 〜しか〜ない and it may sound that you're fully emphasizing how inexpensive the bag was."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "vs--2",
+      "text": "だけ vs のみ"
+    },
+    {
+      "type": "paragraph",
+      "text": "のみ is another word that means \"only,\" and is used similarly to だけ. For example, in the following sentence, だけ and のみ are interchangeable:"
+    },
+    {
+      "type": "example",
+      "japanese": "修正（しゅうせい）するのはこの部分（ぶぶん） [だけ・のみ] でよろしいでしょうか。",
+      "english": "Is this the only part that needs to be corrected?"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, のみ and だけ have a difference in nuance. While だけ is sort of neutral, のみ carries a more professional tone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now imagine you're at a movie theater and there's an announcement saying tickets at the door can only be purchased with cash. In this official statement, the formal のみ is more likely to be employed:"
+    },
+    {
+      "type": "example",
+      "japanese": "当日（とうじつ）券（けん）は現金（げんきん）購入（こうにゅう）のみとなります。",
+      "english": "Same-day tickets are available for cash purchase only."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now say you want to relay this information to your friend. Unless you're reading the notice out loud, you'd probably go with the casual だけ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "当日（とうじつ）券（けん）は現金（げんきん）購入（こうにゅう）だけなんだって。",
+      "english": "They say same-day tickets are available for cash purchase only."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because だけ is derived from the noun 丈（たけ） (length), you'll need to add the character な to the stem of a な-adjective to modify the particle. &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "だけ is a particle that means \"just\" or \"only.\" It follows another word or phrase and indicates the limit or extent of something.",
+    "Let's say your weak point in Japanese is kanji, and you've been focusing solely on learning it recently. To say that, you can combine 漢字（かんじ） (kanji) and だけ, like:",
+    "If you only devote one hour every day to learning kanji, you can combine 一（いち）時間（じかん） (one hour) and だけ to say:",
+    "\" Just an hour!\" your friend could exclaim. Sure, we understand how difficult it is to study kanji for that long. However, the speaker might choose to add だけ if they believe it is \"only\" that much.",
+    "Although だけ is attached to a noun in the examples above, it can also follow adjectives and verbs. Let's have a look at more of these types of patterns in the next section!",
+    "だけ is a useful particle that can appear in a variety of patterns, but we'll focus on the basics in this section.",
+    "As previously seen, だけ can follow a noun . So, if all you had for breakfast was just some juice, you can use だけ to mark the noun ジュース (juice) and say:",
+    "You can also emphasize how little you had for breakfast by specifying \"how much\" juice you had, like:",
+    "In case you were not sure, 〜杯（はい） is a counter for liquids in cups, glasses, or bowls. So one glass of juice is described as １杯（はい）. In Japanese, the word signifying amount is often placed immediately after the item being counted, like ジュース１杯（はい） (one glass of juice).",
+    "だけ can also follow adjectives to express that something is \"just\" as the chosen adjective describes, and nothing else. Let's take a look at how this works.",
+    "For い-adjectives , you can directly attach だけ. Imagine you don't understand the point of saunas because to you they're just a terribly hot and uncomfortable environment. To express this, you can combine the い-adjective 暑（あつ）い (hot) with だけ and say:",
+    "To use だけ with a な-adjective , first add な to the stem, and then attach だけ. 1 Let's say you're talking about a celebrity you think is just famous but not particularly noteworthy. To express that, you can use the な-adjective stem 有名（ゆうめい） (famous) with な and add だけ:",
+    "Here, 〜だけ shows that something or someone only has that attribute marked by だけ and no others. As you might have picked up on in the both of the examples above, だけ is often used in a negative context to imply that there is nothing distinctive about what is being described apart from the だけ-marked trait.",
+    "だけ can also directly follow verbs . Consider the following scenario: You took your kid to a toy store yesterday to get a toy he wanted. Today, he wants to go to the store again. To emphasize that you can go to the store, but that's it (you're not buying another toy), you can use the verb 行（い）く (to go) and say:",
+    "Now, at the toy store, your kid is laser-focused on another toy and won't budge. You remind him that you were only going to the store, not buying more toys, and he says:",
+    "Here, notice ちょっと (a little) is used. だけ often gets paired up with words like this to justify doing something trivial or just a little bit.",
+    "だけ can also be attached to a sentence (or a \"clause,\" in this case) to express more complicated situations. This is called a relative clause . Here are a few examples:",
+    "First, let's refer back to the previous example of the celebrity who's \"just\" famous. You want to clarify that not only is he \"just famous and nothing else,\" but that the only reason he is famous at all is because of his celebrity parents. You can use だ��� like this and say:",
+    "The friend you're talking to doesn't seem to agree, and tries to convince you that he is, in fact, famous because he is talented. Obviously your friend is not aware of his lack of talent, but you think it's pretty common knowledge, so you say:",
+    "Look at the brackets. See how だけ is following complete sentences in these examples and adding the meaning of \"just\" to them? It's also worth noting that relative clauses always end with the plain form as opposed to the polite form. So, clauses themselves don't end with です or ます . This is because it causes double politeness. It's a common error, so be careful!",
+    "So how can you make a relative clause sound polite then? You simply add the polite form to the end of the whole sentence. Take again, for instance, the example of describing what you had for breakfast:",
+    "Now that you know how to attach it, the next important point to pay attention to is what だけ is attaching to because it can change the meaning of the sentence. You've already learned some differences in nuance in the previous section, but let's go over one more important example to help you understand the difference particle placement can make.",
+    "Take a look at how だけ is used in different positions in the sentence 朝（あさ）はジュースを飲（の）む (I drink some juice in the morning) below.",
+    "In the first example だけ follows the verb 飲（の）む (to drink), whereas it comes after the noun ジュース (juice) in the second. Can you tell the difference in meaning between them?",
+    "In both examples, ジュース is the object of the action. When the action itself — in this case 飲（の）む — is marked by だけ, it indicates \"that's the only thing you do.\" As a result, the first sentence can carry the nuance of \"I just do…, and that's all.\"",
+    "When the object is marked by だけ as in the second example, it indicates a limitation to that object, which in this case is juice. Hence, the second sentence means:",
+    "Sounds good? The difference can be subtle depending on the context, but there is a difference!",
+    "だけ is often used with こそあど words , such as これ (this one), それ (that one), あれ (that one over there), or どれ (which one). In this section, we'll focus on the more common これだけ and それだけ and see how they work.",
+    "Consider the following scenario: you want to inform your friend that they can ignore anything else except what you're about to say. To do this, you can use これ with だけ and say:",
+    "これだけ and それだけ are also used to say \"this/that is all.\" Let's continue the same scenario. After telling your friend about something you thought was really important, your friend dismisses it as a trivial matter, saying:",
+    "それだけ can be used in a variety of contexts to indicate how significant — or in the case of the previous example, how insignificant — something is. Let's say you're putting in a lot of effort studying for the JLPT (Japanese Language Proficiency Test) but you're still worried about passing. Your friend might say something like this to you to encourage you:",
+    "Just like that, what これだけ or それだけ refer to depends on the context.",
+    "When だけ is used with a verb and the particle で , it means \"just by…\" Imagine it's Sunday night, and the thought of getting up for work the next morning makes you melancholy. To say that, you can use 〜だけで and say:",
+    "Let's take a look at a different scenario. Assume you purchased frozen chicken nuggets that will be ready 5 minutes after being microwaved. The package may state:",
+    "Mmm, I wish I could have delicious chicken nuggets in just five minutes.",
+    "だけ can be used in the pattern 〜だけでなく〜も to express \"not only…but also…\" You might actually recognize the components used in this expression. To break it down, なく is ない (not) in its く form . And も is a particle that means \"too\" or \"also.\" So combined with だけ (only), it should make sense that it means \"not only…but also…\" right?",
+    "Now, let's take a look at an example. Assume you're a teacher in a primary school. You may also see a version with 〜だけで は なく〜も. To tell your students that they should eat not only meat but also vegetables,\" you can use this pattern and say:",
+    "Note でなく or ではなく is a little formal. In more casual speech, it commonly switches to じゃ, as in:",
+    "In Japanese, だけ isn't the only term that means \"only.\" しか is another one, and it's used differently than だけ. So how are they different?",
+    "The most significant difference is that しか is always used with a negative ending, while だけ can be used in sentences with both positive and negative endings. しか also adds a more subjective nuance whereas だけ is more neutral and objective. Let's take a look at some examples to see what that means.",
+    "Let's say you come across a box of chocolates in your cupboard, but there's only one piece left. You can use either だけ or しか to describe the situation, like this:",
+    "Since しか is only used in negative sentences, you see ない (to not exist) there as opposed to ある (to exist).",
+    "By describing the situation with だけある, you are just stating the fact that \"there's only one chocolate.\" It is objective — there are no personal feelings or judgment. On the other hand, when using しかない, you're emphasizing how much chocolate there isn't and how small the amount is. In this case, it sounds like you are complaining that just one piece of chocolate is not enough. Say you have a brother and are anticipating a sibling feud over a piece of chocolate; in this case しかない is a more suitable choice.",
+    "However, that doesn't necessarily mean しか〜ない is always used in negative context to complain about something. For example, if you live just five minutes away from the train station, you can describe that convenience by using しか〜ない:",
+    "In this case, the verb かかる meaning \"to take\" for time, conjugated with a negative ending. And the combination of かからない and しか stresses how it doesn't take much time (and it's only five minutes) to walk to your apartment from the station. Because the context suggests that you're trying to express how close you live to the station, using the objective だけかかる would be an unnatural choice, even if it is grammatically correct.",
+    "Let's take one more example. This time, you're doing some online shopping and keep coming across products that pique your interest. Your shopping cart now contains thirty items. \"Are you getting all of those?\" asks your roommate, who has just peered over your shoulder. You've already reduced the options to two in your mind, so you respond:",
+    "If you say これとこれだけ買（か）う, you're simply stating that \"you're only buying this and this,\" right? On the other hand, by using しか買（か）わない, you emphasize how much you are NOT buying. It stresses your effort to limit your purchase to only those two items and nothing else. When the verb is used to explain the action you will (or will not) take, this \"limiting\" nuance is often created.",
+    "Lastly, I want to note that だけ can actually be added to しか〜ない in all of the above examples, resulting in だけしか〜ない. In this case, だけ adds more emphasis to what it's attached to and stresses the nuance of しか〜ない based on the situation. Let's try adding だけ to しか買（か）わない in the previous example:",
+    "The meaning is the same, with or without だけ. What だけ does here is add another layer of emphasis to the word \"only,\" further stressing your adamant refusal to buy anything else.",
+    "たったの is another word for \"only,\" but it's always followed by the word indicating quantity to emphasize how small the quantity is compared to the usual or expected amount. For example, if you bought a bag that cost only 100 yen, you can use たったの and say:",
+    "To say the same thing, beginners often make a mistake, saying:",
+    "But using だけ in this example sounds a bit off. That's because だけ indicates a limitation to that object neutrally and objectively, rather than expressing \"how inexpensive it is.\" If you want to use だけ, you'll need another context to express the nuance, such as 〜しか〜ない.",
+    "As you learned in the previous section, 〜しか〜ない emphasizing how much the bag cost (in this case, 百（ひゃく）円（えん）) and how small the amount is. And when だけ is used with it, it just adds another layer of emphasis to the word \"only,\" further stressing the amount you spent. たったの can also work as an extra stress, like:",
+    "In this case, たったの doesn't just mean \"only\" but also highlights \"how small the amount is.\" It amplify the meaning of 〜しか〜ない and it may sound that you're fully emphasizing how inexpensive the bag was.",
+    "のみ is another word that means \"only,\" and is used similarly to だけ. For example, in the following sentence, だけ and のみ are interchangeable:",
+    "However, のみ and だけ have a difference in nuance. While だけ is sort of neutral, のみ carries a more professional tone.",
+    "Now imagine you're at a movie theater and there's an announcement saying tickets at the door can only be purchased with cash. In this official statement, the formal のみ is more likely to be employed:",
+    "Now say you want to relay this information to your friend. Unless you're reading the notice out loud, you'd probably go with the casual だけ and say:",
+    "Because だけ is derived from the noun 丈（たけ） (length), you'll need to add the character な to the stem of a な-adjective to modify the particle. &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "最近（さいきん）は、漢字（かんじ）だけ勉強（べんきょう）している。",
+      "english": "Lately, I've only been studying kanji."
+    },
+    {
+      "japanese": "毎日（まいにち）、一（いち）時間（じかん）だけ勉強（べんきょう）している。",
+      "english": "I study for just one hour every day."
+    },
+    {
+      "japanese": "朝（あさ）ごはんはジュースだけだった。",
+      "english": "My breakfast was just some juice."
+    },
+    {
+      "japanese": "朝（あさ）ごはんはジュース１杯（はい）だけだった。",
+      "english": "My breakfast was just a glass of juice."
+    },
+    {
+      "japanese": "サウナなんて、暑（あつ）いだけじゃん。",
+      "english": "Saunas are just hot (and nothing else)."
+    },
+    {
+      "japanese": "有名（ゆうめい）なだけでしょ？",
+      "english": "They're just famous, right?"
+    },
+    {
+      "japanese": "行（い）くだけだよ？",
+      "english": "We are only going (to the store and that's it), alright?"
+    },
+    {
+      "japanese": "ちょっと見（み）るだけだよ。",
+      "english": "I'm just checking it out a little."
+    },
+    {
+      "japanese": "[親（おや）が有名（ゆうめい）だった] だけ。",
+      "english": "It's just that his parents were famous (not because he did anything in particular to become famous)."
+    },
+    {
+      "japanese": "[あんたが知（し）らない] だけで、みんな知（し）ってることだよ。",
+      "english": "You just don't know it, but everyone else knows it."
+    },
+    {
+      "japanese": "⭕ 朝（あさ）はジュースを飲（の）むだけで十分（じゅうぶん）です。 ❌ 朝（あさ）はジュースを飲（の）みますだけで十分（じゅうぶん）です。",
+      "english": "Just drinking some juice in the morning is sufficient for me."
+    },
+    {
+      "japanese": "朝（あさ）はジュースを飲（の）むだけ。",
+      "english": "In the morning, I just drink some juice, and that's all."
+    },
+    {
+      "japanese": "朝（あさ）はジュースだけを飲（の）む。",
+      "english": "In the morning, I drink only juice."
+    },
+    {
+      "japanese": "これだけは聞（き）いて！",
+      "english": "Listen to me just on this one!"
+    },
+    {
+      "japanese": "は？それだけ？",
+      "english": "Huh? Is that all?"
+    },
+    {
+      "japanese": "それだけがんばってれば、受（う）かるでしょ！",
+      "english": "If you're working that much, you should pass the exam!"
+    },
+    {
+      "japanese": "想像（そうぞう）するだけでブルーになる。",
+      "english": "Just by imagining it, I get depressed."
+    },
+    {
+      "japanese": "５分（ふん）チンするだけで食（た）べれます。",
+      "english": "Just by microwaving it for five minutes, it'll be ready to eat."
+    },
+    {
+      "japanese": "お肉（にく）だけでなく野菜（やさい）も食（た）べましょう。",
+      "english": "It's important not only to eat your meat, but your vegetables too."
+    },
+    {
+      "japanese": "お肉（にく）だけじゃなく野菜（やさい）も食（た）べましょう。",
+      "english": "It's important not only to eat your meat, but your vegetables too."
+    },
+    {
+      "japanese": "チョコレートが一（ひと）つだけある。 チョコレートが一（ひと）つしかない。",
+      "english": "There is only one chocolate."
+    },
+    {
+      "japanese": "駅（えき）まで歩（ある）いて５分（ふん）しかかからない。",
+      "english": "It's only a five-minute walk to the station."
+    },
+    {
+      "japanese": "ううん、これとこれ [だけ買（か）う・しか買（か）わない]。",
+      "english": "No, I'm only buying this and this."
+    },
+    {
+      "japanese": "これとこれだけしか買（か）わない。",
+      "english": "I'm only buying this and this."
+    },
+    {
+      "japanese": "このカバン、たったの百（ひゃく）円（えん）だったんだよ。",
+      "english": "This bag was only 100 yen."
+    },
+    {
+      "japanese": "❌ このカバン、百（ひゃく）円（えん）だけだったんだよ。",
+      "english": "This bag was only 100 yen."
+    },
+    {
+      "japanese": "このカバン、百（ひゃく）円（えん）だけしかかからなかったんだよ。",
+      "english": "This bag cost only 100 yen."
+    },
+    {
+      "japanese": "このカバン、たったの百（ひゃく）円（えん）しかかからなかったんだよ。",
+      "english": "This bag cost ONLY 100 yen."
+    },
+    {
+      "japanese": "修正（しゅうせい）するのはこの部分（ぶぶん） [だけ・のみ] でよろしいでしょうか。",
+      "english": "Is this the only part that needs to be corrected?"
+    },
+    {
+      "japanese": "当日（とうじつ）券（けん）は現金（げんきん）購入（こうにゅう）のみとなります。",
+      "english": "Same-day tickets are available for cash purchase only."
+    },
+    {
+      "japanese": "当日（とうじつ）券（けん）は現金（げんきん）購入（こうにゅう）だけなんだって。",
+      "english": "They say same-day tickets are available for cash purchase only."
+    },
+    {
+      "japanese": "朝（あさ）はジュースを飲（の）むだけ。 朝（あさ）はジュースだけを飲（の）む。",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + だけ"
+    },
+    {
+      "level": 4,
+      "id": "adjective--",
+      "text": "Adjective + だけ"
+    },
+    {
+      "level": 4,
+      "id": "verb--",
+      "text": "Verb + だけ"
+    },
+    {
+      "level": 4,
+      "id": "clause--",
+      "text": "Clause + だけ"
+    },
+    {
+      "level": 3,
+      "id": "location-of-",
+      "text": "Location of だけ"
+    },
+    {
+      "level": 3,
+      "id": "and--for-only-this-or-that-much",
+      "text": "これだけ and それだけ for \"Only This\" or \"That Much\""
+    },
+    {
+      "level": 3,
+      "id": "for-just-by",
+      "text": "〜だけで For \"Just By…\""
+    },
+    {
+      "level": 3,
+      "id": "for-not-onlybut-also",
+      "text": "〜だけでなく〜も for \"Not Only…But Also…\""
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "vs-",
+      "text": "だけ vs しか"
+    },
+    {
+      "level": 3,
+      "id": "vs--1",
+      "text": "だけ vs たったの"
+    },
+    {
+      "level": 3,
+      "id": "vs--2",
+      "text": "だけ vs のみ"
+    }
+  ],
+  "id": 111,
+  "slug": "dake",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/dake/",
+  "categories": [
+    "Particle"
+  ]
+}

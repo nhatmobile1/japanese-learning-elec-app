@@ -1,0 +1,455 @@
+{
+  "title": "〜たら",
+  "description": "〜たら is a conditional form. Depending on the context, it can express time sequence like \"when/after\" and conditions like \"if.\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is たら?"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜たら is a conjugation pattern which expresses a causal relationship. The action or state expressed by the sentence which precedes 〜たら is the condition of the event or situation expressed by the rest of the sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on the context, it is interpreted differently—as time sequences like \"when\" and \"after,\" or conditions like \"if.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, the time sequence interpretation is more suitable in the context below."
+    },
+    {
+      "type": "example",
+      "japanese": "A: 勉強（べんきょう）しなさい。B: ご飯（はん）食（た）べたらする。",
+      "english": "A: Do your homework.B: I'll do it after eating."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the next sentence is interpreted as conditional."
+    },
+    {
+      "type": "example",
+      "japanese": "A: 勉強（べんきょう）しなさい。B: おこづかいくれたらする。",
+      "english": "A: Do your homework.B: I'll do it if you give me allowance."
+    },
+    {
+      "type": "paragraph",
+      "text": "In either case, however, the first clause is the condition of the situation or event described in the following clause. We'll talk more about this point later."
+    },
+    {
+      "type": "paragraph",
+      "text": "To make 〜たら conjugation patterns, you first have to make present tense into past tense. You can use either the だ form or the です / ます form for verbs, nouns, and な-adjectives . Then put ら at the end. It's important to know that these conjugated patterns don't indicate if the sentence is past tense. だ Form:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Verb",
+          "食（た）べる → 食（た）べた + ら = 食（た）べたら"
+        ],
+        [
+          "Noun",
+          "夏（なつ）だ → 夏（なつ）だった + ら = 夏（なつ）だったら"
+        ],
+        [
+          "な-adjective",
+          "不安（ふあん）だ → 不安（ふあん）だった + ら = 不安（ふあん）だったら"
+        ],
+        [
+          "い-adjective",
+          "難（むずか）しい → 難（むずか）しかった + ら = 難（むずか）しかったら"
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Verb",
+          "食（た）べます → 食（た）べました + ら = 食（た）べましたら"
+        ],
+        [
+          "Noun",
+          "夏（なつ）です → 夏（なつ）でした + ら = 夏（なつ）でしたら"
+        ],
+        [
+          "な-adjective",
+          "不安（ふあん）です → 不安（ふあん）でした + ら = 不安（ふあん）でしたら"
+        ],
+        [
+          "い-adjective",
+          "N/A"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Negative Form: You can make negative versions of these patterns in the same way. You first change the negative form to negative past forms. Then you put ら at the end."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Verb",
+          "食（た）べない → 食（た）べなかった + ら = 食（た）べなかったら"
+        ],
+        [
+          "Noun",
+          "夏（なつ）じゃない → 夏（なつ）じゃなかった + ら = 夏（なつ）じゃなかったら"
+        ],
+        [
+          "な-adjective",
+          "不安（ふあん）じゃない → 不安（ふあん）じゃなかった + ら = 不安（ふあん）じゃなかったら"
+        ],
+        [
+          "い-adjective",
+          "難（むずか）しくない → 難（むずか）しくなかった + ら = 難（むずか）しくなかったら"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For negative sentences, you usually don't use the です/ます forms."
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ 食（た）べませんでしたら。 ❌ 不安（ふあん）じゃありませんでしたら。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "❌ 食（た）べませんでしたら。 ❌ 不安（ふあん）じゃありませんでしたら。"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-when-and-after",
+      "text": "たら for \"When\" and \"After\""
+    },
+    {
+      "type": "paragraph",
+      "text": "As mentioned in the beginning, 〜たら is used to provide the condition that needs to be fulfilled for other events or situations to take place. Which means the clause before 〜たら has to come first. For this reason, \"after\" is more suitable than \"when\" as a translation of the following sentence."
+    },
+    {
+      "type": "example",
+      "japanese": "走（はし）ったらストレッチをします。",
+      "english": "❌ I stretch when running. ⭕️ I stretch after running."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, there are also situations where \"when\" is more appropriate as a translation than \"after\"—when an event happens while another event is progressively happening, rather than completely done. In this case, you have to change 走（はし）ったら to 走（はし）っていたら."
+    },
+    {
+      "type": "example",
+      "japanese": "走（はし）っていたら友達（ともだち）に会（あ）った。",
+      "english": "I ran into my friend when I was running."
+    },
+    {
+      "type": "paragraph",
+      "text": "Still, the basic idea is the same—the event expressed by the clause that precedes 〜たら has to start before another event, which is described in the following clause."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another important thing to know: you cannot use 〜たら to describe something you have control over."
+    },
+    {
+      "type": "example",
+      "japanese": "勉強（べんきょう）をしたら、疲（つか）れた。",
+      "english": "I became tired after studying."
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 勉強（べんきょう）をしたら、遊（あそ）んだ。",
+      "english": "I played after studying."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first sentence indicates that studying makes you tired, which implies you had no control over the situation. But in the second sentence, you were able to control your actions after studying. In other words, the first action, studying, is not really a condition of the other action, playing, so 〜たら is not appropriate."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, this is not applied to the future tense sentences."
+    },
+    {
+      "type": "example",
+      "japanese": "卒業（そつぎょう）したら、留学（りゅうがく）する。",
+      "english": "I'll study abroad when I graduate."
+    },
+    {
+      "type": "paragraph",
+      "text": "This sentence is appropriate even though study abroad is your choice. This is because you don't have control over the actions or events of the future."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-if",
+      "text": "たら for \"If\""
+    },
+    {
+      "type": "paragraph",
+      "text": "While 〜たら always provides a condition, it is sometimes not clear how to interpret the speaker's speech. For example, this sentence can mean two things."
+    },
+    {
+      "type": "formula",
+      "japanese": "このプリン食（た）べたら、帰（かえ）ります。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "It can either mean \"I'll go back home after eating this pudding,\" or \"I'll go back home if you eat this pudding.\" To avoid miscommunication, もし(も) is often used to indicate that the sentence is meant to be conditional."
+    },
+    {
+      "type": "example",
+      "japanese": "もし(も)このプリン食（た）べたら帰（かえ）ります。",
+      "english": "❌ I'll go back home when I finish eating this pudding.⭕️ I'll go back home if you eat this pudding."
+    },
+    {
+      "type": "paragraph",
+      "text": "〜たら can also be used to describe a counterfactual situation."
+    },
+    {
+      "type": "example",
+      "japanese": "お金（かね）があったら留学（りゅうがく）するのに。",
+      "english": "If I had money, I would have studied abroad."
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）じゃなかったら出（で）かけたのに。",
+      "english": "If it had not been rainy outside, I would have gone out."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, のに is often used at the end of the sentence to emphasize the feeling of regretting the described event or situation."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-reference-and-suggestion",
+      "text": "たら for Reference and Suggestion"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use 〜たら to simply refer to someone or something. In this case, you are providing a condition for your next statement, which creates the nuance you are referring to something or someone among many others."
+    },
+    {
+      "type": "example",
+      "japanese": "コウイチだったら、外（そと）にいますよ。",
+      "english": "(If it's Koichi who you are looking for), he is outside."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use these conjugation patterns by themselves as in the following example. When using 〜たら in this way, your speech is interpreted as a suggestion."
+    },
+    {
+      "type": "example",
+      "japanese": "Koichi: お腹（なか）空（あ）いた。Kanae: このプリン食（た）べたら？",
+      "english": "Koichi: I'm hungry.Kanae: How about eating this pudding?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this conversation, Kanae is giving Koichi a condition which might solve his problem. Don't forget to add rising intonation to your voice at the end of the sentence to indicate a question. Otherwise, people will think you plan to continue the sentence."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜たら is a conjugation pattern which expresses a causal relationship. The action or state expressed by the sentence which precedes 〜たら is the condition of the event or situation expressed by the rest of the sentence.",
+    "Depending on the context, it is interpreted differently—as time sequences like \"when\" and \"after,\" or conditions like \"if.\"",
+    "For example, the time sequence interpretation is more suitable in the context below.",
+    "However, the next sentence is interpreted as conditional.",
+    "In either case, however, the first clause is the condition of the situation or event described in the following clause. We'll talk more about this point later.",
+    "To make 〜たら conjugation patterns, you first have to make present tense into past tense. You can use either the だ form or the です / ます form for verbs, nouns, and な-adjectives . Then put ら at the end. It's important to know that these conjugated patterns don't indicate if the sentence is past tense. だ Form:",
+    "Negative Form: You can make negative versions of these patterns in the same way. You first change the negative form to negative past forms. Then you put ら at the end.",
+    "For negative sentences, you usually don't use the です/ます forms.",
+    "❌ 食（た）べませんでしたら。 ❌ 不安（ふあん）じゃありませんでしたら。",
+    "As mentioned in the beginning, 〜たら is used to provide the condition that needs to be fulfilled for other events or situations to take place. Which means the clause before 〜たら has to come first. For this reason, \"after\" is more suitable than \"when\" as a translation of the following sentence.",
+    "However, there are also situations where \"when\" is more appropriate as a translation than \"after\"—when an event happens while another event is progressively happening, rather than completely done. In this case, you have to change 走（はし）ったら to 走（はし）っていたら.",
+    "Still, the basic idea is the same—the event expressed by the clause that precedes 〜たら has to start before another event, which is described in the following clause.",
+    "Another important thing to know: you cannot use 〜たら to describe something you have control over.",
+    "The first sentence indicates that studying makes you tired, which implies you had no control over the situation. But in the second sentence, you were able to control your actions after studying. In other words, the first action, studying, is not really a condition of the other action, playing, so 〜たら is not appropriate.",
+    "However, this is not applied to the future tense sentences.",
+    "This sentence is appropriate even though study abroad is your choice. This is because you don't have control over the actions or events of the future.",
+    "While 〜たら always provides a condition, it is sometimes not clear how to interpret the speaker's speech. For example, this sentence can mean two things.",
+    "It can either mean \"I'll go back home after eating this pudding,\" or \"I'll go back home if you eat this pudding.\" To avoid miscommunication, もし(も) is often used to indicate that the sentence is meant to be conditional.",
+    "〜たら can also be used to describe a counterfactual situation.",
+    "In this case, のに is often used at the end of the sentence to emphasize the feeling of regretting the described event or situation.",
+    "You can also use 〜たら to simply refer to someone or something. In this case, you are providing a condition for your next statement, which creates the nuance you are referring to something or someone among many others.",
+    "You can use these conjugation patterns by themselves as in the following example. When using 〜たら in this way, your speech is interpreted as a suggestion.",
+    "In this conversation, Kanae is giving Koichi a condition which might solve his problem. Don't forget to add rising intonation to your voice at the end of the sentence to indicate a question. Otherwise, people will think you plan to continue the sentence."
+  ],
+  "examples": [
+    {
+      "japanese": "A: 勉強（べんきょう）しなさい。B: ご飯（はん）食（た）べたらする。",
+      "english": "A: Do your homework.B: I'll do it after eating."
+    },
+    {
+      "japanese": "A: 勉強（べんきょう）しなさい。B: おこづかいくれたらする。",
+      "english": "A: Do your homework.B: I'll do it if you give me allowance."
+    },
+    {
+      "japanese": "走（はし）ったらストレッチをします。",
+      "english": "❌ I stretch when running. ⭕️ I stretch after running."
+    },
+    {
+      "japanese": "走（はし）っていたら友達（ともだち）に会（あ）った。",
+      "english": "I ran into my friend when I was running."
+    },
+    {
+      "japanese": "勉強（べんきょう）をしたら、疲（つか）れた。",
+      "english": "I became tired after studying."
+    },
+    {
+      "japanese": "❌ 勉強（べんきょう）をしたら、遊（あそ）んだ。",
+      "english": "I played after studying."
+    },
+    {
+      "japanese": "卒業（そつぎょう）したら、留学（りゅうがく）する。",
+      "english": "I'll study abroad when I graduate."
+    },
+    {
+      "japanese": "もし(も)このプリン食（た）べたら帰（かえ）ります。",
+      "english": "❌ I'll go back home when I finish eating this pudding.⭕️ I'll go back home if you eat this pudding."
+    },
+    {
+      "japanese": "お金（かね）があったら留学（りゅうがく）するのに。",
+      "english": "If I had money, I would have studied abroad."
+    },
+    {
+      "japanese": "雨（あめ）じゃなかったら出（で）かけたのに。",
+      "english": "If it had not been rainy outside, I would have gone out."
+    },
+    {
+      "japanese": "コウイチだったら、外（そと）にいますよ。",
+      "english": "(If it's Koichi who you are looking for), he is outside."
+    },
+    {
+      "japanese": "Koichi: お腹（なか）空（あ）いた。Kanae: このプリン食（た）べたら？",
+      "english": "Koichi: I'm hungry.Kanae: How about eating this pudding?"
+    },
+    {
+      "japanese": "❌ 食（た）べませんでしたら。 ❌ 不安（ふあん）じゃありませんでしたら。",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "このプリン食（た）べたら、帰（かえ）ります。",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Verb",
+        "食（た）べる → 食（た）べた + ら = 食（た）べたら"
+      ],
+      [
+        "Noun",
+        "夏（なつ）だ → 夏（なつ）だった + ら = 夏（なつ）だったら"
+      ],
+      [
+        "な-adjective",
+        "不安（ふあん）だ → 不安（ふあん）だった + ら = 不安（ふあん）だったら"
+      ],
+      [
+        "い-adjective",
+        "難（むずか）しい → 難（むずか）しかった + ら = 難（むずか）しかったら"
+      ]
+    ],
+    [
+      [
+        "Verb",
+        "食（た）べます → 食（た）べました + ら = 食（た）べましたら"
+      ],
+      [
+        "Noun",
+        "夏（なつ）です → 夏（なつ）でした + ら = 夏（なつ）でしたら"
+      ],
+      [
+        "な-adjective",
+        "不安（ふあん）です → 不安（ふあん）でした + ら = 不安（ふあん）でしたら"
+      ],
+      [
+        "い-adjective",
+        "N/A"
+      ]
+    ],
+    [
+      [
+        "Verb",
+        "食（た）べない → 食（た）べなかった + ら = 食（た）べなかったら"
+      ],
+      [
+        "Noun",
+        "夏（なつ）じゃない → 夏（なつ）じゃなかった + ら = 夏（なつ）じゃなかったら"
+      ],
+      [
+        "な-adjective",
+        "不安（ふあん）じゃない → 不安（ふあん）じゃなかった + ら = 不安（ふあん）じゃなかったら"
+      ],
+      [
+        "い-adjective",
+        "難（むずか）しくない → 難（むずか）しくなかった + ら = 難（むずか）しくなかったら"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is たら?"
+    },
+    {
+      "level": 2,
+      "id": "for-when-and-after",
+      "text": "たら for \"When\" and \"After\""
+    },
+    {
+      "level": 2,
+      "id": "for-if",
+      "text": "たら for \"If\""
+    },
+    {
+      "level": 2,
+      "id": "for-reference-and-suggestion",
+      "text": "たら for Reference and Suggestion"
+    }
+  ],
+  "id": 55,
+  "slug": "conditional-form-tara",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/conditional-form-tara/",
+  "categories": [
+    "Clause Link",
+    "Conditional",
+    "Verb Form"
+  ]
+}

@@ -1,0 +1,526 @@
+{
+  "title": "い-Adjectives",
+  "description": "い-adjectives are one type of adjective in Japanese. Their main function is to describe nouns, and they can take different ending to change their meaning.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The primary function of い-adjectives is to describe nouns. For example, a big cat is 大（おお）きい 猫（ねこ）, a beautiful painting is 美（うつく）しい 絵（え）, and an interesting book is 面白（おもしろ）い 本（ほん）. The 〜い ending that gives this type of adjective its name is just one of many possible endings. Each ending expresses a different kind of information, such as tense—present or past—and truth value—positive or negative. This is the major way in which they differ from な-adjectives , which rely on an additional word ( だ or です ) to show tense and truth information."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "adjective-stem-form",
+      "text": "い-Adjective Stem Form"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first step to fully understanding い-adjectives is to be able to find the stem form. The stem form of an い-adjective is the part of the word that always stays the same, no matter what ending the adjective takes. It’s usually quite simple to find. You just remove the ending and what is left is the stem. Let’s take a look, using the い-adjective, 安（やす）い (cheap):"
+    },
+    {
+      "type": "formula",
+      "japanese": "安（やす）い → 安（やす）い → 安（やす） 安（やす）かった → 安（やす）かった → 安（やす） 安（やす）くない → 安（やす）くない → 安（やす）",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "安（やす） い → 安（やす） い → 安（やす） 安（やす） かった → 安（やす） かった → 安（やす） 安（やす） くない → 安（やす） くない → 安（やす）"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "a-few-tricky-stem-forms",
+      "text": "A Few Tricky Stem Forms"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section",
+      "text": "良い"
+    },
+    {
+      "type": "paragraph",
+      "text": "The oh-so-useful adjective いい (good) can be a little troublesome for learners. Its kanji form 良（よ）い can be read as either いい or よい without any difference in meaning (though よい sounds more formal)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The confusion arises when we remove the 〜い ending from 良（よ）い to find its stem form. Since 良（りょう） can be read as both い and よ, what is the stem? With every other ending besides 〜い, 良（りょう） is always read as よ in standard Japanese."
+    },
+    {
+      "type": "formula",
+      "japanese": "良（よ）い ＝ いい or よい良（よ）かった ＝ only よかった良（よ）くない ＝ only よくない",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "良（よ）い ＝ いい or よい 良（よ）かった ＝ only よかった 良（よ）くない ＝ only よくない"
+    },
+    {
+      "type": "paragraph",
+      "text": "So, the stem form of いい is よ ."
+    },
+    {
+      "type": "paragraph",
+      "text": "This applies to い-adjectives that include いい, such as かっこいい (cool), which comprises 格好（かっこう） (appearance) and いい (good). When かっこいい conjugates, don’t forget to use よ as the stem of いい. For example, the past tense form is かっこ よ かった."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-1",
+      "text": "かわいい"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike かっこいい, かわいい does not include いい, despite having two い characters on the end. The kanji form of this word is 可愛（かわい）い, with only one い on the end. The first い is part of the reading of the kanji 愛（あい） (わい). So it conjugates like any other い-adjective."
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ かわよかった ⭕ かわいかった",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Making this mistake is かわいくない, so don’t do it! 😉"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now that you know all about the stem form, let’s explore the three main い-adjective endings, 〜い, 〜かった, and 〜くない. There are others to learn as well, but these three are the most important to get a handle on first."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "present-tense-",
+      "text": "Present Tense 〜い"
+    },
+    {
+      "type": "paragraph",
+      "text": "To show the present tense, い-adjectives end in 〜い. This indicates that we are talking about a time in the present or the future, since Japanese doesn't have a future tense . For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）は暑（あつ）い。",
+      "english": "Today is hot."
+    },
+    {
+      "type": "example",
+      "japanese": "明日（あした）は暑（あつ）い。",
+      "english": "Tomorrow will be hot."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "negative-",
+      "text": "Negative 〜くない"
+    },
+    {
+      "type": "paragraph",
+      "text": "To show that something is negative, the ending 〜くない replaces 〜い. For example, 面白（おもじろ） い (funny) becomes 面白（おもじろ） くない (not-funny):"
+    },
+    {
+      "type": "example",
+      "japanese": "その芸人（げいにん）は全然（ぜんぜん）面白（おもしろ）くない。",
+      "english": "That comedian isn’t funny at all."
+    },
+    {
+      "type": "example",
+      "japanese": "面白（おもしろ）くない芸人（げいにん）にはなりたくない。",
+      "english": "I don’t want to become a not-funny comedian."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "past-tense-",
+      "text": "Past Tense 〜かった"
+    },
+    {
+      "type": "paragraph",
+      "text": "To show the past tense, い-adjectives end in 〜かった . For example, 寒（かん） い (cold) becomes 寒（かん） かった (was cold):"
+    },
+    {
+      "type": "example",
+      "japanese": "昨日（きのう）は寒（さむ）かった。",
+      "english": "Yesterday was cold."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-position-of--adjectives-in-a-sentence",
+      "text": "The Position of い-Adjectives in a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "い-adjectives can be used in two different positions to describe a noun. You'll find it either at the very end of a sentence, or directly before a noun."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "at-the-end-of-a-sentence",
+      "text": "At the End of a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "When used at the end of a sentence, い-adjectives describe the subject of the sentence."
+    },
+    {
+      "type": "example",
+      "japanese": "お母（かあ）さんの料理（りょうり）はおいしい。",
+      "english": "My mother’s cooking is delicious."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, the い-adjective おいしい (delicious) comes at the end of the sentence, and it is describing the noun phrase お母（かあ）さんの料理（りょうり） (mother’s cooking)."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s very common in Japanese for the subject to be left out of the sentence if it’s clear from context. In this case, the い-adjective still describes the subject, you just have to figure out what that subject is."
+    },
+    {
+      "type": "example",
+      "japanese": "おいしい！",
+      "english": "(This) is delicious!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps you’ve just taken the first bite of your mother’s cooking, and you say this to let her know how much you like it. There’s no need to say what is delicious, because it is clear from the situation. While English requires a dummy subject like \"this\" or \"it\" in similar situations, Japanese does not require a subject for a sentence to be grammatical."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "before-a-noun",
+      "text": "Before a Noun"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike な-adjectives, which require a particle to attach to a noun, い-adjectives can appear directly before a noun without a particle between them. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "古（ふる）い車（くるま）",
+      "english": "old car"
+    },
+    {
+      "type": "paragraph",
+      "text": "These words joined together can be used anywhere that a noun can be used, such as the subject or object of a sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "古（ふる）い車（くるま）が安（やす）いですよ。",
+      "english": "Old cars are cheap."
+    },
+    {
+      "type": "example",
+      "japanese": "お父（とう）さんは古（ふる）い車（くるま）に乗（の）っています。",
+      "english": "My father drives an old car."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "fun-and-useful-facts-about--adjectives",
+      "text": "Fun (and Useful) Facts about い-Adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "い-adjectives were the very first type of adjective to appear in Japan, and are almost always wago, or native Japanese, rather than of Chinese or other origin. This is why い-adjectives tend to cover the most fundamental, \"primal\" concepts, such as basic colors and emotions, temperature, flavor, size, and so on. More complex or modern concepts are generally the realm of な-adjectives , which were imported from China much later."
+    },
+    {
+      "type": "paragraph",
+      "text": "As with most native Japanese words, い-adjectives are a closed class, which means that it's very rare for new ones to appear. New words do sometimes appear, though. These are often made by abbreviating existing い-adjectives to give new forms, while keeping the meaning of the original adjective. Some examples of this phenomena include キモい from 気持（きも）ち悪（わる）い (gross), ムズい from 難（むずか）しい (difficult) and ハズい from 恥（は）ずかしい (embarrassing)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Very occasionally, new い-adjectives can also be formed from loan words, such as エモい, from the English word \"emotion.\" Mostly used by young Japanese people, エモい can be used for anything that makes you feel moved."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether they are shortened versions of existing い-adjectives or brand new ones derived from loan words, these new い-adjectives are almost always considered colloquial or even slang."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "the-difference-between--adjectives-ending-in--and-",
+      "text": "The Difference Between い-adjectives Ending in 〜い and 〜しい"
+    },
+    {
+      "type": "paragraph",
+      "text": "い-adjectives can be divided into two broad types: those ending in 〜い and those ending in 〜しい. い-adjectives with 〜い endingsーlike 暑（あつ）い (hot), 高（たか）い (high/expensive), and 青（あお）い (blue)ーgenerally describe physical characteristics like temperature, size, and color."
+    },
+    {
+      "type": "paragraph",
+      "text": "い-adjectives with 〜しい endings, on the other hand, tend to be used for more personal, emotive or \"internal\" characteristics, such as 楽（たの）しい (fun), 苦（くる）しい (painful) and 悲（かな）しい (sad)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some 〜しい adjectives, like 美（うつく）しい (beautiful), do describe more external characteristics, but their original meaning is generally a personal emotion. In the case of 美（うつく）しい, it originally described the tender emotion we feel towards someone or something cute, and the word later developed into its modern meaning of \"beautiful.\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "adjectives-and-corresponding-verbs",
+      "text": "〜しい adjectives and Corresponding Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because 〜しい adjectives are personal and subjective, they are generally only appropriate for describing our own feelings. So we can say 楽（たの）しい when we're having fun, but not when we think someone else is having fun."
+    },
+    {
+      "type": "example",
+      "japanese": "形容詞（けいようし）の勉強（べんきょう）、楽（たの）しい！",
+      "english": "Studying い-adjectives is fun (for me)!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Many 〜しい adjectives have corresponding verbs, to allow us to talk about how other people appear to be feeling. Some examples of these verbs include 楽（たの）しむ (to have fun), 苦（くる）しむ (to suffer) and 悲（かな）しむ (to be sad)．So if Mami looks like she's having a ball studying い-adjectives, you'd want to use 楽（たの）しむ rather than 楽（たの）しい:"
+    },
+    {
+      "type": "example",
+      "japanese": "マミさん形容詞（けいようし）の勉強（べんきょう）めっちゃ楽（たの）しんでるね！",
+      "english": "Mami's having a great time studying い-adjectives, isn't she!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the adjective itself describes our own emotions, we can't use the adjective in its original form to describe Mami's emotions. If we do this, as in the following example, it gives the meaning that it's the speaker who enjoys studying, rather than Mami:"
+    },
+    {
+      "type": "example",
+      "japanese": "マミさん、形容詞（けいようし）の勉強（べんきょう）めっちゃ楽（たの）しいね！",
+      "english": "Mami, studying い-adjectives is great fun, isn't it!"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth noting that there are other ways to change い-adjectives so that we can use them for other people. The two main ways are 〜そう and 〜がる ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Hubs"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Points"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "The primary function of い-adjectives is to describe nouns. For example, a big cat is 大（おお）きい 猫（ねこ）, a beautiful painting is 美（うつく）しい 絵（え）, and an interesting book is 面白（おもしろ）い 本（ほん）. The 〜い ending that gives this type of adjective its name is just one of many possible endings. Each ending expresses a different kind of information, such as tense—present or past—and truth value—positive or negative. This is the major way in which they differ from な-adjectives , which rely on an additional word ( だ or です ) to show tense and truth information.",
+    "The first step to fully understanding い-adjectives is to be able to find the stem form. The stem form of an い-adjective is the part of the word that always stays the same, no matter what ending the adjective takes. It’s usually quite simple to find. You just remove the ending and what is left is the stem. Let’s take a look, using the い-adjective, 安（やす）い (cheap):",
+    "安（やす） い → 安（やす） い → 安（やす） 安（やす） かった → 安（やす） かった → 安（やす） 安（やす） くない → 安（やす） くない → 安（やす）",
+    "The oh-so-useful adjective いい (good) can be a little troublesome for learners. Its kanji form 良（よ）い can be read as either いい or よい without any difference in meaning (though よい sounds more formal).",
+    "The confusion arises when we remove the 〜い ending from 良（よ）い to find its stem form. Since 良（りょう） can be read as both い and よ, what is the stem? With every other ending besides 〜い, 良（りょう） is always read as よ in standard Japanese.",
+    "良（よ）い ＝ いい or よい 良（よ）かった ＝ only よかった 良（よ）くない ＝ only よくない",
+    "So, the stem form of いい is よ .",
+    "This applies to い-adjectives that include いい, such as かっこいい (cool), which comprises 格好（かっこう） (appearance) and いい (good). When かっこいい conjugates, don’t forget to use よ as the stem of いい. For example, the past tense form is かっこ よ かった.",
+    "Unlike かっこいい, かわいい does not include いい, despite having two い characters on the end. The kanji form of this word is 可愛（かわい）い, with only one い on the end. The first い is part of the reading of the kanji 愛（あい） (わい). So it conjugates like any other い-adjective.",
+    "Making this mistake is かわいくない, so don’t do it! 😉",
+    "Now that you know all about the stem form, let’s explore the three main い-adjective endings, 〜い, 〜かった, and 〜くない. There are others to learn as well, but these three are the most important to get a handle on first.",
+    "To show the present tense, い-adjectives end in 〜い. This indicates that we are talking about a time in the present or the future, since Japanese doesn't have a future tense . For example:",
+    "To show that something is negative, the ending 〜くない replaces 〜い. For example, 面白（おもじろ） い (funny) becomes 面白（おもじろ） くない (not-funny):",
+    "To show the past tense, い-adjectives end in 〜かった . For example, 寒（かん） い (cold) becomes 寒（かん） かった (was cold):",
+    "い-adjectives can be used in two different positions to describe a noun. You'll find it either at the very end of a sentence, or directly before a noun.",
+    "When used at the end of a sentence, い-adjectives describe the subject of the sentence.",
+    "In this sentence, the い-adjective おいしい (delicious) comes at the end of the sentence, and it is describing the noun phrase お母（かあ）さんの料理（りょうり） (mother’s cooking).",
+    "It’s very common in Japanese for the subject to be left out of the sentence if it’s clear from context. In this case, the い-adjective still describes the subject, you just have to figure out what that subject is.",
+    "Perhaps you’ve just taken the first bite of your mother’s cooking, and you say this to let her know how much you like it. There’s no need to say what is delicious, because it is clear from the situation. While English requires a dummy subject like \"this\" or \"it\" in similar situations, Japanese does not require a subject for a sentence to be grammatical.",
+    "Unlike な-adjectives, which require a particle to attach to a noun, い-adjectives can appear directly before a noun without a particle between them. For example:",
+    "These words joined together can be used anywhere that a noun can be used, such as the subject or object of a sentence:",
+    "い-adjectives were the very first type of adjective to appear in Japan, and are almost always wago, or native Japanese, rather than of Chinese or other origin. This is why い-adjectives tend to cover the most fundamental, \"primal\" concepts, such as basic colors and emotions, temperature, flavor, size, and so on. More complex or modern concepts are generally the realm of な-adjectives , which were imported from China much later.",
+    "As with most native Japanese words, い-adjectives are a closed class, which means that it's very rare for new ones to appear. New words do sometimes appear, though. These are often made by abbreviating existing い-adjectives to give new forms, while keeping the meaning of the original adjective. Some examples of this phenomena include キモい from 気持（きも）ち悪（わる）い (gross), ムズい from 難（むずか）しい (difficult) and ハズい from 恥（は）ずかしい (embarrassing).",
+    "Very occasionally, new い-adjectives can also be formed from loan words, such as エモい, from the English word \"emotion.\" Mostly used by young Japanese people, エモい can be used for anything that makes you feel moved.",
+    "Whether they are shortened versions of existing い-adjectives or brand new ones derived from loan words, these new い-adjectives are almost always considered colloquial or even slang.",
+    "い-adjectives can be divided into two broad types: those ending in 〜い and those ending in 〜しい. い-adjectives with 〜い endingsーlike 暑（あつ）い (hot), 高（たか）い (high/expensive), and 青（あお）い (blue)ーgenerally describe physical characteristics like temperature, size, and color.",
+    "い-adjectives with 〜しい endings, on the other hand, tend to be used for more personal, emotive or \"internal\" characteristics, such as 楽（たの）しい (fun), 苦（くる）しい (painful) and 悲（かな）しい (sad).",
+    "Some 〜しい adjectives, like 美（うつく）しい (beautiful), do describe more external characteristics, but their original meaning is generally a personal emotion. In the case of 美（うつく）しい, it originally described the tender emotion we feel towards someone or something cute, and the word later developed into its modern meaning of \"beautiful.\"",
+    "Because 〜しい adjectives are personal and subjective, they are generally only appropriate for describing our own feelings. So we can say 楽（たの）しい when we're having fun, but not when we think someone else is having fun.",
+    "Many 〜しい adjectives have corresponding verbs, to allow us to talk about how other people appear to be feeling. Some examples of these verbs include 楽（たの）しむ (to have fun), 苦（くる）しむ (to suffer) and 悲（かな）しむ (to be sad)．So if Mami looks like she's having a ball studying い-adjectives, you'd want to use 楽（たの）しむ rather than 楽（たの）しい:",
+    "Because the adjective itself describes our own emotions, we can't use the adjective in its original form to describe Mami's emotions. If we do this, as in the following example, it gives the meaning that it's the speaker who enjoys studying, rather than Mami:",
+    "It's worth noting that there are other ways to change い-adjectives so that we can use them for other people. The two main ways are 〜そう and 〜がる ."
+  ],
+  "examples": [
+    {
+      "japanese": "今日（きょう）は暑（あつ）い。",
+      "english": "Today is hot."
+    },
+    {
+      "japanese": "明日（あした）は暑（あつ）い。",
+      "english": "Tomorrow will be hot."
+    },
+    {
+      "japanese": "その芸人（げいにん）は全然（ぜんぜん）面白（おもしろ）くない。",
+      "english": "That comedian isn’t funny at all."
+    },
+    {
+      "japanese": "面白（おもしろ）くない芸人（げいにん）にはなりたくない。",
+      "english": "I don’t want to become a not-funny comedian."
+    },
+    {
+      "japanese": "昨日（きのう）は寒（さむ）かった。",
+      "english": "Yesterday was cold."
+    },
+    {
+      "japanese": "お母（かあ）さんの料理（りょうり）はおいしい。",
+      "english": "My mother’s cooking is delicious."
+    },
+    {
+      "japanese": "おいしい！",
+      "english": "(This) is delicious!"
+    },
+    {
+      "japanese": "古（ふる）い車（くるま）",
+      "english": "old car"
+    },
+    {
+      "japanese": "古（ふる）い車（くるま）が安（やす）いですよ。",
+      "english": "Old cars are cheap."
+    },
+    {
+      "japanese": "お父（とう）さんは古（ふる）い車（くるま）に乗（の）っています。",
+      "english": "My father drives an old car."
+    },
+    {
+      "japanese": "形容詞（けいようし）の勉強（べんきょう）、楽（たの）しい！",
+      "english": "Studying い-adjectives is fun (for me)!"
+    },
+    {
+      "japanese": "マミさん形容詞（けいようし）の勉強（べんきょう）めっちゃ楽（たの）しんでるね！",
+      "english": "Mami's having a great time studying い-adjectives, isn't she!"
+    },
+    {
+      "japanese": "マミさん、形容詞（けいようし）の勉強（べんきょう）めっちゃ楽（たの）しいね！",
+      "english": "Mami, studying い-adjectives is great fun, isn't it!"
+    },
+    {
+      "japanese": "安（やす）い → 安（やす）い → 安（やす） 安（やす）かった → 安（やす）かった → 安（やす） 安（やす）くない → 安（やす）くない → 安（やす）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "良（よ）い ＝ いい or よい良（よ）かった ＝ only よかった良（よ）くない ＝ only よくない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "❌ かわよかった ⭕ かわいかった",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "adjective-stem-form",
+      "text": "い-Adjective Stem Form"
+    },
+    {
+      "level": 3,
+      "id": "a-few-tricky-stem-forms",
+      "text": "A Few Tricky Stem Forms"
+    },
+    {
+      "level": 4,
+      "id": "section",
+      "text": "良い"
+    },
+    {
+      "level": 4,
+      "id": "section-1",
+      "text": "かわいい"
+    },
+    {
+      "level": 3,
+      "id": "present-tense-",
+      "text": "Present Tense 〜い"
+    },
+    {
+      "level": 3,
+      "id": "negative-",
+      "text": "Negative 〜くない"
+    },
+    {
+      "level": 3,
+      "id": "past-tense-",
+      "text": "Past Tense 〜かった"
+    },
+    {
+      "level": 2,
+      "id": "the-position-of--adjectives-in-a-sentence",
+      "text": "The Position of い-Adjectives in a Sentence"
+    },
+    {
+      "level": 3,
+      "id": "at-the-end-of-a-sentence",
+      "text": "At the End of a Sentence"
+    },
+    {
+      "level": 3,
+      "id": "before-a-noun",
+      "text": "Before a Noun"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "fun-and-useful-facts-about--adjectives",
+      "text": "Fun (and Useful) Facts about い-Adjectives"
+    },
+    {
+      "level": 3,
+      "id": "the-difference-between--adjectives-ending-in--and-",
+      "text": "The Difference Between い-adjectives Ending in 〜い and 〜しい"
+    },
+    {
+      "level": 3,
+      "id": "adjectives-and-corresponding-verbs",
+      "text": "〜しい adjectives and Corresponding Verbs"
+    }
+  ],
+  "id": 88,
+  "slug": "i-adjective",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/i-adjective/",
+  "categories": [
+    "Adjective Form"
+  ]
+}

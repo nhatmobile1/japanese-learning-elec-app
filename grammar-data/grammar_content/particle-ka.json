@@ -1,0 +1,495 @@
+{
+  "title": "Particle か",
+  "description": "か indicates that something is unknown. It's used to form questions, indefinite pronouns, and lists of alternatives.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "We often think of particle か as \"the Japanese question mark,\" but it's actually a marker of the unknown. It can be used to mark a sentence as a question, or to express alternatives, like \"either … or …\" in English. We can also add か to a question word to form an indefinite pronoun, as in 誰（だれ） (who) + か = 誰（だれ）か (someone). If you keep in mind that か marks the unknown, then you can see how these different uses are all related!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-asking-questions",
+      "text": "か for Asking Questions"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's very simple to form a question sentence in Japanese. Simply adding か to the end of a sentence does the trick."
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）は暑（あつ）いです。",
+      "english": "It is hot out today."
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）は暑（あつ）いです + か。",
+      "english": "Is it hot out today?"
+    },
+    {
+      "type": "paragraph",
+      "text": "That's all it takes! In English, we have to switch the word order to form a question — notice how \"it\" and \"is\" switch places in the translation? In Japanese, there is no such requirement. Just add か! You may have also noticed that the Japanese question has the same punctuation as the statement. Traditionally, written questions in Japanese still end in \"。\" since the か particle is enough to signal that the sentence is a question. Nowadays though, you'll see \"？\" replace \"。\" in a lot of informal writing."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-alternatives",
+      "text": "か for Alternatives"
+    },
+    {
+      "type": "paragraph",
+      "text": "The next use of か we'll look at is how they mark two or more elements as alternatives. This is kind of like using \"either … or …\" in English."
+    },
+    {
+      "type": "example",
+      "japanese": "誕生（たんじょう）日（び）は [お母（かあ）さんか] [お父（とう）さんか] がケーキを作（つく）ってくれる。",
+      "english": "On my birthday, either my mom or my dad will make me a cake."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you keep in mind that か is not a question marker, but a marker of the unknown, this use makes a lot of sense, right? In the example sentence, it's unknown whether it's your mom or your dad who will make the cake."
+    },
+    {
+      "type": "paragraph",
+      "text": "If a particle like が or を follows a list of alternatives, you'll usually drop either that particle or particle か. In the example above, the alternatives listed (my mom or my dad) are the subject of the sentence, so they are marked with particle が. Our sentence will be most natural if we drop one of these, か or が:"
+    },
+    {
+      "type": "example",
+      "japanese": "誕生（たんじょう）日（び）はお母（かあ）さんかお父（とう）さん (か / が) ケーキを作（つく）ってくれる。",
+      "english": "On my birthday, either my mom or my dad will make me a cake."
+    },
+    {
+      "type": "paragraph",
+      "text": "This also applies if the alternatives are the object of the sentence, in which case they're typically marked with particle を. Again, it's most natural to choose one:"
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）はカレーかパスタ (か / を) 作（つく）ると思（おも）う。",
+      "english": "I think I'll make either curry or pasta today."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-indefinite-pronouns",
+      "text": "か for Indefinite Pronouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "This next use of か also draws on its role as a marker of the unknown. If you add か to the end of a question word, it transforms it into an indefinite pronoun. An indefinite pronoun is a word that replaces a noun, and leaves the identity of that noun unknown. In English, these are words like \"something,\" \"someone,\" and \"somewhere.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "誰（だれ） + か = 誰（だれ）か who (ka) someone",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "誰（だれ） + か = 誰（だれ）か who ( ka ) someone"
+    },
+    {
+      "type": "formula",
+      "japanese": "何（なに） + か = 何（なに）か what (ka) something",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "何（なに） + か = 何（なに）か what ( ka ) something"
+    },
+    {
+      "type": "formula",
+      "japanese": "いつ + か = いつか when (ka) sometime",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "いつ + か = いつか when ( ka ) sometime"
+    },
+    {
+      "type": "formula",
+      "japanese": "どこ + か = どこか where (ka) somewhere",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "どこ + か = どこか where ( ka ) somewhere"
+    },
+    {
+      "type": "paragraph",
+      "text": "Indefinite pronouns can be used anywhere that a typical noun could be, such as the subject or object of a sentence."
+    },
+    {
+      "type": "example",
+      "japanese": "誰（だれ）かがいると思（おも）う。",
+      "english": "I think someone is here."
+    },
+    {
+      "type": "example",
+      "japanese": "誕生（たんじょう）日（び）だから、何（なに）か買（か）ってあげようよ。",
+      "english": "It's their birthday, so let's buy something for them."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "intonation-of--in-questions",
+      "text": "Intonation of か in Questions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember how we said か isn't a question marker, but a marker of the unknown? Well we're really gonna dive into that idea in this section! The nuance that か adds to a sentence often hinges on whether it's pronounced with rising or falling intonation. Let's check it out."
+    },
+    {
+      "type": "example",
+      "japanese": "何（なん）時（じ）に食（た）べに行（い）きますか？",
+      "english": "What time shall we go out to eat?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This sentence is in the polite form, marked by the 〜ます ending on the verb, 食（た）べます. When a question is asked in the polite form, adding か to the end is pretty standard. When か is added to a question in the plain form however, it can sound very direct, especially if pronounced with rising intonation. This isn't a particularly common way to ask questions, but is found in masculine Japanese."
+    },
+    {
+      "type": "example",
+      "japanese": "もう行（い）ったか？",
+      "english": "Did you already go?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If か is pronounced with falling intonation though, it changes the meaning from an actual question, to an acknowledgment of new information, or a realization."
+    },
+    {
+      "type": "example",
+      "japanese": "もう行（い）ったか。",
+      "english": "Oh, they already went."
+    },
+    {
+      "type": "paragraph",
+      "text": "This か is still considered a marker of \"not knowing,\" in that you are indicating you didn't know the information up until that moment. You might say もう行（い）ったか to yourself when you realize you've been left behind. These self-directed, rhetorical questions are common in Japanese, and are pronounced with falling intonation:"
+    },
+    {
+      "type": "example",
+      "japanese": "そうか。",
+      "english": "Is that so."
+    },
+    {
+      "type": "paragraph",
+      "text": "そうか is a pretty ubiquitous example of how intonation is more important than か in questions. While falling intonation makes it a statement, like \"is that so\" or \"I see,\" the meaning changes with rising intonation:"
+    },
+    {
+      "type": "example",
+      "japanese": "そうか？",
+      "english": "Is that so? 🤔"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pronounced with rising intonation, そうか suggests that you are questioning what someone just said to you. Depending on the context, you might actually not believe they're correct about what they said, or you might just be challenging them in jest. Be careful though, this use of そうか could come across quite strong or rude with someone you aren't close to."
+    },
+    {
+      "type": "paragraph",
+      "text": "In summary, it is rising intonation, not particle か, that indicates a question in spoken Japanese. For this reason, you can ask a question with nothing more than rising intonation, both in the plain and the polite form."
+    },
+    {
+      "type": "example",
+      "japanese": "何（なん）時（じ）に食（た）べに行（い）きます？",
+      "english": "What time shall we go out to eat?"
+    },
+    {
+      "type": "example",
+      "japanese": "そろそろ行（い）く？",
+      "english": "Is it about time we go?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-embedded-clauses",
+      "text": "か in Embedded Clauses"
+    },
+    {
+      "type": "paragraph",
+      "text": "An embedded clause is kind of like a sentence within a sentence. If the clause you want to embed is expressing something unknown, you can use か to embed - in other words, insert - that clause into another sentence. The clause you insert might be an \"embedded question,\" or \"embedded alternatives.\" We'll start off by looking at embedded questions."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "embedded-questions",
+      "text": "Embedded Questions"
+    },
+    {
+      "type": "example",
+      "japanese": "キャメロンがウェイターに [グラスワインはいくらか] と聞（き）きました。",
+      "english": "Cameron asked the waiter how much a glass of wine is."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, we see that the question グラスワインはいくらか is embedded inside the larger sentence キャメロンがウェイターに[〜]と聞（き）きました. Particle と, which is used to make both direct and indirect quotations, appears immediately after the embedded question. Since both か and と indicate the end of the embedded clause, we don't necessarily need to keep both in the sentence. One option is to drop particle と:"
+    },
+    {
+      "type": "example",
+      "japanese": "キャメロンがウェイターに [グラスワインはいくらか] ＿聞（き）きました。",
+      "english": "Cameron asked the waiter how much a glass of wine is."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the previous section, we talked about how a question in the plain form usually does not take か, because it can sound overly direct, and potentially rude. In an indirect quotation though, this effect is not present. か in an embedded question just helps to clarify that the embedded clause is in fact a question, without adding any nuance."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, since the embedded clause in this case contains the question word いくら (how much) and the main verb of the larger sentence is 聞（き）きます (ask), it's pretty clear even without か that the embedded clause is a question. For this reason, we can also choose to drop か and leave と in the sentence instead:"
+    },
+    {
+      "type": "example",
+      "japanese": "キャメロンがウェイターに [グラスワインはいくら＿] と聞（き）きました。",
+      "english": "Cameron asked the waiter, \"how much is a glass of wine?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Without か, this sentence sounds a bit more like a direct quote (notice the quotation marks in the English translation). This is because asking questions in the plain form without か (and using rising intonation) is a common way to ask questions, so this could be a direct quote of the way Cameron asked the waiter his question. Particle と reinforces this, since it is a marker of quotation. The resulting nuance is that Cameron sounds a bit overly casual with the waiter. Typically, it is more appropriate to ask questions to people you don't know in the polite form, so グラスワインはいくら ですか would be more appropriate."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "embedded-alternatives",
+      "text": "Embedded Alternatives"
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to embedding a question clause, you can also embed clauses into a sentence as alternatives. In this case, か works similarly to \"whether … or …\" in English. Since we're no longer quoting anyone, we won't use particle と this time."
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）は [赤（あか）ワインにするか] [白（しろ）ワインにするか] まだ決（き）まってない。",
+      "english": "I haven't decided whether I'll have red wine or I'll have white wine today."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also embed only one clause with か to express something like \"if\" in English:"
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）は [まみさんも来（く）るか] 知（し）ってる？",
+      "english": "Do you know if Mami is coming today?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you can optionally add in どうか as well to mean something equivalent to \"or not\" in English:"
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）はまみさんも来（く）るかどうか知（し）ってる？",
+      "english": "Do you know if Mami is coming or not today?"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "We often think of particle か as \"the Japanese question mark,\" but it's actually a marker of the unknown. It can be used to mark a sentence as a question, or to express alternatives, like \"either … or …\" in English. We can also add か to a question word to form an indefinite pronoun, as in 誰（だれ） (who) + か = 誰（だれ）か (someone). If you keep in mind that か marks the unknown, then you can see how these different uses are all related!",
+    "It's very simple to form a question sentence in Japanese. Simply adding か to the end of a sentence does the trick.",
+    "That's all it takes! In English, we have to switch the word order to form a question — notice how \"it\" and \"is\" switch places in the translation? In Japanese, there is no such requirement. Just add か! You may have also noticed that the Japanese question has the same punctuation as the statement. Traditionally, written questions in Japanese still end in \"。\" since the か particle is enough to signal that the sentence is a question. Nowadays though, you'll see \"？\" replace \"。\" in a lot of informal writing.",
+    "The next use of か we'll look at is how they mark two or more elements as alternatives. This is kind of like using \"either … or …\" in English.",
+    "If you keep in mind that か is not a question marker, but a marker of the unknown, this use makes a lot of sense, right? In the example sentence, it's unknown whether it's your mom or your dad who will make the cake.",
+    "If a particle like が or を follows a list of alternatives, you'll usually drop either that particle or particle か. In the example above, the alternatives listed (my mom or my dad) are the subject of the sentence, so they are marked with particle が. Our sentence will be most natural if we drop one of these, か or が:",
+    "This also applies if the alternatives are the object of the sentence, in which case they're typically marked with particle を. Again, it's most natural to choose one:",
+    "This next use of か also draws on its role as a marker of the unknown. If you add か to the end of a question word, it transforms it into an indefinite pronoun. An indefinite pronoun is a word that replaces a noun, and leaves the identity of that noun unknown. In English, these are words like \"something,\" \"someone,\" and \"somewhere.\"",
+    "誰（だれ） + か = 誰（だれ）か who ( ka ) someone",
+    "何（なに） + か = 何（なに）か what ( ka ) something",
+    "いつ + か = いつか when ( ka ) sometime",
+    "どこ + か = どこか where ( ka ) somewhere",
+    "Indefinite pronouns can be used anywhere that a typical noun could be, such as the subject or object of a sentence.",
+    "Remember how we said か isn't a question marker, but a marker of the unknown? Well we're really gonna dive into that idea in this section! The nuance that か adds to a sentence often hinges on whether it's pronounced with rising or falling intonation. Let's check it out.",
+    "This sentence is in the polite form, marked by the 〜ます ending on the verb, 食（た）べます. When a question is asked in the polite form, adding か to the end is pretty standard. When か is added to a question in the plain form however, it can sound very direct, especially if pronounced with rising intonation. This isn't a particularly common way to ask questions, but is found in masculine Japanese.",
+    "If か is pronounced with falling intonation though, it changes the meaning from an actual question, to an acknowledgment of new information, or a realization.",
+    "This か is still considered a marker of \"not knowing,\" in that you are indicating you didn't know the information up until that moment. You might say もう行（い）ったか to yourself when you realize you've been left behind. These self-directed, rhetorical questions are common in Japanese, and are pronounced with falling intonation:",
+    "そうか is a pretty ubiquitous example of how intonation is more important than か in questions. While falling intonation makes it a statement, like \"is that so\" or \"I see,\" the meaning changes with rising intonation:",
+    "Pronounced with rising intonation, そうか suggests that you are questioning what someone just said to you. Depending on the context, you might actually not believe they're correct about what they said, or you might just be challenging them in jest. Be careful though, this use of そうか could come across quite strong or rude with someone you aren't close to.",
+    "In summary, it is rising intonation, not particle か, that indicates a question in spoken Japanese. For this reason, you can ask a question with nothing more than rising intonation, both in the plain and the polite form.",
+    "An embedded clause is kind of like a sentence within a sentence. If the clause you want to embed is expressing something unknown, you can use か to embed - in other words, insert - that clause into another sentence. The clause you insert might be an \"embedded question,\" or \"embedded alternatives.\" We'll start off by looking at embedded questions.",
+    "In this example, we see that the question グラスワインはいくらか is embedded inside the larger sentence キャメロンがウェイターに[〜]と聞（き）きました. Particle と, which is used to make both direct and indirect quotations, appears immediately after the embedded question. Since both か and と indicate the end of the embedded clause, we don't necessarily need to keep both in the sentence. One option is to drop particle と:",
+    "In the previous section, we talked about how a question in the plain form usually does not take か, because it can sound overly direct, and potentially rude. In an indirect quotation though, this effect is not present. か in an embedded question just helps to clarify that the embedded clause is in fact a question, without adding any nuance.",
+    "However, since the embedded clause in this case contains the question word いくら (how much) and the main verb of the larger sentence is 聞（き）きます (ask), it's pretty clear even without か that the embedded clause is a question. For this reason, we can also choose to drop か and leave と in the sentence instead:",
+    "Without か, this sentence sounds a bit more like a direct quote (notice the quotation marks in the English translation). This is because asking questions in the plain form without か (and using rising intonation) is a common way to ask questions, so this could be a direct quote of the way Cameron asked the waiter his question. Particle と reinforces this, since it is a marker of quotation. The resulting nuance is that Cameron sounds a bit overly casual with the waiter. Typically, it is more appropriate to ask questions to people you don't know in the polite form, so グラスワインはいくら ですか would be more appropriate.",
+    "In addition to embedding a question clause, you can also embed clauses into a sentence as alternatives. In this case, か works similarly to \"whether … or …\" in English. Since we're no longer quoting anyone, we won't use particle と this time.",
+    "You can also embed only one clause with か to express something like \"if\" in English:",
+    "In this case, you can optionally add in どうか as well to mean something equivalent to \"or not\" in English:"
+  ],
+  "examples": [
+    {
+      "japanese": "今日（きょう）は暑（あつ）いです。",
+      "english": "It is hot out today."
+    },
+    {
+      "japanese": "今日（きょう）は暑（あつ）いです + か。",
+      "english": "Is it hot out today?"
+    },
+    {
+      "japanese": "誕生（たんじょう）日（び）は [お母（かあ）さんか] [お父（とう）さんか] がケーキを作（つく）ってくれる。",
+      "english": "On my birthday, either my mom or my dad will make me a cake."
+    },
+    {
+      "japanese": "誕生（たんじょう）日（び）はお母（かあ）さんかお父（とう）さん (か / が) ケーキを作（つく）ってくれる。",
+      "english": "On my birthday, either my mom or my dad will make me a cake."
+    },
+    {
+      "japanese": "今日（きょう）はカレーかパスタ (か / を) 作（つく）ると思（おも）う。",
+      "english": "I think I'll make either curry or pasta today."
+    },
+    {
+      "japanese": "誰（だれ）かがいると思（おも）う。",
+      "english": "I think someone is here."
+    },
+    {
+      "japanese": "誕生（たんじょう）日（び）だから、何（なに）か買（か）ってあげようよ。",
+      "english": "It's their birthday, so let's buy something for them."
+    },
+    {
+      "japanese": "何（なん）時（じ）に食（た）べに行（い）きますか？",
+      "english": "What time shall we go out to eat?"
+    },
+    {
+      "japanese": "もう行（い）ったか？",
+      "english": "Did you already go?"
+    },
+    {
+      "japanese": "もう行（い）ったか。",
+      "english": "Oh, they already went."
+    },
+    {
+      "japanese": "そうか。",
+      "english": "Is that so."
+    },
+    {
+      "japanese": "そうか？",
+      "english": "Is that so? 🤔"
+    },
+    {
+      "japanese": "何（なん）時（じ）に食（た）べに行（い）きます？",
+      "english": "What time shall we go out to eat?"
+    },
+    {
+      "japanese": "そろそろ行（い）く？",
+      "english": "Is it about time we go?"
+    },
+    {
+      "japanese": "キャメロンがウェイターに [グラスワインはいくらか] と聞（き）きました。",
+      "english": "Cameron asked the waiter how much a glass of wine is."
+    },
+    {
+      "japanese": "キャメロンがウェイターに [グラスワインはいくらか] ＿聞（き）きました。",
+      "english": "Cameron asked the waiter how much a glass of wine is."
+    },
+    {
+      "japanese": "キャメロンがウェイターに [グラスワインはいくら＿] と聞（き）きました。",
+      "english": "Cameron asked the waiter, \"how much is a glass of wine?\""
+    },
+    {
+      "japanese": "今日（きょう）は [赤（あか）ワインにするか] [白（しろ）ワインにするか] まだ決（き）まってない。",
+      "english": "I haven't decided whether I'll have red wine or I'll have white wine today."
+    },
+    {
+      "japanese": "今日（きょう）は [まみさんも来（く）るか] 知（し）ってる？",
+      "english": "Do you know if Mami is coming today?"
+    },
+    {
+      "japanese": "今日（きょう）はまみさんも来（く）るかどうか知（し）ってる？",
+      "english": "Do you know if Mami is coming or not today?"
+    },
+    {
+      "japanese": "誰（だれ） + か = 誰（だれ）か who (ka) someone",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "何（なに） + か = 何（なに）か what (ka) something",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "いつ + か = いつか when (ka) sometime",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "どこ + か = どこか where (ka) somewhere",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-asking-questions",
+      "text": "か for Asking Questions"
+    },
+    {
+      "level": 3,
+      "id": "for-alternatives",
+      "text": "か for Alternatives"
+    },
+    {
+      "level": 3,
+      "id": "for-indefinite-pronouns",
+      "text": "か for Indefinite Pronouns"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "intonation-of--in-questions",
+      "text": "Intonation of か in Questions"
+    },
+    {
+      "level": 3,
+      "id": "in-embedded-clauses",
+      "text": "か in Embedded Clauses"
+    },
+    {
+      "level": 4,
+      "id": "embedded-questions",
+      "text": "Embedded Questions"
+    },
+    {
+      "level": 4,
+      "id": "embedded-alternatives",
+      "text": "Embedded Alternatives"
+    }
+  ],
+  "id": 14,
+  "slug": "particle-ka",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-ka/",
+  "categories": [
+    "Particle"
+  ]
+}

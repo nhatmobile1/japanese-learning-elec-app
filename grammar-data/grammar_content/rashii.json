@@ -1,0 +1,138 @@
+{
+  "title": "〜らしい",
+  "description": "〜らしい means \"seems like\" or \"apparently\" — a conjecture based on information you've gathered from outside (hearsay, reports, reputation). It can also work as a suffix meaning \"typical of\" or \"-like.\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜らしい draws a conclusion from indirect evidence — something you heard, read, or picked up secondhand. It's like saying \"apparently\" or \"it seems.\" Attach it to the plain form of verbs and い-adjectives; for nouns and な-adjectives, attach it directly with no だ: 学生（がくせい）らしい, 静（しず）からしい. There's a slight sense of detachment — you're passing on what you gathered without fully committing to it."
+    },
+    {
+      "type": "formula",
+      "japanese": "plain form ＋ らしい　（noun・な-adj: drop だ）　＝ seems / apparently",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "彼女（かのじょ）は疲（つか）れているらしい。",
+      "english": "She seems to be tired."
+    },
+    {
+      "type": "example",
+      "japanese": "田中（たなか）さんは来月（らいげつ）結婚（けっこん）するらしい。",
+      "english": "Apparently Tanaka is getting married next month."
+    },
+    {
+      "type": "example",
+      "japanese": "この店（みせ）のラーメンはおいしいらしい。",
+      "english": "I hear this shop's ramen is really good."
+    },
+    {
+      "type": "example",
+      "japanese": "明日（あした）は雪（ゆき）が降（ふ）るらしいよ。",
+      "english": "Apparently it's going to snow tomorrow."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "suffix-rashii",
+      "text": "The Suffix 〜らしい (\"-like\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attached directly to a noun, 〜らしい takes on a different meaning: \"typical of\" or \"befitting.\" 男（おとこ）らしい means \"manly\" (as a man ideally is), and 春（はる）らしい means \"spring-like.\" Here it praises something for fully embodying the qualities of that noun."
+    },
+    {
+      "type": "formula",
+      "japanese": "noun ＋ らしい　＝ typical of / a proper 〜",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）はとても男（おとこ）らしい。",
+      "english": "He's very manly."
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）は春（はる）らしい暖（あたた）かい天気（てんき）だ。",
+      "english": "Today has nice, spring-like warm weather."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "rashii-vs-you-da",
+      "text": "らしい vs ようだ vs そうだ"
+    },
+    {
+      "type": "paragraph",
+      "text": "All three express uncertainty, but the source differs. 〜らしい leans on outside information (rumor, reports) and keeps some distance. 〜ようだ is your own reasoned judgment from what you directly observe, so it feels more personal and committed. Hearsay 〜そうだ is a straight relay of what you heard, with no inference added. If you saw the wet umbrellas yourself you'd say 雨（あめ）が降（ふ）ったようだ; if a friend told you, 雨（あめ）が降（ふ）ったらしい."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "plain form ＋ らしい　（noun・な-adj: drop だ）　＝ seems / apparently",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "彼女（かのじょ）は疲（つか）れているらしい。",
+      "english": "She seems to be tired."
+    },
+    {
+      "japanese": "田中（たなか）さんは来月（らいげつ）結婚（けっこん）するらしい。",
+      "english": "Apparently Tanaka is getting married next month."
+    },
+    {
+      "japanese": "この店（みせ）のラーメンはおいしいらしい。",
+      "english": "I hear this shop's ramen is really good."
+    },
+    {
+      "japanese": "明日（あした）は雪（ゆき）が降（ふ）るらしいよ。",
+      "english": "Apparently it's going to snow tomorrow."
+    },
+    {
+      "japanese": "noun ＋ らしい　＝ typical of / a proper 〜",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "彼（かれ）はとても男（おとこ）らしい。",
+      "english": "He's very manly."
+    },
+    {
+      "japanese": "今日（きょう）は春（はる）らしい暖（あたた）かい天気（てんき）だ。",
+      "english": "Today has nice, spring-like warm weather."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "suffix-rashii",
+      "text": "The Suffix 〜らしい (\"-like\")"
+    },
+    {
+      "level": 2,
+      "id": "rashii-vs-you-da",
+      "text": "らしい vs ようだ vs そうだ"
+    }
+  ],
+  "id": 1008,
+  "slug": "rashii",
+  "categories": [
+    "Phrase",
+    "Uncertainty"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

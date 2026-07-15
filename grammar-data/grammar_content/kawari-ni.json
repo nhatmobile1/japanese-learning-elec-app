@@ -1,0 +1,127 @@
+{
+  "title": "〜かわりに",
+  "description": "〜かわりに (代（か）わりに) means \"instead of ~\" or \"in exchange for ~\" — it swaps one thing for another, or balances one thing against a trade-off.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "With a noun, use 名詞（めいし）＋の＋かわりに to mean \"instead of / in place of ~.\" With a verb, attach かわりに to the plain form. It marks a substitute: you do B rather than the expected A."
+    },
+    {
+      "type": "formula",
+      "japanese": "名詞（めいし）＋の／動詞（どうし）（普通形（ふつうけい））＋かわりに",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "日光（にっこう）の代（か）わりに、金沢（かなざわ）に行（い）きました。",
+      "english": "Instead of Nikko, I went to Kanazawa."
+    },
+    {
+      "type": "example",
+      "japanese": "肉（にく）のかわりに豆腐（とうふ）を使（つか）います。",
+      "english": "I use tofu instead of meat."
+    },
+    {
+      "type": "example",
+      "japanese": "兄（あに）のかわりに私（わたし）が会議（かいぎ）に出（で）ます。",
+      "english": "I'll attend the meeting instead of my older brother."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "in-exchange",
+      "text": "In Exchange For / Trade-Off"
+    },
+    {
+      "type": "paragraph",
+      "text": "かわりに also expresses a trade-off: you get one thing but give up (or pay with) another. It often balances a good point against a bad one, similar to \"but on the other hand.\""
+    },
+    {
+      "type": "example",
+      "japanese": "手伝（てつだ）ってくれたかわりに、晩（ばん）ご飯（はん）をおごります。",
+      "english": "In exchange for your helping me, I'll treat you to dinner."
+    },
+    {
+      "type": "example",
+      "japanese": "給料（きゅうりょう）は高（たか）いかわりに、忙（いそが）しいです。",
+      "english": "The pay is high, but in exchange it's busy."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "standalone",
+      "text": "かわりに on Its Own"
+    },
+    {
+      "type": "paragraph",
+      "text": "かわりに can also start a clause by itself as an adverb meaning \"instead,\" referring back to something just mentioned."
+    },
+    {
+      "type": "example",
+      "japanese": "コーヒーがなかったので、かわりにお茶（ちゃ）を飲（の）みました。",
+      "english": "There was no coffee, so I drank tea instead."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "名詞（めいし）＋の／動詞（どうし）（普通形（ふつうけい））＋かわりに",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "日光（にっこう）の代（か）わりに、金沢（かなざわ）に行（い）きました。",
+      "english": "Instead of Nikko, I went to Kanazawa."
+    },
+    {
+      "japanese": "肉（にく）のかわりに豆腐（とうふ）を使（つか）います。",
+      "english": "I use tofu instead of meat."
+    },
+    {
+      "japanese": "兄（あに）のかわりに私（わたし）が会議（かいぎ）に出（で）ます。",
+      "english": "I'll attend the meeting instead of my older brother."
+    },
+    {
+      "japanese": "手伝（てつだ）ってくれたかわりに、晩（ばん）ご飯（はん）をおごります。",
+      "english": "In exchange for your helping me, I'll treat you to dinner."
+    },
+    {
+      "japanese": "給料（きゅうりょう）は高（たか）いかわりに、忙（いそが）しいです。",
+      "english": "The pay is high, but in exchange it's busy."
+    },
+    {
+      "japanese": "コーヒーがなかったので、かわりにお茶（ちゃ）を飲（の）みました。",
+      "english": "There was no coffee, so I drank tea instead."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "in-exchange",
+      "text": "In Exchange For / Trade-Off"
+    },
+    {
+      "level": 2,
+      "id": "standalone",
+      "text": "かわりに on Its Own"
+    }
+  ],
+  "id": 1029,
+  "slug": "kawari-ni",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

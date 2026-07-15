@@ -1,0 +1,538 @@
+{
+  "title": "〜ば (Conditional)",
+  "description": "The suffix 〜ば puts verbs into the conditional form. In other words, it adds an \"if\" meaning to a sentence.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜ば is a suffix that adds a conditional meaning to verbs. In other words, adding 〜ば to a verb adds an \"if\" meaning. There are actually a few different conditional forms in Japanese, including 〜たら and 〜と . Each of these means something like \"if\", but has a subtle and unique nuance that you can read about on their respective pages. 〜ば tends to be a bit more formal and used in written Japanese compared to 〜たら, but honestly it mostly depends on the context it's used in. 〜と has a more restricted use than 〜ば and 〜たら, because it tends to be limited to conditions that have an inevitable result. It's more of a \"when X happens, Y happens\" meaning. But don't worry about that too much! If you're here to read about 〜ば, you're in the right place!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜ば"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Godan",
+          "会（あ）う → 会（あ）えば 立（た）つ → 立（た）てば 写（うつ）す → 写（うつ）せば 割（われ）る → 割（われ）れば 書（か）く → 書（か）けば 泳（およ）ぐ → 泳（およ）げば 死（し）ぬ → 死（し）ねば 学（まな）ぶ → 学（まな）べば 休（やす）む → 休（やす）めば"
+        ],
+        [
+          "Ichidan",
+          "食（た）べる → 食（た）べれば 起（お）きる → 起（お）きれば 閉（と）じる → 閉（と）じれば"
+        ],
+        [
+          "Irregular",
+          "来（く）る（く ） → 来（く）れば（く ） する → すれば"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "The conjugation of this form is very regular, which makes it easy to conjugate. In fact, we can apply exactly the same rule to every single Japanese verb, including 来（く）る and する, which usually behave differently from the rest of the pack."
+    },
+    {
+      "type": "paragraph",
+      "text": "All we need to do is take the plain form of the verb (that's the one that always ends in a hiragana from the う-line, like 会（あ） う and 行（い） く ) and switch it to the え-line:"
+    },
+    {
+      "type": "formula",
+      "japanese": "会（あ）う → 会（あ）え 行（い）く → 行（い）け",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "The second and final step is to add 〜ば:"
+    },
+    {
+      "type": "formula",
+      "japanese": "会（あ）う + え + ば = 会（あ）えば 行（い）く + け + ば = 行（い）けば",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "会（あ） う + え + ば = 会（あ） えば 行（い） く + け + ば = 行（い） けば"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you prefer to think of this in terms of romaji, remove the final \" u \" sound from any verb, and replace it with \" eba. \" So for example, the verb for \"to meet,\" 会（あ）う (a u ) becomes 会（あ）えば (a eba ), and the verb for \"to write,\" 書（か）く(kak u ) becomes 書（か）けば (kak eba ). What about 食（た）べる (to eat)? Exactly the same! 食（た）べる (taber u ) turns into 食（た）べれば (taber eba )."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "what-does-conditional-mean",
+      "text": "What does \"Conditional\" Mean?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's start things out by digging deeper into what \"conditional\" means. Essentially, we're talking about a sentence that has two parts (or clauses ): a condition, and a result of that condition. The verb that takes 〜ば is always the condition, and whatever is in the other part of the sentence is the result of that condition. So for example, in the following sentence, \"having time\" (時間（じかん）があれば) is the condition, and \"making cookies\" (クッキーを作（つく）る) is the result:"
+    },
+    {
+      "type": "example",
+      "japanese": "時間（じかん）があれば、クッキーを作（つく）るよ。",
+      "english": "If I have time, I'll make cookies."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you understand what conditional means, move on to the next section. Hey wait, that's a conditional sentence itself! Let's see how it looks in Japanese:"
+    },
+    {
+      "type": "example",
+      "japanese": "「Conditional」の意味（いみ）が分（わ）かれば、次（つぎ）のセクションに進（すす）んでください。",
+      "english": "If you understand what \"conditional\" means, move on to the next section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ok, but now we really mean it. Move along!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now that we know what conditional means and how to attach 〜ば to a verb, let's look at a few different contexts of use."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-general-truths",
+      "text": "〜ば for General Truths"
+    },
+    {
+      "type": "paragraph",
+      "text": "We can use 〜ば in situations when we are pointing out something that definitely happens under a certain condition. In English, we'd generally use \"when\" in this situation. In Japanese, both と and 〜たら can also be used. Basically we are saying that \"when this thing happens, this other thing will definitely happen.\" Since universal truths are true all the time, these types of sentences are only ever in the non-past form, never the past form."
+    },
+    {
+      "type": "paragraph",
+      "text": "Fun fact: for fans of English grammar, this use is the equivalent of the English \"zero conditional\":"
+    },
+    {
+      "type": "example",
+      "japanese": "３に２をかければ、６になる。",
+      "english": "When you multiply three by two, you get six."
+    },
+    {
+      "type": "example",
+      "japanese": "お金（かね）があれば、何（なに）でもできる。",
+      "english": "When you have money, you can do anything."
+    },
+    {
+      "type": "paragraph",
+      "text": "In more old-fashioned Japanese, it is common to add ものだ at the end of the second part of the sentence (the part telling us the result):"
+    },
+    {
+      "type": "example",
+      "japanese": "信（しん）じていれば夢（ゆめ）は叶（かな）うものだ。",
+      "english": "If you keep believing, your dreams will come true."
+    },
+    {
+      "type": "paragraph",
+      "text": "These examples are either general facts or things that are believed to be facts by the person speaking. In the same vein, 〜ば is commonly used in proverbs, which makes sense when we consider that proverbs generally express things that are taken to be universally true:"
+    },
+    {
+      "type": "example",
+      "japanese": "塵（ちり）も積（つ）もれば山（やま）となる。",
+      "english": "If piled together, even dust becomes a mountain."
+    },
+    {
+      "type": "example",
+      "japanese": "薬（くすり）も過（す）ぎれば毒（どく）となる。",
+      "english": "If you take too much, medicine becomes poison."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-habits",
+      "text": "〜ば for Habits"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ば form can also be used to talk about repeated actions that happen under a certain condition. So if you are lucky enough to go to Sapporo on a regular basis, you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "札幌（さっぽろ）に行（い）けば、スープカレーを食（た）べる。",
+      "english": "Whenever I go to Sapporo, I eat soup curry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Or if you're a big Terrace House fan, you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "時間（じかん）があれば、いつもテラスハウスを見（み）ています。",
+      "english": "Whenever I have time, I always watch Terrace House."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the first example, the condition is going to Sapporo. In the second example, the condition is having time. Whenever these conditions arise, the habit is inevitable (we eat soup curry, or we watch Terrace House)."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth mentioning that words like いつも, 絶対（ぜったい） and 必（かなら）ず are often used together with 〜ば when we're talking about habits to give that extra nuance of high frequency or certainty."
+    },
+    {
+      "type": "paragraph",
+      "text": "This also works in the past, so we can use this form to talk about past habits in exactly the same way. Let's look at that soup curry example again, but imagine that sadly you no longer make regular trips to Sapporo:"
+    },
+    {
+      "type": "example",
+      "japanese": "札幌（さっぽろ）に行（い）けば、いつもスープカレーを食（た）べていた。",
+      "english": "Whenever I went to Sapporo, I used to eat soup curry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice that here we have to change the tense in both parts of the sentence in English, whereas in Japanese it's only the second part of the sentence that changes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, in more old-fashioned Japanese, it's common to add ものだ to the end of the second part of the sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "札幌（さっぽろ）に行（い）けば、スープカレーを食（た）べたものだ。",
+      "english": "Whenever I went to Sapporo, I used to eat soup curry."
+    },
+    {
+      "type": "example",
+      "japanese": "高校生（こうこうせい）のとき、暇（ひま）があれば、友達（ともだち）と遊（あそ）びに行（い）ったものだ。",
+      "english": "When I was in high school, whenever I had time I used to go out with my friends."
+    },
+    {
+      "type": "paragraph",
+      "text": "These sentences both convey a feeling that we're talking about \"the old days.\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-the-future",
+      "text": "〜ば for the Future"
+    },
+    {
+      "type": "paragraph",
+      "text": "So far, we've seen how the ば form can be used to talk about things that are definitely true in the present and the past. But what if we want to talk about things we're not sure about? In Japanese, we can still use this form, and we add words like もし, だろう , でしょう , に違（ちが）いない , はずだ and かもしれない to make it clear that we are not 100% sure that the condition will happen in the first place. Depending on the words that are added, we may not be sure of the result either. For English grammar fans, this use is the equivalent of the English first conditional."
+    },
+    {
+      "type": "example",
+      "japanese": "もし雨（あめ）が降（ふ）れば、遠足（えんそく）は中止（ちゅうし）になる。",
+      "english": "If it rains, the excursion will be cancelled."
+    },
+    {
+      "type": "example",
+      "japanese": "もし雨（あめ）が降（ふ）れば、遠足（えんそく）は中止（ちゅうし）になるかもしれない。",
+      "english": "If it rains, the excursion will probably be cancelled."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, the condition is in the future, but it's also possible to use this for present conditions:"
+    },
+    {
+      "type": "example",
+      "japanese": "本当（ほんとう）にそう思（おも）えば、直接（ちょくせつ）に言（い）うでしょう。",
+      "english": "If that's really what he thinks, he would say it directly."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, we're talking about a present condition, but we're expressing doubt that the condition is really true. In other words, we have a feeling that might not be what he really thinks."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-hypothetical-situations",
+      "text": "〜ば for Hypothetical Situations"
+    },
+    {
+      "type": "paragraph",
+      "text": "We can also use the ば form to talk about things that are not actually true. This one is the equivalent of the second conditional in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if we want to imagine what would happen in an imaginary situation, we can use this form. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "もし札幌（さっぽろ）に住（す）んでいれば、毎日（まいにち）スープカレーを食（た）べる。",
+      "english": "If I lived in Sapporo, I'd eat soup curry every day."
+    },
+    {
+      "type": "paragraph",
+      "text": "We can also use the ば form to talk about an alternative reality in the past. In other words, we imagine what would have happened in different circumstances. In this case, the second part of the sentence is in the past. This is the equivalent of the third conditional in English."
+    },
+    {
+      "type": "example",
+      "japanese": "札幌（さっぽろ）に行（い）けば、スープカレーを食（た）べられたのに。",
+      "english": "If only I'd gone to Sapporo I could have eaten soup curry."
+    },
+    {
+      "type": "example",
+      "japanese": "自転車（じてんしゃ）に乗（の）って来（く）れば、間（ま）に合（あ）った。",
+      "english": "If I'd come by bike, I would have been in time."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）に聞（き）いてくれれば、ちゃんと説明（せつめい）してあげたのに。",
+      "english": "If only you'd asked me, I would have explained properly."
+    },
+    {
+      "type": "paragraph",
+      "text": "When using 〜ば for hypothetical situations in the past, it's common for のに to be added to the end, as you can see in a couple of the example sentences above. This reinforces the nuance that the result didn't happen, but it could have if only the condition had been in place."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-questions",
+      "text": "〜ば in Questions"
+    },
+    {
+      "type": "paragraph",
+      "text": "We can use this form in combination with the question particle か , or a question word plus the particle かな (I wonder) , to make questions:"
+    },
+    {
+      "type": "example",
+      "japanese": "この緑色（りょくしょく）の薬（くすり）を飲（の）めば、治（なお）りますか。",
+      "english": "If I take this green medicine, will I get better?"
+    },
+    {
+      "type": "example",
+      "japanese": "どこに行（い）けばスープカレーが食（た）べられるかな。",
+      "english": "I wonder where I can eat soup curry."
+    },
+    {
+      "type": "paragraph",
+      "text": "That's all we have about the 〜ば, but if you want to learn about more conditional forms, there's also なら and 〜たら , not to mention the conditional form of い-adjectives ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜ば is a suffix that adds a conditional meaning to verbs. In other words, adding 〜ば to a verb adds an \"if\" meaning. There are actually a few different conditional forms in Japanese, including 〜たら and 〜と . Each of these means something like \"if\", but has a subtle and unique nuance that you can read about on their respective pages. 〜ば tends to be a bit more formal and used in written Japanese compared to 〜たら, but honestly it mostly depends on the context it's used in. 〜と has a more restricted use than 〜ば and 〜たら, because it tends to be limited to conditions that have an inevitable result. It's more of a \"when X happens, Y happens\" meaning. But don't worry about that too much! If you're here to read about 〜ば, you're in the right place!",
+    "The conjugation of this form is very regular, which makes it easy to conjugate. In fact, we can apply exactly the same rule to every single Japanese verb, including 来（く）る and する, which usually behave differently from the rest of the pack.",
+    "All we need to do is take the plain form of the verb (that's the one that always ends in a hiragana from the う-line, like 会（あ） う and 行（い） く ) and switch it to the え-line:",
+    "The second and final step is to add 〜ば:",
+    "会（あ） う + え + ば = 会（あ） えば 行（い） く + け + ば = 行（い） けば",
+    "If you prefer to think of this in terms of romaji, remove the final \" u \" sound from any verb, and replace it with \" eba. \" So for example, the verb for \"to meet,\" 会（あ）う (a u ) becomes 会（あ）えば (a eba ), and the verb for \"to write,\" 書（か）く(kak u ) becomes 書（か）けば (kak eba ). What about 食（た）べる (to eat)? Exactly the same! 食（た）べる (taber u ) turns into 食（た）べれば (taber eba ).",
+    "Let's start things out by digging deeper into what \"conditional\" means. Essentially, we're talking about a sentence that has two parts (or clauses ): a condition, and a result of that condition. The verb that takes 〜ば is always the condition, and whatever is in the other part of the sentence is the result of that condition. So for example, in the following sentence, \"having time\" (時間（じかん）があれば) is the condition, and \"making cookies\" (クッキーを作（つく）る) is the result:",
+    "If you understand what conditional means, move on to the next section. Hey wait, that's a conditional sentence itself! Let's see how it looks in Japanese:",
+    "Ok, but now we really mean it. Move along!",
+    "Now that we know what conditional means and how to attach 〜ば to a verb, let's look at a few different contexts of use.",
+    "We can use 〜ば in situations when we are pointing out something that definitely happens under a certain condition. In English, we'd generally use \"when\" in this situation. In Japanese, both と and 〜たら can also be used. Basically we are saying that \"when this thing happens, this other thing will definitely happen.\" Since universal truths are true all the time, these types of sentences are only ever in the non-past form, never the past form.",
+    "Fun fact: for fans of English grammar, this use is the equivalent of the English \"zero conditional\":",
+    "In more old-fashioned Japanese, it is common to add ものだ at the end of the second part of the sentence (the part telling us the result):",
+    "These examples are either general facts or things that are believed to be facts by the person speaking. In the same vein, 〜ば is commonly used in proverbs, which makes sense when we consider that proverbs generally express things that are taken to be universally true:",
+    "The ば form can also be used to talk about repeated actions that happen under a certain condition. So if you are lucky enough to go to Sapporo on a regular basis, you might say:",
+    "Or if you're a big Terrace House fan, you might say:",
+    "In the first example, the condition is going to Sapporo. In the second example, the condition is having time. Whenever these conditions arise, the habit is inevitable (we eat soup curry, or we watch Terrace House).",
+    "It's worth mentioning that words like いつも, 絶対（ぜったい） and 必（かなら）ず are often used together with 〜ば when we're talking about habits to give that extra nuance of high frequency or certainty.",
+    "This also works in the past, so we can use this form to talk about past habits in exactly the same way. Let's look at that soup curry example again, but imagine that sadly you no longer make regular trips to Sapporo:",
+    "Notice that here we have to change the tense in both parts of the sentence in English, whereas in Japanese it's only the second part of the sentence that changes.",
+    "Again, in more old-fashioned Japanese, it's common to add ものだ to the end of the second part of the sentence:",
+    "These sentences both convey a feeling that we're talking about \"the old days.\"",
+    "So far, we've seen how the ば form can be used to talk about things that are definitely true in the present and the past. But what if we want to talk about things we're not sure about? In Japanese, we can still use this form, and we add words like もし, だろう , でしょう , に違（ちが）いない , はずだ and かもしれない to make it clear that we are not 100% sure that the condition will happen in the first place. Depending on the words that are added, we may not be sure of the result either. For English grammar fans, this use is the equivalent of the English first conditional.",
+    "In this example, the condition is in the future, but it's also possible to use this for present conditions:",
+    "In this case, we're talking about a present condition, but we're expressing doubt that the condition is really true. In other words, we have a feeling that might not be what he really thinks.",
+    "We can also use the ば form to talk about things that are not actually true. This one is the equivalent of the second conditional in English.",
+    "So if we want to imagine what would happen in an imaginary situation, we can use this form. For example:",
+    "We can also use the ば form to talk about an alternative reality in the past. In other words, we imagine what would have happened in different circumstances. In this case, the second part of the sentence is in the past. This is the equivalent of the third conditional in English.",
+    "When using 〜ば for hypothetical situations in the past, it's common for のに to be added to the end, as you can see in a couple of the example sentences above. This reinforces the nuance that the result didn't happen, but it could have if only the condition had been in place.",
+    "We can use this form in combination with the question particle か , or a question word plus the particle かな (I wonder) , to make questions:",
+    "That's all we have about the 〜ば, but if you want to learn about more conditional forms, there's also なら and 〜たら , not to mention the conditional form of い-adjectives ."
+  ],
+  "examples": [
+    {
+      "japanese": "時間（じかん）があれば、クッキーを作（つく）るよ。",
+      "english": "If I have time, I'll make cookies."
+    },
+    {
+      "japanese": "「Conditional」の意味（いみ）が分（わ）かれば、次（つぎ）のセクションに進（すす）んでください。",
+      "english": "If you understand what \"conditional\" means, move on to the next section."
+    },
+    {
+      "japanese": "３に２をかければ、６になる。",
+      "english": "When you multiply three by two, you get six."
+    },
+    {
+      "japanese": "お金（かね）があれば、何（なに）でもできる。",
+      "english": "When you have money, you can do anything."
+    },
+    {
+      "japanese": "信（しん）じていれば夢（ゆめ）は叶（かな）うものだ。",
+      "english": "If you keep believing, your dreams will come true."
+    },
+    {
+      "japanese": "塵（ちり）も積（つ）もれば山（やま）となる。",
+      "english": "If piled together, even dust becomes a mountain."
+    },
+    {
+      "japanese": "薬（くすり）も過（す）ぎれば毒（どく）となる。",
+      "english": "If you take too much, medicine becomes poison."
+    },
+    {
+      "japanese": "札幌（さっぽろ）に行（い）けば、スープカレーを食（た）べる。",
+      "english": "Whenever I go to Sapporo, I eat soup curry."
+    },
+    {
+      "japanese": "時間（じかん）があれば、いつもテラスハウスを見（み）ています。",
+      "english": "Whenever I have time, I always watch Terrace House."
+    },
+    {
+      "japanese": "札幌（さっぽろ）に行（い）けば、いつもスープカレーを食（た）べていた。",
+      "english": "Whenever I went to Sapporo, I used to eat soup curry."
+    },
+    {
+      "japanese": "札幌（さっぽろ）に行（い）けば、スープカレーを食（た）べたものだ。",
+      "english": "Whenever I went to Sapporo, I used to eat soup curry."
+    },
+    {
+      "japanese": "高校生（こうこうせい）のとき、暇（ひま）があれば、友達（ともだち）と遊（あそ）びに行（い）ったものだ。",
+      "english": "When I was in high school, whenever I had time I used to go out with my friends."
+    },
+    {
+      "japanese": "もし雨（あめ）が降（ふ）れば、遠足（えんそく）は中止（ちゅうし）になる。",
+      "english": "If it rains, the excursion will be cancelled."
+    },
+    {
+      "japanese": "もし雨（あめ）が降（ふ）れば、遠足（えんそく）は中止（ちゅうし）になるかもしれない。",
+      "english": "If it rains, the excursion will probably be cancelled."
+    },
+    {
+      "japanese": "本当（ほんとう）にそう思（おも）えば、直接（ちょくせつ）に言（い）うでしょう。",
+      "english": "If that's really what he thinks, he would say it directly."
+    },
+    {
+      "japanese": "もし札幌（さっぽろ）に住（す）んでいれば、毎日（まいにち）スープカレーを食（た）べる。",
+      "english": "If I lived in Sapporo, I'd eat soup curry every day."
+    },
+    {
+      "japanese": "札幌（さっぽろ）に行（い）けば、スープカレーを食（た）べられたのに。",
+      "english": "If only I'd gone to Sapporo I could have eaten soup curry."
+    },
+    {
+      "japanese": "自転車（じてんしゃ）に乗（の）って来（く）れば、間（ま）に合（あ）った。",
+      "english": "If I'd come by bike, I would have been in time."
+    },
+    {
+      "japanese": "私（わたし）に聞（き）いてくれれば、ちゃんと説明（せつめい）してあげたのに。",
+      "english": "If only you'd asked me, I would have explained properly."
+    },
+    {
+      "japanese": "この緑色（りょくしょく）の薬（くすり）を飲（の）めば、治（なお）りますか。",
+      "english": "If I take this green medicine, will I get better?"
+    },
+    {
+      "japanese": "どこに行（い）けばスープカレーが食（た）べられるかな。",
+      "english": "I wonder where I can eat soup curry."
+    },
+    {
+      "japanese": "会（あ）う → 会（あ）え 行（い）く → 行（い）け",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "会（あ）う + え + ば = 会（あ）えば 行（い）く + け + ば = 行（い）けば",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Godan",
+        "会（あ）う → 会（あ）えば 立（た）つ → 立（た）てば 写（うつ）す → 写（うつ）せば 割（われ）る → 割（われ）れば 書（か）く → 書（か）けば 泳（およ）ぐ → 泳（およ）げば 死（し）ぬ → 死（し）ねば 学（まな）ぶ → 学（まな）べば 休（やす）む → 休（やす）めば"
+      ],
+      [
+        "Ichidan",
+        "食（た）べる → 食（た）べれば 起（お）きる → 起（お）きれば 閉（と）じる → 閉（と）じれば"
+      ],
+      [
+        "Irregular",
+        "来（く）る（く ） → 来（く）れば（く ） する → すれば"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜ば"
+    },
+    {
+      "level": 3,
+      "id": "what-does-conditional-mean",
+      "text": "What does \"Conditional\" Mean?"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-general-truths",
+      "text": "〜ば for General Truths"
+    },
+    {
+      "level": 3,
+      "id": "for-habits",
+      "text": "〜ば for Habits"
+    },
+    {
+      "level": 3,
+      "id": "for-the-future",
+      "text": "〜ば for the Future"
+    },
+    {
+      "level": 3,
+      "id": "for-hypothetical-situations",
+      "text": "〜ば for Hypothetical Situations"
+    },
+    {
+      "level": 3,
+      "id": "in-questions",
+      "text": "〜ば in Questions"
+    }
+  ],
+  "id": 74,
+  "slug": "verb-conditional-form-ba",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-conditional-form-ba/",
+  "categories": [
+    "Conditional",
+    "Verb Form"
+  ]
+}

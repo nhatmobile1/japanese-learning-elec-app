@@ -1,0 +1,138 @@
+{
+  "title": "〜てはいけない・〜ちゃだめ",
+  "description": "〜てはいけない attaches to the て form to express prohibition — \"must not do\" / \"you're not allowed to.\" 〜ちゃだめ and 〜ちゃいけない are the casual equivalents.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the て form of a verb, add は, and follow it with いけない (or だめ) to forbid an action. 吸（す）う → 吸（す）って → 吸（す）ってはいけない (\"must not smoke\"). It's a firm statement of a rule, so it often appears on signs and in instructions from someone with authority — a teacher, a boss, a parent."
+    },
+    {
+      "type": "formula",
+      "japanese": "て form ＋ は いけない ／ だめ",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "ここでタバコを吸（す）ってはいけません。",
+      "english": "You must not smoke here."
+    },
+    {
+      "type": "example",
+      "japanese": "賞味期限（しょうみきげん）が切（き）れた食（た）べ物（もの）を売（う）ってはいけない。",
+      "english": "You must not sell food that's past its expiration date."
+    },
+    {
+      "type": "example",
+      "japanese": "授業中（じゅぎょうちゅう）に寝（ね）てはいけない。",
+      "english": "You must not sleep during class."
+    },
+    {
+      "type": "example",
+      "japanese": "芝生（しばふ）に入（はい）ってはいけません。",
+      "english": "You must not walk on the grass."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "casual-forms",
+      "text": "Casual Contractions 〜ちゃだめ・〜じゃだめ"
+    },
+    {
+      "type": "paragraph",
+      "text": "In casual speech, 〜てはいけない contracts to 〜ちゃいけない or 〜ちゃだめ, and 〜ではいけない (after verbs whose て form is で) contracts to 〜じゃだめ. だめ literally means \"no good,\" so 食（た）べちゃだめ is a very natural, everyday way to say \"you can't eat that.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "〜ては → 〜ちゃ　　〜では → 〜じゃ　（＋ だめ ／ いけない）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "ここで写真（しゃしん）を撮（と）っちゃだめだよ。",
+      "english": "You can't take photos here."
+    },
+    {
+      "type": "example",
+      "japanese": "そんなに遊（あそ）んじゃだめ。",
+      "english": "You mustn't play around that much."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "vs-naide-kudasai",
+      "text": "〜てはいけない vs 〜ないでください"
+    },
+    {
+      "type": "paragraph",
+      "text": "Both can tell someone not to do something, but the tone differs. 〜てはいけない states an absolute rule (\"it is forbidden\") and can sound harsh if aimed at a person directly. 〜ないでください (\"please don't\") is a polite request and much softer for asking a specific person to refrain. Compare 触（さわ）ってはいけません (\"touching is prohibited\") with 触（さわ）らないでください (\"please don't touch\")."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "て form ＋ は いけない ／ だめ",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "ここでタバコを吸（す）ってはいけません。",
+      "english": "You must not smoke here."
+    },
+    {
+      "japanese": "賞味期限（しょうみきげん）が切（き）れた食（た）べ物（もの）を売（う）ってはいけない。",
+      "english": "You must not sell food that's past its expiration date."
+    },
+    {
+      "japanese": "授業中（じゅぎょうちゅう）に寝（ね）てはいけない。",
+      "english": "You must not sleep during class."
+    },
+    {
+      "japanese": "芝生（しばふ）に入（はい）ってはいけません。",
+      "english": "You must not walk on the grass."
+    },
+    {
+      "japanese": "〜ては → 〜ちゃ　　〜では → 〜じゃ　（＋ だめ ／ いけない）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "ここで写真（しゃしん）を撮（と）っちゃだめだよ。",
+      "english": "You can't take photos here."
+    },
+    {
+      "japanese": "そんなに遊（あそ）んじゃだめ。",
+      "english": "You mustn't play around that much."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "casual-forms",
+      "text": "Casual Contractions 〜ちゃだめ・〜じゃだめ"
+    },
+    {
+      "level": 2,
+      "id": "vs-naide-kudasai",
+      "text": "〜てはいけない vs 〜ないでください"
+    }
+  ],
+  "id": 1004,
+  "slug": "te-wa-ikenai",
+  "categories": [
+    "Verb Form",
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N5"
+}

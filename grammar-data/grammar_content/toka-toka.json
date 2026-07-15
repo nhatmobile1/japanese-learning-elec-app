@@ -1,0 +1,127 @@
+{
+  "title": "〜とか〜とか",
+  "description": "〜とか〜とか lists examples in a casual, non-exhaustive way — \"things like A and B.\" It implies there are other unlisted items too.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "とか comes after each item in a list to give representative examples rather than a complete set — similar to や but more casual and conversational. It attaches to nouns and also to plain-form verbs and adjectives."
+    },
+    {
+      "type": "formula",
+      "japanese": "A ＋ とか ＋ B ＋ とか",
+      "english": "things like A and B (and so on)"
+    },
+    {
+      "type": "example",
+      "japanese": "週末（しゅうまつ）は掃除（そうじ）とか洗濯（せんたく）とかをします。",
+      "english": "On weekends I do things like cleaning and laundry."
+    },
+    {
+      "type": "example",
+      "japanese": "りんごとかバナナとかが好（す）きです。",
+      "english": "I like things like apples and bananas."
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）とか韓国語（かんこくご）とかを勉強（べんきょう）しています。",
+      "english": "I'm studying things like Japanese and Korean."
+    },
+    {
+      "type": "example",
+      "japanese": "映画（えいが）を見（み）るとか、本（ほん）を読（よ）むとかして過（す）ごした。",
+      "english": "I spent the time doing things like watching movies and reading books."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "single-toka",
+      "text": "Softening with a Single とか"
+    },
+    {
+      "type": "paragraph",
+      "text": "A single とか can also soften a statement or introduce a vague quote, making it sound less direct — \"something like ~\" or \"(they) said something about ~.\""
+    },
+    {
+      "type": "example",
+      "japanese": "疲（つか）れたとか言（い）って、来（こ）なかった。",
+      "english": "He said something like he was tired and didn't come."
+    },
+    {
+      "type": "example",
+      "japanese": "明日（あした）は忙（いそが）しいとか。",
+      "english": "Apparently they're busy tomorrow or something."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "とか is casual — in formal writing or speech, use や (for nouns) or 〜たり〜たり (for verbs) instead. Also, unlike と (which lists an exhaustive set), とか always implies the list is just examples with more left unsaid."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "A ＋ とか ＋ B ＋ とか",
+      "english": "things like A and B (and so on)",
+      "type": "formula"
+    },
+    {
+      "japanese": "週末（しゅうまつ）は掃除（そうじ）とか洗濯（せんたく）とかをします。",
+      "english": "On weekends I do things like cleaning and laundry."
+    },
+    {
+      "japanese": "りんごとかバナナとかが好（す）きです。",
+      "english": "I like things like apples and bananas."
+    },
+    {
+      "japanese": "日本語（にほんご）とか韓国語（かんこくご）とかを勉強（べんきょう）しています。",
+      "english": "I'm studying things like Japanese and Korean."
+    },
+    {
+      "japanese": "映画（えいが）を見（み）るとか、本（ほん）を読（よ）むとかして過（す）ごした。",
+      "english": "I spent the time doing things like watching movies and reading books."
+    },
+    {
+      "japanese": "疲（つか）れたとか言（い）って、来（こ）なかった。",
+      "english": "He said something like he was tired and didn't come."
+    },
+    {
+      "japanese": "明日（あした）は忙（いそが）しいとか。",
+      "english": "Apparently they're busy tomorrow or something."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "single-toka",
+      "text": "Softening with a Single とか"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1042,
+  "slug": "toka-toka",
+  "categories": [
+    "Particle"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

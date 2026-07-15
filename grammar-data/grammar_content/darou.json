@@ -1,0 +1,462 @@
+{
+  "title": "だろう",
+  "description": "Often translated as \"probably,\" \"I assume,\" or \"I believe,\" だろう is used to speculate based on your interpretation of something.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is だろう?"
+    },
+    {
+      "type": "paragraph",
+      "text": "だろう is one way to express speculation based on opinions and perspectives."
+    },
+    {
+      "type": "paragraph",
+      "text": "While there are other ways to express speculation—such as かもしれない —the level of certainty varies depending on the expression. だろう is used when the speaker is pretty sure about whatever they are saying. In fact, だろう emphasizes the feeling that the speaker has a reason to make their claim, even though they often don't specify what this is."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's look at an example to make this clear:"
+    },
+    {
+      "type": "example",
+      "japanese": "コウイチは金持（かねも）ちだろう。",
+      "english": "I believe that Koichi is rich."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, だろう shows that the speaker has a reason to speculate Koichi is rich. Maybe he has a private helicopter."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is also important to note that だろう is a derivative of だ . For this reason, だろう carries an assertive tone when used in conversations, whereas in writing it only indicates a speculative nuance. (You can read more about だ in this article !) When it is used in conversations, other particles such as ね are often added at the end of the sentence."
+    },
+    {
+      "type": "example",
+      "japanese": "A: どのチームが優勝（ゆうしょう）すると思（おも）う？B: ジャイアンツだろうね。",
+      "english": "A: Which team do you think will win the tournament?B: I assume it will be the Giants."
+    },
+    {
+      "type": "paragraph",
+      "text": "B's use of だろう indicates that B has a reason to support his speculation. Maybe the Giants are the strongest team and always win."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "how-to-make-sentences-with-",
+      "text": "How to Make Sentences with だろう"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let's look at how to form sentences with だろう. It can come after nouns, adjectives, and verbs in both their positive and negative forms. Noun + だろう"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Positive",
+          "Negative"
+        ],
+        [
+          "彼（かれ）は歌手（かしゅ）だろう。",
+          "彼（かれ）は歌手（かしゅ）じゃないだろう。"
+        ],
+        [
+          "I assume he is a singer.",
+          "I assume he is not a singer."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Positive",
+          "Negative"
+        ],
+        [
+          "きれいだろう。",
+          "きれいじゃないだろう。"
+        ],
+        [
+          "I assume it is clean.",
+          "I assume it is not clean."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Positive",
+          "Negative"
+        ],
+        [
+          "今週（こんしゅう）は暑（あつ）いだろう。",
+          "今週（こんしゅう）は暑（あつ）くないだろう。"
+        ],
+        [
+          "I assume it's going to be hot this week.",
+          "I assume it's not going to be hot this week."
+        ]
+      ]
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Positive",
+          "Negative"
+        ],
+        [
+          "彼（かれ）は会社（かいしゃ）を休（やす）むだろう。",
+          "彼（かれ）は会社（かいしゃ）を休（やす）まないだろう。"
+        ],
+        [
+          "I assume he will take a day off.",
+          "I assume he won't take a day off."
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For nouns and adjectives, you can indicate that your speculation is about the future by adding a word that indicates time, such as 明日（あした）, 来週（らいしゅう）, or 来月（らいげつ）. When using a verb, however, you have to change its form. So to talk about a current action or situation, we use the ている form ."
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）は会社（かいしゃ）を休（やす）んでいるだろう。",
+      "english": "I assume he is taking a day off."
+    },
+    {
+      "type": "paragraph",
+      "text": "When using だろう to describe events or situations in the past, you have to change the form of the verb into the past tense. The good news is that you never have to change the form of だろう."
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）は歌手（かしゅ）だっただろう。",
+      "english": "I'm pretty sure he was a singer."
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）は会社（かいしゃ）を休（やす）んだだろう。",
+      "english": "I'm pretty sure he took the day off."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can manipulate the level of certainty of the speculation by using adverbs such as 多分（たぶん）, 恐（おそ）らく, and きっと. 多分（たぶん） and its formal version 恐（おそ）らく indicate a lower level of certainty while きっと indicates a higher level of certainty:"
+    },
+    {
+      "type": "example",
+      "japanese": "明日（あした）はきっと寒（さむ）いだろう。",
+      "english": "It will definitely be cold tomorrow."
+    },
+    {
+      "type": "example",
+      "japanese": "明日（あした）は多分（たぶん）寒（さむ）いだろう。",
+      "english": "It will probably be cold tomorrow."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is important to know that lower-probability adverbs such as もしかして and もしかしたら, which are roughly translated as \"maybe\" in English, cannot be used with だろう. These adverbs don't match the certainty level that だろう carries."
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ 彼（かれ）はもしかしたら歌手（かしゅ）だろう。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "So far we've discussed cases where だろう is used at the end of a sentence, but it can also be used in the middle of a sentence, before conjunctions such as から (so) and けど (but)."
+    },
+    {
+      "type": "example",
+      "japanese": "明日（あした）雨（あめ）だろうから、傘（かさ）が必要（ひつよう）だね。",
+      "english": "It will probably rain tomorrow, so we might need an umbrella."
+    },
+    {
+      "type": "example",
+      "japanese": "勉強（べんきょう）大変（たいへん）だろうけど、頑張（がんば）って。",
+      "english": "Study must be hard for you, but hang in there."
+    },
+    {
+      "type": "paragraph",
+      "text": "These sentences are common in both writing and speaking."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-seeking-confirmation",
+      "text": "だろう for Seeking Confirmation"
+    },
+    {
+      "type": "paragraph",
+      "text": "だろう makes what you say sound like a confirmation question when speakers use it to speculate about something that they think the listener knows about. For example, imagine you ask your friend if he ate your pudding while you were in the bathroom. You might tell him:"
+    },
+    {
+      "type": "example",
+      "japanese": "僕（ぼく）のプリン、食（た）べただろう。",
+      "english": "You ate my pudding, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "While this question is your speculation, in reality it is often understood as seeking confirmation or agreement. For another example, say you were bragging about how cute your girlfriend is and said:"
+    },
+    {
+      "type": "example",
+      "japanese": "僕（ぼく）の彼女（かのじょ）、可愛（かわい）いだろう。",
+      "english": "My girlfriend is cute, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like the previous example, it is not you, but your listener who knows what their own opinion about your girlfriend is. This is why this kind of question often comes off as seeking confirmation."
+    },
+    {
+      "type": "paragraph",
+      "text": "This use of だろう is common in both writing and speaking. However, when it is used in seeking confirmation, だろう is almost always shortened to だろ. Because of the assertive and definitive tone it carries, だろ is often associated with masculine speech."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-seeking-information",
+      "text": "だろう for Seeking Information"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike when using だろ to ask a confirmation question, it won't come off as masculine when using だろ to ask information-seeking questions. In such a case, question words such as なん, だれ, どこ, いつ, and なんで are used together:"
+    },
+    {
+      "type": "example",
+      "japanese": "あれ、なんだろ(う)？",
+      "english": "What do you think that is?"
+    },
+    {
+      "type": "example",
+      "japanese": "コウイチはどこだろ(う)？",
+      "english": "I wonder where Koichi is."
+    },
+    {
+      "type": "example",
+      "japanese": "いつかなえは来（く）るだろ(う)？",
+      "english": "I wonder when Kanae will come."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on the context and how you say it, you will either sound like you're asking a question or speculating to yourself when using だろう to ask for information. For example, you might say どこだろう to yourself while you are looking for your phone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Indeed, you can also use だろう to indicate that you're in the process of thinking:"
+    },
+    {
+      "type": "example",
+      "japanese": "A: 一番（いちばん）好（す）きな動物（どうぶつ）はなに？B: うーん、なんだろ(う)。猫（ねこ）か犬（いぬ）？",
+      "english": "A: What is your favorite animal?B: Well, l don't know… cats or dogs?"
+    },
+    {
+      "type": "paragraph",
+      "text": "While か can be used together with だろう to explicitly indicate the sentence is a question, it makes the speech more formal and authoritative. If you say コウイチはどこだろうか, it can make you sound like a character in a novel."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "だろう is one way to express speculation based on opinions and perspectives.",
+    "While there are other ways to express speculation—such as かもしれない —the level of certainty varies depending on the expression. だろう is used when the speaker is pretty sure about whatever they are saying. In fact, だろう emphasizes the feeling that the speaker has a reason to make their claim, even though they often don't specify what this is.",
+    "Let's look at an example to make this clear:",
+    "In this sentence, だろう shows that the speaker has a reason to speculate Koichi is rich. Maybe he has a private helicopter.",
+    "It is also important to note that だろう is a derivative of だ . For this reason, だろう carries an assertive tone when used in conversations, whereas in writing it only indicates a speculative nuance. (You can read more about だ in this article !) When it is used in conversations, other particles such as ね are often added at the end of the sentence.",
+    "B's use of だろう indicates that B has a reason to support his speculation. Maybe the Giants are the strongest team and always win.",
+    "Now let's look at how to form sentences with だろう. It can come after nouns, adjectives, and verbs in both their positive and negative forms. Noun + だろう",
+    "For nouns and adjectives, you can indicate that your speculation is about the future by adding a word that indicates time, such as 明日（あした）, 来週（らいしゅう）, or 来月（らいげつ）. When using a verb, however, you have to change its form. So to talk about a current action or situation, we use the ている form .",
+    "When using だろう to describe events or situations in the past, you have to change the form of the verb into the past tense. The good news is that you never have to change the form of だろう.",
+    "You can manipulate the level of certainty of the speculation by using adverbs such as 多分（たぶん）, 恐（おそ）らく, and きっと. 多分（たぶん） and its formal version 恐（おそ）らく indicate a lower level of certainty while きっと indicates a higher level of certainty:",
+    "It is important to know that lower-probability adverbs such as もしかして and もしかしたら, which are roughly translated as \"maybe\" in English, cannot be used with だろう. These adverbs don't match the certainty level that だろう carries.",
+    "So far we've discussed cases where だろう is used at the end of a sentence, but it can also be used in the middle of a sentence, before conjunctions such as から (so) and けど (but).",
+    "These sentences are common in both writing and speaking.",
+    "だろう makes what you say sound like a confirmation question when speakers use it to speculate about something that they think the listener knows about. For example, imagine you ask your friend if he ate your pudding while you were in the bathroom. You might tell him:",
+    "While this question is your speculation, in reality it is often understood as seeking confirmation or agreement. For another example, say you were bragging about how cute your girlfriend is and said:",
+    "Just like the previous example, it is not you, but your listener who knows what their own opinion about your girlfriend is. This is why this kind of question often comes off as seeking confirmation.",
+    "This use of だろう is common in both writing and speaking. However, when it is used in seeking confirmation, だろう is almost always shortened to だろ. Because of the assertive and definitive tone it carries, だろ is often associated with masculine speech.",
+    "Unlike when using だろ to ask a confirmation question, it won't come off as masculine when using だろ to ask information-seeking questions. In such a case, question words such as なん, だれ, どこ, いつ, and なんで are used together:",
+    "Depending on the context and how you say it, you will either sound like you're asking a question or speculating to yourself when using だろう to ask for information. For example, you might say どこだろう to yourself while you are looking for your phone.",
+    "Indeed, you can also use だろう to indicate that you're in the process of thinking:",
+    "While か can be used together with だろう to explicitly indicate the sentence is a question, it makes the speech more formal and authoritative. If you say コウイチはどこだろうか, it can make you sound like a character in a novel."
+  ],
+  "examples": [
+    {
+      "japanese": "コウイチは金持（かねも）ちだろう。",
+      "english": "I believe that Koichi is rich."
+    },
+    {
+      "japanese": "A: どのチームが優勝（ゆうしょう）すると思（おも）う？B: ジャイアンツだろうね。",
+      "english": "A: Which team do you think will win the tournament?B: I assume it will be the Giants."
+    },
+    {
+      "japanese": "彼（かれ）は会社（かいしゃ）を休（やす）んでいるだろう。",
+      "english": "I assume he is taking a day off."
+    },
+    {
+      "japanese": "彼（かれ）は歌手（かしゅ）だっただろう。",
+      "english": "I'm pretty sure he was a singer."
+    },
+    {
+      "japanese": "彼（かれ）は会社（かいしゃ）を休（やす）んだだろう。",
+      "english": "I'm pretty sure he took the day off."
+    },
+    {
+      "japanese": "明日（あした）はきっと寒（さむ）いだろう。",
+      "english": "It will definitely be cold tomorrow."
+    },
+    {
+      "japanese": "明日（あした）は多分（たぶん）寒（さむ）いだろう。",
+      "english": "It will probably be cold tomorrow."
+    },
+    {
+      "japanese": "明日（あした）雨（あめ）だろうから、傘（かさ）が必要（ひつよう）だね。",
+      "english": "It will probably rain tomorrow, so we might need an umbrella."
+    },
+    {
+      "japanese": "勉強（べんきょう）大変（たいへん）だろうけど、頑張（がんば）って。",
+      "english": "Study must be hard for you, but hang in there."
+    },
+    {
+      "japanese": "僕（ぼく）のプリン、食（た）べただろう。",
+      "english": "You ate my pudding, right?"
+    },
+    {
+      "japanese": "僕（ぼく）の彼女（かのじょ）、可愛（かわい）いだろう。",
+      "english": "My girlfriend is cute, right?"
+    },
+    {
+      "japanese": "あれ、なんだろ(う)？",
+      "english": "What do you think that is?"
+    },
+    {
+      "japanese": "コウイチはどこだろ(う)？",
+      "english": "I wonder where Koichi is."
+    },
+    {
+      "japanese": "いつかなえは来（く）るだろ(う)？",
+      "english": "I wonder when Kanae will come."
+    },
+    {
+      "japanese": "A: 一番（いちばん）好（す）きな動物（どうぶつ）はなに？B: うーん、なんだろ(う)。猫（ねこ）か犬（いぬ）？",
+      "english": "A: What is your favorite animal?B: Well, l don't know… cats or dogs?"
+    },
+    {
+      "japanese": "❌ 彼（かれ）はもしかしたら歌手（かしゅ）だろう。",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Positive",
+        "Negative"
+      ],
+      [
+        "彼（かれ）は歌手（かしゅ）だろう。",
+        "彼（かれ）は歌手（かしゅ）じゃないだろう。"
+      ],
+      [
+        "I assume he is a singer.",
+        "I assume he is not a singer."
+      ]
+    ],
+    [
+      [
+        "Positive",
+        "Negative"
+      ],
+      [
+        "きれいだろう。",
+        "きれいじゃないだろう。"
+      ],
+      [
+        "I assume it is clean.",
+        "I assume it is not clean."
+      ]
+    ],
+    [
+      [
+        "Positive",
+        "Negative"
+      ],
+      [
+        "今週（こんしゅう）は暑（あつ）いだろう。",
+        "今週（こんしゅう）は暑（あつ）くないだろう。"
+      ],
+      [
+        "I assume it's going to be hot this week.",
+        "I assume it's not going to be hot this week."
+      ]
+    ],
+    [
+      [
+        "Positive",
+        "Negative"
+      ],
+      [
+        "彼（かれ）は会社（かいしゃ）を休（やす）むだろう。",
+        "彼（かれ）は会社（かいしゃ）を休（やす）まないだろう。"
+      ],
+      [
+        "I assume he will take a day off.",
+        "I assume he won't take a day off."
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is だろう?"
+    },
+    {
+      "level": 2,
+      "id": "how-to-make-sentences-with-",
+      "text": "How to Make Sentences with だろう"
+    },
+    {
+      "level": 2,
+      "id": "for-seeking-confirmation",
+      "text": "だろう for Seeking Confirmation"
+    },
+    {
+      "level": 2,
+      "id": "for-seeking-information",
+      "text": "だろう for Seeking Information"
+    }
+  ],
+  "id": 113,
+  "slug": "darou",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/darou/",
+  "categories": [
+    "Uncertainty",
+    "だ/です"
+  ]
+}

@@ -1,0 +1,506 @@
+{
+  "grammar_points": [
+    {
+      "id": 1001,
+      "title": "〜させられる (Causative-Passive)",
+      "description": "〜させられる combines the causative (make/let) and passive (be done to) forms to mean you were forced to do something — usually against your will, with a nuance of reluctance or inconvenience.",
+      "categories": [
+        "Verb Form"
+      ],
+      "slug": "saserareru",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1002,
+      "title": "〜てしまう・〜ちゃう",
+      "description": "〜てしまう attaches to the て form to show an action is completely finished, or that it happened with a sense of regret — \"ended up doing.\" 〜ちゃう・〜じゃう are the casual contractions.",
+      "categories": [
+        "Verb Form"
+      ],
+      "slug": "te-shimau",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1003,
+      "title": "〜なければならない・〜なきゃ",
+      "description": "〜なければならない expresses obligation — \"must do\" or \"have to do.\" It literally means \"if you don't do it, it won't do,\" and 〜なきゃ is the everyday casual contraction.",
+      "categories": [
+        "Verb Form",
+        "Phrase"
+      ],
+      "slug": "nakereba-naranai",
+      "source": "lessons",
+      "jlptLevel": "N5"
+    },
+    {
+      "id": 1004,
+      "title": "〜てはいけない・〜ちゃだめ",
+      "description": "〜てはいけない attaches to the て form to express prohibition — \"must not do\" / \"you're not allowed to.\" 〜ちゃだめ and 〜ちゃいけない are the casual equivalents.",
+      "categories": [
+        "Verb Form",
+        "Phrase"
+      ],
+      "slug": "te-wa-ikenai",
+      "source": "lessons",
+      "jlptLevel": "N5"
+    },
+    {
+      "id": 1005,
+      "title": "〜なくてもいい",
+      "description": "〜なくてもいい means \"don't have to\" / \"there's no need to.\" It's the negative counterpart of obligation — telling someone an action isn't necessary.",
+      "categories": [
+        "Verb Form",
+        "Phrase"
+      ],
+      "slug": "nakute-mo-ii",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1006,
+      "title": "〜べきだ",
+      "description": "〜べきだ expresses that someone should or ought to do something — a strong opinion, moral duty, or firm piece of advice about the right thing to do.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "beki-da",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1007,
+      "title": "〜そうだ (Hearsay)",
+      "description": "The hearsay 〜そうだ reports information you heard or read from another source — \"I hear that…\" / \"they say that…\" It attaches to the plain form and is often paired with 〜によると (\"according to\").",
+      "categories": [
+        "Phrase",
+        "Uncertainty"
+      ],
+      "slug": "sou-da-hearsay",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1008,
+      "title": "〜らしい",
+      "description": "〜らしい means \"seems like\" or \"apparently\" — a conjecture based on information you've gathered from outside (hearsay, reports, reputation). It can also work as a suffix meaning \"typical of\" or \"-like.\"",
+      "categories": [
+        "Phrase",
+        "Uncertainty"
+      ],
+      "slug": "rashii",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1009,
+      "title": "〜ようだ・〜みたいだ",
+      "description": "〜ようだ and 〜みたいだ both mean \"it seems / it appears,\" a conjecture drawn from your own observation. They also form similes — \"like a…\" — with 〜みたいだ being the casual spoken version of the more formal 〜ようだ.",
+      "categories": [
+        "Phrase",
+        "Uncertainty"
+      ],
+      "slug": "you-da-mitai-da",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1010,
+      "title": "〜ため（に）",
+      "description": "〜ため（に）marks a purpose (\"in order to\"), a beneficiary (\"for the sake of\"), or a cause (\"because of / due to\") depending on context. It is more formal than 〜から・〜ので and is common in written Japanese.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "tame-ni",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1011,
+      "title": "〜せいで",
+      "description": "〜せいで attributes a bad or unwanted outcome to a cause — it assigns blame. \"Because of / thanks to (negatively).\" Attach it to a noun with の or to a plain-form clause.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "sei-de",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1012,
+      "title": "〜おかげで",
+      "description": "〜おかげで credits a good outcome to a cause — \"thanks to.\" It is the positive counterpart of 〜せいで. Attach it to a noun with の or to a plain-form clause.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "okage-de",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1013,
+      "title": "〜ても (Even If)",
+      "description": "〜ても attaches to the て form to mean \"even if\" or \"even though\" — the first action or condition does not prevent the second. It is the neutral concessive: no blame, no frustration, just \"A, but B happens anyway.\"",
+      "categories": [
+        "Conditional",
+        "Verb Form"
+      ],
+      "slug": "temo",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1014,
+      "title": "〜くせに",
+      "description": "〜くせに means \"even though,\" but unlike neutral concessives it always carries blame, criticism, or contempt toward the subject. Use it to point out that someone acts in a way that clashes with what they are or know.",
+      "categories": [
+        "Phrase",
+        "Clause Link"
+      ],
+      "slug": "kuse-ni",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1015,
+      "title": "〜にもかかわらず",
+      "description": "〜にもかかわらず means \"despite\" or \"in spite of.\" It is a formal, written-sounding concessive: something happens even though the situation would normally prevent or discourage it.",
+      "categories": [
+        "Phrase",
+        "Clause Link"
+      ],
+      "slug": "nimo-kakawarazu",
+      "source": "lessons",
+      "jlptLevel": "N2"
+    },
+    {
+      "id": 1016,
+      "title": "〜ことにする・〜ことになる",
+      "description": "〜ことにする is a decision you make yourself (\"I've decided to\"), while 〜ことになる is a decision or outcome that comes about through circumstances (\"it's been decided that\"). The related 〜ことにしている and 〜ことになっている express personal habits and standing rules.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "koto-ni-suru",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1017,
+      "title": "〜ばかり",
+      "description": "〜ばかり has three main jobs: with the た form it means \"just did (something a moment ago)\"; after a noun it means \"only / nothing but\"; and with the て form (〜てばかりいる) it means \"keeps doing nothing but.\" Context and what it attaches to tell you which meaning is in play.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "bakari",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1018,
+      "title": "〜ところだ",
+      "description": "〜ところだ pins an action to a point in time. The form of the verb in front of ところ sets the moment: dictionary form = about to do it, 〜ている form = right in the middle of it, and た form = just finished it.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "tokoro-da",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1019,
+      "title": "〜わけだ・〜わけではない",
+      "description": "〜わけだ means \"so that's why / no wonder\" — a conclusion that makes sense once you learn a new fact. Its negative 〜わけではない means \"it's not that / it doesn't mean that,\" softening or partially denying a claim.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "wake-da",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1020,
+      "title": "〜はずだ・〜はずがない",
+      "description": "〜はずだ expresses a logical expectation — \"it should be (so),\" based on reasoning or known facts. Its counterpart 〜はずがない means \"there's no way / it can't possibly be,\" a confident denial of a possibility.",
+      "categories": [
+        "Phrase",
+        "Uncertainty"
+      ],
+      "slug": "hazu-da",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1021,
+      "title": "〜に違いない",
+      "description": "〜に違（ちが）いない means \"must be\" or \"no doubt\" — a strong, confident inference. You're not stating a proven fact, but you're sure enough about it that there's \"no mistaking\" the conclusion.",
+      "categories": [
+        "Phrase",
+        "Uncertainty"
+      ],
+      "slug": "ni-chigainai",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1022,
+      "title": "〜ようになる・〜ようにする",
+      "description": "〜ようになる marks a change — coming to a point where something is possible or habitual (\"came to be able to\"). 〜ようにする is about deliberate effort — making sure something happens (\"try to / make a point of\"). A bare verb ＋ ように also means \"so that.\"",
+      "categories": [
+        "Verb Form",
+        "Phrase"
+      ],
+      "slug": "you-ni-naru",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1023,
+      "title": "〜ようとする・〜ようと思う",
+      "description": "Both build on the volitional form (〜よう). 〜ようとする means \"to be about to / try to\" — you're on the verge of an action or making an attempt. 〜ようと思（おも）う means \"I'm thinking of doing\" — a softer statement of intention.",
+      "categories": [
+        "Verb Form",
+        "Phrase"
+      ],
+      "slug": "you-to-suru",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1024,
+      "title": "〜について",
+      "description": "〜について attaches to a noun to mean \"about\" or \"concerning\" — it marks the topic you are talking, thinking, writing, or asking about.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "ni-tsuite",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1025,
+      "title": "〜による・〜によって・〜によると",
+      "description": "〜による and 〜によって attach to a noun to mean \"depending on,\" \"by means of,\" or \"due to,\" while 〜によると introduces a source for hearsay — \"according to ...\" — and usually pairs with 〜そうだ.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "ni-yoru",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1026,
+      "title": "〜にとって",
+      "description": "〜にとって attaches to a noun (usually a person or group) to mean \"for ~\" or \"from ~'s point of view\" — it frames how something looks or matters from someone's perspective.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "ni-totte",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1027,
+      "title": "〜として",
+      "description": "〜として attaches to a noun to mean \"as ~\" — it states the role, capacity, status, or function in which someone or something acts or is treated.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "to-shite",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1028,
+      "title": "〜にしては",
+      "description": "〜にしては means \"for ~\" or \"considering it's ~\" — it sets up a standard, then points out that reality is surprisingly different from what that standard would lead you to expect.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "ni-shite-wa",
+      "source": "lessons",
+      "jlptLevel": "N2"
+    },
+    {
+      "id": 1029,
+      "title": "〜かわりに",
+      "description": "〜かわりに (代（か）わりに) means \"instead of ~\" or \"in exchange for ~\" — it swaps one thing for another, or balances one thing against a trade-off.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "kawari-ni",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1030,
+      "title": "しか〜ない",
+      "description": "しか is a particle meaning \"only\" that must be paired with a negative verb. しか〜ない limits something to a single option and carries the nuance that it isn't much or isn't enough.",
+      "categories": [
+        "Particle"
+      ],
+      "slug": "shika-nai",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1031,
+      "title": "〜まま",
+      "description": "〜まま means \"as is\" or \"leaving something in an unchanged state\" — an action or condition stays the way it was while something else happens.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "mama",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1032,
+      "title": "〜ばよかった",
+      "description": "〜ばよかった expresses regret about the past — \"I wish I had ~\" or \"I should have ~.\" It combines the ば conditional form with よかった (\"it would have been good\").",
+      "categories": [
+        "Phrase",
+        "Conditional"
+      ],
+      "slug": "ba-yokatta",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1033,
+      "title": "〜といい",
+      "description": "〜といい expresses a hope or wish — \"I hope ~\" or \"it'd be good if ~.\" The と is the conditional \"if,\" so literally it's \"if ~ happens, that would be good.\"",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "to-ii",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1034,
+      "title": "〜はじめる・〜おわる",
+      "description": "Attach 始（はじ）める or 終（お）わる to a verb's ますstem to make a compound verb meaning \"start doing ~\" or \"finish doing ~.\"",
+      "categories": [
+        "Verb Form"
+      ],
+      "slug": "hajimeru-owaru",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1035,
+      "title": "〜たて",
+      "description": "〜たて attaches to a verb stem to mean \"freshly ~\" or \"just-~ed\" — an action finished only moments ago, with the result still fresh. Common with cooking and other made-just-now things.",
+      "categories": [
+        "Verb Form",
+        "Suffix"
+      ],
+      "slug": "tate",
+      "source": "lessons",
+      "jlptLevel": "N2"
+    },
+    {
+      "id": 1036,
+      "title": "〜そうになる",
+      "description": "〜そうになる attaches to a verb stem to mean \"almost did ~\" or \"was about to ~\" — something nearly happened but didn't. Usually used in the past as 〜そうになった.",
+      "categories": [
+        "Verb Form",
+        "Phrase"
+      ],
+      "slug": "sou-ni-naru",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1037,
+      "title": "〜ほど〜ない",
+      "description": "The 〜ほど〜ない pattern compares two things and says one is \"not as ~ as\" the other. The noun before ほど is the standard you fall short of.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "hodo-nai",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1038,
+      "title": "〜たほうがいい・〜ないほうがいい",
+      "description": "〜ほうがいい gives advice or states a preference — \"it's better to ~.\" Use the past た form to recommend doing something, and the plain ない form to recommend not doing it.",
+      "categories": [
+        "Phrase"
+      ],
+      "slug": "hou-ga-ii",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1039,
+      "title": "〜ごとに",
+      "description": "〜ごとに attaches to a noun to mean \"every ~\" or \"at each ~\" — marking regular intervals or that something applies to each member of a group.",
+      "categories": [
+        "Suffix"
+      ],
+      "slug": "goto-ni",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1040,
+      "title": "〜方（かた）",
+      "description": "〜方（かた） attaches to a verb stem to mean \"way of doing ~\" or \"how to ~.\" The result is a noun: 使（つか）い方（かた） = way of using, how to use.",
+      "categories": [
+        "Suffix",
+        "Verb Form"
+      ],
+      "slug": "kata",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1041,
+      "title": "せっかく",
+      "description": "せっかく is an adverb marking that effort, trouble, or a rare opportunity went into something — \"with great effort,\" \"went to the trouble of,\" or \"long-awaited.\" It often carries a sense that this effort shouldn't go to waste.",
+      "categories": [
+        "Adverb",
+        "Phrase"
+      ],
+      "slug": "sekkaku",
+      "source": "lessons",
+      "jlptLevel": "N2"
+    },
+    {
+      "id": 1042,
+      "title": "〜とか〜とか",
+      "description": "〜とか〜とか lists examples in a casual, non-exhaustive way — \"things like A and B.\" It implies there are other unlisted items too.",
+      "categories": [
+        "Particle"
+      ],
+      "slug": "toka-toka",
+      "source": "lessons",
+      "jlptLevel": "N4"
+    },
+    {
+      "id": 1043,
+      "title": "〜以上・〜以外",
+      "description": "Two similar-looking suffixes: 〜以上（いじょう） means \"more than / at least / above,\" while 〜以外（いがい） means \"except / other than.\" Different kanji, different meanings — don't mix them up.",
+      "categories": [
+        "Suffix"
+      ],
+      "slug": "ijou-igai",
+      "source": "lessons",
+      "jlptLevel": "N3"
+    },
+    {
+      "id": 1044,
+      "title": "〜向け",
+      "description": "〜向（む）け attaches to a noun to mean \"aimed at\" or \"intended for\" a particular group or audience — 子供（こども）向（む）け = for children.",
+      "categories": [
+        "Suffix"
+      ],
+      "slug": "muke",
+      "source": "lessons",
+      "jlptLevel": "N2"
+    }
+  ]
+}

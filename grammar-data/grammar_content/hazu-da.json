@@ -1,0 +1,129 @@
+{
+  "title": "〜はずだ・〜はずがない",
+  "description": "〜はずだ expresses a logical expectation — \"it should be (so),\" based on reasoning or known facts. Its counterpart 〜はずがない means \"there's no way / it can't possibly be,\" a confident denial of a possibility.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜はずだ says that, given what you know, something should logically be the case. It attaches to plain-form verbs and い-adjectives directly, な-adjectives with な, and nouns with の. It reflects reasoned expectation, not certainty or obligation."
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb・い-adj （plain）／ な-adj ＋ な ／ Noun ＋ の　＋ はずだ",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）は約束（やくそく）したから、来（く）るはずだ。",
+      "english": "He promised, so he should come."
+    },
+    {
+      "type": "example",
+      "japanese": "この時間（じかん）なら、店（みせ）はまだ開（あ）いているはずだ。",
+      "english": "At this hour the shop should still be open."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "hazu-ga-nai",
+      "text": "No Way 〜はずがない"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜はずがない (also 〜はずはない) flips the expectation into a strong denial: reasoning tells you it simply cannot be true."
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb・Adjective （plain）／ な-adj ＋ な　＋ はずがない",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "そんなに簡単（かんたん）なはずがない。",
+      "english": "There's no way it's that easy."
+    },
+    {
+      "type": "example",
+      "japanese": "彼女（かのじょ）がそんな嘘（うそ）をつくはずがない。",
+      "english": "There's no way she would tell such a lie."
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）が来（こ）ないはずがない。絶対（ぜったい）来（く）る。",
+      "english": "There's no way he won't come. He'll definitely be here."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't confuse 〜はずだ (\"should be,\" an expectation about facts) with 〜べきだ (\"should do,\" a moral obligation). 来（く）るはずだ = \"he's expected to come\"; 来（く）るべきだ = \"he ought to come.\" はず predicts; べき prescribes."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "Verb・い-adj （plain）／ な-adj ＋ な ／ Noun ＋ の　＋ はずだ",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "彼（かれ）は約束（やくそく）したから、来（く）るはずだ。",
+      "english": "He promised, so he should come."
+    },
+    {
+      "japanese": "この時間（じかん）なら、店（みせ）はまだ開（あ）いているはずだ。",
+      "english": "At this hour the shop should still be open."
+    },
+    {
+      "japanese": "Verb・Adjective （plain）／ な-adj ＋ な　＋ はずがない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "そんなに簡単（かんたん）なはずがない。",
+      "english": "There's no way it's that easy."
+    },
+    {
+      "japanese": "彼女（かのじょ）がそんな嘘（うそ）をつくはずがない。",
+      "english": "There's no way she would tell such a lie."
+    },
+    {
+      "japanese": "彼（かれ）が来（こ）ないはずがない。絶対（ぜったい）来（く）る。",
+      "english": "There's no way he won't come. He'll definitely be here."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "hazu-ga-nai",
+      "text": "No Way 〜はずがない"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1020,
+  "slug": "hazu-da",
+  "categories": [
+    "Phrase",
+    "Uncertainty"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

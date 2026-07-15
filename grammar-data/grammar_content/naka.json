@@ -1,0 +1,507 @@
+{
+  "title": "中（なか）",
+  "description": "中（なか）is a word for \"inside.\" It can also mark items for comparison, as in \"among\" these things, or indicate the circumstances \"in which\" another action or event takes place.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "At its most basic, 中（なか） is a word that refers to the inside of certain boundaries in space. So, \"inside the box\" is 箱（はこ）の 中（なか）, and \"inside the house\" is 家（いえ）の 中（なか）."
+    },
+    {
+      "type": "example",
+      "japanese": "箱（はこ）の中（なか）",
+      "english": "inside the box"
+    },
+    {
+      "type": "example",
+      "japanese": "家（いえ）の中（なか）",
+      "english": "inside the house"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, 中（なか） can also refer to a middle position, as it is essentially the inside position in regard to both sides, edges, or ends of something. Hence, \"middle finger\" in Japanese is called 中指（なかゆび） as it's the middle of five fingers."
+    },
+    {
+      "type": "example",
+      "japanese": "中指（なかゆび）",
+      "english": "middle finger"
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, as a \"central\" or main location for business activity, the downtown area of a city/town is frequently referred to as 街（まち）中（ちゅう）/町中（まちなか） in Japanese, because that is essentially the core — even though it may not actually be at the geographic center — of a city/town. 1"
+    },
+    {
+      "type": "example",
+      "japanese": "街（まち）中（ちゅう）／町中（まちなか）",
+      "english": "the central area of a city/town"
+    },
+    {
+      "type": "paragraph",
+      "text": "Getting the gist of 中（なか）? Let's move on to the Patterns of Use!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note: We also have separate grammar pages for 〜中（なか） (ちゅう) and 〜中（ちゅう）(じゅう) . If you aren't familiar with these topics, check their dedicated pages as well!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section",
+      "text": "〜の中"
+    },
+    {
+      "type": "paragraph",
+      "text": "As seen in the first set of examples, the particle の is used to mark the object whose \"inside\" you're talking about. For example, if something is inside the car, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "車（くるま）の中（なか）",
+      "english": "inside the car"
+    },
+    {
+      "type": "paragraph",
+      "text": "The location marked by の can be a figurative place, too. For instance, to say that something is in your memory, you can use it like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "記憶（きおく）の中（なか）",
+      "english": "in my memory"
+    },
+    {
+      "type": "paragraph",
+      "text": "That being said, 〜の 中（なか） is often omitted as the context and other elements, such as に or で , can imply that you are talking about the inside of something."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-1",
+      "text": "(〜の)中 + に/で"
+    },
+    {
+      "type": "paragraph",
+      "text": "Different particles can follow 中（なか）, but the most common ones are に and で . Between the two, に simply pinpoints a location while で specifies where an event or an activity takes place."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, if you simply want to indicate the current location of your keys, you would use に: 2"
+    },
+    {
+      "type": "example",
+      "japanese": "カギを車（くるま）の中（なか）に忘（わす）れた。",
+      "english": "I left my keys in the car."
+    },
+    {
+      "type": "paragraph",
+      "text": "When talking about a location where an action or an event takes place rather than where something is or is going, you would use で, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "昨日（きのう）は車（くるま）の中（なか）で寝（ね）た。",
+      "english": "I slept in the car yesterday."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, で expresses the location (your car) as a backdrop to your action (sleeping)."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you aren't familiar with the difference between に and で, check out our article に vs で: Which Particle To Choose and Why ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Oh, and again, in both of the examples above 〜の 中（なか） can be omitted without changing the meaning of the sentence because the context and chosen particles imply that you're talking about the inside of the car."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-within-boundaries",
+      "text": "中 For \"Within Boundaries\""
+    },
+    {
+      "type": "paragraph",
+      "text": "中（なか） can be used to talk about things demarcated within certain boundaries. Okay, what does that mean, exactly? It's easier to understand with examples, so let's go through a few!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-from-among-the-choices",
+      "text": "〜の中から For \"From Among The Choices…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Used with the particle から , 中（なか） can set a boundary between three or more choices. 3 For instance, consider a scenario where you take your child to the toy store. They pick up three toys they really want, but they're only allowed to have one. You can use 〜の 中（なか）から and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "三（みっ）つの中（なか）から、一（ひと）つ選（えら）んでね。",
+      "english": "You can pick one of these. (Literally: Pick one from among these three.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to be a little more specific, you can use the particle と to list the items instead of just saying \"these three.\" So if the choices are a toy airplane, a bouncy ball, and a doll, you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "飛行機（ひこうき）とスーパーボールと人形（にんぎょう）の中（なか）から、好（す）きなの一（ひと）つ選（えら）んでね。",
+      "english": "You can pick the airplane, the bouncy ball, or the doll. (Literally: Pick the one you like from among the airplane, the bouncy ball, and the doll.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, 〜の 中（なか） can be omitted, because the boundary is already designated by your specifying the items."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-out-of",
+      "text": "〜の中で For \"(Out) of…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Used with the particle で , 中（なか） can set a boundary of items for comparison. In this case, again, the choice must be between three or more items. 4"
+    },
+    {
+      "type": "paragraph",
+      "text": "This pattern is frequently used to indicate who or what takes the highest or lowest position among the subjects up for comparison. 5"
+    },
+    {
+      "type": "example",
+      "japanese": "タカシは三（さん）人（にん）の中（なか）で一番（いちばん）背（せ）が高（たか）い。",
+      "english": "Takashi is the tallest of the three."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use 中（なか） to distinguish \"the one\" from the rest of the compared subjects. Like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "三（さん）人（にん）の中（なか）で面白（おもしろ）いのはケンタだけだ。",
+      "english": "Of the three, the only amusing one is Kenta."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep in mind that in some cases, 三人（さんにん）の 中（なか）で might also mean \" among the three people\" or \" among the three of us.\" This usage is often literary and particularly alludes to something having been resolved or kept a secret \" among the three people\" because it still highlights the boundaries and the \"within,\" like:"
+    },
+    {
+      "type": "example",
+      "japanese": "それはもう三（さん）人（にん）の中（なか）で解決（かいけつ）したことでしょ？",
+      "english": "That's already been resolved among the three of us/them, hasn't it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hmm, now I really want to know what went down between the three of them…"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-some-of",
+      "text": "(〜の)中には For \"Some of…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Used with particle に and particle は , 中（なか） can define a range of subjects for comparison, as in \"out of these, some of them…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you're a professor complaining that some of the students in the online class don't ever turn on their cameras, you may use this expression and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "生徒（せいと）の中（なか）には、カメラを付（つ）けない者（もの）もいる。",
+      "english": "Some of the students don't turn on their cameras."
+    },
+    {
+      "type": "paragraph",
+      "text": "If the context is clear, you can omit the 〜の part of 〜の 中（なか）には. For example, if it's obvious you're talking about students, you can simply say:"
+    },
+    {
+      "type": "example",
+      "japanese": "中（なか）には、カメラを付（つ）けない者（もの）もいる。",
+      "english": "Some of (the students) don't turn on their cameras."
+    },
+    {
+      "type": "paragraph",
+      "text": "I guess it's pretty common nowadays as online classes become more mainstream!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-under-certain-circumstances",
+      "text": "中 For \"Under Certain Circumstances\""
+    },
+    {
+      "type": "paragraph",
+      "text": "中（なか） can also be used to describe the circumstances under which an action takes place; i.e. \"under certain circumstances.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "When referring to physical actions, the circumstances 中（なか） describes are often related to bad weather, and the action itself is typically a motion verb, such as 歩（ある）く (walk), 走（はし）る (run), さまよう (wander/roam), or 来（く）る (come)."
+    },
+    {
+      "type": "example",
+      "japanese": "嵐（あらし）の中（ちゅう）(を)[歩（ある）いた・走（はし）った・さまよった・来（き）た]。",
+      "english": "I [walked・ran・wandered・came] in the middle of a storm."
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have noticed that the particle を often comes after 中（なか）, though it can be omitted. This is because the circumstance can be likened to a path you can go through, and \"the path\" is marked by the particle を in Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, bad weather is figuratively described, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "お足元（あしもと）の悪（わる）い中（なか）(を)、お越（こ）し頂（いただ）き有難（ありがと）うございます。",
+      "english": "Thank you for coming in spite of the bad weather. (Literally: Thank you for coming in spite of the wet and muddy ground around your feet.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a common way to start a speech at an event that just so happened to be held on a day with lousy weather."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other than bad weather, you can also use 中（なか） to refer to negative circumstances, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "バッシングの中（ちゅう）(を)、歯（は）を食（く）いしばって頑張（がんば）った。",
+      "english": "Despite the bashing, I gritted my teeth and worked through it."
+    },
+    {
+      "type": "example",
+      "japanese": "お忙（いそが）しい中（ちゅう）(を)、お出（い）で頂（いただ）き有難（ありがと）うございます。",
+      "english": "Thank you for taking time out of your busy schedule to be here."
+    },
+    {
+      "type": "paragraph",
+      "text": "街中（まちなか） and 町中（まちなか） can also be read まちじゅう. In these cases, the meaning changes to \"[all over・throughout] the city/town.\" &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "In a situation similar to asking yourself where you left your keys while trying to remember, you can use either に or で to mark the location, as in 車（くるま）の 中（ちゅう）[に・で] 忘（わす）れたんだ！(I left my keys in the car!) With に, the focus is on where the keys are , whereas with で it's on where you perform the action (though it's probably an involuntary action). In this case, having left your keys somewhere. &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "When the are only two things to choose from, you would directly combine 二（ふた）つ and から, as in この二（ふた）つから (out of the two choices), or use どちらか or どっちか (either one) with から, as in どちらかから or どっちかから (from either one of the choices). &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "When are only two things to compare, you would use 〜のうちで instead of 〜の中（なか）で, as in この二（ふた）つのうちで、どっちがいい? (Which one do you prefer between the two?), or the conditional form なら or だったら, as in この二（ふた）つ[なら・だったら]、どっちがいい? (If it's between these two, which one do you prefer?). You can also use どちらか or どっちか (either one), but in this case, なら or だったら are more common collocations than 〜のうちで. &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Among all the grammatical uses on this page, only this 中（なか） (〜の中（なか）で) can be replaced with うち, which is another word for \"inside\" in Japanese. For example, the same things as the examples listed here can be said using うち, as in タカシは三（さん）人（にん）の うちで 一番（いちばん）背（せ）が高（たか）い。(Takashi is the tallest of the three.) or 三（さん）人（にん）の うちで 面白（おもしろ）いのはケンタだけだ。( Of the three, the only amusing one is Kenta.). If you aren't familiar with うち and how it differs from 中（ちゅう）, check out our article: 中（なか） vs 内（うち）: The Difference Between These Two Japanese Words for \"Inside\" . &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "At its most basic, 中（なか） is a word that refers to the inside of certain boundaries in space. So, \"inside the box\" is 箱（はこ）の 中（なか）, and \"inside the house\" is 家（いえ）の 中（なか）.",
+    "In the same way, 中（なか） can also refer to a middle position, as it is essentially the inside position in regard to both sides, edges, or ends of something. Hence, \"middle finger\" in Japanese is called 中指（なかゆび） as it's the middle of five fingers.",
+    "Similarly, as a \"central\" or main location for business activity, the downtown area of a city/town is frequently referred to as 街（まち）中（ちゅう）/町中（まちなか） in Japanese, because that is essentially the core — even though it may not actually be at the geographic center — of a city/town. 1",
+    "Getting the gist of 中（なか）? Let's move on to the Patterns of Use!",
+    "Note: We also have separate grammar pages for 〜中（なか） (ちゅう) and 〜中（ちゅう）(じゅう) . If you aren't familiar with these topics, check their dedicated pages as well!",
+    "As seen in the first set of examples, the particle の is used to mark the object whose \"inside\" you're talking about. For example, if something is inside the car, you can say:",
+    "The location marked by の can be a figurative place, too. For instance, to say that something is in your memory, you can use it like this:",
+    "That being said, 〜の 中（なか） is often omitted as the context and other elements, such as に or で , can imply that you are talking about the inside of something.",
+    "Different particles can follow 中（なか）, but the most common ones are に and で . Between the two, に simply pinpoints a location while で specifies where an event or an activity takes place.",
+    "So, if you simply want to indicate the current location of your keys, you would use に: 2",
+    "When talking about a location where an action or an event takes place rather than where something is or is going, you would use で, like:",
+    "Here, で expresses the location (your car) as a backdrop to your action (sleeping).",
+    "If you aren't familiar with the difference between に and で, check out our article に vs で: Which Particle To Choose and Why .",
+    "Oh, and again, in both of the examples above 〜の 中（なか） can be omitted without changing the meaning of the sentence because the context and chosen particles imply that you're talking about the inside of the car.",
+    "中（なか） can be used to talk about things demarcated within certain boundaries. Okay, what does that mean, exactly? It's easier to understand with examples, so let's go through a few!",
+    "Used with the particle から , 中（なか） can set a boundary between three or more choices. 3 For instance, consider a scenario where you take your child to the toy store. They pick up three toys they really want, but they're only allowed to have one. You can use 〜の 中（なか）から and say:",
+    "If you want to be a little more specific, you can use the particle と to list the items instead of just saying \"these three.\" So if the choices are a toy airplane, a bouncy ball, and a doll, you might say:",
+    "In this case, 〜の 中（なか） can be omitted, because the boundary is already designated by your specifying the items.",
+    "Used with the particle で , 中（なか） can set a boundary of items for comparison. In this case, again, the choice must be between three or more items. 4",
+    "This pattern is frequently used to indicate who or what takes the highest or lowest position among the subjects up for comparison. 5",
+    "You can also use 中（なか） to distinguish \"the one\" from the rest of the compared subjects. Like this:",
+    "Keep in mind that in some cases, 三人（さんにん）の 中（なか）で might also mean \" among the three people\" or \" among the three of us.\" This usage is often literary and particularly alludes to something having been resolved or kept a secret \" among the three people\" because it still highlights the boundaries and the \"within,\" like:",
+    "Hmm, now I really want to know what went down between the three of them…",
+    "Used with particle に and particle は , 中（なか） can define a range of subjects for comparison, as in \"out of these, some of them…\"",
+    "For example, if you're a professor complaining that some of the students in the online class don't ever turn on their cameras, you may use this expression and say:",
+    "If the context is clear, you can omit the 〜の part of 〜の 中（なか）には. For example, if it's obvious you're talking about students, you can simply say:",
+    "I guess it's pretty common nowadays as online classes become more mainstream!",
+    "中（なか） can also be used to describe the circumstances under which an action takes place; i.e. \"under certain circumstances.\"",
+    "When referring to physical actions, the circumstances 中（なか） describes are often related to bad weather, and the action itself is typically a motion verb, such as 歩（ある）く (walk), 走（はし）る (run), さまよう (wander/roam), or 来（く）る (come).",
+    "You may have noticed that the particle を often comes after 中（なか）, though it can be omitted. This is because the circumstance can be likened to a path you can go through, and \"the path\" is marked by the particle を in Japanese.",
+    "Sometimes, bad weather is figuratively described, as in:",
+    "This is a common way to start a speech at an event that just so happened to be held on a day with lousy weather.",
+    "Other than bad weather, you can also use 中（なか） to refer to negative circumstances, like:",
+    "街中（まちなか） and 町中（まちなか） can also be read まちじゅう. In these cases, the meaning changes to \"[all over・throughout] the city/town.\" &#8617;",
+    "In a situation similar to asking yourself where you left your keys while trying to remember, you can use either に or で to mark the location, as in 車（くるま）の 中（ちゅう）[に・で] 忘（わす）れたんだ！(I left my keys in the car!) With に, the focus is on where the keys are , whereas with で it's on where you perform the action (though it's probably an involuntary action). In this case, having left your keys somewhere. &#8617;",
+    "When the are only two things to choose from, you would directly combine 二（ふた）つ and から, as in この二（ふた）つから (out of the two choices), or use どちらか or どっちか (either one) with から, as in どちらかから or どっちかから (from either one of the choices). &#8617;",
+    "When are only two things to compare, you would use 〜のうちで instead of 〜の中（なか）で, as in この二（ふた）つのうちで、どっちがいい? (Which one do you prefer between the two?), or the conditional form なら or だったら, as in この二（ふた）つ[なら・だったら]、どっちがいい? (If it's between these two, which one do you prefer?). You can also use どちらか or どっちか (either one), but in this case, なら or だったら are more common collocations than 〜のうちで. &#8617;",
+    "Among all the grammatical uses on this page, only this 中（なか） (〜の中（なか）で) can be replaced with うち, which is another word for \"inside\" in Japanese. For example, the same things as the examples listed here can be said using うち, as in タカシは三（さん）人（にん）の うちで 一番（いちばん）背（せ）が高（たか）い。(Takashi is the tallest of the three.) or 三（さん）人（にん）の うちで 面白（おもしろ）いのはケンタだけだ。( Of the three, the only amusing one is Kenta.). If you aren't familiar with うち and how it differs from 中（ちゅう）, check out our article: 中（なか） vs 内（うち）: The Difference Between These Two Japanese Words for \"Inside\" . &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "箱（はこ）の中（なか）",
+      "english": "inside the box"
+    },
+    {
+      "japanese": "家（いえ）の中（なか）",
+      "english": "inside the house"
+    },
+    {
+      "japanese": "中指（なかゆび）",
+      "english": "middle finger"
+    },
+    {
+      "japanese": "街（まち）中（ちゅう）／町中（まちなか）",
+      "english": "the central area of a city/town"
+    },
+    {
+      "japanese": "車（くるま）の中（なか）",
+      "english": "inside the car"
+    },
+    {
+      "japanese": "記憶（きおく）の中（なか）",
+      "english": "in my memory"
+    },
+    {
+      "japanese": "カギを車（くるま）の中（なか）に忘（わす）れた。",
+      "english": "I left my keys in the car."
+    },
+    {
+      "japanese": "昨日（きのう）は車（くるま）の中（なか）で寝（ね）た。",
+      "english": "I slept in the car yesterday."
+    },
+    {
+      "japanese": "三（みっ）つの中（なか）から、一（ひと）つ選（えら）んでね。",
+      "english": "You can pick one of these. (Literally: Pick one from among these three.)"
+    },
+    {
+      "japanese": "飛行機（ひこうき）とスーパーボールと人形（にんぎょう）の中（なか）から、好（す）きなの一（ひと）つ選（えら）んでね。",
+      "english": "You can pick the airplane, the bouncy ball, or the doll. (Literally: Pick the one you like from among the airplane, the bouncy ball, and the doll.)"
+    },
+    {
+      "japanese": "タカシは三（さん）人（にん）の中（なか）で一番（いちばん）背（せ）が高（たか）い。",
+      "english": "Takashi is the tallest of the three."
+    },
+    {
+      "japanese": "三（さん）人（にん）の中（なか）で面白（おもしろ）いのはケンタだけだ。",
+      "english": "Of the three, the only amusing one is Kenta."
+    },
+    {
+      "japanese": "それはもう三（さん）人（にん）の中（なか）で解決（かいけつ）したことでしょ？",
+      "english": "That's already been resolved among the three of us/them, hasn't it?"
+    },
+    {
+      "japanese": "生徒（せいと）の中（なか）には、カメラを付（つ）けない者（もの）もいる。",
+      "english": "Some of the students don't turn on their cameras."
+    },
+    {
+      "japanese": "中（なか）には、カメラを付（つ）けない者（もの）もいる。",
+      "english": "Some of (the students) don't turn on their cameras."
+    },
+    {
+      "japanese": "嵐（あらし）の中（ちゅう）(を)[歩（ある）いた・走（はし）った・さまよった・来（き）た]。",
+      "english": "I [walked・ran・wandered・came] in the middle of a storm."
+    },
+    {
+      "japanese": "お足元（あしもと）の悪（わる）い中（なか）(を)、お越（こ）し頂（いただ）き有難（ありがと）うございます。",
+      "english": "Thank you for coming in spite of the bad weather. (Literally: Thank you for coming in spite of the wet and muddy ground around your feet.)"
+    },
+    {
+      "japanese": "バッシングの中（ちゅう）(を)、歯（は）を食（く）いしばって頑張（がんば）った。",
+      "english": "Despite the bashing, I gritted my teeth and worked through it."
+    },
+    {
+      "japanese": "お忙（いそが）しい中（ちゅう）(を)、お出（い）で頂（いただ）き有難（ありがと）うございます。",
+      "english": "Thank you for taking time out of your busy schedule to be here."
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "section",
+      "text": "〜の中"
+    },
+    {
+      "level": 4,
+      "id": "section-1",
+      "text": "(〜の)中 + に/で"
+    },
+    {
+      "level": 3,
+      "id": "for-within-boundaries",
+      "text": "中 For \"Within Boundaries\""
+    },
+    {
+      "level": 4,
+      "id": "for-from-among-the-choices",
+      "text": "〜の中から For \"From Among The Choices…\""
+    },
+    {
+      "level": 4,
+      "id": "for-out-of",
+      "text": "〜の中で For \"(Out) of…\""
+    },
+    {
+      "level": 4,
+      "id": "for-some-of",
+      "text": "(〜の)中には For \"Some of…\""
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-under-certain-circumstances",
+      "text": "中 For \"Under Certain Circumstances\""
+    }
+  ],
+  "id": 126,
+  "slug": "naka",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/naka/",
+  "categories": [
+    "Noun"
+  ]
+}

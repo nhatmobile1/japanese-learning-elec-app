@@ -1,0 +1,136 @@
+{
+  "title": "〜として",
+  "description": "〜として attaches to a noun to mean \"as ~\" — it states the role, capacity, status, or function in which someone or something acts or is treated.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜として follows a noun to describe the role or capacity someone acts in, or the function something is used for: \"as a friend,\" \"as a doctor,\" \"as a cupboard.\" It labels the standpoint from which the action happens."
+    },
+    {
+      "type": "formula",
+      "japanese": "名詞（めいし）＋として",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "友達（ともだち）として言（い）います。",
+      "english": "I'm telling you this as a friend."
+    },
+    {
+      "type": "example",
+      "japanese": "この棚（たな）を食器棚（しょっきだな）として使（つか）っています。",
+      "english": "I'm using this shelf as a cupboard."
+    },
+    {
+      "type": "example",
+      "japanese": "そのことを大切（たいせつ）なこととして見（み）ています。",
+      "english": "I see that matter as something important."
+    },
+    {
+      "type": "example",
+      "japanese": "医者（いしゃ）として働（はたら）いています。",
+      "english": "I work as a doctor."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "as-a-purpose",
+      "text": "\"As\" a Gift, Purpose, or Category"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜として also labels what something serves as or counts as — a gift, an example, a substitute. The noun names the function the item is being given in."
+    },
+    {
+      "type": "example",
+      "japanese": "クリスマスプレゼントとしてホテルの部屋（へや）をあげます。",
+      "english": "I'll give a hotel room as a Christmas present."
+    },
+    {
+      "type": "example",
+      "japanese": "記念（きねん）として写真（しゃしん）を撮（と）りました。",
+      "english": "I took a photo as a keepsake."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "related",
+      "text": "Related: 〜としては"
+    },
+    {
+      "type": "paragraph",
+      "text": "Adding は gives 〜としては, meaning \"as for ~\" or \"speaking as ~,\" used to state a personal position or stance."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）としては賛成（さんせい）です。",
+      "english": "As for me, I'm in favor."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "名詞（めいし）＋として",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "友達（ともだち）として言（い）います。",
+      "english": "I'm telling you this as a friend."
+    },
+    {
+      "japanese": "この棚（たな）を食器棚（しょっきだな）として使（つか）っています。",
+      "english": "I'm using this shelf as a cupboard."
+    },
+    {
+      "japanese": "そのことを大切（たいせつ）なこととして見（み）ています。",
+      "english": "I see that matter as something important."
+    },
+    {
+      "japanese": "医者（いしゃ）として働（はたら）いています。",
+      "english": "I work as a doctor."
+    },
+    {
+      "japanese": "クリスマスプレゼントとしてホテルの部屋（へや）をあげます。",
+      "english": "I'll give a hotel room as a Christmas present."
+    },
+    {
+      "japanese": "記念（きねん）として写真（しゃしん）を撮（と）りました。",
+      "english": "I took a photo as a keepsake."
+    },
+    {
+      "japanese": "私（わたし）としては賛成（さんせい）です。",
+      "english": "As for me, I'm in favor."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "as-a-purpose",
+      "text": "\"As\" a Gift, Purpose, or Category"
+    },
+    {
+      "level": 2,
+      "id": "related",
+      "text": "Related: 〜としては"
+    }
+  ],
+  "id": 1027,
+  "slug": "to-shite",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

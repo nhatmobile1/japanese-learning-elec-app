@@ -1,0 +1,724 @@
+{
+  "title": "Particle よ",
+  "description": "よ is a sentence-ending particle that gives an informative feel.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle よ is a sentence-ending particle — a type of particle that adds nuance or tone to a sentence. So, what nuance does よ add? It indicates that the speaker is offering new information or a new perspective to the listener. Or at the very least, it gives the impression that something new is being offered. In this way, よ is often used to facilitate conversations and make them flow better."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing よ"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you think of the meaning of particle よ, it's helpful to think of it as marking a statement as \"informative.\" You can imagine that a speaker who adds よ to the end of their statement feels like they're handing over a nugget of wisdom, insight, or a new perspective to the listener. That's why in the image above, the speaker is holding out their hand, as though they're offering their よ statement to the listener. The speaker and the speech bubble are both colorless to indicate that the information belongs to the speaker. It's their information that they are giving to the listener, who's colored differently to underline that it's not the listener's information."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, the following sentence simply states the fact that it's raining:"
+    },
+    {
+      "type": "example",
+      "japanese": "あ、雨（あめ）が降（ふ）ってる。",
+      "english": "Oh, it's raining."
+    },
+    {
+      "type": "paragraph",
+      "text": "Without the use of a sentence-ending particle like よ, this statement comes across as a bit dry. It's not clear whether the statement is directed at someone else, or if the speaker is just muttering this to themselves. By adding the particle よ however, the informative nuance kicks in and it becomes clear that the statement is intended for someone else:"
+    },
+    {
+      "type": "example",
+      "japanese": "あ、雨（あめ）が降（ふ）ってるよ。",
+      "english": "Oh look, it's raining."
+    },
+    {
+      "type": "paragraph",
+      "text": "In other words, よ is a tool for facilitating communication between the speaker and the listener. When よ is used, the speaker's aim is to inform the listener, and the listener is prompted to somehow acknowledge the receipt of this information."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because よ has this informative nuance and it places pressure on the listener to respond, it can come across as overly friendly or conversational in a formal context. Of course, you can make it sound more polite by using the polite form as in あ、雨（あめ）が降（ふ）ってますよ. However, you may want to avoid using よ with someone like your boss, unless you are on close and friendly terms. You can read more about when it might be best avoided here ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you might expect from a sentence-ending particle, よ comes at the end of sentences. That said, don't forget that Japanese sentences can be made up of just one word when the context allows it."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, よ can come directly after a verb."
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べるよ。",
+      "english": "I'll eat."
+    },
+    {
+      "type": "paragraph",
+      "text": "よ can also come directly after an い-adjective ."
+    },
+    {
+      "type": "example",
+      "japanese": "熱（あつ）いよ。",
+      "english": "That's hot."
+    },
+    {
+      "type": "paragraph",
+      "text": "It can also come directly after a な-adjective or a noun, but this generally adds a feminine feel to the sentence. And since most people — female speakers included — tend to go for more gender-neutral language in everyday communication, it's more common to insert the affirmative だ or the politeness marker です before the よ."
+    },
+    {
+      "type": "paragraph",
+      "text": "So for example, these are your options with the な-adjective , しずか (quiet):"
+    },
+    {
+      "type": "example",
+      "japanese": "しずかだよ。しずかですよ。しずかよ。",
+      "english": "It's quiet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Isn't it interesting how all of these mean the same thing, but the nuance is slightly different? Using だ or です removes the feeling of femininity, and です elevates the politeness level! The same is true when you use よ with a noun, like 犬（いぬ） (dog):"
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）だよ。犬（いぬ）ですよ。犬（いぬ）よ。",
+      "english": "It's a dog."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's also possible to add another particle after the な-adjective or noun. In that case, it's still common to have だ or です before よ if you're going for gender neutrality. For example, we might want to add particle も to express \"too,\" and this is how we'd do it:"
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）もだよ。犬（いぬ）もですよ。犬（いぬ）もよ。",
+      "english": "Dogs too!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "using-particle--in-context",
+      "text": "Using Particle よ in Context"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-alerting",
+      "text": "よ for Alerting"
+    },
+    {
+      "type": "paragraph",
+      "text": "The informative nuance of よ comes in really handy if you want to alert someone to something. In this case, you can use よ to draw the listener's attention to something they don't know yet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine you see someone drop their phone. You can pick their phone up and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "携帯（けいたい）落（お）としましたよ。",
+      "english": "You dropped your cell phone."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, it's obvious the listener doesn't know they dropped their cell phone. By using よ, the speaker can alert the listener and make sure they recognize it as an alert."
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll hear よ used to alert people quite often in everyday conversations. For example, when you cook a delicious dinner, you may summon your family members by shouting out:"
+    },
+    {
+      "type": "example",
+      "japanese": "晩（ばん）ごはんできたよ！",
+      "english": "Dinner's ready!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, the particle よ plays the role of getting the attention of your family members, and making sure they know that it's dinner time."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-giving-opinions",
+      "text": "よ For Giving Opinions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another common use of よ is when giving an opinion. People are unlikely to know your opinion until you share it, so it's new information for your listener."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at an example in conversation. Let's say that you're an avid listener of the Tofugu Podcast . You want to talk about it with your friend, but it turns out they haven't listened to it yet. You tell them:"
+    },
+    {
+      "type": "example",
+      "japanese": "めっちゃ良（よ）かったよ。",
+      "english": "It was really good."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you want to add more details about the podcast to encourage your friend to listen to it, you can say something like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "すごく勉強（べんきょう）になると思（おも）うよ。",
+      "english": "I think you'll learn a lot from it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, you're stating your opinion about the podcast using 〜と思（おも）う (I think 〜) plus the particle よ. Again, you know your friend hasn't listened to it yet, so adding the particle よ adds the nuance that you're sharing your own perception, in the hope of piquing their interest."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-being-pushy",
+      "text": "よ for Being Pushy"
+    },
+    {
+      "type": "paragraph",
+      "text": "よ also works when making a suggestion, but it can sound a little pushy and demanding."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's say that you and your coworker are working on a project together, but you're getting hungry and want to take a break for lunch. The two of you are on friendly terms, so you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "そろそろ何（なに）か食（た）べようよ。",
+      "english": "Let's get something to eat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since a suggestion is new information by its very nature, doubling this up with よ is reiterating something that's already implicit. This added emphasis can make the suggestion sound a little pushy or demanding. If you want to avoid the pushy undertones here, you can rephrase your statement as a question, such as そろそろ何（なに）か食（た）べない？"
+    },
+    {
+      "type": "paragraph",
+      "text": "よ can also be used to remind listeners of something they might already know. In this case, it can make you sound a bit like a know-it-all, so be careful!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine you are at a pizza buffet with your coworker. You both have to attend a two-hour meeting after your lunch break, so you suggest to your coworker that she should put down that seventh slice of pizza:"
+    },
+    {
+      "type": "example",
+      "japanese": "そんなに食（た）べたら会議（かいぎ）で眠（ねむ）くなるよ。",
+      "english": "You will get sleepy if you keep eating that much."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, the information you provide is pretty much common sense. Nevertheless, you use よ, which presents the information as if it were new to your coworker… pretty annoying right? Since this can sound a bit like a lecture from a parent, you might want to opt for a softer expression, like 眠（ねむ）くなっちゃうよ or 眠（ねむ）くなると思（おも）うよ to be less direct."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-contradicting",
+      "text": "よ For Contradicting"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another situation that calls for the informative tone of よ is when you want to contradict someone. In this case, よ allows you to communicate that you believe your listener is wrong, and you want them to acknowledge it."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's say you didn't sleep well last night and are feeling very drowsy. Your friend sees your frowning face and says, \"You look annoyed. What's up?\" You feel you've been misunderstood and want to correct your friend's assumption. In this case, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "イライラしてる訳（わけ）じゃないよ。",
+      "english": "It's not that I'm annoyed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Okay, to be honest, you sound a little annoyed too! But in any case, you can use よ here to show that your statement is setting right their false belief. Now go get some rest please!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-agreement",
+      "text": "よ For Agreement"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another type of statement that goes well with よ are when you want to agree to something. If someone asks you a question, your response will be new information to the person who asked you, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, you can use よ when agreeing to do someone a favor:"
+    },
+    {
+      "type": "formula",
+      "japanese": "ジェニーワニカニの使（つか）い方（かた）を教（おし）えてくれませんか？ </br> JennyCan you tell me how to use Wanikani?",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "ジェニー ワニカニの使（つか）い方（かた）を教（おし）えてくれませんか？ </br> Jenny Can you tell me how to use Wanikani?"
+    },
+    {
+      "type": "formula",
+      "japanese": "コウイチいいですよ。 </br> KoichiSure.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "コウイチ いいですよ。 </br> Koichi Sure."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is also useful when giving permission:"
+    },
+    {
+      "type": "formula",
+      "japanese": "マチ子（こ）これ借（か）りてもいいですか？ </br> MachikoCan I borrow this?",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "マチ子（こ） これ借（か）りてもいいですか？ </br> Machiko Can I borrow this?"
+    },
+    {
+      "type": "formula",
+      "japanese": "マミいいですよ。 </br> MamiSure.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "マミ いいですよ。 </br> Mami Sure."
+    },
+    {
+      "type": "paragraph",
+      "text": "In both examples, you're simply agreeing to what was asked. Particle よ emphasizes that you're offering an affirmative answer to the question asked. And there's nothing to worry about when emphasizing a positive answer, so you can simply reply with よ."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, よ can have an unintended nuance when you respond affirmatively to an invitation. Let's check it out:"
+    },
+    {
+      "type": "formula",
+      "japanese": "マミ日曜日（にちようび）、ピクニックに行（い）きませんか？ </br> MamiWhy don't we go on a picnic on Sunday?",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "マミ 日曜日（にちようび）、ピクニックに行（い）きませんか？ </br> Mami Why don't we go on a picnic on Sunday?"
+    },
+    {
+      "type": "formula",
+      "japanese": "カナエいいですよ。 </br> KanaeSure.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "カナエ いいですよ。 </br> Kanae Sure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Using よ in this context can sound a bit cold. Your friend is inviting you to a picnic with the assumption that it sounds good to you, so if you respond with よ, and mark your answer as new information to them, it makes you sound like you're only taking your opinion into account."
+    },
+    {
+      "type": "paragraph",
+      "text": "So what would be the better option then? In a situation like this, particle ね might actually be more suitable, as in いいですね. Unlike よ, particle ね conveys that you agree and are onboard with the suggestion. It creates a sense of shared information or unity, rather than the unidirectional feeling of よ."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are interested in learning more about the difference between よ and ね, check out our article on that very topic."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-declining",
+      "text": "よ For Declining"
+    },
+    {
+      "type": "paragraph",
+      "text": "We've just learned that you can use よ for agreement, but what about when you disagree? Can you use よ with negative answers as well?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The answer is yes, but in polite Japanese it's best to avoid adding よ to strongly negative words, such as 嫌（いや） (ew) or 無理（むり） (impossible). That said, children use it pretty commonly, as do adults who are on close, casual terms."
+    },
+    {
+      "type": "paragraph",
+      "text": "Instead, people often just say \"sorry\" and say they can't go, or give an explanation of why they can't go instead. In this case, you can add よ to your statement or explanation. Here is an example of declining an invitation in that way:"
+    },
+    {
+      "type": "formula",
+      "japanese": "マミ日曜日（にちようび）、ピクニックに行（い）きませんか？ </br> MamiWhy don't we go on a picnic on Sunday?",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "マミ 日曜日（にちようび）、ピクニックに行（い）きませんか？ </br> Mami Why don't we go on a picnic on Sunday?"
+    },
+    {
+      "type": "formula",
+      "japanese": "カナエすいません。その日（ひ）は忙（いそが）しいんです(よ)。 </br> KanaeSorry, I'm a little busy that day.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "カナエ すいません。その日（ひ）は忙（いそが）しいんです(よ)。 </br> Kanae Sorry, I'm a little busy that day."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you can answer with or without よ. By adding よ, you can add the nuance you want them to know and understand why you can't go on a picnic, since よ emphasizes you're offering new information."
+    },
+    {
+      "type": "paragraph",
+      "text": "That being said, if you want someone to understand your answer is an absolute \"no,\" jokingly or seriously, you can directly add よ to your \"no\" answer."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine that your colleague wants to borrow $1,000 from you. In this case, it's still common to give an evasive answer that implies \"no,\" such as それはちょっと… (that is…(impossible)), but you can also say:"
+    },
+    {
+      "type": "example",
+      "japanese": "絶対（ぜったい）貸（か）さない(よ)！",
+      "english": "No way I'm lending you that!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, you can also answer this with or without よ. Without よ, this sentence is still a bit strong and direct, but by adding よ, it emphasizes the answer and makes it even stronger."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-emphasizing-your-feelings",
+      "text": "よ For Emphasizing Your Feelings"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's look at one more situation in which よ can be used: when emphasizing your feelings. If you're feeling famished, you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "お腹（なか）すいたよー。",
+      "english": "I'm so hungry!"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, よ is completely optional here, and it's quite common and natural to leave it off:"
+    },
+    {
+      "type": "example",
+      "japanese": "お腹（なか）すいたー。",
+      "english": "I'm so hungry!"
+    },
+    {
+      "type": "paragraph",
+      "text": "So, what is the difference? Well, you're more likely to leave よ off if you're kind of talking to yourself, and not directing your comment at anyone in particular. You can add よ even if the comment is self-directed, though. If added to negative feelings like hunger, it makes it sound like you're stressing a point, so it can carry a nuance of complaining."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if you use よ when expressing positive emotions, like うれしいよ (this makes me happy) or 楽（たの）しいよ (this is fun for me), it adds the nuance that you're seeking some kind of response from whoever's nearby, rather than just voicing your feelings for your own benefit."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you're expressing something that is a big deal, such as confessing your love to someone for the first time, you'd probably leave the よ off:"
+    },
+    {
+      "type": "example",
+      "japanese": "好（す）きです。",
+      "english": "I like/love you."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because adding よ to a statement that's already loaded with emotion can feel obtrusive, especially when you are not sure if your feelings are welcomed by the other person. You might add よ if there is some hidden reason that this information needs to be stated in such a direct way, for example \"I know you have a boyfriend, but here's how I feel about you!\" Otherwise, sticking with 好（す）きです for confessions of love is the way to go."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the version with よ is more common in established relationships when you want to assure your partner that you love them. Couples tend to use casual speech, so with that in mind, you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "好（す）きだよ。",
+      "english": "I like/love you."
+    },
+    {
+      "type": "paragraph",
+      "text": "You could say this if your partner is expressing doubts about your feelings, and want to emphasize the fact that you really do love them."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Particle よ is a sentence-ending particle — a type of particle that adds nuance or tone to a sentence. So, what nuance does よ add? It indicates that the speaker is offering new information or a new perspective to the listener. Or at the very least, it gives the impression that something new is being offered. In this way, よ is often used to facilitate conversations and make them flow better.",
+    "When you think of the meaning of particle よ, it's helpful to think of it as marking a statement as \"informative.\" You can imagine that a speaker who adds よ to the end of their statement feels like they're handing over a nugget of wisdom, insight, or a new perspective to the listener. That's why in the image above, the speaker is holding out their hand, as though they're offering their よ statement to the listener. The speaker and the speech bubble are both colorless to indicate that the information belongs to the speaker. It's their information that they are giving to the listener, who's colored differently to underline that it's not the listener's information.",
+    "For example, the following sentence simply states the fact that it's raining:",
+    "Without the use of a sentence-ending particle like よ, this statement comes across as a bit dry. It's not clear whether the statement is directed at someone else, or if the speaker is just muttering this to themselves. By adding the particle よ however, the informative nuance kicks in and it becomes clear that the statement is intended for someone else:",
+    "In other words, よ is a tool for facilitating communication between the speaker and the listener. When よ is used, the speaker's aim is to inform the listener, and the listener is prompted to somehow acknowledge the receipt of this information.",
+    "Because よ has this informative nuance and it places pressure on the listener to respond, it can come across as overly friendly or conversational in a formal context. Of course, you can make it sound more polite by using the polite form as in あ、雨（あめ）が降（ふ）ってますよ. However, you may want to avoid using よ with someone like your boss, unless you are on close and friendly terms. You can read more about when it might be best avoided here .",
+    "As you might expect from a sentence-ending particle, よ comes at the end of sentences. That said, don't forget that Japanese sentences can be made up of just one word when the context allows it.",
+    "For example, よ can come directly after a verb.",
+    "よ can also come directly after an い-adjective .",
+    "It can also come directly after a な-adjective or a noun, but this generally adds a feminine feel to the sentence. And since most people — female speakers included — tend to go for more gender-neutral language in everyday communication, it's more common to insert the affirmative だ or the politeness marker です before the よ.",
+    "So for example, these are your options with the な-adjective , しずか (quiet):",
+    "Isn't it interesting how all of these mean the same thing, but the nuance is slightly different? Using だ or です removes the feeling of femininity, and です elevates the politeness level! The same is true when you use よ with a noun, like 犬（いぬ） (dog):",
+    "It's also possible to add another particle after the な-adjective or noun. In that case, it's still common to have だ or です before よ if you're going for gender neutrality. For example, we might want to add particle も to express \"too,\" and this is how we'd do it:",
+    "The informative nuance of よ comes in really handy if you want to alert someone to something. In this case, you can use よ to draw the listener's attention to something they don't know yet.",
+    "Imagine you see someone drop their phone. You can pick their phone up and say:",
+    "In this case, it's obvious the listener doesn't know they dropped their cell phone. By using よ, the speaker can alert the listener and make sure they recognize it as an alert.",
+    "You'll hear よ used to alert people quite often in everyday conversations. For example, when you cook a delicious dinner, you may summon your family members by shouting out:",
+    "Here, the particle よ plays the role of getting the attention of your family members, and making sure they know that it's dinner time.",
+    "Another common use of よ is when giving an opinion. People are unlikely to know your opinion until you share it, so it's new information for your listener.",
+    "Let's take a look at an example in conversation. Let's say that you're an avid listener of the Tofugu Podcast . You want to talk about it with your friend, but it turns out they haven't listened to it yet. You tell them:",
+    "If you want to add more details about the podcast to encourage your friend to listen to it, you can say something like this:",
+    "Here, you're stating your opinion about the podcast using 〜と思（おも）う (I think 〜) plus the particle よ. Again, you know your friend hasn't listened to it yet, so adding the particle よ adds the nuance that you're sharing your own perception, in the hope of piquing their interest.",
+    "よ also works when making a suggestion, but it can sound a little pushy and demanding.",
+    "For example, let's say that you and your coworker are working on a project together, but you're getting hungry and want to take a break for lunch. The two of you are on friendly terms, so you may say:",
+    "Since a suggestion is new information by its very nature, doubling this up with よ is reiterating something that's already implicit. This added emphasis can make the suggestion sound a little pushy or demanding. If you want to avoid the pushy undertones here, you can rephrase your statement as a question, such as そろそろ何（なに）か食（た）べない？",
+    "よ can also be used to remind listeners of something they might already know. In this case, it can make you sound a bit like a know-it-all, so be careful!",
+    "Imagine you are at a pizza buffet with your coworker. You both have to attend a two-hour meeting after your lunch break, so you suggest to your coworker that she should put down that seventh slice of pizza:",
+    "In this example, the information you provide is pretty much common sense. Nevertheless, you use よ, which presents the information as if it were new to your coworker… pretty annoying right? Since this can sound a bit like a lecture from a parent, you might want to opt for a softer expression, like 眠（ねむ）くなっちゃうよ or 眠（ねむ）くなると思（おも）うよ to be less direct.",
+    "Another situation that calls for the informative tone of よ is when you want to contradict someone. In this case, よ allows you to communicate that you believe your listener is wrong, and you want them to acknowledge it.",
+    "For example, let's say you didn't sleep well last night and are feeling very drowsy. Your friend sees your frowning face and says, \"You look annoyed. What's up?\" You feel you've been misunderstood and want to correct your friend's assumption. In this case, you can say:",
+    "Okay, to be honest, you sound a little annoyed too! But in any case, you can use よ here to show that your statement is setting right their false belief. Now go get some rest please!",
+    "Another type of statement that goes well with よ are when you want to agree to something. If someone asks you a question, your response will be new information to the person who asked you, right?",
+    "For example, you can use よ when agreeing to do someone a favor:",
+    "ジェニー ワニカニの使（つか）い方（かた）を教（おし）えてくれませんか？ </br> Jenny Can you tell me how to use Wanikani?",
+    "コウイチ いいですよ。 </br> Koichi Sure.",
+    "It is also useful when giving permission:",
+    "マチ子（こ） これ借（か）りてもいいですか？ </br> Machiko Can I borrow this?",
+    "マミ いいですよ。 </br> Mami Sure.",
+    "In both examples, you're simply agreeing to what was asked. Particle よ emphasizes that you're offering an affirmative answer to the question asked. And there's nothing to worry about when emphasizing a positive answer, so you can simply reply with よ.",
+    "However, よ can have an unintended nuance when you respond affirmatively to an invitation. Let's check it out:",
+    "マミ 日曜日（にちようび）、ピクニックに行（い）きませんか？ </br> Mami Why don't we go on a picnic on Sunday?",
+    "カナエ いいですよ。 </br> Kanae Sure.",
+    "Using よ in this context can sound a bit cold. Your friend is inviting you to a picnic with the assumption that it sounds good to you, so if you respond with よ, and mark your answer as new information to them, it makes you sound like you're only taking your opinion into account.",
+    "So what would be the better option then? In a situation like this, particle ね might actually be more suitable, as in いいですね. Unlike よ, particle ね conveys that you agree and are onboard with the suggestion. It creates a sense of shared information or unity, rather than the unidirectional feeling of よ.",
+    "If you are interested in learning more about the difference between よ and ね, check out our article on that very topic.",
+    "We've just learned that you can use よ for agreement, but what about when you disagree? Can you use よ with negative answers as well?",
+    "The answer is yes, but in polite Japanese it's best to avoid adding よ to strongly negative words, such as 嫌（いや） (ew) or 無理（むり） (impossible). That said, children use it pretty commonly, as do adults who are on close, casual terms.",
+    "Instead, people often just say \"sorry\" and say they can't go, or give an explanation of why they can't go instead. In this case, you can add よ to your statement or explanation. Here is an example of declining an invitation in that way:",
+    "マミ 日曜日（にちようび）、ピクニックに行（い）きませんか？ </br> Mami Why don't we go on a picnic on Sunday?",
+    "カナエ すいません。その日（ひ）は忙（いそが）しいんです(よ)。 </br> Kanae Sorry, I'm a little busy that day.",
+    "In this case, you can answer with or without よ. By adding よ, you can add the nuance you want them to know and understand why you can't go on a picnic, since よ emphasizes you're offering new information.",
+    "That being said, if you want someone to understand your answer is an absolute \"no,\" jokingly or seriously, you can directly add よ to your \"no\" answer.",
+    "For example, imagine that your colleague wants to borrow $1,000 from you. In this case, it's still common to give an evasive answer that implies \"no,\" such as それはちょっと… (that is…(impossible)), but you can also say:",
+    "Again, you can also answer this with or without よ. Without よ, this sentence is still a bit strong and direct, but by adding よ, it emphasizes the answer and makes it even stronger.",
+    "Let's look at one more situation in which よ can be used: when emphasizing your feelings. If you're feeling famished, you might say:",
+    "However, よ is completely optional here, and it's quite common and natural to leave it off:",
+    "So, what is the difference? Well, you're more likely to leave よ off if you're kind of talking to yourself, and not directing your comment at anyone in particular. You can add よ even if the comment is self-directed, though. If added to negative feelings like hunger, it makes it sound like you're stressing a point, so it can carry a nuance of complaining.",
+    "However, if you use よ when expressing positive emotions, like うれしいよ (this makes me happy) or 楽（たの）しいよ (this is fun for me), it adds the nuance that you're seeking some kind of response from whoever's nearby, rather than just voicing your feelings for your own benefit.",
+    "When you're expressing something that is a big deal, such as confessing your love to someone for the first time, you'd probably leave the よ off:",
+    "This is because adding よ to a statement that's already loaded with emotion can feel obtrusive, especially when you are not sure if your feelings are welcomed by the other person. You might add よ if there is some hidden reason that this information needs to be stated in such a direct way, for example \"I know you have a boyfriend, but here's how I feel about you!\" Otherwise, sticking with 好（す）きです for confessions of love is the way to go.",
+    "However, the version with よ is more common in established relationships when you want to assure your partner that you love them. Couples tend to use casual speech, so with that in mind, you might say:",
+    "You could say this if your partner is expressing doubts about your feelings, and want to emphasize the fact that you really do love them."
+  ],
+  "examples": [
+    {
+      "japanese": "あ、雨（あめ）が降（ふ）ってる。",
+      "english": "Oh, it's raining."
+    },
+    {
+      "japanese": "あ、雨（あめ）が降（ふ）ってるよ。",
+      "english": "Oh look, it's raining."
+    },
+    {
+      "japanese": "食（た）べるよ。",
+      "english": "I'll eat."
+    },
+    {
+      "japanese": "熱（あつ）いよ。",
+      "english": "That's hot."
+    },
+    {
+      "japanese": "しずかだよ。しずかですよ。しずかよ。",
+      "english": "It's quiet."
+    },
+    {
+      "japanese": "犬（いぬ）だよ。犬（いぬ）ですよ。犬（いぬ）よ。",
+      "english": "It's a dog."
+    },
+    {
+      "japanese": "犬（いぬ）もだよ。犬（いぬ）もですよ。犬（いぬ）もよ。",
+      "english": "Dogs too!"
+    },
+    {
+      "japanese": "携帯（けいたい）落（お）としましたよ。",
+      "english": "You dropped your cell phone."
+    },
+    {
+      "japanese": "晩（ばん）ごはんできたよ！",
+      "english": "Dinner's ready!"
+    },
+    {
+      "japanese": "めっちゃ良（よ）かったよ。",
+      "english": "It was really good."
+    },
+    {
+      "japanese": "すごく勉強（べんきょう）になると思（おも）うよ。",
+      "english": "I think you'll learn a lot from it."
+    },
+    {
+      "japanese": "そろそろ何（なに）か食（た）べようよ。",
+      "english": "Let's get something to eat."
+    },
+    {
+      "japanese": "そんなに食（た）べたら会議（かいぎ）で眠（ねむ）くなるよ。",
+      "english": "You will get sleepy if you keep eating that much."
+    },
+    {
+      "japanese": "イライラしてる訳（わけ）じゃないよ。",
+      "english": "It's not that I'm annoyed."
+    },
+    {
+      "japanese": "絶対（ぜったい）貸（か）さない(よ)！",
+      "english": "No way I'm lending you that!"
+    },
+    {
+      "japanese": "お腹（なか）すいたよー。",
+      "english": "I'm so hungry!"
+    },
+    {
+      "japanese": "お腹（なか）すいたー。",
+      "english": "I'm so hungry!"
+    },
+    {
+      "japanese": "好（す）きです。",
+      "english": "I like/love you."
+    },
+    {
+      "japanese": "好（す）きだよ。",
+      "english": "I like/love you."
+    },
+    {
+      "japanese": "ジェニーワニカニの使（つか）い方（かた）を教（おし）えてくれませんか？ </br> JennyCan you tell me how to use Wanikani?",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "コウイチいいですよ。 </br> KoichiSure.",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "マチ子（こ）これ借（か）りてもいいですか？ </br> MachikoCan I borrow this?",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "マミいいですよ。 </br> MamiSure.",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "マミ日曜日（にちようび）、ピクニックに行（い）きませんか？ </br> MamiWhy don't we go on a picnic on Sunday?",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "カナエいいですよ。 </br> KanaeSure.",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "マミ日曜日（にちようび）、ピクニックに行（い）きませんか？ </br> MamiWhy don't we go on a picnic on Sunday?",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "カナエすいません。その日（ひ）は忙（いそが）しいんです(よ)。 </br> KanaeSorry, I'm a little busy that day.",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing よ"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 2,
+      "id": "using-particle--in-context",
+      "text": "Using Particle よ in Context"
+    },
+    {
+      "level": 3,
+      "id": "for-alerting",
+      "text": "よ for Alerting"
+    },
+    {
+      "level": 3,
+      "id": "for-giving-opinions",
+      "text": "よ For Giving Opinions"
+    },
+    {
+      "level": 3,
+      "id": "for-being-pushy",
+      "text": "よ for Being Pushy"
+    },
+    {
+      "level": 3,
+      "id": "for-contradicting",
+      "text": "よ For Contradicting"
+    },
+    {
+      "level": 3,
+      "id": "for-agreement",
+      "text": "よ For Agreement"
+    },
+    {
+      "level": 3,
+      "id": "for-declining",
+      "text": "よ For Declining"
+    },
+    {
+      "level": 3,
+      "id": "for-emphasizing-your-feelings",
+      "text": "よ For Emphasizing Your Feelings"
+    }
+  ],
+  "id": 29,
+  "slug": "particle-yo",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-yo/",
+  "categories": [
+    "Particle"
+  ]
+}

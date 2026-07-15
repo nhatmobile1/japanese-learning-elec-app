@@ -1,0 +1,368 @@
+{
+  "title": "Verb Plain Present る Form",
+  "description": "The plain form of a Japanese verb (aka the dictionary form or the る form) is used to talk about both the present and future.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The plain present is the basic form of Japanese verbs usually listed in the dictionary (Hence, it's also known as \"the dictionary form\"). Verbs in this form end with the \"u\" sound as in or nom u , tuka u , or sur u , though they are classified in three different conjugation groups ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite its being frequently referred to as the \"present form,\" it can express both habitual and future actions. For example, if your brother has a daily habit of eating pasta, you can use the plain present form 食（た）べる (to eat) and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "兄（あに）は毎日（まいにち）パスタを食（た）べる。",
+      "english": "My brother eats pasta everyday."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use the same 食（た）べる to talk about your brother's plan to eat pasta tomorrow."
+    },
+    {
+      "type": "example",
+      "japanese": "兄（あに）は明日（あした）パスタを食（た）べる。",
+      "english": "My brother will eat pasta tomorrow."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is due to the fact that Japanese does not distinguish between the present and future tenses of verbs. In fact, in Japanese there are only the past tense and non-past tense – the category that present and future fall into. 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "While it might seem strange at first, it actually makes sense to divide time into these two categories. This of it this way; by the time you finish stating, \"I (do this) now,\" the present has technically already passed and the future has become the present."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if it can refer to both the present and future tenses, how can you tell which tense it's indicating?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the previous example. Regardless of the indication of present or future tense, the verb remains in the plain present form. In this case, 食（た）べる (to eat). However, it's usually the context that helps to distinguish tense. In the case of these examples, that context comes in the form of additional time-related words like 毎日（まいにち） (everyday) and 明日（あした） (tomorrow)."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can think of it like this, in English: \"My brother (will) eat/s pasta.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "The added context clues are what distinguish the tense – he eats pasta, as in it's part of his diet, or he will eat pasta, as in, he is going to eat it tomorrow."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if there are no such context clues, more often than not the plain present form is used to talk about the future. Let's take a look at some more examples in the next section."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "future-actions",
+      "text": "Future Actions"
+    },
+    {
+      "type": "paragraph",
+      "text": "To talk about actions in the future, there are multiple forms in English: \"will,\" \"going to,\" and \"being.\" In Japanese, you can simply use the plain present form for all of them. And remember, without specific context the plain present form usually refers to a future action."
+    },
+    {
+      "type": "paragraph",
+      "text": "For instance, if you just blurt out the following sentence, it would be safe to assume that you're talking about the future regardless of whether you just decided to throw a party or you have a plan to throw a party in the future."
+    },
+    {
+      "type": "example",
+      "japanese": "パーティーをする。",
+      "english": "I [will・am going to] throw a party."
+    },
+    {
+      "type": "paragraph",
+      "text": "The same sentence can also indicate the present tense if there's another element that suggests it's a recurring action or event:"
+    },
+    {
+      "type": "example",
+      "japanese": "毎年（まいとし）パーティーをする。",
+      "english": "I throw a party every year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pretty straightforward, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the plain present form indicates the future, it's also commonly used to ask if someone would like to do something. For example, at the party your friend may hand you a cup and ask:"
+    },
+    {
+      "type": "example",
+      "japanese": "飲（の）む？",
+      "english": "Want some? (Literally: Will you drink it?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "And to answer that kind of question, you can simply repeat the same verb in the same form:"
+    },
+    {
+      "type": "example",
+      "japanese": "飲（の）む！",
+      "english": "I will (drink it)!"
+    },
+    {
+      "type": "paragraph",
+      "text": "So, with a basic verb you can ask and answer questions like this already! Handy, right?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "habits-facts-or-generalizations",
+      "text": "Habits, Facts, or Generalizations"
+    },
+    {
+      "type": "paragraph",
+      "text": "You've seen in a previous example that the plain present form can be used to describe habits. For example, if you have a habit of eating sandwiches for breakfast, you can use 食（た）べる (to eat) in this form and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "朝（あさ）は、いつもサンドイッチを食（た）べる。",
+      "english": "I always eat sandwiches in the morning."
+    },
+    {
+      "type": "paragraph",
+      "text": "What else can the plain present form of Japanese verbs describe? Well, just like the present tense in English it's used to state facts or generalizations, such as scientific facts, general truths, or definitions, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "水（みず）は100度（ど）で 沸騰（ふっとう）する。",
+      "english": "Water boils at 100 celsius."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, if the speaker believes it's a fact, whether it's actually true or false doesn't really matter. So if you're under the impression that Labradors eat well, you can also use the plain present form and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ラブラドールはよく食（た）べる。",
+      "english": "Labs have a good appetite. (Literally: Labradors eat well.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This one's most likely true, though. It's well known that Labs love their food – most of them eat anything and everything!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb--vs-verb-",
+      "text": "Verb-る vs. Verb-ている"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the fact or generalization is something that is continuously happening, it's more common to think of it as a repeated action with the focus on its continuity using the ている form of the verb."
+    },
+    {
+      "type": "example",
+      "japanese": "月（つき）は地球（ちきゅう）の周（まわ）りを[❓回（まわ）る・⭕回（まわ）っている]。",
+      "english": "The moon revolves around the earth."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep in mind that verbs that describe a state in English don't necessarily describe a state in Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, to talk about the fact that your brother has three computers, you use the present tense in English because the verb \"have\" describes a state . In Japanese, however, the equivalent verb 持（も）つ (to have) generally describes the action of starting to have something. To talk about the state in which you have something, again, you need to use the ている form:"
+    },
+    {
+      "type": "example",
+      "japanese": "兄（あに）はパソコンを三（さん）台（だい）も[❓持（も）つ・⭕持（も）っている]。",
+      "english": "My brother has three computers."
+    },
+    {
+      "type": "paragraph",
+      "text": "This might seem like a difficult nuance to master, but don't worry! As you study and gain more exposure to Japanese you'll start to distinguish the patterns for when the ている form is used over the plain present form. And if you're not familiar with ている, you can check out its dedicated page , too!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "type": "paragraph",
+      "text": "As the name suggests, the \"plain\" form of a verb is bare. This means it sounds rather casual in conversation compared to the ます form. So, if you were to offer some cookies to your friend, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "クッキー食（た）べる？",
+      "english": "Want a cookie? (Literally: Will you eat some cookies?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the above sentence sounds too casual if you're talking to your boss. If you're talking to someone who is of a higher social status, or to someone you aren't close to, you'd need to use the ます form to express politeness. Like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "クッキー食（た）べます(か)？",
+      "english": "Would you like a cookie? (Literally: Will you eat some cookies?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "But this doesn't mean you never use the plain form in formal situations. In these instances, using the plain form is really a self-directed form of communication rather than a casual way of saying something. Say you're in the break room debating out loud whether or not you should eat a cookie in front of your boss. In this case, you would use 食（た）べる instead of 食（た）べます because the question is directed at yourself, not at your boss."
+    },
+    {
+      "type": "paragraph",
+      "text": "Make sense? Even though you may be aware that your boss might be listening, this type of plain form expression works totally fine, and is even more natural."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, the plain form is used more frequently in formal writing where the author makes assertions as they're expressing their inner thoughts."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are interested in the differences between the polite form and the casual form, you can check out our article Da (だ) vs Desu (です) — How People Use them in Real Life . Here, だ represents the plain form and です represents the polite form."
+    },
+    {
+      "type": "paragraph",
+      "text": "For this reason, the plain present form is sometimes called the \"non-past form.\" Actually, this form has a whole host of other names too, all of which make sense in their own way. You may have also seen it called the non-past plain form, the present non-polite form, the non-past non-polite form, or the る form, to name but a few. The word \"positive\" may also have been added to any of these names for good measure. &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "The plain present is the basic form of Japanese verbs usually listed in the dictionary (Hence, it's also known as \"the dictionary form\"). Verbs in this form end with the \"u\" sound as in or nom u , tuka u , or sur u , though they are classified in three different conjugation groups .",
+    "Despite its being frequently referred to as the \"present form,\" it can express both habitual and future actions. For example, if your brother has a daily habit of eating pasta, you can use the plain present form 食（た）べる (to eat) and say:",
+    "You can also use the same 食（た）べる to talk about your brother's plan to eat pasta tomorrow.",
+    "This is due to the fact that Japanese does not distinguish between the present and future tenses of verbs. In fact, in Japanese there are only the past tense and non-past tense – the category that present and future fall into. 1",
+    "While it might seem strange at first, it actually makes sense to divide time into these two categories. This of it this way; by the time you finish stating, \"I (do this) now,\" the present has technically already passed and the future has become the present.",
+    "But if it can refer to both the present and future tenses, how can you tell which tense it's indicating?",
+    "Take the previous example. Regardless of the indication of present or future tense, the verb remains in the plain present form. In this case, 食（た）べる (to eat). However, it's usually the context that helps to distinguish tense. In the case of these examples, that context comes in the form of additional time-related words like 毎日（まいにち） (everyday) and 明日（あした） (tomorrow).",
+    "You can think of it like this, in English: \"My brother (will) eat/s pasta.\"",
+    "The added context clues are what distinguish the tense – he eats pasta, as in it's part of his diet, or he will eat pasta, as in, he is going to eat it tomorrow.",
+    "And if there are no such context clues, more often than not the plain present form is used to talk about the future. Let's take a look at some more examples in the next section.",
+    "To talk about actions in the future, there are multiple forms in English: \"will,\" \"going to,\" and \"being.\" In Japanese, you can simply use the plain present form for all of them. And remember, without specific context the plain present form usually refers to a future action.",
+    "For instance, if you just blurt out the following sentence, it would be safe to assume that you're talking about the future regardless of whether you just decided to throw a party or you have a plan to throw a party in the future.",
+    "The same sentence can also indicate the present tense if there's another element that suggests it's a recurring action or event:",
+    "Pretty straightforward, right?",
+    "Since the plain present form indicates the future, it's also commonly used to ask if someone would like to do something. For example, at the party your friend may hand you a cup and ask:",
+    "And to answer that kind of question, you can simply repeat the same verb in the same form:",
+    "So, with a basic verb you can ask and answer questions like this already! Handy, right?",
+    "You've seen in a previous example that the plain present form can be used to describe habits. For example, if you have a habit of eating sandwiches for breakfast, you can use 食（た）べる (to eat) in this form and say:",
+    "What else can the plain present form of Japanese verbs describe? Well, just like the present tense in English it's used to state facts or generalizations, such as scientific facts, general truths, or definitions, like:",
+    "In this case, if the speaker believes it's a fact, whether it's actually true or false doesn't really matter. So if you're under the impression that Labradors eat well, you can also use the plain present form and say:",
+    "This one's most likely true, though. It's well known that Labs love their food – most of them eat anything and everything!",
+    "If the fact or generalization is something that is continuously happening, it's more common to think of it as a repeated action with the focus on its continuity using the ている form of the verb.",
+    "Keep in mind that verbs that describe a state in English don't necessarily describe a state in Japanese.",
+    "For example, to talk about the fact that your brother has three computers, you use the present tense in English because the verb \"have\" describes a state . In Japanese, however, the equivalent verb 持（も）つ (to have) generally describes the action of starting to have something. To talk about the state in which you have something, again, you need to use the ている form:",
+    "This might seem like a difficult nuance to master, but don't worry! As you study and gain more exposure to Japanese you'll start to distinguish the patterns for when the ている form is used over the plain present form. And if you're not familiar with ている, you can check out its dedicated page , too!",
+    "As the name suggests, the \"plain\" form of a verb is bare. This means it sounds rather casual in conversation compared to the ます form. So, if you were to offer some cookies to your friend, you could say:",
+    "However, the above sentence sounds too casual if you're talking to your boss. If you're talking to someone who is of a higher social status, or to someone you aren't close to, you'd need to use the ます form to express politeness. Like this:",
+    "But this doesn't mean you never use the plain form in formal situations. In these instances, using the plain form is really a self-directed form of communication rather than a casual way of saying something. Say you're in the break room debating out loud whether or not you should eat a cookie in front of your boss. In this case, you would use 食（た）べる instead of 食（た）べます because the question is directed at yourself, not at your boss.",
+    "Make sense? Even though you may be aware that your boss might be listening, this type of plain form expression works totally fine, and is even more natural.",
+    "Additionally, the plain form is used more frequently in formal writing where the author makes assertions as they're expressing their inner thoughts.",
+    "If you are interested in the differences between the polite form and the casual form, you can check out our article Da (だ) vs Desu (です) — How People Use them in Real Life . Here, だ represents the plain form and です represents the polite form.",
+    "For this reason, the plain present form is sometimes called the \"non-past form.\" Actually, this form has a whole host of other names too, all of which make sense in their own way. You may have also seen it called the non-past plain form, the present non-polite form, the non-past non-polite form, or the る form, to name but a few. The word \"positive\" may also have been added to any of these names for good measure. &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "兄（あに）は毎日（まいにち）パスタを食（た）べる。",
+      "english": "My brother eats pasta everyday."
+    },
+    {
+      "japanese": "兄（あに）は明日（あした）パスタを食（た）べる。",
+      "english": "My brother will eat pasta tomorrow."
+    },
+    {
+      "japanese": "パーティーをする。",
+      "english": "I [will・am going to] throw a party."
+    },
+    {
+      "japanese": "毎年（まいとし）パーティーをする。",
+      "english": "I throw a party every year."
+    },
+    {
+      "japanese": "飲（の）む？",
+      "english": "Want some? (Literally: Will you drink it?)"
+    },
+    {
+      "japanese": "飲（の）む！",
+      "english": "I will (drink it)!"
+    },
+    {
+      "japanese": "朝（あさ）は、いつもサンドイッチを食（た）べる。",
+      "english": "I always eat sandwiches in the morning."
+    },
+    {
+      "japanese": "水（みず）は100度（ど）で 沸騰（ふっとう）する。",
+      "english": "Water boils at 100 celsius."
+    },
+    {
+      "japanese": "ラブラドールはよく食（た）べる。",
+      "english": "Labs have a good appetite. (Literally: Labradors eat well.)"
+    },
+    {
+      "japanese": "月（つき）は地球（ちきゅう）の周（まわ）りを[❓回（まわ）る・⭕回（まわ）っている]。",
+      "english": "The moon revolves around the earth."
+    },
+    {
+      "japanese": "兄（あに）はパソコンを三（さん）台（だい）も[❓持（も）つ・⭕持（も）っている]。",
+      "english": "My brother has three computers."
+    },
+    {
+      "japanese": "クッキー食（た）べる？",
+      "english": "Want a cookie? (Literally: Will you eat some cookies?)"
+    },
+    {
+      "japanese": "クッキー食（た）べます(か)？",
+      "english": "Would you like a cookie? (Literally: Will you eat some cookies?)"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "future-actions",
+      "text": "Future Actions"
+    },
+    {
+      "level": 3,
+      "id": "habits-facts-or-generalizations",
+      "text": "Habits, Facts, or Generalizations"
+    },
+    {
+      "level": 4,
+      "id": "verb--vs-verb-",
+      "text": "Verb-る vs. Verb-ている"
+    },
+    {
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    }
+  ],
+  "id": 44,
+  "slug": "verb-plain-present-form",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-plain-present-form/",
+  "categories": [
+    "Verb Form"
+  ]
+}

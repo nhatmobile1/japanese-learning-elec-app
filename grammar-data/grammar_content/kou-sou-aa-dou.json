@@ -1,0 +1,425 @@
+{
+  "title": "こう・そう・ああ・どう",
+  "description": "こう, そう, ああ, and どう are a set of こそあど言葉（ことば） (ko-so-a-do words). They come before an adjective or a verb to specify the way the adjective or verb acts.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "こう, そう, ああ, and どう are a set of こそあど words. They get placed before an adjective or verb to give information about the way the adjective or verb that follows acts. In general, こう is used for an adjective or verb that the speaker thinks is close to them, そう for those that are close to the listener, and ああ for those that are far from both the speaker and listener. どう is the question word that goes together with the set, and asks \"how?\" or \"in what manner?\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is how こそあど words work when referring to a physical object that you can see:"
+    },
+    {
+      "type": "formula",
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you'd like to read scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "こう, そう, ああ, and どう generally come before a verb, but they can also be used at the end of a sentence or before an adjective."
+    },
+    {
+      "type": "example",
+      "japanese": "おお、そう書（か）くんだ！",
+      "english": "Oh, you write it like that, huh?"
+    },
+    {
+      "type": "paragraph",
+      "text": "At the end of a sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "こうだよ。",
+      "english": "Like this!"
+    },
+    {
+      "type": "example",
+      "japanese": "こう暑（あつ）いと何（なに）もする気（き）にならない。",
+      "english": "Hot weather like this makes me want to do nothing."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-describing-how",
+      "text": "こう, そう, ああ for Describing \"How\""
+    },
+    {
+      "type": "paragraph",
+      "text": "こう, そう, and ああ are used with an adjective or verb to describe the way the adjective is, or how the verb is done. It's the equivalent of \"like this\" or \"like that\" in English. Unlike the other words in this set, the あ-word doesn't end with う but あ, as ああ."
+    },
+    {
+      "type": "paragraph",
+      "text": "In general, こう is used when the speaker or the writer feels somewhat close to the \"way\" something is done. For example, if you are teaching your friend how to roll sushi, you can tell them:"
+    },
+    {
+      "type": "example",
+      "japanese": "寿司（すし）はこう巻（ま）くんだよ。",
+      "english": "You roll sushi like this."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, you say こう because you are currently rolling sushi, and you're talking about the way you're rolling it. Because it's your own action, it's closer to you."
+    },
+    {
+      "type": "paragraph",
+      "text": "そう is used when the action or \"way\" you are talking about is relatively far from you, or closer to the person you are addressing. So, in the same scenario, let's say your friend follows what you do and tries to roll sushi. To tell them they are doing well, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "うんうん！そう巻（ま）けばいいよ！上手（うま）いじゃん！",
+      "english": "Yes, yes! That's how you roll it! You're good!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, you use そう to refer to how your friend is rolling sushi because it's their action and it's closer to them."
+    },
+    {
+      "type": "paragraph",
+      "text": "ああ is used when you are referring to a manner of doing something that is distant from you, or distant from both you and the person you are addressing. So let's say you and your friend are still rolling sushi in the cooking class. If you two see someone else doing a good job, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あの人（ひと）上手（じょうず）！ああ巻（ま）けばよかったのか。",
+      "english": "That person is really good. I should've rolled it that way."
+    },
+    {
+      "type": "paragraph",
+      "text": "With this, you use ああ to refer to the manner in which the person is rolling sushi because their action is distant from both you and your friend."
+    },
+    {
+      "type": "paragraph",
+      "text": "The question word that goes with this set is どう, and it asks \"how?\" or \"like what?\" So if you are not sure how to roll sushi, you can ask:"
+    },
+    {
+      "type": "example",
+      "japanese": "どう巻（ま）けばいいの？",
+      "english": "How should I roll it?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-agreement",
+      "text": "そう for Agreement"
+    },
+    {
+      "type": "paragraph",
+      "text": "When someone asks you a question, and your reply uses そう with a falling intonation, it shows your confirmation and agreement."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because そう can refer back to something that's been done or said by the person you are addressing."
+    },
+    {
+      "type": "paragraph",
+      "text": "With this use of そう, it's usually followed by だよ, which is a combination of だ and よ , or the politeness marker です , like:"
+    },
+    {
+      "type": "example",
+      "japanese": "そうだよ。",
+      "english": "That's right."
+    },
+    {
+      "type": "example",
+      "japanese": "そうです。",
+      "english": "That's right."
+    },
+    {
+      "type": "paragraph",
+      "text": "This use of そう can also be repeated to casually show you agree with what's said:"
+    },
+    {
+      "type": "example",
+      "japanese": "そうそう。",
+      "english": "Right, right."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, what does it sound like if you say そう with a rising intonation? If you do this, you can show that you don't fully agree with what was said, or that you're questioning it."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you receive a compliment. Because you feel shy about it, you want to ask if it's true. Then you may say そう with a rising intonation, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "そう？",
+      "english": "Is that true?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and-",
+      "text": "そうそう and そういえば"
+    },
+    {
+      "type": "paragraph",
+      "text": "そうそう can also be used as in \"now I remember\" or \"speaking of which.\" The phrase そういえば is used in the same way. In both cases, そう doesn't necessarily directly refer to what someone said earlier, but it implies that what was said triggered your memory, and that you've just thought of something."
+    },
+    {
+      "type": "paragraph",
+      "text": "そうそう and そういえば can be used alone, yet it's also common to put them together, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "そうそう、そういえば、花（はな）ちゃん結婚（けっこん）したらしいよ。",
+      "english": "Oh yeah, I just remembered, I heard Hana-chan got married."
+    },
+    {
+      "type": "paragraph",
+      "text": "そうそう can also be used to encourage someone to keep going. In this case, そう refers to the way someone is doing something, and it's like literally saying \"Like that! Like that!\""
+    },
+    {
+      "type": "example",
+      "japanese": "そうそう、その調子（ちょうし）！頑張（がんば）れ。",
+      "english": "Like that! Keep it up! Go go!"
+    },
+    {
+      "type": "paragraph",
+      "text": "This last example only applies to そうそう, but not to そういえば."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "common-combinations",
+      "text": "Common Combinations"
+    },
+    {
+      "type": "paragraph",
+      "text": "With the verb いう, you can make another set — こういう, そういう, ああいう, and どういう. They're also the equivalents of \"like this\" and \"like that,\" but are used to describe the way a noun acts or is."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you are in a clothing store and come across a shirt that's exactly what you wanted. Here, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "こういうシャツが欲（ほ）しかったんだよね。",
+      "english": "I wanted a shirt like this."
+    },
+    {
+      "type": "paragraph",
+      "text": "こういう can also be combined with other words such as 様（よう）, 風（かぜ） （ふう）, and 感（かん）じ, to make こういう様（よう）, そういう風（かぜ） or ああいう感（かん）じ. These sets are used in a similar way to こういう, そういう, ああいう, and どういう, but they're a little less direct. They also function like な-adjectives, so they behave slightly differently in a sentence compared to こういう, and such."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, 〜様（さま） is the most formal of the three, 〜風（かぜ） is an ordinary expression used in daily conversation, and 〜感（かん）じ is very casual. If you make a mistake at work, you may want to go with the most formal expression, such as:"
+    },
+    {
+      "type": "example",
+      "japanese": "今後（こんご）こういう様（よう）なことはないよう気（き）をつけます。",
+      "english": "I will be careful not to do anything like this in the future."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "こう, そう, ああ, and どう are a set of こそあど words. They get placed before an adjective or verb to give information about the way the adjective or verb that follows acts. In general, こう is used for an adjective or verb that the speaker thinks is close to them, そう for those that are close to the listener, and ああ for those that are far from both the speaker and listener. どう is the question word that goes together with the set, and asks \"how?\" or \"in what manner?\"",
+    "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど.",
+    "However, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play.",
+    "Here is how こそあど words work when referring to a physical object that you can see:",
+    "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question.",
+    "If you'd like to read scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !",
+    "こう, そう, ああ, and どう generally come before a verb, but they can also be used at the end of a sentence or before an adjective.",
+    "At the end of a sentence:",
+    "こう, そう, and ああ are used with an adjective or verb to describe the way the adjective is, or how the verb is done. It's the equivalent of \"like this\" or \"like that\" in English. Unlike the other words in this set, the あ-word doesn't end with う but あ, as ああ.",
+    "In general, こう is used when the speaker or the writer feels somewhat close to the \"way\" something is done. For example, if you are teaching your friend how to roll sushi, you can tell them:",
+    "In this example, you say こう because you are currently rolling sushi, and you're talking about the way you're rolling it. Because it's your own action, it's closer to you.",
+    "そう is used when the action or \"way\" you are talking about is relatively far from you, or closer to the person you are addressing. So, in the same scenario, let's say your friend follows what you do and tries to roll sushi. To tell them they are doing well, you can say:",
+    "Here, you use そう to refer to how your friend is rolling sushi because it's their action and it's closer to them.",
+    "ああ is used when you are referring to a manner of doing something that is distant from you, or distant from both you and the person you are addressing. So let's say you and your friend are still rolling sushi in the cooking class. If you two see someone else doing a good job, you may say:",
+    "With this, you use ああ to refer to the manner in which the person is rolling sushi because their action is distant from both you and your friend.",
+    "The question word that goes with this set is どう, and it asks \"how?\" or \"like what?\" So if you are not sure how to roll sushi, you can ask:",
+    "When someone asks you a question, and your reply uses そう with a falling intonation, it shows your confirmation and agreement.",
+    "This is because そう can refer back to something that's been done or said by the person you are addressing.",
+    "With this use of そう, it's usually followed by だよ, which is a combination of だ and よ , or the politeness marker です , like:",
+    "This use of そう can also be repeated to casually show you agree with what's said:",
+    "Now, what does it sound like if you say そう with a rising intonation? If you do this, you can show that you don't fully agree with what was said, or that you're questioning it.",
+    "For example, imagine you receive a compliment. Because you feel shy about it, you want to ask if it's true. Then you may say そう with a rising intonation, like:",
+    "そうそう can also be used as in \"now I remember\" or \"speaking of which.\" The phrase そういえば is used in the same way. In both cases, そう doesn't necessarily directly refer to what someone said earlier, but it implies that what was said triggered your memory, and that you've just thought of something.",
+    "そうそう and そういえば can be used alone, yet it's also common to put them together, as in:",
+    "そうそう can also be used to encourage someone to keep going. In this case, そう refers to the way someone is doing something, and it's like literally saying \"Like that! Like that!\"",
+    "This last example only applies to そうそう, but not to そういえば.",
+    "With the verb いう, you can make another set — こういう, そういう, ああいう, and どういう. They're also the equivalents of \"like this\" and \"like that,\" but are used to describe the way a noun acts or is.",
+    "For example, imagine you are in a clothing store and come across a shirt that's exactly what you wanted. Here, you may say:",
+    "こういう can also be combined with other words such as 様（よう）, 風（かぜ） （ふう）, and 感（かん）じ, to make こういう様（よう）, そういう風（かぜ） or ああいう感（かん）じ. These sets are used in a similar way to こういう, そういう, ああいう, and どういう, but they're a little less direct. They also function like な-adjectives, so they behave slightly differently in a sentence compared to こういう, and such.",
+    "In this case, 〜様（さま） is the most formal of the three, 〜風（かぜ） is an ordinary expression used in daily conversation, and 〜感（かん）じ is very casual. If you make a mistake at work, you may want to go with the most formal expression, such as:"
+  ],
+  "examples": [
+    {
+      "japanese": "おお、そう書（か）くんだ！",
+      "english": "Oh, you write it like that, huh?"
+    },
+    {
+      "japanese": "こうだよ。",
+      "english": "Like this!"
+    },
+    {
+      "japanese": "こう暑（あつ）いと何（なに）もする気（き）にならない。",
+      "english": "Hot weather like this makes me want to do nothing."
+    },
+    {
+      "japanese": "寿司（すし）はこう巻（ま）くんだよ。",
+      "english": "You roll sushi like this."
+    },
+    {
+      "japanese": "うんうん！そう巻（ま）けばいいよ！上手（うま）いじゃん！",
+      "english": "Yes, yes! That's how you roll it! You're good!"
+    },
+    {
+      "japanese": "あの人（ひと）上手（じょうず）！ああ巻（ま）けばよかったのか。",
+      "english": "That person is really good. I should've rolled it that way."
+    },
+    {
+      "japanese": "どう巻（ま）けばいいの？",
+      "english": "How should I roll it?"
+    },
+    {
+      "japanese": "そうだよ。",
+      "english": "That's right."
+    },
+    {
+      "japanese": "そうです。",
+      "english": "That's right."
+    },
+    {
+      "japanese": "そうそう。",
+      "english": "Right, right."
+    },
+    {
+      "japanese": "そう？",
+      "english": "Is that true?"
+    },
+    {
+      "japanese": "そうそう、そういえば、花（はな）ちゃん結婚（けっこん）したらしいよ。",
+      "english": "Oh yeah, I just remembered, I heard Hana-chan got married."
+    },
+    {
+      "japanese": "そうそう、その調子（ちょうし）！頑張（がんば）れ。",
+      "english": "Like that! Keep it up! Go go!"
+    },
+    {
+      "japanese": "こういうシャツが欲（ほ）しかったんだよね。",
+      "english": "I wanted a shirt like this."
+    },
+    {
+      "japanese": "今後（こんご）こういう様（よう）なことはないよう気（き）をつけます。",
+      "english": "I will be careful not to do anything like this in the future."
+    },
+    {
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "for-describing-how",
+      "text": "こう, そう, ああ for Describing \"How\""
+    },
+    {
+      "level": 3,
+      "id": "for-agreement",
+      "text": "そう for Agreement"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "and-",
+      "text": "そうそう and そういえば"
+    },
+    {
+      "level": 3,
+      "id": "common-combinations",
+      "text": "Common Combinations"
+    }
+  ],
+  "id": 98,
+  "slug": "kou-sou-aa-dou",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/kou-sou-aa-dou/",
+  "categories": [
+    "Demonstrative"
+  ]
+}

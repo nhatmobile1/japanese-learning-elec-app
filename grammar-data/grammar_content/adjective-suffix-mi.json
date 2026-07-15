@@ -1,0 +1,333 @@
+{
+  "title": "Adjective み (Subjective Nouns)",
+  "description": "Adding 〜み to an adjective turns it into a noun with a subjective quality, like the \"warmth\" of a person or the \"weight\" of a decision.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "い-adjectives (and a small number of な-adjectives can be turned into a noun with the suffix 〜み. This is similar to adding -ness to an adjective in English, but there's a twist. Nouns formed with 〜み represent qualities or states that are not objectively measurable. In other words, 〜み is used to express subjective ideas."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜み"
+    },
+    {
+      "type": "paragraph",
+      "text": "To form a み noun, take the stem form of an adjective and add 〜み."
+    },
+    {
+      "type": "formula",
+      "japanese": "い-adjective: 面白（おもしろ）い + み → 面白（おもしろ）み",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "い-adjective: 面白（おもじろ） い + み → 面白（おもじろ） み"
+    },
+    {
+      "type": "formula",
+      "japanese": "な-adjective: 新鮮（しんせん）な + み → 新鮮（しんせん）み",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "な-adjective: 新鮮（しんせん） な + み → 新鮮（しんせん） み"
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike 〜さ , which can turn almost any adjective into a noun, 〜み can only pair with a limited number of adjectives. These adjectives that take 〜み tend to express qualities that are subjective in nature."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "uses",
+      "text": "Uses"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-expressing-a-subjective-perspective",
+      "text": "〜み for Expressing a Subjective Perspective"
+    },
+    {
+      "type": "paragraph",
+      "text": "Choosing 〜み to create a noun implies that you’re treating that noun as something subjective or personal. If you want the noun to express something objective and measurable, then 〜さ is more appropriate."
+    },
+    {
+      "type": "example",
+      "japanese": "バブルティーの甘（あま）さはどうしますか？１から１０を選（えら）んでください。",
+      "english": "What amount of sweetness (=how sweet) would you like in your bubble tea? Please choose from 1 through 10."
+    },
+    {
+      "type": "example",
+      "japanese": "夏（なつ）から秋（あき）にかけて、このトマトには特別（とくべつ）な甘（あま）みが出（で）てくる。",
+      "english": "As summer turns to fall, the special quality of sweetness of these tomatoes comes through."
+    },
+    {
+      "type": "paragraph",
+      "text": "The amount or level of sweetness you want in your bubble tea is different than the quality of sweetness you taste when biting into a tomato. The tomato’s sweetness is subjective—you’re perceiving that sweetness yourself and it may seem more or less sweet to someone else (though the sweetness is undoubtedly there)."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-metaphorical-ideas",
+      "text": "〜み for Metaphorical Ideas"
+    },
+    {
+      "type": "paragraph",
+      "text": "み nouns are often used to connect nouns with metaphorical ideas. The same thing happens in English, as you’ll see in the examples below."
+    },
+    {
+      "type": "example",
+      "japanese": "あの映画（えいが）には重（おも）みがある。",
+      "english": "That movie has some weight. (= That movie conveys an important message.)"
+    },
+    {
+      "type": "example",
+      "japanese": "前田（まえだ）さんは温（あたた）かみがある。",
+      "english": "There is warmth to Maeda. (= Maeda is a kind person.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "These ideas of \"weight\" and \"warmth\" are not literal, and they depend on personal perspective. Maybe others would think that the movie’s story is light and breezy. Perhaps some people find Maeda to be absolutely unbearable."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most challenging part of み nouns is knowing which adjectives you can create from them. Let’s examine a few strategies for how to recognize which adjectives can become み nouns."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "nouns-with-verb-equivalents",
+      "text": "み Nouns with Verb Equivalents"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you know, み nouns have a subjective and personal nuance, so it should be no surprise that they often relate to emotions and feelings. Many of these emotion adjectives actually have a verb equivalent that ends in む. In fact, these み nouns are thought to have originated from their verb form, not their adjective form."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Adjective Form",
+          "Verb Form",
+          "Noun Form"
+        ],
+        [
+          "楽（たの）しい (enjoyable)",
+          "楽（たの）しむ (to enjoy oneself)",
+          "楽（たの）しみ (enjoyment)"
+        ],
+        [
+          "悲（かな）しい (sad)",
+          "悲（かな）しむ (to be sad)",
+          "悲（かな）しみ (sadness)"
+        ],
+        [
+          "痛（いた）い (painful)",
+          "痛（いた）む (to feel pain)",
+          "痛（いた）み (pain)"
+        ],
+        [
+          "苦（くる）しい (suffering)",
+          "苦（くる）しむ (to suffer)",
+          "苦（くる）しみ (anguish)"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Emotion adjectives such as 寂（さび）しい and 嬉（うれ）しい do not have む ending verb counterparts, so in standard Japanese, they cannot form み nouns. As we know though, language changes over time, and these adjectives are beginning to be used as み nouns by young people."
+    },
+    {
+      "type": "example",
+      "japanese": "寂（さび）しみがヤバい。",
+      "english": "I feel terribly lonely."
+    },
+    {
+      "type": "example",
+      "japanese": "嬉（うれ）しみがある。",
+      "english": "I'm glad."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "nouns-with-flavor-adjectives",
+      "text": "み Nouns with Flavor Adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another common type of み noun is related to flavor. In some cases, especially with flavors, the kanji 味（あじ） (flavor) is used instead of the hiragana み — 旨味（うまみ） (flavorful-ness), 辛味（からみ） (spiciness), 甘味（あまみ） (sweetness). When you think of it from this angle, flavor is not something you can objectively measure. What’s spicy to you may not be spicy to someone else."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "い-adjectives (and a small number of な-adjectives can be turned into a noun with the suffix 〜み. This is similar to adding -ness to an adjective in English, but there's a twist. Nouns formed with 〜み represent qualities or states that are not objectively measurable. In other words, 〜み is used to express subjective ideas.",
+    "To form a み noun, take the stem form of an adjective and add 〜み.",
+    "い-adjective: 面白（おもじろ） い + み → 面白（おもじろ） み",
+    "な-adjective: 新鮮（しんせん） な + み → 新鮮（しんせん） み",
+    "Unlike 〜さ , which can turn almost any adjective into a noun, 〜み can only pair with a limited number of adjectives. These adjectives that take 〜み tend to express qualities that are subjective in nature.",
+    "Choosing 〜み to create a noun implies that you’re treating that noun as something subjective or personal. If you want the noun to express something objective and measurable, then 〜さ is more appropriate.",
+    "The amount or level of sweetness you want in your bubble tea is different than the quality of sweetness you taste when biting into a tomato. The tomato’s sweetness is subjective—you’re perceiving that sweetness yourself and it may seem more or less sweet to someone else (though the sweetness is undoubtedly there).",
+    "み nouns are often used to connect nouns with metaphorical ideas. The same thing happens in English, as you’ll see in the examples below.",
+    "These ideas of \"weight\" and \"warmth\" are not literal, and they depend on personal perspective. Maybe others would think that the movie’s story is light and breezy. Perhaps some people find Maeda to be absolutely unbearable.",
+    "The most challenging part of み nouns is knowing which adjectives you can create from them. Let’s examine a few strategies for how to recognize which adjectives can become み nouns.",
+    "As you know, み nouns have a subjective and personal nuance, so it should be no surprise that they often relate to emotions and feelings. Many of these emotion adjectives actually have a verb equivalent that ends in む. In fact, these み nouns are thought to have originated from their verb form, not their adjective form.",
+    "Emotion adjectives such as 寂（さび）しい and 嬉（うれ）しい do not have む ending verb counterparts, so in standard Japanese, they cannot form み nouns. As we know though, language changes over time, and these adjectives are beginning to be used as み nouns by young people.",
+    "Another common type of み noun is related to flavor. In some cases, especially with flavors, the kanji 味（あじ） (flavor) is used instead of the hiragana み — 旨味（うまみ） (flavorful-ness), 辛味（からみ） (spiciness), 甘味（あまみ） (sweetness). When you think of it from this angle, flavor is not something you can objectively measure. What’s spicy to you may not be spicy to someone else."
+  ],
+  "examples": [
+    {
+      "japanese": "バブルティーの甘（あま）さはどうしますか？１から１０を選（えら）んでください。",
+      "english": "What amount of sweetness (=how sweet) would you like in your bubble tea? Please choose from 1 through 10."
+    },
+    {
+      "japanese": "夏（なつ）から秋（あき）にかけて、このトマトには特別（とくべつ）な甘（あま）みが出（で）てくる。",
+      "english": "As summer turns to fall, the special quality of sweetness of these tomatoes comes through."
+    },
+    {
+      "japanese": "あの映画（えいが）には重（おも）みがある。",
+      "english": "That movie has some weight. (= That movie conveys an important message.)"
+    },
+    {
+      "japanese": "前田（まえだ）さんは温（あたた）かみがある。",
+      "english": "There is warmth to Maeda. (= Maeda is a kind person.)"
+    },
+    {
+      "japanese": "寂（さび）しみがヤバい。",
+      "english": "I feel terribly lonely."
+    },
+    {
+      "japanese": "嬉（うれ）しみがある。",
+      "english": "I'm glad."
+    },
+    {
+      "japanese": "い-adjective: 面白（おもしろ）い + み → 面白（おもしろ）み",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "な-adjective: 新鮮（しんせん）な + み → 新鮮（しんせん）み",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Adjective Form",
+        "Verb Form",
+        "Noun Form"
+      ],
+      [
+        "楽（たの）しい (enjoyable)",
+        "楽（たの）しむ (to enjoy oneself)",
+        "楽（たの）しみ (enjoyment)"
+      ],
+      [
+        "悲（かな）しい (sad)",
+        "悲（かな）しむ (to be sad)",
+        "悲（かな）しみ (sadness)"
+      ],
+      [
+        "痛（いた）い (painful)",
+        "痛（いた）む (to feel pain)",
+        "痛（いた）み (pain)"
+      ],
+      [
+        "苦（くる）しい (suffering)",
+        "苦（くる）しむ (to suffer)",
+        "苦（くる）しみ (anguish)"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜み"
+    },
+    {
+      "level": 2,
+      "id": "uses",
+      "text": "Uses"
+    },
+    {
+      "level": 3,
+      "id": "for-expressing-a-subjective-perspective",
+      "text": "〜み for Expressing a Subjective Perspective"
+    },
+    {
+      "level": 3,
+      "id": "for-metaphorical-ideas",
+      "text": "〜み for Metaphorical Ideas"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "nouns-with-verb-equivalents",
+      "text": "み Nouns with Verb Equivalents"
+    },
+    {
+      "level": 3,
+      "id": "nouns-with-flavor-adjectives",
+      "text": "み Nouns with Flavor Adjectives"
+    }
+  ],
+  "id": 3,
+  "slug": "adjective-suffix-mi",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/adjective-suffix-mi/",
+  "categories": [
+    "Adjective Form"
+  ]
+}

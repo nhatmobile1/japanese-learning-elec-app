@@ -1,0 +1,161 @@
+{
+  "title": "〜たほうがいい・〜ないほうがいい",
+  "description": "〜ほうがいい gives advice or states a preference — \"it's better to ~.\" Use the past た form to recommend doing something, and the plain ない form to recommend not doing it.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "ほう means \"side\" or \"option,\" so 〜ほうがいい literally says \"the ~ option is good.\" To advise someone to do something, attach it to the past た form of the verb. This is one of the most common ways to give practical suggestions."
+    },
+    {
+      "type": "formula",
+      "japanese": "verb (past た form) ＋ ほうがいい",
+      "english": "it's better to ~ / you should ~"
+    },
+    {
+      "type": "example",
+      "japanese": "肉（にく）は焼（や）いたほうがいい。",
+      "english": "It's better to grill the meat."
+    },
+    {
+      "type": "example",
+      "japanese": "アイスクリームを買（か）ったほうがいいです。",
+      "english": "It's better to buy ice cream."
+    },
+    {
+      "type": "example",
+      "japanese": "疲（つか）れているなら、早（はや）く寝（ね）たほうがいいですよ。",
+      "english": "If you're tired, you'd better go to bed early."
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にほん）から帰（かえ）ったほうがいいです。",
+      "english": "It's better to head back from Japan."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "negative-form",
+      "text": "The Negative: 〜ないほうがいい"
+    },
+    {
+      "type": "paragraph",
+      "text": "To advise against doing something, attach ほうがいい to the plain ない form. This recommends NOT doing the action."
+    },
+    {
+      "type": "formula",
+      "japanese": "verb (plain ない form) ＋ ほうがいい",
+      "english": "it's better not to ~ / you shouldn't ~"
+    },
+    {
+      "type": "example",
+      "japanese": "無理（むり）しないほうがいい。",
+      "english": "It's better not to overdo it."
+    },
+    {
+      "type": "example",
+      "japanese": "夜遅（よるおそ）くコーヒーを飲（の）まないほうがいいですよ。",
+      "english": "You shouldn't drink coffee late at night."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "comparison",
+      "text": "Comparing Two Options"
+    },
+    {
+      "type": "paragraph",
+      "text": "With nouns, 〜のほうが (without いい fixed on the end) simply marks the preferred side in a comparison, often paired with より (\"than\")."
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）で作（つく）ったうどんのほうがおいしい。",
+      "english": "The udon I made myself is tastier."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Watch the た/ない asymmetry: the affirmative advice uses the PAST た form (早（はや）く寝（ね）たほうがいい), but the negative advice uses the plain PRESENT ない form (飲（の）まないほうがいい) — NOT the past 〜なかったほうがいい. So it is 食（た）べたほうがいい / 食（た）べないほうがいい, never 食（た）べなかったほうがいい. Also don't use the present 食（た）べるほうがいい for advice; that reads as a general preference, not a recommendation."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "verb (past た form) ＋ ほうがいい",
+      "english": "it's better to ~ / you should ~",
+      "type": "formula"
+    },
+    {
+      "japanese": "肉（にく）は焼（や）いたほうがいい。",
+      "english": "It's better to grill the meat."
+    },
+    {
+      "japanese": "アイスクリームを買（か）ったほうがいいです。",
+      "english": "It's better to buy ice cream."
+    },
+    {
+      "japanese": "疲（つか）れているなら、早（はや）く寝（ね）たほうがいいですよ。",
+      "english": "If you're tired, you'd better go to bed early."
+    },
+    {
+      "japanese": "日本（にほん）から帰（かえ）ったほうがいいです。",
+      "english": "It's better to head back from Japan."
+    },
+    {
+      "japanese": "verb (plain ない form) ＋ ほうがいい",
+      "english": "it's better not to ~ / you shouldn't ~",
+      "type": "formula"
+    },
+    {
+      "japanese": "無理（むり）しないほうがいい。",
+      "english": "It's better not to overdo it."
+    },
+    {
+      "japanese": "夜遅（よるおそ）くコーヒーを飲（の）まないほうがいいですよ。",
+      "english": "You shouldn't drink coffee late at night."
+    },
+    {
+      "japanese": "自分（じぶん）で作（つく）ったうどんのほうがおいしい。",
+      "english": "The udon I made myself is tastier."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "negative-form",
+      "text": "The Negative: 〜ないほうがいい"
+    },
+    {
+      "level": 2,
+      "id": "comparison",
+      "text": "Comparing Two Options"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1038,
+  "slug": "hou-ga-ii",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

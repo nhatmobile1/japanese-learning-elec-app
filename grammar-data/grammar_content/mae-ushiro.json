@@ -1,0 +1,630 @@
+{
+  "title": "前・後",
+  "description": "前（まえ） and 後（ご） mean \"in front\" and \"behind\" respectively when referring to space, and \"before\" and \"after\" when talking about time.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "前（まえ） and 後（あと） are words that represent a relationship in space or in time."
+    },
+    {
+      "type": "paragraph",
+      "text": "In space, 前（まえ） indicates the position \"in front\" of something, whereas 後（あと） indicates the position \"behind\" something. In this use, the word 後（うし）ろ is usually used rather than 後（あと）."
+    },
+    {
+      "type": "example",
+      "japanese": "車（くるま）の前（まえ）",
+      "english": "in front of the car"
+    },
+    {
+      "type": "example",
+      "japanese": "車（くるま）の後（うし）ろ",
+      "english": "behind the car"
+    },
+    {
+      "type": "paragraph",
+      "text": "In time, 前（まえ） means \"before\" and 後（あと） means \"after,\" and they are used to indicate that something takes place \"before\" or \"after\" another event."
+    },
+    {
+      "type": "example",
+      "japanese": "会議（かいぎ）の前（まえ）",
+      "english": "before the meeting"
+    },
+    {
+      "type": "example",
+      "japanese": "会議（かいぎ）の後（のち）",
+      "english": "after the meeting"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, let's move onto the Patterns of Use, and then continue on to learn more about 前（まえ） and 後（あと）!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + の前・後"
+    },
+    {
+      "type": "paragraph",
+      "text": "As seen in earlier examples, the particle の is used to mark the reference point in space or time to talk about whether something is in front of, behind, before, or after."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, to talk about if something is in front of or behind the station, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "駅（えき）の[前（まえ）・後（うし）ろ]",
+      "english": "[in front of・behind] the station"
+    },
+    {
+      "type": "paragraph",
+      "text": "And to talk about if something happens before or after breakfast, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "朝食（ちょうしょく）の[前（まえ）・後（こう）]",
+      "english": "[before・after] breakfast"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take note that this の is often omitted, except when 後（うし）ろ is used."
+    },
+    {
+      "type": "example",
+      "japanese": "駅（えき）[前（まえ）・❌後（うし）ろ]",
+      "english": "[in front of・behind] the station"
+    },
+    {
+      "type": "example",
+      "japanese": "朝食（ちょうしょく）[前（まえ）・後（こう）]",
+      "english": "[before・after] breakfast"
+    },
+    {
+      "type": "paragraph",
+      "text": "As the ratio of kanji rises, the phrases without の are often favored in written texts as they generally provide a more literary tone, plus save some space. Nevertheless, depending on a person's preferred style of speech, they can also be used informally in ordinary conversation."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb--present-tense--",
+      "text": "Verb-る (Present Tense) + 前"
+    },
+    {
+      "type": "paragraph",
+      "text": "A clause , or a short sentence, that briefly describes the activity or event you're referring to, can also appear before 前（まえ）."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this structure, the verb tense at the end of the clause must always be in the present."
+    },
+    {
+      "type": "example",
+      "japanese": "朝（あさ）ごはんを食（た）べる前（まえ）に、着替（きが）えます。",
+      "english": "I (will) change my clothes before eating breakfast."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rule remains even if you are talking about the past."
+    },
+    {
+      "type": "example",
+      "japanese": "朝（あさ）ごはんを[⭕食（た）べる・❌食（た）べた]前（まえ）に、着替（きが）えました。",
+      "english": "I changed my clothes before eating breakfast."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reason for this is that the time clause's tense relies on your point of view, specifically how you envisage the relevant moments. If that sounds confusing, don't worry — we'll talk more about it in a later section."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb--past-tense--",
+      "text": "Verb-た (Past Tense) + 後"
+    },
+    {
+      "type": "paragraph",
+      "text": "A clause , or a short sentence, that briefly describes the activity or event you're referring to, can also appear before 後（あと）."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this structure, the verb tense at the end of the clause must always be in the past."
+    },
+    {
+      "type": "example",
+      "japanese": "朝（あさ）ごはんを食（た）べた後（のち）に、歯（は）を磨（みが）いた。",
+      "english": "I brushed my teeth after eating breakfast."
+    },
+    {
+      "type": "paragraph",
+      "text": "The rule remains even if you are talking about the present or the future."
+    },
+    {
+      "type": "example",
+      "japanese": "朝（あさ）ごはんを[❌食（た）べる・⭕食（た）べた]後（ご）に、歯（は）を磨（みが）きます。",
+      "english": "I (will) brush my teeth after eating breakfast."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, this is due to the fact that the tense of the time clause depends on your point of view, more precisely, on how you picture the relevant times. More on that will be covered in the next part."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section",
+      "text": "〜前・後 + に/で"
+    },
+    {
+      "type": "paragraph",
+      "text": "Different particles can follow 前（まえ） and 後（あと）, but the most common ones are に and で . When talking in terms of space, both particles are equally common to use, but have slightly different meanings."
+    },
+    {
+      "type": "paragraph",
+      "text": "That is, に simply pinpoints a location while で indicates an area for an event or an activity. So if you simply want to talk about where something is or where something goes to, に is your option."
+    },
+    {
+      "type": "example",
+      "japanese": "ホテルの前（ぜん）[⭕に・❌で]来（き）た。",
+      "english": "I came to the front of the hotel."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, if you want to talk about the place where some action or event takes place, で is your choice."
+    },
+    {
+      "type": "example",
+      "japanese": "ホテルの後（うし）ろ[❌に・⭕で]踊（おど）った。",
+      "english": "I danced behind the hotel."
+    },
+    {
+      "type": "paragraph",
+      "text": "When discussing a point in time, 前（まえ） usually takes に and rarely takes で, while 後（あと） can take either of them, but 後（あと）で is more commonly taught in textbooks."
+    },
+    {
+      "type": "example",
+      "japanese": "勉強（べんきょう）する前（ぜん）[に・❌で]寝（ね）た。",
+      "english": "I slept before studying."
+    },
+    {
+      "type": "example",
+      "japanese": "勉強（べんきょう）した後（のち）[に・で]寝（ね）た。",
+      "english": "I slept after studying."
+    },
+    {
+      "type": "paragraph",
+      "text": "When using に, it indicates that you're talking about a point in time immediately before or after another event. On the other hand, で does not always imply that something happens right away after another state or action has taken place. Rather, で just shows that it happens \"sometime later\" than the earlier event."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you think in terms of a timeline, に pins down a point in the timeline pretty precisely, while で is more broadly focused on a given stage or period within that timeline."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you say the following statements while you have some tasks to complete, for example, they'll have slightly different nuances:"
+    },
+    {
+      "type": "example",
+      "japanese": "後（ご）にする。",
+      "english": "I'll do it after my other tasks."
+    },
+    {
+      "type": "example",
+      "japanese": "後（あと）でする。",
+      "english": "I'll do it later."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the case of 後（あと） に する, it just sounds like you're pushing your task to a point after the other tasks. On the other hand, if you say 後（あと） で する, it sounds like you're referring to some unspecified point in the future."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-1",
+      "text": "〜前・後 + から"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another common particle that follows 前（まえ） and 後（あと） is から, which is a particle that marks the \"source,\" such as a starting point or an origin. Let's check out how it's used with 前（まえ） and 後（あと）."
+    },
+    {
+      "type": "paragraph",
+      "text": "前（まえ）から denotes that someone is approaching you when utilized sppatially. It's because when someone or something is approaching you, it seems to you that they're coming from somewhere \"ahead\" or \"in front\" of you."
+    },
+    {
+      "type": "example",
+      "japanese": "子犬（こいぬ）が前（まえ）から走（はし）って来（き）た。",
+      "english": "A puppy was running towards me. (from in front of me)."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, 後（うし）ろから means someone or something comes at you from \"behind,\" as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "子犬（こいぬ）に後（うし）ろから飛（と）びつかれた。",
+      "english": "A puppy jumped at me from behind."
+    },
+    {
+      "type": "paragraph",
+      "text": "It can also be used when someone or something follows after you. In this use, it can be either 後（うし）ろ or 後（あと）:"
+    },
+    {
+      "type": "example",
+      "japanese": "子犬（こいぬ）が後（こう）(ろ)からついて来（き）た。",
+      "english": "A puppy followed after me."
+    },
+    {
+      "type": "paragraph",
+      "text": "When talking about time, 前（まえ）から often translates as \"for a while.\" It's because it implies that something started at a time that was \"before\" the recent present and has continued on ever since."
+    },
+    {
+      "type": "example",
+      "japanese": "このお菓子（かし）、前（まえ）から気（き）になってたんだ。",
+      "english": "I've had my eye on this candy for a while."
+    },
+    {
+      "type": "paragraph",
+      "text": "後（あと）から, on the other hand, highlights that something starts or happens later than it's supposed to. It's often used when some issue appears to have been resolved, but something happens later that affects it or reverses the outcome."
+    },
+    {
+      "type": "example",
+      "japanese": "一（いち）回（かい）オッケーしたけど、後（ご）から気（き）が変（か）わったんだ。",
+      "english": "I okayed it once, but later changed my mind."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this context, 後（あと）から is interchangable with 後（あと）で, but 後（あと）から emphasizes how the change happened at a later point, after the fact."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "tense-used-in-",
+      "text": "Tense Used in 〜前・後"
+    },
+    {
+      "type": "paragraph",
+      "text": "Grammar rules about tense sometimes differ between Japanese and English. Since 前（まえ） and 後（あと） refer to time in their “before” and “after” uses, those rules inevitably come into play."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, how do tenses work differently with “before/after” in English and 前（まえ）/ 後（あと） in Japanese?"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you use \"before/after\" in English, the rules are pretty simple. When discussing current or upcoming events, you use the present tense in the time clause, while the main clause takes either the present or the future tense."
+    },
+    {
+      "type": "formula",
+      "japanese": "Before/After I finish the report, I (will) check all the errors.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Before/After I finish the report, I (will) check all the errors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then, you simply switch to the past tense for past occurrences, as in:"
+    },
+    {
+      "type": "formula",
+      "japanese": "Before/After I finished the report, I checked all the errors.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Before/After I finished the report, I checked all the errors."
+    },
+    {
+      "type": "paragraph",
+      "text": "In either case, it is rather simple and the tenses always match."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, as we talked about earlier, you must always use the present tense in the 前（まえ） clause, even when discussing past events, and you must always use the past tense in the 後（あと） clause, even when discussing future events."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is why tenses in the 前（まえ）/ 後（あと） clause and the rest of the sentence don't always align, like in the earlier examples from the Patterns of Use section:"
+    },
+    {
+      "type": "example",
+      "japanese": "朝（あさ）ごはんを[⭕食（た）べる・❌食（た）べた]前（まえ）に、着替（きが）えました。",
+      "english": "I changed my clothes before eating breakfast."
+    },
+    {
+      "type": "example",
+      "japanese": "朝（あさ）ごはんを[❌食（た）べる・⭕食（た）べた]後（ご）に、歯（は）を磨（みが）きます。",
+      "english": "I (will) brush my teeth after eating breakfast."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, the main clause in the first sentence indicates that you are discussing the past, and in the second sentence indicates the present or the future. The tenses of the sub-event (given in the time clauses) are set to the present and the past respectively, however, differing from those in the main clauses."
+    },
+    {
+      "type": "paragraph",
+      "text": "This may all seem perplexing, but here's why :"
+    },
+    {
+      "type": "paragraph",
+      "text": "When talking about a sub-event (the event in the time clause), Japanese people subconsciously place themselves in the time they’re discussing — whether it’s in the present moment, an imagined future, or the already-completed past."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, when you say that you changed your clothes before eating breakfast in Japanese, you’re placing yourself back in that moment again — the moment of changing your clothes, when you still hadn’t eaten breakfast."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, even though it’s already happened in reality, your perspective is from the point in time where it hadn’t happened yet. In that moment — the moment of changing clothes — having breakfast would appear to you to be a future event, right? So to reflect that perspective, you have to use the present tense for the sub-event, as in 朝（あさ）ご飯（はん）を食（た）べ る 前（まえ）."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you use the past tense, as in 朝（あさ）ごはんを食（た）べ た 前（まえ）, it implies that you're virtually placing yourself at the point where eating breakfast is completed, and that this event is set as the reference point. Since this reference point conflicts with your intended topic of discussion — you changed your clothes before eating breakfast — the past tense doesn't work in the 前（まえ） clause."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, 朝（あさ）ごはんを食（た）べ た 後（あと） cannot be 朝（あさ）ごはんを食（た）べ る 後（あと）. This is because while the past tense た establishes the reference point to the moment you finished your meal, the present tense る establishes it to the moment you were going to eat the meal and creates conflicts with 後（あと）."
+    },
+    {
+      "type": "paragraph",
+      "text": "Anyways, don't worry if you can't immediately digest why they work this way. In actuality, the majority of native speakers themselves don't understand why these rules exist. They simply acquire the language by becoming accustomed to each pattern organically, without even thinking about why . It's okay for you to acquire Japanese the same way!"
+    },
+    {
+      "type": "paragraph",
+      "text": "So for the time being, just try to get used to picking the present tense for 前（まえ） and the past tense for 後（あと）. The practice will gradually help you remember and understand the differences between them. (But if you're an eager learner who wants to learn more about tenses in Japanese, we won't stop you — the 〜時（とき） (when…) entry has more examples! 😜)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "前（まえ） and 後（あと） are words that represent a relationship in space or in time.",
+    "In space, 前（まえ） indicates the position \"in front\" of something, whereas 後（あと） indicates the position \"behind\" something. In this use, the word 後（うし）ろ is usually used rather than 後（あと）.",
+    "In time, 前（まえ） means \"before\" and 後（あと） means \"after,\" and they are used to indicate that something takes place \"before\" or \"after\" another event.",
+    "Now, let's move onto the Patterns of Use, and then continue on to learn more about 前（まえ） and 後（あと）!",
+    "As seen in earlier examples, the particle の is used to mark the reference point in space or time to talk about whether something is in front of, behind, before, or after.",
+    "For example, to talk about if something is in front of or behind the station, you can say:",
+    "And to talk about if something happens before or after breakfast, you can say:",
+    "Take note that this の is often omitted, except when 後（うし）ろ is used.",
+    "As the ratio of kanji rises, the phrases without の are often favored in written texts as they generally provide a more literary tone, plus save some space. Nevertheless, depending on a person's preferred style of speech, they can also be used informally in ordinary conversation.",
+    "A clause , or a short sentence, that briefly describes the activity or event you're referring to, can also appear before 前（まえ）.",
+    "In this structure, the verb tense at the end of the clause must always be in the present.",
+    "The rule remains even if you are talking about the past.",
+    "The reason for this is that the time clause's tense relies on your point of view, specifically how you envisage the relevant moments. If that sounds confusing, don't worry — we'll talk more about it in a later section.",
+    "A clause , or a short sentence, that briefly describes the activity or event you're referring to, can also appear before 後（あと）.",
+    "In this structure, the verb tense at the end of the clause must always be in the past.",
+    "The rule remains even if you are talking about the present or the future.",
+    "Again, this is due to the fact that the tense of the time clause depends on your point of view, more precisely, on how you picture the relevant times. More on that will be covered in the next part.",
+    "Different particles can follow 前（まえ） and 後（あと）, but the most common ones are に and で . When talking in terms of space, both particles are equally common to use, but have slightly different meanings.",
+    "That is, に simply pinpoints a location while で indicates an area for an event or an activity. So if you simply want to talk about where something is or where something goes to, に is your option.",
+    "On the other hand, if you want to talk about the place where some action or event takes place, で is your choice.",
+    "When discussing a point in time, 前（まえ） usually takes に and rarely takes で, while 後（あと） can take either of them, but 後（あと）で is more commonly taught in textbooks.",
+    "When using に, it indicates that you're talking about a point in time immediately before or after another event. On the other hand, で does not always imply that something happens right away after another state or action has taken place. Rather, で just shows that it happens \"sometime later\" than the earlier event.",
+    "If you think in terms of a timeline, に pins down a point in the timeline pretty precisely, while で is more broadly focused on a given stage or period within that timeline.",
+    "If you say the following statements while you have some tasks to complete, for example, they'll have slightly different nuances:",
+    "In the case of 後（あと） に する, it just sounds like you're pushing your task to a point after the other tasks. On the other hand, if you say 後（あと） で する, it sounds like you're referring to some unspecified point in the future.",
+    "Another common particle that follows 前（まえ） and 後（あと） is から, which is a particle that marks the \"source,\" such as a starting point or an origin. Let's check out how it's used with 前（まえ） and 後（あと）.",
+    "前（まえ）から denotes that someone is approaching you when utilized sppatially. It's because when someone or something is approaching you, it seems to you that they're coming from somewhere \"ahead\" or \"in front\" of you.",
+    "On the other hand, 後（うし）ろから means someone or something comes at you from \"behind,\" as in:",
+    "It can also be used when someone or something follows after you. In this use, it can be either 後（うし）ろ or 後（あと）:",
+    "When talking about time, 前（まえ）から often translates as \"for a while.\" It's because it implies that something started at a time that was \"before\" the recent present and has continued on ever since.",
+    "後（あと）から, on the other hand, highlights that something starts or happens later than it's supposed to. It's often used when some issue appears to have been resolved, but something happens later that affects it or reverses the outcome.",
+    "In this context, 後（あと）から is interchangable with 後（あと）で, but 後（あと）から emphasizes how the change happened at a later point, after the fact.",
+    "Grammar rules about tense sometimes differ between Japanese and English. Since 前（まえ） and 後（あと） refer to time in their “before” and “after” uses, those rules inevitably come into play.",
+    "So, how do tenses work differently with “before/after” in English and 前（まえ）/ 後（あと） in Japanese?",
+    "When you use \"before/after\" in English, the rules are pretty simple. When discussing current or upcoming events, you use the present tense in the time clause, while the main clause takes either the present or the future tense.",
+    "Before/After I finish the report, I (will) check all the errors.",
+    "Then, you simply switch to the past tense for past occurrences, as in:",
+    "Before/After I finished the report, I checked all the errors.",
+    "In either case, it is rather simple and the tenses always match.",
+    "On the other hand, as we talked about earlier, you must always use the present tense in the 前（まえ） clause, even when discussing past events, and you must always use the past tense in the 後（あと） clause, even when discussing future events.",
+    "This is why tenses in the 前（まえ）/ 後（あと） clause and the rest of the sentence don't always align, like in the earlier examples from the Patterns of Use section:",
+    "Here, the main clause in the first sentence indicates that you are discussing the past, and in the second sentence indicates the present or the future. The tenses of the sub-event (given in the time clauses) are set to the present and the past respectively, however, differing from those in the main clauses.",
+    "This may all seem perplexing, but here's why :",
+    "When talking about a sub-event (the event in the time clause), Japanese people subconsciously place themselves in the time they’re discussing — whether it’s in the present moment, an imagined future, or the already-completed past.",
+    "For example, when you say that you changed your clothes before eating breakfast in Japanese, you’re placing yourself back in that moment again — the moment of changing your clothes, when you still hadn’t eaten breakfast.",
+    "So, even though it’s already happened in reality, your perspective is from the point in time where it hadn’t happened yet. In that moment — the moment of changing clothes — having breakfast would appear to you to be a future event, right? So to reflect that perspective, you have to use the present tense for the sub-event, as in 朝（あさ）ご飯（はん）を食（た）べ る 前（まえ）.",
+    "If you use the past tense, as in 朝（あさ）ごはんを食（た）べ た 前（まえ）, it implies that you're virtually placing yourself at the point where eating breakfast is completed, and that this event is set as the reference point. Since this reference point conflicts with your intended topic of discussion — you changed your clothes before eating breakfast — the past tense doesn't work in the 前（まえ） clause.",
+    "In the same way, 朝（あさ）ごはんを食（た）べ た 後（あと） cannot be 朝（あさ）ごはんを食（た）べ る 後（あと）. This is because while the past tense た establishes the reference point to the moment you finished your meal, the present tense る establishes it to the moment you were going to eat the meal and creates conflicts with 後（あと）.",
+    "Anyways, don't worry if you can't immediately digest why they work this way. In actuality, the majority of native speakers themselves don't understand why these rules exist. They simply acquire the language by becoming accustomed to each pattern organically, without even thinking about why . It's okay for you to acquire Japanese the same way!",
+    "So for the time being, just try to get used to picking the present tense for 前（まえ） and the past tense for 後（あと）. The practice will gradually help you remember and understand the differences between them. (But if you're an eager learner who wants to learn more about tenses in Japanese, we won't stop you — the 〜時（とき） (when…) entry has more examples! 😜)"
+  ],
+  "examples": [
+    {
+      "japanese": "車（くるま）の前（まえ）",
+      "english": "in front of the car"
+    },
+    {
+      "japanese": "車（くるま）の後（うし）ろ",
+      "english": "behind the car"
+    },
+    {
+      "japanese": "会議（かいぎ）の前（まえ）",
+      "english": "before the meeting"
+    },
+    {
+      "japanese": "会議（かいぎ）の後（のち）",
+      "english": "after the meeting"
+    },
+    {
+      "japanese": "駅（えき）の[前（まえ）・後（うし）ろ]",
+      "english": "[in front of・behind] the station"
+    },
+    {
+      "japanese": "朝食（ちょうしょく）の[前（まえ）・後（こう）]",
+      "english": "[before・after] breakfast"
+    },
+    {
+      "japanese": "駅（えき）[前（まえ）・❌後（うし）ろ]",
+      "english": "[in front of・behind] the station"
+    },
+    {
+      "japanese": "朝食（ちょうしょく）[前（まえ）・後（こう）]",
+      "english": "[before・after] breakfast"
+    },
+    {
+      "japanese": "朝（あさ）ごはんを食（た）べる前（まえ）に、着替（きが）えます。",
+      "english": "I (will) change my clothes before eating breakfast."
+    },
+    {
+      "japanese": "朝（あさ）ごはんを[⭕食（た）べる・❌食（た）べた]前（まえ）に、着替（きが）えました。",
+      "english": "I changed my clothes before eating breakfast."
+    },
+    {
+      "japanese": "朝（あさ）ごはんを食（た）べた後（のち）に、歯（は）を磨（みが）いた。",
+      "english": "I brushed my teeth after eating breakfast."
+    },
+    {
+      "japanese": "朝（あさ）ごはんを[❌食（た）べる・⭕食（た）べた]後（ご）に、歯（は）を磨（みが）きます。",
+      "english": "I (will) brush my teeth after eating breakfast."
+    },
+    {
+      "japanese": "ホテルの前（ぜん）[⭕に・❌で]来（き）た。",
+      "english": "I came to the front of the hotel."
+    },
+    {
+      "japanese": "ホテルの後（うし）ろ[❌に・⭕で]踊（おど）った。",
+      "english": "I danced behind the hotel."
+    },
+    {
+      "japanese": "勉強（べんきょう）する前（ぜん）[に・❌で]寝（ね）た。",
+      "english": "I slept before studying."
+    },
+    {
+      "japanese": "勉強（べんきょう）した後（のち）[に・で]寝（ね）た。",
+      "english": "I slept after studying."
+    },
+    {
+      "japanese": "後（ご）にする。",
+      "english": "I'll do it after my other tasks."
+    },
+    {
+      "japanese": "後（あと）でする。",
+      "english": "I'll do it later."
+    },
+    {
+      "japanese": "子犬（こいぬ）が前（まえ）から走（はし）って来（き）た。",
+      "english": "A puppy was running towards me. (from in front of me)."
+    },
+    {
+      "japanese": "子犬（こいぬ）に後（うし）ろから飛（と）びつかれた。",
+      "english": "A puppy jumped at me from behind."
+    },
+    {
+      "japanese": "子犬（こいぬ）が後（こう）(ろ)からついて来（き）た。",
+      "english": "A puppy followed after me."
+    },
+    {
+      "japanese": "このお菓子（かし）、前（まえ）から気（き）になってたんだ。",
+      "english": "I've had my eye on this candy for a while."
+    },
+    {
+      "japanese": "一（いち）回（かい）オッケーしたけど、後（ご）から気（き）が変（か）わったんだ。",
+      "english": "I okayed it once, but later changed my mind."
+    },
+    {
+      "japanese": "朝（あさ）ごはんを[⭕食（た）べる・❌食（た）べた]前（まえ）に、着替（きが）えました。",
+      "english": "I changed my clothes before eating breakfast."
+    },
+    {
+      "japanese": "朝（あさ）ごはんを[❌食（た）べる・⭕食（た）べた]後（ご）に、歯（は）を磨（みが）きます。",
+      "english": "I (will) brush my teeth after eating breakfast."
+    },
+    {
+      "japanese": "Before/After I finish the report, I (will) check all the errors.",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "Before/After I finished the report, I checked all the errors.",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + の前・後"
+    },
+    {
+      "level": 4,
+      "id": "verb--present-tense--",
+      "text": "Verb-る (Present Tense) + 前"
+    },
+    {
+      "level": 4,
+      "id": "verb--past-tense--",
+      "text": "Verb-た (Past Tense) + 後"
+    },
+    {
+      "level": 4,
+      "id": "section",
+      "text": "〜前・後 + に/で"
+    },
+    {
+      "level": 4,
+      "id": "section-1",
+      "text": "〜前・後 + から"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "tense-used-in-",
+      "text": "Tense Used in 〜前・後"
+    }
+  ],
+  "id": 127,
+  "slug": "mae-ushiro",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/mae-ushiro/",
+  "categories": [
+    "Noun"
+  ]
+}

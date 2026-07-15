@@ -1,0 +1,659 @@
+{
+  "title": "Particle を",
+  "description": "を tells us what the direct object of a sentence is. In other words, it marks the thing that gets affected by the verb.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle を marks the grammatical object of a sentence, which is the thing that is acted upon or affected by the verb. In other words it's what gets \"verbed\" in a sentence. Particle を has a lot of similarities with objects in English, but it also has some unique characteristics that make it a little different and challenging for learners."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "First, let's talk structure — what kind of words or grammar structures can particle を attach to?"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + を"
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle を can appear after nouns to make them the object of the sentence."
+    },
+    {
+      "type": "example",
+      "japanese": "かなえはボールを打（う）った。",
+      "english": "Kanae hit the ball."
+    },
+    {
+      "type": "example",
+      "japanese": "まちこは梅酒（うめしゅ）を作（つく）った。",
+      "english": "Machiko made plum wine."
+    },
+    {
+      "type": "paragraph",
+      "text": "In these sentences, particle を comes after the nouns that are affected by verbs. In the first one, ボール (ball) is the thing that is Kanae hits. In the second sentence, 梅酒（うめしゅ） (plum wine) is the thing that Machiko makes. These are the direct objects of the sentence!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "at-the-end-of-a-sentence",
+      "text": "を at the End of a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another place you'll find を is at the very end of a sentence. In this kind of sentence, the verb is purposefully missing, and the listener or reader is expected to complete the sentence in their head using world knowledge or context clues. There are three main reasons why this happens — you might be clarifying what the object of a verb is, you might be trying to make something sound catchy or attention-grabbing, or it could be part of a set-phrase greeting. Let's look at an example of each:"
+    },
+    {
+      "type": "formula",
+      "japanese": "かなえお腹（なか）が痛（いた）いわ〜 食（た）べ過（す）ぎちゃった。 </br> KanaeMy stomach hurts… I ate too much.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "かなえ お腹（なか）が痛（いた）いわ〜 食（た）べ過（す）ぎちゃった。 </br> Kanae My stomach hurts… I ate too much."
+    },
+    {
+      "type": "formula",
+      "japanese": "マミ何（なに）を？ </br> MamiOf what?",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "マミ 何（なに）を？ </br> Mami Of what?"
+    },
+    {
+      "type": "formula",
+      "japanese": "かなえクラブケーキを！ </br> KanaeCrab cakes!",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "かなえ クラブケーキを！ </br> Kanae Crab cakes!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this informal dialogue, Mami asks Kanae to clarify what she ate too much of. To do this, she leaves out the verb 食（た）べ過（す）ぎた（た す ） (ate too much), because it's already understood from context. Kanae answers her question in a similar fashion. This is completely normal and appropriate for informal conversation."
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）教育（きょういく）に新（あたら）しい風（かぜ）を！",
+      "english": "A new wind into Japanese language education!"
+    },
+    {
+      "type": "paragraph",
+      "text": "This example uses the を-final structure to create a catchy feeling. 新（あたら）しい風（かぜ）を吹（ふ）かせる（あたら かぜ ふ ） (literally: \"to cause a new wind to blow\") is a familiar colloquialism for Japanese speakers, which means something like \"to breathe new life into something\" in English. Because the saying is familiar, readers are able to complete the sentence in their heads. Leaving the verb off makes this sound catchy, so this structure gets used in titles and marketing slogans. The example above could be the title of a book on new approaches to language teaching."
+    },
+    {
+      "type": "example",
+      "japanese": "良（よ）いお年（とし）を！",
+      "english": "Have a great year!"
+    },
+    {
+      "type": "paragraph",
+      "text": "The example above is a common saying used to greet people during the New Year season. It's used at the end of December, as the New Year approaches. You can also add the verb back in, in which case the full saying is 「良（よ）いお年（とし）をお迎（むか）えください」, or \"May you be met with a great new year!\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-direct-objects",
+      "text": "を for Direct Objects"
+    },
+    {
+      "type": "paragraph",
+      "text": "When particle を is used with a transitive verb , it marks the object of that verb. This use of を is very similar to English, so we doubt you'll have any problems with it. を marks objects that are somehow affected by the action of the subject."
+    },
+    {
+      "type": "example",
+      "japanese": "キャメロンがゴキブリをつぶした。",
+      "english": "Cameron squished a cockroach."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, the object ゴキブリ (cockroach) is what was squished. It goes a total change of state, from living to well, smooshed. Clearly it is being affected by the action in the sentence! Also — ew 🤢"
+    },
+    {
+      "type": "paragraph",
+      "text": "An object does not have to be physically affected by the verb though, it can be more of a psychological affect as well. Again, this isn't really any different from English, so don't sweat it:"
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーがキャメロンを責（せ）めた。",
+      "english": "Jenny blamed Cameron."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, Cameron is who was blamed. Perhaps Jenny is the type who refuses to squish any living creature, so when she saw that poor squashed cockroach she needed to find the culprit. While Cameron isn't physically affected, he is psychologically affected — he's now a prime suspect in an insect murder case!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, objects can be the result of some process. This too is like English, so it won't give you any trouble:"
+    },
+    {
+      "type": "example",
+      "japanese": "ゴキブリ等（とう）が政党（せいとう）を作（つく）りました。",
+      "english": "The cockroaches created a political party."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, a 政党（せいとう） (political party) is what was created. The object is still being affected by the action — it comes into existence due to the completion of a process. Now those cockroaches can protest against their human oppressors!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "In general, we can say that particle を marks objects of verbs. This doesn't always mean though that the object of a Japanese sentence is always the object of the equivalent English translation, though. Let's take a look at the different ways that particle を gets used."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-movement-verbs",
+      "text": "を with Movement Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, you'll see particle を used with movement verbs, such as 歩（ある）く (walk), 泳（およ）ぐ (swim), 帰（かえ）る (return). If you've learned about intransitive verbs before, this might come as a surprise to you — don't only transitive verbs take を? Shouldn't we use something different, like particle で or particle から , with a verb of movement? Let's take a look at this puzzling particle use!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "vs-",
+      "text": "を vs. で"
+    },
+    {
+      "type": "example",
+      "japanese": "ケンイチが厚（あつ）板（いた）の上（うえ）を歩（ある）かされた！",
+      "english": "Kenichi was made to walk the plank!"
+    },
+    {
+      "type": "example",
+      "japanese": "ケンイチが厚（あつ）板（いた）の上（うえ）で歩（ある）かされた！",
+      "english": "Kenichi was made to walk around on a plank!"
+    },
+    {
+      "type": "paragraph",
+      "text": "The only thing that differs between these sentences is the particle, を or で, and the difference is pretty big, right? In the first sentence, Kenichi walks the plank, as in on a pirate ship, whereas in the second sentence someone just asked him to walk around on a big ol' plank. Maybe they wanted him to test if it would break? In any case, your choice of particle determines whether he's sleeping with the fishes or not! 🦈"
+    },
+    {
+      "type": "paragraph",
+      "text": "So what causes this nuance difference? Well, particle を treats the noun before it kind of like an object — in this context at least, it suggests that the plank was something that Kenichi walked in its entirety. He walked all of it, and fell off its end. We’re just using this as a neat example, but bear in mind that without the pirate context, it could just be marking the route. Sleeping with the fishes isn’t always a given! Some grammarians describe this use of particle を as marking a “path”, and that is a good way to conceptualize it. Depending on the context, we could also use \"along,\" \"across,\" or \"through\" to translate this use of particle を, since these suggest a path-like meaning as well. \"Walking the plank\" isn't something that comes up in real-life too often though, so let's check out, more relatable example:"
+    },
+    {
+      "type": "example",
+      "japanese": "公園（こうえん）を散歩（さんぽ）する。",
+      "english": "To stroll (through) the park."
+    },
+    {
+      "type": "example",
+      "japanese": "公園（こうえん）で散歩（さんぽ）する。",
+      "english": "To stroll in the park."
+    },
+    {
+      "type": "paragraph",
+      "text": "How are these sentences different? The sentence with 公園（こうえん）を suggests that the park is being treated as a route, or that the person strolling is moving with some purpose or direction. The sentence with 公園（こうえん）で on the other hand, simply tells us where the person strolls — in the park. Not on the beach, on the moon, or in the wilderness."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "vs--1",
+      "text": "を vs. から"
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle を can also be used with movement verbs that express departure — verbs like 出（で）る (leave) and 下（お）りる (disembark). Unlike the movement verbs in the previous section, which express some kind of extended movement, these verbs occur in an instant. Just like we said with を and で above, we can choose between two particles with verbs of departure as well: を and から."
+    },
+    {
+      "type": "example",
+      "japanese": "マミが家（いえ）を出（で）た。",
+      "english": "Mami left the house."
+    },
+    {
+      "type": "example",
+      "japanese": "マミが家（いえ）から出（で）た。",
+      "english": "Mami left (from) the house."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the first example, particle を highlights 家（いえ） as the place that Mami leaves, without any suggestion about where she’s going next. It might be helpful to imagine yourself inside the house, watching Mami leave. With から though, we are viewing the situation from the outside. We can see Mami exiting from the building she lives in, and ending up in a new place."
+    },
+    {
+      "type": "paragraph",
+      "text": "If that’s hard to understand, let’s add on to the sentence. Say that Mami stepped out of the house into her garden. We can add that into the から sentence, because the focus on where she leaves from and enters into. Since particle を just focuses on the place she leaves behind, adding in a phrase about where she went after feels unnatural:"
+    },
+    {
+      "type": "example",
+      "japanese": "❌ マミが家（いえ）を庭（にわ）に出（で）た。",
+      "english": "Mami left the house into the garden."
+    },
+    {
+      "type": "example",
+      "japanese": "⭕ マミが家（いえ）から庭（にわ）に出（で）た。",
+      "english": "Mami left from the house into the garden."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, から is not always about physical movement. It can refer to abstract movement as well:"
+    },
+    {
+      "type": "example",
+      "japanese": "アニメを卒業（そつぎょう）しました。",
+      "english": "I have moved on from anime."
+    },
+    {
+      "type": "example",
+      "japanese": "アニメから卒業（そつぎょう）しました。",
+      "english": "I have moved on from anime."
+    },
+    {
+      "type": "paragraph",
+      "text": "In these sentences, the departure verb is 卒業（そつぎょう）する (to graduate), which means something like \"move on from\" in these sentences. This is not a physical departure, but something abstract. In the first sentence, which uses アニメを, it suggests that you have moved on from a time in your life when you were really into anime. It just tells us that those days are over. With アニメから in the second sentence though, it suggests that you've moved on from anime and into some other phase."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Vocabulary"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "ボール (ぼーる) — ball (noun)"
+        ],
+        [
+          "打（う）った (うった) — hit (godan verb / past tense)"
+        ],
+        [
+          "梅酒（うめしゅ） (うめしゅ) — plum wine (noun)"
+        ],
+        [
+          "作（つく）った (つくった) — made (godan verb / past tense)"
+        ],
+        [
+          "お腹（なか） (おなか) — stomach (noun)"
+        ],
+        [
+          "痛（いた）い (いたい) — painful, hurts (い-adjective / non-past tense)"
+        ],
+        [
+          "食（た）べ過（す）ぎちゃった (たべすぎちゃった) — (accidentally) ate too much (compound verb / 〜ちゃう form / past tense)"
+        ],
+        [
+          "何（なに） (なに) — what (question word)"
+        ],
+        [
+          "日本語（にほんご） (にほんご) — Japanese language (noun)"
+        ],
+        [
+          "教育（きょういく） (きょういく) — education (noun)"
+        ],
+        [
+          "新（あたら）しい (あたらしい) — new (い-adjective / non-past tense)"
+        ],
+        [
+          "風（かぜ） (かぜ) — wind (noun)"
+        ],
+        [
+          "良（よ）い (よい) — good (い-adjective / non-past tense)"
+        ],
+        [
+          "年（とし） (とし) — year (noun)"
+        ],
+        [
+          "ゴキブリ (ごきぶり) — cockroach (noun)"
+        ],
+        [
+          "潰（つぶ）した (つぶした) — squished (godan verb / past tense)"
+        ],
+        [
+          "責（せ）めた (せめた) — blamed (ichidan verb / past tense)"
+        ],
+        [
+          "政党（せいとう） (せいとう) — political party (noun)"
+        ],
+        [
+          "厚（あつ）板（いた） (あついた) — plank (noun)"
+        ],
+        [
+          "歩（ある）かされた (あるかされた) — was made to walk (godan verb / causative passive form / past tense)"
+        ],
+        [
+          "上（うえ） (うえ) — above, up (relational noun)"
+        ],
+        [
+          "公園（こうえん） (こうえん) — park (noun)"
+        ],
+        [
+          "散歩（さんぽ）する (さんぽする) — to take a walk (suru verb)"
+        ],
+        [
+          "家（いえ） (いえ) — house (noun)"
+        ],
+        [
+          "出（で）た (でた) — exited, left (ichidan verb / past tense)"
+        ],
+        [
+          "庭（にわ） (にわ) — garden (noun)"
+        ],
+        [
+          "アニメ (あにめ) — animation, anime (noun)"
+        ],
+        [
+          "卒業（そつぎょう）する (そつぎょうする) — to graduate (suru verb)"
+        ],
+        [
+          "吹（ふ）かせる (ふかせる) — to make blow (godan verb / causative form / non-past tense)"
+        ],
+        [
+          "迎（むか）え (むかえ) — a welcome, a greeting (noun)"
+        ],
+        [
+          "下（お）りる (おりる) — to descend, to disembark (ichidan verb / non-past tense)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Particle を marks the grammatical object of a sentence, which is the thing that is acted upon or affected by the verb. In other words it's what gets \"verbed\" in a sentence. Particle を has a lot of similarities with objects in English, but it also has some unique characteristics that make it a little different and challenging for learners.",
+    "First, let's talk structure — what kind of words or grammar structures can particle を attach to?",
+    "Particle を can appear after nouns to make them the object of the sentence.",
+    "In these sentences, particle を comes after the nouns that are affected by verbs. In the first one, ボール (ball) is the thing that is Kanae hits. In the second sentence, 梅酒（うめしゅ） (plum wine) is the thing that Machiko makes. These are the direct objects of the sentence!",
+    "Another place you'll find を is at the very end of a sentence. In this kind of sentence, the verb is purposefully missing, and the listener or reader is expected to complete the sentence in their head using world knowledge or context clues. There are three main reasons why this happens — you might be clarifying what the object of a verb is, you might be trying to make something sound catchy or attention-grabbing, or it could be part of a set-phrase greeting. Let's look at an example of each:",
+    "かなえ お腹（なか）が痛（いた）いわ〜 食（た）べ過（す）ぎちゃった。 </br> Kanae My stomach hurts… I ate too much.",
+    "マミ 何（なに）を？ </br> Mami Of what?",
+    "かなえ クラブケーキを！ </br> Kanae Crab cakes!",
+    "In this informal dialogue, Mami asks Kanae to clarify what she ate too much of. To do this, she leaves out the verb 食（た）べ過（す）ぎた（た す ） (ate too much), because it's already understood from context. Kanae answers her question in a similar fashion. This is completely normal and appropriate for informal conversation.",
+    "This example uses the を-final structure to create a catchy feeling. 新（あたら）しい風（かぜ）を吹（ふ）かせる（あたら かぜ ふ ） (literally: \"to cause a new wind to blow\") is a familiar colloquialism for Japanese speakers, which means something like \"to breathe new life into something\" in English. Because the saying is familiar, readers are able to complete the sentence in their heads. Leaving the verb off makes this sound catchy, so this structure gets used in titles and marketing slogans. The example above could be the title of a book on new approaches to language teaching.",
+    "The example above is a common saying used to greet people during the New Year season. It's used at the end of December, as the New Year approaches. You can also add the verb back in, in which case the full saying is 「良（よ）いお年（とし）をお迎（むか）えください」, or \"May you be met with a great new year!\"",
+    "When particle を is used with a transitive verb , it marks the object of that verb. This use of を is very similar to English, so we doubt you'll have any problems with it. を marks objects that are somehow affected by the action of the subject.",
+    "In this sentence, the object ゴキブリ (cockroach) is what was squished. It goes a total change of state, from living to well, smooshed. Clearly it is being affected by the action in the sentence! Also — ew 🤢",
+    "An object does not have to be physically affected by the verb though, it can be more of a psychological affect as well. Again, this isn't really any different from English, so don't sweat it:",
+    "In this sentence, Cameron is who was blamed. Perhaps Jenny is the type who refuses to squish any living creature, so when she saw that poor squashed cockroach she needed to find the culprit. While Cameron isn't physically affected, he is psychologically affected — he's now a prime suspect in an insect murder case!",
+    "Finally, objects can be the result of some process. This too is like English, so it won't give you any trouble:",
+    "In this sentence, a 政党（せいとう） (political party) is what was created. The object is still being affected by the action — it comes into existence due to the completion of a process. Now those cockroaches can protest against their human oppressors!",
+    "In general, we can say that particle を marks objects of verbs. This doesn't always mean though that the object of a Japanese sentence is always the object of the equivalent English translation, though. Let's take a look at the different ways that particle を gets used.",
+    "Sometimes, you'll see particle を used with movement verbs, such as 歩（ある）く (walk), 泳（およ）ぐ (swim), 帰（かえ）る (return). If you've learned about intransitive verbs before, this might come as a surprise to you — don't only transitive verbs take を? Shouldn't we use something different, like particle で or particle から , with a verb of movement? Let's take a look at this puzzling particle use!",
+    "The only thing that differs between these sentences is the particle, を or で, and the difference is pretty big, right? In the first sentence, Kenichi walks the plank, as in on a pirate ship, whereas in the second sentence someone just asked him to walk around on a big ol' plank. Maybe they wanted him to test if it would break? In any case, your choice of particle determines whether he's sleeping with the fishes or not! 🦈",
+    "So what causes this nuance difference? Well, particle を treats the noun before it kind of like an object — in this context at least, it suggests that the plank was something that Kenichi walked in its entirety. He walked all of it, and fell off its end. We’re just using this as a neat example, but bear in mind that without the pirate context, it could just be marking the route. Sleeping with the fishes isn’t always a given! Some grammarians describe this use of particle を as marking a “path”, and that is a good way to conceptualize it. Depending on the context, we could also use \"along,\" \"across,\" or \"through\" to translate this use of particle を, since these suggest a path-like meaning as well. \"Walking the plank\" isn't something that comes up in real-life too often though, so let's check out, more relatable example:",
+    "How are these sentences different? The sentence with 公園（こうえん）を suggests that the park is being treated as a route, or that the person strolling is moving with some purpose or direction. The sentence with 公園（こうえん）で on the other hand, simply tells us where the person strolls — in the park. Not on the beach, on the moon, or in the wilderness.",
+    "Particle を can also be used with movement verbs that express departure — verbs like 出（で）る (leave) and 下（お）りる (disembark). Unlike the movement verbs in the previous section, which express some kind of extended movement, these verbs occur in an instant. Just like we said with を and で above, we can choose between two particles with verbs of departure as well: を and から.",
+    "In the first example, particle を highlights 家（いえ） as the place that Mami leaves, without any suggestion about where she’s going next. It might be helpful to imagine yourself inside the house, watching Mami leave. With から though, we are viewing the situation from the outside. We can see Mami exiting from the building she lives in, and ending up in a new place.",
+    "If that’s hard to understand, let’s add on to the sentence. Say that Mami stepped out of the house into her garden. We can add that into the から sentence, because the focus on where she leaves from and enters into. Since particle を just focuses on the place she leaves behind, adding in a phrase about where she went after feels unnatural:",
+    "However, から is not always about physical movement. It can refer to abstract movement as well:",
+    "In these sentences, the departure verb is 卒業（そつぎょう）する (to graduate), which means something like \"move on from\" in these sentences. This is not a physical departure, but something abstract. In the first sentence, which uses アニメを, it suggests that you have moved on from a time in your life when you were really into anime. It just tells us that those days are over. With アニメから in the second sentence though, it suggests that you've moved on from anime and into some other phase."
+  ],
+  "examples": [
+    {
+      "japanese": "かなえはボールを打（う）った。",
+      "english": "Kanae hit the ball."
+    },
+    {
+      "japanese": "まちこは梅酒（うめしゅ）を作（つく）った。",
+      "english": "Machiko made plum wine."
+    },
+    {
+      "japanese": "日本語（にほんご）教育（きょういく）に新（あたら）しい風（かぜ）を！",
+      "english": "A new wind into Japanese language education!"
+    },
+    {
+      "japanese": "良（よ）いお年（とし）を！",
+      "english": "Have a great year!"
+    },
+    {
+      "japanese": "キャメロンがゴキブリをつぶした。",
+      "english": "Cameron squished a cockroach."
+    },
+    {
+      "japanese": "ジェニーがキャメロンを責（せ）めた。",
+      "english": "Jenny blamed Cameron."
+    },
+    {
+      "japanese": "ゴキブリ等（とう）が政党（せいとう）を作（つく）りました。",
+      "english": "The cockroaches created a political party."
+    },
+    {
+      "japanese": "ケンイチが厚（あつ）板（いた）の上（うえ）を歩（ある）かされた！",
+      "english": "Kenichi was made to walk the plank!"
+    },
+    {
+      "japanese": "ケンイチが厚（あつ）板（いた）の上（うえ）で歩（ある）かされた！",
+      "english": "Kenichi was made to walk around on a plank!"
+    },
+    {
+      "japanese": "公園（こうえん）を散歩（さんぽ）する。",
+      "english": "To stroll (through) the park."
+    },
+    {
+      "japanese": "公園（こうえん）で散歩（さんぽ）する。",
+      "english": "To stroll in the park."
+    },
+    {
+      "japanese": "マミが家（いえ）を出（で）た。",
+      "english": "Mami left the house."
+    },
+    {
+      "japanese": "マミが家（いえ）から出（で）た。",
+      "english": "Mami left (from) the house."
+    },
+    {
+      "japanese": "❌ マミが家（いえ）を庭（にわ）に出（で）た。",
+      "english": "Mami left the house into the garden."
+    },
+    {
+      "japanese": "⭕ マミが家（いえ）から庭（にわ）に出（で）た。",
+      "english": "Mami left from the house into the garden."
+    },
+    {
+      "japanese": "アニメを卒業（そつぎょう）しました。",
+      "english": "I have moved on from anime."
+    },
+    {
+      "japanese": "アニメから卒業（そつぎょう）しました。",
+      "english": "I have moved on from anime."
+    },
+    {
+      "japanese": "かなえお腹（なか）が痛（いた）いわ〜 食（た）べ過（す）ぎちゃった。 </br> KanaeMy stomach hurts… I ate too much.",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "マミ何（なに）を？ </br> MamiOf what?",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "かなえクラブケーキを！ </br> KanaeCrab cakes!",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "ボール (ぼーる) — ball (noun)"
+      ],
+      [
+        "打（う）った (うった) — hit (godan verb / past tense)"
+      ],
+      [
+        "梅酒（うめしゅ） (うめしゅ) — plum wine (noun)"
+      ],
+      [
+        "作（つく）った (つくった) — made (godan verb / past tense)"
+      ],
+      [
+        "お腹（なか） (おなか) — stomach (noun)"
+      ],
+      [
+        "痛（いた）い (いたい) — painful, hurts (い-adjective / non-past tense)"
+      ],
+      [
+        "食（た）べ過（す）ぎちゃった (たべすぎちゃった) — (accidentally) ate too much (compound verb / 〜ちゃう form / past tense)"
+      ],
+      [
+        "何（なに） (なに) — what (question word)"
+      ],
+      [
+        "日本語（にほんご） (にほんご) — Japanese language (noun)"
+      ],
+      [
+        "教育（きょういく） (きょういく) — education (noun)"
+      ],
+      [
+        "新（あたら）しい (あたらしい) — new (い-adjective / non-past tense)"
+      ],
+      [
+        "風（かぜ） (かぜ) — wind (noun)"
+      ],
+      [
+        "良（よ）い (よい) — good (い-adjective / non-past tense)"
+      ],
+      [
+        "年（とし） (とし) — year (noun)"
+      ],
+      [
+        "ゴキブリ (ごきぶり) — cockroach (noun)"
+      ],
+      [
+        "潰（つぶ）した (つぶした) — squished (godan verb / past tense)"
+      ],
+      [
+        "責（せ）めた (せめた) — blamed (ichidan verb / past tense)"
+      ],
+      [
+        "政党（せいとう） (せいとう) — political party (noun)"
+      ],
+      [
+        "厚（あつ）板（いた） (あついた) — plank (noun)"
+      ],
+      [
+        "歩（ある）かされた (あるかされた) — was made to walk (godan verb / causative passive form / past tense)"
+      ],
+      [
+        "上（うえ） (うえ) — above, up (relational noun)"
+      ],
+      [
+        "公園（こうえん） (こうえん) — park (noun)"
+      ],
+      [
+        "散歩（さんぽ）する (さんぽする) — to take a walk (suru verb)"
+      ],
+      [
+        "家（いえ） (いえ) — house (noun)"
+      ],
+      [
+        "出（で）た (でた) — exited, left (ichidan verb / past tense)"
+      ],
+      [
+        "庭（にわ） (にわ) — garden (noun)"
+      ],
+      [
+        "アニメ (あにめ) — animation, anime (noun)"
+      ],
+      [
+        "卒業（そつぎょう）する (そつぎょうする) — to graduate (suru verb)"
+      ],
+      [
+        "吹（ふ）かせる (ふかせる) — to make blow (godan verb / causative form / non-past tense)"
+      ],
+      [
+        "迎（むか）え (むかえ) — a welcome, a greeting (noun)"
+      ],
+      [
+        "下（お）りる (おりる) — to descend, to disembark (ichidan verb / non-past tense)"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + を"
+    },
+    {
+      "level": 4,
+      "id": "at-the-end-of-a-sentence",
+      "text": "を at the End of a Sentence"
+    },
+    {
+      "level": 3,
+      "id": "for-direct-objects",
+      "text": "を for Direct Objects"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "with-movement-verbs",
+      "text": "を with Movement Verbs"
+    },
+    {
+      "level": 4,
+      "id": "vs-",
+      "text": "を vs. で"
+    },
+    {
+      "level": 4,
+      "id": "vs--1",
+      "text": "を vs. から"
+    }
+  ],
+  "id": 34,
+  "slug": "particle-wo",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-wo/",
+  "categories": [
+    "Particle"
+  ]
+}

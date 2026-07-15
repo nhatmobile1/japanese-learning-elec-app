@@ -1,0 +1,434 @@
+{
+  "title": "〜よう (Volitional)",
+  "description": "〜よう is a verb suffix that expresses volition, proposition, or invitation, akin to \"let's\" or \"shall we?\" in English.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜よう is a verb suffix that adds a meaning of volition or invitation to a verb. Depending on the context, it might add a meaning of \"I will do X,\" \"let's do X\", or \"shall we do X?\" to the sentence. For example, you can say 飲（の）もう！ (Let's drink!) after a long day of work and you're ready for beer o'clock. You can also use it in a question to invite someone along, like 飲（の）みに行（い）こうか？ (Shall we go for a drink?)🍻 You might hear this called the volitional form in some learning materials. Just in case you're not familiar with this word, \"volition\" means to have will or purpose."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜よう"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's start off by looking at how 〜よう is added to a verb. Depending on the verb's conjugation group , 〜よう might actually take a slightly different form. See if you can identify which group deviates from just adding 〜よう to the verb:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Godan",
+          "会（あ）う → 会（あ）おう 立（た）つ → 立（た）とう 写（うつ）す → 写（うつ）そう 割（われ）る → 割（わ）ろう 書（か）く → 書（か）こう 泳（およ）ぐ → 泳（およ）ごう 死（し）ぬ → 死（し）のう 学（まな）ぶ → 学（まな）ぼう 休（やす）む → 休（やす）もう"
+        ],
+        [
+          "Ichidan",
+          "食（た）べる → 食（た）べよう 起（お）きる → 起（お）きよう 閉（と）じる → 閉（と）じよう"
+        ],
+        [
+          "Irregular",
+          "来（く）る（く ） → 来（こ）よう（こ ） する → しよう"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's those darn godan verbs that always make things more complicated! Rather than simply adding 〜よう, we have to find the character that comes at the end of the verb in plain form, and transform it to the corresponding お-column character on the kana chart. Then you can add 〜う. So if the plain form ending of your verb is く, the new ending will be 〜こう. Let's make 歩（ある）く (to walk) volitional, and change it to \"let's walk\" as an example:"
+    },
+    {
+      "type": "formula",
+      "japanese": "歩（ある）く + こ + う = 歩（ある）こう",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "If your verb ends in つ, your new volitional ending will be 〜とう. As in 待（ま）つ (to wait):"
+    },
+    {
+      "type": "formula",
+      "japanese": "待（ま）つ + と + う = 待（ま）とう",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "The same pattern follows for all godan verbs!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "For ichidan verbs , just replace the 〜る ending with 〜よう! For example, 食（た）べ る (to eat) becomes 食（た）べ よう in its volitional form (this is important to know for those of you who love eating)."
+    },
+    {
+      "type": "formula",
+      "japanese": "食（た）べる + よう = 食（た）べよう",
+      "english": ""
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "irregular-verbs",
+      "text": "Irregular Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "As for irregular verbs , the volitional form of 来（き） る （ く ） (to come) is 来（き） よう （ こ ） , and する (to do) is しよう ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "fundamental-uses-of-",
+      "text": "Fundamental Uses of 〜よう"
+    },
+    {
+      "type": "paragraph",
+      "text": "While all uses of 〜よう have some meaning related to volition, we can divide up the fundamental meanings into expressing your will to do something and making a proposition or invitation. Before we jump in, we should note that 〜よう is the plain volitional form, so its uses will be more casual. If you want to be polite, you'll need to opt for the 〜ましょう polite volitional form."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "proposing-and-inviting",
+      "text": "Proposing and Inviting"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's start with how 〜よう is used for proposing or inviting someone to do something, since this is typically the first use you'll learn! When 〜よう is translated into English, you'll often see it rendered as \"let's\" for statements and \"shall we…?\" for questions."
+    },
+    {
+      "type": "example",
+      "japanese": "動物（どうぶつ）園（えん）に行（い）こう！",
+      "english": "Let's go to the zoo!"
+    },
+    {
+      "type": "example",
+      "japanese": "そろそろ動物（どうぶつ）園（えん）に行（い）こう？",
+      "english": "Shall we get going to the zoo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see in the second example sentence, questions in Japanese do not necessarily require the question particle か . In fact, leaving it off in the plain form is typically seen as more friendly. However, it's perfectly fine to add it too:"
+    },
+    {
+      "type": "example",
+      "japanese": "そろそろ動物（どうぶつ）園（えん）に行（い）こうか。",
+      "english": "Shall we get going to the zoo?"
+    },
+    {
+      "type": "paragraph",
+      "text": "For some speakers, this might come across as slightly gruff or masculine. However, using the polite form 〜ましょう and adding か sounds perfectly neutral and can be used by anyone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Apart from conversation, 〜よう is also used in slogans for the purpose of encouraging the public to do something or to suggest rules of conduct, such as 地球（ちきゅう）を守（まも）ろう！ (Save the Earth!) When it comes to slogans, to emphasize the verb, it's sometimes placed at the beginning of the sentence, as in 守（まも）ろう、地球（ちきゅう）を！"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "expressing-your-will",
+      "text": "Expressing Your Will"
+    },
+    {
+      "type": "paragraph",
+      "text": "This use of 〜よう is useful when you want to clarify that you will carry out an action being discussed. Let's say you're camping and it's time to make dinner. The plan is to make curry, but no one is volunteering. If you want to jump in and say \" I will make the curry, then the volitional form is a useful tool. Check it out:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）がカレーを作（つく）ろう。",
+      "english": "I'll make the curry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice that the subject, 私（わたし）, is marked by particle が . This is common for this use, since the purpose is to clarify who will make the curry. Depending on your relationship with the other campers, this could sound a bit forceful, so it's pretty common to either turn this into a self-directed question with particle か, or to add 〜と思（おも）う (I think that…) to soften the statement."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）がカレーを作（つく）ろうか。",
+      "english": "Shall I make the curry?"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）がカレーを作（つく）ろうと思（おも）う。",
+      "english": "I think I'll make the curry."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this section we'll expand beyond the fundamental uses and show you more advanced ways of putting 〜よう to use."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-the-negative",
+      "text": "〜よう in the Negative"
+    },
+    {
+      "type": "paragraph",
+      "text": "What if you want to say let's not do something using the よう form? We've got a couple of options."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first way is to make your verb negative with the 〜ない ending, and then combine it with the verb おく (to place) in the volitional form, which is おこう. To combine these, you'll use the て form for negative verbs, which entails adding で after 〜ない. This results in 〜ないでおこう, and effectively means \"to leave something undone.\" It is commonly used when there is a certain reason you should avoid the situation."
+    },
+    {
+      "type": "example",
+      "japanese": "やっぱり動物（どうぶつ）園（えん）には行（い）かないでおこう。",
+      "english": "Let's actually not go to the zoo."
+    },
+    {
+      "type": "paragraph",
+      "text": "You might utter this sentence if some reason has come up why going to the zoo is no longer a good option. Maybe your favorite elephant is sick and you won't be able to see her today, or maybe it's bad weather outside. Whatever the reason, this allows you to cancel your plans using 〜よう."
+    },
+    {
+      "type": "paragraph",
+      "text": "The second way is to use the verb やめる (to quit) or よす (to stop) in the volitional form. While やめる is common in conversation, よす is more common in writing. In this case, you make the whole action into a subject of the sentence by using こと or の . It is more direct than 〜ないでおく."
+    },
+    {
+      "type": "example",
+      "japanese": "やっぱり動物（どうぶつ）園（えん）に行（い）くのはやめよう。やっぱり動物（どうぶつ）園（えん）に行（い）くのはよそう。",
+      "english": "Let's actually not go to the zoo."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also combine やめる or よす and ておく in the volitional form and say やめておこう or よしておこう, which literally means \"let's stop it and leave it as is.\" It carries the nuance of \"let's pass on it this time (but maybe some other time).\" Again, this is commonly used when there is a certain reason you should avoid a situation."
+    },
+    {
+      "type": "example",
+      "japanese": "やっぱり動物（どうぶつ）園（えん）に行（い）くのはやめておこう。やっぱり動物（どうぶつ）園（えん）に行（い）くのはよしておこう。",
+      "english": "Let's actually not go to the zoo."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "guesses-and-assumptions",
+      "text": "Guesses and Assumptions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly, there is one exceptional usage to mention. When the volitional form is combined with the verb ある (there is/are) and becomes あろう, it indicates a guess or assumption on the part of the speaker."
+    },
+    {
+      "type": "example",
+      "japanese": "彼女（かのじょ）の方（ほう）にも色々（いろいろ）と文句（もんく）があろう。",
+      "english": "I suppose she has many complaints on her side too."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, this usage sounds literary and not as common as あるだろう, except for some idiomatic use like こんなこともあろう."
+    },
+    {
+      "type": "example",
+      "japanese": "こんなこともあろう(か)と思（おも）って、これを持（も）ってきたんだよ。",
+      "english": "I guessed this might be the case, so I've brought this."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜よう is a verb suffix that adds a meaning of volition or invitation to a verb. Depending on the context, it might add a meaning of \"I will do X,\" \"let's do X\", or \"shall we do X?\" to the sentence. For example, you can say 飲（の）もう！ (Let's drink!) after a long day of work and you're ready for beer o'clock. You can also use it in a question to invite someone along, like 飲（の）みに行（い）こうか？ (Shall we go for a drink?)🍻 You might hear this called the volitional form in some learning materials. Just in case you're not familiar with this word, \"volition\" means to have will or purpose.",
+    "Let's start off by looking at how 〜よう is added to a verb. Depending on the verb's conjugation group , 〜よう might actually take a slightly different form. See if you can identify which group deviates from just adding 〜よう to the verb:",
+    "It's those darn godan verbs that always make things more complicated! Rather than simply adding 〜よう, we have to find the character that comes at the end of the verb in plain form, and transform it to the corresponding お-column character on the kana chart. Then you can add 〜う. So if the plain form ending of your verb is く, the new ending will be 〜こう. Let's make 歩（ある）く (to walk) volitional, and change it to \"let's walk\" as an example:",
+    "If your verb ends in つ, your new volitional ending will be 〜とう. As in 待（ま）つ (to wait):",
+    "The same pattern follows for all godan verbs!",
+    "For ichidan verbs , just replace the 〜る ending with 〜よう! For example, 食（た）べ る (to eat) becomes 食（た）べ よう in its volitional form (this is important to know for those of you who love eating).",
+    "As for irregular verbs , the volitional form of 来（き） る （ く ） (to come) is 来（き） よう （ こ ） , and する (to do) is しよう .",
+    "While all uses of 〜よう have some meaning related to volition, we can divide up the fundamental meanings into expressing your will to do something and making a proposition or invitation. Before we jump in, we should note that 〜よう is the plain volitional form, so its uses will be more casual. If you want to be polite, you'll need to opt for the 〜ましょう polite volitional form.",
+    "Let's start with how 〜よう is used for proposing or inviting someone to do something, since this is typically the first use you'll learn! When 〜よう is translated into English, you'll often see it rendered as \"let's\" for statements and \"shall we…?\" for questions.",
+    "As you can see in the second example sentence, questions in Japanese do not necessarily require the question particle か . In fact, leaving it off in the plain form is typically seen as more friendly. However, it's perfectly fine to add it too:",
+    "For some speakers, this might come across as slightly gruff or masculine. However, using the polite form 〜ましょう and adding か sounds perfectly neutral and can be used by anyone.",
+    "Apart from conversation, 〜よう is also used in slogans for the purpose of encouraging the public to do something or to suggest rules of conduct, such as 地球（ちきゅう）を守（まも）ろう！ (Save the Earth!) When it comes to slogans, to emphasize the verb, it's sometimes placed at the beginning of the sentence, as in 守（まも）ろう、地球（ちきゅう）を！",
+    "This use of 〜よう is useful when you want to clarify that you will carry out an action being discussed. Let's say you're camping and it's time to make dinner. The plan is to make curry, but no one is volunteering. If you want to jump in and say \" I will make the curry, then the volitional form is a useful tool. Check it out:",
+    "Notice that the subject, 私（わたし）, is marked by particle が . This is common for this use, since the purpose is to clarify who will make the curry. Depending on your relationship with the other campers, this could sound a bit forceful, so it's pretty common to either turn this into a self-directed question with particle か, or to add 〜と思（おも）う (I think that…) to soften the statement.",
+    "In this section we'll expand beyond the fundamental uses and show you more advanced ways of putting 〜よう to use.",
+    "What if you want to say let's not do something using the よう form? We've got a couple of options.",
+    "The first way is to make your verb negative with the 〜ない ending, and then combine it with the verb おく (to place) in the volitional form, which is おこう. To combine these, you'll use the て form for negative verbs, which entails adding で after 〜ない. This results in 〜ないでおこう, and effectively means \"to leave something undone.\" It is commonly used when there is a certain reason you should avoid the situation.",
+    "You might utter this sentence if some reason has come up why going to the zoo is no longer a good option. Maybe your favorite elephant is sick and you won't be able to see her today, or maybe it's bad weather outside. Whatever the reason, this allows you to cancel your plans using 〜よう.",
+    "The second way is to use the verb やめる (to quit) or よす (to stop) in the volitional form. While やめる is common in conversation, よす is more common in writing. In this case, you make the whole action into a subject of the sentence by using こと or の . It is more direct than 〜ないでおく.",
+    "You can also combine やめる or よす and ておく in the volitional form and say やめておこう or よしておこう, which literally means \"let's stop it and leave it as is.\" It carries the nuance of \"let's pass on it this time (but maybe some other time).\" Again, this is commonly used when there is a certain reason you should avoid a situation.",
+    "Lastly, there is one exceptional usage to mention. When the volitional form is combined with the verb ある (there is/are) and becomes あろう, it indicates a guess or assumption on the part of the speaker.",
+    "However, this usage sounds literary and not as common as あるだろう, except for some idiomatic use like こんなこともあろう."
+  ],
+  "examples": [
+    {
+      "japanese": "動物（どうぶつ）園（えん）に行（い）こう！",
+      "english": "Let's go to the zoo!"
+    },
+    {
+      "japanese": "そろそろ動物（どうぶつ）園（えん）に行（い）こう？",
+      "english": "Shall we get going to the zoo?"
+    },
+    {
+      "japanese": "そろそろ動物（どうぶつ）園（えん）に行（い）こうか。",
+      "english": "Shall we get going to the zoo?"
+    },
+    {
+      "japanese": "私（わたし）がカレーを作（つく）ろう。",
+      "english": "I'll make the curry."
+    },
+    {
+      "japanese": "私（わたし）がカレーを作（つく）ろうか。",
+      "english": "Shall I make the curry?"
+    },
+    {
+      "japanese": "私（わたし）がカレーを作（つく）ろうと思（おも）う。",
+      "english": "I think I'll make the curry."
+    },
+    {
+      "japanese": "やっぱり動物（どうぶつ）園（えん）には行（い）かないでおこう。",
+      "english": "Let's actually not go to the zoo."
+    },
+    {
+      "japanese": "やっぱり動物（どうぶつ）園（えん）に行（い）くのはやめよう。やっぱり動物（どうぶつ）園（えん）に行（い）くのはよそう。",
+      "english": "Let's actually not go to the zoo."
+    },
+    {
+      "japanese": "やっぱり動物（どうぶつ）園（えん）に行（い）くのはやめておこう。やっぱり動物（どうぶつ）園（えん）に行（い）くのはよしておこう。",
+      "english": "Let's actually not go to the zoo."
+    },
+    {
+      "japanese": "彼女（かのじょ）の方（ほう）にも色々（いろいろ）と文句（もんく）があろう。",
+      "english": "I suppose she has many complaints on her side too."
+    },
+    {
+      "japanese": "こんなこともあろう(か)と思（おも）って、これを持（も）ってきたんだよ。",
+      "english": "I guessed this might be the case, so I've brought this."
+    },
+    {
+      "japanese": "歩（ある）く + こ + う = 歩（ある）こう",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "待（ま）つ + と + う = 待（ま）とう",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "食（た）べる + よう = 食（た）べよう",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Godan",
+        "会（あ）う → 会（あ）おう 立（た）つ → 立（た）とう 写（うつ）す → 写（うつ）そう 割（われ）る → 割（わ）ろう 書（か）く → 書（か）こう 泳（およ）ぐ → 泳（およ）ごう 死（し）ぬ → 死（し）のう 学（まな）ぶ → 学（まな）ぼう 休（やす）む → 休（やす）もう"
+      ],
+      [
+        "Ichidan",
+        "食（た）べる → 食（た）べよう 起（お）きる → 起（お）きよう 閉（と）じる → 閉（と）じよう"
+      ],
+      [
+        "Irregular",
+        "来（く）る（く ） → 来（こ）よう（こ ） する → しよう"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜よう"
+    },
+    {
+      "level": 4,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "level": 4,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "level": 4,
+      "id": "irregular-verbs",
+      "text": "Irregular Verbs"
+    },
+    {
+      "level": 3,
+      "id": "fundamental-uses-of-",
+      "text": "Fundamental Uses of 〜よう"
+    },
+    {
+      "level": 4,
+      "id": "proposing-and-inviting",
+      "text": "Proposing and Inviting"
+    },
+    {
+      "level": 4,
+      "id": "expressing-your-will",
+      "text": "Expressing Your Will"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "in-the-negative",
+      "text": "〜よう in the Negative"
+    },
+    {
+      "level": 3,
+      "id": "guesses-and-assumptions",
+      "text": "Guesses and Assumptions"
+    }
+  ],
+  "id": 77,
+  "slug": "verb-volitional-form-you",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-volitional-form-you/",
+  "categories": [
+    "Verb Form"
+  ]
+}

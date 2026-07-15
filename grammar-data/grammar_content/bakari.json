@@ -1,0 +1,162 @@
+{
+  "title": "〜ばかり",
+  "description": "〜ばかり has three main jobs: with the た form it means \"just did (something a moment ago)\"; after a noun it means \"only / nothing but\"; and with the て form (〜てばかりいる) it means \"keeps doing nothing but.\" Context and what it attaches to tell you which meaning is in play.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The core idea of ばかり is \"nothing but / just this and nothing else.\" That single sense stretches across time (something only just happened), quantity (only this, exclusively), and repetition (only ever doing one thing). The three sections below cover each usage with its own pattern."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "just-did",
+      "text": "1. Just Did 〜たばかり"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attach ばかり to the plain past (た) form to say an action finished only a moment ago, from the speaker's feeling. It's about emotional recency, so it can be used even when a fair amount of clock time has passed."
+    },
+    {
+      "type": "formula",
+      "japanese": "た form ＋ ばかり",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にほん）に来（き）たばかりです。",
+      "english": "I just came to Japan."
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べたばかりなのに、もう眠（ねむ）い。",
+      "english": "I just ate and I'm already sleepy."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "only",
+      "text": "2. Only / Nothing But (Noun ＋ ばかり)"
+    },
+    {
+      "type": "paragraph",
+      "text": "After a noun, ばかり means \"only\" or \"nothing but,\" often with a hint of \"too much of it.\" It can replace or follow particles like を and が."
+    },
+    {
+      "type": "formula",
+      "japanese": "Noun ＋ ばかり",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）はテレビばかり見（み）ている。",
+      "english": "He does nothing but watch TV."
+    },
+    {
+      "type": "example",
+      "japanese": "甘（あま）い物（もの）ばかり食（た）べていると、太（ふと）るよ。",
+      "english": "If you eat nothing but sweets, you'll gain weight."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "keeps-doing",
+      "text": "3. Keeps Doing 〜てばかりいる"
+    },
+    {
+      "type": "paragraph",
+      "text": "With the て form plus いる, ばかり means someone does one thing over and over to the exclusion of everything else — usually with mild criticism."
+    },
+    {
+      "type": "formula",
+      "japanese": "て form ＋ ばかりいる",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "弟（おとうと）は泣（な）いてばかりいる。",
+      "english": "My little brother does nothing but cry."
+    },
+    {
+      "type": "example",
+      "japanese": "ゲームをしてばかりいないで、勉強（べんきょう）しなさい。",
+      "english": "Stop just playing games and study."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "た form ＋ ばかり",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "日本（にほん）に来（き）たばかりです。",
+      "english": "I just came to Japan."
+    },
+    {
+      "japanese": "食（た）べたばかりなのに、もう眠（ねむ）い。",
+      "english": "I just ate and I'm already sleepy."
+    },
+    {
+      "japanese": "Noun ＋ ばかり",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "彼（かれ）はテレビばかり見（み）ている。",
+      "english": "He does nothing but watch TV."
+    },
+    {
+      "japanese": "甘（あま）い物（もの）ばかり食（た）べていると、太（ふと）るよ。",
+      "english": "If you eat nothing but sweets, you'll gain weight."
+    },
+    {
+      "japanese": "て form ＋ ばかりいる",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "弟（おとうと）は泣（な）いてばかりいる。",
+      "english": "My little brother does nothing but cry."
+    },
+    {
+      "japanese": "ゲームをしてばかりいないで、勉強（べんきょう）しなさい。",
+      "english": "Stop just playing games and study."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "just-did",
+      "text": "1. Just Did 〜たばかり"
+    },
+    {
+      "level": 2,
+      "id": "only",
+      "text": "2. Only / Nothing But (Noun ＋ ばかり)"
+    },
+    {
+      "level": 2,
+      "id": "keeps-doing",
+      "text": "3. Keeps Doing 〜てばかりいる"
+    }
+  ],
+  "id": 1017,
+  "slug": "bakari",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

@@ -1,0 +1,402 @@
+{
+  "title": "もう (A Little More...)",
+  "description": "もう suggests \"a little more\" than the current quantity or condition.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Combined with a word that indicates a small amount or extent, もう can indicate that it's \"a little more\" than the existing quantity or a slight change (again, \"a little more\") in the present situation or condition of something."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, say you’re at the grocery store and you put a box of cereal in your cart. You can say,"
+    },
+    {
+      "type": "example",
+      "japanese": "一（ひと）つ買（か）おう。",
+      "english": "l should buy one."
+    },
+    {
+      "type": "paragraph",
+      "text": "But you think you might need more, so you add it to your cart, saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "もう一（ひと）つ買（か）おう。",
+      "english": "l should buy one more."
+    },
+    {
+      "type": "paragraph",
+      "text": "So that change you’re expressing in the second example by combining もう and 一（ひと）つ (one thing) is just \"a little more\" than the previous quantity of cereal boxes in your cart, which was one, or 一（ひと）つ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course, it doesn't have to refer to the number of physical items. For instance, if a cashier at the store said something but you didn't catch it and want them to repeat what they said you could combine もう and 一（いち）回（かい） (once) and ask:"
+    },
+    {
+      "type": "example",
+      "japanese": "もう一（いち）回（かい）言（い）ってもらえませんか？",
+      "english": "Could you say that one more time?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In both examples, もう indicates the fact that you're talking about an addition to the existing amount of something — another box of cereal, or another chance to hear what the cashier said. Without the もう, it would sound like you're just saying you’re just buying one box of cereal, or requesting someone to say something once ."
+    },
+    {
+      "type": "paragraph",
+      "text": "もう can also express a slight change in the present situation or current condition of something. So, if you want the casher to speak up a little so you can hear, you can combine もう and 少（すこ）し大（おお）きい (a little loud) and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "もう少（すこ）し大（おお）きい声（こえ）で言（い）ってもらえませんか？",
+      "english": "Could you say that a little louder? (Literally: Could you say that with a slightly louder voice?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Used this way, もう conveys your request for a slight increase in the cashier's volume from their current volume. Without もう, it can sound like you're requesting that they talk in a little louder volume than the normal volume of their speech in general ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s continue the scenario with another example. Say you get home, and you're about to start preparing breakfast. Your son says he's going to be late for school so he'll skip breakfast. But since it's just a bowl of cereal, you tell him:"
+    },
+    {
+      "type": "example",
+      "japanese": "すぐできるよ。",
+      "english": "It can be ready quickly."
+    },
+    {
+      "type": "paragraph",
+      "text": "すぐ means \"quickly\" or \"right away.\" So here, you're simply making a general statement that cereal is quick to prepare."
+    },
+    {
+      "type": "paragraph",
+      "text": "He still refuses and tries to leave home, but you already have the cereal in the bowl and all that's left to do is to pour some milk. At this point, because you already started making a bowl of cereal, it'll be ready \"soon.\" In this case, you can add もう to すぐ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "もうすぐできるよ。",
+      "english": "It will be ready soon."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here notice that もうすぐ means \"soon\" rather than \"quickly.\" By adding もう to すぐ, you're talking about when the breakfast will be ready, referencing the current point in time . Remember, もう expresses something relative to the existing amount or state of things. And, \"soon\" is a relative expression that's always based on a certain point in time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since もうすぐ reflects your perspective in the present, you cannot use もうすぐ when talking about the past. Say, for instance, that breakfast was thrown together quickly. To say this, you would need to use すぐ on its own, rather than もうすぐ."
+    },
+    {
+      "type": "example",
+      "japanese": "ほらね、[⭕️すぐ・❌もうすぐ]できたでしょ。",
+      "english": "See, it's made quickly, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In some cases, もう can also mean \"already\" or \"not any more.\" Though all of its uses stem from the same concept, they are quite different in terms of nuance. To keep it simple, these uses have their own page. If you want to learn more, check out もう for Already/Not Any More ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "quantity",
+      "text": "もう + Quantity"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you saw in the earlier examples, もう can be combined with word that express quantity (like a few, enough, some, much, many, etc.)."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you are at an izakaya restaurant. When ordering an additional bottle of beer, you can use もう and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ビール、もう一（いち）本（ほん）ください。",
+      "english": "Can you get me another bottle of beer?"
+    },
+    {
+      "type": "paragraph",
+      "text": "And after you finish your delicious plate of karage (crispy fried chicken pieces), you think you could eat a few more. In this case, you might think to yourself:"
+    },
+    {
+      "type": "example",
+      "japanese": "もう二（に）、三（さん）個（こ）ほしいな。",
+      "english": "I want a few more."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice the above examples described the extra bottle of beer as もう一（いち） 本（ほん） and a few more karaage as もう二（に）、三（さん） 個（こ） ?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because in Japanese, quantities are usually a combination of a number and a counter, such as 〜つ , 〜個（こ） , 〜回（かい） , or 〜本（ほん） . If you're not familiar with counters and want to learn more, or if you need a refresher, check out our counter guide !"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adverb",
+      "text": "もう + Adverb"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use もう with adverbs that indicate \"a little (change),\" such as 少（すこ）し (a little) , ちょっと (a little), or すぐ (soon). You've already seen some examples, but here are a few more."
+    },
+    {
+      "type": "example",
+      "japanese": "もうちょっとで 届（とど）く。",
+      "english": "I can almost reach it."
+    },
+    {
+      "type": "example",
+      "japanese": "もうすぐ 着（つ）くよ。",
+      "english": "I'm almost there."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the first example, もうちょっと indicates that you're getting closer to the object you're trying to reach and you only need to stretch out your hand a little further. In the second example, もうちょっと indicates that it will take only a little more time for you to get wherever you’re heading."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see in the examples above, もう〜 is sometimes translated as \"almost…\" It's also with noting that すぐ of もうすぐ is often omitted if the context is clear enough, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "もう(すぐ)着（つ）くよ。",
+      "english": "I'm almost there."
+    },
+    {
+      "type": "example",
+      "japanese": "もう(すぐ) 頂上（ちょうじょう）だよ。",
+      "english": "We’re almost at the mountain top."
+    },
+    {
+      "type": "paragraph",
+      "text": "Be careful though, because もう can't be combined with every adverb. It works best with ちょっと、少（すこ）し、すぐ、and しばらく, as in もうちょっと, もう少（すこ）し, もうすぐ, and もうしばらく."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-almost-did",
+      "text": "もう少しで〜ところだった for \"Almost Did…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "もう少（すこ）し (a little more/further) can also be used in the pattern もう少（すこ）しで〜ところだった to mean \"almost did…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you were walking down the street and almost fell down, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "もう少（すこ）しでこけるところだった。",
+      "english": "I almost fell. (Literally: I was at the point of falling down.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, こける means \"to fall down,\" ところ indicates that you’re at the point of doing something, and だった expresses the past tense. Combined, the whole sentence implies that you were about to reach the point of falling down — you were very close but it didn't end up happening."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth noting that sometimes the English \"almost did…\" and Japanese もう少（すこ）しで〜ところだった don't mean the exact same thing. This is because some verbs in Japanese and English focus on different stages of an action."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you say \"to be drowned\" in English, for example, it usually indicates the tragic outcome of submersion in and the inhalation of water. The Japanese counterpart 溺（おぼ）れる, on the other hand, denotes a struggle in the water and does not necessarily imply a sad outcome."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a result, もう少（すこ）しで溺（おぼ）れるところだった can mean that you were on the verge of struggling in the water for whatever reason, but it's possible the struggle never actually happened."
+    },
+    {
+      "type": "example",
+      "japanese": "もう少（すこ）しで溺（おぼ）れるところだった。",
+      "english": "I almost started struggling in the water."
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, however, saying \"I almost drowned\" suggests that you struggled in the water but were able to avoid the tragic outcome. To clarify this meaning in Japanese, you would need to make a compound verb by adding 死（し）ぬ (to die) to 溺（おぼ）れる, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "もう少（すこ）しで溺（おぼ）れ死（し）ぬところだった。",
+      "english": "I almost drowned. (Literally: I almost died of struggling in the water.)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Combined with a word that indicates a small amount or extent, もう can indicate that it's \"a little more\" than the existing quantity or a slight change (again, \"a little more\") in the present situation or condition of something.",
+    "For example, say you’re at the grocery store and you put a box of cereal in your cart. You can say,",
+    "But you think you might need more, so you add it to your cart, saying:",
+    "So that change you’re expressing in the second example by combining もう and 一（ひと）つ (one thing) is just \"a little more\" than the previous quantity of cereal boxes in your cart, which was one, or 一（ひと）つ.",
+    "Of course, it doesn't have to refer to the number of physical items. For instance, if a cashier at the store said something but you didn't catch it and want them to repeat what they said you could combine もう and 一（いち）回（かい） (once) and ask:",
+    "In both examples, もう indicates the fact that you're talking about an addition to the existing amount of something — another box of cereal, or another chance to hear what the cashier said. Without the もう, it would sound like you're just saying you’re just buying one box of cereal, or requesting someone to say something once .",
+    "もう can also express a slight change in the present situation or current condition of something. So, if you want the casher to speak up a little so you can hear, you can combine もう and 少（すこ）し大（おお）きい (a little loud) and say:",
+    "Used this way, もう conveys your request for a slight increase in the cashier's volume from their current volume. Without もう, it can sound like you're requesting that they talk in a little louder volume than the normal volume of their speech in general .",
+    "Let’s continue the scenario with another example. Say you get home, and you're about to start preparing breakfast. Your son says he's going to be late for school so he'll skip breakfast. But since it's just a bowl of cereal, you tell him:",
+    "すぐ means \"quickly\" or \"right away.\" So here, you're simply making a general statement that cereal is quick to prepare.",
+    "He still refuses and tries to leave home, but you already have the cereal in the bowl and all that's left to do is to pour some milk. At this point, because you already started making a bowl of cereal, it'll be ready \"soon.\" In this case, you can add もう to すぐ and say:",
+    "Here notice that もうすぐ means \"soon\" rather than \"quickly.\" By adding もう to すぐ, you're talking about when the breakfast will be ready, referencing the current point in time . Remember, もう expresses something relative to the existing amount or state of things. And, \"soon\" is a relative expression that's always based on a certain point in time.",
+    "Since もうすぐ reflects your perspective in the present, you cannot use もうすぐ when talking about the past. Say, for instance, that breakfast was thrown together quickly. To say this, you would need to use すぐ on its own, rather than もうすぐ.",
+    "In some cases, もう can also mean \"already\" or \"not any more.\" Though all of its uses stem from the same concept, they are quite different in terms of nuance. To keep it simple, these uses have their own page. If you want to learn more, check out もう for Already/Not Any More .",
+    "As you saw in the earlier examples, もう can be combined with word that express quantity (like a few, enough, some, much, many, etc.).",
+    "For example, imagine you are at an izakaya restaurant. When ordering an additional bottle of beer, you can use もう and say:",
+    "And after you finish your delicious plate of karage (crispy fried chicken pieces), you think you could eat a few more. In this case, you might think to yourself:",
+    "Notice the above examples described the extra bottle of beer as もう一（いち） 本（ほん） and a few more karaage as もう二（に）、三（さん） 個（こ） ?",
+    "This is because in Japanese, quantities are usually a combination of a number and a counter, such as 〜つ , 〜個（こ） , 〜回（かい） , or 〜本（ほん） . If you're not familiar with counters and want to learn more, or if you need a refresher, check out our counter guide !",
+    "You can also use もう with adverbs that indicate \"a little (change),\" such as 少（すこ）し (a little) , ちょっと (a little), or すぐ (soon). You've already seen some examples, but here are a few more.",
+    "In the first example, もうちょっと indicates that you're getting closer to the object you're trying to reach and you only need to stretch out your hand a little further. In the second example, もうちょっと indicates that it will take only a little more time for you to get wherever you’re heading.",
+    "As you can see in the examples above, もう〜 is sometimes translated as \"almost…\" It's also with noting that すぐ of もうすぐ is often omitted if the context is clear enough, as in:",
+    "Be careful though, because もう can't be combined with every adverb. It works best with ちょっと、少（すこ）し、すぐ、and しばらく, as in もうちょっと, もう少（すこ）し, もうすぐ, and もうしばらく.",
+    "もう少（すこ）し (a little more/further) can also be used in the pattern もう少（すこ）しで〜ところだった to mean \"almost did…\"",
+    "For example, if you were walking down the street and almost fell down, you may say:",
+    "Here, こける means \"to fall down,\" ところ indicates that you’re at the point of doing something, and だった expresses the past tense. Combined, the whole sentence implies that you were about to reach the point of falling down — you were very close but it didn't end up happening.",
+    "It's worth noting that sometimes the English \"almost did…\" and Japanese もう少（すこ）しで〜ところだった don't mean the exact same thing. This is because some verbs in Japanese and English focus on different stages of an action.",
+    "If you say \"to be drowned\" in English, for example, it usually indicates the tragic outcome of submersion in and the inhalation of water. The Japanese counterpart 溺（おぼ）れる, on the other hand, denotes a struggle in the water and does not necessarily imply a sad outcome.",
+    "As a result, もう少（すこ）しで溺（おぼ）れるところだった can mean that you were on the verge of struggling in the water for whatever reason, but it's possible the struggle never actually happened.",
+    "In English, however, saying \"I almost drowned\" suggests that you struggled in the water but were able to avoid the tragic outcome. To clarify this meaning in Japanese, you would need to make a compound verb by adding 死（し）ぬ (to die) to 溺（おぼ）れる, like:"
+  ],
+  "examples": [
+    {
+      "japanese": "一（ひと）つ買（か）おう。",
+      "english": "l should buy one."
+    },
+    {
+      "japanese": "もう一（ひと）つ買（か）おう。",
+      "english": "l should buy one more."
+    },
+    {
+      "japanese": "もう一（いち）回（かい）言（い）ってもらえませんか？",
+      "english": "Could you say that one more time?"
+    },
+    {
+      "japanese": "もう少（すこ）し大（おお）きい声（こえ）で言（い）ってもらえませんか？",
+      "english": "Could you say that a little louder? (Literally: Could you say that with a slightly louder voice?)"
+    },
+    {
+      "japanese": "すぐできるよ。",
+      "english": "It can be ready quickly."
+    },
+    {
+      "japanese": "もうすぐできるよ。",
+      "english": "It will be ready soon."
+    },
+    {
+      "japanese": "ほらね、[⭕️すぐ・❌もうすぐ]できたでしょ。",
+      "english": "See, it's made quickly, right?"
+    },
+    {
+      "japanese": "ビール、もう一（いち）本（ほん）ください。",
+      "english": "Can you get me another bottle of beer?"
+    },
+    {
+      "japanese": "もう二（に）、三（さん）個（こ）ほしいな。",
+      "english": "I want a few more."
+    },
+    {
+      "japanese": "もうちょっとで 届（とど）く。",
+      "english": "I can almost reach it."
+    },
+    {
+      "japanese": "もうすぐ 着（つ）くよ。",
+      "english": "I'm almost there."
+    },
+    {
+      "japanese": "もう(すぐ)着（つ）くよ。",
+      "english": "I'm almost there."
+    },
+    {
+      "japanese": "もう(すぐ) 頂上（ちょうじょう）だよ。",
+      "english": "We’re almost at the mountain top."
+    },
+    {
+      "japanese": "もう少（すこ）しでこけるところだった。",
+      "english": "I almost fell. (Literally: I was at the point of falling down.)"
+    },
+    {
+      "japanese": "もう少（すこ）しで溺（おぼ）れるところだった。",
+      "english": "I almost started struggling in the water."
+    },
+    {
+      "japanese": "もう少（すこ）しで溺（おぼ）れ死（し）ぬところだった。",
+      "english": "I almost drowned. (Literally: I almost died of struggling in the water.)"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "quantity",
+      "text": "もう + Quantity"
+    },
+    {
+      "level": 4,
+      "id": "adverb",
+      "text": "もう + Adverb"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-almost-did",
+      "text": "もう少しで〜ところだった for \"Almost Did…\""
+    }
+  ],
+  "id": 123,
+  "slug": "mou-little-more",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/mou-little-more/",
+  "categories": [
+    "Adverb"
+  ]
+}

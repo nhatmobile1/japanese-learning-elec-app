@@ -1,0 +1,541 @@
+{
+  "title": "自分",
+  "description": "自分（じぶん） is a Japanese pronoun that means \"self.\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "自分（じぶん） is the Japanese word for \"self.\" The word has an introspective nuance, but it's a pronoun you can use for yourself, and pretty much anyone else, depending on the context. When you use 自分（じぶん） to refer to someone else other than yourself, it's as if you are telling a story from their point of view as a surrogate speaker."
+    },
+    {
+      "type": "paragraph",
+      "text": "自分（じぶん） is often compared to English reflexive pronouns like \"myself,\" \"yourself,\" \"himself,\" \"herself,\" and so on. However, that doesn't mean they are used in the same way or always have the same meaning as those in English. For example, 自分（じぶん） is universally used regardless of gender or perspective, unlike the English reflexive pronouns with more distinctions. It's also only used for animate things, like humans and animals."
+    },
+    {
+      "type": "paragraph",
+      "text": "自分（じぶん） is grammatically not very different from other Japanese pronouns and nouns in general. Compared to English reflexive pronouns, 自分（じぶん） has more flexibility in terms of where it can be used, what it can refer to, or how it's translated. To understand what 自分（じぶん） really is, it's best to learn from actual examples, so keep reading to find out more!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-a-reflexive-pronoun",
+      "text": "自分 as a Reflexive Pronoun"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's start with something similar to English and something you're more familiar with. As mentioned earlier, 自分（じぶん） can be used like English reflexive pronouns — the words ending in \"-self\" such as \"myself\" or \"herself.\" In English, reflexive pronouns are used as objects most of the time, echoing back the sentence's subject. 自分（じぶん） can be used in the same way."
+    },
+    {
+      "type": "example",
+      "japanese": "キョーコは自分（じぶん）を信（しん）じている。",
+      "english": "Kyoko believes in herself."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the English translation, you see that Kyoko is the subject of the sentence, and \"herself\" refers to Kyoko. As you see here, in Japanese, 自分（じぶん） is referring to キョーコ, where 自分（じぶん） is used as the object, echoing the subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "自分（じぶん） is also frequently used as a pronoun to avoid repetition."
+    },
+    {
+      "type": "example",
+      "japanese": "キョーコは自分（じぶん）が正（ただ）しいと思（おも）っている。",
+      "english": "Kyoko thinks she's right."
+    },
+    {
+      "type": "paragraph",
+      "text": "Technically, you could be repetitive and say キョーコはキョーコが正（ただ）しいと思（おも）っている. Even though it feels redundant, it's grammatically okay to do so. You may even hear repetitive phrases like this in spoken Japanese, especially when emphasizing that Kyoko thinks Kyoko is the right one! However, especially in writing, it's common to use 自分（じぶん） instead to avoid redundancy."
+    },
+    {
+      "type": "paragraph",
+      "text": "You might also wonder, \"why not use the third-person pronoun 彼女（かのじょ） (she) just like we do in English?\" In Japanese, using third-person pronouns is not as common as in English, especially since 彼女（かのじょ） typically means \"girlfriend\" rather than \"she,\" so 自分（じぶん） would be the most suitable choice here."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-things-you-do-yourself",
+      "text": "自分で for Things You Do Yourself"
+    },
+    {
+      "type": "paragraph",
+      "text": "Another common way that 自分（じぶん） is used is when specifying that something is done by a person themself, not someone else. In English, reflexive pronouns have the same effect and are called \"intensive pronouns.\" Now let's take a look at an example."
+    },
+    {
+      "type": "example",
+      "japanese": "キョーコは家（いえ）を建（た）てた。",
+      "english": "Kyoko built a house."
+    },
+    {
+      "type": "paragraph",
+      "text": "With this sentence alone, it's not clear whether Kyoko hired professionals to build the house (which is what most people would do), or if she actually built the house on her own. But if Kyoko is a super hardcore DIYer and built her own home, it's noteworthy! And, 自分（じぶん） is the perfect word to use when you want to explain that."
+    },
+    {
+      "type": "example",
+      "japanese": "キョーコは家（いえ）を自分（じぶん）で建（た）てた。",
+      "english": "Kyoko built the house herself."
+    },
+    {
+      "type": "paragraph",
+      "text": "By using 自分（じぶん） with the particle で, you can add emphasis on how the action is done by the person. One thing to note here is 自分（じぶん）で doesn't specify whether the action is done only by yourself without anyone else's help or not. To make it clear that something was done by yourself only, you'd want to use 一（いち）人（にん）で (alone)."
+    },
+    {
+      "type": "example",
+      "japanese": "キョーコは家（いえ）を一（いち）人（にん）で建（た）てた。",
+      "english": "Kyoko built a house all by herself."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-things-of-ones-own",
+      "text": "自分の for Things of One's Own"
+    },
+    {
+      "type": "paragraph",
+      "text": "With the particle の, 自分（じぶん） is often used for something that's your own, not someone else's."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the previous section, we talked about how to say \"Kyoko built a house herself.\" But what if you want to specifically say that the house she built is for herself, not say, a house for her pet hamster? Building a hamster house is still very impressive, but not as cool as her building her own home!"
+    },
+    {
+      "type": "paragraph",
+      "text": "We can use 自分（じぶん） (again) to make sure that we explain that Kyoko impressively built a human-sized house for herself."
+    },
+    {
+      "type": "example",
+      "japanese": "キョーコは自分（じぶん）の家（いえ）を自分（じぶん）で建（た）てた。",
+      "english": "Kyoko built her own house by herself."
+    },
+    {
+      "type": "paragraph",
+      "text": "Attaching の to turn 自分（じぶん） into the possessive form like this, you specify that the house is Kyoko's house."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-yourself-in-general",
+      "text": "自分 For \"Yourself\" in General"
+    },
+    {
+      "type": "paragraph",
+      "text": "自分（じぶん） can also be used as \"oneself\" for an unspecified person or for unspecified people. This is often seen in general sayings and expressions when you are not talking about a particular person but are referring to people in general and themselves."
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）を信（しん）じて。",
+      "english": "Believe in yourself."
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）のやったことは自分（じぶん）に返（かえ）ってくる。",
+      "english": "What you've done comes back to you."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "without-subject",
+      "text": "自分 Without Subject"
+    },
+    {
+      "type": "paragraph",
+      "text": "You might've noticed from previous examples that 自分（じぶん） works even if there's nothing to echo back to in the sentence. This is because sentence components, especially the subject, often get omitted in Japanese depending on the context, so it's not rare to see 自分（じぶん） and without specifying who it's referring to. 👻"
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, when someone says something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）に自信（じしん）がないんです。",
+      "english": "I lack confidence in myself."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can usually assume that the subject is the person who said it even if they did not explicitly say 私（わたし）は (\"I\" or \"as for me\"). For example, let's say you are talking about your friend Kyoko, who seems to be too busy to help others. You may say something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）のことで精一杯（せいいっぱい）そうだよね。",
+      "english": "She seems occupied with her own business."
+    },
+    {
+      "type": "paragraph",
+      "text": "You know that it's a \"she,\" aka Kyoko, that 自分（じぶん） refers to because she is the topic of your conversation. And I mean, of course, you know she is busy working on her hardcore DIY projects, what did you expect?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "what--can-refer-to",
+      "text": "What 自分 Can Refer To"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although 自分（じぶん） usually refers to the subject or the topic of a sentence, sometimes what it refers to is unclear in complex sentences with multiple perspectives. Or, sometimes, it just depends on the context."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although reflexive pronouns only refer back to a word within the same clause in English, 自分（じぶん） can refer to a subject in a different clause."
+    },
+    {
+      "type": "example",
+      "japanese": "マミは、カナエが自分（じぶん）を責（せ）めてるって言（い）ってた。",
+      "english": "Mami was saying that Kanae blames 自分."
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, who Kanae is blaming or who 自分（じぶん） refers to, could only be Kanae. However, in Japanese, it's unclear who 自分（じぶん） is — it could refer to Kanae, or even Mami, despite the mention of Mami being far away in a separate clause."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, let's say your friend asks you why Mami is crying. The exchange could look something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "Your friend: マミは何（なん）で泣（な）いてるの？You: カナエが自分（じぶん）を責（せ）めてるって言（い）ってた。",
+      "english": "Your friend: Why is Mami crying?You: She said that Kanae blames 自分."
+    },
+    {
+      "type": "paragraph",
+      "text": "And even in this case, 自分（じぶん） can still refer to either Mami or Kanae. Mami is even in a separate sentence, but in this context where Mami is who you and your friend are talking about, it's very possible it could be about her."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-a-personal-pronoun",
+      "text": "自分 as a Personal Pronoun"
+    },
+    {
+      "type": "paragraph",
+      "text": "自分（じぶん） is also used in the first-person or second-person perspectives just like a personal pronoun ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's an example of 自分（じぶん） when it's used in the first-person."
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）も、そう思（おも）います。",
+      "english": "I think so too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compared to other first-person pronouns, the nuance of 自分（じぶん） is introspective, and it's often associated with the military or athletic community, which have strong hierarchies. It is also considered to be relatively gender-neutral. For more details, check out our first-person pronoun article ."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to using 自分（じぶん） in first-person contexts, in the Kansai area dialect, 自分（じぶん） also gets used in second-person (referring to your listener) contexts."
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）、何（なに）してんの？",
+      "english": "What are you doing?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This use carries a \"caring\" nuance, as if you're approaching someone while trying to step into their shoes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "modifying-",
+      "text": "Modifying 自分"
+    },
+    {
+      "type": "paragraph",
+      "text": "Grammatically-speaking, 自分（じぶん） is not any different from nouns. That means you can modify 自分（じぶん） with an adjective or a clause."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here are a couple examples of 自分（じぶん） being modified with adjectives — シャイな (shy) and 本当（ほんとう）の (true)."
+    },
+    {
+      "type": "example",
+      "japanese": "シャイな自分（じぶん）にはカラオケはできない。",
+      "english": "My shy-self can't sing karaoke."
+    },
+    {
+      "type": "example",
+      "japanese": "本当（ほんとう）の自分（じぶん）を探（さが）す旅（たび）に出（で）る。",
+      "english": "I'm going on a trip to find my true self."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's also common to modify 自分（じぶん） with a clause ."
+    },
+    {
+      "type": "example",
+      "japanese": "告白（こくはく）できなかった自分（じぶん）が情（なさ）けない。",
+      "english": "I am disappointed by my confession-lacking-self."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "plural-",
+      "text": "Plural 自分"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like other personal pronouns , 自分（じぶん） can be turned into the plural form with suffixes , such as 自分（じぶん）たち or 自分（じぶん）ら."
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）たちでビザの申請（しんせい）をした。",
+      "english": "We filed a visa application ourselves."
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）らには関係（かんけい）ない。",
+      "english": "It's got nothing to do with us."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "idiomatic-expressions-using--as-identity",
+      "text": "Idiomatic Expressions Using 自分 As \"Identity\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Since 自分（じぶん） is an introspective word meaning \"self,\" it could also mean \"identity\" in some contexts. There are some idiomatic expressions using 自分（じぶん）, as a word for identity. Here are a few examples to give you an idea:"
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）を殺（ころ）す",
+      "english": "Suppressing one's self (Literally: Killing one's identity)"
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）を持（も）つ",
+      "english": "Being self-assured (Literally: Having one's identity)"
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）を見失（みうしな）う",
+      "english": "Feeling lost (Literally: Losing one's identity)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "自分（じぶん） is the Japanese word for \"self.\" The word has an introspective nuance, but it's a pronoun you can use for yourself, and pretty much anyone else, depending on the context. When you use 自分（じぶん） to refer to someone else other than yourself, it's as if you are telling a story from their point of view as a surrogate speaker.",
+    "自分（じぶん） is often compared to English reflexive pronouns like \"myself,\" \"yourself,\" \"himself,\" \"herself,\" and so on. However, that doesn't mean they are used in the same way or always have the same meaning as those in English. For example, 自分（じぶん） is universally used regardless of gender or perspective, unlike the English reflexive pronouns with more distinctions. It's also only used for animate things, like humans and animals.",
+    "自分（じぶん） is grammatically not very different from other Japanese pronouns and nouns in general. Compared to English reflexive pronouns, 自分（じぶん） has more flexibility in terms of where it can be used, what it can refer to, or how it's translated. To understand what 自分（じぶん） really is, it's best to learn from actual examples, so keep reading to find out more!",
+    "Let's start with something similar to English and something you're more familiar with. As mentioned earlier, 自分（じぶん） can be used like English reflexive pronouns — the words ending in \"-self\" such as \"myself\" or \"herself.\" In English, reflexive pronouns are used as objects most of the time, echoing back the sentence's subject. 自分（じぶん） can be used in the same way.",
+    "In the English translation, you see that Kyoko is the subject of the sentence, and \"herself\" refers to Kyoko. As you see here, in Japanese, 自分（じぶん） is referring to キョーコ, where 自分（じぶん） is used as the object, echoing the subject.",
+    "自分（じぶん） is also frequently used as a pronoun to avoid repetition.",
+    "Technically, you could be repetitive and say キョーコはキョーコが正（ただ）しいと思（おも）っている. Even though it feels redundant, it's grammatically okay to do so. You may even hear repetitive phrases like this in spoken Japanese, especially when emphasizing that Kyoko thinks Kyoko is the right one! However, especially in writing, it's common to use 自分（じぶん） instead to avoid redundancy.",
+    "You might also wonder, \"why not use the third-person pronoun 彼女（かのじょ） (she) just like we do in English?\" In Japanese, using third-person pronouns is not as common as in English, especially since 彼女（かのじょ） typically means \"girlfriend\" rather than \"she,\" so 自分（じぶん） would be the most suitable choice here.",
+    "Another common way that 自分（じぶん） is used is when specifying that something is done by a person themself, not someone else. In English, reflexive pronouns have the same effect and are called \"intensive pronouns.\" Now let's take a look at an example.",
+    "With this sentence alone, it's not clear whether Kyoko hired professionals to build the house (which is what most people would do), or if she actually built the house on her own. But if Kyoko is a super hardcore DIYer and built her own home, it's noteworthy! And, 自分（じぶん） is the perfect word to use when you want to explain that.",
+    "By using 自分（じぶん） with the particle で, you can add emphasis on how the action is done by the person. One thing to note here is 自分（じぶん）で doesn't specify whether the action is done only by yourself without anyone else's help or not. To make it clear that something was done by yourself only, you'd want to use 一（いち）人（にん）で (alone).",
+    "With the particle の, 自分（じぶん） is often used for something that's your own, not someone else's.",
+    "In the previous section, we talked about how to say \"Kyoko built a house herself.\" But what if you want to specifically say that the house she built is for herself, not say, a house for her pet hamster? Building a hamster house is still very impressive, but not as cool as her building her own home!",
+    "We can use 自分（じぶん） (again) to make sure that we explain that Kyoko impressively built a human-sized house for herself.",
+    "Attaching の to turn 自分（じぶん） into the possessive form like this, you specify that the house is Kyoko's house.",
+    "自分（じぶん） can also be used as \"oneself\" for an unspecified person or for unspecified people. This is often seen in general sayings and expressions when you are not talking about a particular person but are referring to people in general and themselves.",
+    "You might've noticed from previous examples that 自分（じぶん） works even if there's nothing to echo back to in the sentence. This is because sentence components, especially the subject, often get omitted in Japanese depending on the context, so it's not rare to see 自分（じぶん） and without specifying who it's referring to. 👻",
+    "For example, when someone says something like:",
+    "You can usually assume that the subject is the person who said it even if they did not explicitly say 私（わたし）は (\"I\" or \"as for me\"). For example, let's say you are talking about your friend Kyoko, who seems to be too busy to help others. You may say something like:",
+    "You know that it's a \"she,\" aka Kyoko, that 自分（じぶん） refers to because she is the topic of your conversation. And I mean, of course, you know she is busy working on her hardcore DIY projects, what did you expect?",
+    "Although 自分（じぶん） usually refers to the subject or the topic of a sentence, sometimes what it refers to is unclear in complex sentences with multiple perspectives. Or, sometimes, it just depends on the context.",
+    "Although reflexive pronouns only refer back to a word within the same clause in English, 自分（じぶん） can refer to a subject in a different clause.",
+    "In English, who Kanae is blaming or who 自分（じぶん） refers to, could only be Kanae. However, in Japanese, it's unclear who 自分（じぶん） is — it could refer to Kanae, or even Mami, despite the mention of Mami being far away in a separate clause.",
+    "Now, let's say your friend asks you why Mami is crying. The exchange could look something like:",
+    "And even in this case, 自分（じぶん） can still refer to either Mami or Kanae. Mami is even in a separate sentence, but in this context where Mami is who you and your friend are talking about, it's very possible it could be about her.",
+    "自分（じぶん） is also used in the first-person or second-person perspectives just like a personal pronoun .",
+    "Here's an example of 自分（じぶん） when it's used in the first-person.",
+    "Compared to other first-person pronouns, the nuance of 自分（じぶん） is introspective, and it's often associated with the military or athletic community, which have strong hierarchies. It is also considered to be relatively gender-neutral. For more details, check out our first-person pronoun article .",
+    "In addition to using 自分（じぶん） in first-person contexts, in the Kansai area dialect, 自分（じぶん） also gets used in second-person (referring to your listener) contexts.",
+    "This use carries a \"caring\" nuance, as if you're approaching someone while trying to step into their shoes.",
+    "Grammatically-speaking, 自分（じぶん） is not any different from nouns. That means you can modify 自分（じぶん） with an adjective or a clause.",
+    "Here are a couple examples of 自分（じぶん） being modified with adjectives — シャイな (shy) and 本当（ほんとう）の (true).",
+    "It's also common to modify 自分（じぶん） with a clause .",
+    "Just like other personal pronouns , 自分（じぶん） can be turned into the plural form with suffixes , such as 自分（じぶん）たち or 自分（じぶん）ら.",
+    "Since 自分（じぶん） is an introspective word meaning \"self,\" it could also mean \"identity\" in some contexts. There are some idiomatic expressions using 自分（じぶん）, as a word for identity. Here are a few examples to give you an idea:"
+  ],
+  "examples": [
+    {
+      "japanese": "キョーコは自分（じぶん）を信（しん）じている。",
+      "english": "Kyoko believes in herself."
+    },
+    {
+      "japanese": "キョーコは自分（じぶん）が正（ただ）しいと思（おも）っている。",
+      "english": "Kyoko thinks she's right."
+    },
+    {
+      "japanese": "キョーコは家（いえ）を建（た）てた。",
+      "english": "Kyoko built a house."
+    },
+    {
+      "japanese": "キョーコは家（いえ）を自分（じぶん）で建（た）てた。",
+      "english": "Kyoko built the house herself."
+    },
+    {
+      "japanese": "キョーコは家（いえ）を一（いち）人（にん）で建（た）てた。",
+      "english": "Kyoko built a house all by herself."
+    },
+    {
+      "japanese": "キョーコは自分（じぶん）の家（いえ）を自分（じぶん）で建（た）てた。",
+      "english": "Kyoko built her own house by herself."
+    },
+    {
+      "japanese": "自分（じぶん）を信（しん）じて。",
+      "english": "Believe in yourself."
+    },
+    {
+      "japanese": "自分（じぶん）のやったことは自分（じぶん）に返（かえ）ってくる。",
+      "english": "What you've done comes back to you."
+    },
+    {
+      "japanese": "自分（じぶん）に自信（じしん）がないんです。",
+      "english": "I lack confidence in myself."
+    },
+    {
+      "japanese": "自分（じぶん）のことで精一杯（せいいっぱい）そうだよね。",
+      "english": "She seems occupied with her own business."
+    },
+    {
+      "japanese": "マミは、カナエが自分（じぶん）を責（せ）めてるって言（い）ってた。",
+      "english": "Mami was saying that Kanae blames 自分."
+    },
+    {
+      "japanese": "Your friend: マミは何（なん）で泣（な）いてるの？You: カナエが自分（じぶん）を責（せ）めてるって言（い）ってた。",
+      "english": "Your friend: Why is Mami crying?You: She said that Kanae blames 自分."
+    },
+    {
+      "japanese": "自分（じぶん）も、そう思（おも）います。",
+      "english": "I think so too."
+    },
+    {
+      "japanese": "自分（じぶん）、何（なに）してんの？",
+      "english": "What are you doing?"
+    },
+    {
+      "japanese": "シャイな自分（じぶん）にはカラオケはできない。",
+      "english": "My shy-self can't sing karaoke."
+    },
+    {
+      "japanese": "本当（ほんとう）の自分（じぶん）を探（さが）す旅（たび）に出（で）る。",
+      "english": "I'm going on a trip to find my true self."
+    },
+    {
+      "japanese": "告白（こくはく）できなかった自分（じぶん）が情（なさ）けない。",
+      "english": "I am disappointed by my confession-lacking-self."
+    },
+    {
+      "japanese": "自分（じぶん）たちでビザの申請（しんせい）をした。",
+      "english": "We filed a visa application ourselves."
+    },
+    {
+      "japanese": "自分（じぶん）らには関係（かんけい）ない。",
+      "english": "It's got nothing to do with us."
+    },
+    {
+      "japanese": "自分（じぶん）を殺（ころ）す",
+      "english": "Suppressing one's self (Literally: Killing one's identity)"
+    },
+    {
+      "japanese": "自分（じぶん）を持（も）つ",
+      "english": "Being self-assured (Literally: Having one's identity)"
+    },
+    {
+      "japanese": "自分（じぶん）を見失（みうしな）う",
+      "english": "Feeling lost (Literally: Losing one's identity)"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "as-a-reflexive-pronoun",
+      "text": "自分 as a Reflexive Pronoun"
+    },
+    {
+      "level": 3,
+      "id": "for-things-you-do-yourself",
+      "text": "自分で for Things You Do Yourself"
+    },
+    {
+      "level": 3,
+      "id": "for-things-of-ones-own",
+      "text": "自分の for Things of One's Own"
+    },
+    {
+      "level": 3,
+      "id": "for-yourself-in-general",
+      "text": "自分 For \"Yourself\" in General"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "without-subject",
+      "text": "自分 Without Subject"
+    },
+    {
+      "level": 3,
+      "id": "what--can-refer-to",
+      "text": "What 自分 Can Refer To"
+    },
+    {
+      "level": 3,
+      "id": "as-a-personal-pronoun",
+      "text": "自分 as a Personal Pronoun"
+    },
+    {
+      "level": 3,
+      "id": "modifying-",
+      "text": "Modifying 自分"
+    },
+    {
+      "level": 3,
+      "id": "plural-",
+      "text": "Plural 自分"
+    },
+    {
+      "level": 3,
+      "id": "idiomatic-expressions-using--as-identity",
+      "text": "Idiomatic Expressions Using 自分 As \"Identity\""
+    }
+  ],
+  "id": 128,
+  "slug": "jibun",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/jibun/",
+  "categories": [
+    "Pronoun"
+  ]
+}

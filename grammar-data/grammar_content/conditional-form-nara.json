@@ -1,0 +1,485 @@
+{
+  "title": "なら",
+  "description": "なら is a conditional particle. It means something like \"if\" in English.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is なら?"
+    },
+    {
+      "type": "paragraph",
+      "text": "なら is attached to the sentence which describes the condition where certain events or situations happen. It is often translated as \"if.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "なら can be used with nouns, い-adjectives , な-adjectives , and verbs. To make sentences, put なら after the dictionary form of these words."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Verb",
+          "行（い）く + なら = 行（い）くなら"
+        ],
+        [
+          "Noun",
+          "夏（なつ） + なら = 夏（なつ）なら"
+        ],
+        [
+          "な-adjective",
+          "不安（ふあん） + なら = 不安（ふあん）なら"
+        ],
+        [
+          "い-adjective",
+          "難（むずか）しい + なら = 難（むずか）しいなら"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "You can make negative sentences by conjugating the words with ない ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Verb",
+          "行（い）かない + なら = 行（い）かないなら"
+        ],
+        [
+          "Noun",
+          "夏（なつ）じゃない + なら = 夏（なつ）じゃないなら"
+        ],
+        [
+          "な-adjective",
+          "不安（ふあん）じゃない + なら = 不安（ふあん）じゃないなら"
+        ],
+        [
+          "い-adjective",
+          "難（むずか）しくない + なら = 難（むずか）しくないなら"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "When describing something in the past, you have to change these forms into the past tense."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Verb",
+          "行（い）った + なら = 行（おこな）ったなら"
+        ],
+        [
+          "Noun",
+          "夏（なつ）だった + なら = 夏（なつ）だったなら"
+        ],
+        [
+          "な-adjective",
+          "不安（ふあん）だった + なら = 不安（ふあん）だったなら"
+        ],
+        [
+          "い-adjective",
+          "難（むずか）しかった + なら = 難（むずか）しかったなら"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-describing-conditions",
+      "text": "なら for Describing Conditions"
+    },
+    {
+      "type": "paragraph",
+      "text": "As we mentioned, なら is used to indicate a condition where a certain situation or event happens."
+    },
+    {
+      "type": "example",
+      "japanese": "寒（さむ）いならこれを着（き）てください。",
+      "english": "Please put this on if you are cold."
+    },
+    {
+      "type": "example",
+      "japanese": "あなたが嬉（うれ）しいなら、私（わたし）も嬉（うれ）しいです。",
+      "english": "If you are happy, I'm happy too."
+    },
+    {
+      "type": "paragraph",
+      "text": "While this seems straightforward, there are some restrictions on the use of なら. For example, you cannot use なら if the condition you are describing will definitely happen."
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 春（はる）になるなら、お花見（はなみ）をしましょう。",
+      "english": "Let's go see cherry blossoms if spring comes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Using なら, you indicate the possibility that the conditional event might not happen. So it's not appropriate to use in this context."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is also the case when using なら to describe someone's action as conditional."
+    },
+    {
+      "type": "example",
+      "japanese": "コウイチに会（あ）うなら、メールを見（み）るよう伝（つた）えてください。",
+      "english": "If you meet with Koichi, please tell him to check his email."
+    },
+    {
+      "type": "paragraph",
+      "text": "When saying this, you are assuming that your listener has a plan to meet Koichi, but you don't know if your listener actually will."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can say this even when you are pretty sure the listener will do what you describe. For example, imagine a situation where you saw your sister putting on her shoes. You can ask her to take out the garbage by saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "外（そと）に行（い）くなら、ゴミ捨（す）てて来（き）て。",
+      "english": "If you go outside, take out the garbage."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since an action described as a condition has to be uncertain when なら is used, the next sentence is inappropriate."
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 私（わたし）が行（い）くなら、コウイチも行（い）きたい。",
+      "english": "If I go there, Koichi wants to go there too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because it is you who is doing the action of going, you know whether the condition is true or not, thus なら should not be used. However, you can describe your own action as a condition in a context like the one below:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ 私（わたし）が行（い）くなら、コウイチも行（い）きたがると思（おも）う。",
+      "english": "If I go there, I think Koichi wants to come with me."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, you are describing your assumption about Koichi's action. Because the sentence itself is an assumption, the actuality of your action described as a condition is uncertain."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, なら is not appropriate when you are highlighting the causal relationship between the conditional action and the event or situation caused by that action. Imagine a situation where your friends suggested to race to their classroom, and you want to stop them by reminding them that it will make their teachers mad. It's weird to say:"
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 走（はし）るなら先生（せんせい）に怒（おこ）られるよ。",
+      "english": "The teacher will be mad if you run!"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because you are stating the objective fact that the action (running) causes the event, (your teacher getting mad) to convince your friend not to run in school. Since なら is used to claim subjective opinions based on the speakers' assumption of a certain condition, it does not fit the nuance of this sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, you can use なら in the following context. Imagine that your friends insisted that they race to the classroom, and you finally gave up."
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ 走（はし）るなら人（ひと）にぶつからないようにしなよ。",
+      "english": "Try not to run into other people if you run."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, なら is appropriate because you are suggesting something for your friends, rather than reminding them of a possibility that their action might cause."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-describing-counterfactual-situations",
+      "text": "なら for Describing Counterfactual Situations"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like you use \"if\" to state counterfactual situations, なら can be used in the same way."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）があなたならそんなことはしない。",
+      "english": "If I were you, I wouldn't do something like that."
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）が晴（は）れなら、キャンプへ行（い）けたのに。",
+      "english": "If it were sunny today, we could have gone camping."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike English, you don't always change the conditional part of the sentence into the past tense. Nevertheless, you can do so when you want to emphasize that the situation you are describing is not real."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）が鳥（とり）だったなら、あなたのところへ飛（と）んでいけるのに。",
+      "english": "If I were a bird, I could fly to your place."
+    },
+    {
+      "type": "paragraph",
+      "text": "This makes your speech sound more poetic, so the past tense is often used in writing rather than speaking."
+    },
+    {
+      "type": "paragraph",
+      "text": "In speech, it is common to state only the conditional part of the sentence. When doing so, なら is often added at the end of the sentence to emphasize the speaker's regret or wish about the counterfactual situation."
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）が金曜日（きんようび）ならなあ。",
+      "english": "I wish today was Friday."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "verb--for-referring-to-someone-or-something",
+      "text": "Verb なら for Referring to Someone or Something"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use なら to refer to someone or something that is mentioned in other people's speech. Imagine a situation where you left your hat on a bench. Coming back to the bench, you see a man sitting there."
+    },
+    {
+      "type": "example",
+      "japanese": "You: あの、緑（みどり）の帽子（ぼうし）を見（み）ませんでしたか？Man: その帽子（ぼうし）なら、さっき誰（だれ）かが持（も）って行（い）きましたよ。",
+      "english": "You: Excuse me, did you see a green hat?Man: If it's the hat I'm thinking of, someone took it with them a while ago."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this context, なら is used to clarify that the guy is referring to the same hat you are referring to."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use なら when it's obvious that you and your listener are talking about the same thing or person."
+    },
+    {
+      "type": "example",
+      "japanese": "Moe: マミ、仕事（しごと）大変（たいへん）そうだね。大丈夫（だいじょうぶ）かな。Jen: マミなら大丈夫（だいじょうぶ）でしょ。",
+      "english": "Moe: Mami looks busy. Do you think she is okay?Jen: (If it's Mami), she can handle it."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, Jen is referring to not only Mami herself as a figure but also what she knows about Mami, and assuming Mami is okay based on that knowledge. Jen's speech also indicates that other people might have trouble handling that situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "なら can also be used to suggest an alternate idea when referring to something or someone new which you bring into the conversation."
+    },
+    {
+      "type": "example",
+      "japanese": "A: 金曜日（きんようび）出（で）かけない？B: うーん、土曜日（どようび）ならいいよ。",
+      "english": "A: Do you want to go out with me on Friday?B: Well, I'll go if it's Saturday."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you are refusing your friend's suggestion but simultaneously providing a possible condition where you can go out with your friend."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "なら is attached to the sentence which describes the condition where certain events or situations happen. It is often translated as \"if.\"",
+    "なら can be used with nouns, い-adjectives , な-adjectives , and verbs. To make sentences, put なら after the dictionary form of these words.",
+    "You can make negative sentences by conjugating the words with ない .",
+    "When describing something in the past, you have to change these forms into the past tense.",
+    "As we mentioned, なら is used to indicate a condition where a certain situation or event happens.",
+    "While this seems straightforward, there are some restrictions on the use of なら. For example, you cannot use なら if the condition you are describing will definitely happen.",
+    "Using なら, you indicate the possibility that the conditional event might not happen. So it's not appropriate to use in this context.",
+    "This is also the case when using なら to describe someone's action as conditional.",
+    "When saying this, you are assuming that your listener has a plan to meet Koichi, but you don't know if your listener actually will.",
+    "You can say this even when you are pretty sure the listener will do what you describe. For example, imagine a situation where you saw your sister putting on her shoes. You can ask her to take out the garbage by saying:",
+    "Since an action described as a condition has to be uncertain when なら is used, the next sentence is inappropriate.",
+    "Because it is you who is doing the action of going, you know whether the condition is true or not, thus なら should not be used. However, you can describe your own action as a condition in a context like the one below:",
+    "Here, you are describing your assumption about Koichi's action. Because the sentence itself is an assumption, the actuality of your action described as a condition is uncertain.",
+    "In addition, なら is not appropriate when you are highlighting the causal relationship between the conditional action and the event or situation caused by that action. Imagine a situation where your friends suggested to race to their classroom, and you want to stop them by reminding them that it will make their teachers mad. It's weird to say:",
+    "This is because you are stating the objective fact that the action (running) causes the event, (your teacher getting mad) to convince your friend not to run in school. Since なら is used to claim subjective opinions based on the speakers' assumption of a certain condition, it does not fit the nuance of this sentence.",
+    "However, you can use なら in the following context. Imagine that your friends insisted that they race to the classroom, and you finally gave up.",
+    "In this case, なら is appropriate because you are suggesting something for your friends, rather than reminding them of a possibility that their action might cause.",
+    "Just like you use \"if\" to state counterfactual situations, なら can be used in the same way.",
+    "Unlike English, you don't always change the conditional part of the sentence into the past tense. Nevertheless, you can do so when you want to emphasize that the situation you are describing is not real.",
+    "This makes your speech sound more poetic, so the past tense is often used in writing rather than speaking.",
+    "In speech, it is common to state only the conditional part of the sentence. When doing so, なら is often added at the end of the sentence to emphasize the speaker's regret or wish about the counterfactual situation.",
+    "You can also use なら to refer to someone or something that is mentioned in other people's speech. Imagine a situation where you left your hat on a bench. Coming back to the bench, you see a man sitting there.",
+    "In this context, なら is used to clarify that the guy is referring to the same hat you are referring to.",
+    "You can also use なら when it's obvious that you and your listener are talking about the same thing or person.",
+    "In this case, Jen is referring to not only Mami herself as a figure but also what she knows about Mami, and assuming Mami is okay based on that knowledge. Jen's speech also indicates that other people might have trouble handling that situation.",
+    "なら can also be used to suggest an alternate idea when referring to something or someone new which you bring into the conversation.",
+    "In this case, you are refusing your friend's suggestion but simultaneously providing a possible condition where you can go out with your friend."
+  ],
+  "examples": [
+    {
+      "japanese": "寒（さむ）いならこれを着（き）てください。",
+      "english": "Please put this on if you are cold."
+    },
+    {
+      "japanese": "あなたが嬉（うれ）しいなら、私（わたし）も嬉（うれ）しいです。",
+      "english": "If you are happy, I'm happy too."
+    },
+    {
+      "japanese": "❌ 春（はる）になるなら、お花見（はなみ）をしましょう。",
+      "english": "Let's go see cherry blossoms if spring comes."
+    },
+    {
+      "japanese": "コウイチに会（あ）うなら、メールを見（み）るよう伝（つた）えてください。",
+      "english": "If you meet with Koichi, please tell him to check his email."
+    },
+    {
+      "japanese": "外（そと）に行（い）くなら、ゴミ捨（す）てて来（き）て。",
+      "english": "If you go outside, take out the garbage."
+    },
+    {
+      "japanese": "❌ 私（わたし）が行（い）くなら、コウイチも行（い）きたい。",
+      "english": "If I go there, Koichi wants to go there too."
+    },
+    {
+      "japanese": "⭕️ 私（わたし）が行（い）くなら、コウイチも行（い）きたがると思（おも）う。",
+      "english": "If I go there, I think Koichi wants to come with me."
+    },
+    {
+      "japanese": "❌ 走（はし）るなら先生（せんせい）に怒（おこ）られるよ。",
+      "english": "The teacher will be mad if you run!"
+    },
+    {
+      "japanese": "⭕️ 走（はし）るなら人（ひと）にぶつからないようにしなよ。",
+      "english": "Try not to run into other people if you run."
+    },
+    {
+      "japanese": "私（わたし）があなたならそんなことはしない。",
+      "english": "If I were you, I wouldn't do something like that."
+    },
+    {
+      "japanese": "今日（きょう）が晴（は）れなら、キャンプへ行（い）けたのに。",
+      "english": "If it were sunny today, we could have gone camping."
+    },
+    {
+      "japanese": "私（わたし）が鳥（とり）だったなら、あなたのところへ飛（と）んでいけるのに。",
+      "english": "If I were a bird, I could fly to your place."
+    },
+    {
+      "japanese": "今日（きょう）が金曜日（きんようび）ならなあ。",
+      "english": "I wish today was Friday."
+    },
+    {
+      "japanese": "You: あの、緑（みどり）の帽子（ぼうし）を見（み）ませんでしたか？Man: その帽子（ぼうし）なら、さっき誰（だれ）かが持（も）って行（い）きましたよ。",
+      "english": "You: Excuse me, did you see a green hat?Man: If it's the hat I'm thinking of, someone took it with them a while ago."
+    },
+    {
+      "japanese": "Moe: マミ、仕事（しごと）大変（たいへん）そうだね。大丈夫（だいじょうぶ）かな。Jen: マミなら大丈夫（だいじょうぶ）でしょ。",
+      "english": "Moe: Mami looks busy. Do you think she is okay?Jen: (If it's Mami), she can handle it."
+    },
+    {
+      "japanese": "A: 金曜日（きんようび）出（で）かけない？B: うーん、土曜日（どようび）ならいいよ。",
+      "english": "A: Do you want to go out with me on Friday?B: Well, I'll go if it's Saturday."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Verb",
+        "行（い）く + なら = 行（い）くなら"
+      ],
+      [
+        "Noun",
+        "夏（なつ） + なら = 夏（なつ）なら"
+      ],
+      [
+        "な-adjective",
+        "不安（ふあん） + なら = 不安（ふあん）なら"
+      ],
+      [
+        "い-adjective",
+        "難（むずか）しい + なら = 難（むずか）しいなら"
+      ]
+    ],
+    [
+      [
+        "Verb",
+        "行（い）かない + なら = 行（い）かないなら"
+      ],
+      [
+        "Noun",
+        "夏（なつ）じゃない + なら = 夏（なつ）じゃないなら"
+      ],
+      [
+        "な-adjective",
+        "不安（ふあん）じゃない + なら = 不安（ふあん）じゃないなら"
+      ],
+      [
+        "い-adjective",
+        "難（むずか）しくない + なら = 難（むずか）しくないなら"
+      ]
+    ],
+    [
+      [
+        "Verb",
+        "行（い）った + なら = 行（おこな）ったなら"
+      ],
+      [
+        "Noun",
+        "夏（なつ）だった + なら = 夏（なつ）だったなら"
+      ],
+      [
+        "な-adjective",
+        "不安（ふあん）だった + なら = 不安（ふあん）だったなら"
+      ],
+      [
+        "い-adjective",
+        "難（むずか）しかった + なら = 難（むずか）しかったなら"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is なら?"
+    },
+    {
+      "level": 2,
+      "id": "for-describing-conditions",
+      "text": "なら for Describing Conditions"
+    },
+    {
+      "level": 2,
+      "id": "for-describing-counterfactual-situations",
+      "text": "なら for Describing Counterfactual Situations"
+    },
+    {
+      "level": 2,
+      "id": "verb--for-referring-to-someone-or-something",
+      "text": "Verb なら for Referring to Someone or Something"
+    }
+  ],
+  "id": 120,
+  "slug": "conditional-form-nara",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/conditional-form-nara/",
+  "categories": [
+    "Clause Link",
+    "Conditional",
+    "Particle"
+  ]
+}

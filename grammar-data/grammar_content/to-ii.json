@@ -1,0 +1,155 @@
+{
+  "title": "〜といい",
+  "description": "〜といい expresses a hope or wish — \"I hope ~\" or \"it'd be good if ~.\" The と is the conditional \"if,\" so literally it's \"if ~ happens, that would be good.\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Attach といい to the plain form of a verb or adjective (or だ＋といい for nouns and na-adjectives) to voice a hope. Ending with ですね often expresses a wish you share with the listener or wish on their behalf, like \"I hope it snows for you.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "動詞（どうし）・形容詞（けいようし）（普通形（ふつうけい））＋といい（ですね）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "雪（ゆき）が降（ふ）るといいですね。",
+      "english": "I hope it snows."
+    },
+    {
+      "type": "example",
+      "japanese": "おいしいといいですね。",
+      "english": "I hope it tastes good."
+    },
+    {
+      "type": "example",
+      "japanese": "痛（いた）くないといいです。",
+      "english": "I hope it doesn't hurt."
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にほん）の政府（せいふ）が悪（わる）くならないといいです。",
+      "english": "I hope the Japanese government doesn't get worse."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "self-directed-hope",
+      "text": "〜といいんだけど: Self-Directed Hope"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ending with 〜といいんだけど (or the politer 〜といいんですけど) softens the wish and adds a hint of worry that it might not come true. It's typically a hope about your own situation, trailing off with \"...but I'm not sure.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "動詞（どうし）・形容詞（けいようし）（普通形（ふつうけい））＋といいんだけど",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "できるといいんだけど。",
+      "english": "I hope I can (do it), but we'll see."
+    },
+    {
+      "type": "example",
+      "japanese": "大丈夫（だいじょうぶ）だといいんだけど。",
+      "english": "I hope it's okay, but I'm not sure."
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にほん）に行（い）くとき、僕（ぼく）の日本語（にほんご）が上手（じょうず）だといいんだけど。",
+      "english": "I hope my Japanese is good when I go to Japan, but I'm worried."
+    },
+    {
+      "type": "example",
+      "japanese": "インフルエンザにかからないといいけど。",
+      "english": "I hope I don't catch the flu."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Don't confuse the wishing 〜といい with the advice pattern 〜たらいい／〜ばいい (\"you should / it'd be good to ~\"). 〜といい here is a hope about something outside your control, while 〜たらいい suggests an action someone can take. Also remember to use だ before といい for nouns and na-adjectives: 元気（げんき）だといい, not 元気（げんき）といい."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "動詞（どうし）・形容詞（けいようし）（普通形（ふつうけい））＋といい（ですね）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "雪（ゆき）が降（ふ）るといいですね。",
+      "english": "I hope it snows."
+    },
+    {
+      "japanese": "おいしいといいですね。",
+      "english": "I hope it tastes good."
+    },
+    {
+      "japanese": "痛（いた）くないといいです。",
+      "english": "I hope it doesn't hurt."
+    },
+    {
+      "japanese": "日本（にほん）の政府（せいふ）が悪（わる）くならないといいです。",
+      "english": "I hope the Japanese government doesn't get worse."
+    },
+    {
+      "japanese": "動詞（どうし）・形容詞（けいようし）（普通形（ふつうけい））＋といいんだけど",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "できるといいんだけど。",
+      "english": "I hope I can (do it), but we'll see."
+    },
+    {
+      "japanese": "大丈夫（だいじょうぶ）だといいんだけど。",
+      "english": "I hope it's okay, but I'm not sure."
+    },
+    {
+      "japanese": "日本（にほん）に行（い）くとき、僕（ぼく）の日本語（にほんご）が上手（じょうず）だといいんだけど。",
+      "english": "I hope my Japanese is good when I go to Japan, but I'm worried."
+    },
+    {
+      "japanese": "インフルエンザにかからないといいけど。",
+      "english": "I hope I don't catch the flu."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "self-directed-hope",
+      "text": "〜といいんだけど: Self-Directed Hope"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1033,
+  "slug": "to-ii",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

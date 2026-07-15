@@ -1,0 +1,226 @@
+{
+  "title": "〜ながら (Simultaneous Actions)",
+  "description": "ながら is used to indicate that two actions take place simultaneously. It is similar to \"while\" in English.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is ながら?"
+    },
+    {
+      "type": "paragraph",
+      "text": "ながら is a conjunction, which means that it connects two clauses into a single sentence. Depending on the context, it can be used for contrasting clauses, similar to \"though\" in English. This page will focus on the other use of ながら, which is to indicate that two actions are taking place simultaneously. This use is similar to \"while\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "ながら for simultaneous actions is limited to verbs, since verbs are the type of word that express actions… makes sense, right? To attach ながら to a verb, it needs to be in its stem form ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since we're using ながら for simultaneous actions, the next step is to add another action."
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べながら遊（あそ）ぶ",
+      "english": "While eating, play"
+    },
+    {
+      "type": "paragraph",
+      "text": "There you have it! Now that we see how ながら works as a grammar structure, let's check out how it is used."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "using--for-simultaneous-actions",
+      "text": "Using ながら for Simultaneous Actions"
+    },
+    {
+      "type": "paragraph",
+      "text": "As we stated at the beginning of this page, ながら for simultaneous actions is similar to \"while\" in English. Just like \"while,\" ながら attaches to the action that is considered background information. Let's expand on our example from the previous section to understand what this means:"
+    },
+    {
+      "type": "example",
+      "japanese": "食（た）べながら、友達（ともだち）とマルバツゲームで遊（あそ）んだ。",
+      "english": "While eating, I played tic tac toe with my friend."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, the sentence above is mainly about how I played a game with my friend. The fact that we did it while eating is background information. Both \"while\" and ながら attach to this less important clause."
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, it is perfectly acceptable to move the \"background information\" clause to a different position in the sentence, as in: \"I played tic tac toe with my friend while eating .\" You can do this in Japanese too, but its use is mainly reserved for speaking, or literary writing:"
+    },
+    {
+      "type": "formula",
+      "japanese": "友達（ともだち）とマルバツゲームで遊（あそ）んだ。食（た）べながら。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "友達（ともだち）とマルバツゲームで遊（あそ）んだ。 食（た）べながら 。"
+    },
+    {
+      "type": "paragraph",
+      "text": "This places emphasis on the second part of the sentence. If you decide to move the background information to the end of the sentence, make sure to bring ながら with you. Otherwise you can accidentally change the meaning of the sentence. For example, let's say you want to invite someone out to lunch for a chat. You can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "今度（こんど）、お昼（ひる）を食（た）べながら話（はな）しましょう。",
+      "english": "While having lunch, let's talk sometime."
+    },
+    {
+      "type": "example",
+      "japanese": "今度（こんど）、話（はな）しましょう。食（た）べながら。",
+      "english": "Let's talk while having lunch sometime."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you leave attach ながら to the other action, though, you would accidentally say:"
+    },
+    {
+      "type": "example",
+      "japanese": "今度（こんど）、話（はな）しながら食（た）べましょう。",
+      "english": "Let's eat while talking sometime."
+    },
+    {
+      "type": "paragraph",
+      "text": "This sounds like you'll be talking with you mouth full, which is bad manners if you ask me. Just remember that ながら should only attach to the background information (just like \"while\") and you'll be good to go!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to specific actions that occur simultaneously, you can also use ながら for actions that are actually ongoing states. Let's use an example to clarify what this means:"
+    },
+    {
+      "type": "example",
+      "japanese": "コウイチは働（はたら）きながら勉強（べんきょう）している。",
+      "english": "Koichi studies while working."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like in English, this sentence has two possible meanings. It could refer to specific actions that are occurring right now, as in \"he is currently studying while at work.\" However, it is more likely that this refers to an ongoing state in his life; he is working while also going to school and studying. Which meaning is correct can only be determined by the context."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a final note, we should point out that ながら cannot be used to describe simultaneous actions that are carried out by different people. So the following sentence is ungrammatical:"
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 私（わたし）はテレビを見（み）ながら、姉（あね）は料理（りょうり）をした。",
+      "english": "While I watched TV, my sister cooked."
+    },
+    {
+      "type": "paragraph",
+      "text": "Instead, you would need to use a different grammar structure, such as 間（ま）に, in order to express two actions carried out by different people:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）がテレビを見（み）ている間（ま）に、姉（あね）は料理（りょうり）をした。",
+      "english": "While I was watching TV, my sister cooked."
+    },
+    {
+      "type": "paragraph",
+      "text": "Why don't you take a break while checking out the next grammar point you want to study on our main grammar page ? Just remember to come back and refresh your memory on what you learned here (or automate it some way with SRS )."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "ながら is a conjunction, which means that it connects two clauses into a single sentence. Depending on the context, it can be used for contrasting clauses, similar to \"though\" in English. This page will focus on the other use of ながら, which is to indicate that two actions are taking place simultaneously. This use is similar to \"while\" in English.",
+    "ながら for simultaneous actions is limited to verbs, since verbs are the type of word that express actions… makes sense, right? To attach ながら to a verb, it needs to be in its stem form .",
+    "Since we're using ながら for simultaneous actions, the next step is to add another action.",
+    "There you have it! Now that we see how ながら works as a grammar structure, let's check out how it is used.",
+    "As we stated at the beginning of this page, ながら for simultaneous actions is similar to \"while\" in English. Just like \"while,\" ながら attaches to the action that is considered background information. Let's expand on our example from the previous section to understand what this means:",
+    "As you can see, the sentence above is mainly about how I played a game with my friend. The fact that we did it while eating is background information. Both \"while\" and ながら attach to this less important clause.",
+    "In English, it is perfectly acceptable to move the \"background information\" clause to a different position in the sentence, as in: \"I played tic tac toe with my friend while eating .\" You can do this in Japanese too, but its use is mainly reserved for speaking, or literary writing:",
+    "友達（ともだち）とマルバツゲームで遊（あそ）んだ。 食（た）べながら 。",
+    "This places emphasis on the second part of the sentence. If you decide to move the background information to the end of the sentence, make sure to bring ながら with you. Otherwise you can accidentally change the meaning of the sentence. For example, let's say you want to invite someone out to lunch for a chat. You can say:",
+    "If you leave attach ながら to the other action, though, you would accidentally say:",
+    "This sounds like you'll be talking with you mouth full, which is bad manners if you ask me. Just remember that ながら should only attach to the background information (just like \"while\") and you'll be good to go!",
+    "In addition to specific actions that occur simultaneously, you can also use ながら for actions that are actually ongoing states. Let's use an example to clarify what this means:",
+    "Just like in English, this sentence has two possible meanings. It could refer to specific actions that are occurring right now, as in \"he is currently studying while at work.\" However, it is more likely that this refers to an ongoing state in his life; he is working while also going to school and studying. Which meaning is correct can only be determined by the context.",
+    "As a final note, we should point out that ながら cannot be used to describe simultaneous actions that are carried out by different people. So the following sentence is ungrammatical:",
+    "Instead, you would need to use a different grammar structure, such as 間（ま）に, in order to express two actions carried out by different people:",
+    "Why don't you take a break while checking out the next grammar point you want to study on our main grammar page ? Just remember to come back and refresh your memory on what you learned here (or automate it some way with SRS )."
+  ],
+  "examples": [
+    {
+      "japanese": "食（た）べながら遊（あそ）ぶ",
+      "english": "While eating, play"
+    },
+    {
+      "japanese": "食（た）べながら、友達（ともだち）とマルバツゲームで遊（あそ）んだ。",
+      "english": "While eating, I played tic tac toe with my friend."
+    },
+    {
+      "japanese": "今度（こんど）、お昼（ひる）を食（た）べながら話（はな）しましょう。",
+      "english": "While having lunch, let's talk sometime."
+    },
+    {
+      "japanese": "今度（こんど）、話（はな）しましょう。食（た）べながら。",
+      "english": "Let's talk while having lunch sometime."
+    },
+    {
+      "japanese": "今度（こんど）、話（はな）しながら食（た）べましょう。",
+      "english": "Let's eat while talking sometime."
+    },
+    {
+      "japanese": "コウイチは働（はたら）きながら勉強（べんきょう）している。",
+      "english": "Koichi studies while working."
+    },
+    {
+      "japanese": "❌ 私（わたし）はテレビを見（み）ながら、姉（あね）は料理（りょうり）をした。",
+      "english": "While I watched TV, my sister cooked."
+    },
+    {
+      "japanese": "私（わたし）がテレビを見（み）ている間（ま）に、姉（あね）は料理（りょうり）をした。",
+      "english": "While I was watching TV, my sister cooked."
+    },
+    {
+      "japanese": "友達（ともだち）とマルバツゲームで遊（あそ）んだ。食（た）べながら。",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "what-is-",
+      "text": "What Is ながら?"
+    },
+    {
+      "level": 2,
+      "id": "using--for-simultaneous-actions",
+      "text": "Using ながら for Simultaneous Actions"
+    }
+  ],
+  "id": 71,
+  "slug": "verb-nagara",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-nagara/",
+  "categories": [
+    "Verb Form"
+  ]
+}

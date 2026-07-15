@@ -1,0 +1,472 @@
+{
+  "title": "だった",
+  "description": "だった is a plain form past tense marker, typically used with nouns and な-adjectives.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "だった is a past tense marker for nouns and な-adjectives . It tells us that the word it’s attached to is relevant to the past, kind of like the word “was” in English. So,「先生（せんせい） だった 」means “ was a teacher”, and「 大変（たいへん） だった」means “ was terrible”. In terms of politeness level, だった is associated with the plain form, just like the present tense marker だ ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming だった"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, all past tense markers end in 〜た. だった is formed by taking だ and adding った to the end:"
+    },
+    {
+      "type": "formula",
+      "japanese": "だ + った = だった",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Tada! Now you have だった 👍🏼"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "だった pops up in a couple of different places. You’ll find it at the end of sentences, and in the middle of sentences for a few different reasons."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "at-the-end-of-a-sentence",
+      "text": "At the End of a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "When だった appears at the end of a sentence, it has two roles. As always, it marks the sentence as past tense. Its second role has to do with politeness. In Japanese, the end of a sentence tells us the politeness level. だった is considered to be plain form , making it appropriate for casual speech:"
+    },
+    {
+      "type": "example",
+      "japanese": "締（し）め切（き）りは昨日（きのう）だった。",
+      "english": "The deadline was yesterday."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s say that the 締（し）め切（き）り (deadline) being discussed is for a homework assignment, and this sentence occurred in a conversation between friends. In this case, the casual だった would make perfect sense. However, if this sentence occurred in a business setting, it might be better to switch out だった for the more polite でした ."
+    },
+    {
+      "type": "example",
+      "japanese": "締（し）め切（き）りは昨日（きのう）でした。",
+      "english": "The deadline was yesterday."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-the-middle-of-a-sentence",
+      "text": "In the Middle of a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are a couple reasons you’ll see だった hanging out in the middle of a sentence. It could be helping to modify a noun, or it might be at the end of a clause that is connected to another clause with a conjunction. Don’t be scared by this grammatical language, we will break it down step-by-step in this section."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s begin with when だった helps to modify a noun. The Japanese language makes it very easy to modify a noun. If you put a short sentence ending in だった before a noun, it acts as a descriptor of that noun. Let’s check it out:"
+    },
+    {
+      "type": "example",
+      "japanese": "綺麗（きれい）だった花（はな）",
+      "english": "flowers that were beautiful"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, だった marks the な-adjective 綺麗（きれい） (beautiful) as past tense, and forms a short clause —「綺麗（きれい）だった」. This clause gives us more information about the noun 花（はな） (flowers), that they were beautiful in the past. In English, we generally have to put that kind of information after the noun, as in “the flowers that were beautiful ”. In Japanese however, this comes before the noun — 綺麗（きれい）だった 花（はな）."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let’s stick this into a complete sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "とても綺麗（きれい）だった花（はな）が急（きゅう）に枯（か）れた。",
+      "english": "The flowers, which were so beautiful, suddenly wilted."
+    },
+    {
+      "type": "paragraph",
+      "text": "The other reason why you’ll see だった in the middle of a sentence is if there are two clauses joined together by a conjunction:"
+    },
+    {
+      "type": "example",
+      "japanese": "[A: それは子供（こども）の時（とき）からの夢（ゆめ）だった]–から–[B: 一所懸命（いっしょけんめい）頑張（がんば）りました]。",
+      "english": "Because it was my dream since childhood, I tried my hardest."
+    },
+    {
+      "type": "paragraph",
+      "text": "This sentence has two clauses, and they are connected together by the particle から . から tells us that clause A is the reason for the clause B, similar to the word “because” in English. から is part of a group of conjunctive particles that connect clauses together, such as が and けど ."
+    },
+    {
+      "type": "paragraph",
+      "text": "When だった appears in the middle of a sentence like this, it does not mark the sentence overall as casual sounding. In Japanese, politeness is indicated at the end of the entire sentence. In this case, the 〜ました ending indicates the polite form."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-questions",
+      "text": "だった in Questions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s say you want to ask a question ending in だった You’d add the question particle か , right? While it is possible to do this, you typically would not add particle か, unless you want to add a gruff, masculine nuance to your sentence. Instead, questions with だった are generally asked with rising intonation only."
+    },
+    {
+      "type": "example",
+      "japanese": "宿題（しゅくだい）、大変（たいへん）だった？",
+      "english": "Did you have a hard time with your homework?"
+    },
+    {
+      "type": "example",
+      "japanese": "その漫画（まんが）どうだった？",
+      "english": "How was that comic book?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-the-non-past",
+      "text": "だった for the Non-Past"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, だった is used to refer to things happening in the present, or even the future. In these cases though, the past tense meaning of だった adds a nuance that the information being discussed is something that was known from before the present moment."
+    },
+    {
+      "type": "paragraph",
+      "text": "For instance, だった can be used to express the surprise you feel when you suddenly remember something that you should have remembered:"
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）休（やす）みだった！",
+      "english": "Today is a day off!"
+    },
+    {
+      "type": "paragraph",
+      "text": "A more literal translation of this sentence would actually be “Today was a day off!” This use of the past tense emphasizes that it’s information you knew before, even though you’re talking about something that is currently happening."
+    },
+    {
+      "type": "example",
+      "japanese": "明日（あした）テストだった！",
+      "english": "The exam is tomorrow!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, this sentence could be literally translated as “The exam was tomorrow!” This sounds a bit funny in English, since “tomorrow” indicates the future, yet “was” indicates the past. Just like in the previous sentence, the use of だった highlights that the speaker knew this information before, and that they’ve just only remembered it."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can exploit this emphasis on past knowledge that だった adds to a sentence to ask questions you feel like you should know the answer to. For example, if I want to know my friend’s birthday, I could ask:"
+    },
+    {
+      "type": "example",
+      "japanese": "誕生（たんじょう）日（び）いつだった？",
+      "english": "When was your birthday?"
+    },
+    {
+      "type": "paragraph",
+      "text": "By using だった, I highlight that this is a topic we’ve discussed before. This creates a nuance of closeness between the speaker and listener, since it suggests that we have a shared history. Unlike the previous examples, English uses the past tense in a similar way as Japanese in this case."
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle っけ is often added to this use of だった:"
+    },
+    {
+      "type": "example",
+      "japanese": "誕生（たんじょう）日（び）いつだったっけ？",
+      "english": "When was your birthday?"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Vocabulary"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "締（し）め切（き）り (しめきり) — deadline (noun)"
+        ],
+        [
+          "昨日（きのう） (きのう) — yesterday (noun)"
+        ],
+        [
+          "綺麗（きれい） (きれい) — beautiful (な-adjective)"
+        ],
+        [
+          "花（はな） (はな) — flower (noun)"
+        ],
+        [
+          "急（きゅう）に (きゅうに) — suddenly (adverb)"
+        ],
+        [
+          "枯（か）れた (かれた) — wilted (ichidan verb / past tense)"
+        ],
+        [
+          "子供（こども） (こども) — child (noun)"
+        ],
+        [
+          "時（とき） (とき) — time (noun)"
+        ],
+        [
+          "夢（ゆめ） (ゆめ) — dream (noun)"
+        ],
+        [
+          "一所懸命（いっしょけんめい） (いっしょけんめい) — with all one's might (adverb)"
+        ],
+        [
+          "頑張（がんば）りました (がんばりました) — to persevere (godan verb / polite form / past tense)"
+        ],
+        [
+          "宿題（しゅくだい） (しゅくだい) — homework (noun)"
+        ],
+        [
+          "大変（たいへん） (たいへん) — difficult, terrible (な-adjective)"
+        ],
+        [
+          "漫画（まんが） (まんが) — manga, comic (noun)"
+        ],
+        [
+          "今日（きょう） (きょう) — today (noun)"
+        ],
+        [
+          "休（やす）み (やすみ) — a day off (noun)"
+        ],
+        [
+          "明日（あした） (あした) — tomorrow (noun)"
+        ],
+        [
+          "誕生（たんじょう）日（び） (たんじょうび) — birthday (noun)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "だった is a past tense marker for nouns and な-adjectives . It tells us that the word it’s attached to is relevant to the past, kind of like the word “was” in English. So,「先生（せんせい） だった 」means “ was a teacher”, and「 大変（たいへん） だった」means “ was terrible”. In terms of politeness level, だった is associated with the plain form, just like the present tense marker だ .",
+    "In Japanese, all past tense markers end in 〜た. だった is formed by taking だ and adding った to the end:",
+    "Tada! Now you have だった 👍🏼",
+    "だった pops up in a couple of different places. You’ll find it at the end of sentences, and in the middle of sentences for a few different reasons.",
+    "When だった appears at the end of a sentence, it has two roles. As always, it marks the sentence as past tense. Its second role has to do with politeness. In Japanese, the end of a sentence tells us the politeness level. だった is considered to be plain form , making it appropriate for casual speech:",
+    "Let’s say that the 締（し）め切（き）り (deadline) being discussed is for a homework assignment, and this sentence occurred in a conversation between friends. In this case, the casual だった would make perfect sense. However, if this sentence occurred in a business setting, it might be better to switch out だった for the more polite でした .",
+    "There are a couple reasons you’ll see だった hanging out in the middle of a sentence. It could be helping to modify a noun, or it might be at the end of a clause that is connected to another clause with a conjunction. Don’t be scared by this grammatical language, we will break it down step-by-step in this section.",
+    "Let’s begin with when だった helps to modify a noun. The Japanese language makes it very easy to modify a noun. If you put a short sentence ending in だった before a noun, it acts as a descriptor of that noun. Let’s check it out:",
+    "In this example, だった marks the な-adjective 綺麗（きれい） (beautiful) as past tense, and forms a short clause —「綺麗（きれい）だった」. This clause gives us more information about the noun 花（はな） (flowers), that they were beautiful in the past. In English, we generally have to put that kind of information after the noun, as in “the flowers that were beautiful ”. In Japanese however, this comes before the noun — 綺麗（きれい）だった 花（はな）.",
+    "Now let’s stick this into a complete sentence:",
+    "The other reason why you’ll see だった in the middle of a sentence is if there are two clauses joined together by a conjunction:",
+    "This sentence has two clauses, and they are connected together by the particle から . から tells us that clause A is the reason for the clause B, similar to the word “because” in English. から is part of a group of conjunctive particles that connect clauses together, such as が and けど .",
+    "When だった appears in the middle of a sentence like this, it does not mark the sentence overall as casual sounding. In Japanese, politeness is indicated at the end of the entire sentence. In this case, the 〜ました ending indicates the polite form.",
+    "Let’s say you want to ask a question ending in だった You’d add the question particle か , right? While it is possible to do this, you typically would not add particle か, unless you want to add a gruff, masculine nuance to your sentence. Instead, questions with だった are generally asked with rising intonation only.",
+    "Sometimes, だった is used to refer to things happening in the present, or even the future. In these cases though, the past tense meaning of だった adds a nuance that the information being discussed is something that was known from before the present moment.",
+    "For instance, だった can be used to express the surprise you feel when you suddenly remember something that you should have remembered:",
+    "A more literal translation of this sentence would actually be “Today was a day off!” This use of the past tense emphasizes that it’s information you knew before, even though you’re talking about something that is currently happening.",
+    "Again, this sentence could be literally translated as “The exam was tomorrow!” This sounds a bit funny in English, since “tomorrow” indicates the future, yet “was” indicates the past. Just like in the previous sentence, the use of だった highlights that the speaker knew this information before, and that they’ve just only remembered it.",
+    "You can exploit this emphasis on past knowledge that だった adds to a sentence to ask questions you feel like you should know the answer to. For example, if I want to know my friend’s birthday, I could ask:",
+    "By using だった, I highlight that this is a topic we’ve discussed before. This creates a nuance of closeness between the speaker and listener, since it suggests that we have a shared history. Unlike the previous examples, English uses the past tense in a similar way as Japanese in this case.",
+    "The particle っけ is often added to this use of だった:"
+  ],
+  "examples": [
+    {
+      "japanese": "締（し）め切（き）りは昨日（きのう）だった。",
+      "english": "The deadline was yesterday."
+    },
+    {
+      "japanese": "締（し）め切（き）りは昨日（きのう）でした。",
+      "english": "The deadline was yesterday."
+    },
+    {
+      "japanese": "綺麗（きれい）だった花（はな）",
+      "english": "flowers that were beautiful"
+    },
+    {
+      "japanese": "とても綺麗（きれい）だった花（はな）が急（きゅう）に枯（か）れた。",
+      "english": "The flowers, which were so beautiful, suddenly wilted."
+    },
+    {
+      "japanese": "[A: それは子供（こども）の時（とき）からの夢（ゆめ）だった]–から–[B: 一所懸命（いっしょけんめい）頑張（がんば）りました]。",
+      "english": "Because it was my dream since childhood, I tried my hardest."
+    },
+    {
+      "japanese": "宿題（しゅくだい）、大変（たいへん）だった？",
+      "english": "Did you have a hard time with your homework?"
+    },
+    {
+      "japanese": "その漫画（まんが）どうだった？",
+      "english": "How was that comic book?"
+    },
+    {
+      "japanese": "今日（きょう）休（やす）みだった！",
+      "english": "Today is a day off!"
+    },
+    {
+      "japanese": "明日（あした）テストだった！",
+      "english": "The exam is tomorrow!"
+    },
+    {
+      "japanese": "誕生（たんじょう）日（び）いつだった？",
+      "english": "When was your birthday?"
+    },
+    {
+      "japanese": "誕生（たんじょう）日（び）いつだったっけ？",
+      "english": "When was your birthday?"
+    },
+    {
+      "japanese": "だ + った = だった",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "締（し）め切（き）り (しめきり) — deadline (noun)"
+      ],
+      [
+        "昨日（きのう） (きのう) — yesterday (noun)"
+      ],
+      [
+        "綺麗（きれい） (きれい) — beautiful (な-adjective)"
+      ],
+      [
+        "花（はな） (はな) — flower (noun)"
+      ],
+      [
+        "急（きゅう）に (きゅうに) — suddenly (adverb)"
+      ],
+      [
+        "枯（か）れた (かれた) — wilted (ichidan verb / past tense)"
+      ],
+      [
+        "子供（こども） (こども) — child (noun)"
+      ],
+      [
+        "時（とき） (とき) — time (noun)"
+      ],
+      [
+        "夢（ゆめ） (ゆめ) — dream (noun)"
+      ],
+      [
+        "一所懸命（いっしょけんめい） (いっしょけんめい) — with all one's might (adverb)"
+      ],
+      [
+        "頑張（がんば）りました (がんばりました) — to persevere (godan verb / polite form / past tense)"
+      ],
+      [
+        "宿題（しゅくだい） (しゅくだい) — homework (noun)"
+      ],
+      [
+        "大変（たいへん） (たいへん) — difficult, terrible (な-adjective)"
+      ],
+      [
+        "漫画（まんが） (まんが) — manga, comic (noun)"
+      ],
+      [
+        "今日（きょう） (きょう) — today (noun)"
+      ],
+      [
+        "休（やす）み (やすみ) — a day off (noun)"
+      ],
+      [
+        "明日（あした） (あした) — tomorrow (noun)"
+      ],
+      [
+        "誕生（たんじょう）日（び） (たんじょうび) — birthday (noun)"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming だった"
+    },
+    {
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "at-the-end-of-a-sentence",
+      "text": "At the End of a Sentence"
+    },
+    {
+      "level": 3,
+      "id": "in-the-middle-of-a-sentence",
+      "text": "In the Middle of a Sentence"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "in-questions",
+      "text": "だった in Questions"
+    },
+    {
+      "level": 3,
+      "id": "for-the-non-past",
+      "text": "だった for the Non-Past"
+    }
+  ],
+  "id": 112,
+  "slug": "datta",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/datta/",
+  "categories": [
+    "だ/です"
+  ]
+}

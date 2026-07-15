@@ -1,0 +1,444 @@
+{
+  "title": "Command Form",
+  "description": "Verbs in the command form express strong orders or demands. The form changes depending on the verb type, so learn more, 読（よ）め (read it)！",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The command form is a verb conjugation that changes verbs into commands, orders, and demands. As you can imagine, it is pretty strong and not exactly super polite to use. For softer ways to tell people what to do, you can opt for the verb ending 〜なさい or the て form . If you need to learn how to boss people around though, read on!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-verbs-to-the-command-form",
+      "text": "Conjugating Verbs to the Command Form"
+    },
+    {
+      "type": "paragraph",
+      "text": "The command form conjugates differently depending on the type of verbs you use."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Godan",
+          "会（あ）う → 会（あ）え 立（た）つ → 立（た）て 割（われ）る → 割（わ）れ 書（か）く → 書（しょ）�� 泳（およ）ぐ → 泳（およ）げ 死（し）ぬ → 死（し）ね 遊（あそ）ぶ → 遊（あそ）べ 休（やす）む → 休（やす）め 探（さが）す → 探（さが）せ"
+        ],
+        [
+          "Ichidan",
+          "食（た）べる → 食（た）べろ 起（お）きる → 起（お）きろ 閉（と）じる → 閉（と）じろ"
+        ],
+        [
+          "Irregular",
+          "来（く）る（く ） → 来（こ）い（こ ） する → しろ くれる → くれ"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "For godan verbs , take a look at the ending of the verb in plain form, which always ends in hiragana from the う-line, like 会（あ） う and 行（い） く . Then switch that う-line hiragana to its equivalent from the え-line."
+    },
+    {
+      "type": "formula",
+      "japanese": "会（あ）う + え = 会（あ）え 立（た）つ + て = 立（だ）て",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "会（あ） う + え = 会（あ） え 立（た） つ + て = 立（た） て"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "For ichidan verbs , you simply remove the 〜る from the plain form verb and add 〜ろ:"
+    },
+    {
+      "type": "formula",
+      "japanese": "食（た）べる + ろ = 食（た）べろ 見（み）る + ろ = 見（み）ろ",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "食（た）べ る + ろ = 食（た）べ ろ 見（み） る + ろ = 見（み） ろ"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "irregular-verbs",
+      "text": "Irregular verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are only three irregular verbs when it comes to the command form. The first two are always irregular, and the whole verb changes, so these just need to be memorized:"
+    },
+    {
+      "type": "formula",
+      "japanese": "来（く）る（く ） → 来（こ）い（こ ） する → しろ",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "来（く）る（く ） → 来（こ）い（こ ） する → しろ"
+    },
+    {
+      "type": "paragraph",
+      "text": "The ichidan verb くれる is also irregular in this form. Instead of becoming くれろ as you might expect, it actually just loses the 〜る ending and becomes くれ in general:"
+    },
+    {
+      "type": "formula",
+      "japanese": "くれる → くれ",
+      "english": ""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "using-the-command-form",
+      "text": "Using the Command Form"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the command form is pretty uh, commanding, it isn't considered super polite. For this reason, it's mostly used in by people in a position of authority to their subordinates. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "ちゃんと黒板（こくばん）見（み）ろ！",
+      "english": "Look straight at the blackboard!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Because teachers are in a higher social standing than students, they can get away with using the command form. Still, due to authoritative undertones of this form, some teachers may avoid using this or limit the use to only when they are upset or angry with a student."
+    },
+    {
+      "type": "paragraph",
+      "text": "The command form is also used in situations where relative social standing is not important. For example, in moments of danger or crisis, your warning message is more important than making sure you don't offend anyone. Imagine you see a grizzly bear barreling towards a group of people. No matter who they are, you can totally scream:"
+    },
+    {
+      "type": "example",
+      "japanese": "熊（くま）だ！逃（に）げろー！",
+      "english": "A bear! Run away!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "By now, we've covered all the must-know info about the command form. Still, there are a few more thing to say about it, so read on if there's still room in your brain."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "softening-the-command-form-with-particles",
+      "text": "Softening the Command Form with Particles"
+    },
+    {
+      "type": "paragraph",
+      "text": "When using the command form in casual conversations, final particles such as よ are often attached to the verb to avoid sounding too aggressive. Imagine your friend is looking at you grinning, for no reason at all, and it's making you very uncomfortable… To put a stop to their weird behavior, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "おい、にやにやするのやめろよ！",
+      "english": "Hey, stop grinning at me like that!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though you're using the command form of the verb やめる (stop) in やめろ, your close relationship with your friend makes this ok, and that particle よ helps to soften the blow a bit too."
+    },
+    {
+      "type": "paragraph",
+      "text": "Ok, so what if they keep on smiling at you? This time, you can put a different ending after the verb: 〜って or 〜ってば."
+    },
+    {
+      "type": "example",
+      "japanese": "やめろって！やめろってば！",
+      "english": "I said \"stop it!\""
+    },
+    {
+      "type": "paragraph",
+      "text": "〜って and 〜ってば indicate that you are repeating the same command, which does a great job of expressing your frustration. Even still, this is less aggressive than やめろ all on its own."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some older or more traditional learning materials will tell you that the command form is a feature of \"male speech,\" and women do not use it. This is total BS though. If you're mad or wanna be a bit aggressive, you should go for it, no matter who you are!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "the-command-form-for-motivation",
+      "text": "The Command Form for Motivation"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though the command form tends to be associated with a tough demeanor, it actually has a very positive use as well: it is commonly used to offer encouragement, such as cheering at a sports game."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine you are a baseball coach. You can encourage the players you are training by saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "自分（じぶん）を信（しん）じろ！",
+      "english": "Believe in yourself!"
+    },
+    {
+      "type": "example",
+      "japanese": "全力（ぜんりょく）でやれ！",
+      "english": "Give it all you've got!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In case you are not familiar with やれ, it is the conjugated form of やる (to do…). Compared to する, やる is less formal. Since やる is a godan verb, you have to change the last -う sound to -え, which creates やれ."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's not only coaches that can use this form for encouragement. Let's say you're at a baseball game in Japan. Just like in any country, you would see people yelling at their favorite team to encourage them."
+    },
+    {
+      "type": "example",
+      "japanese": "気合（きあい）入（い）れろ!",
+      "english": "Pick it up!"
+    },
+    {
+      "type": "example",
+      "japanese": "頑張（がんば）れ！",
+      "english": "Hang in there!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep in mind, this might not be appropriate if you're speaking face-to-face with the athletes. The distance created between you and them when they're on the field though makes this totally acceptable."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "commanding-not-to-do-something",
+      "text": "Commanding NOT To Do Something"
+    },
+    {
+      "type": "paragraph",
+      "text": "To command someone not to do something in Japanese is very easy. Simply add な after the plain form of a verb."
+    },
+    {
+      "type": "example",
+      "japanese": "心配（しんぱい）するな。",
+      "english": "Don't worry about it."
+    },
+    {
+      "type": "paragraph",
+      "text": "One common situation where this form of speech is used is when the speaker has authority or a supervisor role over the listener. For example, a girl might say this to make her younger brother stop crying."
+    },
+    {
+      "type": "example",
+      "japanese": "泣（な）くな！男（おとこ）の子（こ）でしょう！",
+      "english": "Don't cry! You're a boy, aren't you?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Wow sis, get with the times. Boys can cry too!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "The command form is a verb conjugation that changes verbs into commands, orders, and demands. As you can imagine, it is pretty strong and not exactly super polite to use. For softer ways to tell people what to do, you can opt for the verb ending 〜なさい or the て form . If you need to learn how to boss people around though, read on!",
+    "The command form conjugates differently depending on the type of verbs you use.",
+    "For godan verbs , take a look at the ending of the verb in plain form, which always ends in hiragana from the う-line, like 会（あ） う and 行（い） く . Then switch that う-line hiragana to its equivalent from the え-line.",
+    "会（あ） う + え = 会（あ） え 立（た） つ + て = 立（た） て",
+    "For ichidan verbs , you simply remove the 〜る from the plain form verb and add 〜ろ:",
+    "食（た）べ る + ろ = 食（た）べ ろ 見（み） る + ろ = 見（み） ろ",
+    "There are only three irregular verbs when it comes to the command form. The first two are always irregular, and the whole verb changes, so these just need to be memorized:",
+    "来（く）る（く ） → 来（こ）い（こ ） する → しろ",
+    "The ichidan verb くれる is also irregular in this form. Instead of becoming くれろ as you might expect, it actually just loses the 〜る ending and becomes くれ in general:",
+    "Since the command form is pretty uh, commanding, it isn't considered super polite. For this reason, it's mostly used in by people in a position of authority to their subordinates. For example:",
+    "Because teachers are in a higher social standing than students, they can get away with using the command form. Still, due to authoritative undertones of this form, some teachers may avoid using this or limit the use to only when they are upset or angry with a student.",
+    "The command form is also used in situations where relative social standing is not important. For example, in moments of danger or crisis, your warning message is more important than making sure you don't offend anyone. Imagine you see a grizzly bear barreling towards a group of people. No matter who they are, you can totally scream:",
+    "By now, we've covered all the must-know info about the command form. Still, there are a few more thing to say about it, so read on if there's still room in your brain.",
+    "When using the command form in casual conversations, final particles such as よ are often attached to the verb to avoid sounding too aggressive. Imagine your friend is looking at you grinning, for no reason at all, and it's making you very uncomfortable… To put a stop to their weird behavior, you can say:",
+    "Even though you're using the command form of the verb やめる (stop) in やめろ, your close relationship with your friend makes this ok, and that particle よ helps to soften the blow a bit too.",
+    "Ok, so what if they keep on smiling at you? This time, you can put a different ending after the verb: 〜って or 〜ってば.",
+    "〜って and 〜ってば indicate that you are repeating the same command, which does a great job of expressing your frustration. Even still, this is less aggressive than やめろ all on its own.",
+    "Some older or more traditional learning materials will tell you that the command form is a feature of \"male speech,\" and women do not use it. This is total BS though. If you're mad or wanna be a bit aggressive, you should go for it, no matter who you are!",
+    "Even though the command form tends to be associated with a tough demeanor, it actually has a very positive use as well: it is commonly used to offer encouragement, such as cheering at a sports game.",
+    "Imagine you are a baseball coach. You can encourage the players you are training by saying:",
+    "In case you are not familiar with やれ, it is the conjugated form of やる (to do…). Compared to する, やる is less formal. Since やる is a godan verb, you have to change the last -う sound to -え, which creates やれ.",
+    "It's not only coaches that can use this form for encouragement. Let's say you're at a baseball game in Japan. Just like in any country, you would see people yelling at their favorite team to encourage them.",
+    "Keep in mind, this might not be appropriate if you're speaking face-to-face with the athletes. The distance created between you and them when they're on the field though makes this totally acceptable.",
+    "To command someone not to do something in Japanese is very easy. Simply add な after the plain form of a verb.",
+    "One common situation where this form of speech is used is when the speaker has authority or a supervisor role over the listener. For example, a girl might say this to make her younger brother stop crying.",
+    "Wow sis, get with the times. Boys can cry too!"
+  ],
+  "examples": [
+    {
+      "japanese": "ちゃんと黒板（こくばん）見（み）ろ！",
+      "english": "Look straight at the blackboard!"
+    },
+    {
+      "japanese": "熊（くま）だ！逃（に）げろー！",
+      "english": "A bear! Run away!"
+    },
+    {
+      "japanese": "おい、にやにやするのやめろよ！",
+      "english": "Hey, stop grinning at me like that!"
+    },
+    {
+      "japanese": "やめろって！やめろってば！",
+      "english": "I said \"stop it!\""
+    },
+    {
+      "japanese": "自分（じぶん）を信（しん）じろ！",
+      "english": "Believe in yourself!"
+    },
+    {
+      "japanese": "全力（ぜんりょく）でやれ！",
+      "english": "Give it all you've got!"
+    },
+    {
+      "japanese": "気合（きあい）入（い）れろ!",
+      "english": "Pick it up!"
+    },
+    {
+      "japanese": "頑張（がんば）れ！",
+      "english": "Hang in there!"
+    },
+    {
+      "japanese": "心配（しんぱい）するな。",
+      "english": "Don't worry about it."
+    },
+    {
+      "japanese": "泣（な）くな！男（おとこ）の子（こ）でしょう！",
+      "english": "Don't cry! You're a boy, aren't you?"
+    },
+    {
+      "japanese": "会（あ）う + え = 会（あ）え 立（た）つ + て = 立（だ）て",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "食（た）べる + ろ = 食（た）べろ 見（み）る + ろ = 見（み）ろ",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "来（く）る（く ） → 来（こ）い（こ ） する → しろ",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "くれる → くれ",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Godan",
+        "会（あ）う → 会（あ）え 立（た）つ → 立（た）て 割（われ）る → 割（わ）れ 書（か）く → 書（しょ）�� 泳（およ）ぐ → 泳（およ）げ 死（し）ぬ → 死（し）ね 遊（あそ）ぶ → 遊（あそ）べ 休（やす）む → 休（やす）め 探（さが）す → 探（さが）せ"
+      ],
+      [
+        "Ichidan",
+        "食（た）べる → 食（た）べろ 起（お）きる → 起（お）きろ 閉（と）じる → 閉（と）じろ"
+      ],
+      [
+        "Irregular",
+        "来（く）る（く ） → 来（こ）い（こ ） する → しろ くれる → くれ"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-verbs-to-the-command-form",
+      "text": "Conjugating Verbs to the Command Form"
+    },
+    {
+      "level": 4,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "level": 4,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "level": 4,
+      "id": "irregular-verbs",
+      "text": "Irregular verbs"
+    },
+    {
+      "level": 3,
+      "id": "using-the-command-form",
+      "text": "Using the Command Form"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "softening-the-command-form-with-particles",
+      "text": "Softening the Command Form with Particles"
+    },
+    {
+      "level": 3,
+      "id": "the-command-form-for-motivation",
+      "text": "The Command Form for Motivation"
+    },
+    {
+      "level": 3,
+      "id": "commanding-not-to-do-something",
+      "text": "Commanding NOT To Do Something"
+    }
+  ],
+  "id": 5,
+  "slug": "verb-command-form-ro",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-command-form-ro/",
+  "categories": [
+    "Verb Form"
+  ]
+}

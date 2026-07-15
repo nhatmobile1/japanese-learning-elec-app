@@ -1,0 +1,157 @@
+{
+  "title": "〜ようになる・〜ようにする",
+  "description": "〜ようになる marks a change — coming to a point where something is possible or habitual (\"came to be able to\"). 〜ようにする is about deliberate effort — making sure something happens (\"try to / make a point of\"). A bare verb ＋ ように also means \"so that.\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "Change: 〜ようになる"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dictionary or potential form plus ようになる describes reaching a new state — often a new ability or a habit that developed over time. It's the go-to way to say \"came to be able to\" or \"started to (regularly).\""
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb （dictionary / potential）＋ ようになる",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "毎日（まいにち）練習（れんしゅう）して、ようやく弾（ひ）けるようになった。",
+      "english": "After practicing every day, I finally became able to play it."
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）が話（はな）せるようになりたい。",
+      "english": "I want to become able to speak Japanese."
+    },
+    {
+      "type": "example",
+      "japanese": "トイレトレーニングのあと、一緒（いっしょ）に寝（ね）るようになりました。",
+      "english": "After potty training, they came to sleep together with us."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "you-ni-suru",
+      "text": "Effort: 〜ようにする"
+    },
+    {
+      "type": "paragraph",
+      "text": "Dictionary or negative form plus ようにする means you make a conscious effort toward something. In its 〜ようにしている form, it describes an ongoing habit you keep up on purpose."
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb （dictionary / negative）＋ ようにする",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "毎日（まいにち）野菜（やさい）を食（た）べるようにしている。",
+      "english": "I make a point of eating vegetables every day."
+    },
+    {
+      "type": "example",
+      "japanese": "朝（あさ）9時（じ）か10時（じ）からのクラスを受（う）けるようにしています。",
+      "english": "I try to take classes that start at 9 or 10 in the morning."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "so-that",
+      "text": "So That (Verb ＋ ように)"
+    },
+    {
+      "type": "paragraph",
+      "text": "A verb (often potential or negative) plus ように on its own means \"so that / in order to\" — it states the purpose of the following action. This usually uses a verb the subject can't fully control, like a potential form."
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb （potential / negative）＋ ように、〜",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "映画（えいが）が分（わ）かるように、アニメを見（み）なきゃいけないですか。",
+      "english": "Do I have to watch anime so that I can understand movies?"
+    },
+    {
+      "type": "example",
+      "japanese": "後（うし）ろの人（ひと）にも聞（き）こえるように、大（おお）きな声（こえ）で話（はな）した。",
+      "english": "I spoke in a loud voice so the people in back could hear too."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "Verb （dictionary / potential）＋ ようになる",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "毎日（まいにち）練習（れんしゅう）して、ようやく弾（ひ）けるようになった。",
+      "english": "After practicing every day, I finally became able to play it."
+    },
+    {
+      "japanese": "日本語（にほんご）が話（はな）せるようになりたい。",
+      "english": "I want to become able to speak Japanese."
+    },
+    {
+      "japanese": "トイレトレーニングのあと、一緒（いっしょ）に寝（ね）るようになりました。",
+      "english": "After potty training, they came to sleep together with us."
+    },
+    {
+      "japanese": "Verb （dictionary / negative）＋ ようにする",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "毎日（まいにち）野菜（やさい）を食（た）べるようにしている。",
+      "english": "I make a point of eating vegetables every day."
+    },
+    {
+      "japanese": "朝（あさ）9時（じ）か10時（じ）からのクラスを受（う）けるようにしています。",
+      "english": "I try to take classes that start at 9 or 10 in the morning."
+    },
+    {
+      "japanese": "Verb （potential / negative）＋ ように、〜",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "映画（えいが）が分（わ）かるように、アニメを見（み）なきゃいけないですか。",
+      "english": "Do I have to watch anime so that I can understand movies?"
+    },
+    {
+      "japanese": "後（うし）ろの人（ひと）にも聞（き）こえるように、大（おお）きな声（こえ）で話（はな）した。",
+      "english": "I spoke in a loud voice so the people in back could hear too."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "Change: 〜ようになる"
+    },
+    {
+      "level": 2,
+      "id": "you-ni-suru",
+      "text": "Effort: 〜ようにする"
+    },
+    {
+      "level": 2,
+      "id": "so-that",
+      "text": "So That (Verb ＋ ように)"
+    }
+  ],
+  "id": 1022,
+  "slug": "you-ni-naru",
+  "categories": [
+    "Verb Form",
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

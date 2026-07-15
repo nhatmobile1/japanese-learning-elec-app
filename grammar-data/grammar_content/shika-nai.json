@@ -1,0 +1,146 @@
+{
+  "title": "しか〜ない",
+  "description": "しか is a particle meaning \"only\" that must be paired with a negative verb. しか〜ない limits something to a single option and carries the nuance that it isn't much or isn't enough.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "しか replaces particles like は, が, or を and always takes a negative predicate. Literally it means \"nothing but ~,\" so the negative is required: 食（しょく）パンしか食（た）べません means \"I eat only shokupan\" (I don't eat anything else). It often implies the amount is small or insufficient."
+    },
+    {
+      "type": "formula",
+      "japanese": "名詞（めいし）＋しか＋動詞（どうし）（否定形（ひていけい））",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "食（しょく）パンしか食（た）べません。",
+      "english": "I only eat shokupan (white bread)."
+    },
+    {
+      "type": "example",
+      "japanese": "現金（げんきん）とペイペイしか使（つか）えませんでした。",
+      "english": "I could only use cash and PayPay."
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にほん）に一週間（いっしゅうかん）しかいませんでした。",
+      "english": "I was in Japan for only one week."
+    },
+    {
+      "type": "example",
+      "japanese": "一回（いっかい）しか行（い）ったことがありません。",
+      "english": "I've only been there once."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "shika-nai-idiom",
+      "text": "動詞（辞書形）＋しかない: No Choice But To"
+    },
+    {
+      "type": "paragraph",
+      "text": "When しかない follows a dictionary-form verb, it means \"there is no choice but to ~.\" Here ない is the negative of ある (\"there isn't any other option\")."
+    },
+    {
+      "type": "formula",
+      "japanese": "動詞（どうし）（辞書形（じしょけい））＋しかない",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "食（しょく）パンを食（た）べたかったら、自分（じぶん）で作（つく）るしかないです。",
+      "english": "If I want to eat shokupan, I have no choice but to make it myself."
+    },
+    {
+      "type": "example",
+      "japanese": "森（もり）に行（い）くしかない。",
+      "english": "There's no choice but to go to the forest."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes: しか vs だけ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Both だけ and しか mean \"only,\" but they behave differently. だけ takes an affirmative verb and is neutral (\"just this\"): パンだけ食（た）べます — \"I eat just bread.\" しか requires a negative verb and adds a \"nothing more / not enough\" feeling: パンしか食（た）べません — \"I eat nothing but bread.\" A common beginner error is pairing しか with an affirmative verb; it must be negative. For extra emphasis you can even combine them as だけしか."
+    },
+    {
+      "type": "example",
+      "japanese": "十分（じゅっぷん）だけしか散歩（さんぽ）できません。",
+      "english": "I can only walk for a mere ten minutes."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "名詞（めいし）＋しか＋動詞（どうし）（否定形（ひていけい））",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "食（しょく）パンしか食（た）べません。",
+      "english": "I only eat shokupan (white bread)."
+    },
+    {
+      "japanese": "現金（げんきん）とペイペイしか使（つか）えませんでした。",
+      "english": "I could only use cash and PayPay."
+    },
+    {
+      "japanese": "日本（にほん）に一週間（いっしゅうかん）しかいませんでした。",
+      "english": "I was in Japan for only one week."
+    },
+    {
+      "japanese": "一回（いっかい）しか行（い）ったことがありません。",
+      "english": "I've only been there once."
+    },
+    {
+      "japanese": "動詞（どうし）（辞書形（じしょけい））＋しかない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "食（しょく）パンを食（た）べたかったら、自分（じぶん）で作（つく）るしかないです。",
+      "english": "If I want to eat shokupan, I have no choice but to make it myself."
+    },
+    {
+      "japanese": "森（もり）に行（い）くしかない。",
+      "english": "There's no choice but to go to the forest."
+    },
+    {
+      "japanese": "十分（じゅっぷん）だけしか散歩（さんぽ）できません。",
+      "english": "I can only walk for a mere ten minutes."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "shika-nai-idiom",
+      "text": "動詞（辞書形）＋しかない: No Choice But To"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes: しか vs だけ"
+    }
+  ],
+  "id": 1030,
+  "slug": "shika-nai",
+  "categories": [
+    "Particle"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

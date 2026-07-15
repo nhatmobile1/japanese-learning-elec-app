@@ -1,0 +1,431 @@
+{
+  "title": "Plural Suffixes",
+  "description": "Plural suffixes attach to the end of nouns to indicate that they are plural.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, nouns and pronouns have plural forms, like \"cats,\" \"mice,\" \"we,\" and \"they.\" In Japanese, however, nouns typically don't change at all depending on whether they are singular or plural. Nevertheless, there are ways to make it clear that a noun is plural, and one of these ways is to use a suffix. Plural suffixes are most commonly used with human nouns, especially personal pronouns . These suffixes allow you to refer to someone plus the people associated with them, or \"someone et al.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, to say \"we\" in Japanese, we add a plural suffix to a first-person pronoun. First-person pronouns are those that refer to \"me\" or \"I.\" So if you want to pluralize the Japanese first-person pronoun 私（わたし） , you simply attach a plural suffix to it. There are multiple first-person pronouns in Japanese, and there's a variety of plural suffixes too. The most common one is 達（たち）. So to say \"we\" in Japanese, you can combine 私（わたし） and 〜達（たち） and say 私達（わたしたち）. Easy peasy Japanesey, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, let's take a look at 私（わたし） and 私（わたし）達（たち） in action. At a restaurant, your server asks about your food restrictions. If you are simply saying that you are vegetarian, you can use 私（わたし） and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）はベジタリアンです。",
+      "english": "I am vegetarian."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if both you and the rest of your party are vegetarian, you'd use 私（わたし）達（たち） instead:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）達（たち）はベジタリアンです。",
+      "english": "We are vegetarian."
+    },
+    {
+      "type": "paragraph",
+      "text": "Are you getting the hang of it? Plural suffixes are pretty convenient because you can use them with most words that represent people, not just with pronouns. For example, you can refer to Jenny and her friends (or simply the people she's with) by saying ジェニー達（たち）. It also might help to think of 〜達（たち） as the equivalent of et al. , which means \"and others\" in Latin."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-plural-suffixes-for-people",
+      "text": "Common Plural Suffixes for People"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are four suffixes that we use mainly for people: 〜方（かた） (がた), 〜達（たち） (たち), 〜等（ら）(ら) and 供（ども） (ども). They have differences in nuances, level of politeness, and what they can pluralize. Certain suffixes co-occur with some words better than others. This is especially true when combining plural suffixes with personal pronouns , which also carry different levels of formality. Now, let's take a look at each of the common plural suffixes!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section",
+      "text": "〜方 (がた)"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜方（かた） is a plural suffix with a polite feel. This honorific feeling means that its use is limited to when you're speaking about others. You don't use it when you want to say \"we,\" because you don't use politeness markers in reference to yourself in Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll commonly see it attached to a social role noun, like 先生（せんせい） (teacher), to refer to a group of people with that title. Some examples:"
+    },
+    {
+      "type": "formula",
+      "japanese": "先生方（せんせいがた） (teachers) お母（かあ）さん方（かた）（ かあ がた） (mothers) お 医者（いしゃ）さん方（かた）（いしゃ がた） (doctors)",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "先生方（せんせいがた） (teachers) お母（かあ）さん方（かた）（ かあ がた） (mothers) お 医者（いしゃ）さん方（かた）（いしゃ がた） (doctors)"
+    },
+    {
+      "type": "example",
+      "japanese": "先生（せんせい）方（かた）はすぐ来（こ）られます。",
+      "english": "Teachers will be here soon."
+    },
+    {
+      "type": "paragraph",
+      "text": "We don't usually use 〜方（かた） after people's names — a polite name ender like 〜さん combined with 〜達（たち） works best to refer politely to someone and the people they're with. However, 方（かた） is used with the super polite name ender 様（さま） , as in 様方（さまがた） in a totally different situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "Are you familiar with the use of \"care of\" in a mailing address? Often abbreviated as \"c/o\" in English, this is used to mail something to someone at an address that they are not registered at. Like if you want to send something to your mom while she's staying at your grandma's house, you'd send it to your mom \"care of\" your grandma. To do this in Japanese, you'll add 〜様（さま）方（かた） to the end of a person's name."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use 〜方（かた） with the second-person pronoun あなた, to mean something like \"you all.\" However, due to the polite nuance of 〜方（かた）, あなた方（かた） has a more polite feel than the English translation we just gave. It's more like \"you and your companions.\" In any case, this polite feel makes pairing 〜方（かた） with other, less polite second-person pronouns difficult."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section-1",
+      "text": "〜達 (たち)"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜達（たち） is probably the first plural suffix that you'll learn in a Japanese class. It's very common, and pretty neutral in terms of formality. And the best thing about it is that it's super flexible — you can add it to pronouns, people's names, and even non-human things that you want to personify. For example:"
+    },
+    {
+      "type": "formula",
+      "japanese": "私達（わたしたち） (us) ジェニー 達（たち） (Jenny and her companions) 植物達（しょくぶつたち） (the plants)",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "私達（わたしたち） (us) ジェニー 達（たち） (Jenny and her companions) 植物達（しょくぶつたち） (the plants)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Does this last one surprise you? You might say 植物（しょくぶつ）達（たち）（しょ��ぶつたち） if you're one of those people with lots and lots of houseplants that you love like your children. Treat 'em like people, you know? It's common to do this with pets too, so if you have a beloved flock of pet flamingos you can call them フラミンゴ達（たち）. You can even use 〜達（たち） with non-living things, like your favorite stuffed animals, or ぬいぐるみ in Japanese:"
+    },
+    {
+      "type": "example",
+      "japanese": "この可愛（かわい）いぬいぐるみ達（たち）見（み）て！",
+      "english": "Look at these adorable plushies!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite all this flexibility, the third-person pronoun, 彼（かれ） (he) is not commonly combined with 〜達（たち）. Instead, 彼（かれ） favors another plural suffix, ら . So while 彼（かれ）達（たち） is not impossible, 彼（かれ）ら is the more common way to say \"they\" as in the plural form of \"he.\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section-2",
+      "text": "〜等 (ら)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although 〜ら is reasonably neutral and flexible in terms of formality, it's on the casual side compared to 〜達（たち）, and it's often associated with friendliness and/or disrespect. For this reason, it generally isn't used for people who are of a higher social status than us. It's usually written in kana, as in ら, to differentiate it from another reading of the kanji 等（ら）, which is など ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some personal pronouns, including うち, わし, お前（まえ）, てめえ, and 彼（かれ） tend to get paired with 〜ら rather than 〜達（たち）. And the nuance of 〜ら can change depending on the situation and the word it's paired with. For example, with first-person pronouns, 〜ら tends to be used to express the feeling of unity with the people you're including in \"we.\""
+    },
+    {
+      "type": "example",
+      "japanese": "うちらには関係（かんけい）ない。",
+      "english": "It's none of our business."
+    },
+    {
+      "type": "paragraph",
+      "text": "In news reporting, 〜ら is the default suffix to pluralize people."
+    },
+    {
+      "type": "example",
+      "japanese": "田中（たなか）容疑（ようぎ）者（しゃ）らは逃亡（とうぼう）しました。",
+      "english": "The suspect Takana and his associates fled."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use 〜ら to pluralize demonstratives, such as これ (this), それ (that), and あれ (that over there) to say これら (these), それら (those), and あれら (those over there)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The use of 〜ら also has some interesting regional differences. It's used more commonly by male speakers and people living in Kansai, while in Kanto, for instance, 〜達（たち） is overall a preferred suffix. In Kansai, the use of the suffix 〜ら is broader as well — it could be used for non-living things to indicate something and associated stuff."
+    },
+    {
+      "type": "example",
+      "japanese": "ちょっとカバンらみといてくれる？",
+      "english": "Could you keep an eye on my bag and other stuff?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section-3",
+      "text": "〜供 (ども)"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜供（ども） is often used for someone you despise or disrespect. It tends to pair up with expletives such as お前（まえ）, クズ (a cussword meaning \"trash\"), and 負（ま）け犬（いぬ） (loser)."
+    },
+    {
+      "type": "example",
+      "japanese": "負（ま）け犬（いぬ）どもに指図（さしず）されたくない。",
+      "english": "I don't want losers to tell me what to do."
+    },
+    {
+      "type": "paragraph",
+      "text": "When used in reference to you and your group to say \"us,\" though, it expresses modesty. For example, it's perfectly appropriate to pair 私（わたし） up with 〜供（ども） in formal situations."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）どもにお任（まか）せください。",
+      "english": "Please leave it to us."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section-4",
+      "text": "諸〜 (しょ)"
+    },
+    {
+      "type": "paragraph",
+      "text": "諸（しょ）〜 is a prefix (that is, it comes before a word), which you can use to make nouns plural. The meaning that 諸（しょ）〜 adds is somewhat similar to adjectives like 色々（いろいろ）（いろいろ）な or 様々（さまざま）（さまざま）な, meaning \"various.\" It's a prefix with some formality — you're likely to run into it in the news or in academic papers."
+    },
+    {
+      "type": "example",
+      "japanese": "アボカドの語源（ごげん）に関（かん）しては諸説（しょせつ）ある。",
+      "english": "There are various theories about the origin of the word \"avocado.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "諸（しょ）〜 is also often used for a group of something. For example, the islands of Hawaii are called ハワイ 諸島（しょとう）, and countries of Asia are アジア 諸国（しょこく）. 諸（しょ）〜 usually gets paired with words that use the on'yomi of the kanji, as these also carry more formality."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "difference-from------",
+      "text": "Difference from 〜等 (など) / 〜とか / 〜やら"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are a few more pluralizers, namely など, とか and やら, that indicate that we're talking about more than one thing. However, they're a bit different from the plural suffixes we introduced earlier. That's because they're tools to showcase an example, or examples, rather than pluralize nouns."
+    },
+    {
+      "type": "example",
+      "japanese": "そのパーティーには弁護士（べんごし）などが来（き）ました。",
+      "english": "People like lawyers came to the party."
+    },
+    {
+      "type": "paragraph",
+      "text": "By saying 弁護士（べんごし）など, it implies that there are other professionals besides lawyers."
+    },
+    {
+      "type": "example",
+      "japanese": "そのパーティーには弁護士（べんごし）たちが来（き）ました。",
+      "english": "Lawyers came to the party."
+    },
+    {
+      "type": "paragraph",
+      "text": "弁護士（べんごし）たち on the other hand, would usually mean just lawyers (the plural form of a lawyer). Though it could include non-lawyers, such as other kinds of professionals, the focus is still on the lawyers."
+    },
+    {
+      "type": "paragraph",
+      "text": "Unlike pluralizing suffixes, these words are commonly used for non-human things too. For example, you can use it to give an idea of what kind of veggies you're growing:"
+    },
+    {
+      "type": "example",
+      "japanese": "今年（ことし）は、バジルやトマトとかを育（そだ）ててる。",
+      "english": "This year, I am growing stuff like basil and tomatoes."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Kansai area, やら is commonly used to give the same meaning:"
+    },
+    {
+      "type": "example",
+      "japanese": "今年（ことし）は、バジルやらトマトやらを育（そだ）ててんねん。",
+      "english": "This year, I am growing stuff like basil and tomatoes."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "In English, nouns and pronouns have plural forms, like \"cats,\" \"mice,\" \"we,\" and \"they.\" In Japanese, however, nouns typically don't change at all depending on whether they are singular or plural. Nevertheless, there are ways to make it clear that a noun is plural, and one of these ways is to use a suffix. Plural suffixes are most commonly used with human nouns, especially personal pronouns . These suffixes allow you to refer to someone plus the people associated with them, or \"someone et al.\"",
+    "For example, to say \"we\" in Japanese, we add a plural suffix to a first-person pronoun. First-person pronouns are those that refer to \"me\" or \"I.\" So if you want to pluralize the Japanese first-person pronoun 私（わたし） , you simply attach a plural suffix to it. There are multiple first-person pronouns in Japanese, and there's a variety of plural suffixes too. The most common one is 達（たち）. So to say \"we\" in Japanese, you can combine 私（わたし） and 〜達（たち） and say 私達（わたしたち）. Easy peasy Japanesey, right?",
+    "Now, let's take a look at 私（わたし） and 私（わたし）達（たち） in action. At a restaurant, your server asks about your food restrictions. If you are simply saying that you are vegetarian, you can use 私（わたし） and say:",
+    "However, if both you and the rest of your party are vegetarian, you'd use 私（わたし）達（たち） instead:",
+    "Are you getting the hang of it? Plural suffixes are pretty convenient because you can use them with most words that represent people, not just with pronouns. For example, you can refer to Jenny and her friends (or simply the people she's with) by saying ジェニー達（たち）. It also might help to think of 〜達（たち） as the equivalent of et al. , which means \"and others\" in Latin.",
+    "There are four suffixes that we use mainly for people: 〜方（かた） (がた), 〜達（たち） (たち), 〜等（ら）(ら) and 供（ども） (ども). They have differences in nuances, level of politeness, and what they can pluralize. Certain suffixes co-occur with some words better than others. This is especially true when combining plural suffixes with personal pronouns , which also carry different levels of formality. Now, let's take a look at each of the common plural suffixes!",
+    "〜方（かた） is a plural suffix with a polite feel. This honorific feeling means that its use is limited to when you're speaking about others. You don't use it when you want to say \"we,\" because you don't use politeness markers in reference to yourself in Japanese.",
+    "You'll commonly see it attached to a social role noun, like 先生（せんせい） (teacher), to refer to a group of people with that title. Some examples:",
+    "先生方（せんせいがた） (teachers) お母（かあ）さん方（かた）（ かあ がた） (mothers) お 医者（いしゃ）さん方（かた）（いしゃ がた） (doctors)",
+    "We don't usually use 〜方（かた） after people's names — a polite name ender like 〜さん combined with 〜達（たち） works best to refer politely to someone and the people they're with. However, 方（かた） is used with the super polite name ender 様（さま） , as in 様方（さまがた） in a totally different situation.",
+    "Are you familiar with the use of \"care of\" in a mailing address? Often abbreviated as \"c/o\" in English, this is used to mail something to someone at an address that they are not registered at. Like if you want to send something to your mom while she's staying at your grandma's house, you'd send it to your mom \"care of\" your grandma. To do this in Japanese, you'll add 〜様（さま）方（かた） to the end of a person's name.",
+    "You can also use 〜方（かた） with the second-person pronoun あなた, to mean something like \"you all.\" However, due to the polite nuance of 〜方（かた）, あなた方（かた） has a more polite feel than the English translation we just gave. It's more like \"you and your companions.\" In any case, this polite feel makes pairing 〜方（かた） with other, less polite second-person pronouns difficult.",
+    "〜達（たち） is probably the first plural suffix that you'll learn in a Japanese class. It's very common, and pretty neutral in terms of formality. And the best thing about it is that it's super flexible — you can add it to pronouns, people's names, and even non-human things that you want to personify. For example:",
+    "私達（わたしたち） (us) ジェニー 達（たち） (Jenny and her companions) 植物達（しょくぶつたち） (the plants)",
+    "Does this last one surprise you? You might say 植物（しょくぶつ）達（たち）（しょ��ぶつたち） if you're one of those people with lots and lots of houseplants that you love like your children. Treat 'em like people, you know? It's common to do this with pets too, so if you have a beloved flock of pet flamingos you can call them フラミンゴ達（たち）. You can even use 〜達（たち） with non-living things, like your favorite stuffed animals, or ぬいぐるみ in Japanese:",
+    "Despite all this flexibility, the third-person pronoun, 彼（かれ） (he) is not commonly combined with 〜達（たち）. Instead, 彼（かれ） favors another plural suffix, ら . So while 彼（かれ）達（たち） is not impossible, 彼（かれ）ら is the more common way to say \"they\" as in the plural form of \"he.\"",
+    "Although 〜ら is reasonably neutral and flexible in terms of formality, it's on the casual side compared to 〜達（たち）, and it's often associated with friendliness and/or disrespect. For this reason, it generally isn't used for people who are of a higher social status than us. It's usually written in kana, as in ら, to differentiate it from another reading of the kanji 等（ら）, which is など .",
+    "Some personal pronouns, including うち, わし, お前（まえ）, てめえ, and 彼（かれ） tend to get paired with 〜ら rather than 〜達（たち）. And the nuance of 〜ら can change depending on the situation and the word it's paired with. For example, with first-person pronouns, 〜ら tends to be used to express the feeling of unity with the people you're including in \"we.\"",
+    "In news reporting, 〜ら is the default suffix to pluralize people.",
+    "You can also use 〜ら to pluralize demonstratives, such as これ (this), それ (that), and あれ (that over there) to say これら (these), それら (those), and あれら (those over there).",
+    "The use of 〜ら also has some interesting regional differences. It's used more commonly by male speakers and people living in Kansai, while in Kanto, for instance, 〜達（たち） is overall a preferred suffix. In Kansai, the use of the suffix 〜ら is broader as well — it could be used for non-living things to indicate something and associated stuff.",
+    "〜供（ども） is often used for someone you despise or disrespect. It tends to pair up with expletives such as お前（まえ）, クズ (a cussword meaning \"trash\"), and 負（ま）け犬（いぬ） (loser).",
+    "When used in reference to you and your group to say \"us,\" though, it expresses modesty. For example, it's perfectly appropriate to pair 私（わたし） up with 〜供（ども） in formal situations.",
+    "諸（しょ）〜 is a prefix (that is, it comes before a word), which you can use to make nouns plural. The meaning that 諸（しょ）〜 adds is somewhat similar to adjectives like 色々（いろいろ）（いろいろ）な or 様々（さまざま）（さまざま）な, meaning \"various.\" It's a prefix with some formality — you're likely to run into it in the news or in academic papers.",
+    "諸（しょ）〜 is also often used for a group of something. For example, the islands of Hawaii are called ハワイ 諸島（しょとう）, and countries of Asia are アジア 諸国（しょこく）. 諸（しょ）〜 usually gets paired with words that use the on'yomi of the kanji, as these also carry more formality.",
+    "There are a few more pluralizers, namely など, とか and やら, that indicate that we're talking about more than one thing. However, they're a bit different from the plural suffixes we introduced earlier. That's because they're tools to showcase an example, or examples, rather than pluralize nouns.",
+    "By saying 弁護士（べんごし）など, it implies that there are other professionals besides lawyers.",
+    "弁護士（べんごし）たち on the other hand, would usually mean just lawyers (the plural form of a lawyer). Though it could include non-lawyers, such as other kinds of professionals, the focus is still on the lawyers.",
+    "Unlike pluralizing suffixes, these words are commonly used for non-human things too. For example, you can use it to give an idea of what kind of veggies you're growing:",
+    "In the Kansai area, やら is commonly used to give the same meaning:"
+  ],
+  "examples": [
+    {
+      "japanese": "私（わたし）はベジタリアンです。",
+      "english": "I am vegetarian."
+    },
+    {
+      "japanese": "私（わたし）達（たち）はベジタリアンです。",
+      "english": "We are vegetarian."
+    },
+    {
+      "japanese": "先生（せんせい）方（かた）はすぐ来（こ）られます。",
+      "english": "Teachers will be here soon."
+    },
+    {
+      "japanese": "この可愛（かわい）いぬいぐるみ達（たち）見（み）て！",
+      "english": "Look at these adorable plushies!"
+    },
+    {
+      "japanese": "うちらには関係（かんけい）ない。",
+      "english": "It's none of our business."
+    },
+    {
+      "japanese": "田中（たなか）容疑（ようぎ）者（しゃ）らは逃亡（とうぼう）しました。",
+      "english": "The suspect Takana and his associates fled."
+    },
+    {
+      "japanese": "ちょっとカバンらみといてくれる？",
+      "english": "Could you keep an eye on my bag and other stuff?"
+    },
+    {
+      "japanese": "負（ま）け犬（いぬ）どもに指図（さしず）されたくない。",
+      "english": "I don't want losers to tell me what to do."
+    },
+    {
+      "japanese": "私（わたし）どもにお任（まか）せください。",
+      "english": "Please leave it to us."
+    },
+    {
+      "japanese": "アボカドの語源（ごげん）に関（かん）しては諸説（しょせつ）ある。",
+      "english": "There are various theories about the origin of the word \"avocado.\""
+    },
+    {
+      "japanese": "そのパーティーには弁護士（べんごし）などが来（き）ました。",
+      "english": "People like lawyers came to the party."
+    },
+    {
+      "japanese": "そのパーティーには弁護士（べんごし）たちが来（き）ました。",
+      "english": "Lawyers came to the party."
+    },
+    {
+      "japanese": "今年（ことし）は、バジルやトマトとかを育（そだ）ててる。",
+      "english": "This year, I am growing stuff like basil and tomatoes."
+    },
+    {
+      "japanese": "今年（ことし）は、バジルやらトマトやらを育（そだ）ててんねん。",
+      "english": "This year, I am growing stuff like basil and tomatoes."
+    },
+    {
+      "japanese": "先生方（せんせいがた） (teachers) お母（かあ）さん方（かた）（ かあ がた） (mothers) お 医者（いしゃ）さん方（かた）（いしゃ がた） (doctors)",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "私達（わたしたち） (us) ジェニー 達（たち） (Jenny and her companions) 植物達（しょくぶつたち） (the plants)",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "common-plural-suffixes-for-people",
+      "text": "Common Plural Suffixes for People"
+    },
+    {
+      "level": 3,
+      "id": "section",
+      "text": "〜方 (がた)"
+    },
+    {
+      "level": 3,
+      "id": "section-1",
+      "text": "〜達 (たち)"
+    },
+    {
+      "level": 3,
+      "id": "section-2",
+      "text": "〜等 (ら)"
+    },
+    {
+      "level": 3,
+      "id": "section-3",
+      "text": "〜供 (ども)"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "section-4",
+      "text": "諸〜 (しょ)"
+    },
+    {
+      "level": 3,
+      "id": "difference-from------",
+      "text": "Difference from 〜等 (など) / 〜とか / 〜やら"
+    }
+  ],
+  "id": 36,
+  "slug": "plural-suffix",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/plural-suffix/",
+  "categories": [
+    "Plurality"
+  ]
+}

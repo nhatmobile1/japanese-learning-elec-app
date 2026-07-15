@@ -1,0 +1,241 @@
+{
+  "title": "〜なさい (Polite, Command)",
+  "description": "〜なさい is a suffix that is used to make polite commands or directions. While polite, it still implies a sense of authority.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "what-is-the-polite-imperative-form-",
+      "text": "What Is the Polite Imperative Form なさい?"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜なさい is the politer of two ways to form a command in Japanese. The other way is the command form . Before learning how to use 〜なさい, let's review how to formulate conjugate verbs to take the 〜なさい ending."
+    },
+    {
+      "type": "paragraph",
+      "text": "To connect 〜なさい to a verb, you'll need to use the stem form of the verb. So depending on the type of verb you use, the conjugation will be a little different."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Ichidan",
+          "見（み）る + なさい = 見（み）なさい食（た）べる + なさい = 食（た）べなさい"
+        ],
+        [
+          "Godan",
+          "会（あ）う + い + なさい = 会（あ）いなさい書（か）く + き + なさい = 書（か）きなさい"
+        ],
+        [
+          "Irregular",
+          "する = しなさい 来（く）る（く ） = 来（き）なさい（き ）"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-polite-commands",
+      "text": "なさい for Polite Commands"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though 〜なさい is the polite imperative form, you might want to avoid using it with your boss, teacher, or anyone who is in a higher social standing than you. This is because 〜なさい expresses a command or order. You should request or ask rather than command when dealing with someone who is older than you, or your superior in some way. Using other verb forms such as 〜てください (please do…) or 〜てくれませんか (can you do…) should do the trick."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, when asking your senpai to teach something to you, it's rude to say:"
+    },
+    {
+      "type": "example",
+      "japanese": "先輩（せんぱい）、書類（しょるい）の書（か）き方（かた）を教（おし）えなさい。",
+      "english": "Senpai, teach me how to write the document for work."
+    },
+    {
+      "type": "paragraph",
+      "text": "Instead, you should say something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "先輩（せんぱい）、書類（しょるい）の書（か）き方（かた）を教（おし）えてくれませんか。",
+      "english": "Senpai, can you teach me how to write the document for work?"
+    },
+    {
+      "type": "paragraph",
+      "text": "As 〜なさい indicates that the speaker has authority over the listener, it's pretty common in parent-child relationships. For example, you might hear a mother trying to stop their kids from speaking loudly in a restaurant by saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "ちょっと、静（しず）かにしなさい！",
+      "english": "Hey, be quiet!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition, 〜なさい is commonly used in questions on exams. If you have taken Japanese tests before, you have probably seen 〜なさい more than a couple of times."
+    },
+    {
+      "type": "example",
+      "japanese": "選択肢（せんたくし）の中（なか）なら、正解（せいかい）を一（ひと）つ選（えら）びなさい。",
+      "english": "Choose the correct answer from the given choices."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "for-showing-care",
+      "text": "なさい for Showing Care"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since 〜なさい is often used by caretakers, such as mothers and teachers, it can express a warm feeling when used in conversation between those who have close relationships."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's say you're having lunch with your friend, and she drops a slice of bacon from her sandwich. She picks it up and is about to pop it into her mouth. You're a bit of a germaphobe, and since you care about your friend, you quickly say:"
+    },
+    {
+      "type": "example",
+      "japanese": "やめなさい！",
+      "english": "Stop it!"
+    },
+    {
+      "type": "paragraph",
+      "text": "The use of this form here gives you a caregiver-like tone, and reinforces your tender feelings for your friend. In fact, this is why some Japanese greetings have 〜なさい built into them."
+    },
+    {
+      "type": "example",
+      "japanese": "おやすみなさい。",
+      "english": "Good night."
+    },
+    {
+      "type": "paragraph",
+      "text": "おやすみ is the polite imperative form of the verb 休（やす）む (to rest)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to commands, 〜なさい can be used to make a suggestion. In this use, rising intonation helps to avoid sounding too pushy."
+    },
+    {
+      "type": "example",
+      "japanese": "遠慮（えんりょ）しないで、たくさん食（た）べなさい。",
+      "english": "Don't be so polite, eat more!"
+    },
+    {
+      "type": "paragraph",
+      "text": "You made it through the ins and outs of 〜なさい! そろそろ休憩（きゅうけい）しなさいよ〜 (It's time for you to take a break!)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜なさい is the politer of two ways to form a command in Japanese. The other way is the command form . Before learning how to use 〜なさい, let's review how to formulate conjugate verbs to take the 〜なさい ending.",
+    "To connect 〜なさい to a verb, you'll need to use the stem form of the verb. So depending on the type of verb you use, the conjugation will be a little different.",
+    "Even though 〜なさい is the polite imperative form, you might want to avoid using it with your boss, teacher, or anyone who is in a higher social standing than you. This is because 〜なさい expresses a command or order. You should request or ask rather than command when dealing with someone who is older than you, or your superior in some way. Using other verb forms such as 〜てください (please do…) or 〜てくれませんか (can you do…) should do the trick.",
+    "For example, when asking your senpai to teach something to you, it's rude to say:",
+    "Instead, you should say something like:",
+    "As 〜なさい indicates that the speaker has authority over the listener, it's pretty common in parent-child relationships. For example, you might hear a mother trying to stop their kids from speaking loudly in a restaurant by saying:",
+    "In addition, 〜なさい is commonly used in questions on exams. If you have taken Japanese tests before, you have probably seen 〜なさい more than a couple of times.",
+    "Since 〜なさい is often used by caretakers, such as mothers and teachers, it can express a warm feeling when used in conversation between those who have close relationships.",
+    "Let's say you're having lunch with your friend, and she drops a slice of bacon from her sandwich. She picks it up and is about to pop it into her mouth. You're a bit of a germaphobe, and since you care about your friend, you quickly say:",
+    "The use of this form here gives you a caregiver-like tone, and reinforces your tender feelings for your friend. In fact, this is why some Japanese greetings have 〜なさい built into them.",
+    "おやすみ is the polite imperative form of the verb 休（やす）む (to rest).",
+    "In addition to commands, 〜なさい can be used to make a suggestion. In this use, rising intonation helps to avoid sounding too pushy.",
+    "You made it through the ins and outs of 〜なさい! そろそろ休憩（きゅうけい）しなさいよ〜 (It's time for you to take a break!)"
+  ],
+  "examples": [
+    {
+      "japanese": "先輩（せんぱい）、書類（しょるい）の書（か）き方（かた）を教（おし）えなさい。",
+      "english": "Senpai, teach me how to write the document for work."
+    },
+    {
+      "japanese": "先輩（せんぱい）、書類（しょるい）の書（か）き方（かた）を教（おし）えてくれませんか。",
+      "english": "Senpai, can you teach me how to write the document for work?"
+    },
+    {
+      "japanese": "ちょっと、静（しず）かにしなさい！",
+      "english": "Hey, be quiet!"
+    },
+    {
+      "japanese": "選択肢（せんたくし）の中（なか）なら、正解（せいかい）を一（ひと）つ選（えら）びなさい。",
+      "english": "Choose the correct answer from the given choices."
+    },
+    {
+      "japanese": "やめなさい！",
+      "english": "Stop it!"
+    },
+    {
+      "japanese": "おやすみなさい。",
+      "english": "Good night."
+    },
+    {
+      "japanese": "遠慮（えんりょ）しないで、たくさん食（た）べなさい。",
+      "english": "Don't be so polite, eat more!"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Ichidan",
+        "見（み）る + なさい = 見（み）なさい食（た）べる + なさい = 食（た）べなさい"
+      ],
+      [
+        "Godan",
+        "会（あ）う + い + なさい = 会（あ）いなさい書（か）く + き + なさい = 書（か）きなさい"
+      ],
+      [
+        "Irregular",
+        "する = しなさい 来（く）る（く ） = 来（き）なさい（き ）"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "what-is-the-polite-imperative-form-",
+      "text": "What Is the Polite Imperative Form なさい?"
+    },
+    {
+      "level": 2,
+      "id": "for-polite-commands",
+      "text": "なさい for Polite Commands"
+    },
+    {
+      "level": 2,
+      "id": "for-showing-care",
+      "text": "なさい for Showing Care"
+    }
+  ],
+  "id": 72,
+  "slug": "verb-imperative-form-nasai",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-imperative-form-nasai/",
+  "categories": [
+    "Verb Form"
+  ]
+}

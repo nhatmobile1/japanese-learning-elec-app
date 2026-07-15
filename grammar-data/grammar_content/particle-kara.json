@@ -1,0 +1,805 @@
+{
+  "title": "Particle から",
+  "description": "から is a particle that marks the \"source,\" such as a starting point, an origin, or a reason.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "When something is marked by the particle から, it indicates the beginning point of something, or where something is coming from. In its most basic use, から is used to mark the beginning point in space and time paired with the particle まで. So \"from America to Japan\" is アメリカから日本（にっぽん）まで, while \"from nine o'clock to ten o'clock\" is ９時（じ）から１０時（じ）まで."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "source-",
+      "text": "Source から"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle から has many roles, but its fundamental meaning is always to indicate the \"source\" of something. So just like a water source which springs up at the mountaintop and creates a stream, から can mark a beginning point or an origin."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you mark a location with から, it adds the meaning of \"from this place onwards.\" Added with the end point marker, まで , you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここからあそこまで",
+      "english": "from here to over there"
+    },
+    {
+      "type": "paragraph",
+      "text": "When there's no need to clarify an end point, から just marks the starting location. For example, the Japanese \"Keep Out\" sign often says:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここから先（さき）、立入禁止（たちいりきんし）！",
+      "english": "From this place onwards, admittance is prohibited!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, から marks where the 立入禁止（たちいりきんし） (no admittance) area begins — ここ (this place), and 先（さき） is added to emphasize \"onwards.\" The only relevant information here is from which point the keep-out area begins, so まで is not necessary here."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, let's imagine you are very curious about the \"Keep Out\" area, so you decide to find a way in. While inside, you encounter someone who is shaking in horror, pointing at the \"Keep Out\" sign. You ask them what happened, and they say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここからクマが出（で）てきた！",
+      "english": "A bear came out of here!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, から marks ここ (this place) again, but this time it indicates a place from which the bear came out. Just like that, から can also express where something comes or even appears from. This is because its fundamental meaning is the \"source\" of something."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this section, we'll list the basic structure used with the particle から. A more detailed look at its uses will be explained later."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "noun--",
+      "text": "Noun + から"
+    },
+    {
+      "type": "paragraph",
+      "text": "から can follow a noun. In its most basic structure, まで is often used together with から."
+    },
+    {
+      "type": "example",
+      "japanese": "ロサンゼルスからニューヨークまで",
+      "english": "from Los Angeles to New York"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "actionstate--",
+      "text": "Action/State + から"
+    },
+    {
+      "type": "paragraph",
+      "text": "から can follow an action or state when marking a reason."
+    },
+    {
+      "type": "example",
+      "japanese": "赤（あか）ちゃん寝（ね）たから静（しず）かにして。",
+      "english": "The baby fell asleep, so please be quiet."
+    },
+    {
+      "type": "example",
+      "japanese": "暑（あつ）いから眠（ねむ）れない。",
+      "english": "It's hot so I can't sleep."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "form--",
+      "text": "て form + から"
+    },
+    {
+      "type": "paragraph",
+      "text": "から can be attached to the て form when it's expressing sequential actions."
+    },
+    {
+      "type": "example",
+      "japanese": "ハミガキしてから寝（ね）た。",
+      "english": "I went to bed after brushing my teeth."
+    },
+    {
+      "type": "paragraph",
+      "text": "This から can also work like \"since\" when the second part expresses a period of time which has passed."
+    },
+    {
+      "type": "example",
+      "japanese": "ハミガキしてから５分（ふん）がたった。",
+      "english": "Five minutes have passed since brushing my teeth."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "uses-of-",
+      "text": "Uses of から"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-a-beginning-point-in-space",
+      "text": "から for a Beginning Point in Space"
+    },
+    {
+      "type": "paragraph",
+      "text": "You've already learned から can mark a beginning point in space, often being used together with the particle まで. So to say you walked from Los Angeles to New York, you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ロサンゼルスからニューヨークまで歩（ある）いた。",
+      "english": "I walked from Los Angeles to New York."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like that, when から pairs a location with an action, it marks the starting point of the action."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also mark a beginning point with から to indicate where someone or something comes from. So to ask someone where they are from, you can combine it with the question word どこ (where) and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "どこから来（き）たんですか。",
+      "english": "Where did you come from?"
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you are from Los Angeles, you can use から and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ロサンゼルスから来（き）ました。",
+      "english": "I am from Los Angeles."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, から is marking the beginning point of your journey — Los Angeles! Similarly, から can also mark where something comes out of. So if you witness your teacher leaving McDonald's, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "先生（せんせい）がマクドナルドから出（で）てきた。",
+      "english": "The teacher came out of McDonald's."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-a-beginning-point-in-time",
+      "text": "から for a Beginning Point in Time"
+    },
+    {
+      "type": "paragraph",
+      "text": "から can also mark a beginning point in time. For example, if you want to say the meeting starts from eleven o'clock, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "１１時（じ）から会議（かいぎ）が始（はじ）まる。",
+      "english": "The meeting starts from eleven o'clock."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, から can be replaced with the particle に , as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "１１時（じ）に会議（かいぎ）が始（はじ）まる。",
+      "english": "The meeting starts at eleven o'clock."
+    },
+    {
+      "type": "paragraph",
+      "text": "The difference between these two is から expresses the point at which a period of time starts. In other words, から not only indicates that meeting will begin at eleven o'clock but also that it continues into the future. On the other hand, に simply designates the point in time at which the meeting will start without any further implications."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because of this nuance difference, に cannot be substituted for から when marking the beginning point of a continuous action. For example, imagine you've been wanting to start working out and decide today is the day. In this case, you would say:"
+    },
+    {
+      "type": "example",
+      "japanese": "今日（きょう）から筋（すじ）トレする！",
+      "english": "I'll start working out today!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, you can only use から and not に because you are marking the beginning point of a continuous action. You want to build a good workout routine and today is the day you wish to start from, so から is the particle you are looking for!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-the-original-state-in-a-transition",
+      "text": "から for the Original State in a Transition"
+    },
+    {
+      "type": "paragraph",
+      "text": "から is also used for the original state in a transition. For example, to say the weather will change from cloudy to rainy, you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "くもりから雨（あめ）に変（か）わる。",
+      "english": "It'll change from cloudy to rainy."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, くもり is the state before the weather changes, so it's marked by から. The state after the change is generally marked by the particle に but sometimes by the particle へ , since both particles can be used to mark the end point."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at one more example. Imagine you are going to graduate from a college and start working this year. You can describe this situation using から and に, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "学生（がくせい）から社会（しゃかい）人（じん）になる。",
+      "english": "I'll no longer be a student and will be starting my adult life.(Literally: I'll become a member of society from being a student.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, から marks 学生（がくせい） as your original state before the change happens, while に marks the end point of your status change."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-raw-materials",
+      "text": "から for Raw Materials"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle から can also be used to express \"raw materials,\" or the materials or substances from which things are made. This is because \"raw materials\" are the \"source.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, wine is made of grapes, sake is made of rice, butter and cream are made of milk. To mark these essential materials that things is made from, you'll use から!"
+    },
+    {
+      "type": "example",
+      "japanese": "ワインはブドウから作（つく）られます。",
+      "english": "Wine is made from grapes."
+    },
+    {
+      "type": "paragraph",
+      "text": "the particle で can also mark what something is made of, but the nuance is subtly different from から. To understand the difference, let's take a look at the following example using から and で, and see how they sound:"
+    },
+    {
+      "type": "example",
+      "japanese": "ピザ生地（きじ）は、小麦粉（こむぎこ）とイーストと水（みず）から作（つく）られます。 ピザ生地（きじ）は、小麦粉（こむぎこ）とイーストと水（みず）で作（つく）られます。",
+      "english": "Pizza dough is made from flour, yeast, and water."
+    },
+    {
+      "type": "paragraph",
+      "text": "While から simply marks where something originally comes from, this で indicates the components and/or the means of something. So with から, \"flour, yeast, and water\" are the \"sources\" of pizza dough, while で shows the ingredients are something used in the process of making it. As you see, what they mark can be exactly the same things and it can depend on the perception of the speaker or the writer."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-sources",
+      "text": "から for Sources"
+    },
+    {
+      "type": "paragraph",
+      "text": "When someone receives something, から can mark the source of the thing that's being received. What's being received can be a wide variety of things, from gifts, to aid, to information, to knowledge, to even nuisances and actions! Let's take a look at some examples."
+    },
+    {
+      "type": "paragraph",
+      "text": "To say you learned something from our Tofugu website, you can pair Tofugu with から and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "トーフグから学（まな）んだ。",
+      "english": "I learned from Tofugu."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, Tofugu is a source of information for you, so it's marked by から. Just like the above raw material use, this から can be replaced with the particle で , as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "トーフグで学（まな）んだ。",
+      "english": "I learned from Tofugu."
+    },
+    {
+      "type": "paragraph",
+      "text": "They work similarly but there are nuance differences. から simply marks the thing from which you obtained the information or knowledge, whereas で marks the means you used to learn something."
+    },
+    {
+      "type": "paragraph",
+      "text": "When you receive a gift, から can mark where it came from. The gift you receive doesn't have to be a physical thing. It can be emotions (like love) or aid (like help). So to say you received help from your friend, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "友達（ともだち）から助（たす）けてもらった。",
+      "english": "I was helped by my friend."
+    },
+    {
+      "type": "paragraph",
+      "text": "This use of から cannot be substituted with the particle で, but it can be by the particle に , as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "友達（ともだち）に助（たす）けてもらった。",
+      "english": "I was helped by my friend."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because when it's about \"receiving\" something from someone, に can be used to mark that person. The difference between から and に here is very subtle. に specifies the person who gave something to you, whereas から indicates where the action is coming from. You can also mark yourself as a source of an action towards someone else. Imagine your friend finds out you started dating someone. Since \"dating\" usually begins from a kokuhaku (love confession) in Japan, your friend may ask you which one of you did the kokuhaku . You then say:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）から告白（こくはく）した。",
+      "english": "I did the love confession."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, から marks 私（わたし） (\"I\") as the source of the action, indicating you are the one who gave the love confession to your partner."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-passive-sentence",
+      "text": "から in Passive Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "In a passive sentence , someone or something is receiving an action from a person or thing that causes an event to occur. Those who cause the event to occur can be considered the \"sources\" of the event, so you can use から to mark them, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "彼氏（かれし）からキスされた。",
+      "english": "I was kissed by my boyfriend."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, から indicates 彼氏（かれし） is the person who initiated the action of kissing you. In other words, he is the source of the action and you receive it from him. This から can also be interchangeable with the particle に because this sentence is also about receiving. Again, the difference in nuance is very subtle, but に simply marks who did it while から expresses where it came from."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "the-particle-",
+      "text": "The Particle より"
+    },
+    {
+      "type": "paragraph",
+      "text": "In sentences where someone is receiving something from someone else, から has another alternative particle, which is より . The particle より is an archaic version of から and it generally carries a formal tone. It's rarely used in casual contexts, but you may still see it in formal settings. If you do encounter it, you can think of it as simply functioning in the same way as から."
+    },
+    {
+      "type": "example",
+      "japanese": "友達（ともだち）から手紙（てがみ）をもらった。 友達（ともだち）より手紙（てがみ）をもらった。",
+      "english": "I received a letter from my friend."
+    },
+    {
+      "type": "paragraph",
+      "text": "That said, there is one casual use of より, though. You can use this particle to say \"From (your name)\" in a casual letter or message, usually paired with the particle へ to say \"To (recipient name).\" This use has been established with より and you cannot use the particle から for it."
+    },
+    {
+      "type": "example",
+      "japanese": "カナエちゃんへ まみより",
+      "english": "To Kanae From Mami"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-reasons",
+      "text": "から for Reasons"
+    },
+    {
+      "type": "paragraph",
+      "text": "You've just learned that から can mark someone who caused an event to occur in a passive sentence. Similarly, から can mark a reason that caused a consequential situation. For example, if your friend asks you to hang out this coming Sunday but you already have other plans, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "予定（よてい）があるから遊（あそ）べない。",
+      "english": "I have plans, so I can't hang out with you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, \"you have plans\" is the reason you can't hang out with your friend. That's where your consequential situation is \"coming from,\" so it can be marked by から. If your original plan is canceled and your schedule opens up, you can also use から and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "予定（よてい）がキャンセルになったから遊（あそ）べる。",
+      "english": "The plans have been canceled so I can hang out with you."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, the situation has changed and you have become available on Sunday because the original plan has been canceled. The cancellation of the original plan is the \"source\" of your new availability, so it's marked by から as the reason."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-continuous-actions",
+      "text": "から for Continuous Actions"
+    },
+    {
+      "type": "paragraph",
+      "text": "から can be attached to the て form of a word when it's connecting sequential actions. In this case, the sentence works without から, but adding から clarifies or emphasizes that the event it's marking is the original event where the event following it came from. For example, to say \"I did homework and hung out with my friend,\" you can simply hook the two actions together with the て form and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "宿題（しゅくだい）をして友達（ともだち）と遊（あそ）んだ。",
+      "english": "I did homework and hung out with my friend."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, the て form can also express \"simultaneous\" actions when the two actions overlap. So the above sentence can also be read as \"I hung out with my friend while doing homework together.\" To clarify the sequential action, you can add から after て:"
+    },
+    {
+      "type": "example",
+      "japanese": "宿題（しゅくだい）をしてから友達（ともだち）と遊（あそ）んだ。",
+      "english": "I did homework and then hung out with my friend."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, から specifies 宿題（しゅくだい）をする (doing homework) as the source of the following action 友達（ともだち）と遊（あそ）ぶ (playing with my friend), so there is only one reading because you get to play with your friend after getting your homework done first. You did your homework \"and then\" you hung out with your friend."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even when it's clear that the actions are not simultaneously happening, you can also say 〜てから. In this case, it's more for emphasizing that the second action only comes after the first action is done. For example, if your parents want to make sure you do your homework before playing games, they may add から after て to get their point across:"
+    },
+    {
+      "type": "example",
+      "japanese": "宿題（しゅくだい）をしてからゲームをするのよ！",
+      "english": "You do your homework before playing games, all right?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-since",
+      "text": "から for Since"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the previous section, you learned から can be attached to the て form when it expresses continuous actions. The part which follows the て form can also express a period of time which has passed, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "大学（だいがく）を卒業（そつぎょう）して1年（ねん）が過（す）ぎた。",
+      "english": "I graduated from university a year ago."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, the first part, 大学（だいがく）を卒業（そつぎょう）して (I graduated from university), marks the time when the action was taken in the past, and the part that follows it describes that one year has passed since then."
+    },
+    {
+      "type": "paragraph",
+      "text": "から can also follow this て to clarify the sentence is talking about the time period \"since\" the first action was carried out, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "大学（だいがく）を卒業（そつぎょう）してから1年（ねん）が過（す）ぎた。",
+      "english": "Since I graduated from university, it's been one year."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, the meaning of the two sentences is the same and whether to add から or not comes down to one's style preference. から just makes it more obvious that it's about a period from the past until the time under consideration."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "When something is marked by the particle から, it indicates the beginning point of something, or where something is coming from. In its most basic use, から is used to mark the beginning point in space and time paired with the particle まで. So \"from America to Japan\" is アメリカから日本（にっぽん）まで, while \"from nine o'clock to ten o'clock\" is ９時（じ）から１０時（じ）まで.",
+    "The particle から has many roles, but its fundamental meaning is always to indicate the \"source\" of something. So just like a water source which springs up at the mountaintop and creates a stream, から can mark a beginning point or an origin.",
+    "For example, if you mark a location with から, it adds the meaning of \"from this place onwards.\" Added with the end point marker, まで , you can say:",
+    "When there's no need to clarify an end point, から just marks the starting location. For example, the Japanese \"Keep Out\" sign often says:",
+    "In this example, から marks where the 立入禁止（たちいりきんし） (no admittance) area begins — ここ (this place), and 先（さき） is added to emphasize \"onwards.\" The only relevant information here is from which point the keep-out area begins, so まで is not necessary here.",
+    "Now, let's imagine you are very curious about the \"Keep Out\" area, so you decide to find a way in. While inside, you encounter someone who is shaking in horror, pointing at the \"Keep Out\" sign. You ask them what happened, and they say:",
+    "In this sentence, から marks ここ (this place) again, but this time it indicates a place from which the bear came out. Just like that, から can also express where something comes or even appears from. This is because its fundamental meaning is the \"source\" of something.",
+    "In this section, we'll list the basic structure used with the particle から. A more detailed look at its uses will be explained later.",
+    "から can follow a noun. In its most basic structure, まで is often used together with から.",
+    "から can follow an action or state when marking a reason.",
+    "から can be attached to the て form when it's expressing sequential actions.",
+    "This から can also work like \"since\" when the second part expresses a period of time which has passed.",
+    "You've already learned から can mark a beginning point in space, often being used together with the particle まで. So to say you walked from Los Angeles to New York, you might say:",
+    "Just like that, when から pairs a location with an action, it marks the starting point of the action.",
+    "You can also mark a beginning point with から to indicate where someone or something comes from. So to ask someone where they are from, you can combine it with the question word どこ (where) and say:",
+    "And if you are from Los Angeles, you can use から and say:",
+    "In this case, から is marking the beginning point of your journey — Los Angeles! Similarly, から can also mark where something comes out of. So if you witness your teacher leaving McDonald's, you could say:",
+    "から can also mark a beginning point in time. For example, if you want to say the meeting starts from eleven o'clock, you can say:",
+    "In this example, から can be replaced with the particle に , as in:",
+    "The difference between these two is から expresses the point at which a period of time starts. In other words, から not only indicates that meeting will begin at eleven o'clock but also that it continues into the future. On the other hand, に simply designates the point in time at which the meeting will start without any further implications.",
+    "Because of this nuance difference, に cannot be substituted for から when marking the beginning point of a continuous action. For example, imagine you've been wanting to start working out and decide today is the day. In this case, you would say:",
+    "Here, you can only use から and not に because you are marking the beginning point of a continuous action. You want to build a good workout routine and today is the day you wish to start from, so から is the particle you are looking for!",
+    "から is also used for the original state in a transition. For example, to say the weather will change from cloudy to rainy, you say:",
+    "In this sentence, くもり is the state before the weather changes, so it's marked by から. The state after the change is generally marked by the particle に but sometimes by the particle へ , since both particles can be used to mark the end point.",
+    "Let's take a look at one more example. Imagine you are going to graduate from a college and start working this year. You can describe this situation using から and に, as in:",
+    "In this example, から marks 学生（がくせい） as your original state before the change happens, while に marks the end point of your status change.",
+    "The particle から can also be used to express \"raw materials,\" or the materials or substances from which things are made. This is because \"raw materials\" are the \"source.\"",
+    "For example, wine is made of grapes, sake is made of rice, butter and cream are made of milk. To mark these essential materials that things is made from, you'll use から!",
+    "the particle で can also mark what something is made of, but the nuance is subtly different from から. To understand the difference, let's take a look at the following example using から and で, and see how they sound:",
+    "While から simply marks where something originally comes from, this で indicates the components and/or the means of something. So with から, \"flour, yeast, and water\" are the \"sources\" of pizza dough, while で shows the ingredients are something used in the process of making it. As you see, what they mark can be exactly the same things and it can depend on the perception of the speaker or the writer.",
+    "When someone receives something, から can mark the source of the thing that's being received. What's being received can be a wide variety of things, from gifts, to aid, to information, to knowledge, to even nuisances and actions! Let's take a look at some examples.",
+    "To say you learned something from our Tofugu website, you can pair Tofugu with から and say:",
+    "In this example, Tofugu is a source of information for you, so it's marked by から. Just like the above raw material use, this から can be replaced with the particle で , as in:",
+    "They work similarly but there are nuance differences. から simply marks the thing from which you obtained the information or knowledge, whereas で marks the means you used to learn something.",
+    "When you receive a gift, から can mark where it came from. The gift you receive doesn't have to be a physical thing. It can be emotions (like love) or aid (like help). So to say you received help from your friend, you can say:",
+    "This use of から cannot be substituted with the particle で, but it can be by the particle に , as in:",
+    "This is because when it's about \"receiving\" something from someone, に can be used to mark that person. The difference between から and に here is very subtle. に specifies the person who gave something to you, whereas から indicates where the action is coming from. You can also mark yourself as a source of an action towards someone else. Imagine your friend finds out you started dating someone. Since \"dating\" usually begins from a kokuhaku (love confession) in Japan, your friend may ask you which one of you did the kokuhaku . You then say:",
+    "Here, から marks 私（わたし） (\"I\") as the source of the action, indicating you are the one who gave the love confession to your partner.",
+    "In a passive sentence , someone or something is receiving an action from a person or thing that causes an event to occur. Those who cause the event to occur can be considered the \"sources\" of the event, so you can use から to mark them, as in:",
+    "In this example, から indicates 彼氏（かれし） is the person who initiated the action of kissing you. In other words, he is the source of the action and you receive it from him. This から can also be interchangeable with the particle に because this sentence is also about receiving. Again, the difference in nuance is very subtle, but に simply marks who did it while から expresses where it came from.",
+    "In sentences where someone is receiving something from someone else, から has another alternative particle, which is より . The particle より is an archaic version of から and it generally carries a formal tone. It's rarely used in casual contexts, but you may still see it in formal settings. If you do encounter it, you can think of it as simply functioning in the same way as から.",
+    "That said, there is one casual use of より, though. You can use this particle to say \"From (your name)\" in a casual letter or message, usually paired with the particle へ to say \"To (recipient name).\" This use has been established with より and you cannot use the particle から for it.",
+    "You've just learned that から can mark someone who caused an event to occur in a passive sentence. Similarly, から can mark a reason that caused a consequential situation. For example, if your friend asks you to hang out this coming Sunday but you already have other plans, you could say:",
+    "Here, \"you have plans\" is the reason you can't hang out with your friend. That's where your consequential situation is \"coming from,\" so it can be marked by から. If your original plan is canceled and your schedule opens up, you can also use から and say:",
+    "In this example, the situation has changed and you have become available on Sunday because the original plan has been canceled. The cancellation of the original plan is the \"source\" of your new availability, so it's marked by から as the reason.",
+    "から can be attached to the て form of a word when it's connecting sequential actions. In this case, the sentence works without から, but adding から clarifies or emphasizes that the event it's marking is the original event where the event following it came from. For example, to say \"I did homework and hung out with my friend,\" you can simply hook the two actions together with the て form and say:",
+    "However, the て form can also express \"simultaneous\" actions when the two actions overlap. So the above sentence can also be read as \"I hung out with my friend while doing homework together.\" To clarify the sequential action, you can add から after て:",
+    "In this case, から specifies 宿題（しゅくだい）をする (doing homework) as the source of the following action 友達（ともだち）と遊（あそ）ぶ (playing with my friend), so there is only one reading because you get to play with your friend after getting your homework done first. You did your homework \"and then\" you hung out with your friend.",
+    "Even when it's clear that the actions are not simultaneously happening, you can also say 〜てから. In this case, it's more for emphasizing that the second action only comes after the first action is done. For example, if your parents want to make sure you do your homework before playing games, they may add から after て to get their point across:",
+    "In the previous section, you learned から can be attached to the て form when it expresses continuous actions. The part which follows the て form can also express a period of time which has passed, like:",
+    "In this case, the first part, 大学（だいがく）を卒業（そつぎょう）して (I graduated from university), marks the time when the action was taken in the past, and the part that follows it describes that one year has passed since then.",
+    "から can also follow this て to clarify the sentence is talking about the time period \"since\" the first action was carried out, like:",
+    "Here, the meaning of the two sentences is the same and whether to add から or not comes down to one's style preference. から just makes it more obvious that it's about a period from the past until the time under consideration."
+  ],
+  "examples": [
+    {
+      "japanese": "ここからあそこまで",
+      "english": "from here to over there"
+    },
+    {
+      "japanese": "ここから先（さき）、立入禁止（たちいりきんし）！",
+      "english": "From this place onwards, admittance is prohibited!"
+    },
+    {
+      "japanese": "ここからクマが出（で）てきた！",
+      "english": "A bear came out of here!"
+    },
+    {
+      "japanese": "ロサンゼルスからニューヨークまで",
+      "english": "from Los Angeles to New York"
+    },
+    {
+      "japanese": "赤（あか）ちゃん寝（ね）たから静（しず）かにして。",
+      "english": "The baby fell asleep, so please be quiet."
+    },
+    {
+      "japanese": "暑（あつ）いから眠（ねむ）れない。",
+      "english": "It's hot so I can't sleep."
+    },
+    {
+      "japanese": "ハミガキしてから寝（ね）た。",
+      "english": "I went to bed after brushing my teeth."
+    },
+    {
+      "japanese": "ハミガキしてから５分（ふん）がたった。",
+      "english": "Five minutes have passed since brushing my teeth."
+    },
+    {
+      "japanese": "ロサンゼルスからニューヨークまで歩（ある）いた。",
+      "english": "I walked from Los Angeles to New York."
+    },
+    {
+      "japanese": "どこから来（き）たんですか。",
+      "english": "Where did you come from?"
+    },
+    {
+      "japanese": "ロサンゼルスから来（き）ました。",
+      "english": "I am from Los Angeles."
+    },
+    {
+      "japanese": "先生（せんせい）がマクドナルドから出（で）てきた。",
+      "english": "The teacher came out of McDonald's."
+    },
+    {
+      "japanese": "１１時（じ）から会議（かいぎ）が始（はじ）まる。",
+      "english": "The meeting starts from eleven o'clock."
+    },
+    {
+      "japanese": "１１時（じ）に会議（かいぎ）が始（はじ）まる。",
+      "english": "The meeting starts at eleven o'clock."
+    },
+    {
+      "japanese": "今日（きょう）から筋（すじ）トレする！",
+      "english": "I'll start working out today!"
+    },
+    {
+      "japanese": "くもりから雨（あめ）に変（か）わる。",
+      "english": "It'll change from cloudy to rainy."
+    },
+    {
+      "japanese": "学生（がくせい）から社会（しゃかい）人（じん）になる。",
+      "english": "I'll no longer be a student and will be starting my adult life.(Literally: I'll become a member of society from being a student.)"
+    },
+    {
+      "japanese": "ワインはブドウから作（つく）られます。",
+      "english": "Wine is made from grapes."
+    },
+    {
+      "japanese": "ピザ生地（きじ）は、小麦粉（こむぎこ）とイーストと水（みず）から作（つく）られます。 ピザ生地（きじ）は、小麦粉（こむぎこ）とイーストと水（みず）で作（つく）られます。",
+      "english": "Pizza dough is made from flour, yeast, and water."
+    },
+    {
+      "japanese": "トーフグから学（まな）んだ。",
+      "english": "I learned from Tofugu."
+    },
+    {
+      "japanese": "トーフグで学（まな）んだ。",
+      "english": "I learned from Tofugu."
+    },
+    {
+      "japanese": "友達（ともだち）から助（たす）けてもらった。",
+      "english": "I was helped by my friend."
+    },
+    {
+      "japanese": "友達（ともだち）に助（たす）けてもらった。",
+      "english": "I was helped by my friend."
+    },
+    {
+      "japanese": "私（わたし）から告白（こくはく）した。",
+      "english": "I did the love confession."
+    },
+    {
+      "japanese": "彼氏（かれし）からキスされた。",
+      "english": "I was kissed by my boyfriend."
+    },
+    {
+      "japanese": "友達（ともだち）から手紙（てがみ）をもらった。 友達（ともだち）より手紙（てがみ）をもらった。",
+      "english": "I received a letter from my friend."
+    },
+    {
+      "japanese": "カナエちゃんへ まみより",
+      "english": "To Kanae From Mami"
+    },
+    {
+      "japanese": "予定（よてい）があるから遊（あそ）べない。",
+      "english": "I have plans, so I can't hang out with you."
+    },
+    {
+      "japanese": "予定（よてい）がキャンセルになったから遊（あそ）べる。",
+      "english": "The plans have been canceled so I can hang out with you."
+    },
+    {
+      "japanese": "宿題（しゅくだい）をして友達（ともだち）と遊（あそ）んだ。",
+      "english": "I did homework and hung out with my friend."
+    },
+    {
+      "japanese": "宿題（しゅくだい）をしてから友達（ともだち）と遊（あそ）んだ。",
+      "english": "I did homework and then hung out with my friend."
+    },
+    {
+      "japanese": "宿題（しゅくだい）をしてからゲームをするのよ！",
+      "english": "You do your homework before playing games, all right?"
+    },
+    {
+      "japanese": "大学（だいがく）を卒業（そつぎょう）して1年（ねん）が過（す）ぎた。",
+      "english": "I graduated from university a year ago."
+    },
+    {
+      "japanese": "大学（だいがく）を卒業（そつぎょう）してから1年（ねん）が過（す）ぎた。",
+      "english": "Since I graduated from university, it's been one year."
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "source-",
+      "text": "Source から"
+    },
+    {
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "noun--",
+      "text": "Noun + から"
+    },
+    {
+      "level": 3,
+      "id": "actionstate--",
+      "text": "Action/State + から"
+    },
+    {
+      "level": 3,
+      "id": "form--",
+      "text": "て form + から"
+    },
+    {
+      "level": 2,
+      "id": "uses-of-",
+      "text": "Uses of から"
+    },
+    {
+      "level": 3,
+      "id": "for-a-beginning-point-in-space",
+      "text": "から for a Beginning Point in Space"
+    },
+    {
+      "level": 3,
+      "id": "for-a-beginning-point-in-time",
+      "text": "から for a Beginning Point in Time"
+    },
+    {
+      "level": 3,
+      "id": "for-the-original-state-in-a-transition",
+      "text": "から for the Original State in a Transition"
+    },
+    {
+      "level": 3,
+      "id": "for-raw-materials",
+      "text": "から for Raw Materials"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-sources",
+      "text": "から for Sources"
+    },
+    {
+      "level": 3,
+      "id": "in-passive-sentence",
+      "text": "から in Passive Sentence"
+    },
+    {
+      "level": 3,
+      "id": "the-particle-",
+      "text": "The Particle より"
+    },
+    {
+      "level": 3,
+      "id": "for-reasons",
+      "text": "から for Reasons"
+    },
+    {
+      "level": 3,
+      "id": "for-continuous-actions",
+      "text": "から for Continuous Actions"
+    },
+    {
+      "level": 3,
+      "id": "for-since",
+      "text": "から for Since"
+    }
+  ],
+  "id": 15,
+  "slug": "particle-kara",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-kara/",
+  "categories": [
+    "Particle"
+  ]
+}

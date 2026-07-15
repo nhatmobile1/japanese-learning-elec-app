@@ -1,0 +1,157 @@
+{
+  "title": "〜ことにする・〜ことになる",
+  "description": "〜ことにする is a decision you make yourself (\"I've decided to\"), while 〜ことになる is a decision or outcome that comes about through circumstances (\"it's been decided that\"). The related 〜ことにしている and 〜ことになっている express personal habits and standing rules.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Both attach to a plain-form verb. する marks your own act of will: 引（ひ）っ越（こ）すことにする = \"I've decided to move.\" なる marks a result that arises around you — a company transfer, a group decision, a natural outcome — even if you were involved in it: 転勤（てんきん）することになる = \"it's been arranged that I'll transfer.\" なる sounds more modest and indirect, which is why Japanese speakers often prefer it even for their own choices."
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb （plain）＋ ことにする　（own decision）",
+      "english": ""
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb （plain）＋ ことになる　（decided by circumstances）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "来月（らいげつ）、引（ひ）っ越（こ）すことにしました。",
+      "english": "I've decided to move next month."
+    },
+    {
+      "type": "example",
+      "japanese": "会議（かいぎ）は月曜日（げつようび）に行（おこな）われることになった。",
+      "english": "It's been decided that the meeting will be held on Monday."
+    },
+    {
+      "type": "example",
+      "japanese": "転勤（てんきん）することになりました。",
+      "english": "It's been arranged that I'll be transferred."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "koto-ni-shite-iru",
+      "text": "Personal Habit 〜ことにしている"
+    },
+    {
+      "type": "paragraph",
+      "text": "Put する into its 〜ている form to describe a rule you've set for yourself and keep — an ongoing habit or policy, not a one-time choice."
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb （plain / negative）＋ ことにしている",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "毎朝（まいあさ）ジョギングすることにしている。",
+      "english": "I make it a rule to go jogging every morning."
+    },
+    {
+      "type": "example",
+      "japanese": "甘（あま）い物（もの）は食（た）べないことにしている。",
+      "english": "I make it a rule not to eat sweets."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "koto-ni-natte-iru",
+      "text": "Standing Rule 〜ことになっている"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 〜ている form of なる describes an external rule, arrangement, or expectation that is already in place — a law, a schedule, or a custom that \"is supposed to\" be so."
+    },
+    {
+      "type": "formula",
+      "japanese": "Verb （plain）＋ ことになっている",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にほん）では車（くるま）は左側（ひだりがわ）を走（はし）ることになっている。",
+      "english": "In Japan, cars are supposed to drive on the left."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "Verb （plain）＋ ことにする　（own decision）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "Verb （plain）＋ ことになる　（decided by circumstances）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "来月（らいげつ）、引（ひ）っ越（こ）すことにしました。",
+      "english": "I've decided to move next month."
+    },
+    {
+      "japanese": "会議（かいぎ）は月曜日（げつようび）に行（おこな）われることになった。",
+      "english": "It's been decided that the meeting will be held on Monday."
+    },
+    {
+      "japanese": "転勤（てんきん）することになりました。",
+      "english": "It's been arranged that I'll be transferred."
+    },
+    {
+      "japanese": "Verb （plain / negative）＋ ことにしている",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "毎朝（まいあさ）ジョギングすることにしている。",
+      "english": "I make it a rule to go jogging every morning."
+    },
+    {
+      "japanese": "甘（あま）い物（もの）は食（た）べないことにしている。",
+      "english": "I make it a rule not to eat sweets."
+    },
+    {
+      "japanese": "Verb （plain）＋ ことになっている",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "日本（にほん）では車（くるま）は左側（ひだりがわ）を走（はし）ることになっている。",
+      "english": "In Japan, cars are supposed to drive on the left."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "koto-ni-shite-iru",
+      "text": "Personal Habit 〜ことにしている"
+    },
+    {
+      "level": 2,
+      "id": "koto-ni-natte-iru",
+      "text": "Standing Rule 〜ことになっている"
+    }
+  ],
+  "id": 1016,
+  "slug": "koto-ni-suru",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

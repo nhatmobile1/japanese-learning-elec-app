@@ -1,0 +1,170 @@
+{
+  "title": "〜させられる (Causative-Passive)",
+  "description": "〜させられる combines the causative (make/let) and passive (be done to) forms to mean you were forced to do something — usually against your will, with a nuance of reluctance or inconvenience.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The causative-passive is the \"double-whammy\": you take the causative form (〜させる, to make someone do) and put it into the passive (〜られる, to be on the receiving end). The result is 〜させられる — \"to be made to do.\" It almost always carries a feeling of reluctance: you didn't want to, but you had no choice."
+    },
+    {
+      "type": "formula",
+      "japanese": "causative 〜させる ＋ passive 〜られる ＝ 〜させられる",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "上司（じょうし）に残業（ざんぎょう）させられた。",
+      "english": "I was made to work overtime by my boss."
+    },
+    {
+      "type": "example",
+      "japanese": "子供（こども）の頃（ころ）、ピアノを習（なら）わされた。",
+      "english": "When I was a kid, I was forced to take piano lessons."
+    },
+    {
+      "type": "example",
+      "japanese": "母（はは）に嫌（きら）いな野菜（やさい）を食（た）べさせられた。",
+      "english": "My mom made me eat vegetables I hate."
+    },
+    {
+      "type": "example",
+      "japanese": "飲（の）み会（かい）で先輩（せんぱい）にたくさんお酒（さけ）を飲（の）まされた。",
+      "english": "At the drinking party, my senpai made me drink a lot."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "conjugation",
+      "text": "How to Conjugate"
+    },
+    {
+      "type": "paragraph",
+      "text": "For Ichidan (ru-verbs), drop る and add させられる: 食（た）べる → 食（た）べさせられる. For Godan (u-verbs), shift the final kana to its あ-row sound and add される or せられる. The irregulars are する → させられる and くる → 来（こ）させられる."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Verb type",
+          "Causative-passive form"
+        ],
+        [
+          "Godan 飲（の）む",
+          "飲（の）まされる ／ 飲（の）ませられる"
+        ],
+        [
+          "Godan 書（か）く",
+          "書（か）かされる ／ 書（か）かせられる"
+        ],
+        [
+          "Godan 話（はな）す",
+          "話（はな）させられる（no contraction）"
+        ],
+        [
+          "Ichidan 食（た）べる",
+          "食（た）べさせられる"
+        ],
+        [
+          "する",
+          "させられる"
+        ],
+        [
+          "くる",
+          "来（こ）させられる"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "contracted-form",
+      "text": "The Contracted 〜される Form"
+    },
+    {
+      "type": "paragraph",
+      "text": "Godan verbs have a shortened form: 〜せられる contracts to 〜される, so 飲（の）ませられる becomes 飲（の）まされる. Both are correct, and the contracted form sounds more natural in speech. One exception: verbs ending in す (like 話（はな）す, 押（お）す) do NOT contract — you always say 話（はな）させられる, never ×話（はな）さされる, because the double さ sound is awkward (and 〜さされる collides with \"to be stabbed\")."
+    },
+    {
+      "type": "formula",
+      "japanese": "Godan 〜ませられる → 〜まされる（す-ending verbs excluded）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "カラオケで無理（むり）やり歌（うた）わされた。",
+      "english": "I was forced to sing at karaoke."
+    },
+    {
+      "type": "example",
+      "japanese": "毎日（まいにち）漢字（かんじ）を百回（ひゃっかい）書（か）かされた。",
+      "english": "I was made to write kanji a hundred times every day."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "causative 〜させる ＋ passive 〜られる ＝ 〜させられる",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "上司（じょうし）に残業（ざんぎょう）させられた。",
+      "english": "I was made to work overtime by my boss."
+    },
+    {
+      "japanese": "子供（こども）の頃（ころ）、ピアノを習（なら）わされた。",
+      "english": "When I was a kid, I was forced to take piano lessons."
+    },
+    {
+      "japanese": "母（はは）に嫌（きら）いな野菜（やさい）を食（た）べさせられた。",
+      "english": "My mom made me eat vegetables I hate."
+    },
+    {
+      "japanese": "飲（の）み会（かい）で先輩（せんぱい）にたくさんお酒（さけ）を飲（の）まされた。",
+      "english": "At the drinking party, my senpai made me drink a lot."
+    },
+    {
+      "japanese": "Godan 〜ませられる → 〜まされる（す-ending verbs excluded）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "カラオケで無理（むり）やり歌（うた）わされた。",
+      "english": "I was forced to sing at karaoke."
+    },
+    {
+      "japanese": "毎日（まいにち）漢字（かんじ）を百回（ひゃっかい）書（か）かされた。",
+      "english": "I was made to write kanji a hundred times every day."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "conjugation",
+      "text": "How to Conjugate"
+    },
+    {
+      "level": 2,
+      "id": "contracted-form",
+      "text": "The Contracted 〜される Form"
+    }
+  ],
+  "id": 1001,
+  "slug": "saserareru",
+  "categories": [
+    "Verb Form"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

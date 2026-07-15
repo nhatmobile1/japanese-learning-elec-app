@@ -1,0 +1,602 @@
+{
+  "title": "〜ない (Negative, Plain)",
+  "description": "When 〜ない appears on the end of a verb, it means it is in the negative plain form. In other words, it has a similar function to \"not\".",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜ない is a suffix that makes verb it's attached to negative. In other words, it adds \"not\" to the verb. So for example, 食（た）べない is \"not eat\", 飲（の）まない is \"not drink\", and 来（こ）ない is \"not come\"."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜ない"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Godan",
+          "会（あ）う → 会（あ）わない 立（た）つ → 立（た）たない 写（うつ）す → 写（うつ）さない 割（われ）る → 割（わ）らない 書（か）く → 書（か）かない 泳（およ）ぐ → 泳（およ）がない 死（し）ぬ → 死（し）なない 学（まな）ぶ → 学（まな）ばない 休（やす）む → 休（やす）まない"
+        ],
+        [
+          "Ichidan",
+          "食（た）べる → 食（た）べない 起（お）きる → 起（お）きない 閉（と）じる → 閉（と）じない"
+        ],
+        [
+          "Irregular",
+          "来（く）る（く ） → 来（こ）ない（こ ） する → しない ある → ない"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "To add 〜ない to a godan verb , take a look at the character on the end of the verb. You'll need to change it to the correct あ-line character from the hiragana chart."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if the verb ends in 〜く, we remove the 〜く and replace it with 〜か, then add 〜ない, giving us 〜かない."
+    },
+    {
+      "type": "formula",
+      "japanese": "書（か）く + か + ない = 書（か）かない 聞（き）く + か + ない = 聞（き）かない",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "書（しょ） く + か + ない = 書（しょ） かない 聞（聞） く + か + ない = 聞（聞） かない"
+    },
+    {
+      "type": "paragraph",
+      "text": "This same rule then works for all the other endings, so 〜す becomes 〜さない, 〜る becomes 〜らない, and so on."
+    },
+    {
+      "type": "formula",
+      "japanese": "写（うつ）す + さ + ない = 写（うつ）さない 割（われ）る + ら + ない = 割（わ）らない",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "写（うつし） す + さ + ない = 写（うつし） さない 割（わり） る + ら + ない = 割（わり） らない"
+    },
+    {
+      "type": "paragraph",
+      "text": "Be careful with verbs ending in 〜つ. It might not seem obvious at first, but the あ-line character for つ is た, so つ-ending verbs will change to 〜たない, like 立（た）たない or 持（も）たない."
+    },
+    {
+      "type": "formula",
+      "japanese": "立（た）つ + た + ない = 立（た）たない 持（も）つ + た + ない = 持（も）たない",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "立（たつ） つ + た + ない = 立（たつ） たない 持（じ） つ + た + ない = 持（じ） たない"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also be on the lookout when a verb ends in 〜う. You would expect 〜あない in this case, but う-ending verbs become 〜わない when negative:"
+    },
+    {
+      "type": "formula",
+      "japanese": "会（あ）う + わ + ない = 会（あ）わない 買（か）う + わ + ない = 買（か）わない",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "会（あ） う + わ + ない = 会（あ） わない 買（か） う + わ + ない = 買（か） わない"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "For ichidan verbs , the conjugation is—as usual—nice and simple. Just remove the 〜る at the end of the verb and add 〜ない:"
+    },
+    {
+      "type": "formula",
+      "japanese": "食（た）べる + ない = 食（た）べない 見（み）る + ない = 見（み）ない",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "食（た）べ る + ない = 食（た）べ ない 見（み） る + ない = 見（み） ない"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "irregular-verbs",
+      "text": "Irregular Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "来（く）る and する are the usual offenders when it comes to irregular conjugations. To made them negative with 〜ない, the pronunciation changes for the whole word, including the first syllable:"
+    },
+    {
+      "type": "formula",
+      "japanese": "来（く）る + ない = 来（こ）ない する + ない = しない",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "来（く） る + ない = 来（こ） ない す る + ない = し ない"
+    },
+    {
+      "type": "paragraph",
+      "text": "Added to these staples is ある, which is usually regular, but behaves irregularly when it comes to the 〜ない. Despite its irregularity, it shouldn't be too tricky to remember. Instead of changing to 〜あらない as you might expect, it simply becomes 〜ない:"
+    },
+    {
+      "type": "formula",
+      "japanese": "ある → ない",
+      "english": ""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, you can form an entire sentence with a single verb, and verbs with the 〜ない ending are no exception. This is most common with mental verbs, like 分（わ）かる (to understand), and verbs for abilities and possibilities, like 出来（でき）る (to be able to do) and anything in the potential form ."
+    },
+    {
+      "type": "example",
+      "japanese": "分（わ）からない！",
+      "english": "I don't understand!"
+    },
+    {
+      "type": "example",
+      "japanese": "出来（でき）ない！",
+      "english": "I can't do it!"
+    },
+    {
+      "type": "example",
+      "japanese": "泳（およ）げない！",
+      "english": "I can't swim!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that in this last sentence, 泳（およ）げない is the negative version of 泳（およ）げる, which is the potential form of 泳（およ）ぐ. That's why it's 泳（およ）げない in this sentence, and not 泳（およ）がない."
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course, these sentences can include many other words, to give more details. In this case, the verb stays at the end of the sentence, perhaps followed by a sentence-ending particle or two."
+    },
+    {
+      "type": "example",
+      "japanese": "スカイダイビングは面白（おもしろ）そうだけど、僕（ぼく）は絶対（ぜったい）に出来（でき）ないな！",
+      "english": "Sky diving looks interesting, but I definitely can't do it!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japanese verbs can also come just before a noun, to describe the noun, much like an adjective can. For instance, if we want to say \"an interesting TV show\" we can simply put おもしろい (interesting) before 番組（ばんぐみ） (TV show) to give us おもしろい番組（ばんぐみ）. To say \"a place I go to,\" we put 行（い）く (to go) before the noun 場所（ばしょ） (place) for 行（い）く場所（ばしょ）. You can use verbs with the 〜ない in this way, too."
+    },
+    {
+      "type": "example",
+      "japanese": "行（い）かない場所（ばしょ）",
+      "english": "a place I don't go to"
+    },
+    {
+      "type": "example",
+      "japanese": "知（し）らない人（ひと）",
+      "english": "a person I don't know"
+    },
+    {
+      "type": "example",
+      "japanese": "言（い）えない言葉（ことば）",
+      "english": "a word I can't say"
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, just a side note that this last sentence includes the potential form , which is why it's 言（い）えない and not 言（い）わない."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice that in English, the information that describes the noun comes after the noun, but in Japanese it comes before. While this takes a little getting used to, it's a very handy way to make more complex sentences and you'll come across it in Japanese all the time. You can read more about this grammar concept on our page about relative clauses ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "So far we've covered how to conjugate verbs to take 〜ない, as well as where 〜ない ending verbs typically appear in Japanese sentences. Next up, we'll look at putting 〜ない to use!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "time-and-tense-with-",
+      "text": "Time and Tense with 〜ない"
+    },
+    {
+      "type": "paragraph",
+      "text": "The 〜ない ending is said to be in the \"non-past\" tense, meaning that it can refer to the present moment, or to the future as well. Interestingly, even though 〜ない attaches to verbs, it conjugates just like an い-adjective (see that 〜い on the end?). So if you want to talk about something that was not, you'll use 〜なかった ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-the-present",
+      "text": "For the Present"
+    },
+    {
+      "type": "paragraph",
+      "text": "When 〜ない is used for the present, it is usually to talk about general truths or statements that have some kind of permanence."
+    },
+    {
+      "type": "example",
+      "japanese": "お肉（にく）を食（た）べない。",
+      "english": "I don't eat meat."
+    },
+    {
+      "type": "paragraph",
+      "text": "The use of 食（た）べない here suggests that this is a firm, somewhat permanent stance towards meat eating. If the speaker wants to highlight that it is a temporary thing, they'd be more likely to use 〜ていない instead:"
+    },
+    {
+      "type": "example",
+      "japanese": "最近（さいきん）、お肉（にく）を食（た）べていない。",
+      "english": "I'm not eating meat lately."
+    },
+    {
+      "type": "paragraph",
+      "text": "When spoken, 〜ない is often combined with conversational particles to add a particular nuance or to give a more conversational tone:"
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーさんはお肉（にく）を食（た）べないよね。",
+      "english": "Jenny, you don't eat meat, right?"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-the-future",
+      "text": "For the Future"
+    },
+    {
+      "type": "paragraph",
+      "text": "We can also use this form to talk about things we won't do in the future. This can refer to the very near future, like a party tonight:"
+    },
+    {
+      "type": "example",
+      "japanese": "今夜（こんや）のパーティーに行（い）かない。",
+      "english": "I'm not going to the party tonight."
+    },
+    {
+      "type": "paragraph",
+      "text": "It can also be used to talk about our intentions for the more distant future:"
+    },
+    {
+      "type": "example",
+      "japanese": "絶対（ぜったい）に地元（じもと）に帰（かえ）らない！",
+      "english": "There's no way I'm ever going back to where I come from!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and-politeness",
+      "text": "〜ない and Politeness"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜ない is associated with the plain form, so when it comes at the end of a sentence it is casual. For example, you could say 日本語（にほんご）を上手（じょうず）に話（はな）せない to your friends and family, but it might not be the right option when speaking to your boss or teacher. If you want to make your sentence polite, you have two options. The first, is to remove 〜ない and use the polite form negative suffix, 〜ません. If your grammar teacher is a traditionalist, this is what they'll want you to use. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "コーヒーは飲（の）めない + ません。",
+      "english": "I can't drink coffee."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your other option is to add the politeness marker です after the 〜ない ending. Some might look down their noses at this choice, but you'll hear it all the time in spoken Japanese:"
+    },
+    {
+      "type": "example",
+      "japanese": "コーヒーを飲（の）めない + です。",
+      "english": "I can't drink coffee."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like other plain forms, when 〜ない appears somewhere other than the end of the sentence, it doesn't mark the politeness. This is because politeness is marked at the end of the sentence in Japanese. There are plenty of sentence-ending structures that only work when paired up with some kind of plain form, and for these, 〜ない will come in very handy. For example, かもしれない (probably) and と思（おも）う (I think) can both be used only with the plain form. So if we want to say we probably won't go to a party tomorrow, we can use かもしれない or its polite form かもしれません:"
+    },
+    {
+      "type": "example",
+      "japanese": "明日（あした）のパーティーには行（い）かないかもしれません。",
+      "english": "I might not go to the party tomorrow."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the overall sentence above is polite, and so has the polite form at the end, using the polite form before かもしれません would be incorrect:"
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ 明日（あした）のパーティーには行（い）きませんかもしれません。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "❌ 明日（あした）のパーティーには 行（い）きません かもしれません。"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-invitations",
+      "text": "〜ない for Invitations"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may have already learned the polite way to make invitations using 〜ませんか. We can use the ない form in the same way, to make casual invitations. Simply adding the question particle か to the ない form is one way to do this:"
+    },
+    {
+      "type": "example",
+      "japanese": "今度（こんど）、一緒（いっしょ）に行（い）かないか。",
+      "english": "How about we go together next time?"
+    },
+    {
+      "type": "paragraph",
+      "text": "However, this has an assertive feel to it so is not very common in everyday conversations. Rather, as so often happens in casual Japanese, we simply use the ない form as it is and rely on intonation to make it clear that we are asking a question:"
+    },
+    {
+      "type": "example",
+      "japanese": "今度（こんど）、一緒（いっしょ）に行（い）かない？",
+      "english": "How about we go together next time?"
+    }
+  ],
+  "sections": [
+    "〜ない is a suffix that makes verb it's attached to negative. In other words, it adds \"not\" to the verb. So for example, 食（た）べない is \"not eat\", 飲（の）まない is \"not drink\", and 来（こ）ない is \"not come\".",
+    "To add 〜ない to a godan verb , take a look at the character on the end of the verb. You'll need to change it to the correct あ-line character from the hiragana chart.",
+    "For example, if the verb ends in 〜く, we remove the 〜く and replace it with 〜か, then add 〜ない, giving us 〜かない.",
+    "書（しょ） く + か + ない = 書（しょ） かない 聞（聞） く + か + ない = 聞（聞） かない",
+    "This same rule then works for all the other endings, so 〜す becomes 〜さない, 〜る becomes 〜らない, and so on.",
+    "写（うつし） す + さ + ない = 写（うつし） さない 割（わり） る + ら + ない = 割（わり） らない",
+    "Be careful with verbs ending in 〜つ. It might not seem obvious at first, but the あ-line character for つ is た, so つ-ending verbs will change to 〜たない, like 立（た）たない or 持（も）たない.",
+    "立（たつ） つ + た + ない = 立（たつ） たない 持（じ） つ + た + ない = 持（じ） たない",
+    "Also be on the lookout when a verb ends in 〜う. You would expect 〜あない in this case, but う-ending verbs become 〜わない when negative:",
+    "会（あ） う + わ + ない = 会（あ） わない 買（か） う + わ + ない = 買（か） わない",
+    "For ichidan verbs , the conjugation is—as usual—nice and simple. Just remove the 〜る at the end of the verb and add 〜ない:",
+    "食（た）べ る + ない = 食（た）べ ない 見（み） る + ない = 見（み） ない",
+    "来（く）る and する are the usual offenders when it comes to irregular conjugations. To made them negative with 〜ない, the pronunciation changes for the whole word, including the first syllable:",
+    "来（く） る + ない = 来（こ） ない す る + ない = し ない",
+    "Added to these staples is ある, which is usually regular, but behaves irregularly when it comes to the 〜ない. Despite its irregularity, it shouldn't be too tricky to remember. Instead of changing to 〜あらない as you might expect, it simply becomes 〜ない:",
+    "In Japanese, you can form an entire sentence with a single verb, and verbs with the 〜ない ending are no exception. This is most common with mental verbs, like 分（わ）かる (to understand), and verbs for abilities and possibilities, like 出来（でき）る (to be able to do) and anything in the potential form .",
+    "Note that in this last sentence, 泳（およ）げない is the negative version of 泳（およ）げる, which is the potential form of 泳（およ）ぐ. That's why it's 泳（およ）げない in this sentence, and not 泳（およ）がない.",
+    "Of course, these sentences can include many other words, to give more details. In this case, the verb stays at the end of the sentence, perhaps followed by a sentence-ending particle or two.",
+    "Japanese verbs can also come just before a noun, to describe the noun, much like an adjective can. For instance, if we want to say \"an interesting TV show\" we can simply put おもしろい (interesting) before 番組（ばんぐみ） (TV show) to give us おもしろい番組（ばんぐみ）. To say \"a place I go to,\" we put 行（い）く (to go) before the noun 場所（ばしょ） (place) for 行（い）く場所（ばしょ）. You can use verbs with the 〜ない in this way, too.",
+    "Again, just a side note that this last sentence includes the potential form , which is why it's 言（い）えない and not 言（い）わない.",
+    "Notice that in English, the information that describes the noun comes after the noun, but in Japanese it comes before. While this takes a little getting used to, it's a very handy way to make more complex sentences and you'll come across it in Japanese all the time. You can read more about this grammar concept on our page about relative clauses .",
+    "So far we've covered how to conjugate verbs to take 〜ない, as well as where 〜ない ending verbs typically appear in Japanese sentences. Next up, we'll look at putting 〜ない to use!",
+    "The 〜ない ending is said to be in the \"non-past\" tense, meaning that it can refer to the present moment, or to the future as well. Interestingly, even though 〜ない attaches to verbs, it conjugates just like an い-adjective (see that 〜い on the end?). So if you want to talk about something that was not, you'll use 〜なかった .",
+    "When 〜ない is used for the present, it is usually to talk about general truths or statements that have some kind of permanence.",
+    "The use of 食（た）べない here suggests that this is a firm, somewhat permanent stance towards meat eating. If the speaker wants to highlight that it is a temporary thing, they'd be more likely to use 〜ていない instead:",
+    "When spoken, 〜ない is often combined with conversational particles to add a particular nuance or to give a more conversational tone:",
+    "We can also use this form to talk about things we won't do in the future. This can refer to the very near future, like a party tonight:",
+    "It can also be used to talk about our intentions for the more distant future:",
+    "〜ない is associated with the plain form, so when it comes at the end of a sentence it is casual. For example, you could say 日本語（にほんご）を上手（じょうず）に話（はな）せない to your friends and family, but it might not be the right option when speaking to your boss or teacher. If you want to make your sentence polite, you have two options. The first, is to remove 〜ない and use the polite form negative suffix, 〜ません. If your grammar teacher is a traditionalist, this is what they'll want you to use. For example:",
+    "Your other option is to add the politeness marker です after the 〜ない ending. Some might look down their noses at this choice, but you'll hear it all the time in spoken Japanese:",
+    "Just like other plain forms, when 〜ない appears somewhere other than the end of the sentence, it doesn't mark the politeness. This is because politeness is marked at the end of the sentence in Japanese. There are plenty of sentence-ending structures that only work when paired up with some kind of plain form, and for these, 〜ない will come in very handy. For example, かもしれない (probably) and と思（おも）う (I think) can both be used only with the plain form. So if we want to say we probably won't go to a party tomorrow, we can use かもしれない or its polite form かもしれません:",
+    "Although the overall sentence above is polite, and so has the polite form at the end, using the polite form before かもしれません would be incorrect:",
+    "❌ 明日（あした）のパーティーには 行（い）きません かもしれません。",
+    "You may have already learned the polite way to make invitations using 〜ませんか. We can use the ない form in the same way, to make casual invitations. Simply adding the question particle か to the ない form is one way to do this:",
+    "However, this has an assertive feel to it so is not very common in everyday conversations. Rather, as so often happens in casual Japanese, we simply use the ない form as it is and rely on intonation to make it clear that we are asking a question:"
+  ],
+  "examples": [
+    {
+      "japanese": "分（わ）からない！",
+      "english": "I don't understand!"
+    },
+    {
+      "japanese": "出来（でき）ない！",
+      "english": "I can't do it!"
+    },
+    {
+      "japanese": "泳（およ）げない！",
+      "english": "I can't swim!"
+    },
+    {
+      "japanese": "スカイダイビングは面白（おもしろ）そうだけど、僕（ぼく）は絶対（ぜったい）に出来（でき）ないな！",
+      "english": "Sky diving looks interesting, but I definitely can't do it!"
+    },
+    {
+      "japanese": "行（い）かない場所（ばしょ）",
+      "english": "a place I don't go to"
+    },
+    {
+      "japanese": "知（し）らない人（ひと）",
+      "english": "a person I don't know"
+    },
+    {
+      "japanese": "言（い）えない言葉（ことば）",
+      "english": "a word I can't say"
+    },
+    {
+      "japanese": "お肉（にく）を食（た）べない。",
+      "english": "I don't eat meat."
+    },
+    {
+      "japanese": "最近（さいきん）、お肉（にく）を食（た）べていない。",
+      "english": "I'm not eating meat lately."
+    },
+    {
+      "japanese": "ジェニーさんはお肉（にく）を食（た）べないよね。",
+      "english": "Jenny, you don't eat meat, right?"
+    },
+    {
+      "japanese": "今夜（こんや）のパーティーに行（い）かない。",
+      "english": "I'm not going to the party tonight."
+    },
+    {
+      "japanese": "絶対（ぜったい）に地元（じもと）に帰（かえ）らない！",
+      "english": "There's no way I'm ever going back to where I come from!"
+    },
+    {
+      "japanese": "コーヒーは飲（の）めない + ません。",
+      "english": "I can't drink coffee."
+    },
+    {
+      "japanese": "コーヒーを飲（の）めない + です。",
+      "english": "I can't drink coffee."
+    },
+    {
+      "japanese": "明日（あした）のパーティーには行（い）かないかもしれません。",
+      "english": "I might not go to the party tomorrow."
+    },
+    {
+      "japanese": "今度（こんど）、一緒（いっしょ）に行（い）かないか。",
+      "english": "How about we go together next time?"
+    },
+    {
+      "japanese": "今度（こんど）、一緒（いっしょ）に行（い）かない？",
+      "english": "How about we go together next time?"
+    },
+    {
+      "japanese": "書（か）く + か + ない = 書（か）かない 聞（き）く + か + ない = 聞（き）かない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "写（うつ）す + さ + ない = 写（うつ）さない 割（われ）る + ら + ない = 割（わ）らない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "立（た）つ + た + ない = 立（た）たない 持（も）つ + た + ない = 持（も）たない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "会（あ）う + わ + ない = 会（あ）わない 買（か）う + わ + ない = 買（か）わない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "食（た）べる + ない = 食（た）べない 見（み）る + ない = 見（み）ない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "来（く）る + ない = 来（こ）ない する + ない = しない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "ある → ない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "❌ 明日（あした）のパーティーには行（い）きませんかもしれません。",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Godan",
+        "会（あ）う → 会（あ）わない 立（た）つ → 立（た）たない 写（うつ）す → 写（うつ）さない 割（われ）る → 割（わ）らない 書（か）く → 書（か）かない 泳（およ）ぐ → 泳（およ）がない 死（し）ぬ → 死（し）なない 学（まな）ぶ → 学（まな）ばない 休（やす）む → 休（やす）まない"
+      ],
+      [
+        "Ichidan",
+        "食（た）べる → 食（た）べない 起（お）きる → 起（お）きない 閉（と）じる → 閉（と）じない"
+      ],
+      [
+        "Irregular",
+        "来（く）る（く ） → 来（こ）ない（こ ） する → しない ある → ない"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜ない"
+    },
+    {
+      "level": 4,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "level": 4,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "level": 4,
+      "id": "irregular-verbs",
+      "text": "Irregular Verbs"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "time-and-tense-with-",
+      "text": "Time and Tense with 〜ない"
+    },
+    {
+      "level": 4,
+      "id": "for-the-present",
+      "text": "For the Present"
+    },
+    {
+      "level": 4,
+      "id": "for-the-future",
+      "text": "For the Future"
+    },
+    {
+      "level": 3,
+      "id": "and-politeness",
+      "text": "〜ない and Politeness"
+    },
+    {
+      "level": 3,
+      "id": "for-invitations",
+      "text": "〜ない for Invitations"
+    }
+  ],
+  "id": 68,
+  "slug": "verb-negative-nai-form",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-negative-nai-form/",
+  "categories": [
+    "Verb Form"
+  ]
+}

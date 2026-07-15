@@ -1,0 +1,260 @@
+{
+  "title": "い-Adjectiveく (Noun)",
+  "description": "A few い-adjectives that relate to time or location can be used like nouns in their く form.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Using adjectives like nouns is common in many languages, including English. Just look at an expression like “ many will enter, few will win.\" Many and few are typically used as adjectives, and yet here they function as nouns."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, a limited number of い-adjectives in their く form can be used like nouns. These are adjectives that describe the characteristics of a time or place. The only addition to this is 多（おお）く, which can behave as noun despite the fact that it doesn't describe a time or a place."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "adjectives-before-particles-of-time-or-location",
+      "text": "い-Adjectives Before Particles of Time or Location"
+    },
+    {
+      "type": "paragraph",
+      "text": "All the い-adjectives in this group can be used before particles of time or location, such as まで (until), へ (to), に (at/in/to) and から (from)."
+    },
+    {
+      "type": "example",
+      "japanese": "来週（らいしゅう）古（ふる）くからの友達（ともだち）が遊（あそ）びに来（く）る。",
+      "english": "Next week, a friend from old times is coming to visit."
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）は遅（おそ）くまで勉強（べんきょう）しました。",
+      "english": "He studied until late."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the first example, 古（ふる）く can be understood as “old times” or “long ago” and tells us the time period of the friendship, marked with から. In the second sentence, 遅（おそ）く means “a late time”, and the particle まで tells us that it is the point in time that the action continued until. Though in English we can say \"until late\", in Japanese まで can generally can’t be used with adjectives or adverbs."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "adjectives-in-other-positions",
+      "text": "い-Adjectives in Other Positions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just three い-adjectives can be used in more of the ways nouns can be used. These are 多（おお）く, 遠（とお）く and 近（ちか）く. They can be used as the subject of a sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "多（おお）くが当選（とうせん）した。",
+      "english": "Many won the lottery."
+    },
+    {
+      "type": "paragraph",
+      "text": "They can also be used as the object of a sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "遠（とお）くを見（み）た。",
+      "english": "I saw a faraway place."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, they can be joined to other nouns with the particle の:"
+    },
+    {
+      "type": "example",
+      "japanese": "近（ちか）くのお店（みせ）に行（い）った。",
+      "english": "I went to a nearby store. (Literally: I went to the store of a nearby place)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a tricky one because it looks like it’s being used like an adjective, but since only nouns can generally be attached to other nouns with particle の , 近（ちか）く is actually behaving as a noun here."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "adjectives-that-can-behave-like-nouns",
+      "text": "い-Adjectives that Can Behave like Nouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "The list of い-adjectives that can behave as nouns is so limited, that it’s worthwhile listing them here. They are organized by whether they are used to describe time, place, or other."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "time-adjectives",
+      "text": "Time Adjectives"
+    },
+    {
+      "type": "formula",
+      "japanese": "早（はや）い (early) 遅（おそ）い (late) 古（ふる）い (old) 若（わか）い (young) 幼（おさな）い (childish)",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "早（はや）い (early) 遅（おそ）い (late) 古（ふる）い (old) 若（わか）い (young) 幼（おさな）い (childish)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "place-adjectives",
+      "text": "Place Adjectives"
+    },
+    {
+      "type": "formula",
+      "japanese": "深（ふか）い (deep) 浅（あさ）い (shallow) 高（たか）い (high) 低（ひく）い (low) 遠（とお）い (faraway) 近（ちか）い (near)",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "深（ふか）い (deep) 浅（あさ）い (shallow) 高（たか）い (high) 低（ひく）い (low) 遠（とお）い (faraway) 近（ちか）い (near)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "other-adjectives",
+      "text": "Other Adjectives"
+    },
+    {
+      "type": "formula",
+      "japanese": "多（おお）い (many)",
+      "english": ""
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Using adjectives like nouns is common in many languages, including English. Just look at an expression like “ many will enter, few will win.\" Many and few are typically used as adjectives, and yet here they function as nouns.",
+    "In Japanese, a limited number of い-adjectives in their く form can be used like nouns. These are adjectives that describe the characteristics of a time or place. The only addition to this is 多（おお）く, which can behave as noun despite the fact that it doesn't describe a time or a place.",
+    "All the い-adjectives in this group can be used before particles of time or location, such as まで (until), へ (to), に (at/in/to) and から (from).",
+    "In the first example, 古（ふる）く can be understood as “old times” or “long ago” and tells us the time period of the friendship, marked with から. In the second sentence, 遅（おそ）く means “a late time”, and the particle まで tells us that it is the point in time that the action continued until. Though in English we can say \"until late\", in Japanese まで can generally can’t be used with adjectives or adverbs.",
+    "Just three い-adjectives can be used in more of the ways nouns can be used. These are 多（おお）く, 遠（とお）く and 近（ちか）く. They can be used as the subject of a sentence:",
+    "They can also be used as the object of a sentence:",
+    "Finally, they can be joined to other nouns with the particle の:",
+    "This is a tricky one because it looks like it’s being used like an adjective, but since only nouns can generally be attached to other nouns with particle の , 近（ちか）く is actually behaving as a noun here.",
+    "The list of い-adjectives that can behave as nouns is so limited, that it’s worthwhile listing them here. They are organized by whether they are used to describe time, place, or other.",
+    "早（はや）い (early) 遅（おそ）い (late) 古（ふる）い (old) 若（わか）い (young) 幼（おさな）い (childish)",
+    "深（ふか）い (deep) 浅（あさ）い (shallow) 高（たか）い (high) 低（ひく）い (low) 遠（とお）い (faraway) 近（ちか）い (near)"
+  ],
+  "examples": [
+    {
+      "japanese": "来週（らいしゅう）古（ふる）くからの友達（ともだち）が遊（あそ）びに来（く）る。",
+      "english": "Next week, a friend from old times is coming to visit."
+    },
+    {
+      "japanese": "彼（かれ）は遅（おそ）くまで勉強（べんきょう）しました。",
+      "english": "He studied until late."
+    },
+    {
+      "japanese": "多（おお）くが当選（とうせん）した。",
+      "english": "Many won the lottery."
+    },
+    {
+      "japanese": "遠（とお）くを見（み）た。",
+      "english": "I saw a faraway place."
+    },
+    {
+      "japanese": "近（ちか）くのお店（みせ）に行（い）った。",
+      "english": "I went to a nearby store. (Literally: I went to the store of a nearby place)"
+    },
+    {
+      "japanese": "早（はや）い (early) 遅（おそ）い (late) 古（ふる）い (old) 若（わか）い (young) 幼（おさな）い (childish)",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "深（ふか）い (deep) 浅（あさ）い (shallow) 高（たか）い (high) 低（ひく）い (low) 遠（とお）い (faraway) 近（ちか）い (near)",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "多（おお）い (many)",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "adjectives-before-particles-of-time-or-location",
+      "text": "い-Adjectives Before Particles of Time or Location"
+    },
+    {
+      "level": 3,
+      "id": "adjectives-in-other-positions",
+      "text": "い-Adjectives in Other Positions"
+    },
+    {
+      "level": 2,
+      "id": "adjectives-that-can-behave-like-nouns",
+      "text": "い-Adjectives that Can Behave like Nouns"
+    },
+    {
+      "level": 3,
+      "id": "time-adjectives",
+      "text": "Time Adjectives"
+    },
+    {
+      "level": 3,
+      "id": "place-adjectives",
+      "text": "Place Adjectives"
+    },
+    {
+      "level": 3,
+      "id": "other-adjectives",
+      "text": "Other Adjectives"
+    }
+  ],
+  "id": 91,
+  "slug": "i-adjective-ku-form-noun",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/i-adjective-ku-form-noun/",
+  "categories": [
+    "Adjective Form"
+  ]
+}

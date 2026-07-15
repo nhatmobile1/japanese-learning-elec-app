@@ -1,0 +1,775 @@
+{
+  "title": "〜じゃない・〜ではない",
+  "description": "Adding 〜じゃない or 〜ではない to the end of a noun or a な-adjective makes it negative, similar to the way \"not\" functions in English. Between the two, 〜じゃない is more casual, whereas 〜ではない is formal.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "To create the negative form of nouns or な-adjectives, you can simply add 〜じゃない or 〜ではない. For instance, imagine your friend invites you over to introduce you to their new pet, which they tell you is a cat. But it doesn't look anything like a cat. To say that, you can add 〜じゃない or 〜ではない to the noun ネコ (cat), as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "ネコ[じゃない・ではない]。",
+      "english": "It isn't a cat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's say their pet starts scooting its butt across the floor, so you point out this strange behavior, saying it's weird. Here, your friend may reject your assertion, by combining the な-adjective 変（へん） (weird) with 〜じゃない or 〜ではない:"
+    },
+    {
+      "type": "example",
+      "japanese": "変（へん）[じゃない・ではない]。",
+      "english": "It isn't weird."
+    },
+    {
+      "type": "paragraph",
+      "text": "But, since they appear to be interchangeable, how are you supposed to know which one to use, and when?"
+    },
+    {
+      "type": "paragraph",
+      "text": "It pretty much comes down to the level of formality. Let's break it down."
+    },
+    {
+      "type": "paragraph",
+      "text": "You know how people commonly shorten words in casual spoken language?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Well, the じゃ in 〜じゃない is actually the contracted version of では. So we can consider 〜じゃない more casual or informal and 〜ではない more formal, or distant."
+    },
+    {
+      "type": "paragraph",
+      "text": "You often hear 〜じゃない in spoken language while 〜ではない is mostly used in written language. When 〜ではない is used in casual conversation, it often indicates an emphatic rejection."
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll talk more about this emphatic use of 〜ではない later on, but first let’s touch on the patterns of use and the politeness of 〜じゃない and 〜ではない."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "past-tense",
+      "text": "Past Tense"
+    },
+    {
+      "type": "paragraph",
+      "text": "Both 〜じゃない and 〜ではない end in ない, which conjugates the same as い-adjectives . To conjugate it into the past tense, you just remove the final い and add the past tense ending of い-adjectives , which is 〜かった, like:"
+    },
+    {
+      "type": "formula",
+      "japanese": "[じゃ・では]ない + かった = なかった",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "[じゃ・では]な い + かった = な かった"
+    },
+    {
+      "type": "paragraph",
+      "text": "So the earlier examples in the past tense would look like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "ネコ[じゃなかった・ではなかった]。",
+      "english": "It wasn't a cat."
+    },
+    {
+      "type": "example",
+      "japanese": "変（へん）[じゃなかった・ではなかった]。",
+      "english": "It wasn't weird."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "politeness-of--and-",
+      "text": "Politeness of 〜じゃない and 〜ではない"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although 〜じゃない is informal and 〜ではない is formal, they both are considered casual in terms of politeness."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"What is the difference between formal and polite?\" you may ask."
+    },
+    {
+      "type": "paragraph",
+      "text": "Well, formality is about stiffness of style. So, for example, \"profession\" is probably a more formal word than \"job,\" right? In the same way, if the style of a language is literary, professional, pedantic, or lofty, it's considered formal but it doesn't necessarily mean it's \"polite.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Politeness is more about social courtesy. Even formal language can be interpreted as impolite depending on tone and word choice. To really sound polite, you must use language that demonstrates respect for the person you are addressing, similar to changing \"Can you…?\" to \"Could I trouble you to…?\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sense, 〜じゃない and 〜ではない are both informal, casual expressions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then, the next question would be: \"how can we make them more polite?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "For 〜じゃない, just add です, as in 〜じゃないです."
+    },
+    {
+      "type": "paragraph",
+      "text": "For 〜ではない, you can also add です, as in 〜ではないです, but you can also replace ない with ありません, as in 〜ではありません."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here’s a handy table to help you understand the relationships:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Casual⇔Polite"
+        ],
+        [
+          "Informal",
+          "〜じゃない",
+          "〜じゃないです"
+        ],
+        [
+          "Formal",
+          "〜ではない",
+          "〜ではないです",
+          "〜ではありません"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, suppose your boss asks if you are the one who left a surprise present on their desk. To say it wasn't you, you can either say:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）[じゃないです・ではないです・ではありません]。",
+      "english": "It isn't (from) me."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜じゃないです is probably the most commonly used of the three because the では versions are formal polite, which might seem a little stiff in ordinary settings. Between the two では variants, 〜ではありません is more polite than 〜ではないです and may be reserved for explaining things in a formal and courteous manner or in storytelling."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "past-tense-of---and-",
+      "text": "Past Tense of 〜じゃないです, 〜ではないです, and 〜ではありません"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before we move on to the next section, we'll touch on the grammatical usage of 〜じゃないです, 〜ではないです, and 〜ではありません."
+    },
+    {
+      "type": "paragraph",
+      "text": "You might know the past tense of です is でした, but be warned. You can not turn 〜[じゃ・では]ない です into 〜[じゃ・では]ない でした ."
+    },
+    {
+      "type": "paragraph",
+      "text": "To form the past tense, you instead conjugate ない, as in 〜[じゃ・では] なかった です."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because です becomes でした only when there aren't any other elements in the sentence that indicate you are talking about something that happened in the past. And in the case of 〜じゃないです and 〜ではないです, the ない can conjugate into なかった to indicate the past tense, so です remains unchanged."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the contrary, none of the elements in 〜ではありません can further conjugate to indicate the past tense. Therefore, you actually need でした to talk about the past here, as in 〜ではありません でした ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-emphatic-rejection-in-conversation",
+      "text": "〜ではない For Emphatic Rejection in Conversation"
+    },
+    {
+      "type": "paragraph",
+      "text": "As we touched on earlier, 〜じゃない is more commonly used in speech, but occasionally you'll hear someone use 〜ではない to deny a claim. And when using 〜ではない, it sounds more emphatic than using 〜じゃない."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's go back to the earlier scenario where your friend introduces their pet to you. They tell you it's a cat, but it doesn't resemble a cat in the least, so you tell them:"
+    },
+    {
+      "type": "example",
+      "japanese": "ネコ[じゃない・ではない]。",
+      "english": "It isn't a cat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, the use of 〜じゃない makes it sound like you're casually stating, “That's not a cat.” 〜ではない, on the other hand, strengthens the resolve of your statement, as in \"I wouldn't call that a cat.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "The combination of で (used to specify something) and は (which marks a topic) in 〜ではない functions to distinctly call out ネコ as the element that is being emphatically denied."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compared to 〜ではない, 〜じゃない is not as strong because じゃ is the contraction of では and mitigates the nuances of the two particles."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, continue on the same scenario where you told your friend that their pet is a little 変（へん） (weird) and they rebuffed your assertion saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "変（へん）[じゃない・ではない]。",
+      "english": "It isn't weird."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, 〜じゃない makes a casual denial, whereas 〜ではない stresses that 変（へん） is the very last thing it could be. This flow of conversation may even imply a message like \"although my pet may not genuinely be a cat, it is undoubtedly not \"weird.\""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and-pitch-accent",
+      "text": "～じゃない And Pitch Accent"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this section, we'll examine the application of various intonations of 〜じゃない's. Surprisingly, there are multiple ways to say 〜じゃない, and the meanings vary depending on your intonation. So, how does it work?"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you know by now, 〜じゃない is used to refute a statement, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "それ、お酒（さけ）じゃない。",
+      "english": "It isn't alcohol."
+    },
+    {
+      "type": "paragraph",
+      "text": "When it's used this way, the pitch accent, a.k.a. intonation, of おさけじゃない goes ↓↑↑↑↑↓: 1"
+    },
+    {
+      "type": "example",
+      "japanese": "おさけじゃない (↓↑↑↑↑↓)",
+      "english": "It isn't alcohol."
+    },
+    {
+      "type": "paragraph",
+      "text": "The key point here is the pitch accent of the denial word, ない. It goes ↑↓, or more like ↘, and its precipitous drop in intonation expresses the flat denial of something."
+    },
+    {
+      "type": "example",
+      "japanese": "ない (↘)",
+      "english": "It's not."
+    },
+    {
+      "type": "paragraph",
+      "text": "The key point here is the pitch accent of the denial word, ない. It goes ↑↓ and its precipitous drop in intonation expresses the flat denial of something."
+    },
+    {
+      "type": "paragraph",
+      "text": "With that in mind, let's see how 〜じゃない is used with different intonations!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "yesno-questions-in-japanese",
+      "text": "Yes/No Questions In Japanese"
+    },
+    {
+      "type": "paragraph",
+      "text": "Before jumping onto the next topic, it's important to keep in mind that to form a yes/no question in Japanese, you maintain the intonation of the statement while prolonging the final vowel and adding a rising intonation. For example, you can have the following conversation by using the same word, 飲（の）む (to drink), with different intonations:"
+    },
+    {
+      "type": "example",
+      "japanese": "飲（の）むぅ (↑↓⤴)",
+      "english": "Do you want to drink this?"
+    },
+    {
+      "type": "example",
+      "japanese": "飲（の）む (↑↓)",
+      "english": "I'll drink it."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "and--for-expressing-doubt-or-surprise",
+      "text": "〜じゃないぃ？！ and 〜じゃないの？ For Expressing Doubt or Surprise"
+    },
+    {
+      "type": "paragraph",
+      "text": "With a rising intonation, じゃない can be used to express a sense of doubt, as if you're repeating the statement with \"?!\" as in, \"This isn't edible?!\""
+    },
+    {
+      "type": "paragraph",
+      "text": "So, if someone says, \"It isn't alcohol,\" and you don't believe them, you can respond by quoting the same line while making the final vowel longer and adding a rising intonation to it, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "おさけじゃないぃ (↓↑↑↑↑↓⤴)",
+      "english": "It isn't alcohol?!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since this intonation indicates that you're challenging the statement, you can add nuances such as \"What did you just say?,\" \"Really?,\" \"No way!,\" and other similar expressions to show your surprise. And depending on how you say it, it can convey anything from sheer surprise to your outrage or ridicule."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also express your doubt and surprise by swapping out the extended vowel for one of the sentence-ending particles in Japanese. For instance, if you replace the little ぃ in the example above with the particle の, it conveys a sense of curiosity."
+    },
+    {
+      "type": "example",
+      "japanese": "おさけじゃないの (↓↑↑↑↑↓⤴)",
+      "english": "It isn't alcohol?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the ending gets switched up a little here, the intonation remains the same. The ない still goes down steeply, indicating a denial, while the の at the end is pronounced with rising intonation."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-seeking-agreement",
+      "text": "〜じゃない？ For Seeking Agreement"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜じゃない can be used for purposes other than negation, too. Check out this example! 2"
+    },
+    {
+      "type": "example",
+      "japanese": "それ、お酒（さけ）じゃない？",
+      "english": "Is this alcohol? (Literally: It is alcohol, isn't it?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "You see that while the example is exactly the same as the one from earlier, but the translation is completely different? Yes, the sentence that formally denied the statement that something is alcohol (as in, \"It isn't alcohol\") has now been changed to one that suggests the statement is true (It is alcohol, isn't it?)."
+    },
+    {
+      "type": "paragraph",
+      "text": "And as you might have guessed, the intonation changes when it's used this way, and there are two ways!"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first way goes おさけじゃない(↓↑↑↑↓⤴):"
+    },
+    {
+      "type": "example",
+      "japanese": "おさけじゃない(↓↑↑↑↓⤴)",
+      "english": "It is alcohol, isn't it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "And the second way goes おさけじゃない(↓↑↑↑↑↑):"
+    },
+    {
+      "type": "example",
+      "japanese": "おさけじゃない(↓↑↑↑↑↑)",
+      "english": "It is alcohol, isn't it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice the pitch accent of the denial word ない no longer goes down, but rises or remains flat in a high tone."
+    },
+    {
+      "type": "example",
+      "japanese": "ない (↓⤴)",
+      "english": "It's not."
+    },
+    {
+      "type": "example",
+      "japanese": "ない (↑↑)",
+      "english": "It's not."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the denial word ない is used with a rising tone in itself, it no longer conveys a flat denial but rather your hesitation or uncertainty regarding the claim."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a result, this intonation is used to express your own judgment about what is stated in the affirmative version of the sentence, and ask for agreement while not imposing your belief on the person you are addressing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The \"flat in a high tone version\" is the newer and more modern version of rising ない. The two characters are pronounced almost as one mora, like なぃ, with the two characters being pronounced almost like a combined sound rather than two separate sounds. Although they function the same way, the flat ない feels slightly more casual and tends to be used by younger generations."
+    },
+    {
+      "type": "paragraph",
+      "text": "Either way, due to its nuance and function, this expression is usually written with a question mark, as in 〜じゃない?, and typically translates to \"It's…, isn't it?\" or similar patterns."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-expressing-unexpected-realization",
+      "text": "〜じゃない！ For Expressing Unexpected Realization"
+    },
+    {
+      "type": "paragraph",
+      "text": "What 〜じゃない expresses in different intonations is not limited to questions. For example, imagine a situation in which you initially believed you were served water, only to discover after drinking it that it was actually alcohol."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you might also say お酒（さけ）じゃない with the intonation おさけじゃない(↓↑↑↑↓↓):"
+    },
+    {
+      "type": "example",
+      "japanese": "おさけじゃない(↓↑↑↑↓↓)",
+      "english": "Oh, it's alcohol"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, the pitch accent of the denial word ない is flat in a low tone here. By eliminating the interrogative rising tone, it is clear that you are not seeking agreement from a source other than yourself. In other words, it functions like a rhetorical question."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hence, this line reads as a simple, self-directed affirmation of what you have just discovered, or used to tell someone it's not what you expected in a semi self-directed manner."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that this ない can also be pronounced as one mora, like なぃ, especially when the utterance is directed more towards yourself."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "for-reminding",
+      "text": "〜じゃない！！ For Reminding"
+    },
+    {
+      "type": "paragraph",
+      "text": "For the sake of consistency, let’s continue on with the same scenario. Say someone responds with:"
+    },
+    {
+      "type": "example",
+      "japanese": "それ、お酒（さけ）だって言（い）ったじゃない。",
+      "english": "Hey, I told you it's alcohol!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Interestingly, in this case, the pitch accent of the whole 〜じゃない becomes flat in low, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "言（い）ったじゃない(↓↑↑↓↓↓)",
+      "english": "I told you!"
+    },
+    {
+      "type": "paragraph",
+      "text": "By saying 〜じゃない entirely at a lower pitch, you can convey your strong affirmation of a statement, as in, \"I told you, didn't I?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "In other words, it is used to point out that something that was supposed to be acknowledged earlier but was instead disregarded or forgotten, has proven to be well-founded. If said very nicely, it can be a gentle reproof, too. But the message remains the same – See, I told you."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, notice that the subject 私（わたし） (I) is omitted in Japanese? This is because in Japanese subjects or objects tend to be omitted when they're clear from the context. So keep in mind that depening on the context, this exact same sentence, それ、お酒（さけ）だって言（い）った じゃない can mean, \"Hey, you said it was alcohol!,\" with the same implication of \"I'm not letting you agree that it isn't the case.\" Footnotes:"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this usage, it's possible to prolong the pronunciation of じゃ, as in それはお酒（さけ）じゃーない. In this case, the pitch accent of (↓↑↑↓↑↓↑). \"おさけじゃぁない。 / It isn't alcohol.\" &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Grammatically, this use of じゃない is called a \"tag question.\" &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "To create the negative form of nouns or な-adjectives, you can simply add 〜じゃない or 〜ではない. For instance, imagine your friend invites you over to introduce you to their new pet, which they tell you is a cat. But it doesn't look anything like a cat. To say that, you can add 〜じゃない or 〜ではない to the noun ネコ (cat), as in:",
+    "Let's say their pet starts scooting its butt across the floor, so you point out this strange behavior, saying it's weird. Here, your friend may reject your assertion, by combining the な-adjective 変（へん） (weird) with 〜じゃない or 〜ではない:",
+    "But, since they appear to be interchangeable, how are you supposed to know which one to use, and when?",
+    "It pretty much comes down to the level of formality. Let's break it down.",
+    "You know how people commonly shorten words in casual spoken language?",
+    "Well, the じゃ in 〜じゃない is actually the contracted version of では. So we can consider 〜じゃない more casual or informal and 〜ではない more formal, or distant.",
+    "You often hear 〜じゃない in spoken language while 〜ではない is mostly used in written language. When 〜ではない is used in casual conversation, it often indicates an emphatic rejection.",
+    "We'll talk more about this emphatic use of 〜ではない later on, but first let’s touch on the patterns of use and the politeness of 〜じゃない and 〜ではない.",
+    "Both 〜じゃない and 〜ではない end in ない, which conjugates the same as い-adjectives . To conjugate it into the past tense, you just remove the final い and add the past tense ending of い-adjectives , which is 〜かった, like:",
+    "[じゃ・では]な い + かった = な かった",
+    "So the earlier examples in the past tense would look like this:",
+    "Although 〜じゃない is informal and 〜ではない is formal, they both are considered casual in terms of politeness.",
+    "\"What is the difference between formal and polite?\" you may ask.",
+    "Well, formality is about stiffness of style. So, for example, \"profession\" is probably a more formal word than \"job,\" right? In the same way, if the style of a language is literary, professional, pedantic, or lofty, it's considered formal but it doesn't necessarily mean it's \"polite.\"",
+    "Politeness is more about social courtesy. Even formal language can be interpreted as impolite depending on tone and word choice. To really sound polite, you must use language that demonstrates respect for the person you are addressing, similar to changing \"Can you…?\" to \"Could I trouble you to…?\" in English.",
+    "In this sense, 〜じゃない and 〜ではない are both informal, casual expressions.",
+    "Then, the next question would be: \"how can we make them more polite?\"",
+    "For 〜じゃない, just add です, as in 〜じゃないです.",
+    "For 〜ではない, you can also add です, as in 〜ではないです, but you can also replace ない with ありません, as in 〜ではありません.",
+    "Here’s a handy table to help you understand the relationships:",
+    "For example, suppose your boss asks if you are the one who left a surprise present on their desk. To say it wasn't you, you can either say:",
+    "Here, 〜じゃないです is probably the most commonly used of the three because the では versions are formal polite, which might seem a little stiff in ordinary settings. Between the two では variants, 〜ではありません is more polite than 〜ではないです and may be reserved for explaining things in a formal and courteous manner or in storytelling.",
+    "Before we move on to the next section, we'll touch on the grammatical usage of 〜じゃないです, 〜ではないです, and 〜ではありません.",
+    "You might know the past tense of です is でした, but be warned. You can not turn 〜[じゃ・では]ない です into 〜[じゃ・では]ない でした .",
+    "To form the past tense, you instead conjugate ない, as in 〜[じゃ・では] なかった です.",
+    "This is because です becomes でした only when there aren't any other elements in the sentence that indicate you are talking about something that happened in the past. And in the case of 〜じゃないです and 〜ではないです, the ない can conjugate into なかった to indicate the past tense, so です remains unchanged.",
+    "On the contrary, none of the elements in 〜ではありません can further conjugate to indicate the past tense. Therefore, you actually need でした to talk about the past here, as in 〜ではありません でした .",
+    "As we touched on earlier, 〜じゃない is more commonly used in speech, but occasionally you'll hear someone use 〜ではない to deny a claim. And when using 〜ではない, it sounds more emphatic than using 〜じゃない.",
+    "Let's go back to the earlier scenario where your friend introduces their pet to you. They tell you it's a cat, but it doesn't resemble a cat in the least, so you tell them:",
+    "Here, the use of 〜じゃない makes it sound like you're casually stating, “That's not a cat.” 〜ではない, on the other hand, strengthens the resolve of your statement, as in \"I wouldn't call that a cat.\"",
+    "The combination of で (used to specify something) and は (which marks a topic) in 〜ではない functions to distinctly call out ネコ as the element that is being emphatically denied.",
+    "Compared to 〜ではない, 〜じゃない is not as strong because じゃ is the contraction of では and mitigates the nuances of the two particles.",
+    "Now, continue on the same scenario where you told your friend that their pet is a little 変（へん） (weird) and they rebuffed your assertion saying:",
+    "Again, 〜じゃない makes a casual denial, whereas 〜ではない stresses that 変（へん） is the very last thing it could be. This flow of conversation may even imply a message like \"although my pet may not genuinely be a cat, it is undoubtedly not \"weird.\"",
+    "In this section, we'll examine the application of various intonations of 〜じゃない's. Surprisingly, there are multiple ways to say 〜じゃない, and the meanings vary depending on your intonation. So, how does it work?",
+    "As you know by now, 〜じゃない is used to refute a statement, as in:",
+    "When it's used this way, the pitch accent, a.k.a. intonation, of おさけじゃない goes ↓↑↑↑↑↓: 1",
+    "The key point here is the pitch accent of the denial word, ない. It goes ↑↓, or more like ↘, and its precipitous drop in intonation expresses the flat denial of something.",
+    "The key point here is the pitch accent of the denial word, ない. It goes ↑↓ and its precipitous drop in intonation expresses the flat denial of something.",
+    "With that in mind, let's see how 〜じゃない is used with different intonations!",
+    "Before jumping onto the next topic, it's important to keep in mind that to form a yes/no question in Japanese, you maintain the intonation of the statement while prolonging the final vowel and adding a rising intonation. For example, you can have the following conversation by using the same word, 飲（の）む (to drink), with different intonations:",
+    "With a rising intonation, じゃない can be used to express a sense of doubt, as if you're repeating the statement with \"?!\" as in, \"This isn't edible?!\"",
+    "So, if someone says, \"It isn't alcohol,\" and you don't believe them, you can respond by quoting the same line while making the final vowel longer and adding a rising intonation to it, as in:",
+    "Since this intonation indicates that you're challenging the statement, you can add nuances such as \"What did you just say?,\" \"Really?,\" \"No way!,\" and other similar expressions to show your surprise. And depending on how you say it, it can convey anything from sheer surprise to your outrage or ridicule.",
+    "You can also express your doubt and surprise by swapping out the extended vowel for one of the sentence-ending particles in Japanese. For instance, if you replace the little ぃ in the example above with the particle の, it conveys a sense of curiosity.",
+    "Although the ending gets switched up a little here, the intonation remains the same. The ない still goes down steeply, indicating a denial, while the の at the end is pronounced with rising intonation.",
+    "〜じゃない can be used for purposes other than negation, too. Check out this example! 2",
+    "You see that while the example is exactly the same as the one from earlier, but the translation is completely different? Yes, the sentence that formally denied the statement that something is alcohol (as in, \"It isn't alcohol\") has now been changed to one that suggests the statement is true (It is alcohol, isn't it?).",
+    "And as you might have guessed, the intonation changes when it's used this way, and there are two ways!",
+    "The first way goes おさけじゃない(↓↑↑↑↓⤴):",
+    "And the second way goes おさけじゃない(↓↑↑↑↑↑):",
+    "Notice the pitch accent of the denial word ない no longer goes down, but rises or remains flat in a high tone.",
+    "When the denial word ない is used with a rising tone in itself, it no longer conveys a flat denial but rather your hesitation or uncertainty regarding the claim.",
+    "As a result, this intonation is used to express your own judgment about what is stated in the affirmative version of the sentence, and ask for agreement while not imposing your belief on the person you are addressing.",
+    "The \"flat in a high tone version\" is the newer and more modern version of rising ない. The two characters are pronounced almost as one mora, like なぃ, with the two characters being pronounced almost like a combined sound rather than two separate sounds. Although they function the same way, the flat ない feels slightly more casual and tends to be used by younger generations.",
+    "Either way, due to its nuance and function, this expression is usually written with a question mark, as in 〜じゃない?, and typically translates to \"It's…, isn't it?\" or similar patterns.",
+    "What 〜じゃない expresses in different intonations is not limited to questions. For example, imagine a situation in which you initially believed you were served water, only to discover after drinking it that it was actually alcohol.",
+    "In this case, you might also say お酒（さけ）じゃない with the intonation おさけじゃない(↓↑↑↑↓↓):",
+    "As you can see, the pitch accent of the denial word ない is flat in a low tone here. By eliminating the interrogative rising tone, it is clear that you are not seeking agreement from a source other than yourself. In other words, it functions like a rhetorical question.",
+    "Hence, this line reads as a simple, self-directed affirmation of what you have just discovered, or used to tell someone it's not what you expected in a semi self-directed manner.",
+    "Note that this ない can also be pronounced as one mora, like なぃ, especially when the utterance is directed more towards yourself.",
+    "For the sake of consistency, let’s continue on with the same scenario. Say someone responds with:",
+    "Interestingly, in this case, the pitch accent of the whole 〜じゃない becomes flat in low, as in:",
+    "By saying 〜じゃない entirely at a lower pitch, you can convey your strong affirmation of a statement, as in, \"I told you, didn't I?\"",
+    "In other words, it is used to point out that something that was supposed to be acknowledged earlier but was instead disregarded or forgotten, has proven to be well-founded. If said very nicely, it can be a gentle reproof, too. But the message remains the same – See, I told you.",
+    "Finally, notice that the subject 私（わたし） (I) is omitted in Japanese? This is because in Japanese subjects or objects tend to be omitted when they're clear from the context. So keep in mind that depening on the context, this exact same sentence, それ、お酒（さけ）だって言（い）った じゃない can mean, \"Hey, you said it was alcohol!,\" with the same implication of \"I'm not letting you agree that it isn't the case.\" Footnotes:",
+    "In this usage, it's possible to prolong the pronunciation of じゃ, as in それはお酒（さけ）じゃーない. In this case, the pitch accent of (↓↑↑↓↑↓↑). \"おさけじゃぁない。 / It isn't alcohol.\" &#8617;",
+    "Grammatically, this use of じゃない is called a \"tag question.\" &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "ネコ[じゃない・ではない]。",
+      "english": "It isn't a cat."
+    },
+    {
+      "japanese": "変（へん）[じゃない・ではない]。",
+      "english": "It isn't weird."
+    },
+    {
+      "japanese": "ネコ[じゃなかった・ではなかった]。",
+      "english": "It wasn't a cat."
+    },
+    {
+      "japanese": "変（へん）[じゃなかった・ではなかった]。",
+      "english": "It wasn't weird."
+    },
+    {
+      "japanese": "私（わたし）[じゃないです・ではないです・ではありません]。",
+      "english": "It isn't (from) me."
+    },
+    {
+      "japanese": "ネコ[じゃない・ではない]。",
+      "english": "It isn't a cat."
+    },
+    {
+      "japanese": "変（へん）[じゃない・ではない]。",
+      "english": "It isn't weird."
+    },
+    {
+      "japanese": "それ、お酒（さけ）じゃない。",
+      "english": "It isn't alcohol."
+    },
+    {
+      "japanese": "おさけじゃない (↓↑↑↑↑↓)",
+      "english": "It isn't alcohol."
+    },
+    {
+      "japanese": "ない (↘)",
+      "english": "It's not."
+    },
+    {
+      "japanese": "飲（の）むぅ (↑↓⤴)",
+      "english": "Do you want to drink this?"
+    },
+    {
+      "japanese": "飲（の）む (↑↓)",
+      "english": "I'll drink it."
+    },
+    {
+      "japanese": "おさけじゃないぃ (↓↑↑↑↑↓⤴)",
+      "english": "It isn't alcohol?!"
+    },
+    {
+      "japanese": "おさけじゃないの (↓↑↑↑↑↓⤴)",
+      "english": "It isn't alcohol?"
+    },
+    {
+      "japanese": "それ、お酒（さけ）じゃない？",
+      "english": "Is this alcohol? (Literally: It is alcohol, isn't it?)"
+    },
+    {
+      "japanese": "おさけじゃない(↓↑↑↑↓⤴)",
+      "english": "It is alcohol, isn't it?"
+    },
+    {
+      "japanese": "おさけじゃない(↓↑↑↑↑↑)",
+      "english": "It is alcohol, isn't it?"
+    },
+    {
+      "japanese": "ない (↓⤴)",
+      "english": "It's not."
+    },
+    {
+      "japanese": "ない (↑↑)",
+      "english": "It's not."
+    },
+    {
+      "japanese": "おさけじゃない(↓↑↑↑↓↓)",
+      "english": "Oh, it's alcohol"
+    },
+    {
+      "japanese": "それ、お酒（さけ）だって言（い）ったじゃない。",
+      "english": "Hey, I told you it's alcohol!"
+    },
+    {
+      "japanese": "言（い）ったじゃない(↓↑↑↓↓↓)",
+      "english": "I told you!"
+    },
+    {
+      "japanese": "[じゃ・では]ない + かった = なかった",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Casual⇔Polite"
+      ],
+      [
+        "Informal",
+        "〜じゃない",
+        "〜じゃないです"
+      ],
+      [
+        "Formal",
+        "〜ではない",
+        "〜ではないです",
+        "〜ではありません"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "past-tense",
+      "text": "Past Tense"
+    },
+    {
+      "level": 3,
+      "id": "politeness-of--and-",
+      "text": "Politeness of 〜じゃない and 〜ではない"
+    },
+    {
+      "level": 4,
+      "id": "past-tense-of---and-",
+      "text": "Past Tense of 〜じゃないです, 〜ではないです, and 〜ではありません"
+    },
+    {
+      "level": 3,
+      "id": "for-emphatic-rejection-in-conversation",
+      "text": "〜ではない For Emphatic Rejection in Conversation"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "and-pitch-accent",
+      "text": "～じゃない And Pitch Accent"
+    },
+    {
+      "level": 4,
+      "id": "yesno-questions-in-japanese",
+      "text": "Yes/No Questions In Japanese"
+    },
+    {
+      "level": 4,
+      "id": "and--for-expressing-doubt-or-surprise",
+      "text": "〜じゃないぃ？！ and 〜じゃないの？ For Expressing Doubt or Surprise"
+    },
+    {
+      "level": 4,
+      "id": "for-seeking-agreement",
+      "text": "〜じゃない？ For Seeking Agreement"
+    },
+    {
+      "level": 4,
+      "id": "for-expressing-unexpected-realization",
+      "text": "〜じゃない！ For Expressing Unexpected Realization"
+    },
+    {
+      "level": 4,
+      "id": "for-reminding",
+      "text": "〜じゃない！！ For Reminding"
+    }
+  ],
+  "id": 50,
+  "slug": "janai-dewanai",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/janai-dewanai/",
+  "categories": [
+    "だ/です"
+  ]
+}

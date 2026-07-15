@@ -1,0 +1,138 @@
+{
+  "title": "〜なくてもいい",
+  "description": "〜なくてもいい means \"don't have to\" / \"there's no need to.\" It's the negative counterpart of obligation — telling someone an action isn't necessary.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take the verb's ない-form, drop the final い, and add くてもいい. 行（い）く → 行（い）かない → 行（い）かなくてもいい (\"don't have to go\"). Literally it reads \"even if you don't do it, it's fine,\" which is exactly the nuance: the action is optional, so feel free to skip it."
+    },
+    {
+      "type": "formula",
+      "japanese": "verb ない-form（drop い）＋ くてもいい",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "明日（あした）は来（こ）なくてもいいよ。",
+      "english": "You don't have to come tomorrow."
+    },
+    {
+      "type": "example",
+      "japanese": "駅（えき）が近（ちか）いので、運転（うんてん）しなくてもいい。",
+      "english": "The station is close, so I don't have to drive."
+    },
+    {
+      "type": "example",
+      "japanese": "この本（ほん）は今日（きょう）返（かえ）さなくてもいいです。",
+      "english": "You don't have to return this book today."
+    },
+    {
+      "type": "example",
+      "japanese": "心配（しんぱい）しなくてもいいよ。",
+      "english": "You don't need to worry."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "variants",
+      "text": "Variants: 〜よい・〜かまわない・casual 〜なくていい"
+    },
+    {
+      "type": "paragraph",
+      "text": "いい can be swapped for the more formal よい or for かまわない (\"it doesn't matter\") with the same meaning. In casual speech the も is often dropped, giving 〜なくていい. And when the clause continues, いい becomes the て-form よくて — as in \"you don't have to drive, and…\""
+    },
+    {
+      "type": "formula",
+      "japanese": "〜なくてもいい ＝ 〜なくてもよい ＝ 〜なくてもかまわない",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "この辺（へん）は便利（べんり）で、運転（うんてん）しなくてもよくて、店（みせ）も近（ちか）い。",
+      "english": "This area is convenient — you don't even have to drive, and the shops are close too."
+    },
+    {
+      "type": "example",
+      "japanese": "疲（つか）れているから、あまり考（かんが）えなくてもいい映画（えいが）が見（み）たい。",
+      "english": "I'm tired, so I want to watch a movie I don't have to think much about."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "vs-obligation",
+      "text": "The Opposite of Obligation"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜なくてもいい is the direct opposite of 〜なければならない (\"must do\"). If someone asks 行（い）かなければなりませんか？ (\"Do I have to go?\"), the reassuring answer is いいえ、行（い）かなくてもいいです (\"No, you don't have to\"). Don't confuse it with 〜てもいい, which grants permission to do something rather than excusing you from it."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "verb ない-form（drop い）＋ くてもいい",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "明日（あした）は来（こ）なくてもいいよ。",
+      "english": "You don't have to come tomorrow."
+    },
+    {
+      "japanese": "駅（えき）が近（ちか）いので、運転（うんてん）しなくてもいい。",
+      "english": "The station is close, so I don't have to drive."
+    },
+    {
+      "japanese": "この本（ほん）は今日（きょう）返（かえ）さなくてもいいです。",
+      "english": "You don't have to return this book today."
+    },
+    {
+      "japanese": "心配（しんぱい）しなくてもいいよ。",
+      "english": "You don't need to worry."
+    },
+    {
+      "japanese": "〜なくてもいい ＝ 〜なくてもよい ＝ 〜なくてもかまわない",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "この辺（へん）は便利（べんり）で、運転（うんてん）しなくてもよくて、店（みせ）も近（ちか）い。",
+      "english": "This area is convenient — you don't even have to drive, and the shops are close too."
+    },
+    {
+      "japanese": "疲（つか）れているから、あまり考（かんが）えなくてもいい映画（えいが）が見（み）たい。",
+      "english": "I'm tired, so I want to watch a movie I don't have to think much about."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "variants",
+      "text": "Variants: 〜よい・〜かまわない・casual 〜なくていい"
+    },
+    {
+      "level": 2,
+      "id": "vs-obligation",
+      "text": "The Opposite of Obligation"
+    }
+  ],
+  "id": 1005,
+  "slug": "nakute-mo-ii",
+  "categories": [
+    "Verb Form",
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

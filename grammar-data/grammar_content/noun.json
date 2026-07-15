@@ -1,0 +1,1104 @@
+{
+  "title": "Nouns",
+  "description": "Nouns are words that label the world around us and are used to identify things.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "paragraph",
+      "text": "What do you picture when you hear \"nouns\"? People, places, and things… or something more abstract like \"beauty\" or \"concept\" — you name it. Those are nouns for sure, but the truth is that nouns are a much broader word type than this. There are nouns that label the world around us (those people, places, things, and more), but there are also nouns that have less specific meaning and perform important grammatical functions such as personal pronouns like \"you\" or demonstrative pronouns like \"this.\" On this page, we'll cover topics that are related to Japanese nouns."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although nouns may seem basic in nature and simple enough to master, there are many different types with very different functions. It's also important to be aware that some words that aren't considered nouns in English can be classified as nouns in Japanese, and vice versa. So let's first take a look at the types of nouns there are in Japanese."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "types-of-nouns",
+      "text": "Types of Nouns"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "common-nouns",
+      "text": "Common Nouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Common nouns are a type of noun that helps us label the world around us, like 犬（いぬ） (dog), 学校（がっこう） (school), and 石（いし） (stone). Since those words can be used to refer to any dog, any school, and any stone, they're less specific than \"proper nouns,\" which refer to things that are more individual and specific. For example, \"dog\" is a common noun, but your dog's name — Bailey, Hachi, etc. — is a proper noun. If you aren't sure, the rule of thumb for identifying a common noun is to see whether the word is capitalized or not in English. If it's all lowercase, then chances are it's a common noun."
+    },
+    {
+      "type": "paragraph",
+      "text": "We've only talked about tangible objects so far, but common nouns aren't limited to things that have physical forms. They can be something abstract like 選挙（せんきょ） (election), アイディア (idea), or 説明（せつめい） (explanation), for example."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "proper-nouns",
+      "text": "Proper Nouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "We already touched on this a bit in comparison to common nouns ; proper nouns are words used to identify specific things. In English, capitalized words like \"John,\" \"Tokyo,\" and \"McDonald's\" are proper nouns. They're more specific than common nouns in the sense that they refer to something individual and particular."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's say your dog's name is ハチ (Hachi) — Hachi is a proper noun because it refers to a particular dog, while the common noun \"dog\" refers to any dog. Just like that, you can be sure that the names of people or places are proper nouns. It's just like in English, so pretty straightforward, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "One thing to note about Japanese proper nouns is the importance of order — In Japanese, the broader category comes before the narrower category when giving people's names or addresses. For example, family name comes first followed by given name. So if your family name is 田中（たなか） (Tanaka), and your given name is キョーコ (Kyoko), in Japanese you would report your full name as 田中（たなか）キョーコ (Tanaka Kyoko) in that order. You're a part of the broader category of the 田中（たなか） family, and then more specifically, you are you, キョーコ."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）の名前（なまえ）は田中（たなか）キョーコです。",
+      "english": "My name is Kyoko Tanaka."
+    },
+    {
+      "type": "paragraph",
+      "text": "In similar fashion, Japanese addresses start with the biggest region — which typically is the prefecture — then get gradually more specific as they go: city, neighborhood, street number. US addresses on the other hand, start with the most specific part, such as a street number, then city, state, etc. Let's say you live in a neighborhood called 神泉（しんせん）町（まち） (Shinsencho neighborhood) in the 渋谷（しぶや）区（く） (Shibuya district) of 東京（とうきょう）都（と） (Tokyo prefecture). In this case, you'd say that in the reverse order in Japanese — you live in 東京（とうきょう）都（と） (prefecture), 渋谷（しぶや）区（く） (district), 神泉（しんせん）町（まち） (neighborhood)."
+    },
+    {
+      "type": "example",
+      "japanese": "東京（とうきょう）都（と）渋谷（しぶや）区（く）神泉（しんせん）町（まち）に住（す）んでいます。",
+      "english": "I live in Shinsencho, Shibuya district, Tokyo prefecture."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verbal-nouns--verb",
+      "text": "Verbal Nouns (する Verb)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Earlier, we explained common nouns can be used for abstract concepts like \"election\" or \"explanation.\" Many of these abstract nouns can be used for events or actions, just like \"election\" and \"explanation\" can mean the \"event of election\" and the \"act of explaining.\" And these nouns can be turned into verbs by adding the generic verb する, which simply means \"to do.\" These are known as verbal nouns, and some resources also call them \"する verbs.\" For instance, 説明（せつめい） is a noun for \"explanation,\" and when you add する (to do), as in 説明（せつめい）する, you can piece them together as \"to do an explanation\" meaning \"to explain.\" Take a close look at the noun 説明（せつめい） and the verb 説明（せつめい）する in the following example to see how they work as different word types."
+    },
+    {
+      "type": "example",
+      "japanese": "メールに説明（せつめい）を書（か）かなかったから、電話（でんわ）で説明（せつめい）するよ。",
+      "english": "I didn't write the explanation in the email, so I'll explain to you over the phone."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "personal-pronouns",
+      "text": "Personal Pronouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Personal pronouns are pronouns that are specifically used for referring to people, just like English personal pronouns such as \"you,\" \"she,\" and the like. These words replace common or proper nouns that are understood through context, or help us refer to things that we don't know the name of. There are a few types of personal pronouns depending on the perspective of who is talking, and who they're referring to."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though Japanese does have personal pronouns used to refer to others — someone other than you — they are not as commonly used as their equivalents like \"you\" or \"he/she/they\" in English. For more information about this tendency and different ways of referring to others, check out Kanae's article: What Should I Call You?"
+    },
+    {
+      "type": "paragraph",
+      "text": "First-Person Pronouns First-person pronouns are words for \"I.\" They're used for referring to the speaker themselves. Even though English speakers tend to use \"I\" exclusively as a first-person pronoun, there are some variations such as 私（わたし）, 僕（ぼく）, and 俺（おれ） in the Japanese language. People usually decide which pronoun to choose depending on different social and situational factors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Second-Person Pronouns Second-person pronouns are words for \"you.\" They're used for referring to the person the speaker is talking to. Just like first-person pronouns, Japanese has a variety of second-person pronouns, such as あなた, 君（きみ）, and お前（まえ）."
+    },
+    {
+      "type": "paragraph",
+      "text": "Third-Person Pronouns Third-person pronouns are words like \"she\" and \"he.\" They're used for referring to the person the speaker is talking about when they're not directly speaking to them. There are not as many varieties of third-person pronouns in Japanese, but the equivalent for she/he is 彼女（かのじょ） (she) and 彼（かれ） (he)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Reflexive Pronoun The most common reflexive pronoun in Japanese is 自分（じぶん） , which means \"self.\" In English, reflexive pronouns are words that end in \"-self\" such as \"myself,\" \"yourself,\" \"themselves,\" etc. However, the Japanese equivalent 自分（じぶん） is universally used regardless of the perspective or gender of who it's referring to."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "demonstrative-pronouns--words",
+      "text": "Demonstrative Pronouns (こそあど Words)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Demonstratives are words like これ (this thing) and あれ (that thing over there) — words that help you to point out things in a physical and non-physical sense. Japanese demonstratives start with either こ, そ, あ, or ど depending on the distance from the speaker and the listener, which is why Japanese demonstratives have a nickname — こそあど言葉（ことば） (ko-so-a-do words) ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just to give you an idea, to point out something that's close to you, you use words starting with こ. So これ means \"this thing\" and ここ means \"here.\" However, if you're pointing to something that's closer to the listener, you use そ-words like それ (that thing) or そこ (there). Similarly, あ-words are for something that's far from both of you and the listener such as あれ (that thing over there) and あそこ (over there)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, you might be wondering what ど-words could be. They are used for asking questions. For example, to ask \"which one,\" use どれ. To ask where, use どこ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "question-pronouns",
+      "text": "Question Pronouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Question pronouns are words like \"what\" or \"who\" — nouns that you use to ask questions. Here are some examples of question pronouns."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "who",
+          "誰（だれ） / どなた"
+        ],
+        [
+          "what",
+          "何（なに）"
+        ],
+        [
+          "when",
+          "いつ"
+        ],
+        [
+          "where",
+          "どこ"
+        ],
+        [
+          "which one",
+          "どれ / どっち / どちら"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Since these are pronouns, they work as a replacement for a noun in a sentence."
+    },
+    {
+      "type": "example",
+      "japanese": "誰（だれ）が来（く）るの？",
+      "english": "Who's coming?"
+    },
+    {
+      "type": "example",
+      "japanese": "どこに行（い）きましたか？",
+      "english": "Where did you go?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Combined with the particles か , も or でも , question pronouns take on different meanings. For example, when they're paired with particle か, which is a marker of the unknown, they become indefinite pronouns, which are words like \"someone\" or \"somewhere\" in English."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "誰（だれ） (who)",
+          "誰（だれ）か (someone)"
+        ],
+        [
+          "何（なに） (what)",
+          "何（なに）か (something)"
+        ],
+        [
+          "いつ (when)",
+          "いつか (sometime)"
+        ],
+        [
+          "どこ (where)",
+          "どこか (somewhere)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "relational-nouns",
+      "text": "Relational Nouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Relational nouns are words that reference a location in relation to other objects. They correspond to prepositions in English, but since they are classified as nouns in Japanese, they often appear with a particle. Here's a list of common relational nouns."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "上（うえ）",
+          "above"
+        ],
+        [
+          "下（した）",
+          "below"
+        ],
+        [
+          "中（なか）",
+          "inside"
+        ],
+        [
+          "前（まえ）",
+          "in front of / before"
+        ],
+        [
+          "後（のち）",
+          "behind / after"
+        ]
+      ]
+    },
+    {
+      "type": "example",
+      "japanese": "バナナはテーブルの上（うえ）にある。",
+      "english": "The bananas are on the table."
+    },
+    {
+      "type": "example",
+      "japanese": "ドアの前（まえ）に置（お）いてください。",
+      "english": "Please put it in front of the door."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-uses",
+      "text": "Patterns of Uses"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "nouns-and-particles",
+      "text": "Nouns and Particles"
+    },
+    {
+      "type": "paragraph",
+      "text": "Particles are indispensable partners for nouns, especially \"case markers.\" These particles come after nouns and assign them different grammatical roles."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, particle が marks a noun as a subject, and particle を marks a noun as the object in a sentence."
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）がバナナを食（た）べた。",
+      "english": "A dog ate the banana."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, 犬（いぬ） (dog) is the subject as が comes after it. On the other hand, バナナ (banana) is marked by を, and what that means is that it's the object of the sentence. Just like that, particles clarify the role a noun plays in a sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other than が and を, common case markers are は , の , に , を , へ , から , and で ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "nouns-as-predicates",
+      "text": "Nouns as Predicates"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nouns can also be used as predicates. A predicate is a part of a sentence that says something about the subject or the topic. For example, the following sentence uses two nouns — キャベツ (cabbage）and 野菜（やさい） (vegetable). The topic is \"cabbage,\" so the noun \"vegetable\" works as a predicate since it's adding information about the cabbage."
+    },
+    {
+      "type": "example",
+      "japanese": "キャベツは野菜（やさい）だ。",
+      "english": "Cabbage is a vegetable."
+    },
+    {
+      "type": "paragraph",
+      "text": "Predicates can also be used to express tense or add truth value to a sentence. だ , です , and their variants come into play when you want to express the tense (whether it's past or non-past), or the truth value (whether it's positive or negative) of nouns. Here are a few common examples."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Present/Positive (is)",
+          "だ or です"
+        ],
+        [
+          "Past/Positive (was)",
+          "だった or でした"
+        ],
+        [
+          "Present/Negative (is not)",
+          "じゃない or ではない"
+        ],
+        [
+          "Past/Negative (was not)",
+          "じゃなかった or ではなかった"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, take a look at how these だ・です variants are placed right after a noun to assign its tense or truth value."
+    },
+    {
+      "type": "example",
+      "japanese": "あれはバーじゃない。昔（むかし）はコンビニだったけど、今（いま）はレストランだ。",
+      "english": "That over there is not a bar. It was a convenience store before, but now it's a restaurant."
+    },
+    {
+      "type": "paragraph",
+      "text": "Some people may equate だ and です to \"is\" in English. However, they are actually not needed to express the present tense and mark the sentence as positive because nouns can be a predicate on their own. See the example below."
+    },
+    {
+      "type": "example",
+      "japanese": "これはバナナ。",
+      "english": "This is a banana."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like that, the noun-predicate \"banana\" on its own can express the present tense and positive quality of the statement without だ / です."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, using です / ます style to speak politely is important depending on the relationship you have with the person you're speaking with. The same goes for nouns as well — there are a couple of ways to make nouns themselves more polite in Japanese."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "polite-prefixes-",
+      "text": "Polite Prefixes: 御〜"
+    },
+    {
+      "type": "paragraph",
+      "text": "A prefix is just as you might imagine based on the composition of the word — something that comes before (pre) and attaches (fixes) to a noun and changes its meaning. For example, the prefix \"ex-\" in English indicates that the noun it's attached to has a former title or status that no longer applies — think, \"ex-boyfriend\" or \"ex-marine.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, nouns often take on the prefix 御（ご） (お) to add a polite, refined feeling. This 御（ご） has three (or four) different readings — お, ご, み, and sometimes おん depending on the word it attaches to, depending upon whether the word is of Japanese or Chinese origin, or used for something sacred. For example, お花（はな） is a polite way of referring to flowers and お is used here because 花（はな） is a Japanese-origin word."
+    },
+    {
+      "type": "paragraph",
+      "text": "The prefix 御（ご） is often attached to words for food or beverage as well as things that belong to the person you are addressing. The heavy use of these prefixes can result in a more feminine tone."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "polite-suffixes-name-enders",
+      "text": "Polite Suffixes: Name Enders"
+    },
+    {
+      "type": "paragraph",
+      "text": "Complementary to prefixes, suffixes attach to the end of nouns. In Japanese, there are a variety of suffixes referred to as \" name enders \" for nouns that designate people, including both common nouns like 娘（むすめ） (daughter) and proper nouns like people's names."
+    },
+    {
+      "type": "paragraph",
+      "text": "Common examples of name enders are 様（さま）, さん, ちゃん, and 君（きみ）. For example, お客様（きゃくさま） is a polite way of referring to a \"customer,\" and 様（さま） here is the suffix. Similarly, you can add it to a name. If you're writing a letter to someone named 田中（たなか） (Tanaka), you can address them as 田中（たなか）様（さま） to express the politeness. 様（さま） in this case is similar to \"Mr.\" or \"Ms.\" in English."
+    },
+    {
+      "type": "paragraph",
+      "text": "The use of name enders might also be extended to non-human nouns when an object is personified. For example, it's common to refer to stuffed toys (ぬいぐるみ) as ぬいぐるみさん when talking to little children."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "plural-nouns",
+      "text": "Plural Nouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "The way we express plurality is quite different in English and in Japanese. English nouns in plural form are most commonly words that end in \"s,\" such as \"apples\" or \"pens.\" However, in Japanese, there are a few different ways of expressing plurality."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "plural-suffixes",
+      "text": "Plural Suffixes"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plural suffixes 達（たち）, ら, 供（ども）, and 方（かた） are used for nouns that represent people — common nouns like 女性（じょせい） (woman), proper nouns like キョーコ, and personal pronouns like あなた (you). Each plural suffix carries a different nuance and level of politeness. For example, 方（かた） has the highest level of politeness. So to refer to a group of sensei in a polite matter, you can say 先生（せんせい）方（かた）."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "repetition-words-",
+      "text": "Repetition Words: 畳語"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some nouns can be repeated with the 々 kanji to express plurality. For example, 人（ひと） (person) can be pluralized to 人々（ひとびと） (people). These are called repetition words, or 畳語（じょうご） . This form only applies to certain words that are of Japanese origin. Since you repeat these nouns to make them plural, they are often rendaku-ed."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "counters",
+      "text": "Counters"
+    },
+    {
+      "type": "paragraph",
+      "text": "Using counters is a way of expressing plurality by indicating the amount or quantity of nouns. The idea is similar to when you say two cups of water or five pieces of cake. In English, those words are only required for certain words like water, but in Japanese, counters are almost always required. There are also a vast variety of counters depending on what you're counting. For example, you use 本（ほん） for stick-like-shaped things like pens, but for people, you use 人（ひと）."
+    },
+    {
+      "type": "example",
+      "japanese": "五（ご）人（にん）の子供（こども）にペンを三（さん）本（ほん）ずつあげた。",
+      "english": "I gave five children three pens each."
+    },
+    {
+      "type": "paragraph",
+      "text": "For more details, check out Mami's article about counters ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "making-nouns-from-other-word-types",
+      "text": "Making Nouns From Other Word Types"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nouns exist for almost everything under the sun (or to infinity and beyond), but sometimes a plain old noun just won't cut it. To level up your grammar game, you can take a verb or an adjective and turn it into a noun. Why would you want to do that, exactly? Keep reading and we'll tell you."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "nominalizers--and-",
+      "text": "Nominalizers: 〜の and 〜こと"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nominalizers are handy words that help turn something that's not a noun into a noun. To turn the verb \"eat\" into a noun in English, you add \"-ing\" and make it \"eating,\" right? The idea is similar in Japanese, but you can turn pretty much any clause — including one with an adjective at the end — into a noun."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's how it works: you make a noun by attaching a \"nominalizer\" such as particle の or こと to whatever it is you want to turn into noun form. Let's say you want to nominalize the clause 花（はな）を買（か）う, which means \"buy flowers.\" You simply attach の to the end and make it 花（はな）を買（か）うの \"buying flowers.\""
+    },
+    {
+      "type": "example",
+      "japanese": "花（はな）を買（か）うのを忘（わす）れた。",
+      "english": "I forgot to buy flowers. (Literally: I forgot about buying flowers.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "What about when the clause you want to nominalize ends with an adjective? Let's take a look at an example."
+    },
+    {
+      "type": "example",
+      "japanese": "花（はな）が高（たか）いのを知（し）らなかった。",
+      "english": "I didn't know that flowers were so expensive. (Literally: I didn't know about flowers being expensive.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like that, の can nominalize 花（はな）が高（たか）い (flowers are expensive) as well. For more details about nominalizers, check out our page about the particle の (nominalizer) ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb-stem-form",
+      "text": "Verb Stem Form"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some verbs can be used as nouns when they are in the stem form ."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, 眠（ねむ）る is the verb for \"to sleep.\" The stem form is 眠（ねむ）り, which can be used as a noun on its own. Take a look at the following example to see how 眠（ねむ）る is used as a verb and 眠（ねむ）り is used as a noun."
+    },
+    {
+      "type": "example",
+      "japanese": "最近（さいきん）子供（こども）がよく眠（ねむ）る。眠（ねむ）りの質（しつ）が上（あ）がったみたいだ。",
+      "english": "Lately, my children sleep well. Seems like the quality of sleep improved."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other than verb stem forms like this, which can stand alone as nouns, there are also verbs that when combined with another word produce nouns."
+    },
+    {
+      "type": "paragraph",
+      "text": "For instance, 出（だ）す is the verb for \"to take something out.\" The stem form, 出（だ）し, doesn't quite work on its own, but when it's combined with a noun like ゴミ (trash), as in ゴミ出（だ）し, it becomes a noun that stands for the act of taking out the trash."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective-",
+      "text": "Adjective 〜さ"
+    },
+    {
+      "type": "paragraph",
+      "text": "When an adjective ends with the suffix 〜さ , that adjective becomes a noun used to express amounts that are objectively measurable. For example, when 重（おも）い (heavy) takes the suffix 〜さ it becomes 重（おも）さ, which means \"weight.\" Similarly, the adjective for \"convenient\" 便利（べんり） becomes 便利（べんり）さ, meaning \"convenience.\" See below for an example that uses both."
+    },
+    {
+      "type": "example",
+      "japanese": "このベビーカーは、重（おも）さはあるけど、便利（べんり）さはとても良（よ）い。",
+      "english": "This stroller has some weight to it, but the convenience is pretty good."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective--1",
+      "text": "Adjective 〜み"
+    },
+    {
+      "type": "paragraph",
+      "text": "Suffix 〜み functions similarly to 〜さ — to create a noun out of an adjective. While adjective-based nouns that end with さ are used for thing that are objectively measurable, ones with み at the end are for things that are more subjective or personal."
+    },
+    {
+      "type": "paragraph",
+      "text": "So what's the difference exactly? To refer back to the previous example, the adjective 重（おも）い (heavy) can be turned into both 重（おも）さ and 重（おも）み. 重（おも）さ, as we learned, means \"weight\" as in something objectively measurable like the weight you can measure with a scale. 重（おも）み also means \"weight,\" though it's the kind of weight that you use to describe something emotionally heavy. This 重（おも）み would be used to say something like \"That movie has some weight\" — it's about the psychological weight, not the physical weight. Now, do you see the difference between 重（おも）さ and 重（おも）み? 重（おも）さ is literal physical weight that you can measure objectively, but 重（おも）み is psychological weight, which depends on your subjective and personal perspective."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective--form",
+      "text": "Adjective く Form"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some い-adjectives can act as nouns when conjugated to く form . For example, 遠（とお）い is an adjective for \"far.\" When it's conjugated to く form, as in 遠（とお）く, it becomes a noun meaning someplace far away."
+    },
+    {
+      "type": "example",
+      "japanese": "遠（とお）くに行（い）きたい。",
+      "english": "I want to go somewhere far away."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "modifying-nouns",
+      "text": "Modifying Nouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "Nouns are pretty handy — they allow us to categorize and label the world around us. However, sometimes, we want to add more details to describe whatever we're using a noun to refer to, and get even more specific. Maybe you're not a cat person in general, but you like small cats and more specifically, cats that play with toys . Looking up the Japanese noun for \"cat\" is easy enough (it's 猫（ねこ）, by the way), but how can we add more details like that? In order to achieve this level of specificity, you modify those nouns. Noun modification is the process of attaching other words to a noun to provide more information about it. One thing to keep in mind about noun modification in Japanese is that the extra information you're adding to modify a noun should always come before the noun, though in English it can either come before or after. For example, 小（ちい）さい猫（ねこ） is a small cat, and おもちゃで遊（あそ）ぶ猫（ねこ） is a cat that plays with toys."
+    },
+    {
+      "type": "paragraph",
+      "text": "Now, let's take a look at the different ways we can modify nouns in Japanese."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "modifying-nouns-with--adjectives",
+      "text": "Modifying Nouns with い-Adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "い-adjectives are a type of adjective that always end with い, such as 小（ちい）さい (small) or 美（うつく）しい (beautiful). It's pretty straightforward to modify a noun with an い-adjective — you simply attach it right before the noun."
+    },
+    {
+      "type": "example",
+      "japanese": "小（ちい）さい猫（ねこ）",
+      "english": "small cat"
+    },
+    {
+      "type": "example",
+      "japanese": "重（おも）いバッグ",
+      "english": "heavy bag"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "modifying-nouns-with--adjectives-1",
+      "text": "Modifying Nouns with な-Adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "な-adjectives are a type of adjective that attach to nouns using な. For example, If you want to modify the noun 人（ひと） (person) with the な-adjective 有名（ゆうめい） (famous), you say 有名（ゆうめい）な人（ひと） (famous person)."
+    },
+    {
+      "type": "example",
+      "japanese": "有名（ゆうめい）な人（ひと）",
+      "english": "famous person"
+    },
+    {
+      "type": "example",
+      "japanese": "便利（べんり）なアプリ",
+      "english": "useful app"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "modifying-nouns-using-particle-",
+      "text": "Modifying Nouns Using Particle の"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the most common functions of the particle の is as a noun modifier — it allows us to modify a noun with another noun."
+    },
+    {
+      "type": "paragraph",
+      "text": "Think of this particle の as a label maker; it makes a label out of a noun, which can be stuck onto another noun to give extra information about it. For example, 犬（いぬ）のおもちゃ is \"dog toy\" in Japanese. The nouns used here are 犬（いぬ） (dog) and おもちゃ (toy); you add の to 犬（いぬ） to make a label that says \"dog,\" then attach this label to the other noun you want to modify and add information to, which in this case is おもちゃ (toy). This method of noun modification using the particle の is versatile and can be used for a wide range of things such as expressing ownership, like 母（はは）のバッグ (mother's bag), or location, as in ニューヨークのタクシー (taxis in New York)."
+    },
+    {
+      "type": "paragraph",
+      "text": "It can act even more adjective-like when you use nouns for abstract concepts like 普通（ふつう） (normality). Some people call these の-adjectives because they're very similar to adjectives."
+    },
+    {
+      "type": "example",
+      "japanese": "普通（ふつう）の車（くるま）",
+      "english": "normal car"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "modifying-nouns-with-clauses",
+      "text": "Modifying Nouns with Clauses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Modifying nouns with an adjective or another noun is pretty simple, but what if you want to say something more complex like \"cats that play with toys\" or \"a present that grandma gave me\"? For this kind of noun modification, you simply attach a clause to the noun in Japanese. For example, おばあちゃんがくれた is a clause meaning \"grandma gave me.\" You can modify a noun by attaching this clause. To modify the noun プレゼント (present), you can say おばあちゃんがくれたプレゼント and it would mean a present that grandma gave me. Take a look at the examples below to see how clauses (which are wrapped in the brackets) are modifying nouns."
+    },
+    {
+      "type": "example",
+      "japanese": "[おばあちゃんがくれた] プレゼント",
+      "english": "a present [that grandma gave me]"
+    },
+    {
+      "type": "example",
+      "japanese": "[おもちゃで遊（あそ）ぶ] 猫（ねこ）",
+      "english": "cats [that play with toys]"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Hubs"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Points"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "What do you picture when you hear \"nouns\"? People, places, and things… or something more abstract like \"beauty\" or \"concept\" — you name it. Those are nouns for sure, but the truth is that nouns are a much broader word type than this. There are nouns that label the world around us (those people, places, things, and more), but there are also nouns that have less specific meaning and perform important grammatical functions such as personal pronouns like \"you\" or demonstrative pronouns like \"this.\" On this page, we'll cover topics that are related to Japanese nouns.",
+    "Although nouns may seem basic in nature and simple enough to master, there are many different types with very different functions. It's also important to be aware that some words that aren't considered nouns in English can be classified as nouns in Japanese, and vice versa. So let's first take a look at the types of nouns there are in Japanese.",
+    "Common nouns are a type of noun that helps us label the world around us, like 犬（いぬ） (dog), 学校（がっこう） (school), and 石（いし） (stone). Since those words can be used to refer to any dog, any school, and any stone, they're less specific than \"proper nouns,\" which refer to things that are more individual and specific. For example, \"dog\" is a common noun, but your dog's name — Bailey, Hachi, etc. — is a proper noun. If you aren't sure, the rule of thumb for identifying a common noun is to see whether the word is capitalized or not in English. If it's all lowercase, then chances are it's a common noun.",
+    "We've only talked about tangible objects so far, but common nouns aren't limited to things that have physical forms. They can be something abstract like 選挙（せんきょ） (election), アイディア (idea), or 説明（せつめい） (explanation), for example.",
+    "We already touched on this a bit in comparison to common nouns ; proper nouns are words used to identify specific things. In English, capitalized words like \"John,\" \"Tokyo,\" and \"McDonald's\" are proper nouns. They're more specific than common nouns in the sense that they refer to something individual and particular.",
+    "Let's say your dog's name is ハチ (Hachi) — Hachi is a proper noun because it refers to a particular dog, while the common noun \"dog\" refers to any dog. Just like that, you can be sure that the names of people or places are proper nouns. It's just like in English, so pretty straightforward, right?",
+    "One thing to note about Japanese proper nouns is the importance of order — In Japanese, the broader category comes before the narrower category when giving people's names or addresses. For example, family name comes first followed by given name. So if your family name is 田中（たなか） (Tanaka), and your given name is キョーコ (Kyoko), in Japanese you would report your full name as 田中（たなか）キョーコ (Tanaka Kyoko) in that order. You're a part of the broader category of the 田中（たなか） family, and then more specifically, you are you, キョーコ.",
+    "In similar fashion, Japanese addresses start with the biggest region — which typically is the prefecture — then get gradually more specific as they go: city, neighborhood, street number. US addresses on the other hand, start with the most specific part, such as a street number, then city, state, etc. Let's say you live in a neighborhood called 神泉（しんせん）町（まち） (Shinsencho neighborhood) in the 渋谷（しぶや）区（く） (Shibuya district) of 東京（とうきょう）都（と） (Tokyo prefecture). In this case, you'd say that in the reverse order in Japanese — you live in 東京（とうきょう）都（と） (prefecture), 渋谷（しぶや）区（く） (district), 神泉（しんせん）町（まち） (neighborhood).",
+    "Earlier, we explained common nouns can be used for abstract concepts like \"election\" or \"explanation.\" Many of these abstract nouns can be used for events or actions, just like \"election\" and \"explanation\" can mean the \"event of election\" and the \"act of explaining.\" And these nouns can be turned into verbs by adding the generic verb する, which simply means \"to do.\" These are known as verbal nouns, and some resources also call them \"する verbs.\" For instance, 説明（せつめい） is a noun for \"explanation,\" and when you add する (to do), as in 説明（せつめい）する, you can piece them together as \"to do an explanation\" meaning \"to explain.\" Take a close look at the noun 説明（せつめい） and the verb 説明（せつめい）する in the following example to see how they work as different word types.",
+    "Personal pronouns are pronouns that are specifically used for referring to people, just like English personal pronouns such as \"you,\" \"she,\" and the like. These words replace common or proper nouns that are understood through context, or help us refer to things that we don't know the name of. There are a few types of personal pronouns depending on the perspective of who is talking, and who they're referring to.",
+    "Even though Japanese does have personal pronouns used to refer to others — someone other than you — they are not as commonly used as their equivalents like \"you\" or \"he/she/they\" in English. For more information about this tendency and different ways of referring to others, check out Kanae's article: What Should I Call You?",
+    "First-Person Pronouns First-person pronouns are words for \"I.\" They're used for referring to the speaker themselves. Even though English speakers tend to use \"I\" exclusively as a first-person pronoun, there are some variations such as 私（わたし）, 僕（ぼく）, and 俺（おれ） in the Japanese language. People usually decide which pronoun to choose depending on different social and situational factors.",
+    "Second-Person Pronouns Second-person pronouns are words for \"you.\" They're used for referring to the person the speaker is talking to. Just like first-person pronouns, Japanese has a variety of second-person pronouns, such as あなた, 君（きみ）, and お前（まえ）.",
+    "Third-Person Pronouns Third-person pronouns are words like \"she\" and \"he.\" They're used for referring to the person the speaker is talking about when they're not directly speaking to them. There are not as many varieties of third-person pronouns in Japanese, but the equivalent for she/he is 彼女（かのじょ） (she) and 彼（かれ） (he).",
+    "Reflexive Pronoun The most common reflexive pronoun in Japanese is 自分（じぶん） , which means \"self.\" In English, reflexive pronouns are words that end in \"-self\" such as \"myself,\" \"yourself,\" \"themselves,\" etc. However, the Japanese equivalent 自分（じぶん） is universally used regardless of the perspective or gender of who it's referring to.",
+    "Demonstratives are words like これ (this thing) and あれ (that thing over there) — words that help you to point out things in a physical and non-physical sense. Japanese demonstratives start with either こ, そ, あ, or ど depending on the distance from the speaker and the listener, which is why Japanese demonstratives have a nickname — こそあど言葉（ことば） (ko-so-a-do words) .",
+    "Just to give you an idea, to point out something that's close to you, you use words starting with こ. So これ means \"this thing\" and ここ means \"here.\" However, if you're pointing to something that's closer to the listener, you use そ-words like それ (that thing) or そこ (there). Similarly, あ-words are for something that's far from both of you and the listener such as あれ (that thing over there) and あそこ (over there).",
+    "Now, you might be wondering what ど-words could be. They are used for asking questions. For example, to ask \"which one,\" use どれ. To ask where, use どこ.",
+    "Question pronouns are words like \"what\" or \"who\" — nouns that you use to ask questions. Here are some examples of question pronouns.",
+    "Since these are pronouns, they work as a replacement for a noun in a sentence.",
+    "Combined with the particles か , も or でも , question pronouns take on different meanings. For example, when they're paired with particle か, which is a marker of the unknown, they become indefinite pronouns, which are words like \"someone\" or \"somewhere\" in English.",
+    "Relational nouns are words that reference a location in relation to other objects. They correspond to prepositions in English, but since they are classified as nouns in Japanese, they often appear with a particle. Here's a list of common relational nouns.",
+    "Particles are indispensable partners for nouns, especially \"case markers.\" These particles come after nouns and assign them different grammatical roles.",
+    "For example, particle が marks a noun as a subject, and particle を marks a noun as the object in a sentence.",
+    "In this sentence, 犬（いぬ） (dog) is the subject as が comes after it. On the other hand, バナナ (banana) is marked by を, and what that means is that it's the object of the sentence. Just like that, particles clarify the role a noun plays in a sentence.",
+    "Other than が and を, common case markers are は , の , に , を , へ , から , and で .",
+    "Nouns can also be used as predicates. A predicate is a part of a sentence that says something about the subject or the topic. For example, the following sentence uses two nouns — キャベツ (cabbage）and 野菜（やさい） (vegetable). The topic is \"cabbage,\" so the noun \"vegetable\" works as a predicate since it's adding information about the cabbage.",
+    "Predicates can also be used to express tense or add truth value to a sentence. だ , です , and their variants come into play when you want to express the tense (whether it's past or non-past), or the truth value (whether it's positive or negative) of nouns. Here are a few common examples.",
+    "Now, take a look at how these だ・です variants are placed right after a noun to assign its tense or truth value.",
+    "Some people may equate だ and です to \"is\" in English. However, they are actually not needed to express the present tense and mark the sentence as positive because nouns can be a predicate on their own. See the example below.",
+    "Just like that, the noun-predicate \"banana\" on its own can express the present tense and positive quality of the statement without だ / です.",
+    "In Japanese, using です / ます style to speak politely is important depending on the relationship you have with the person you're speaking with. The same goes for nouns as well — there are a couple of ways to make nouns themselves more polite in Japanese.",
+    "A prefix is just as you might imagine based on the composition of the word — something that comes before (pre) and attaches (fixes) to a noun and changes its meaning. For example, the prefix \"ex-\" in English indicates that the noun it's attached to has a former title or status that no longer applies — think, \"ex-boyfriend\" or \"ex-marine.\"",
+    "In Japanese, nouns often take on the prefix 御（ご） (お) to add a polite, refined feeling. This 御（ご） has three (or four) different readings — お, ご, み, and sometimes おん depending on the word it attaches to, depending upon whether the word is of Japanese or Chinese origin, or used for something sacred. For example, お花（はな） is a polite way of referring to flowers and お is used here because 花（はな） is a Japanese-origin word.",
+    "The prefix 御（ご） is often attached to words for food or beverage as well as things that belong to the person you are addressing. The heavy use of these prefixes can result in a more feminine tone.",
+    "Complementary to prefixes, suffixes attach to the end of nouns. In Japanese, there are a variety of suffixes referred to as \" name enders \" for nouns that designate people, including both common nouns like 娘（むすめ） (daughter) and proper nouns like people's names.",
+    "Common examples of name enders are 様（さま）, さん, ちゃん, and 君（きみ）. For example, お客様（きゃくさま） is a polite way of referring to a \"customer,\" and 様（さま） here is the suffix. Similarly, you can add it to a name. If you're writing a letter to someone named 田中（たなか） (Tanaka), you can address them as 田中（たなか）様（さま） to express the politeness. 様（さま） in this case is similar to \"Mr.\" or \"Ms.\" in English.",
+    "The use of name enders might also be extended to non-human nouns when an object is personified. For example, it's common to refer to stuffed toys (ぬいぐるみ) as ぬいぐるみさん when talking to little children.",
+    "The way we express plurality is quite different in English and in Japanese. English nouns in plural form are most commonly words that end in \"s,\" such as \"apples\" or \"pens.\" However, in Japanese, there are a few different ways of expressing plurality.",
+    "Plural suffixes 達（たち）, ら, 供（ども）, and 方（かた） are used for nouns that represent people — common nouns like 女性（じょせい） (woman), proper nouns like キョーコ, and personal pronouns like あなた (you). Each plural suffix carries a different nuance and level of politeness. For example, 方（かた） has the highest level of politeness. So to refer to a group of sensei in a polite matter, you can say 先生（せんせい）方（かた）.",
+    "Some nouns can be repeated with the 々 kanji to express plurality. For example, 人（ひと） (person) can be pluralized to 人々（ひとびと） (people). These are called repetition words, or 畳語（じょうご） . This form only applies to certain words that are of Japanese origin. Since you repeat these nouns to make them plural, they are often rendaku-ed.",
+    "Using counters is a way of expressing plurality by indicating the amount or quantity of nouns. The idea is similar to when you say two cups of water or five pieces of cake. In English, those words are only required for certain words like water, but in Japanese, counters are almost always required. There are also a vast variety of counters depending on what you're counting. For example, you use 本（ほん） for stick-like-shaped things like pens, but for people, you use 人（ひと）.",
+    "For more details, check out Mami's article about counters .",
+    "Nouns exist for almost everything under the sun (or to infinity and beyond), but sometimes a plain old noun just won't cut it. To level up your grammar game, you can take a verb or an adjective and turn it into a noun. Why would you want to do that, exactly? Keep reading and we'll tell you.",
+    "Nominalizers are handy words that help turn something that's not a noun into a noun. To turn the verb \"eat\" into a noun in English, you add \"-ing\" and make it \"eating,\" right? The idea is similar in Japanese, but you can turn pretty much any clause — including one with an adjective at the end — into a noun.",
+    "Here's how it works: you make a noun by attaching a \"nominalizer\" such as particle の or こと to whatever it is you want to turn into noun form. Let's say you want to nominalize the clause 花（はな）を買（か）う, which means \"buy flowers.\" You simply attach の to the end and make it 花（はな）を買（か）うの \"buying flowers.\"",
+    "What about when the clause you want to nominalize ends with an adjective? Let's take a look at an example.",
+    "Just like that, の can nominalize 花（はな）が高（たか）い (flowers are expensive) as well. For more details about nominalizers, check out our page about the particle の (nominalizer) .",
+    "Some verbs can be used as nouns when they are in the stem form .",
+    "For example, 眠（ねむ）る is the verb for \"to sleep.\" The stem form is 眠（ねむ）り, which can be used as a noun on its own. Take a look at the following example to see how 眠（ねむ）る is used as a verb and 眠（ねむ）り is used as a noun.",
+    "Other than verb stem forms like this, which can stand alone as nouns, there are also verbs that when combined with another word produce nouns.",
+    "For instance, 出（だ）す is the verb for \"to take something out.\" The stem form, 出（だ）し, doesn't quite work on its own, but when it's combined with a noun like ゴミ (trash), as in ゴミ出（だ）し, it becomes a noun that stands for the act of taking out the trash.",
+    "When an adjective ends with the suffix 〜さ , that adjective becomes a noun used to express amounts that are objectively measurable. For example, when 重（おも）い (heavy) takes the suffix 〜さ it becomes 重（おも）さ, which means \"weight.\" Similarly, the adjective for \"convenient\" 便利（べんり） becomes 便利（べんり）さ, meaning \"convenience.\" See below for an example that uses both.",
+    "Suffix 〜み functions similarly to 〜さ — to create a noun out of an adjective. While adjective-based nouns that end with さ are used for thing that are objectively measurable, ones with み at the end are for things that are more subjective or personal.",
+    "So what's the difference exactly? To refer back to the previous example, the adjective 重（おも）い (heavy) can be turned into both 重（おも）さ and 重（おも）み. 重（おも）さ, as we learned, means \"weight\" as in something objectively measurable like the weight you can measure with a scale. 重（おも）み also means \"weight,\" though it's the kind of weight that you use to describe something emotionally heavy. This 重（おも）み would be used to say something like \"That movie has some weight\" — it's about the psychological weight, not the physical weight. Now, do you see the difference between 重（おも）さ and 重（おも）み? 重（おも）さ is literal physical weight that you can measure objectively, but 重（おも）み is psychological weight, which depends on your subjective and personal perspective.",
+    "Some い-adjectives can act as nouns when conjugated to く form . For example, 遠（とお）い is an adjective for \"far.\" When it's conjugated to く form, as in 遠（とお）く, it becomes a noun meaning someplace far away.",
+    "Nouns are pretty handy — they allow us to categorize and label the world around us. However, sometimes, we want to add more details to describe whatever we're using a noun to refer to, and get even more specific. Maybe you're not a cat person in general, but you like small cats and more specifically, cats that play with toys . Looking up the Japanese noun for \"cat\" is easy enough (it's 猫（ねこ）, by the way), but how can we add more details like that? In order to achieve this level of specificity, you modify those nouns. Noun modification is the process of attaching other words to a noun to provide more information about it. One thing to keep in mind about noun modification in Japanese is that the extra information you're adding to modify a noun should always come before the noun, though in English it can either come before or after. For example, 小（ちい）さい猫（ねこ） is a small cat, and おもちゃで遊（あそ）ぶ猫（ねこ） is a cat that plays with toys.",
+    "Now, let's take a look at the different ways we can modify nouns in Japanese.",
+    "い-adjectives are a type of adjective that always end with い, such as 小（ちい）さい (small) or 美（うつく）しい (beautiful). It's pretty straightforward to modify a noun with an い-adjective — you simply attach it right before the noun.",
+    "な-adjectives are a type of adjective that attach to nouns using な. For example, If you want to modify the noun 人（ひと） (person) with the な-adjective 有名（ゆうめい） (famous), you say 有名（ゆうめい）な人（ひと） (famous person).",
+    "One of the most common functions of the particle の is as a noun modifier — it allows us to modify a noun with another noun.",
+    "Think of this particle の as a label maker; it makes a label out of a noun, which can be stuck onto another noun to give extra information about it. For example, 犬（いぬ）のおもちゃ is \"dog toy\" in Japanese. The nouns used here are 犬（いぬ） (dog) and おもちゃ (toy); you add の to 犬（いぬ） to make a label that says \"dog,\" then attach this label to the other noun you want to modify and add information to, which in this case is おもちゃ (toy). This method of noun modification using the particle の is versatile and can be used for a wide range of things such as expressing ownership, like 母（はは）のバッグ (mother's bag), or location, as in ニューヨークのタクシー (taxis in New York).",
+    "It can act even more adjective-like when you use nouns for abstract concepts like 普通（ふつう） (normality). Some people call these の-adjectives because they're very similar to adjectives.",
+    "Modifying nouns with an adjective or another noun is pretty simple, but what if you want to say something more complex like \"cats that play with toys\" or \"a present that grandma gave me\"? For this kind of noun modification, you simply attach a clause to the noun in Japanese. For example, おばあちゃんがくれた is a clause meaning \"grandma gave me.\" You can modify a noun by attaching this clause. To modify the noun プレゼント (present), you can say おばあちゃんがくれたプレゼント and it would mean a present that grandma gave me. Take a look at the examples below to see how clauses (which are wrapped in the brackets) are modifying nouns."
+  ],
+  "examples": [
+    {
+      "japanese": "私（わたし）の名前（なまえ）は田中（たなか）キョーコです。",
+      "english": "My name is Kyoko Tanaka."
+    },
+    {
+      "japanese": "東京（とうきょう）都（と）渋谷（しぶや）区（く）神泉（しんせん）町（まち）に住（す）んでいます。",
+      "english": "I live in Shinsencho, Shibuya district, Tokyo prefecture."
+    },
+    {
+      "japanese": "メールに説明（せつめい）を書（か）かなかったから、電話（でんわ）で説明（せつめい）するよ。",
+      "english": "I didn't write the explanation in the email, so I'll explain to you over the phone."
+    },
+    {
+      "japanese": "誰（だれ）が来（く）るの？",
+      "english": "Who's coming?"
+    },
+    {
+      "japanese": "どこに行（い）きましたか？",
+      "english": "Where did you go?"
+    },
+    {
+      "japanese": "バナナはテーブルの上（うえ）にある。",
+      "english": "The bananas are on the table."
+    },
+    {
+      "japanese": "ドアの前（まえ）に置（お）いてください。",
+      "english": "Please put it in front of the door."
+    },
+    {
+      "japanese": "犬（いぬ）がバナナを食（た）べた。",
+      "english": "A dog ate the banana."
+    },
+    {
+      "japanese": "キャベツは野菜（やさい）だ。",
+      "english": "Cabbage is a vegetable."
+    },
+    {
+      "japanese": "あれはバーじゃない。昔（むかし）はコンビニだったけど、今（いま）はレストランだ。",
+      "english": "That over there is not a bar. It was a convenience store before, but now it's a restaurant."
+    },
+    {
+      "japanese": "これはバナナ。",
+      "english": "This is a banana."
+    },
+    {
+      "japanese": "五（ご）人（にん）の子供（こども）にペンを三（さん）本（ほん）ずつあげた。",
+      "english": "I gave five children three pens each."
+    },
+    {
+      "japanese": "花（はな）を買（か）うのを忘（わす）れた。",
+      "english": "I forgot to buy flowers. (Literally: I forgot about buying flowers.)"
+    },
+    {
+      "japanese": "花（はな）が高（たか）いのを知（し）らなかった。",
+      "english": "I didn't know that flowers were so expensive. (Literally: I didn't know about flowers being expensive.)"
+    },
+    {
+      "japanese": "最近（さいきん）子供（こども）がよく眠（ねむ）る。眠（ねむ）りの質（しつ）が上（あ）がったみたいだ。",
+      "english": "Lately, my children sleep well. Seems like the quality of sleep improved."
+    },
+    {
+      "japanese": "このベビーカーは、重（おも）さはあるけど、便利（べんり）さはとても良（よ）い。",
+      "english": "This stroller has some weight to it, but the convenience is pretty good."
+    },
+    {
+      "japanese": "遠（とお）くに行（い）きたい。",
+      "english": "I want to go somewhere far away."
+    },
+    {
+      "japanese": "小（ちい）さい猫（ねこ）",
+      "english": "small cat"
+    },
+    {
+      "japanese": "重（おも）いバッグ",
+      "english": "heavy bag"
+    },
+    {
+      "japanese": "有名（ゆうめい）な人（ひと）",
+      "english": "famous person"
+    },
+    {
+      "japanese": "便利（べんり）なアプリ",
+      "english": "useful app"
+    },
+    {
+      "japanese": "普通（ふつう）の車（くるま）",
+      "english": "normal car"
+    },
+    {
+      "japanese": "[おばあちゃんがくれた] プレゼント",
+      "english": "a present [that grandma gave me]"
+    },
+    {
+      "japanese": "[おもちゃで遊（あそ）ぶ] 猫（ねこ）",
+      "english": "cats [that play with toys]"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "who",
+        "誰（だれ） / どなた"
+      ],
+      [
+        "what",
+        "何（なに）"
+      ],
+      [
+        "when",
+        "いつ"
+      ],
+      [
+        "where",
+        "どこ"
+      ],
+      [
+        "which one",
+        "どれ / どっち / どちら"
+      ]
+    ],
+    [
+      [
+        "誰（だれ） (who)",
+        "誰（だれ）か (someone)"
+      ],
+      [
+        "何（なに） (what)",
+        "何（なに）か (something)"
+      ],
+      [
+        "いつ (when)",
+        "いつか (sometime)"
+      ],
+      [
+        "どこ (where)",
+        "どこか (somewhere)"
+      ]
+    ],
+    [
+      [
+        "上（うえ）",
+        "above"
+      ],
+      [
+        "下（した）",
+        "below"
+      ],
+      [
+        "中（なか）",
+        "inside"
+      ],
+      [
+        "前（まえ）",
+        "in front of / before"
+      ],
+      [
+        "後（のち）",
+        "behind / after"
+      ]
+    ],
+    [
+      [
+        "Present/Positive (is)",
+        "だ or です"
+      ],
+      [
+        "Past/Positive (was)",
+        "だった or でした"
+      ],
+      [
+        "Present/Negative (is not)",
+        "じゃない or ではない"
+      ],
+      [
+        "Past/Negative (was not)",
+        "じゃなかった or ではなかった"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "types-of-nouns",
+      "text": "Types of Nouns"
+    },
+    {
+      "level": 4,
+      "id": "common-nouns",
+      "text": "Common Nouns"
+    },
+    {
+      "level": 4,
+      "id": "proper-nouns",
+      "text": "Proper Nouns"
+    },
+    {
+      "level": 4,
+      "id": "verbal-nouns--verb",
+      "text": "Verbal Nouns (する Verb)"
+    },
+    {
+      "level": 4,
+      "id": "personal-pronouns",
+      "text": "Personal Pronouns"
+    },
+    {
+      "level": 4,
+      "id": "demonstrative-pronouns--words",
+      "text": "Demonstrative Pronouns (こそあど Words)"
+    },
+    {
+      "level": 4,
+      "id": "question-pronouns",
+      "text": "Question Pronouns"
+    },
+    {
+      "level": 4,
+      "id": "relational-nouns",
+      "text": "Relational Nouns"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-uses",
+      "text": "Patterns of Uses"
+    },
+    {
+      "level": 4,
+      "id": "nouns-and-particles",
+      "text": "Nouns and Particles"
+    },
+    {
+      "level": 4,
+      "id": "nouns-as-predicates",
+      "text": "Nouns as Predicates"
+    },
+    {
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "level": 4,
+      "id": "polite-prefixes-",
+      "text": "Polite Prefixes: 御〜"
+    },
+    {
+      "level": 4,
+      "id": "polite-suffixes-name-enders",
+      "text": "Polite Suffixes: Name Enders"
+    },
+    {
+      "level": 3,
+      "id": "plural-nouns",
+      "text": "Plural Nouns"
+    },
+    {
+      "level": 4,
+      "id": "plural-suffixes",
+      "text": "Plural Suffixes"
+    },
+    {
+      "level": 4,
+      "id": "repetition-words-",
+      "text": "Repetition Words: 畳語"
+    },
+    {
+      "level": 4,
+      "id": "counters",
+      "text": "Counters"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "making-nouns-from-other-word-types",
+      "text": "Making Nouns From Other Word Types"
+    },
+    {
+      "level": 4,
+      "id": "nominalizers--and-",
+      "text": "Nominalizers: 〜の and 〜こと"
+    },
+    {
+      "level": 4,
+      "id": "verb-stem-form",
+      "text": "Verb Stem Form"
+    },
+    {
+      "level": 4,
+      "id": "adjective-",
+      "text": "Adjective 〜さ"
+    },
+    {
+      "level": 4,
+      "id": "adjective--1",
+      "text": "Adjective 〜み"
+    },
+    {
+      "level": 4,
+      "id": "adjective--form",
+      "text": "Adjective く Form"
+    },
+    {
+      "level": 3,
+      "id": "modifying-nouns",
+      "text": "Modifying Nouns"
+    },
+    {
+      "level": 4,
+      "id": "modifying-nouns-with--adjectives",
+      "text": "Modifying Nouns with い-Adjectives"
+    },
+    {
+      "level": 4,
+      "id": "modifying-nouns-with--adjectives-1",
+      "text": "Modifying Nouns with な-Adjectives"
+    },
+    {
+      "level": 4,
+      "id": "modifying-nouns-using-particle-",
+      "text": "Modifying Nouns Using Particle の"
+    },
+    {
+      "level": 4,
+      "id": "modifying-nouns-with-clauses",
+      "text": "Modifying Nouns with Clauses"
+    }
+  ],
+  "id": 12,
+  "slug": "noun",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/noun/",
+  "categories": [
+    "Noun"
+  ]
+}

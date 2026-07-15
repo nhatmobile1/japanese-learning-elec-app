@@ -1,0 +1,676 @@
+{
+  "title": "なる",
+  "description": "なる is equivalent to the English verb \"to become.\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "なる is a Japanese verb that means \"to become.\" For example, if you dream of becoming a famous model, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "モデルになる。",
+      "english": "I'll become a model."
+    },
+    {
+      "type": "example",
+      "japanese": "有名（ゆうめい）になる。",
+      "english": "I'll become famous."
+    },
+    {
+      "type": "paragraph",
+      "text": "なる can also be translated as \"to get\" or \"to be.\" So if you've actually become a model and you expect to have a busy schedule soon, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "いそがしくなる。",
+      "english": "It's going to get busy."
+    },
+    {
+      "type": "paragraph",
+      "text": "Piece of cake, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're wondering why the first two examples use に before なる but the last one uses く, don't worry. We'll talk about it in the Patterns of Use section soon. But first, let's check out the conjugation of なる so you know its different forms."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-",
+      "text": "Conjugating なる"
+    },
+    {
+      "type": "paragraph",
+      "text": "なる is a godan verb . Here are some basic conjugations:"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Plain",
+          "Polite"
+        ],
+        [
+          "Present",
+          "なる",
+          "なります"
+        ],
+        [
+          "Past",
+          "なった",
+          "なりました"
+        ],
+        [
+          "Negative",
+          "ならない",
+          "なりません"
+        ],
+        [
+          "Past Negative",
+          "ならなかった",
+          "なりませんでした"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun-or--adjective----",
+      "text": "Noun or な-adjective + に + なる"
+    },
+    {
+      "type": "paragraph",
+      "text": "You've learned that なる means \"to become\" or something similar. When what a person or thing has turned into is a noun or a な-adjective , you use the particle に to mark the end point of a change."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, if an ice cream shop is going to be built on the corner, you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ここはアイスクリーム屋（や）さんになる。",
+      "english": "This place will become an ice cream shop."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, アイスクリーム屋（や）さん (ice cream shop) is a noun."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you think the shop will be popular, you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "きっと人気（にんき）になる。",
+      "english": "They'll probably be popular."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 人気（にんき） (popular) is a な-adjective."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that the particle に can sometimes be replaced with the particle と , as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "このアイスクリーム屋（や）さんは人気（にんき）のお店（みせ）となった。",
+      "english": "This ice cream shop became a popular shop."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, と indicates that the thing/state/event has reached its ultimate stage, and it sounds formal and literary. When casually marking the end point of a change, you can't go wrong with に."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective---",
+      "text": "い-adjective く + なる"
+    },
+    {
+      "type": "paragraph",
+      "text": "When what a person or thing has turned into is an い-adjective , you first turn the adjective into the く form , and then add なる."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, say you felt especially happy to learn that a new ice cream shop will be opening near your house. In this case, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "うれしくなった。",
+      "english": "I felt happy. (Literally: I became happy.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This く ending of い-adjectives allows us to hook something onto the end of them. So to show how your mood has improved, うれしい has to be changed to うれしく before you can add なった (the past tense of なる) to the end."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section",
+      "text": "〜なく + なる"
+    },
+    {
+      "type": "paragraph",
+      "text": "ない is the equivalent of \"not\" in English, so if someone isn't popular, you use ない and say 人気（にんき）じゃ ない . And if someone isn't happy, you say うれしく ない . This ない is like an い-adjective and conjugates the same way. So, if you want to say that someone becomes unpopular or unhappy, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "人気（にんき）じゃなくなる",
+      "english": "to become unpopular"
+    },
+    {
+      "type": "example",
+      "japanese": "うれしくなくなる",
+      "english": "to become unhappy"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb------",
+      "text": "Verb + よう + に + なる"
+    },
+    {
+      "type": "paragraph",
+      "text": "So far, you've learned how なる is used with nouns and adjectives. Those are the most basic uses. That being said, なる can also be used with verbs to mean \"to begin to do\" something."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you need to add the word よう and the particle に between the verb and なる. (よう is usually written in kana but can also be written in kanji as 様（さま）.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if your child formerly disliked broccoli but has since developed a taste for it, you can attach 〜ようになる to the plain form or the potential form of the verb 食（た）べる, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "ブロッコリーを食（た）べるようになった。",
+      "english": "He began to eat broccoli."
+    },
+    {
+      "type": "example",
+      "japanese": "ブロッコリーを食（た）べられるようになった。",
+      "english": "He began to be able to eat broccoli."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although you need the word よう in a positive sentence, you don't need it when saying that someone begins to not do something. In this case, you simply turn the verb into the negative form that ends with ない, then turn the ない into なく as it conjugates like an い-adjective, then add なる."
+    },
+    {
+      "type": "paragraph",
+      "text": "So if your child stopped eating broccoli again, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "またブロッコリーを食（た）べなくなった。",
+      "english": "He stopped eating broccoli again."
+    },
+    {
+      "type": "paragraph",
+      "text": "I hope your child starts eating broccoli again soon!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb-------1",
+      "text": "Verb + そう + に + なる"
+    },
+    {
+      "type": "paragraph",
+      "text": "If the verb is in its そう form , which is the equivalent of \"looks like (someone or something) is going to do\" something, you don't need よう and can directly attach 〜になる. With this pattern, you can express that you came to a point where you almost performed an action but didn't."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you almost cried while listening to a tragic story, for example, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "泣（な）きそうになった。",
+      "english": "I almost cried."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, if you were almost late for a meeting but arrived in time, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "遅（おく）れそうになった。",
+      "english": "I was almost late."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-it-was-decided-thatturned-out-that",
+      "text": "〜ことになる For \"It Was Decided That/Turned Out That…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use なる to talk about plans that have been decided on, or about situations and circumstances that have turned out a certain way. Just combine 〜になる with こと , which converts non-nouns like verbs, adjectives, and clauses into noun form."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you were planning to travel to Japan but became ill and had to cancel your trip, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本旅行（にほんりょこう）、キャンセルすることになった。",
+      "english": "We had to cancel the trip to Japan."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, if you didn't cancel but rebooked the flight for the following month, you could say:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本旅行（にほんりょこう）、来月（らいげつ）行（い）くことになった。",
+      "english": "We decided to travel to Japan next month."
+    },
+    {
+      "type": "paragraph",
+      "text": "In both cases, 〜ことになる implies that the conclusion or outcome emerged naturally or unintentionally. To express that you intentionally canceled or rescheduled the trip, you should use the verb する instead of なる, as in 〜ことにする."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, note that both the verb and こと can be omitted sometimes in casual spoken language, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本旅行（にほんりょこう）、キャンセルになった。",
+      "english": "We had to cancel the trip to Japan."
+    },
+    {
+      "type": "example",
+      "japanese": "日本旅行（にほんりょこう）、来月（らいげつ）になった。",
+      "english": "We decided to travel to Japan next month."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at another example. Say you lost your passport a day before your trip. To express this uh-oh situation, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "やばいことになった。",
+      "english": "I'm in trouble. (Literally: It has become a bad situation.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, it's not that someone has decided for the situation to be bad — it just turned out that way and you've confirmed it. In the same way, 〜ことになる can also be used to describe the current state of a situation that you have confirmed."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-natural-consequences-that-follow-a-certain-change",
+      "text": "〜にもなると〜 For Natural Consequences That Follow A Certain Change"
+    },
+    {
+      "type": "paragraph",
+      "text": "You learned that 〜になる is used to describe some sort of a change in situation. Sometimes the particle も is inserted between に and なる, which is followed by the conditional と to talk about a consequence, as in 〜にもなると〜."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this structure, what comes before 〜にもなると〜 usually refers to time, age, a role, or an event, and も emphasizes it. And you can communicate your realization that if someone or something reaches a given level or point, a certain consequence will follow naturally."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's say you observed your friend's child assisting her mother in the kitchen. You've known the little girl since she was a newborn, and you're shocked at how much she can do now that she's six. To describe your surprise, you can use 〜にもなると〜 and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "六（ろく）才（さい）にもなると、こんなことも出来（でき）るんだね。",
+      "english": "I guess at six years old kids can do this kind of thing, huh? (Literally: When a kid turns six years old, they can do this kind of thing, huh?)"
+    },
+    {
+      "type": "paragraph",
+      "text": "に in this use can also be replaced with と, as in 〜ともなると, but this version sounds much more formal and literary."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-based-on-that",
+      "text": "となると〜 For \"Based On That…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You learned that 〜となる is a formal and literary version of 〜になる. This phrase followed by conditional と is used as a phrase at the beginning of a sentence, meaning \"based on that\" or \"if that's the case\" while referring to the statement directly before it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is how it works. Say someone informed you that your boss was hospitalized yesterday because of a car accident. Then you may respond with:"
+    },
+    {
+      "type": "example",
+      "japanese": "となると、しばらく会社（かいしゃ）には来（こ）れませんね。",
+      "english": "If that's the case, then he will probably not be able to come to the office for a while, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, となると formally refers to the information you heard just beforehand, and lets you express the opinion or inference that you came to as a result."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use となると when you're talking to yourself while reasoning. For example, in the same situation where your boss has been hospitalized, you may have a train of thought like this."
+    },
+    {
+      "type": "example",
+      "japanese": "部長（ぶちょう）は、入院（にゅういん）でしばらく来（こ）れないのか。となると、来週（らいしゅう）のプレゼンは恐（おそ）らくオレがすることになるな。",
+      "english": "So the director is in the hospital and won't be able to come for a while? If that's the case, I guess I'll probably have to do the presentation next week."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, となると has a formal tone. So it may not be very common for people to actually reason with this phrase, but it's common in fiction and other kinds of writing."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-to-be-composed-of",
+      "text": "〜からなる For \"To Be Composed Of…\""
+    },
+    {
+      "type": "paragraph",
+      "text": "By now, you know that なる is used like \"to become\" in English. When used with the particle から , as in 〜からなる, it can mark the different elements that something is composed of."
+    },
+    {
+      "type": "paragraph",
+      "text": "This expression is generally used in formal, written Japanese, so if you want to explain what the Diet in Japan comprises, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にっぽん）の議会（ぎかい）は衆議院（しゅうぎいん）と参議院（と）からなる。",
+      "english": "The Diet in Japan is composed of the House of Representatives and the House of Councilors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note 〜からなる often takes the て form without changing the meaning, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にっぽん）の議会（ぎかい）は衆議院（しゅうぎいん）と参議院（と）からなっている。",
+      "english": "The Diet in Japan is composed of the House of Representatives and the House of Councilors."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, からなる simply states what the Diet is composed of as a rule. It sounds succinct, while からなっている sounds slightly more descriptive as it gives focus to the current state of the Diet."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "なる is a Japanese verb that means \"to become.\" For example, if you dream of becoming a famous model, you can say:",
+    "なる can also be translated as \"to get\" or \"to be.\" So if you've actually become a model and you expect to have a busy schedule soon, you could say:",
+    "Piece of cake, right?",
+    "If you're wondering why the first two examples use に before なる but the last one uses く, don't worry. We'll talk about it in the Patterns of Use section soon. But first, let's check out the conjugation of なる so you know its different forms.",
+    "なる is a godan verb . Here are some basic conjugations:",
+    "You've learned that なる means \"to become\" or something similar. When what a person or thing has turned into is a noun or a な-adjective , you use the particle に to mark the end point of a change.",
+    "So, if an ice cream shop is going to be built on the corner, you say:",
+    "In this example, アイスクリーム屋（や）さん (ice cream shop) is a noun.",
+    "And if you think the shop will be popular, you say:",
+    "Here, 人気（にんき） (popular) is a な-adjective.",
+    "Note that the particle に can sometimes be replaced with the particle と , as in:",
+    "However, と indicates that the thing/state/event has reached its ultimate stage, and it sounds formal and literary. When casually marking the end point of a change, you can't go wrong with に.",
+    "When what a person or thing has turned into is an い-adjective , you first turn the adjective into the く form , and then add なる.",
+    "For example, say you felt especially happy to learn that a new ice cream shop will be opening near your house. In this case, you can say:",
+    "This く ending of い-adjectives allows us to hook something onto the end of them. So to show how your mood has improved, うれしい has to be changed to うれしく before you can add なった (the past tense of なる) to the end.",
+    "ない is the equivalent of \"not\" in English, so if someone isn't popular, you use ない and say 人気（にんき）じゃ ない . And if someone isn't happy, you say うれしく ない . This ない is like an い-adjective and conjugates the same way. So, if you want to say that someone becomes unpopular or unhappy, you can say:",
+    "So far, you've learned how なる is used with nouns and adjectives. Those are the most basic uses. That being said, なる can also be used with verbs to mean \"to begin to do\" something.",
+    "In this case, you need to add the word よう and the particle に between the verb and なる. (よう is usually written in kana but can also be written in kanji as 様（さま）.)",
+    "For example, if your child formerly disliked broccoli but has since developed a taste for it, you can attach 〜ようになる to the plain form or the potential form of the verb 食（た）べる, as in:",
+    "Although you need the word よう in a positive sentence, you don't need it when saying that someone begins to not do something. In this case, you simply turn the verb into the negative form that ends with ない, then turn the ない into なく as it conjugates like an い-adjective, then add なる.",
+    "So if your child stopped eating broccoli again, you can say:",
+    "I hope your child starts eating broccoli again soon!",
+    "If the verb is in its そう form , which is the equivalent of \"looks like (someone or something) is going to do\" something, you don't need よう and can directly attach 〜になる. With this pattern, you can express that you came to a point where you almost performed an action but didn't.",
+    "If you almost cried while listening to a tragic story, for example, you can say:",
+    "Similarly, if you were almost late for a meeting but arrived in time, you can say:",
+    "You can also use なる to talk about plans that have been decided on, or about situations and circumstances that have turned out a certain way. Just combine 〜になる with こと , which converts non-nouns like verbs, adjectives, and clauses into noun form.",
+    "For example, if you were planning to travel to Japan but became ill and had to cancel your trip, you could say:",
+    "Similarly, if you didn't cancel but rebooked the flight for the following month, you could say:",
+    "In both cases, 〜ことになる implies that the conclusion or outcome emerged naturally or unintentionally. To express that you intentionally canceled or rescheduled the trip, you should use the verb する instead of なる, as in 〜ことにする.",
+    "Also, note that both the verb and こと can be omitted sometimes in casual spoken language, like:",
+    "Let's take a look at another example. Say you lost your passport a day before your trip. To express this uh-oh situation, you may say:",
+    "Here, it's not that someone has decided for the situation to be bad — it just turned out that way and you've confirmed it. In the same way, 〜ことになる can also be used to describe the current state of a situation that you have confirmed.",
+    "You learned that 〜になる is used to describe some sort of a change in situation. Sometimes the particle も is inserted between に and なる, which is followed by the conditional と to talk about a consequence, as in 〜にもなると〜.",
+    "In this structure, what comes before 〜にもなると〜 usually refers to time, age, a role, or an event, and も emphasizes it. And you can communicate your realization that if someone or something reaches a given level or point, a certain consequence will follow naturally.",
+    "Let's say you observed your friend's child assisting her mother in the kitchen. You've known the little girl since she was a newborn, and you're shocked at how much she can do now that she's six. To describe your surprise, you can use 〜にもなると〜 and say:",
+    "に in this use can also be replaced with と, as in 〜ともなると, but this version sounds much more formal and literary.",
+    "You learned that 〜となる is a formal and literary version of 〜になる. This phrase followed by conditional と is used as a phrase at the beginning of a sentence, meaning \"based on that\" or \"if that's the case\" while referring to the statement directly before it.",
+    "Here is how it works. Say someone informed you that your boss was hospitalized yesterday because of a car accident. Then you may respond with:",
+    "In this example, となると formally refers to the information you heard just beforehand, and lets you express the opinion or inference that you came to as a result.",
+    "You can also use となると when you're talking to yourself while reasoning. For example, in the same situation where your boss has been hospitalized, you may have a train of thought like this.",
+    "Again, となると has a formal tone. So it may not be very common for people to actually reason with this phrase, but it's common in fiction and other kinds of writing.",
+    "By now, you know that なる is used like \"to become\" in English. When used with the particle から , as in 〜からなる, it can mark the different elements that something is composed of.",
+    "This expression is generally used in formal, written Japanese, so if you want to explain what the Diet in Japan comprises, you can say:",
+    "Note 〜からなる often takes the て form without changing the meaning, as in:",
+    "Here, からなる simply states what the Diet is composed of as a rule. It sounds succinct, while からなっている sounds slightly more descriptive as it gives focus to the current state of the Diet."
+  ],
+  "examples": [
+    {
+      "japanese": "モデルになる。",
+      "english": "I'll become a model."
+    },
+    {
+      "japanese": "有名（ゆうめい）になる。",
+      "english": "I'll become famous."
+    },
+    {
+      "japanese": "いそがしくなる。",
+      "english": "It's going to get busy."
+    },
+    {
+      "japanese": "ここはアイスクリーム屋（や）さんになる。",
+      "english": "This place will become an ice cream shop."
+    },
+    {
+      "japanese": "きっと人気（にんき）になる。",
+      "english": "They'll probably be popular."
+    },
+    {
+      "japanese": "このアイスクリーム屋（や）さんは人気（にんき）のお店（みせ）となった。",
+      "english": "This ice cream shop became a popular shop."
+    },
+    {
+      "japanese": "うれしくなった。",
+      "english": "I felt happy. (Literally: I became happy.)"
+    },
+    {
+      "japanese": "人気（にんき）じゃなくなる",
+      "english": "to become unpopular"
+    },
+    {
+      "japanese": "うれしくなくなる",
+      "english": "to become unhappy"
+    },
+    {
+      "japanese": "ブロッコリーを食（た）べるようになった。",
+      "english": "He began to eat broccoli."
+    },
+    {
+      "japanese": "ブロッコリーを食（た）べられるようになった。",
+      "english": "He began to be able to eat broccoli."
+    },
+    {
+      "japanese": "またブロッコリーを食（た）べなくなった。",
+      "english": "He stopped eating broccoli again."
+    },
+    {
+      "japanese": "泣（な）きそうになった。",
+      "english": "I almost cried."
+    },
+    {
+      "japanese": "遅（おく）れそうになった。",
+      "english": "I was almost late."
+    },
+    {
+      "japanese": "日本旅行（にほんりょこう）、キャンセルすることになった。",
+      "english": "We had to cancel the trip to Japan."
+    },
+    {
+      "japanese": "日本旅行（にほんりょこう）、来月（らいげつ）行（い）くことになった。",
+      "english": "We decided to travel to Japan next month."
+    },
+    {
+      "japanese": "日本旅行（にほんりょこう）、キャンセルになった。",
+      "english": "We had to cancel the trip to Japan."
+    },
+    {
+      "japanese": "日本旅行（にほんりょこう）、来月（らいげつ）になった。",
+      "english": "We decided to travel to Japan next month."
+    },
+    {
+      "japanese": "やばいことになった。",
+      "english": "I'm in trouble. (Literally: It has become a bad situation.)"
+    },
+    {
+      "japanese": "六（ろく）才（さい）にもなると、こんなことも出来（でき）るんだね。",
+      "english": "I guess at six years old kids can do this kind of thing, huh? (Literally: When a kid turns six years old, they can do this kind of thing, huh?)"
+    },
+    {
+      "japanese": "となると、しばらく会社（かいしゃ）には来（こ）れませんね。",
+      "english": "If that's the case, then he will probably not be able to come to the office for a while, right?"
+    },
+    {
+      "japanese": "部長（ぶちょう）は、入院（にゅういん）でしばらく来（こ）れないのか。となると、来週（らいしゅう）のプレゼンは恐（おそ）らくオレがすることになるな。",
+      "english": "So the director is in the hospital and won't be able to come for a while? If that's the case, I guess I'll probably have to do the presentation next week."
+    },
+    {
+      "japanese": "日本（にっぽん）の議会（ぎかい）は衆議院（しゅうぎいん）と参議院（と）からなる。",
+      "english": "The Diet in Japan is composed of the House of Representatives and the House of Councilors."
+    },
+    {
+      "japanese": "日本（にっぽん）の議会（ぎかい）は衆議院（しゅうぎいん）と参議院（と）からなっている。",
+      "english": "The Diet in Japan is composed of the House of Representatives and the House of Councilors."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Plain",
+        "Polite"
+      ],
+      [
+        "Present",
+        "なる",
+        "なります"
+      ],
+      [
+        "Past",
+        "なった",
+        "なりました"
+      ],
+      [
+        "Negative",
+        "ならない",
+        "なりません"
+      ],
+      [
+        "Past Negative",
+        "ならなかった",
+        "なりませんでした"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-",
+      "text": "Conjugating なる"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "noun-or--adjective----",
+      "text": "Noun or な-adjective + に + なる"
+    },
+    {
+      "level": 4,
+      "id": "adjective---",
+      "text": "い-adjective く + なる"
+    },
+    {
+      "level": 4,
+      "id": "section",
+      "text": "〜なく + なる"
+    },
+    {
+      "level": 4,
+      "id": "verb------",
+      "text": "Verb + よう + に + なる"
+    },
+    {
+      "level": 4,
+      "id": "verb-------1",
+      "text": "Verb + そう + に + なる"
+    },
+    {
+      "level": 3,
+      "id": "for-it-was-decided-thatturned-out-that",
+      "text": "〜ことになる For \"It Was Decided That/Turned Out That…\""
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-natural-consequences-that-follow-a-certain-change",
+      "text": "〜にもなると〜 For Natural Consequences That Follow A Certain Change"
+    },
+    {
+      "level": 3,
+      "id": "for-based-on-that",
+      "text": "となると〜 For \"Based On That…\""
+    },
+    {
+      "level": 3,
+      "id": "for-to-be-composed-of",
+      "text": "〜からなる For \"To Be Composed Of…\""
+    }
+  ],
+  "id": 121,
+  "slug": "naru",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/naru/",
+  "categories": [
+    "Vocabulary"
+  ]
+}

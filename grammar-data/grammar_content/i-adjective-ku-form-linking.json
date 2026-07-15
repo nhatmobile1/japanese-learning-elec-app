@@ -1,0 +1,250 @@
+{
+  "title": "い-Adjectiveく (Linking)",
+  "description": "The く form of い-adjectives allows you to combine words and clauses together.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The く form of い-adjectives can be used to link words and clauses together. This is nearly identical to the 〜くて ending for い-adjectives. However, 〜く gives a more formal and literary nuance. For this reason, you’ll mostly see words and clauses linked together with 〜く in writing."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "linking-words",
+      "text": "Linking Words"
+    },
+    {
+      "type": "paragraph",
+      "text": "To string adjectives together using the く form, you just need to add 〜く to the first adjective, before sticking on the second adjective. So to combine 若（わか）い (young) and 美（うつく）しい (beautiful), turn 若（わか）い into the く form and add 美（うつく）しい:"
+    },
+    {
+      "type": "example",
+      "japanese": "若（わか）く美（うつく）しい",
+      "english": "young and beautiful"
+    },
+    {
+      "type": "paragraph",
+      "text": "In written Japanese, adjectives linked by the く form before a noun often do not use a comma (てん) to separate them:"
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）には若（わか）く美（うつく）しい妻（つま）がいる。",
+      "english": "He has a young and beautiful wife."
+    },
+    {
+      "type": "paragraph",
+      "text": "When the linked adjectives appear at the end of the sentence, it is more common for them to use a comma to separate them:"
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）の妻（つま）は若（わか）く、美（うつく）しい。",
+      "english": "His wife is young and beautiful."
+    },
+    {
+      "type": "paragraph",
+      "text": "These are not strict rules by any means."
+    },
+    {
+      "type": "paragraph",
+      "text": "What is worth remembering is that adjectives linked with the く form tend to be used in writing more than in conversation."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "linking-clauses",
+      "text": "Linking Clauses"
+    },
+    {
+      "type": "paragraph",
+      "text": "The く form can also be used to link two or more sentences together. Note that once the sentences are combined together, they are referred to as clauses. Together, these clauses make up a larger compound sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s start with two sentences that we’ll stick together with the く form:"
+    },
+    {
+      "type": "example",
+      "japanese": "去年（きょねん）はとても暖（だん）かった。",
+      "english": "Last year was very warm."
+    },
+    {
+      "type": "example",
+      "japanese": "雨（あめ）が少（すく）なかった。",
+      "english": "There was little rain."
+    },
+    {
+      "type": "paragraph",
+      "text": "The い-adjectives in each sentence (暖（だん）かった and 少（すく）なかった) are in the past tense, indicated by 〜かった . In order to combine the sentences, the adjective at the end of the first sentence will change into the く form."
+    },
+    {
+      "type": "example",
+      "japanese": "去年（きょねん）はとても暖（あたた）かく、雨（あめ）が少（すく）なかった。",
+      "english": "Last year was very warm, and there was little rain."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because the く form cannot show tense, the tense of the entire compound sentence is shown at the end of the second clause."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Using the く form to link clauses together is generally considered to be more formal and literary than using the て form. Linguists still debate exactly why this is, but let’s take a look at one interesting theory."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "form-vs--form",
+      "text": "く Form vs て Form"
+    },
+    {
+      "type": "paragraph",
+      "text": "Also known as the conjunctive form, the て form is used to link い-adjectives with either an \"and\" or \"so\" relationship . In other words, the て form implies a more clearly defined relationship between two words or clauses."
+    },
+    {
+      "type": "example",
+      "japanese": "去年（きょねん）はとても暖（あたた）かくて、雨（あめ）が少（すく）なかった。",
+      "english": "Last year was very warm, and there was little rain."
+    },
+    {
+      "type": "paragraph",
+      "text": "The く form, known as the continuative, also allows い-adjectives to connect, but in a somewhat different way. One of the primary uses of the く form is to turn い-adjectives into adverbs , and some linguists have proposed that clauses that are linked using the く form are also \"adverbial\" in nature. Let’s take a second look at our example sentence from above to paint a clearer picture:"
+    },
+    {
+      "type": "example",
+      "japanese": "去年（きょねん）はとても暖（あたた）かく、雨（あめ）が少（すく）なかった。",
+      "english": "Translation 1: Last year was very warm, and there was little rain.Translation 2: With last year being very warm, there was little rain."
+    },
+    {
+      "type": "paragraph",
+      "text": "While a translation between two languages can rarely capture every nuance, the theory is that translation 2 above is actually closer in feeling to the original Japanese than translation 1. This is because the く form implies a looser, more indirect relationship between the two clauses. Indirectness is one way of raising the formality level in Japanese, so this explains why the く form is more associated with formal writing than its て form equivalent."
+    },
+    {
+      "type": "paragraph",
+      "text": "Despite the fact that the grammatical connection is looser, the く form may actually imply a closer relationship in terms of the meaning of the two clauses. This can be seen in the two translations above. Whereas \"and\" can connect two relatively unrelated ideas (\"I'm British and I like cats\"), an adverbial clause cannot (\"Being British, I like cats\"). So, while the lines may feel more blurred in sentences with く, they also feel more dependent on one another."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "The く form of い-adjectives can be used to link words and clauses together. This is nearly identical to the 〜くて ending for い-adjectives. However, 〜く gives a more formal and literary nuance. For this reason, you’ll mostly see words and clauses linked together with 〜く in writing.",
+    "To string adjectives together using the く form, you just need to add 〜く to the first adjective, before sticking on the second adjective. So to combine 若（わか）い (young) and 美（うつく）しい (beautiful), turn 若（わか）い into the く form and add 美（うつく）しい:",
+    "In written Japanese, adjectives linked by the く form before a noun often do not use a comma (てん) to separate them:",
+    "When the linked adjectives appear at the end of the sentence, it is more common for them to use a comma to separate them:",
+    "These are not strict rules by any means.",
+    "What is worth remembering is that adjectives linked with the く form tend to be used in writing more than in conversation.",
+    "The く form can also be used to link two or more sentences together. Note that once the sentences are combined together, they are referred to as clauses. Together, these clauses make up a larger compound sentence.",
+    "Let’s start with two sentences that we’ll stick together with the く form:",
+    "The い-adjectives in each sentence (暖（だん）かった and 少（すく）なかった) are in the past tense, indicated by 〜かった . In order to combine the sentences, the adjective at the end of the first sentence will change into the く form.",
+    "Because the く form cannot show tense, the tense of the entire compound sentence is shown at the end of the second clause.",
+    "Using the く form to link clauses together is generally considered to be more formal and literary than using the て form. Linguists still debate exactly why this is, but let’s take a look at one interesting theory.",
+    "Also known as the conjunctive form, the て form is used to link い-adjectives with either an \"and\" or \"so\" relationship . In other words, the て form implies a more clearly defined relationship between two words or clauses.",
+    "The く form, known as the continuative, also allows い-adjectives to connect, but in a somewhat different way. One of the primary uses of the く form is to turn い-adjectives into adverbs , and some linguists have proposed that clauses that are linked using the く form are also \"adverbial\" in nature. Let’s take a second look at our example sentence from above to paint a clearer picture:",
+    "While a translation between two languages can rarely capture every nuance, the theory is that translation 2 above is actually closer in feeling to the original Japanese than translation 1. This is because the く form implies a looser, more indirect relationship between the two clauses. Indirectness is one way of raising the formality level in Japanese, so this explains why the く form is more associated with formal writing than its て form equivalent.",
+    "Despite the fact that the grammatical connection is looser, the く form may actually imply a closer relationship in terms of the meaning of the two clauses. This can be seen in the two translations above. Whereas \"and\" can connect two relatively unrelated ideas (\"I'm British and I like cats\"), an adverbial clause cannot (\"Being British, I like cats\"). So, while the lines may feel more blurred in sentences with く, they also feel more dependent on one another."
+  ],
+  "examples": [
+    {
+      "japanese": "若（わか）く美（うつく）しい",
+      "english": "young and beautiful"
+    },
+    {
+      "japanese": "彼（かれ）には若（わか）く美（うつく）しい妻（つま）がいる。",
+      "english": "He has a young and beautiful wife."
+    },
+    {
+      "japanese": "彼（かれ）の妻（つま）は若（わか）く、美（うつく）しい。",
+      "english": "His wife is young and beautiful."
+    },
+    {
+      "japanese": "去年（きょねん）はとても暖（だん）かった。",
+      "english": "Last year was very warm."
+    },
+    {
+      "japanese": "雨（あめ）が少（すく）なかった。",
+      "english": "There was little rain."
+    },
+    {
+      "japanese": "去年（きょねん）はとても暖（あたた）かく、雨（あめ）が少（すく）なかった。",
+      "english": "Last year was very warm, and there was little rain."
+    },
+    {
+      "japanese": "去年（きょねん）はとても暖（あたた）かくて、雨（あめ）が少（すく）なかった。",
+      "english": "Last year was very warm, and there was little rain."
+    },
+    {
+      "japanese": "去年（きょねん）はとても暖（あたた）かく、雨（あめ）が少（すく）なかった。",
+      "english": "Translation 1: Last year was very warm, and there was little rain.Translation 2: With last year being very warm, there was little rain."
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "linking-words",
+      "text": "Linking Words"
+    },
+    {
+      "level": 3,
+      "id": "linking-clauses",
+      "text": "Linking Clauses"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "form-vs--form",
+      "text": "く Form vs て Form"
+    }
+  ],
+  "id": 90,
+  "slug": "i-adjective-ku-form-linking",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/i-adjective-ku-form-linking/",
+  "categories": [
+    "Adjective Form",
+    "Clause Link"
+  ]
+}

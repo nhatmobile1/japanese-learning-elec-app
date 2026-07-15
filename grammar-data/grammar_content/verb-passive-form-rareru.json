@@ -1,0 +1,586 @@
+{
+  "title": "〜られる (Passive)",
+  "description": "The passive suffix 〜られる tells us that a verb is done to someone. It takes the emphasis off of who does the action, and places it on who is affected by the action.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜られる is a suffix that makes a verb passive . In other words, attaching 〜られる to a verb tells us that the verb was done to someone or something. For instance, the passive form of 食（た）べ る (to eat) is 食（た）べ られる (to be eaten). To use it in a sentence, if my surfboard was eaten by a shark, I could say サーフボードはサメに食（た）べられた."
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll see on this page that the Japanese passive is not exactly the same as the English passive though, and it can be a bit tricky for learners."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜られる"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Godan",
+          "会（あ）う → 会（あ）われる 立（た）つ → 立（た）たれる 写（うつ）す → 写（うつ）される 割（われ）る → 割（わ）られる 書（か）く → 書（か）かれる 泳（およ）ぐ → 泳（およ）がれる 死（し）ぬ → 死（し）なれる 学（まな）ぶ → 学（まな）ばれる 休（やす）む → 休（やす）まれる"
+        ],
+        [
+          "Ichidan",
+          "食（た）べる → 食（た）べられる 起（お）きる → 起（お）きられる 閉（と）じる → 閉（と）じられる"
+        ],
+        [
+          "Irregular",
+          "来（く）る（く ） → 来（こ）られる（こ ） する → される"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "Like with most conjugations, godan verbs are the trickier of the verb types! Rather than simply adding 〜られる to the verb, you first have to locate the character that comes at the end of the verb in plain form, and transform it to the corresponding あ-column character on the kana chart. Then you can add 〜れる. So if your plain form verb ending is む, your passive ending will be 〜まれる. If it's つ, your new ending will be 〜たれる. Let's try conjugating the verb 読（よ）む (to read) into its passive form:"
+    },
+    {
+      "type": "formula",
+      "japanese": "読（よ）む + ま + れる = 読（よ）まれる",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "This pattern holds for most godan verbs, but watch out for verbs ending in 〜う, such as 買（か）う (to buy). Logic dictates that the passive form of 買（がい） う would be 買（がい） あれる , but logic fails us here. The correct passive form of 買（がい） う is 買（がい） われる ."
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ 買（か）う + あ + れる = 買（がい）あれる ⭕️ 買（か）う + わ + れる = 買（か）われる",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "❌ 買（がい） う + あ + れる = 買（がい） あれる ⭕️ 買（がい） う + わ + れる = 買（がい） われる"
+    },
+    {
+      "type": "paragraph",
+      "text": "When it comes to grammar, we like to leave no stone unturned. If you'd like to know more about this curious conjugation, check out its historical context ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "For ichidan verbs , it's easy. Just replace the 〜る ending of the verb with 〜られる. For example, 食（た）べ る (to eat) becomes 食（た）べ られる ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Take note though — the 〜られる ending can also be used for the potential form . Due to this overlap, modern Japanese is developing a distinct potential form ending, 〜れる. Isn't it cool to see how language shifts and adapts to its users' needs over time?"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "irregular-verbs",
+      "text": "Irregular Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "As for our two typical irregular verbs , the passive form of 来（く）る（く ） (to come) is 来（こ）られる（こ ）, and する (to do) is される."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-",
+      "text": "Conjugating られる"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now you’ve learned how to conjugate a verb into the られる form, but there’s still one more conjugation-related thing to learn. That is, how 〜られる itself conjugates!"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜られる works as an ichidan verb, so any verb that has been turned into the られる form will now conjugate as an ichidan verb. For example, 刺（さ）す (to sting/stub) is a godan verb, but when it becomes its られる form 刺（さ）される, it conjugates as an ichidan verb. Here are some basic conjugations of 刺（さ）される."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Plain",
+          "Polite"
+        ],
+        [
+          "〜られる Form",
+          "刺（さ）される",
+          "刺（さ）されます"
+        ],
+        [
+          "Negative Form",
+          "刺（さ）されない",
+          "刺（さ）されません"
+        ],
+        [
+          "Past Form",
+          "刺（さ）された",
+          "刺（さ）されました"
+        ],
+        [
+          "Past Negative Form",
+          "刺（さ）されなかった",
+          "刺（さ）されませんでした"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Simple, right? But you might be wondering why we picked 刺（さ）される as an example verb. Well, it’s because we’re going to use it to talk about forming a passive sentence next!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "forming-a-passive-sentence",
+      "text": "Forming a Passive Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "A Japanese passive sentence has three main parts:"
+    },
+    {
+      "type": "paragraph",
+      "text": "These parts plug into a sentence as follows. 'X' is the experiencer, 'Y' is the doer, and '〜られる' is the action:"
+    },
+    {
+      "type": "example",
+      "japanese": "Xは Yに 〜られる。",
+      "english": "X is 〜ed by Y."
+    },
+    {
+      "type": "paragraph",
+      "text": "See how that works? Now let's try it with a real sentence. Let's say that a bee stings you, but you want to highlight your experience of the situation by making it passive, as in \"I was stung by a bee\". The bee is the doer, you are the experiencer, and being stung is the action:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）は蜂（はち）に刺（さ）された。",
+      "english": "I was stung by a bee."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not too bad, right? Well, things do get a little trickier due to how often unnecessary elements are dropped from a sentence in Japanese. With the passive, this is particularly common when the experiencer is you , or their identity is obvious from context. So it might be more natural to complain about a bee sting by saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "蜂（はち）に刺（さ）された。",
+      "english": "(I) was stung by a bee."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's also common to omit the doer from a passive sentence, and this is actually the same in English:"
+    },
+    {
+      "type": "example",
+      "japanese": "いきなり(あの男（おとこ）に)殴（なぐ）られた。",
+      "english": "I was suddenly punched (by that man)."
+    },
+    {
+      "type": "paragraph",
+      "text": "We can omit (by that man) from the sentence above in both Japanese and English. Maybe we don't care who punched you, and we just want to focus on how it affected you. Or, maybe you just got punched, so the big bully puncher is still standing right there and there's no need to say it! 💥"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Japanese passive form is a bit of a headache for a lot of Japanese language learners. This is because the Japanese passive can be used in ways that extend beyond the English passive."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "direct-vs-indirect-passive",
+      "text": "Direct vs. Indirect Passive"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's start this off by defining two types of passives: direct and indirect."
+    },
+    {
+      "type": "paragraph",
+      "text": "In direct passives, the effect that the action has on the experiencer is very obvious, because it is done directly to them. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "ピカソにキスされた。",
+      "english": "I was kissed by Picasso."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, the action is getting kissed, the doer is Picasso, and the experiencer is me. The action was directly done to me, so this is direct passive. This is exactly the same as English, so no big deal."
+    },
+    {
+      "type": "paragraph",
+      "text": "The indirect passive can be trickier to grasp for English speakers because there is no perfect equivalent in English. The indirect passive is used to express that someone did something, and this somehow had an effect on me . As you can imagine, this is used a lot to complain about stuff (I can't believe X was done to me 😭), earning it the name the adversative passive ."
+    },
+    {
+      "type": "paragraph",
+      "text": "The easiest way to understand the indirect passive is with an example. Imagine that a man smoked a cigarette right in front of you, and the exposure to the smoke is bothersome. In this case, I can use the passive form to say that I got smoked on 💨"
+    },
+    {
+      "type": "example",
+      "japanese": "(あのおじさんに)タバコを吸（す）われた。",
+      "english": "I got smoked on (by that man)."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, the action is smoking and the doer is that man. What gets smoked in this sentence though, is a cigarette, not the experiencer, AKA me. In fact, you could add 私（わたし）は to the beginning of this sentence and it would be perfectly grammatical (albeit not necessarily natural, due to the preference for dropping elements of sentences in Japanese). The point is, the passive highlights that this act of smoking was done to me , and emphasizes that I did not have control over the action. It therefore creates the nuance that the action was a nuisance."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on the context though, there can be times when this done to me nuance is not necessarily negative:"
+    },
+    {
+      "type": "example",
+      "japanese": "ブラッド・ピッドに目（め）の前（まえ）でタバコを吸（す）われて、気絶（きぜつ）するかと思（おも）った。",
+      "english": "Brad Pitt smoked right in front of me, and I thought I was going to faint."
+    },
+    {
+      "type": "paragraph",
+      "text": "Like, are you fainting from the smoke, or are you fainting because that's Brad Pitt? 😍 Still, notice that our English translation is not actually passive here ( smoked is in active voice). This is because the English passive is often not a good way of capturing the essence of an indirect passive. For example, the following is a bit awkward in English, don't you think?"
+    },
+    {
+      "type": "example",
+      "japanese": "ブラッド・ピッドに目（め）の前（まえ）でタバコを吸（す）われて、気絶（きぜつ）するかと思（おも）った。",
+      "english": "I got smoked on by Brad Pit right in front of me, and I thought I was going to faint."
+    },
+    {
+      "type": "paragraph",
+      "text": "Except for a few cases, indirect passives are usually formed with verbs that are intentional, meaning that someone intentionally does the action described by the verb. For this reason the doer of the verb is usually a person rather than a thing. Thus, the following sentence is totally whacky sounding:"
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 私（わたし）は本（ほん）に頭（あたま）に落（お）ちられた。",
+      "english": "My head was fallen on by a book."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, it seems to be acceptable with some weather related verbs:"
+    },
+    {
+      "type": "example",
+      "japanese": "突然（とつぜん）雨（あめ）に降（ふ）られた。",
+      "english": "All of a sudden, I was rained on."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "marking-the-doer-with---or-",
+      "text": "Marking the Doer with に, から or によって"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle に usually marks the doer of the action, but it can sometimes be replaced with から or によって."
+    },
+    {
+      "type": "paragraph",
+      "text": "If both the doer and the experiencer are people, and the action is done directly to the experiencer, both に and から can be used to mark the doer. So, if Picasso laughed at you, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕ ピカソに笑（わら）われた。 ⭕ ピカソから笑（わら）われた.",
+      "english": "I was laughed at by Picasso."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if the doer is not a person, only に can mark the doer. So, if your friend was hit by a car, you can only use に:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕ 友達（ともだち）が車（くるま）にはねられた。 ❌ 友達（ともだち）が車（くるま）からはねられた。",
+      "english": "My friend was hit by a car."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you were stung by a wasp, the same rule applies:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕ スズメバチに刺（さ）された。 ❌ スズメバチから刺（さ）された。",
+      "english": "I was stung by a wasp."
+    },
+    {
+      "type": "paragraph",
+      "text": "に is more appropriate than から when the action is done to an object, or the passive is indirect:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕ ピカソに落書（らくが）きされた。 ❌ ピカソから落書（らくが）きされた。",
+      "english": "This was scribbled by Picasso."
+    },
+    {
+      "type": "example",
+      "japanese": "⭕ 泥棒（どろぼう）に携帯（けいたい）をとられた。 ❌ 泥棒（どろぼう）から携帯（けいたい）をとられた。",
+      "english": "I had my phone stolen by a thief."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are talking about something that is made from something, you should use から rather than に:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ このお酒（さけ）は芋（いも）から作（つく）られている。❌ このお酒（さけ）は芋（いも）に作（つく）られている。",
+      "english": "This alcohol is made from potatoes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, what about によって? You can use this in formal settings (especially writing):"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕ この落書（らくが）きはピカソによって描（えが）かれた。 🔺 この落書（らくが）きはピカソに描（えが）かれた。",
+      "english": "This doodle was drawn by Picasso."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜られる is a suffix that makes a verb passive . In other words, attaching 〜られる to a verb tells us that the verb was done to someone or something. For instance, the passive form of 食（た）べ る (to eat) is 食（た）べ られる (to be eaten). To use it in a sentence, if my surfboard was eaten by a shark, I could say サーフボードはサメに食（た）べられた.",
+    "You'll see on this page that the Japanese passive is not exactly the same as the English passive though, and it can be a bit tricky for learners.",
+    "Like with most conjugations, godan verbs are the trickier of the verb types! Rather than simply adding 〜られる to the verb, you first have to locate the character that comes at the end of the verb in plain form, and transform it to the corresponding あ-column character on the kana chart. Then you can add 〜れる. So if your plain form verb ending is む, your passive ending will be 〜まれる. If it's つ, your new ending will be 〜たれる. Let's try conjugating the verb 読（よ）む (to read) into its passive form:",
+    "This pattern holds for most godan verbs, but watch out for verbs ending in 〜う, such as 買（か）う (to buy). Logic dictates that the passive form of 買（がい） う would be 買（がい） あれる , but logic fails us here. The correct passive form of 買（がい） う is 買（がい） われる .",
+    "❌ 買（がい） う + あ + れる = 買（がい） あれる ⭕️ 買（がい） う + わ + れる = 買（がい） われる",
+    "When it comes to grammar, we like to leave no stone unturned. If you'd like to know more about this curious conjugation, check out its historical context .",
+    "For ichidan verbs , it's easy. Just replace the 〜る ending of the verb with 〜られる. For example, 食（た）べ る (to eat) becomes 食（た）べ られる .",
+    "Take note though — the 〜られる ending can also be used for the potential form . Due to this overlap, modern Japanese is developing a distinct potential form ending, 〜れる. Isn't it cool to see how language shifts and adapts to its users' needs over time?",
+    "As for our two typical irregular verbs , the passive form of 来（く）る（く ） (to come) is 来（こ）られる（こ ）, and する (to do) is される.",
+    "Now you’ve learned how to conjugate a verb into the られる form, but there’s still one more conjugation-related thing to learn. That is, how 〜られる itself conjugates!",
+    "〜られる works as an ichidan verb, so any verb that has been turned into the られる form will now conjugate as an ichidan verb. For example, 刺（さ）す (to sting/stub) is a godan verb, but when it becomes its られる form 刺（さ）される, it conjugates as an ichidan verb. Here are some basic conjugations of 刺（さ）される.",
+    "Simple, right? But you might be wondering why we picked 刺（さ）される as an example verb. Well, it’s because we’re going to use it to talk about forming a passive sentence next!",
+    "A Japanese passive sentence has three main parts:",
+    "These parts plug into a sentence as follows. 'X' is the experiencer, 'Y' is the doer, and '〜られる' is the action:",
+    "See how that works? Now let's try it with a real sentence. Let's say that a bee stings you, but you want to highlight your experience of the situation by making it passive, as in \"I was stung by a bee\". The bee is the doer, you are the experiencer, and being stung is the action:",
+    "Not too bad, right? Well, things do get a little trickier due to how often unnecessary elements are dropped from a sentence in Japanese. With the passive, this is particularly common when the experiencer is you , or their identity is obvious from context. So it might be more natural to complain about a bee sting by saying:",
+    "It's also common to omit the doer from a passive sentence, and this is actually the same in English:",
+    "We can omit (by that man) from the sentence above in both Japanese and English. Maybe we don't care who punched you, and we just want to focus on how it affected you. Or, maybe you just got punched, so the big bully puncher is still standing right there and there's no need to say it! 💥",
+    "The Japanese passive form is a bit of a headache for a lot of Japanese language learners. This is because the Japanese passive can be used in ways that extend beyond the English passive.",
+    "Let's start this off by defining two types of passives: direct and indirect.",
+    "In direct passives, the effect that the action has on the experiencer is very obvious, because it is done directly to them. For example:",
+    "In this case, the action is getting kissed, the doer is Picasso, and the experiencer is me. The action was directly done to me, so this is direct passive. This is exactly the same as English, so no big deal.",
+    "The indirect passive can be trickier to grasp for English speakers because there is no perfect equivalent in English. The indirect passive is used to express that someone did something, and this somehow had an effect on me . As you can imagine, this is used a lot to complain about stuff (I can't believe X was done to me 😭), earning it the name the adversative passive .",
+    "The easiest way to understand the indirect passive is with an example. Imagine that a man smoked a cigarette right in front of you, and the exposure to the smoke is bothersome. In this case, I can use the passive form to say that I got smoked on 💨",
+    "In this example, the action is smoking and the doer is that man. What gets smoked in this sentence though, is a cigarette, not the experiencer, AKA me. In fact, you could add 私（わたし）は to the beginning of this sentence and it would be perfectly grammatical (albeit not necessarily natural, due to the preference for dropping elements of sentences in Japanese). The point is, the passive highlights that this act of smoking was done to me , and emphasizes that I did not have control over the action. It therefore creates the nuance that the action was a nuisance.",
+    "Depending on the context though, there can be times when this done to me nuance is not necessarily negative:",
+    "Like, are you fainting from the smoke, or are you fainting because that's Brad Pitt? 😍 Still, notice that our English translation is not actually passive here ( smoked is in active voice). This is because the English passive is often not a good way of capturing the essence of an indirect passive. For example, the following is a bit awkward in English, don't you think?",
+    "Except for a few cases, indirect passives are usually formed with verbs that are intentional, meaning that someone intentionally does the action described by the verb. For this reason the doer of the verb is usually a person rather than a thing. Thus, the following sentence is totally whacky sounding:",
+    "However, it seems to be acceptable with some weather related verbs:",
+    "The particle に usually marks the doer of the action, but it can sometimes be replaced with から or によって.",
+    "If both the doer and the experiencer are people, and the action is done directly to the experiencer, both に and から can be used to mark the doer. So, if Picasso laughed at you, you can say:",
+    "However, if the doer is not a person, only に can mark the doer. So, if your friend was hit by a car, you can only use に:",
+    "And if you were stung by a wasp, the same rule applies:",
+    "に is more appropriate than から when the action is done to an object, or the passive is indirect:",
+    "If you are talking about something that is made from something, you should use から rather than に:",
+    "Finally, what about によって? You can use this in formal settings (especially writing):"
+  ],
+  "examples": [
+    {
+      "japanese": "Xは Yに 〜られる。",
+      "english": "X is 〜ed by Y."
+    },
+    {
+      "japanese": "私（わたし）は蜂（はち）に刺（さ）された。",
+      "english": "I was stung by a bee."
+    },
+    {
+      "japanese": "蜂（はち）に刺（さ）された。",
+      "english": "(I) was stung by a bee."
+    },
+    {
+      "japanese": "いきなり(あの男（おとこ）に)殴（なぐ）られた。",
+      "english": "I was suddenly punched (by that man)."
+    },
+    {
+      "japanese": "ピカソにキスされた。",
+      "english": "I was kissed by Picasso."
+    },
+    {
+      "japanese": "(あのおじさんに)タバコを吸（す）われた。",
+      "english": "I got smoked on (by that man)."
+    },
+    {
+      "japanese": "ブラッド・ピッドに目（め）の前（まえ）でタバコを吸（す）われて、気絶（きぜつ）するかと思（おも）った。",
+      "english": "Brad Pitt smoked right in front of me, and I thought I was going to faint."
+    },
+    {
+      "japanese": "ブラッド・ピッドに目（め）の前（まえ）でタバコを吸（す）われて、気絶（きぜつ）するかと思（おも）った。",
+      "english": "I got smoked on by Brad Pit right in front of me, and I thought I was going to faint."
+    },
+    {
+      "japanese": "❌ 私（わたし）は本（ほん）に頭（あたま）に落（お）ちられた。",
+      "english": "My head was fallen on by a book."
+    },
+    {
+      "japanese": "突然（とつぜん）雨（あめ）に降（ふ）られた。",
+      "english": "All of a sudden, I was rained on."
+    },
+    {
+      "japanese": "⭕ ピカソに笑（わら）われた。 ⭕ ピカソから笑（わら）われた.",
+      "english": "I was laughed at by Picasso."
+    },
+    {
+      "japanese": "⭕ 友達（ともだち）が車（くるま）にはねられた。 ❌ 友達（ともだち）が車（くるま）からはねられた。",
+      "english": "My friend was hit by a car."
+    },
+    {
+      "japanese": "⭕ スズメバチに刺（さ）された。 ❌ スズメバチから刺（さ）された。",
+      "english": "I was stung by a wasp."
+    },
+    {
+      "japanese": "⭕ ピカソに落書（らくが）きされた。 ❌ ピカソから落書（らくが）きされた。",
+      "english": "This was scribbled by Picasso."
+    },
+    {
+      "japanese": "⭕ 泥棒（どろぼう）に携帯（けいたい）をとられた。 ❌ 泥棒（どろぼう）から携帯（けいたい）をとられた。",
+      "english": "I had my phone stolen by a thief."
+    },
+    {
+      "japanese": "⭕️ このお酒（さけ）は芋（いも）から作（つく）られている。❌ このお酒（さけ）は芋（いも）に作（つく）られている。",
+      "english": "This alcohol is made from potatoes."
+    },
+    {
+      "japanese": "⭕ この落書（らくが）きはピカソによって描（えが）かれた。 🔺 この落書（らくが）きはピカソに描（えが）かれた。",
+      "english": "This doodle was drawn by Picasso."
+    },
+    {
+      "japanese": "読（よ）む + ま + れる = 読（よ）まれる",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "❌ 買（か）う + あ + れる = 買（がい）あれる ⭕️ 買（か）う + わ + れる = 買（か）われる",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Godan",
+        "会（あ）う → 会（あ）われる 立（た）つ → 立（た）たれる 写（うつ）す → 写（うつ）される 割（われ）る → 割（わ）られる 書（か）く → 書（か）かれる 泳（およ）ぐ → 泳（およ）がれる 死（し）ぬ → 死（し）なれる 学（まな）ぶ → 学（まな）ばれる 休（やす）む → 休（やす）まれる"
+      ],
+      [
+        "Ichidan",
+        "食（た）べる → 食（た）べられる 起（お）きる → 起（お）きられる 閉（と）じる → 閉（と）じられる"
+      ],
+      [
+        "Irregular",
+        "来（く）る（く ） → 来（こ）られる（こ ） する → される"
+      ]
+    ],
+    [
+      [
+        "Plain",
+        "Polite"
+      ],
+      [
+        "〜られる Form",
+        "刺（さ）される",
+        "刺（さ）されます"
+      ],
+      [
+        "Negative Form",
+        "刺（さ）されない",
+        "刺（さ）されません"
+      ],
+      [
+        "Past Form",
+        "刺（さ）された",
+        "刺（さ）されました"
+      ],
+      [
+        "Past Negative Form",
+        "刺（さ）されなかった",
+        "刺（さ）されませんでした"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜られる"
+    },
+    {
+      "level": 4,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "level": 4,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "level": 4,
+      "id": "irregular-verbs",
+      "text": "Irregular Verbs"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-",
+      "text": "Conjugating られる"
+    },
+    {
+      "level": 3,
+      "id": "forming-a-passive-sentence",
+      "text": "Forming a Passive Sentence"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "direct-vs-indirect-passive",
+      "text": "Direct vs. Indirect Passive"
+    },
+    {
+      "level": 3,
+      "id": "marking-the-doer-with---or-",
+      "text": "Marking the Doer with に, から or によって"
+    }
+  ],
+  "id": 78,
+  "slug": "verb-passive-form-rareru",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-passive-form-rareru/",
+  "categories": [
+    "Verb Form"
+  ]
+}

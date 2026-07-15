@@ -1,0 +1,369 @@
+{
+  "title": "い-Adjective ければ",
+  "description": "Adding 〜ければ to the end of an い-adjective makes it conditional, similar to using \"if\" or \"when\" in English.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "When an い-adjective ends in 〜ければ, it is said to be in the \"conditional form\". We use this form in the same sort of situations as we would use \"if\" or \"when\" in English. Although it’s widely used in casual conversations, 〜ければ is also appropriate in formal settings and in writing."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜ければ"
+    },
+    {
+      "type": "paragraph",
+      "text": "To attach 〜ければ to an い-adjective, simply drop the final 〜い from the adjective and then add 〜ければ. This works with both positive and negative adjectives."
+    },
+    {
+      "type": "formula",
+      "japanese": "positive (cute): かわいい + ければ → かわいければ (if cute) negative (not cute): かわいくない + ければ → かわいくなければ (if not cute)",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "positive (cute): かわい い + ければ → かわい ければ (if cute) negative (not cute): かわいくな い + ければ → かわいくな ければ (if not cute)"
+    },
+    {
+      "type": "paragraph",
+      "text": "All い-adjectives conjugate this way. Just don't forget that the stem form of いい (good) is よ, so its conditional form is よければ ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "When 〜ければ is used in a sentence, you can separate the sentence into two distinct parts: the condition and the result. Usually, the conditional part of the sentence (marked with 〜ければ) comes before the result."
+    },
+    {
+      "type": "example",
+      "japanese": "おいしければ、売（う）れるでしょう。",
+      "english": "If it's delicious, it will sell well."
+    },
+    {
+      "type": "paragraph",
+      "text": "In spoken Japanese, the conditional part sometimes follows the result. This gives the impression that the condition is some kind of afterthought."
+    },
+    {
+      "type": "example",
+      "japanese": "売（う）れると思（おも）うよ…おいしければ。",
+      "english": "I think it will sell well… if it’s delicious, that is."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "uses",
+      "text": "Uses"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-general-truths",
+      "text": "〜ければ for General Truths"
+    },
+    {
+      "type": "paragraph",
+      "text": "We can use 〜ければ to point out something that definitely happens under a certain condition. Basically, we are saying that \"when this thing is true, this other thing will definitely happen.\" For this reason, the sentence is never used in the past form—since universal truths are true all the time."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this use, we are talking about general facts, or things that are believed to be facts by the person speaking. So 〜ければ is commonly used in proverbs, which makes sense when we consider that proverbs generally express things that are taken to be universally true:"
+    },
+    {
+      "type": "example",
+      "japanese": "終（お）わりよければ全（すべ）てよし。",
+      "english": "All's well that ends well."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-habits",
+      "text": "〜ければ for Habits"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜ければ can also be used to talk about repeated actions that happen—or happened—under a certain condition."
+    },
+    {
+      "type": "example",
+      "japanese": "天気（てんき）がよければよく外（そと）を走（はし）ります。",
+      "english": "I go for a run outside every day, if the weather's nice."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, the condition is nice weather. Whenever this condition arises, the habit is inevitable (I go jogging)."
+    },
+    {
+      "type": "paragraph",
+      "text": "This also works in the past, so we can use this form to talk about past habits in exactly the same way. Let's look at the jogging example again, but imagine that you don't go jogging anymore:"
+    },
+    {
+      "type": "example",
+      "japanese": "子供（こども）のころは、天気（てんき）がよければよく外（そと）を走（はし）りました。",
+      "english": "When I was a child I used to go for a run outside every day, if the weather was nice."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice that here we have to change the tense in both parts of the sentence in English, whereas in Japanese it's only the second part of the sentence that changes to the past tense, marked by 〜ました ."
+    },
+    {
+      "type": "paragraph",
+      "text": "In more old-fashioned—and written—Japanese, it's common to add ものだ to the end of the second part of the sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "天気（てんき）がよければよく外（そと）を走（はし）ったものだ。",
+      "english": "I used to go jogging every day, if the weather was nice."
+    },
+    {
+      "type": "paragraph",
+      "text": "This use of ものだ emphasizes the fact that we are recalling the \"old days.\""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-future-uncertainty",
+      "text": "〜ければ for Future Uncertainty"
+    },
+    {
+      "type": "paragraph",
+      "text": "So far, we've seen how 〜ければ can be used to talk about things that are definitely true in the present and the past. But what if we want to talk about things we're not sure about? In Japanese, we can still use this form, and we can add words like もし, だろう , でしょう , に違（ちが）いない , はずだ , or かもしれない to make it clear that we are not 100% sure that the condition will happen in the first place. Depending on the words that are added, we may not be sure of the result either."
+    },
+    {
+      "type": "example",
+      "japanese": "天気（てんき）が悪（わる）ければ、遠足（えんそく）は中止（ちゅうし）になる。",
+      "english": "If the weather's bad, the excursion will be cancelled."
+    },
+    {
+      "type": "example",
+      "japanese": "もし天気（てんき）が悪（わる）ければ、遠足（えんそく）は中止（ちゅうし）になるかもしれない。",
+      "english": "If the weather's bad, the excursion will probably be cancelled."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-intentions-and-future-wishes",
+      "text": "〜ければ for Intentions and Future Wishes"
+    },
+    {
+      "type": "paragraph",
+      "text": "To talk about something we intend to do, we can also use 〜ければ, this time adding つもり on the end of the second part:"
+    },
+    {
+      "type": "example",
+      "japanese": "質（しつ）が良（よ）ければ、買（か）うつもりです。",
+      "english": "If it's good quality, I plan to buy it."
+    },
+    {
+      "type": "paragraph",
+      "text": "This also works with 〜ましょう , the Japanese equivalent of \"let's\"."
+    },
+    {
+      "type": "example",
+      "japanese": "質（しつ）が良（よ）ければ、買（か）いましょう。",
+      "english": "If it's good quality, let's buy it."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "adjective-look-alikes",
+      "text": "い-Adjective Look-Alikes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The noun form of some verbs look like い-adjectives . For example, 違（違） う (to be different/incorrect) becomes 違（違） い (difference/error) in its noun form. Since 違（ちが）い looks like an い-adjective, you might be tempted to use 〜ければ when you want to make it conditional. However, since 違（ちが）う a verb, it requires a different way of forming the conditional."
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 違（違）ければ、言（い）ってください。 ⭕ 違（ちが）えば、言（い）ってください。",
+      "english": "If it’s different/incorrect, please tell me."
+    },
+    {
+      "type": "paragraph",
+      "text": "This mistake is not limited to Japanese learners. You will sometimes see younger native Japanese speakers using 違（ちが）い like an い-adjective quite, both intentionally and unintentionally."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "When an い-adjective ends in 〜ければ, it is said to be in the \"conditional form\". We use this form in the same sort of situations as we would use \"if\" or \"when\" in English. Although it’s widely used in casual conversations, 〜ければ is also appropriate in formal settings and in writing.",
+    "To attach 〜ければ to an い-adjective, simply drop the final 〜い from the adjective and then add 〜ければ. This works with both positive and negative adjectives.",
+    "positive (cute): かわい い + ければ → かわい ければ (if cute) negative (not cute): かわいくな い + ければ → かわいくな ければ (if not cute)",
+    "All い-adjectives conjugate this way. Just don't forget that the stem form of いい (good) is よ, so its conditional form is よければ .",
+    "When 〜ければ is used in a sentence, you can separate the sentence into two distinct parts: the condition and the result. Usually, the conditional part of the sentence (marked with 〜ければ) comes before the result.",
+    "In spoken Japanese, the conditional part sometimes follows the result. This gives the impression that the condition is some kind of afterthought.",
+    "We can use 〜ければ to point out something that definitely happens under a certain condition. Basically, we are saying that \"when this thing is true, this other thing will definitely happen.\" For this reason, the sentence is never used in the past form—since universal truths are true all the time.",
+    "In this use, we are talking about general facts, or things that are believed to be facts by the person speaking. So 〜ければ is commonly used in proverbs, which makes sense when we consider that proverbs generally express things that are taken to be universally true:",
+    "〜ければ can also be used to talk about repeated actions that happen—or happened—under a certain condition.",
+    "In this example, the condition is nice weather. Whenever this condition arises, the habit is inevitable (I go jogging).",
+    "This also works in the past, so we can use this form to talk about past habits in exactly the same way. Let's look at the jogging example again, but imagine that you don't go jogging anymore:",
+    "Notice that here we have to change the tense in both parts of the sentence in English, whereas in Japanese it's only the second part of the sentence that changes to the past tense, marked by 〜ました .",
+    "In more old-fashioned—and written—Japanese, it's common to add ものだ to the end of the second part of the sentence:",
+    "This use of ものだ emphasizes the fact that we are recalling the \"old days.\"",
+    "So far, we've seen how 〜ければ can be used to talk about things that are definitely true in the present and the past. But what if we want to talk about things we're not sure about? In Japanese, we can still use this form, and we can add words like もし, だろう , でしょう , に違（ちが）いない , はずだ , or かもしれない to make it clear that we are not 100% sure that the condition will happen in the first place. Depending on the words that are added, we may not be sure of the result either.",
+    "To talk about something we intend to do, we can also use 〜ければ, this time adding つもり on the end of the second part:",
+    "This also works with 〜ましょう , the Japanese equivalent of \"let's\".",
+    "The noun form of some verbs look like い-adjectives . For example, 違（違） う (to be different/incorrect) becomes 違（違） い (difference/error) in its noun form. Since 違（ちが）い looks like an い-adjective, you might be tempted to use 〜ければ when you want to make it conditional. However, since 違（ちが）う a verb, it requires a different way of forming the conditional.",
+    "This mistake is not limited to Japanese learners. You will sometimes see younger native Japanese speakers using 違（ちが）い like an い-adjective quite, both intentionally and unintentionally."
+  ],
+  "examples": [
+    {
+      "japanese": "おいしければ、売（う）れるでしょう。",
+      "english": "If it's delicious, it will sell well."
+    },
+    {
+      "japanese": "売（う）れると思（おも）うよ…おいしければ。",
+      "english": "I think it will sell well… if it’s delicious, that is."
+    },
+    {
+      "japanese": "終（お）わりよければ全（すべ）てよし。",
+      "english": "All's well that ends well."
+    },
+    {
+      "japanese": "天気（てんき）がよければよく外（そと）を走（はし）ります。",
+      "english": "I go for a run outside every day, if the weather's nice."
+    },
+    {
+      "japanese": "子供（こども）のころは、天気（てんき）がよければよく外（そと）を走（はし）りました。",
+      "english": "When I was a child I used to go for a run outside every day, if the weather was nice."
+    },
+    {
+      "japanese": "天気（てんき）がよければよく外（そと）を走（はし）ったものだ。",
+      "english": "I used to go jogging every day, if the weather was nice."
+    },
+    {
+      "japanese": "天気（てんき）が悪（わる）ければ、遠足（えんそく）は中止（ちゅうし）になる。",
+      "english": "If the weather's bad, the excursion will be cancelled."
+    },
+    {
+      "japanese": "もし天気（てんき）が悪（わる）ければ、遠足（えんそく）は中止（ちゅうし）になるかもしれない。",
+      "english": "If the weather's bad, the excursion will probably be cancelled."
+    },
+    {
+      "japanese": "質（しつ）が良（よ）ければ、買（か）うつもりです。",
+      "english": "If it's good quality, I plan to buy it."
+    },
+    {
+      "japanese": "質（しつ）が良（よ）ければ、買（か）いましょう。",
+      "english": "If it's good quality, let's buy it."
+    },
+    {
+      "japanese": "❌ 違（違）ければ、言（い）ってください。 ⭕ 違（ちが）えば、言（い）ってください。",
+      "english": "If it’s different/incorrect, please tell me."
+    },
+    {
+      "japanese": "positive (cute): かわいい + ければ → かわいければ (if cute) negative (not cute): かわいくない + ければ → かわいくなければ (if not cute)",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "forming-",
+      "text": "Forming 〜ければ"
+    },
+    {
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 2,
+      "id": "uses",
+      "text": "Uses"
+    },
+    {
+      "level": 3,
+      "id": "for-general-truths",
+      "text": "〜ければ for General Truths"
+    },
+    {
+      "level": 3,
+      "id": "for-habits",
+      "text": "〜ければ for Habits"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-future-uncertainty",
+      "text": "〜ければ for Future Uncertainty"
+    },
+    {
+      "level": 3,
+      "id": "for-intentions-and-future-wishes",
+      "text": "〜ければ for Intentions and Future Wishes"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "level": 3,
+      "id": "adjective-look-alikes",
+      "text": "い-Adjective Look-Alikes"
+    }
+  ],
+  "id": 87,
+  "slug": "i-adjective-conditional-form-kereba",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/i-adjective-conditional-form-kereba/",
+  "categories": [
+    "Adjective Form",
+    "Clause Link",
+    "Conditional"
+  ]
+}

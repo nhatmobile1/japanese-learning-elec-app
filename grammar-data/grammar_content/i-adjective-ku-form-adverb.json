@@ -1,0 +1,227 @@
+{
+  "title": "い-Adjectiveく (Adverb Form)",
+  "description": "The く form can be used to turn い-adjectives into adverbs, in a similar way to \"-ly\" in English.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "One function of the く form is to turn い-adjectives into adverbs. In other words, the く form allows us to describe how an action is done. It’s quite similar to adding -ly to English adjectives (like happy) to form adverbs (like happily). Let’s see this in action:"
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）らは楽（たの）しく暮（く）らしていました。",
+      "english": "They lived happily."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "adverbs-in-japanese",
+      "text": "Adverbs in Japanese"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, adverbs have a much wider range of use than their English counterparts. Take this sentence for example:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）は京都（きょうと）に長（なが）く住（す）んでいました。",
+      "english": "I lived in Kyoto for a long time.(Literally: I lived in Kyoto longly.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "While it sounds weird to say \"I lived in Kyoto longly\" in English, this is a perfectly acceptable sentence in Japanese. The Japanese い-adjective 長（なが）い (long) can be easily transformed into the adverb 長（なが）く, but to express the same meaning in English we often have to use other structures (like the prepositional phrase \"for a long time\")."
+    },
+    {
+      "type": "paragraph",
+      "text": "This makes it much easier to describe how things are done in Japanese than in English:"
+    },
+    {
+      "type": "example",
+      "japanese": "そのラーメンを美味（おい）しく食（た）べました。",
+      "english": "I ate that ramen with gusto.(Literally: I ate that ramen deliciously.)"
+    },
+    {
+      "type": "example",
+      "japanese": "ブログを新（あたら）しく作（つく）りました。",
+      "english": "I made another blog.(Literally: I newly made a blog.)"
+    },
+    {
+      "type": "example",
+      "japanese": "難（むずか）しく考（かんが）えてしまった。",
+      "english": "I thought about it in an over complicated way.(Literally: I thought about it difficulty.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In general, all い-adjectives can function as adverbs when they are in the く form."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now that you know the basics, read on to learn about how く adverbs interact with the verbs する and なる."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with--to-indicate-willful-change",
+      "text": "〜く with する to Indicate Willful Change"
+    },
+    {
+      "type": "paragraph",
+      "text": "When we pair a く form adverb with the verb する (to do), it indicates a change of state that is willfully caused by someone."
+    },
+    {
+      "type": "example",
+      "japanese": "ペイントを使（つか）って、友子（ゆうこ）は部屋（へや）を明（あか）るくしました。",
+      "english": "Using paint, Tomoko made her room bright.(Literally: Using paint, Tomoko did her room brightly.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, it's clear who caused the action, right? Tomoko is the one who \"did her room brightly.\" So now, what if her room didn’t turn out as bright as she had hoped, and decides to make it even brighter ? In English, we would use the comparative \"-er” form of the adjective to describe the room changing from \"bright\" to \"brighter.\" Japanese does not have such a comparative form for い-adjectives, so we’ll just add another word like もっと (more) if we’re being casual, or より (more) if we’re being formal, to accomplish the same thing:"
+    },
+    {
+      "type": "example",
+      "japanese": "ペイントを使（つか）って、友子（ゆうこ）は部屋（へや）をもっと明（あか）るくしました。",
+      "english": "Using paint, Tomoko made her room brighter.(Literally: Using paint, Tomoko did her room more brightly.)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with--to-indicate-natural-change",
+      "text": "〜く with なる to Indicate Natural Change"
+    },
+    {
+      "type": "paragraph",
+      "text": "Pairing a く form adverb with the verb なる (to become) is used when the person who causes the change is not clear, or unimportant:"
+    },
+    {
+      "type": "example",
+      "japanese": "子供（こども）達（たち）は大（おお）きくなっていた。",
+      "english": "The kids have gotten big.(Literally: The kids have become bigly.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "As we know, kids grow up pretty quickly (too quickly, if you ask a sentimental parent). While most parents make sure their kids are well-fed, we can’t really say is the parents who cause them to grow up, right? In cases like this, we attach なる to the く form, for something like \"become bigly.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, because Japanese lacks a comparative \"-er\" structure, we can use a word like もっと here too to say that the kids have gotten bigger:"
+    },
+    {
+      "type": "example",
+      "japanese": "子供（こども）達（たち）はもっと大（おお）きくなっていた。",
+      "english": "The kids have gotten bigger.(Literally: The kids have become more bigly.)"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "One function of the く form is to turn い-adjectives into adverbs. In other words, the く form allows us to describe how an action is done. It’s quite similar to adding -ly to English adjectives (like happy) to form adverbs (like happily). Let’s see this in action:",
+    "In Japanese, adverbs have a much wider range of use than their English counterparts. Take this sentence for example:",
+    "While it sounds weird to say \"I lived in Kyoto longly\" in English, this is a perfectly acceptable sentence in Japanese. The Japanese い-adjective 長（なが）い (long) can be easily transformed into the adverb 長（なが）く, but to express the same meaning in English we often have to use other structures (like the prepositional phrase \"for a long time\").",
+    "This makes it much easier to describe how things are done in Japanese than in English:",
+    "In general, all い-adjectives can function as adverbs when they are in the く form.",
+    "Now that you know the basics, read on to learn about how く adverbs interact with the verbs する and なる.",
+    "When we pair a く form adverb with the verb する (to do), it indicates a change of state that is willfully caused by someone.",
+    "In this sentence, it's clear who caused the action, right? Tomoko is the one who \"did her room brightly.\" So now, what if her room didn’t turn out as bright as she had hoped, and decides to make it even brighter ? In English, we would use the comparative \"-er” form of the adjective to describe the room changing from \"bright\" to \"brighter.\" Japanese does not have such a comparative form for い-adjectives, so we’ll just add another word like もっと (more) if we’re being casual, or より (more) if we’re being formal, to accomplish the same thing:",
+    "Pairing a く form adverb with the verb なる (to become) is used when the person who causes the change is not clear, or unimportant:",
+    "As we know, kids grow up pretty quickly (too quickly, if you ask a sentimental parent). While most parents make sure their kids are well-fed, we can’t really say is the parents who cause them to grow up, right? In cases like this, we attach なる to the く form, for something like \"become bigly.\"",
+    "Again, because Japanese lacks a comparative \"-er\" structure, we can use a word like もっと here too to say that the kids have gotten bigger:"
+  ],
+  "examples": [
+    {
+      "japanese": "彼（かれ）らは楽（たの）しく暮（く）らしていました。",
+      "english": "They lived happily."
+    },
+    {
+      "japanese": "私（わたし）は京都（きょうと）に長（なが）く住（す）んでいました。",
+      "english": "I lived in Kyoto for a long time.(Literally: I lived in Kyoto longly.)"
+    },
+    {
+      "japanese": "そのラーメンを美味（おい）しく食（た）べました。",
+      "english": "I ate that ramen with gusto.(Literally: I ate that ramen deliciously.)"
+    },
+    {
+      "japanese": "ブログを新（あたら）しく作（つく）りました。",
+      "english": "I made another blog.(Literally: I newly made a blog.)"
+    },
+    {
+      "japanese": "難（むずか）しく考（かんが）えてしまった。",
+      "english": "I thought about it in an over complicated way.(Literally: I thought about it difficulty.)"
+    },
+    {
+      "japanese": "ペイントを使（つか）って、友子（ゆうこ）は部屋（へや）を明（あか）るくしました。",
+      "english": "Using paint, Tomoko made her room bright.(Literally: Using paint, Tomoko did her room brightly.)"
+    },
+    {
+      "japanese": "ペイントを使（つか）って、友子（ゆうこ）は部屋（へや）をもっと明（あか）るくしました。",
+      "english": "Using paint, Tomoko made her room brighter.(Literally: Using paint, Tomoko did her room more brightly.)"
+    },
+    {
+      "japanese": "子供（こども）達（たち）は大（おお）きくなっていた。",
+      "english": "The kids have gotten big.(Literally: The kids have become bigly.)"
+    },
+    {
+      "japanese": "子供（こども）達（たち）はもっと大（おお）きくなっていた。",
+      "english": "The kids have gotten bigger.(Literally: The kids have become more bigly.)"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "adverbs-in-japanese",
+      "text": "Adverbs in Japanese"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "with--to-indicate-willful-change",
+      "text": "〜く with する to Indicate Willful Change"
+    },
+    {
+      "level": 3,
+      "id": "with--to-indicate-natural-change",
+      "text": "〜く with なる to Indicate Natural Change"
+    }
+  ],
+  "id": 89,
+  "slug": "i-adjective-ku-form-adverb",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/i-adjective-ku-form-adverb/",
+  "categories": [
+    "Adjective Form"
+  ]
+}

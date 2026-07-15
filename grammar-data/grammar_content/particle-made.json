@@ -1,0 +1,841 @@
+{
+  "title": "Particle まで",
+  "description": "まで is a particle that indicates the end point in space, time, and numbers.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use the particle まで to mark something as an end point. Its most basic use is to mark the end point in space or time, paired with the particle から . So to say \"from Osaka to Tokyo,\" you can say 大阪（おおさか）から東京（とうきょう）まで. In the same way, \"from 1 o'clock to 2 o'clock\" is １時（じ）から２時（じ）まで."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "terminal-point-",
+      "text": "Terminal Point まで"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle まで indicates a terminal point. In its most basic use, it marks an end point of a connection between two points, such as with a distance or over a period of time."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, to mark the distance from your house to a school, you can use まで, with the particle から to indicate the starting point, and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "家（いえ）から学校（がっこう）までの距離（きょり）は１kmです。",
+      "english": "The distance between my house and school is 1km."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, which location you mark as the start and end point with から and まで is interchangeable, as they only mark the locations. The distance between those locations is the most relevant part, and so it's not important which comes first."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use まで to specify the terminal goal of your action, so if you are going to walk from your house to the school, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "家（いえ）から学校（がっこう）まで歩（ある）く。",
+      "english": "I'll walk from my house to school."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, から marks 家（いえ） as the start point, and まで marks 学校（がっこう） as the end point of your action 歩（ある）く (to walk)."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, から is not always used together with まで. For example, you may say the above sentence without 家（いえ）から; if it's clear from context that your house is the starting point, then the から part can be omitted. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "学校（がっこう）まで歩（ある）く。",
+      "english": "I'll walk to school."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, perhaps you are at home and are implying you walk from there to school. It's also possible you could be talking about walking from a different place to school, but in that case, the context of the conversation to this point would need to fill the information gap. Even in situations when から is not used, まで implies there is a start point somewhere that accompanies it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "pattern-of-use",
+      "text": "Pattern of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this section, we'll list the basic usage patterns for the particle まで. We'll explain these uses in more detail later."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun--",
+      "text": "(〜 から) + Noun + まで"
+    },
+    {
+      "type": "paragraph",
+      "text": "まで can follow a noun or noun phrase to indicate destination. In its most basic structure, まで is often used together with から."
+    },
+    {
+      "type": "example",
+      "japanese": "(家（か）から)学校（がっこう）まで",
+      "english": "(from one's house) to school"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb--",
+      "text": "Verb + まで"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also mark a verb with まで to indicate a point until some action occurs. In this case, まで attaches to the plain form of a verb."
+    },
+    {
+      "type": "example",
+      "japanese": "これ食（た）べるまで待（ま）って！",
+      "english": "Wait until I eat this!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, we're only introducing the structure here, and we'll talk more about this use later!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "and-other-particles",
+      "text": "まで and Other Particles"
+    },
+    {
+      "type": "paragraph",
+      "text": "まで is also used in conjunction with other particles. For example, まで can be used with the particle に to specify the time by which something will be done."
+    },
+    {
+      "type": "example",
+      "japanese": "１０時（じ）までに帰（かえ）る。",
+      "english": "I'll come home by 10 o'clock."
+    },
+    {
+      "type": "paragraph",
+      "text": "You'll learn some other combinations later in this page."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "particle-omission-and-",
+      "text": "Particle Omission and まで"
+    },
+    {
+      "type": "paragraph",
+      "text": "Japanese particles often get omitted, especially in speech, but まで is one of the particles that is not usually skipped, because the meaning of a sentence can be difficult to uncover without it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "particle--for-end-point-in-space",
+      "text": "Particle まで for End Point in Space"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you've learned already, in its most basic use, まで marks the end point related to a location. In this usage, it's often used together with the particle から, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "駅（えき）からコンビニまで",
+      "english": "from the station to the convenience store"
+    },
+    {
+      "type": "paragraph",
+      "text": "This pair of 〜から〜まで can express not only the distance but also the travel time, or even the road condition between the two points."
+    },
+    {
+      "type": "example",
+      "japanese": "駅（えき）からコンビニまで １m/１分（ふん）/一（いち）本道（ほんどう） です。",
+      "english": "From the station to the convenience store, it's one meter/one minute/one straight road."
+    },
+    {
+      "type": "paragraph",
+      "text": "When used with an action, it marks the start and end points of that action:"
+    },
+    {
+      "type": "example",
+      "japanese": "駅（えき）からコンビニまで走（はし）ります。",
+      "english": "I'm going to run from the station to the convenience store."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that から and まで don't always need to be used together when it's obvious from the context, or when one of the two locations really isn't important."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you want to tell a taxi driver where to go, it's obvious the start point is where you are. You would probably just use まで and say something like:"
+    },
+    {
+      "type": "example",
+      "japanese": "東京（とうきょう）駅（えき）までお願（ねが）いします。",
+      "english": "To Tokyo station, please."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, まで marks the terminal point of your travel in the taxi, and it's followed by お願（ねが）いします, which is a versatile verb that lets you make a request politely."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-end-point-in-time",
+      "text": "まで for End Point in Time"
+    },
+    {
+      "type": "paragraph",
+      "text": "The set of 〜から〜まで can also be used for points in time, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "１時（じ）から２時（じ）まで",
+      "english": "from 1 o'clock to 2 o'clock"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, what から and まで do is still the same; they mark the start and end points on a timeline."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like the locational usage, you can use them with an action to mark the start and end points of an action in time:"
+    },
+    {
+      "type": "example",
+      "japanese": "１時（じ）から２時（じ）まで走（はし）ります。",
+      "english": "I'm going to run from 1 o'clock to 2 o'clock."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, まで can be used alone when the context is clear, or if the part marked by から is not important."
+    },
+    {
+      "type": "example",
+      "japanese": "イベントは今週（こんしゅう）の日曜日（にちようび）までです。",
+      "english": "The event is held until this Sunday."
+    },
+    {
+      "type": "example",
+      "japanese": "昼間（ひるま）まで寝（ね）ていた。",
+      "english": "I slept until midday. ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-end-point-in-order",
+      "text": "まで for End Point in Order"
+    },
+    {
+      "type": "paragraph",
+      "text": "When some things are aligned in a standard order, and each item has a number or name, the start and end points can also be marked by から and まで. Here's a couple of examples."
+    },
+    {
+      "type": "example",
+      "japanese": "この曲（きょく）は１番（ばん）から３番（ばん）まであります。",
+      "english": "This song has verse 1 to verse 3."
+    },
+    {
+      "type": "example",
+      "japanese": "アルファベットはAからZまでです。",
+      "english": "The alphabet is from A and to Z."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-a-limit",
+      "text": "まで for a Limit"
+    },
+    {
+      "type": "paragraph",
+      "text": "まで can also mark a limit of something. For example, if the maximum number of people your car can accommodate is four, you can use まで and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "この車（くるま）には４人（にん）まで乗車（じょうしゃ）できます。",
+      "english": "This car can accommodate up to four people."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, if the top speed of your car is 400 km/h, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "この車（くるま）は４００km/hまで出（で）ます。",
+      "english": "This car can accelerate up to 400 km/h."
+    },
+    {
+      "type": "paragraph",
+      "text": "In both cases, the starting point is zero and not relevant, so it's commonly omitted."
+    },
+    {
+      "type": "paragraph",
+      "text": "One more note to this section is that the limit is not always the highest point; it can also be a lower limit. For example, if you are taking an exam in which the passing score is 70/100, you can either say:"
+    },
+    {
+      "type": "example",
+      "japanese": "７０点（てん）からが合格（ごうかく）です。",
+      "english": "70 and above is the passing score."
+    },
+    {
+      "type": "example",
+      "japanese": "７０点（てん）までが合格（ごうかく）です。",
+      "english": "The lowest passing score is 70."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the first sentence, から marks 70 as the starting point of a passing score, implying it goes up to a perfect score. On the other hand, the second sentence implies the starting point is a perfect score, and then it counts down to the lowest passable point."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-until-",
+      "text": "まで for \"Until 〜\""
+    },
+    {
+      "type": "paragraph",
+      "text": "まで can be attached to the end of the plain form of a verb. In this use, it indicates the completion of the action and translates to \"until 〜.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, let's say you get a call from your child, and they say they got lost. You ask them some questions and figure out where they are. To tell them to stay where they are until you come, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）が行（い）くまでそこにいて。",
+      "english": "Be there until I get there."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, まで attached to the plain form of the verb 行（い）く (go) to indicate the end of the action. When you've completed \"going,\" it means you have arrived at the place you were going to, right? So this sentence means \"be (wait) there until I get there.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "To clarify the end point, まで can be used with the verbs that indicate ending an action, such as 終（お）わる (finish):"
+    },
+    {
+      "type": "example",
+      "japanese": "宿題（しゅくだい）が終（お）わるまでゲームはダメだよ。",
+      "english": "You can't play games until you finish your homework."
+    },
+    {
+      "type": "paragraph",
+      "text": "まで can also be used with the verbs that indicate starting, such as 始（はじ）まる (begin):"
+    },
+    {
+      "type": "example",
+      "japanese": "ドラマが始（はじ）まるまで勉強（べんきょう）する。",
+      "english": "I will study until the drama starts."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, まで marks the action 始（はじ）まる (begin) has been completed. In other words, 始（はじ）まるまで means \" until the drama has begun.\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "emphatic-",
+      "text": "Emphatic まで"
+    },
+    {
+      "type": "paragraph",
+      "text": "まで can also be used emphatically, and adds the nuance of \"even〜\" while emphasizing something surprising or extreme."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you love Japanese food, even extremely smelly and sticky natto (fermented soybeans). Your friend who won't eat those may be surprised and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "納豆（なっとう）まで食（た）べれるの！？",
+      "english": "You can even eat natto!?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This use of まで is similar to ### まで for End Point in Order. Imagine there is a list of things you are willing to eat. First, your friend didn't expect 納豆（なっとう） was on the list, but they just found out it actually is. まで indicates 納豆（なっとう） was the furthest item from the beginning of the list, adding the nuance of \"Wow! The list of foods you will eat goes as far as natto !?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's continue the same scenario. You are surprised at your friend's reaction because to you, eating natto isn't something to be surprised at. You love natto , and you believe everyone should too, so you say:"
+    },
+    {
+      "type": "example",
+      "japanese": "そこまでビックリする？",
+      "english": "Are you surprised that much?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, まで marks そこ (there), referring to the extreme point of your friend's surprise. It suggests it was an overreaction, and you wonder if loving natto deserved a reaction \"to that extent.\""
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "difference-between-emphatic--and-the-particle-",
+      "text": "Difference Between Emphatic まで and the Particle も"
+    },
+    {
+      "type": "paragraph",
+      "text": "This emphatic use of まで is similar to the empathic use of the particle も. In fact, in the first example above, まで is interchangeable with も:"
+    },
+    {
+      "type": "example",
+      "japanese": "納豆（なっとう）まで食（た）べれるの！？ 納豆（なっとう）も食（た）べれるの！？",
+      "english": "You can even eat natto!?"
+    },
+    {
+      "type": "paragraph",
+      "text": "So what's the difference? While まで marks an end point, the particle も is like \"also\" or \"too\" in English — it marks an item as an addition to a list. For example, when you say 納豆（なっとう）も in this context, you are adding natto to a list of things that the person is willing to eat. So the nuance is, \"You'll eat A, B, C…and also natto!?\" When the addition is beyond reasonable, も can also add the nuance of surprise or an indication that something is extreme, and in this sense, it can be translated to \"even.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "まで and も can be translated in the same way in some contexts, but they're not always interchangeable because the nuances are slightly different. For example, まで in the second example above cannot be replaced with も in this scenario:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕ そこまでビックリする？ ❌ そこもビックリする？",
+      "english": "Are you surprised that much?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is because まで marks \"how far\" your friend's surprise extends to, adding the nuance of \"is it surprising to that extent ?\" The particle も, on the other hand, doesn't have the function to mark the farthest point something gets to. も is only used to mark something that is \"additional,\" so when using も, the meaning of the sentence changes to something like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "そこもビックリする？",
+      "english": "Are you surprised at that point too?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this way, the nuance of まで and も is different. For example, imagine you eat ten packs of natto all at once — it's a lot of natto to consume! In this case, if you want to proudly say, \"I ate ten packs of natto,\" emphasizing the impressive amount you ate, your should use も and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "納豆（なっとう）１０パックも食（た）べた。",
+      "english": "I ate ten packs of natto."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's because the particle も emphasizes the amount when it marks a quantified amount ."
+    },
+    {
+      "type": "paragraph",
+      "text": "まで doesn't have that function because it can only mark the \"end point.\" So saying 納豆（なっとう）１０パック まで suggests ten packs of natto are the farthest item in the list of the things you ate. So the above sentence with まで means either you'd eaten something else beforehand and then \"you even ate ten packs of natto,\" or you've entered a natto eating competition, and so far, you've eaten up to ten packs of natto."
+    },
+    {
+      "type": "example",
+      "japanese": "納豆（なっとう）１０パックまで食（た）べた。",
+      "english": "I also ate ten packs of natto. So far, I've eaten up to ten packs of natto."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and-other-particles-1",
+      "text": "まで and Other Particles"
+    },
+    {
+      "type": "paragraph",
+      "text": "As mentioned in the sentence structure section, まで can be used with other particles. We'll take a look at some of the uses in this section."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section",
+      "text": "まで + に"
+    },
+    {
+      "type": "paragraph",
+      "text": "When まで is used with the particle に , it can specify the time by which something finishes. For example, to say you'll wake up \"by 7 o'clock,\" you can use までに and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "７時（じ）までに起（お）きる。",
+      "english": "I'll wake by 7 o'clock."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, まで indicates the end point of your action, and に makes it clear it's completed by a particular time point."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-1",
+      "text": "まで + の"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle の can turn the word before it into a label, which attaches to the noun that follows it to provide additional information about the noun. When using this with まで for example, if you stick の to 東京（とうきょう）まで (to Tokyo), it becomes a label. If you then attach that label to another noun, such as 切符（きっぷ） (ticket), it would mean \"a ticket to Tokyo,\" like:"
+    },
+    {
+      "type": "example",
+      "japanese": "東京（とうきょう）までの切符（きっぷ）",
+      "english": "a ticket to Tokyo"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-2",
+      "text": "まで + も"
+    },
+    {
+      "type": "paragraph",
+      "text": "The emphatic まで and も can be combined when both of their uses overlap to make a phrase even more emphatic than using either alone. For example, the previously mentioned example \"You can even eat natto !?\" can also be written using までも, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "納豆（なっとう）まで食（た）べれるの！？ 納豆（なっとう）も食（た）べれるの！？ 納豆（なっとう）までも食（た）べれるの！？",
+      "english": "You can even eat natto!?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since this is an exaggerated expression, it might not be commonly used when speaking, because you can emphasize things using just the tone of your voice. Because of this, similar expressions may appear more often in writing to create a particular effect."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lastly, the combination of まで and も can also be used in a set phrase, 〜までもない. This phrase is combined with the plain form of a verb, and usually refers to a simple action that can be effortlessly carried out, adding the meaning \"needless to 〜\" or \"It goes without 〜ing.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you attach the phrase to the verb 言（い）う (say), it can form a phrase:"
+    },
+    {
+      "type": "example",
+      "japanese": "言（い）うまでもない",
+      "english": "needless to say it goes without saying"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, まで marks the easy action 言（い）う (say) as the furthest action you'd take. And then, the \"addition\" marker particle も is combined with ない (there isn't) to mean \"no need to make an addition.\" Combined, it adds the meaning of \"I don't need even to make an additional action that goes as far as this easy action 言（い）う (to say),\" which translates to \"needless to say\" or \"it goes without saying.\""
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "You can use the particle まで to mark something as an end point. Its most basic use is to mark the end point in space or time, paired with the particle から . So to say \"from Osaka to Tokyo,\" you can say 大阪（おおさか）から東京（とうきょう）まで. In the same way, \"from 1 o'clock to 2 o'clock\" is １時（じ）から２時（じ）まで.",
+    "The particle まで indicates a terminal point. In its most basic use, it marks an end point of a connection between two points, such as with a distance or over a period of time.",
+    "For example, to mark the distance from your house to a school, you can use まで, with the particle から to indicate the starting point, and say:",
+    "In this case, which location you mark as the start and end point with から and まで is interchangeable, as they only mark the locations. The distance between those locations is the most relevant part, and so it's not important which comes first.",
+    "You can also use まで to specify the terminal goal of your action, so if you are going to walk from your house to the school, you can say:",
+    "Here, から marks 家（いえ） as the start point, and まで marks 学校（がっこう） as the end point of your action 歩（ある）く (to walk).",
+    "However, から is not always used together with まで. For example, you may say the above sentence without 家（いえ）から; if it's clear from context that your house is the starting point, then the から part can be omitted. For example:",
+    "In this case, perhaps you are at home and are implying you walk from there to school. It's also possible you could be talking about walking from a different place to school, but in that case, the context of the conversation to this point would need to fill the information gap. Even in situations when から is not used, まで implies there is a start point somewhere that accompanies it.",
+    "In this section, we'll list the basic usage patterns for the particle まで. We'll explain these uses in more detail later.",
+    "まで can follow a noun or noun phrase to indicate destination. In its most basic structure, まで is often used together with から.",
+    "You can also mark a verb with まで to indicate a point until some action occurs. In this case, まで attaches to the plain form of a verb.",
+    "Again, we're only introducing the structure here, and we'll talk more about this use later!",
+    "まで is also used in conjunction with other particles. For example, まで can be used with the particle に to specify the time by which something will be done.",
+    "You'll learn some other combinations later in this page.",
+    "Japanese particles often get omitted, especially in speech, but まで is one of the particles that is not usually skipped, because the meaning of a sentence can be difficult to uncover without it.",
+    "As you've learned already, in its most basic use, まで marks the end point related to a location. In this usage, it's often used together with the particle から, as in:",
+    "This pair of 〜から〜まで can express not only the distance but also the travel time, or even the road condition between the two points.",
+    "When used with an action, it marks the start and end points of that action:",
+    "Note that から and まで don't always need to be used together when it's obvious from the context, or when one of the two locations really isn't important.",
+    "For example, if you want to tell a taxi driver where to go, it's obvious the start point is where you are. You would probably just use まで and say something like:",
+    "In this case, まで marks the terminal point of your travel in the taxi, and it's followed by お願（ねが）いします, which is a versatile verb that lets you make a request politely.",
+    "The set of 〜から〜まで can also be used for points in time, as in:",
+    "In this case, what から and まで do is still the same; they mark the start and end points on a timeline.",
+    "Just like the locational usage, you can use them with an action to mark the start and end points of an action in time:",
+    "Again, まで can be used alone when the context is clear, or if the part marked by から is not important.",
+    "When some things are aligned in a standard order, and each item has a number or name, the start and end points can also be marked by から and まで. Here's a couple of examples.",
+    "まで can also mark a limit of something. For example, if the maximum number of people your car can accommodate is four, you can use まで and say:",
+    "In the same way, if the top speed of your car is 400 km/h, you can say:",
+    "In both cases, the starting point is zero and not relevant, so it's commonly omitted.",
+    "One more note to this section is that the limit is not always the highest point; it can also be a lower limit. For example, if you are taking an exam in which the passing score is 70/100, you can either say:",
+    "In the first sentence, から marks 70 as the starting point of a passing score, implying it goes up to a perfect score. On the other hand, the second sentence implies the starting point is a perfect score, and then it counts down to the lowest passable point.",
+    "まで can be attached to the end of the plain form of a verb. In this use, it indicates the completion of the action and translates to \"until 〜.\"",
+    "For example, let's say you get a call from your child, and they say they got lost. You ask them some questions and figure out where they are. To tell them to stay where they are until you come, you can say:",
+    "In this example, まで attached to the plain form of the verb 行（い）く (go) to indicate the end of the action. When you've completed \"going,\" it means you have arrived at the place you were going to, right? So this sentence means \"be (wait) there until I get there.\"",
+    "To clarify the end point, まで can be used with the verbs that indicate ending an action, such as 終（お）わる (finish):",
+    "まで can also be used with the verbs that indicate starting, such as 始（はじ）まる (begin):",
+    "In this case, まで marks the action 始（はじ）まる (begin) has been completed. In other words, 始（はじ）まるまで means \" until the drama has begun.\"",
+    "まで can also be used emphatically, and adds the nuance of \"even〜\" while emphasizing something surprising or extreme.",
+    "For example, imagine you love Japanese food, even extremely smelly and sticky natto (fermented soybeans). Your friend who won't eat those may be surprised and say:",
+    "This use of まで is similar to ### まで for End Point in Order. Imagine there is a list of things you are willing to eat. First, your friend didn't expect 納豆（なっとう） was on the list, but they just found out it actually is. まで indicates 納豆（なっとう） was the furthest item from the beginning of the list, adding the nuance of \"Wow! The list of foods you will eat goes as far as natto !?\"",
+    "Let's continue the same scenario. You are surprised at your friend's reaction because to you, eating natto isn't something to be surprised at. You love natto , and you believe everyone should too, so you say:",
+    "In this case, まで marks そこ (there), referring to the extreme point of your friend's surprise. It suggests it was an overreaction, and you wonder if loving natto deserved a reaction \"to that extent.\"",
+    "This emphatic use of まで is similar to the empathic use of the particle も. In fact, in the first example above, まで is interchangeable with も:",
+    "So what's the difference? While まで marks an end point, the particle も is like \"also\" or \"too\" in English — it marks an item as an addition to a list. For example, when you say 納豆（なっとう）も in this context, you are adding natto to a list of things that the person is willing to eat. So the nuance is, \"You'll eat A, B, C…and also natto!?\" When the addition is beyond reasonable, も can also add the nuance of surprise or an indication that something is extreme, and in this sense, it can be translated to \"even.\"",
+    "まで and も can be translated in the same way in some contexts, but they're not always interchangeable because the nuances are slightly different. For example, まで in the second example above cannot be replaced with も in this scenario:",
+    "This is because まで marks \"how far\" your friend's surprise extends to, adding the nuance of \"is it surprising to that extent ?\" The particle も, on the other hand, doesn't have the function to mark the farthest point something gets to. も is only used to mark something that is \"additional,\" so when using も, the meaning of the sentence changes to something like this:",
+    "In this way, the nuance of まで and も is different. For example, imagine you eat ten packs of natto all at once — it's a lot of natto to consume! In this case, if you want to proudly say, \"I ate ten packs of natto,\" emphasizing the impressive amount you ate, your should use も and say:",
+    "It's because the particle も emphasizes the amount when it marks a quantified amount .",
+    "まで doesn't have that function because it can only mark the \"end point.\" So saying 納豆（なっとう）１０パック まで suggests ten packs of natto are the farthest item in the list of the things you ate. So the above sentence with まで means either you'd eaten something else beforehand and then \"you even ate ten packs of natto,\" or you've entered a natto eating competition, and so far, you've eaten up to ten packs of natto.",
+    "As mentioned in the sentence structure section, まで can be used with other particles. We'll take a look at some of the uses in this section.",
+    "When まで is used with the particle に , it can specify the time by which something finishes. For example, to say you'll wake up \"by 7 o'clock,\" you can use までに and say:",
+    "In this example, まで indicates the end point of your action, and に makes it clear it's completed by a particular time point.",
+    "The particle の can turn the word before it into a label, which attaches to the noun that follows it to provide additional information about the noun. When using this with まで for example, if you stick の to 東京（とうきょう）まで (to Tokyo), it becomes a label. If you then attach that label to another noun, such as 切符（きっぷ） (ticket), it would mean \"a ticket to Tokyo,\" like:",
+    "The emphatic まで and も can be combined when both of their uses overlap to make a phrase even more emphatic than using either alone. For example, the previously mentioned example \"You can even eat natto !?\" can also be written using までも, like:",
+    "Since this is an exaggerated expression, it might not be commonly used when speaking, because you can emphasize things using just the tone of your voice. Because of this, similar expressions may appear more often in writing to create a particular effect.",
+    "Lastly, the combination of まで and も can also be used in a set phrase, 〜までもない. This phrase is combined with the plain form of a verb, and usually refers to a simple action that can be effortlessly carried out, adding the meaning \"needless to 〜\" or \"It goes without 〜ing.\"",
+    "For example, if you attach the phrase to the verb 言（い）う (say), it can form a phrase:",
+    "In this example, まで marks the easy action 言（い）う (say) as the furthest action you'd take. And then, the \"addition\" marker particle も is combined with ない (there isn't) to mean \"no need to make an addition.\" Combined, it adds the meaning of \"I don't need even to make an additional action that goes as far as this easy action 言（い）う (to say),\" which translates to \"needless to say\" or \"it goes without saying.\""
+  ],
+  "examples": [
+    {
+      "japanese": "家（いえ）から学校（がっこう）までの距離（きょり）は１kmです。",
+      "english": "The distance between my house and school is 1km."
+    },
+    {
+      "japanese": "家（いえ）から学校（がっこう）まで歩（ある）く。",
+      "english": "I'll walk from my house to school."
+    },
+    {
+      "japanese": "学校（がっこう）まで歩（ある）く。",
+      "english": "I'll walk to school."
+    },
+    {
+      "japanese": "(家（か）から)学校（がっこう）まで",
+      "english": "(from one's house) to school"
+    },
+    {
+      "japanese": "これ食（た）べるまで待（ま）って！",
+      "english": "Wait until I eat this!"
+    },
+    {
+      "japanese": "１０時（じ）までに帰（かえ）る。",
+      "english": "I'll come home by 10 o'clock."
+    },
+    {
+      "japanese": "駅（えき）からコンビニまで",
+      "english": "from the station to the convenience store"
+    },
+    {
+      "japanese": "駅（えき）からコンビニまで １m/１分（ふん）/一（いち）本道（ほんどう） です。",
+      "english": "From the station to the convenience store, it's one meter/one minute/one straight road."
+    },
+    {
+      "japanese": "駅（えき）からコンビニまで走（はし）ります。",
+      "english": "I'm going to run from the station to the convenience store."
+    },
+    {
+      "japanese": "東京（とうきょう）駅（えき）までお願（ねが）いします。",
+      "english": "To Tokyo station, please."
+    },
+    {
+      "japanese": "１時（じ）から２時（じ）まで",
+      "english": "from 1 o'clock to 2 o'clock"
+    },
+    {
+      "japanese": "１時（じ）から２時（じ）まで走（はし）ります。",
+      "english": "I'm going to run from 1 o'clock to 2 o'clock."
+    },
+    {
+      "japanese": "イベントは今週（こんしゅう）の日曜日（にちようび）までです。",
+      "english": "The event is held until this Sunday."
+    },
+    {
+      "japanese": "昼間（ひるま）まで寝（ね）ていた。",
+      "english": "I slept until midday. ."
+    },
+    {
+      "japanese": "この曲（きょく）は１番（ばん）から３番（ばん）まであります。",
+      "english": "This song has verse 1 to verse 3."
+    },
+    {
+      "japanese": "アルファベットはAからZまでです。",
+      "english": "The alphabet is from A and to Z."
+    },
+    {
+      "japanese": "この車（くるま）には４人（にん）まで乗車（じょうしゃ）できます。",
+      "english": "This car can accommodate up to four people."
+    },
+    {
+      "japanese": "この車（くるま）は４００km/hまで出（で）ます。",
+      "english": "This car can accelerate up to 400 km/h."
+    },
+    {
+      "japanese": "７０点（てん）からが合格（ごうかく）です。",
+      "english": "70 and above is the passing score."
+    },
+    {
+      "japanese": "７０点（てん）までが合格（ごうかく）です。",
+      "english": "The lowest passing score is 70."
+    },
+    {
+      "japanese": "私（わたし）が行（い）くまでそこにいて。",
+      "english": "Be there until I get there."
+    },
+    {
+      "japanese": "宿題（しゅくだい）が終（お）わるまでゲームはダメだよ。",
+      "english": "You can't play games until you finish your homework."
+    },
+    {
+      "japanese": "ドラマが始（はじ）まるまで勉強（べんきょう）する。",
+      "english": "I will study until the drama starts."
+    },
+    {
+      "japanese": "納豆（なっとう）まで食（た）べれるの！？",
+      "english": "You can even eat natto!?"
+    },
+    {
+      "japanese": "そこまでビックリする？",
+      "english": "Are you surprised that much?"
+    },
+    {
+      "japanese": "納豆（なっとう）まで食（た）べれるの！？ 納豆（なっとう）も食（た）べれるの！？",
+      "english": "You can even eat natto!?"
+    },
+    {
+      "japanese": "⭕ そこまでビックリする？ ❌ そこもビックリする？",
+      "english": "Are you surprised that much?"
+    },
+    {
+      "japanese": "そこもビックリする？",
+      "english": "Are you surprised at that point too?"
+    },
+    {
+      "japanese": "納豆（なっとう）１０パックも食（た）べた。",
+      "english": "I ate ten packs of natto."
+    },
+    {
+      "japanese": "納豆（なっとう）１０パックまで食（た）べた。",
+      "english": "I also ate ten packs of natto. So far, I've eaten up to ten packs of natto."
+    },
+    {
+      "japanese": "７時（じ）までに起（お）きる。",
+      "english": "I'll wake by 7 o'clock."
+    },
+    {
+      "japanese": "東京（とうきょう）までの切符（きっぷ）",
+      "english": "a ticket to Tokyo"
+    },
+    {
+      "japanese": "納豆（なっとう）まで食（た）べれるの！？ 納豆（なっとう）も食（た）べれるの！？ 納豆（なっとう）までも食（た）べれるの！？",
+      "english": "You can even eat natto!?"
+    },
+    {
+      "japanese": "言（い）うまでもない",
+      "english": "needless to say it goes without saying"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "terminal-point-",
+      "text": "Terminal Point まで"
+    },
+    {
+      "level": 3,
+      "id": "pattern-of-use",
+      "text": "Pattern of Use"
+    },
+    {
+      "level": 4,
+      "id": "noun--",
+      "text": "(〜 から) + Noun + まで"
+    },
+    {
+      "level": 4,
+      "id": "verb--",
+      "text": "Verb + まで"
+    },
+    {
+      "level": 4,
+      "id": "and-other-particles",
+      "text": "まで and Other Particles"
+    },
+    {
+      "level": 4,
+      "id": "particle-omission-and-",
+      "text": "Particle Omission and まで"
+    },
+    {
+      "level": 3,
+      "id": "particle--for-end-point-in-space",
+      "text": "Particle まで for End Point in Space"
+    },
+    {
+      "level": 3,
+      "id": "for-end-point-in-time",
+      "text": "まで for End Point in Time"
+    },
+    {
+      "level": 3,
+      "id": "for-end-point-in-order",
+      "text": "まで for End Point in Order"
+    },
+    {
+      "level": 3,
+      "id": "for-a-limit",
+      "text": "まで for a Limit"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-until-",
+      "text": "まで for \"Until 〜\""
+    },
+    {
+      "level": 3,
+      "id": "emphatic-",
+      "text": "Emphatic まで"
+    },
+    {
+      "level": 4,
+      "id": "difference-between-emphatic--and-the-particle-",
+      "text": "Difference Between Emphatic まで and the Particle も"
+    },
+    {
+      "level": 3,
+      "id": "and-other-particles-1",
+      "text": "まで and Other Particles"
+    },
+    {
+      "level": 4,
+      "id": "section",
+      "text": "まで + に"
+    },
+    {
+      "level": 4,
+      "id": "section-1",
+      "text": "まで + の"
+    },
+    {
+      "level": 4,
+      "id": "section-2",
+      "text": "まで + も"
+    }
+  ],
+  "id": 26,
+  "slug": "particle-made",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-made/",
+  "categories": [
+    "Particle"
+  ]
+}

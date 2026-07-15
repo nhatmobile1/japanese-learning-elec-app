@@ -1,0 +1,758 @@
+{
+  "title": "〜てほしい",
+  "description": "〜てほしい expresses that you want someone to do something or something to happen.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "To express desire for something, we use ほしい in Japanese. So if you want a 掃除機（そうじき） (vacuum cleaner), you can say 掃除（そうじ）機（き）がほしい to mean \"I want a vacuum cleaner.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "But what if you want someone to do something? Maybe you have a roommate who never helps out with the chores, for example, and you want them to vacuum."
+    },
+    {
+      "type": "paragraph",
+      "text": "For these kinds of desires, use 〜てほしい. You attach a verb in て form to ほしい to express what you want someone to do. 1 For example, you can use 掃除（そうじ）機（き）をかける (to vacuum) with 〜てほしい to say:"
+    },
+    {
+      "type": "example",
+      "japanese": "掃除（そうじ）機（き）をかけてほしい。",
+      "english": "I want (my roommate) to vacuum."
+    },
+    {
+      "type": "paragraph",
+      "text": "Get the gist of what 〜てほしい does?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like \"I want you to…\" in English, you can use 〜てほしい directly with somebody when you want them to do something. You could confront your roommate with the above sentence, for example. But keep in mind 〜てほしい plainly expresses what you want. When making a request, it sounds pretty strong and possibly rude."
+    },
+    {
+      "type": "paragraph",
+      "text": "So far, we've talked about how 〜てほしい expresses your desire for someone to do something (like wanting your roommate to vacuum), but it can also be used to express your desire for something to happen. 2"
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine a situation where your computer is updating and it's taking forever. But you need to use the computer right now — you have an online meeting to attend! You want the update to end soon. So to describe this desire, you can use 早（はや）く終（おわ）る (to end quickly) with 〜てほしい:"
+    },
+    {
+      "type": "example",
+      "japanese": "早（はや）く終（お）わってほしい。",
+      "english": "I want (the update) to end quickly."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, you aren't saying that you want someone to do something for you. Your focus here is more on the situation you want to happen, which is for the update to end quickly."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice neither of the Japanese sentences above mentions \"who\" or \"what\" you're talking about — in this case ルームメート (roommate) or アップデート (update). This is because in Japanese we often omit information that's already apparent. If you're muttering to yourself or directly telling a person that you want them to do something, what you're talking about is usually obvious, so those elements tend to get omitted. Of course, you can include the \"who\" or \"what\" parts if you think omitting them would be unclear, or if you want to put emphasis on them. In that case, you'll use the particle に or が, which we'll talk more about later in the Patterns of Use section."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-",
+      "text": "Conjugating 〜てほしい"
+    },
+    {
+      "type": "paragraph",
+      "text": "To use てほしい, just conjugate the verb into the て form and add ほしい at the end. Note that 〜てほしい becomes 〜でほしい depending on the verb it attaches to. Review the て form conjugations if you need a refresher."
+    },
+    {
+      "type": "paragraph",
+      "text": "The てほしい form of a verb can then be conjugated like an い-adjective . To make it polite, you just need to add です to the end. Below are a few basic conjugations of 〜てほしい."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Plain Form",
+          "Polite Form"
+        ],
+        [
+          "Present",
+          "〜てほしい",
+          "〜てほしいです"
+        ],
+        [
+          "Past",
+          "〜てほしかった",
+          "〜てほしかったです"
+        ],
+        [
+          "Negative",
+          "〜てほしくない 〜ないでほしい",
+          "〜てほしくないです〜ないでほしいです"
+        ],
+        [
+          "Past Negative",
+          "〜てほしくなかった〜ないでほしかった",
+          "〜てほしくなかったです〜ないでほしかったです"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section",
+      "text": "〜に〜てほしい"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜てほしい expresses that you want someone to do something. Information about who you want to do the thing is often omitted when it's clear from the context or not critical."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you're saying \"I want you to clean\" to your roommate's face, then the \"you\" part can be omitted because it's apparent that you want your roommate to clean (as opposed to some other third party)."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if you do want to clarify who you wish to act for you, you can use the particle に , like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "ルームメートに掃除（そうじ）機（き）をかけてほしい。",
+      "english": "I want my roommate to vacuum."
+    },
+    {
+      "type": "paragraph",
+      "text": "Conceptually, the particle に functions like a pin. Like dropping a pin on a map, you can use it to specify where you are or where you're going to. In this use, に pins down your roommate as the particular person who you want to do the vacuuming."
+    },
+    {
+      "type": "paragraph",
+      "text": "Other particles are available for adding different nuances too. For instance, if you always do the vacuuming and your roommate never helps, you can use the particle も (too/also) either alone or with に, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "ルームメート [も・にも] 掃除（そうじ）機（き）をかけてほしい。",
+      "english": "I want my roommate to vacuum too."
+    },
+    {
+      "type": "paragraph",
+      "text": "If it's a simple wish that your roommate would also vacuum, you may just use も. But you might go with にも if you've been feeling acutely aware of how much you contribute lately, and now you want them to take some responsibility too. The に part pins down your roommate and makes this sound more specific and emphatic."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "section-1",
+      "text": "〜が〜てほしい"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although に was the main player when talking about people, が is a more common choice when talking about non-living things. It's because non-living things don't willfully \"do\" anything for you. So rather than wishing them to do something for you, you usually just wish for some situation involving them to happen. To mark the subject of a situation, you use が. 3"
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you are heading to a cafe and you hope it has Wi-Fi, you should use が instead of に and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "Wi-Fiがあってほしい。",
+      "english": "I hope there's Wi-Fi."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you don't use に because it's not a particular Wi-Fi that you want to be at the cafe for you — you just want a situation where Wi-Fi is generally available."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, you can say that you want it to snow by using が to mark 雪（ゆき） (snow ☃). 4"
+    },
+    {
+      "type": "example",
+      "japanese": "雪（ゆき）が降（ふ）ってほしい。",
+      "english": "I want it to snow. (Literally: I want snow to fall.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, this sentence shows that you simply want a situation where it's snowing. If you use に, it sounds like you are trying to specify which snow you want to fall from the sky (I want that snow to fall!). It only works if your wish is more specific, like ふわふわの雪（ゆき）に降（ふ）ってほしい (I want fluffy snow to fall), but that's not the case in this situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are times when に can be used even when talking about non-living things though. For instance, imagine that you've made a song and you want it to sell well. In this case, you can either use に or が and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "この曲（きょく） [に・が] 売（う）れてほしい。",
+      "english": "I want this song to sell well."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, が just marks the song as the subject of a situation you're hoping for. You might just as easily say the same thing about other songs you've written. On the other hand, に indicates that you want this song in particular to sell well — maybe because you're more deeply attached to it or personally invested somehow."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-when-you-wanted-someone-to-do-something",
+      "text": "〜てほしかった for When You Wanted Someone to Do Something"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you put 〜てほしい in the past tense, as in 〜てほしかった, you can talk about things that you wish had happened but didn't."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you were growing some plants, but you overwatered them. Now, after they have died, your friend's telling you that too much water could damage them. To say you wish someone had taught you that earlier, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "もっと早（はや）く教（おし）えてほしかったよー。",
+      "english": "I wish someone had taught me that way earlier."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you bought a stock in a company that then rose in value, but the momentum stopped sooner than you had expected, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "もっと上（あ）がってほしかったなぁ。",
+      "english": "I wanted it to go up more."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this use, the translation can be either \"I wish\" or \"I wanted.\""
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-not-wanting-someone-to-do-something",
+      "text": "〜てほしくない and 〜ないでほしい for Not Wanting Someone to Do Something"
+    },
+    {
+      "type": "paragraph",
+      "text": "You've seen some examples for saying that you want someone to do something for you. What if you do not want them to do something?"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are two ways to express that feeling. One way is to turn 〜てほしい into its negative form. Since ほしい is an い-adjective , the negative form becomes 〜てほしくない."
+    },
+    {
+      "type": "paragraph",
+      "text": "So imagine that your friends were teasing you for something, and you aren't happy about it. To tell them you didn't like what they said, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "そういうことは言（い）ってほしくない。",
+      "english": "I don't want you to say things like that."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, 〜てほしくない simply states that you don't want your friends to say what they just did. It gets your message across (\"…so don't say that\") but it sounds a little softer because it's couched in the language of personal feeling."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another, more direct way is to turn the main verb into its negative 〜ない form , and then add 〜でほしい."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, the negative form of 言（い）う is 言（い）わ ない and by adding 〜でほしい, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "そういうことは言（い）わないでほしい。",
+      "english": "I want you not to say things like that."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compared to the earlier version, 〜ないでほしい is stronger because your message of \"don't say that\" is more explicitly stated."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-asking-do-you-want-me-to",
+      "text": "〜てほしい？ for Asking \"Do You Want Me to…?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Normally, 〜てほしい expresses that you want someone else to do something. So if you use 一緒（いっしょ）に勉強（べんきょう）する (to study together) with 〜てほしい, it means:"
+    },
+    {
+      "type": "example",
+      "japanese": "一緒（いっしょ）に勉強（べんきょう）してほしい。",
+      "english": "I want you to study with me."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, when you use 〜てほしい with a rising intonation at the end it becomes a question, and lets you ask someone if they want you to do something. The words are the same, but the sentence changes meaning:"
+    },
+    {
+      "type": "example",
+      "japanese": "一緒（いっしょ）に勉強（べんきょう）してほしい？",
+      "english": "Do you want me to study with you?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, asking a question this way can sound like you are putting on airs. It shows that you're aware that you have discretion over the choice of studying together, and the person you are talking to is the one who has to say \"please!\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at another example. Imagine you hear some exciting gossip and bring it up later when talking with your friend. But instead of telling them what it is right away, you may ask:"
+    },
+    {
+      "type": "example",
+      "japanese": "おもしろい情報（じょうほう）ゲットしたんだけど、教（おし）えてほしい？",
+      "english": "I got some interesting information. Do you want me to tell you about it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Can you see that it might sound a bit arrogant? Unless you are just being playful or have a very close and friendly relationship with the other person, it may be better to avoid using 〜てほしい this way."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-asking-for-permission-to-do-something",
+      "text": "〜させてほしい for Asking for Permission to Do Something"
+    },
+    {
+      "type": "paragraph",
+      "text": "The causative 〜させる form indicates that someone is forcing or allowing someone else to do the action, depending on context. So if you say 娘（むすめ）を留学（りゅうがく） させる , it means you force or permit your daughter to study abroad."
+    },
+    {
+      "type": "paragraph",
+      "text": "When 〜てほしい is used with 〜させる, as in 〜させてほしい, it generally expresses that you want someone to give you permission to do something. So before you allow your daughter to go abroad, she might have told you:"
+    },
+    {
+      "type": "example",
+      "japanese": "留学（りゅうがく）させてほしい。",
+      "english": "I want you to let me study abroad."
+    },
+    {
+      "type": "paragraph",
+      "text": "And if she wanted to study particularly in America, she might have also said:"
+    },
+    {
+      "type": "example",
+      "japanese": "アメリカに行（い）かせてほしい。",
+      "english": "I want you to let me go to the US."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on the context, 〜させてほしい can also mean you want someone to force (or allow) someone else to do something. For example, if you want your spouse to feed your kids by six o'clock, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "６時（じ）までに夕食（ゆうしょく）を食（た）べさせてほしい。",
+      "english": "I want you to feed (the kids) by six o'clock."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-someone-elses-desires",
+      "text": "〜てほしがる for Someone Else's Desires"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, if you want to describe someone else's feelings, you need to get help from the suffix 〜がる , which basically means \"showing signs (of).\""
+    },
+    {
+      "type": "paragraph",
+      "text": "So while 〜てほしい describes your desire for someone to do something or for something to happen, if you want to talk about someone else 's desire, you need to add 〜がる and say 〜てほしがる."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you work from home, and your kids go to daycare while you work. But sometimes people say things to you like, \"Oh, do you work from home? That's nice! You can save on daycare fees.\" And every time that happens, you have to explain:"
+    },
+    {
+      "type": "example",
+      "japanese": "子供（こども）たち、ずっと遊（あそ）んでほしがるんだよ。",
+      "english": "The kids always want me to play with them."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, you are not describing your own but your kids' desires, so you can't just say 遊（あそ）んでほしい (to want someone to play with me). You need to add 〜がる. Since 〜がる indicates that someone else is \"showing signs\" (in this case of wanting to play) it evokes the image of your kids asking over and over for you to play with them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take one more example. Say you are at a supermarket with your kids and they're begging you to buy some candy. To describe this situation, you can combine おかしを買（か）ってほしい (to want someone to buy candy for me) with 〜がる, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "子供（こども）がおかしを買（か）ってほしがる。",
+      "english": "The kids want me to buy candy for them."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, in this example, you aren't describing your own desire. You can see from the kids' temper tantrum that they want their mother to buy some candy, so 〜がる needs to be added."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "making-more-polite-requests-with-and-without-",
+      "text": "Making More Polite Requests, with and without 〜てほしい"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜てほしい simply expresses your desire for someone to do something. It's very direct and can be too casual if you want to tell someone to do something, especially when it's for you."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, what are the other ways to make a request?"
+    },
+    {
+      "type": "paragraph",
+      "text": "One way is still using 〜てほしい but making it sound softer by adding different elements and effects. For example, people usually add んだ or its polite version んです to 〜てほしい to give an explanatory feel to the request. Then, throw in が or けど to mark the whole statement as background information for what's coming afterward, followed by a phrase like お願（ねが）いできる？ to check if it's okay to make the request. Other options include adding かな to the end to indicate unsureness, or using 〜てもいいですか to give the other person a chance to say no."
+    },
+    {
+      "type": "paragraph",
+      "text": "That's a lot of additional elements, isn't it? It's not that scary if you see an actual example though. So if you want your spouse to clean the living room, but you want to tell them in a pleasant way, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "リビングを掃除（そうじ）してほしいんだけど、お願（ねが）いできるかな？",
+      "english": "I want you to clean the living room. If you don't mind, can I ask you to do it?"
+    },
+    {
+      "type": "paragraph",
+      "text": "And if you want a senior employee at the office to take a look at some documents for you, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "この資料（しりょう）を確認（かくにん）してほしいんですが、お願（ねが）いしてもいいですか？",
+      "english": "I want you to review this document, if I can trouble you for a favor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although the above sentence sounds polite thanks to all the additional elements, 〜てほしい is still a direct way to convey what you want. You can use it if you and the senior employee are on friendly terms, but if you want to sound more appreciative, you can switch it to the similar expression 〜てもらいたい, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "この資料（しりょう）を確認（かくにん）してもらいたいんですが、お願（ねが）いしてもいいですか？",
+      "english": "Could I ask you to review this document, if you don't mind?"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜てもらいたい is a combination of 〜てもらう and たい . 〜てもらう indicates that you receive a favor from someone and たい expresses your desire to do something. Together, 〜てもらいたい can mean that you want someone to do a favor for you. However, it sounds more humble and polite than 〜てほしい because it shows that you are aware that you are asking for a favor."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are talking to someone in a significantly higher social position than you, you may even want to switch 〜てもらいたい to its humbler version 〜ていただきたい. For example, if you are talking to the president of your company, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "この資料（しりょう）を確認（かくにん）していただきたいんですが、お願（ねが）いしてもよろしいでしょうか？",
+      "english": "Would it be possible to ask you to review these documents?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, 〜ていただきたい adds a much more formal tone to the sentence and shows your respect to the person you are talking to. Just keep in mind that if you use more formal language, you may also update other parts of the sentence to match the formality level. In this case, for example, the ending also changes from お願（ねが）いしてもいいですか to お願（ねが）いしても よろしいでしょう か."
+    },
+    {
+      "type": "paragraph",
+      "text": "In 〜てほしい, the word 欲（ほ）しい (to want) is used as a helping verb, a.k.a. auxiliary verb, which gives additional meaning to the main verb in the て form. Since a helping verb often only provides a supplemental nuance to the main verb, it's usually written in kana. For 〜てほしい, however, some people may use kanji and write 〜て欲（ほ）しい, since the original meaning of 欲（ほ）しい is mostly preserved in this use. &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're wondering how to say you yourself want to do something, you use the 〜たい ending for that. If you aren't familiar with 〜たい, you can check out the grammar page dedicated to it. &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "Although 〜が〜ほしい is more common when talking about non-living things, you can use this structure when talking about living things too. For example, imagine you're at a concert given by multiple artists and the audience doesn't know who's playing in what order. If you're hoping your favorite artist, Madonna, appears on stage next, you can use either the particle に or が and say, 次（つぎ）はマドンナ [に・が] 出（で）てきてほしいな (I want Madonna to come out next). In this example, に indicates that you're personally pinpointing Madonna as someone you wish to show up next. On the other hand, the が simply marks Madonna as the subject of 出（で）てくる and sounds slightly less picky than に. &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may see that the particle に marks 雨（あめ） or 雪（ゆき） in a sentence like 雨（あめ）／雪（ゆき）になってほしい, but this use of に is marking the result of a change of state and it's not the subject of the sentence. In fact, there will be an omitted subject here, like 天気（てんき） が 雨（あめ）／雪（ゆき） に なってほしい (I want the weather to be rainy/snowy). &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "To express desire for something, we use ほしい in Japanese. So if you want a 掃除機（そうじき） (vacuum cleaner), you can say 掃除（そうじ）機（き）がほしい to mean \"I want a vacuum cleaner.\"",
+    "But what if you want someone to do something? Maybe you have a roommate who never helps out with the chores, for example, and you want them to vacuum.",
+    "For these kinds of desires, use 〜てほしい. You attach a verb in て form to ほしい to express what you want someone to do. 1 For example, you can use 掃除（そうじ）機（き）をかける (to vacuum) with 〜てほしい to say:",
+    "Get the gist of what 〜てほしい does?",
+    "Just like \"I want you to…\" in English, you can use 〜てほしい directly with somebody when you want them to do something. You could confront your roommate with the above sentence, for example. But keep in mind 〜てほしい plainly expresses what you want. When making a request, it sounds pretty strong and possibly rude.",
+    "So far, we've talked about how 〜てほしい expresses your desire for someone to do something (like wanting your roommate to vacuum), but it can also be used to express your desire for something to happen. 2",
+    "Imagine a situation where your computer is updating and it's taking forever. But you need to use the computer right now — you have an online meeting to attend! You want the update to end soon. So to describe this desire, you can use 早（はや）く終（おわ）る (to end quickly) with 〜てほしい:",
+    "In this example, you aren't saying that you want someone to do something for you. Your focus here is more on the situation you want to happen, which is for the update to end quickly.",
+    "Notice neither of the Japanese sentences above mentions \"who\" or \"what\" you're talking about — in this case ルームメート (roommate) or アップデート (update). This is because in Japanese we often omit information that's already apparent. If you're muttering to yourself or directly telling a person that you want them to do something, what you're talking about is usually obvious, so those elements tend to get omitted. Of course, you can include the \"who\" or \"what\" parts if you think omitting them would be unclear, or if you want to put emphasis on them. In that case, you'll use the particle に or が, which we'll talk more about later in the Patterns of Use section.",
+    "To use てほしい, just conjugate the verb into the て form and add ほしい at the end. Note that 〜てほしい becomes 〜でほしい depending on the verb it attaches to. Review the て form conjugations if you need a refresher.",
+    "The てほしい form of a verb can then be conjugated like an い-adjective . To make it polite, you just need to add です to the end. Below are a few basic conjugations of 〜てほしい.",
+    "〜てほしい expresses that you want someone to do something. Information about who you want to do the thing is often omitted when it's clear from the context or not critical.",
+    "For example, if you're saying \"I want you to clean\" to your roommate's face, then the \"you\" part can be omitted because it's apparent that you want your roommate to clean (as opposed to some other third party).",
+    "But if you do want to clarify who you wish to act for you, you can use the particle に , like this:",
+    "Conceptually, the particle に functions like a pin. Like dropping a pin on a map, you can use it to specify where you are or where you're going to. In this use, に pins down your roommate as the particular person who you want to do the vacuuming.",
+    "Other particles are available for adding different nuances too. For instance, if you always do the vacuuming and your roommate never helps, you can use the particle も (too/also) either alone or with に, as in:",
+    "If it's a simple wish that your roommate would also vacuum, you may just use も. But you might go with にも if you've been feeling acutely aware of how much you contribute lately, and now you want them to take some responsibility too. The に part pins down your roommate and makes this sound more specific and emphatic.",
+    "Although に was the main player when talking about people, が is a more common choice when talking about non-living things. It's because non-living things don't willfully \"do\" anything for you. So rather than wishing them to do something for you, you usually just wish for some situation involving them to happen. To mark the subject of a situation, you use が. 3",
+    "For example, if you are heading to a cafe and you hope it has Wi-Fi, you should use が instead of に and say:",
+    "In this case, you don't use に because it's not a particular Wi-Fi that you want to be at the cafe for you — you just want a situation where Wi-Fi is generally available.",
+    "In the same way, you can say that you want it to snow by using が to mark 雪（ゆき） (snow ☃). 4",
+    "Again, this sentence shows that you simply want a situation where it's snowing. If you use に, it sounds like you are trying to specify which snow you want to fall from the sky (I want that snow to fall!). It only works if your wish is more specific, like ふわふわの雪（ゆき）に降（ふ）ってほしい (I want fluffy snow to fall), but that's not the case in this situation.",
+    "There are times when に can be used even when talking about non-living things though. For instance, imagine that you've made a song and you want it to sell well. In this case, you can either use に or が and say:",
+    "Here, が just marks the song as the subject of a situation you're hoping for. You might just as easily say the same thing about other songs you've written. On the other hand, に indicates that you want this song in particular to sell well — maybe because you're more deeply attached to it or personally invested somehow.",
+    "If you put 〜てほしい in the past tense, as in 〜てほしかった, you can talk about things that you wish had happened but didn't.",
+    "For example, imagine you were growing some plants, but you overwatered them. Now, after they have died, your friend's telling you that too much water could damage them. To say you wish someone had taught you that earlier, you can say:",
+    "And if you bought a stock in a company that then rose in value, but the momentum stopped sooner than you had expected, you can say:",
+    "In this use, the translation can be either \"I wish\" or \"I wanted.\"",
+    "You've seen some examples for saying that you want someone to do something for you. What if you do not want them to do something?",
+    "There are two ways to express that feeling. One way is to turn 〜てほしい into its negative form. Since ほしい is an い-adjective , the negative form becomes 〜てほしくない.",
+    "So imagine that your friends were teasing you for something, and you aren't happy about it. To tell them you didn't like what they said, you can say:",
+    "In this case, 〜てほしくない simply states that you don't want your friends to say what they just did. It gets your message across (\"…so don't say that\") but it sounds a little softer because it's couched in the language of personal feeling.",
+    "Another, more direct way is to turn the main verb into its negative 〜ない form , and then add 〜でほしい.",
+    "For example, the negative form of 言（い）う is 言（い）わ ない and by adding 〜でほしい, you can say:",
+    "Compared to the earlier version, 〜ないでほしい is stronger because your message of \"don't say that\" is more explicitly stated.",
+    "Normally, 〜てほしい expresses that you want someone else to do something. So if you use 一緒（いっしょ）に勉強（べんきょう）する (to study together) with 〜てほしい, it means:",
+    "However, when you use 〜てほしい with a rising intonation at the end it becomes a question, and lets you ask someone if they want you to do something. The words are the same, but the sentence changes meaning:",
+    "In Japanese, asking a question this way can sound like you are putting on airs. It shows that you're aware that you have discretion over the choice of studying together, and the person you are talking to is the one who has to say \"please!\"",
+    "Let's take a look at another example. Imagine you hear some exciting gossip and bring it up later when talking with your friend. But instead of telling them what it is right away, you may ask:",
+    "Can you see that it might sound a bit arrogant? Unless you are just being playful or have a very close and friendly relationship with the other person, it may be better to avoid using 〜てほしい this way.",
+    "The causative 〜させる form indicates that someone is forcing or allowing someone else to do the action, depending on context. So if you say 娘（むすめ）を留学（りゅうがく） させる , it means you force or permit your daughter to study abroad.",
+    "When 〜てほしい is used with 〜させる, as in 〜させてほしい, it generally expresses that you want someone to give you permission to do something. So before you allow your daughter to go abroad, she might have told you:",
+    "And if she wanted to study particularly in America, she might have also said:",
+    "Depending on the context, 〜させてほしい can also mean you want someone to force (or allow) someone else to do something. For example, if you want your spouse to feed your kids by six o'clock, you can say:",
+    "In Japanese, if you want to describe someone else's feelings, you need to get help from the suffix 〜がる , which basically means \"showing signs (of).\"",
+    "So while 〜てほしい describes your desire for someone to do something or for something to happen, if you want to talk about someone else 's desire, you need to add 〜がる and say 〜てほしがる.",
+    "For example, imagine you work from home, and your kids go to daycare while you work. But sometimes people say things to you like, \"Oh, do you work from home? That's nice! You can save on daycare fees.\" And every time that happens, you have to explain:",
+    "In this case, you are not describing your own but your kids' desires, so you can't just say 遊（あそ）んでほしい (to want someone to play with me). You need to add 〜がる. Since 〜がる indicates that someone else is \"showing signs\" (in this case of wanting to play) it evokes the image of your kids asking over and over for you to play with them.",
+    "Let's take one more example. Say you are at a supermarket with your kids and they're begging you to buy some candy. To describe this situation, you can combine おかしを買（か）ってほしい (to want someone to buy candy for me) with 〜がる, as in:",
+    "Again, in this example, you aren't describing your own desire. You can see from the kids' temper tantrum that they want their mother to buy some candy, so 〜がる needs to be added.",
+    "〜てほしい simply expresses your desire for someone to do something. It's very direct and can be too casual if you want to tell someone to do something, especially when it's for you.",
+    "So, what are the other ways to make a request?",
+    "One way is still using 〜てほしい but making it sound softer by adding different elements and effects. For example, people usually add んだ or its polite version んです to 〜てほしい to give an explanatory feel to the request. Then, throw in が or けど to mark the whole statement as background information for what's coming afterward, followed by a phrase like お願（ねが）いできる？ to check if it's okay to make the request. Other options include adding かな to the end to indicate unsureness, or using 〜てもいいですか to give the other person a chance to say no.",
+    "That's a lot of additional elements, isn't it? It's not that scary if you see an actual example though. So if you want your spouse to clean the living room, but you want to tell them in a pleasant way, you can say:",
+    "And if you want a senior employee at the office to take a look at some documents for you, you may say:",
+    "Although the above sentence sounds polite thanks to all the additional elements, 〜てほしい is still a direct way to convey what you want. You can use it if you and the senior employee are on friendly terms, but if you want to sound more appreciative, you can switch it to the similar expression 〜てもらいたい, as in:",
+    "〜てもらいたい is a combination of 〜てもらう and たい . 〜てもらう indicates that you receive a favor from someone and たい expresses your desire to do something. Together, 〜てもらいたい can mean that you want someone to do a favor for you. However, it sounds more humble and polite than 〜てほしい because it shows that you are aware that you are asking for a favor.",
+    "If you are talking to someone in a significantly higher social position than you, you may even want to switch 〜てもらいたい to its humbler version 〜ていただきたい. For example, if you are talking to the president of your company, you may say:",
+    "Here, 〜ていただきたい adds a much more formal tone to the sentence and shows your respect to the person you are talking to. Just keep in mind that if you use more formal language, you may also update other parts of the sentence to match the formality level. In this case, for example, the ending also changes from お願（ねが）いしてもいいですか to お願（ねが）いしても よろしいでしょう か.",
+    "In 〜てほしい, the word 欲（ほ）しい (to want) is used as a helping verb, a.k.a. auxiliary verb, which gives additional meaning to the main verb in the て form. Since a helping verb often only provides a supplemental nuance to the main verb, it's usually written in kana. For 〜てほしい, however, some people may use kanji and write 〜て欲（ほ）しい, since the original meaning of 欲（ほ）しい is mostly preserved in this use. &#8617;",
+    "If you're wondering how to say you yourself want to do something, you use the 〜たい ending for that. If you aren't familiar with 〜たい, you can check out the grammar page dedicated to it. &#8617;",
+    "Although 〜が〜ほしい is more common when talking about non-living things, you can use this structure when talking about living things too. For example, imagine you're at a concert given by multiple artists and the audience doesn't know who's playing in what order. If you're hoping your favorite artist, Madonna, appears on stage next, you can use either the particle に or が and say, 次（つぎ）はマドンナ [に・が] 出（で）てきてほしいな (I want Madonna to come out next). In this example, に indicates that you're personally pinpointing Madonna as someone you wish to show up next. On the other hand, the が simply marks Madonna as the subject of 出（で）てくる and sounds slightly less picky than に. &#8617;",
+    "You may see that the particle に marks 雨（あめ） or 雪（ゆき） in a sentence like 雨（あめ）／雪（ゆき）になってほしい, but this use of に is marking the result of a change of state and it's not the subject of the sentence. In fact, there will be an omitted subject here, like 天気（てんき） が 雨（あめ）／雪（ゆき） に なってほしい (I want the weather to be rainy/snowy). &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "掃除（そうじ）機（き）をかけてほしい。",
+      "english": "I want (my roommate) to vacuum."
+    },
+    {
+      "japanese": "早（はや）く終（お）わってほしい。",
+      "english": "I want (the update) to end quickly."
+    },
+    {
+      "japanese": "ルームメートに掃除（そうじ）機（き）をかけてほしい。",
+      "english": "I want my roommate to vacuum."
+    },
+    {
+      "japanese": "ルームメート [も・にも] 掃除（そうじ）機（き）をかけてほしい。",
+      "english": "I want my roommate to vacuum too."
+    },
+    {
+      "japanese": "Wi-Fiがあってほしい。",
+      "english": "I hope there's Wi-Fi."
+    },
+    {
+      "japanese": "雪（ゆき）が降（ふ）ってほしい。",
+      "english": "I want it to snow. (Literally: I want snow to fall.)"
+    },
+    {
+      "japanese": "この曲（きょく） [に・が] 売（う）れてほしい。",
+      "english": "I want this song to sell well."
+    },
+    {
+      "japanese": "もっと早（はや）く教（おし）えてほしかったよー。",
+      "english": "I wish someone had taught me that way earlier."
+    },
+    {
+      "japanese": "もっと上（あ）がってほしかったなぁ。",
+      "english": "I wanted it to go up more."
+    },
+    {
+      "japanese": "そういうことは言（い）ってほしくない。",
+      "english": "I don't want you to say things like that."
+    },
+    {
+      "japanese": "そういうことは言（い）わないでほしい。",
+      "english": "I want you not to say things like that."
+    },
+    {
+      "japanese": "一緒（いっしょ）に勉強（べんきょう）してほしい。",
+      "english": "I want you to study with me."
+    },
+    {
+      "japanese": "一緒（いっしょ）に勉強（べんきょう）してほしい？",
+      "english": "Do you want me to study with you?"
+    },
+    {
+      "japanese": "おもしろい情報（じょうほう）ゲットしたんだけど、教（おし）えてほしい？",
+      "english": "I got some interesting information. Do you want me to tell you about it?"
+    },
+    {
+      "japanese": "留学（りゅうがく）させてほしい。",
+      "english": "I want you to let me study abroad."
+    },
+    {
+      "japanese": "アメリカに行（い）かせてほしい。",
+      "english": "I want you to let me go to the US."
+    },
+    {
+      "japanese": "６時（じ）までに夕食（ゆうしょく）を食（た）べさせてほしい。",
+      "english": "I want you to feed (the kids) by six o'clock."
+    },
+    {
+      "japanese": "子供（こども）たち、ずっと遊（あそ）んでほしがるんだよ。",
+      "english": "The kids always want me to play with them."
+    },
+    {
+      "japanese": "子供（こども）がおかしを買（か）ってほしがる。",
+      "english": "The kids want me to buy candy for them."
+    },
+    {
+      "japanese": "リビングを掃除（そうじ）してほしいんだけど、お願（ねが）いできるかな？",
+      "english": "I want you to clean the living room. If you don't mind, can I ask you to do it?"
+    },
+    {
+      "japanese": "この資料（しりょう）を確認（かくにん）してほしいんですが、お願（ねが）いしてもいいですか？",
+      "english": "I want you to review this document, if I can trouble you for a favor."
+    },
+    {
+      "japanese": "この資料（しりょう）を確認（かくにん）してもらいたいんですが、お願（ねが）いしてもいいですか？",
+      "english": "Could I ask you to review this document, if you don't mind?"
+    },
+    {
+      "japanese": "この資料（しりょう）を確認（かくにん）していただきたいんですが、お願（ねが）いしてもよろしいでしょうか？",
+      "english": "Would it be possible to ask you to review these documents?"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Plain Form",
+        "Polite Form"
+      ],
+      [
+        "Present",
+        "〜てほしい",
+        "〜てほしいです"
+      ],
+      [
+        "Past",
+        "〜てほしかった",
+        "〜てほしかったです"
+      ],
+      [
+        "Negative",
+        "〜てほしくない 〜ないでほしい",
+        "〜てほしくないです〜ないでほしいです"
+      ],
+      [
+        "Past Negative",
+        "〜てほしくなかった〜ないでほしかった",
+        "〜てほしくなかったです〜ないでほしかったです"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-",
+      "text": "Conjugating 〜てほしい"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "section",
+      "text": "〜に〜てほしい"
+    },
+    {
+      "level": 4,
+      "id": "section-1",
+      "text": "〜が〜てほしい"
+    },
+    {
+      "level": 3,
+      "id": "for-when-you-wanted-someone-to-do-something",
+      "text": "〜てほしかった for When You Wanted Someone to Do Something"
+    },
+    {
+      "level": 3,
+      "id": "and--for-not-wanting-someone-to-do-something",
+      "text": "〜てほしくない and 〜ないでほしい for Not Wanting Someone to Do Something"
+    },
+    {
+      "level": 3,
+      "id": "for-asking-do-you-want-me-to",
+      "text": "〜てほしい？ for Asking \"Do You Want Me to…?\""
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-asking-for-permission-to-do-something",
+      "text": "〜させてほしい for Asking for Permission to Do Something"
+    },
+    {
+      "level": 3,
+      "id": "for-someone-elses-desires",
+      "text": "〜てほしがる for Someone Else's Desires"
+    },
+    {
+      "level": 3,
+      "id": "making-more-polite-requests-with-and-without-",
+      "text": "Making More Polite Requests, with and without 〜てほしい"
+    }
+  ],
+  "id": 62,
+  "slug": "tehoshii",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/tehoshii/",
+  "categories": [
+    "Verb Form"
+  ]
+}

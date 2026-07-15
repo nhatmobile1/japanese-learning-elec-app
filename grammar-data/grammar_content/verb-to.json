@@ -1,0 +1,515 @@
+{
+  "title": "Particle と (Conditional)",
+  "description": "と can be used to show a \"strong causal relationship.\" In other words, it shows a condition and a result that always follows.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, the particle と wears a lot of hats. The one you may be the most familiar is と as in \"X と Y\" (X and Y), for example. However, on this page, we'll introduce the と that shows a strong causal relationship."
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the main usages is to show a condition and the result that always follows that condition. It is like saying \"When X happens, the result is always Y.\" Another one is successive actions where a result immediately follows the cause, like \"As soon as X happens, Y happens.\" And always and immediately are the two keywords because these nuances are something と adds to indicate the strong causal relationship."
+    },
+    {
+      "type": "paragraph",
+      "text": "Before jumping into different usages, let me explain a little bit about the structure of sentences that use と. The particle と shows that the part of the sentence right before と is a condition or cause, and the other part of the sentence is a result."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's try applying this to the \" When X happens, the result is always Y\" equation using an example:"
+    },
+    {
+      "type": "example",
+      "japanese": "勝手（かって）にベーコンを食（た）べると、マミは怒（おこ）る。",
+      "english": "If you eat bacon without her permission, Mami always gets upset."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "X: Condition",
+          "Y: Result"
+        ],
+        [
+          "勝手（かって）にベーコンを食（た）べる",
+          "と",
+          "マミは怒（おこ）る"
+        ],
+        [
+          "If you eat bacon without her permission",
+          "Mami gets upset"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "See how the と is sandwiched between a condition and a result? When you try to translate と sentences, breaking down the sentence into those two parts might make it easier for you. Now let me walk you through different usages."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-things-that-always-happen",
+      "text": "と for Things that Always Happen"
+    },
+    {
+      "type": "paragraph",
+      "text": "The very basic idea of と is describing things that always—or at least usually—happen under a certain condition. Like when you say \"When X happens, the result is always Y.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, to explain a particular eating tendency of yours, you can use と and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "お酒（さけ）を飲（の）むと、(必（かなら）ず) スイーツが食（た）べたくなる。",
+      "english": "When I drink alcohol, I always crave for sweets (without exception)."
+    },
+    {
+      "type": "paragraph",
+      "text": "When と is used for things with inevitable results like this, it is commonly used with words like 必（かなら）ず (without exception), いつも (always) or よく (usually). These words are compatible with this usage of と because of the nuance of high tendency."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-habits",
+      "text": "と for Habits"
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, と can be used for habits that are triggered by a certain condition."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a habitual runner, you can say:"
+    },
+    {
+      "type": "example",
+      "japanese": "晴（は）れるとよくランニングをする。",
+      "english": "When it is sunny, I usually go for a run."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use と for old habits as well. In that case:"
+    },
+    {
+      "type": "example",
+      "japanese": "晴（は）れるとよくランニングをした。",
+      "english": "When it was sunny, I usually went for a run."
+    },
+    {
+      "type": "paragraph",
+      "text": "Notice that the sentence is in the past tense."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here's another example for showing past habits, but in an old-fashioned way:"
+    },
+    {
+      "type": "example",
+      "japanese": "晴（は）れるとよくランニングをしたものだ。",
+      "english": "When it was sunny, I usually went for a run."
+    },
+    {
+      "type": "paragraph",
+      "text": "と and the sentence ending ものだ (or ものです) are used for recalling and narrating the old days. If you want to reminisce about your younger days, starting with \"when I was young…\" this is a perfect way of telling your story (though it might make you sound like a grandma or grandpa). Also, because of its \"narrative-ness,\" it is used in writing quite a bit."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-general-conditions",
+      "text": "と for General Conditions"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since と is used for sentences like \"When X happens, the result is always Y\" to show the inevitability, you can use it for general conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let me give you an example:"
+    },
+    {
+      "type": "example",
+      "japanese": "ボタンを押（お）すと、店員（てんいん）が来（く）る。",
+      "english": "When you push a button, staff come."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you've ever been to a casual diner in Japan, you probably know what this is about (and how awesome it is). There is a button on your table to get the attention of servers. The sentence explains how the button works using と because that's what those buttons do at casual restaurants in Japan and it is a general fact."
+    },
+    {
+      "type": "paragraph",
+      "text": "When と is used to express general conditions, the sentence is usually in the present tense. If someone uses it in the past sense and says \"when this happens, the result was always this,\" it sounds awkward, right?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-successive-actions",
+      "text": "と for Successive Actions"
+    },
+    {
+      "type": "paragraph",
+      "text": "と can be used to express successive actions, which is a chain of actions where one is immediately followed by another. In English we would probably say, \"Once X happens, Y happens.\" In terms of showing a sequence of actions, this works similar to て form for linking actions , but と emphasizes the immediacy."
+    },
+    {
+      "type": "example",
+      "japanese": "ボタンを押（お）すと、店員（てんいん）が来（き）た。",
+      "english": "Once I pushed a button, staff came."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sentence looks familiar, right? Yes, it should, since it is almost identical to the earlier example shown in \"と for General Conditions\"—ボタンを押（お）すと、店員（てんいん）が来（く）る. The difference is the tense of the sentences. More specifically the tense of verbs 来（く）る (come) and 来（き）た (came). Unlike the other uses, when と is used for successive actions, the sentence is often in the past tense."
+    },
+    {
+      "type": "paragraph",
+      "text": "Also, a word like すぐに (right away), which adds a stronger nuance of immediacy, often pairs up with と in this usage. So if you see すぐに, that is a very good sign that the と is showing successive actions 👌"
+    },
+    {
+      "type": "example",
+      "japanese": "ボタンを押（お）すと、すぐに店員（てんいん）が来（き）た。",
+      "english": "Once I pushed a button, staff came right away."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-what-happens-if-questions",
+      "text": "と for \"What Happens If…?\" Questions"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can use と to ask questions like \"what happens if…?\" when you want to know the general result of the \"what if\" scenario."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let me ask you a question using this feature of と:"
+    },
+    {
+      "type": "example",
+      "japanese": "このボタンを押（お）すとどうなりますか？",
+      "english": "What happens if you push this button?"
+    },
+    {
+      "type": "paragraph",
+      "text": "…Yes, I am still talking about that button at diners in Japan (N-not like I am obsessed with it). You probably know the answer from earlier—if you push the button on your table, staff will come to your table. That's the general result of the \"if you push this button\" scenario."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-warnings",
+      "text": "と for Warnings"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since one of the basic concepts of と is inevitability, you can use と for warnings by showing an inevitable consequence of doing something (or often not doing something with the negative form of verbs)."
+    },
+    {
+      "type": "example",
+      "japanese": "早（はや）く起（お）きないと遅刻（ちこく）するよ。",
+      "english": "If you don't get up soon, you'll be late."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-showing-a-different-perspective",
+      "text": "と for Showing a Different Perspective"
+    },
+    {
+      "type": "paragraph",
+      "text": "と is also used in introductory phrases when you want to give a different perspective, usually paired up with words like 言（い）う (to say), 考（かんが）える (to think), 比（くら）べる (to compare), 見（み）る (to see) and their variants."
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese culture, people tend to try not to sound too direct or assertive. They are sensitive of providing information as a universal truth unless they are 100% certain because they don't want to be \"wrong\"! So と is used to soften the assertiveness by bringing an objective perspective as a certain condition."
+    },
+    {
+      "type": "example",
+      "japanese": "はっきり言（い）うと…",
+      "english": "Frankly speaking…(Literally: If I say frankly…)"
+    },
+    {
+      "type": "example",
+      "japanese": "そう考（かんが）えると…",
+      "english": "Viewed from that angle…(Literally: If I think that way…)"
+    },
+    {
+      "type": "example",
+      "japanese": "他（た）と比（くら）べると…",
+      "english": "Compared to others…(Literally: If I compare to others…)"
+    },
+    {
+      "type": "example",
+      "japanese": "一般（いっぱん）的（てき）に見（み）ると…",
+      "english": "Generally speaking…(Literally: If I look at it in a general way…)"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "how-is--different-from-",
+      "text": "How is と Different From たら?"
+    },
+    {
+      "type": "paragraph",
+      "text": "と and たら are quite similar because they can both show conditions and time sequence. In fact, they can often be used interchangeably. However, there are differences in nuance. The key to differentiating between the two is to remember that と shows strong causal relationship whereas the focus of たら is more of the condition as the trigger of the result."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's compare these two sentences to see how they are different when they show conditions:"
+    },
+    {
+      "type": "example",
+      "japanese": "お酒（さけ）を飲（の）むと、スイーツが食（た）べたくなる。",
+      "english": "When I drink alcohol, I always crave for sweets."
+    },
+    {
+      "type": "example",
+      "japanese": "お酒（さけ）を飲（の）んだら、スイーツが食（た）べたくなる。",
+      "english": "If I drink alcohol, I crave for sweets."
+    },
+    {
+      "type": "paragraph",
+      "text": "The focus of the sentence with と is that the result (crave for sweets) is always assured by the condition (drinking alcohol). However, the other sentence using たら puts an emphasis on the if condition as a trigger of the result."
+    },
+    {
+      "type": "paragraph",
+      "text": "Next, let's take a look at a comparison where both と and たら show time sequence."
+    },
+    {
+      "type": "example",
+      "japanese": "ボタンを押（お）すと、店員（てんいん）が来（き）た。",
+      "english": "Once I pushed a button, staff came."
+    },
+    {
+      "type": "example",
+      "japanese": "ボタンを押（お）したら、店員（てんいん）が来（き）た。",
+      "english": "When I pushed a button, staff came."
+    },
+    {
+      "type": "paragraph",
+      "text": "The first sentence with と indicates that the result (staff's arrival) happened after the condition (pushing a button), emphasizing how immediately it happened. On the other hand, the second sentence using たら focuses on the if condition, stating the result as something that happened because of the condition as the trigger."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "In Japanese, the particle と wears a lot of hats. The one you may be the most familiar is と as in \"X と Y\" (X and Y), for example. However, on this page, we'll introduce the と that shows a strong causal relationship.",
+    "One of the main usages is to show a condition and the result that always follows that condition. It is like saying \"When X happens, the result is always Y.\" Another one is successive actions where a result immediately follows the cause, like \"As soon as X happens, Y happens.\" And always and immediately are the two keywords because these nuances are something と adds to indicate the strong causal relationship.",
+    "Before jumping into different usages, let me explain a little bit about the structure of sentences that use と. The particle と shows that the part of the sentence right before と is a condition or cause, and the other part of the sentence is a result.",
+    "Let's try applying this to the \" When X happens, the result is always Y\" equation using an example:",
+    "See how the と is sandwiched between a condition and a result? When you try to translate と sentences, breaking down the sentence into those two parts might make it easier for you. Now let me walk you through different usages.",
+    "The very basic idea of と is describing things that always—or at least usually—happen under a certain condition. Like when you say \"When X happens, the result is always Y.\"",
+    "For example, to explain a particular eating tendency of yours, you can use と and say:",
+    "When と is used for things with inevitable results like this, it is commonly used with words like 必（かなら）ず (without exception), いつも (always) or よく (usually). These words are compatible with this usage of と because of the nuance of high tendency.",
+    "Similarly, と can be used for habits that are triggered by a certain condition.",
+    "If you are a habitual runner, you can say:",
+    "You can use と for old habits as well. In that case:",
+    "Notice that the sentence is in the past tense.",
+    "Here's another example for showing past habits, but in an old-fashioned way:",
+    "と and the sentence ending ものだ (or ものです) are used for recalling and narrating the old days. If you want to reminisce about your younger days, starting with \"when I was young…\" this is a perfect way of telling your story (though it might make you sound like a grandma or grandpa). Also, because of its \"narrative-ness,\" it is used in writing quite a bit.",
+    "Since と is used for sentences like \"When X happens, the result is always Y\" to show the inevitability, you can use it for general conditions.",
+    "Let me give you an example:",
+    "If you've ever been to a casual diner in Japan, you probably know what this is about (and how awesome it is). There is a button on your table to get the attention of servers. The sentence explains how the button works using と because that's what those buttons do at casual restaurants in Japan and it is a general fact.",
+    "When と is used to express general conditions, the sentence is usually in the present tense. If someone uses it in the past sense and says \"when this happens, the result was always this,\" it sounds awkward, right?",
+    "と can be used to express successive actions, which is a chain of actions where one is immediately followed by another. In English we would probably say, \"Once X happens, Y happens.\" In terms of showing a sequence of actions, this works similar to て form for linking actions , but と emphasizes the immediacy.",
+    "The sentence looks familiar, right? Yes, it should, since it is almost identical to the earlier example shown in \"と for General Conditions\"—ボタンを押（お）すと、店員（てんいん）が来（く）る. The difference is the tense of the sentences. More specifically the tense of verbs 来（く）る (come) and 来（き）た (came). Unlike the other uses, when と is used for successive actions, the sentence is often in the past tense.",
+    "Also, a word like すぐに (right away), which adds a stronger nuance of immediacy, often pairs up with と in this usage. So if you see すぐに, that is a very good sign that the と is showing successive actions 👌",
+    "You can use と to ask questions like \"what happens if…?\" when you want to know the general result of the \"what if\" scenario.",
+    "Let me ask you a question using this feature of と:",
+    "…Yes, I am still talking about that button at diners in Japan (N-not like I am obsessed with it). You probably know the answer from earlier—if you push the button on your table, staff will come to your table. That's the general result of the \"if you push this button\" scenario.",
+    "Since one of the basic concepts of と is inevitability, you can use と for warnings by showing an inevitable consequence of doing something (or often not doing something with the negative form of verbs).",
+    "と is also used in introductory phrases when you want to give a different perspective, usually paired up with words like 言（い）う (to say), 考（かんが）える (to think), 比（くら）べる (to compare), 見（み）る (to see) and their variants.",
+    "In Japanese culture, people tend to try not to sound too direct or assertive. They are sensitive of providing information as a universal truth unless they are 100% certain because they don't want to be \"wrong\"! So と is used to soften the assertiveness by bringing an objective perspective as a certain condition.",
+    "と and たら are quite similar because they can both show conditions and time sequence. In fact, they can often be used interchangeably. However, there are differences in nuance. The key to differentiating between the two is to remember that と shows strong causal relationship whereas the focus of たら is more of the condition as the trigger of the result.",
+    "Let's compare these two sentences to see how they are different when they show conditions:",
+    "The focus of the sentence with と is that the result (crave for sweets) is always assured by the condition (drinking alcohol). However, the other sentence using たら puts an emphasis on the if condition as a trigger of the result.",
+    "Next, let's take a look at a comparison where both と and たら show time sequence.",
+    "The first sentence with と indicates that the result (staff's arrival) happened after the condition (pushing a button), emphasizing how immediately it happened. On the other hand, the second sentence using たら focuses on the if condition, stating the result as something that happened because of the condition as the trigger."
+  ],
+  "examples": [
+    {
+      "japanese": "勝手（かって）にベーコンを食（た）べると、マミは怒（おこ）る。",
+      "english": "If you eat bacon without her permission, Mami always gets upset."
+    },
+    {
+      "japanese": "お酒（さけ）を飲（の）むと、(必（かなら）ず) スイーツが食（た）べたくなる。",
+      "english": "When I drink alcohol, I always crave for sweets (without exception)."
+    },
+    {
+      "japanese": "晴（は）れるとよくランニングをする。",
+      "english": "When it is sunny, I usually go for a run."
+    },
+    {
+      "japanese": "晴（は）れるとよくランニングをした。",
+      "english": "When it was sunny, I usually went for a run."
+    },
+    {
+      "japanese": "晴（は）れるとよくランニングをしたものだ。",
+      "english": "When it was sunny, I usually went for a run."
+    },
+    {
+      "japanese": "ボタンを押（お）すと、店員（てんいん）が来（く）る。",
+      "english": "When you push a button, staff come."
+    },
+    {
+      "japanese": "ボタンを押（お）すと、店員（てんいん）が来（き）た。",
+      "english": "Once I pushed a button, staff came."
+    },
+    {
+      "japanese": "ボタンを押（お）すと、すぐに店員（てんいん）が来（き）た。",
+      "english": "Once I pushed a button, staff came right away."
+    },
+    {
+      "japanese": "このボタンを押（お）すとどうなりますか？",
+      "english": "What happens if you push this button?"
+    },
+    {
+      "japanese": "早（はや）く起（お）きないと遅刻（ちこく）するよ。",
+      "english": "If you don't get up soon, you'll be late."
+    },
+    {
+      "japanese": "はっきり言（い）うと…",
+      "english": "Frankly speaking…(Literally: If I say frankly…)"
+    },
+    {
+      "japanese": "そう考（かんが）えると…",
+      "english": "Viewed from that angle…(Literally: If I think that way…)"
+    },
+    {
+      "japanese": "他（た）と比（くら）べると…",
+      "english": "Compared to others…(Literally: If I compare to others…)"
+    },
+    {
+      "japanese": "一般（いっぱん）的（てき）に見（み）ると…",
+      "english": "Generally speaking…(Literally: If I look at it in a general way…)"
+    },
+    {
+      "japanese": "お酒（さけ）を飲（の）むと、スイーツが食（た）べたくなる。",
+      "english": "When I drink alcohol, I always crave for sweets."
+    },
+    {
+      "japanese": "お酒（さけ）を飲（の）んだら、スイーツが食（た）べたくなる。",
+      "english": "If I drink alcohol, I crave for sweets."
+    },
+    {
+      "japanese": "ボタンを押（お）すと、店員（てんいん）が来（き）た。",
+      "english": "Once I pushed a button, staff came."
+    },
+    {
+      "japanese": "ボタンを押（お）したら、店員（てんいん）が来（き）た。",
+      "english": "When I pushed a button, staff came."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "X: Condition",
+        "Y: Result"
+      ],
+      [
+        "勝手（かって）にベーコンを食（た）べる",
+        "と",
+        "マミは怒（おこ）る"
+      ],
+      [
+        "If you eat bacon without her permission",
+        "Mami gets upset"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-things-that-always-happen",
+      "text": "と for Things that Always Happen"
+    },
+    {
+      "level": 3,
+      "id": "for-habits",
+      "text": "と for Habits"
+    },
+    {
+      "level": 3,
+      "id": "for-general-conditions",
+      "text": "と for General Conditions"
+    },
+    {
+      "level": 3,
+      "id": "for-successive-actions",
+      "text": "と for Successive Actions"
+    },
+    {
+      "level": 3,
+      "id": "for-what-happens-if-questions",
+      "text": "と for \"What Happens If…?\" Questions"
+    },
+    {
+      "level": 3,
+      "id": "for-warnings",
+      "text": "と for Warnings"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-showing-a-different-perspective",
+      "text": "と for Showing a Different Perspective"
+    },
+    {
+      "level": 3,
+      "id": "how-is--different-from-",
+      "text": "How is と Different From たら?"
+    }
+  ],
+  "id": 19,
+  "slug": "verb-to",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-to/",
+  "categories": [
+    "Conditional",
+    "Particle"
+  ]
+}

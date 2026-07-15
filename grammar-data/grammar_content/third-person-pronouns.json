@@ -1,0 +1,539 @@
+{
+  "title": "Third-Person Pronouns",
+  "description": "Third-person pronouns are words like \"he\" and \"she.\" They are used for people who are neither \"I\" nor \"you.\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Third-person pronouns are words like \"he,\" \"she,\" and \"they.\" We use them in speaking and writing to refer to someone that's neither \"I\" nor \"you.\""
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）はベーコンが好（す）き。",
+      "english": "He likes bacon."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--",
+      "text": "彼 (かれ) and 彼女 (かのじょ)"
+    },
+    {
+      "type": "paragraph",
+      "text": "彼（かれ） is a third-person pronoun used for males, like \"he\" in English, and 彼女（かのじょ） is the female version, like \"she\" in English."
+    },
+    {
+      "type": "example",
+      "japanese": "あっちにいるのが、マミさん。彼女（かのじょ）はベーコン売（う）り場（ば）の担当（たんとう）ね。",
+      "english": "That over there is Mami-san. She is in charge of the bacon section."
+    },
+    {
+      "type": "paragraph",
+      "text": "There's some ambiguity around the words — 彼（かれ） and 彼女（かのじょ） can also mean \"boyfriend\" and \"girlfriend.\" Although it is more common to use 彼氏（かれし） than 彼（かれ） to mean \"boyfriend\" specifically, 彼（かれ） may still be understood in this way, particularly in conversation."
+    },
+    {
+      "type": "example",
+      "japanese": "ケンイチと、ケンイチの彼（かれ）と、私（わたし）の彼女（かのじょ）でダブルデートに行（い）こうと思（おも）ってるよ。",
+      "english": "I'm thinking about going on a double date with Kenichi, his boyfriend, and my girlfriend."
+    },
+    {
+      "type": "paragraph",
+      "text": "As third-person pronouns, 彼（かれ） and 彼女（かのじょ） are not used as often as \"he\" and \"she\" in English, especially in speaking. This is because pronouns (or rather, subjects and objects in general) are frequently omitted in Japanese. When you do refer to someone, it's more common to use their name, or social or family role, than a third-person pronoun (and you can do so repeatedly without it sounding redundant, unlike in English). So 彼（かれ） and 彼女（かのじょ） don't sound like neutral third-person pronouns in spoken Japanese. Depending on the context, person, and other factors, using these pronouns might be taken as a sign of intelligence, arrogance, or westernization. For more details about 彼（かれ） and 彼女（かのじょ）, check out our podcast episode about it ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and-",
+      "text": "こいつ, そいつ and あいつ"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some Japanese third-person pronouns are actually \"demonstratives\" — words that help to point something or someone out, kind of like \"this\" and \"that\" in English. Japanese demonstratives are easy to recognize since they all start with こ〜, そ〜, or あ〜."
+    },
+    {
+      "type": "paragraph",
+      "text": "こいつ, そいつ and あいつ are demonstratives that we use specifically for people. こいつ means \"this person,\" そいつ means \"that person\" and あいつ means \"that person over there.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep in mind that they're very casual words, with a similar vibe to \"this guy\" or \"this dude\" in English, though they don't indicate gender. They can be used to express a dislike for the person you're referring to, but they can also express affection — as if you're picking on the person in a lighthearted way."
+    },
+    {
+      "type": "example",
+      "japanese": "そいつが来（こ）なければ、面接（めんせつ）うまく行（い）ったのに！",
+      "english": "If that guy hadn't come, my interview would've gone well!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since they could come off as rude, using words for directions, such as こちら (here), そちら (there) and あちら (over there) is more appropriate in polite Japanese, because of the indirectness of these words."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "plural-forms-of-third-person-pronouns",
+      "text": "Plural Forms of Third-Person Pronouns"
+    },
+    {
+      "type": "paragraph",
+      "text": "We've introduced different third-person pronouns in Japanese, but so far they have all been in the singular . In English, \"they\" is the plural form of third-person pronouns, but instead of having a different form for the plural, in Japanese you attach plural suffixes like 〜達（たち） (たち), 〜等（ら） (ら), 〜方（かた） (がた) and 〜共（とも） (ども) to the end of the pronoun."
+    },
+    {
+      "type": "paragraph",
+      "text": "Plural suffixes carry different nuances, mainly the level of formality. So some combinations are more common than others, and some don't work at all. For example, 〜方（かた） is an honorific way to refer to others, so the pronoun needs to have the same honorific feel to match. Since none of the third-person pronouns are honorific, they can't be combined with 〜方（かた）."
+    },
+    {
+      "type": "paragraph",
+      "text": "Compatibility also depends on how pronouns and suffixes sound together when they're paired up. For example, 彼（かれ）たち is less common than 彼女（かのじょ）たち, even though 彼（かれ） and 彼女（かのじょ） are generally considered to be a pair, and don't have any obvious difference in politeness level. 彼（かれ）ら is a far more frequently used than 彼（かれ）たち as the plural version of 彼（かれ）."
+    },
+    {
+      "type": "paragraph",
+      "text": "To give you a clearer picture, below is a mix-and-match chart of common pronouns and suffixes! △ shows that the combination works okay, but is not very common. ✖️ shows that the combination is rarely used."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Rough",
+          "Casual",
+          "Neutral",
+          "Polite"
+        ],
+        [
+          "共（ども）",
+          "等（ら）",
+          "達（たち）",
+          "方（がた）"
+        ],
+        [
+          "彼（かれ）",
+          "✖️",
+          "彼（かれ）ら",
+          "△",
+          "✖️"
+        ],
+        [
+          "彼女（かのじょ）",
+          "✖️",
+          "彼女（かのじょ）ら",
+          "彼女（かのじょ）たち",
+          "✖️"
+        ],
+        [
+          "こいつそいつあいつ",
+          "こいつども そいつども あいつども",
+          "こいつら そいつら あいつら",
+          "こいつたち そいつたち あいつたち",
+          "✖️"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "third-person-pronouns-and-particles",
+      "text": "Third-Person Pronouns and Particles"
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see from examples we've used on this page, Japanese pronouns stay the same no matter their role in a sentence. This is quite different from English, where \"he\" becomes \"his\" or \"him\" depending on its grammatical role."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reason is that Japanese pronouns are basically no different from regular nouns, and it's the job of the particles to assign grammatical roles to the pronouns."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, to say \"his\" in Japanese, you use a third-person pronoun plus the particle の, because の shows that the noun immediately before it is in the possessive form."
+    },
+    {
+      "type": "formula",
+      "japanese": "Third-Person Pronoun + の",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Third-Person Pronoun + の"
+    },
+    {
+      "type": "paragraph",
+      "text": "So if you use 彼（かれ） to say \"his,\" it's going to look like:"
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）の",
+      "english": "his"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are many more possible combinations of third-person pronouns and particles, but here's a short list of major ones to give you an idea!"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Subject",
+          "Topic",
+          "Possessive",
+          "Object"
+        ],
+        [
+          "he",
+          "he / as for him",
+          "his",
+          "him"
+        ],
+        [
+          "彼（かれ）が",
+          "彼（かれ）は",
+          "彼（かれ）の",
+          "彼（かれ）を"
+        ],
+        [
+          "she",
+          "she / as for her",
+          "her",
+          "her"
+        ],
+        [
+          "彼女（かのじょ）が",
+          "彼女（かのじょ）は",
+          "彼女（かのじょ）の",
+          "彼女（かのじょ）を"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "third-person-pronouns-can-be-omitted-especially--and-",
+      "text": "Third-Person Pronouns Can Be Omitted (Especially 彼 and 彼女)"
+    },
+    {
+      "type": "paragraph",
+      "text": "One of the reasons that third-person pronouns are not as commonly used in Japanese as in English is that they can be easily omitted if the meaning is clear from context. The same is true of all personal pronouns, and indeed subjects and objects in general."
+    },
+    {
+      "type": "example",
+      "japanese": "キャメロンもう帰（かえ）っちゃった？ （彼（かれ）に）聞（き）きたいことがあったんだよね。",
+      "english": "Has Cameron already left? I had something that I wanted to ask (him) about."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, 彼（かれ）に (him) can be omitted. The topic of this whole chunk of conversation is Cameron, as he is brought up in the previous sentence and nobody else is mentioned here. So it's obvious that the following sentence \"I had something that I wanted to ask\" is referring to him. Because of this, third-person pronouns can often be omitted in Japanese, unless you want to clarify that it's \"him\" or \"her\" that you're talking about, or you want to change topics."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "japanese-third-person-pronouns-are-not-necessary-to-avoid-redundancy",
+      "text": "Japanese Third-Person Pronouns Are Not Necessary To Avoid Redundancy"
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, third-person pronouns are often used to avoid using people's names again and again, as this can sound repetitive. In Japanese, it's more common to use people's names — or family or social roles — repeatedly in conversation, and so they don't give the listener the same feeling of redundancy. Let's take a look at an example."
+    },
+    {
+      "type": "example",
+      "japanese": "キャメロンもう帰（かえ）っちゃった？ キャメロンに聞（き）きたいことがあったんだよね。",
+      "english": "Has Cameron already left? I had something that I wanted to ask him about."
+    },
+    {
+      "type": "paragraph",
+      "text": "See how キャメロン is repeated in Japanese, while the second appearance is replaced with \"him\" in the English translation? Using Cameron's name twice in a row would have sounded a bit unnatural in English, since it's preferable to avoid repetition. However, this works just fine in Japanese, especially in conversation."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Vocabulary"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "ベーコン (べーこん) — bacon (noun)"
+        ],
+        [
+          "好（す）き (すき) — like, favorite (な-adjective)"
+        ],
+        [
+          "売（う）り場（ば） (うりば) — section, counter (noun)"
+        ],
+        [
+          "担当（たんとう） (たんとう) — person in charge (noun)"
+        ],
+        [
+          "ダブルデート (だぶるでーと) — double date (noun)"
+        ],
+        [
+          "行（い）こう (いこう) — to go (godan verb / volitional form)"
+        ],
+        [
+          "思（おも）ってる (おもってる) — to be thinking (godan verb / present continuous)"
+        ],
+        [
+          "来（こ）なければ (こなければ) — if they don't come (irregular verb / negative conditional form)"
+        ],
+        [
+          "面接（めんせつ） (めんせつ) — interview (noun)"
+        ],
+        [
+          "うまく行（い）った (うまくいった) — went well (godan verb / past tense)"
+        ],
+        [
+          "帰（かえ）っちゃった (かえっちゃった) — went home (godan verb / ちゃう form / past tense)"
+        ],
+        [
+          "聞（き）きたい (ききたい) — want to ask (godan verb / desiderative 〜たい form)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Third-person pronouns are words like \"he,\" \"she,\" and \"they.\" We use them in speaking and writing to refer to someone that's neither \"I\" nor \"you.\"",
+    "彼（かれ） is a third-person pronoun used for males, like \"he\" in English, and 彼女（かのじょ） is the female version, like \"she\" in English.",
+    "There's some ambiguity around the words — 彼（かれ） and 彼女（かのじょ） can also mean \"boyfriend\" and \"girlfriend.\" Although it is more common to use 彼氏（かれし） than 彼（かれ） to mean \"boyfriend\" specifically, 彼（かれ） may still be understood in this way, particularly in conversation.",
+    "As third-person pronouns, 彼（かれ） and 彼女（かのじょ） are not used as often as \"he\" and \"she\" in English, especially in speaking. This is because pronouns (or rather, subjects and objects in general) are frequently omitted in Japanese. When you do refer to someone, it's more common to use their name, or social or family role, than a third-person pronoun (and you can do so repeatedly without it sounding redundant, unlike in English). So 彼（かれ） and 彼女（かのじょ） don't sound like neutral third-person pronouns in spoken Japanese. Depending on the context, person, and other factors, using these pronouns might be taken as a sign of intelligence, arrogance, or westernization. For more details about 彼（かれ） and 彼女（かのじょ）, check out our podcast episode about it .",
+    "Some Japanese third-person pronouns are actually \"demonstratives\" — words that help to point something or someone out, kind of like \"this\" and \"that\" in English. Japanese demonstratives are easy to recognize since they all start with こ〜, そ〜, or あ〜.",
+    "こいつ, そいつ and あいつ are demonstratives that we use specifically for people. こいつ means \"this person,\" そいつ means \"that person\" and あいつ means \"that person over there.\"",
+    "Keep in mind that they're very casual words, with a similar vibe to \"this guy\" or \"this dude\" in English, though they don't indicate gender. They can be used to express a dislike for the person you're referring to, but they can also express affection — as if you're picking on the person in a lighthearted way.",
+    "Since they could come off as rude, using words for directions, such as こちら (here), そちら (there) and あちら (over there) is more appropriate in polite Japanese, because of the indirectness of these words.",
+    "We've introduced different third-person pronouns in Japanese, but so far they have all been in the singular . In English, \"they\" is the plural form of third-person pronouns, but instead of having a different form for the plural, in Japanese you attach plural suffixes like 〜達（たち） (たち), 〜等（ら） (ら), 〜方（かた） (がた) and 〜共（とも） (ども) to the end of the pronoun.",
+    "Plural suffixes carry different nuances, mainly the level of formality. So some combinations are more common than others, and some don't work at all. For example, 〜方（かた） is an honorific way to refer to others, so the pronoun needs to have the same honorific feel to match. Since none of the third-person pronouns are honorific, they can't be combined with 〜方（かた）.",
+    "Compatibility also depends on how pronouns and suffixes sound together when they're paired up. For example, 彼（かれ）たち is less common than 彼女（かのじょ）たち, even though 彼（かれ） and 彼女（かのじょ） are generally considered to be a pair, and don't have any obvious difference in politeness level. 彼（かれ）ら is a far more frequently used than 彼（かれ）たち as the plural version of 彼（かれ）.",
+    "To give you a clearer picture, below is a mix-and-match chart of common pronouns and suffixes! △ shows that the combination works okay, but is not very common. ✖️ shows that the combination is rarely used.",
+    "As you can see from examples we've used on this page, Japanese pronouns stay the same no matter their role in a sentence. This is quite different from English, where \"he\" becomes \"his\" or \"him\" depending on its grammatical role.",
+    "The reason is that Japanese pronouns are basically no different from regular nouns, and it's the job of the particles to assign grammatical roles to the pronouns.",
+    "For example, to say \"his\" in Japanese, you use a third-person pronoun plus the particle の, because の shows that the noun immediately before it is in the possessive form.",
+    "Third-Person Pronoun + の",
+    "So if you use 彼（かれ） to say \"his,\" it's going to look like:",
+    "There are many more possible combinations of third-person pronouns and particles, but here's a short list of major ones to give you an idea!",
+    "One of the reasons that third-person pronouns are not as commonly used in Japanese as in English is that they can be easily omitted if the meaning is clear from context. The same is true of all personal pronouns, and indeed subjects and objects in general.",
+    "In this example, 彼（かれ）に (him) can be omitted. The topic of this whole chunk of conversation is Cameron, as he is brought up in the previous sentence and nobody else is mentioned here. So it's obvious that the following sentence \"I had something that I wanted to ask\" is referring to him. Because of this, third-person pronouns can often be omitted in Japanese, unless you want to clarify that it's \"him\" or \"her\" that you're talking about, or you want to change topics.",
+    "In English, third-person pronouns are often used to avoid using people's names again and again, as this can sound repetitive. In Japanese, it's more common to use people's names — or family or social roles — repeatedly in conversation, and so they don't give the listener the same feeling of redundancy. Let's take a look at an example.",
+    "See how キャメロン is repeated in Japanese, while the second appearance is replaced with \"him\" in the English translation? Using Cameron's name twice in a row would have sounded a bit unnatural in English, since it's preferable to avoid repetition. However, this works just fine in Japanese, especially in conversation."
+  ],
+  "examples": [
+    {
+      "japanese": "彼（かれ）はベーコンが好（す）き。",
+      "english": "He likes bacon."
+    },
+    {
+      "japanese": "あっちにいるのが、マミさん。彼女（かのじょ）はベーコン売（う）り場（ば）の担当（たんとう）ね。",
+      "english": "That over there is Mami-san. She is in charge of the bacon section."
+    },
+    {
+      "japanese": "ケンイチと、ケンイチの彼（かれ）と、私（わたし）の彼女（かのじょ）でダブルデートに行（い）こうと思（おも）ってるよ。",
+      "english": "I'm thinking about going on a double date with Kenichi, his boyfriend, and my girlfriend."
+    },
+    {
+      "japanese": "そいつが来（こ）なければ、面接（めんせつ）うまく行（い）ったのに！",
+      "english": "If that guy hadn't come, my interview would've gone well!"
+    },
+    {
+      "japanese": "彼（かれ）の",
+      "english": "his"
+    },
+    {
+      "japanese": "キャメロンもう帰（かえ）っちゃった？ （彼（かれ）に）聞（き）きたいことがあったんだよね。",
+      "english": "Has Cameron already left? I had something that I wanted to ask (him) about."
+    },
+    {
+      "japanese": "キャメロンもう帰（かえ）っちゃった？ キャメロンに聞（き）きたいことがあったんだよね。",
+      "english": "Has Cameron already left? I had something that I wanted to ask him about."
+    },
+    {
+      "japanese": "Third-Person Pronoun + の",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Rough",
+        "Casual",
+        "Neutral",
+        "Polite"
+      ],
+      [
+        "共（ども）",
+        "等（ら）",
+        "達（たち）",
+        "方（がた）"
+      ],
+      [
+        "彼（かれ）",
+        "✖️",
+        "彼（かれ）ら",
+        "△",
+        "✖️"
+      ],
+      [
+        "彼女（かのじょ）",
+        "✖️",
+        "彼女（かのじょ）ら",
+        "彼女（かのじょ）たち",
+        "✖️"
+      ],
+      [
+        "こいつそいつあいつ",
+        "こいつども そいつども あいつども",
+        "こいつら そいつら あいつら",
+        "こいつたち そいつたち あいつたち",
+        "✖️"
+      ]
+    ],
+    [
+      [
+        "Subject",
+        "Topic",
+        "Possessive",
+        "Object"
+      ],
+      [
+        "he",
+        "he / as for him",
+        "his",
+        "him"
+      ],
+      [
+        "彼（かれ）が",
+        "彼（かれ）は",
+        "彼（かれ）の",
+        "彼（かれ）を"
+      ],
+      [
+        "she",
+        "she / as for her",
+        "her",
+        "her"
+      ],
+      [
+        "彼女（かのじょ）が",
+        "彼女（かのじょ）は",
+        "彼女（かのじょ）の",
+        "彼女（かのじょ）を"
+      ]
+    ],
+    [
+      [
+        "ベーコン (べーこん) — bacon (noun)"
+      ],
+      [
+        "好（す）き (すき) — like, favorite (な-adjective)"
+      ],
+      [
+        "売（う）り場（ば） (うりば) — section, counter (noun)"
+      ],
+      [
+        "担当（たんとう） (たんとう) — person in charge (noun)"
+      ],
+      [
+        "ダブルデート (だぶるでーと) — double date (noun)"
+      ],
+      [
+        "行（い）こう (いこう) — to go (godan verb / volitional form)"
+      ],
+      [
+        "思（おも）ってる (おもってる) — to be thinking (godan verb / present continuous)"
+      ],
+      [
+        "来（こ）なければ (こなければ) — if they don't come (irregular verb / negative conditional form)"
+      ],
+      [
+        "面接（めんせつ） (めんせつ) — interview (noun)"
+      ],
+      [
+        "うまく行（い）った (うまくいった) — went well (godan verb / past tense)"
+      ],
+      [
+        "帰（かえ）っちゃった (かえっちゃった) — went home (godan verb / ちゃう form / past tense)"
+      ],
+      [
+        "聞（き）きたい (ききたい) — want to ask (godan verb / desiderative 〜たい form)"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "and--",
+      "text": "彼 (かれ) and 彼女 (かのじょ)"
+    },
+    {
+      "level": 3,
+      "id": "and-",
+      "text": "こいつ, そいつ and あいつ"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "plural-forms-of-third-person-pronouns",
+      "text": "Plural Forms of Third-Person Pronouns"
+    },
+    {
+      "level": 3,
+      "id": "third-person-pronouns-and-particles",
+      "text": "Third-Person Pronouns and Particles"
+    },
+    {
+      "level": 3,
+      "id": "third-person-pronouns-can-be-omitted-especially--and-",
+      "text": "Third-Person Pronouns Can Be Omitted (Especially 彼 and 彼女)"
+    },
+    {
+      "level": 3,
+      "id": "japanese-third-person-pronouns-are-not-necessary-to-avoid-redundancy",
+      "text": "Japanese Third-Person Pronouns Are Not Necessary To Avoid Redundancy"
+    }
+  ],
+  "id": 41,
+  "slug": "third-person-pronouns",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/third-person-pronouns/",
+  "categories": [
+    "Pronoun"
+  ]
+}

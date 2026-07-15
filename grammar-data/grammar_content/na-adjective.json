@@ -1,0 +1,608 @@
+{
+  "title": "な-Adjectives",
+  "description": "な-adjectives are one type of adjective in Japanese. Their main function is to describe nouns, but many can function as nouns themselves.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "な-adjectives are one of two kinds of adjectives in Japanese (the other being い-adjectives ). The main function of な-adjectives is to describe nouns. For example, a famous person is 有名（ゆうめい）な 人（ひと）, a convenient tool is 便利（べんり）な ツール, and a safe place is 安全（あんぜん）な 場所（ばしょ）. な-adjectives earn their name from な, which is used to attach a な-adjective to a noun. Unlike い-adjectives, な-adjectives cannot be conjugated to show tense—present or past—and truth value—positive or negative. This is a trait that な-adjectives share with nouns, and is one reason why they are often called “nominal (noun-like) adjectives” or “adjectival nouns” in linguistics."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "present-tense",
+      "text": "Present Tense"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like nouns, な-adjectives can take だ or です to indicate that they are in the present tense. This tells us that the quality described by the adjective is true now or in the future. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にっぽん）の電車（でんしゃ）はすごく便利（べんり）だ。",
+      "english": "Trains in Japan are very convenient."
+    },
+    {
+      "type": "example",
+      "japanese": "平日（へいじつ）なら、車（くるま）より電車（でんしゃ）の方（ほう）が便利（べんり）ですよ。",
+      "english": "If we’re talking about a weekday, the train will be more convenient than a car."
+    },
+    {
+      "type": "paragraph",
+      "text": "We can also choose to end a sentence with the な-adjective itself, which is common in casual spoken Japanese. In this case, present tense is assumed, even though there is no explicit marker of it, like だ or です:"
+    },
+    {
+      "type": "example",
+      "japanese": "これは便利（べんり）。",
+      "english": "This is convenient."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "past-tense",
+      "text": "Past Tense"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you want to indicate that the quality described by the な-adjective is in the past, you’ll use だった or でした to make it happen. This means that the quality was true before, but is no longer true at this point in time. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "子供（こども）の頃（ころ）、この街（まち）は静（しず）かだったけど、今（いま）はにぎやかだね。",
+      "english": "When I was a child, this town was quiet, but now it’s lively."
+    },
+    {
+      "type": "example",
+      "japanese": "親（おや）の時代（じだい）は、ディスコはすごく人気（にんき）でした。",
+      "english": "In my parents’ day and age, disco was super popular."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "negative--adjectives",
+      "text": "Negative な-adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "Making a な-adjective negative tells us that the quality described by the word is not true. To do this, you can choose from a few different negative markers, such as じゃない and ではない . Take a look:"
+    },
+    {
+      "type": "example",
+      "japanese": "あの先生（せんせい）、字（じ）があまり綺麗（きれい）じゃないね。",
+      "english": "That teacher’s handwriting isn’t very neat, is it?"
+    },
+    {
+      "type": "example",
+      "japanese": "チェスは上手（じょうず）ではないが、下手（へた）でもない。",
+      "english": "I’m not good at chess, but I’m not bad at it either."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-position-of--adjectives-in-a-sentence",
+      "text": "The Position of な-adjectives in a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like い-adjectives, な-adjectives can be used in two positions to describe a noun: at the end of a sentence, and right before a noun. な-adjectives can do a little more than い-adjectives though. Some な-adjectives can function like a noun, and serve as the subject or object of a sentence."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "at-the-end-of-a-sentence",
+      "text": "At the End of a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a な-adjective comes at the end of a sentence (or more specifically, in the predicate of a clause), it describes the subject of the sentence. Let’s take a look:"
+    },
+    {
+      "type": "example",
+      "japanese": "最近（さいきん）、猫（ねこ）のビデオが人気（にんき）だよね。",
+      "english": "Lately, cat videos are popular, aren’t they!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, the な-adjective 人気（にんき） (popular) comes at the end of the sentence, and it is describing the subject noun phrase, 猫（ねこ）のビデオ (cat video)."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s very common in Japanese for the subject to be left out of the sentence if what you’re talking about is clear from context. In this case, the な-adjective still describes the subject, you just have to figure out what that subject is."
+    },
+    {
+      "type": "example",
+      "japanese": "最近（さいきん）、人気（にんき）だよね。",
+      "english": "Lately, (these) are popular, aren’t they!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Perhaps you’d utter this if you’re in a room full of people on their phones, oohing and awwing over a video of a cute kitten in a teacup. In this case, you’re assuming that the person you’re talking to will understand that you’re referring to cat videos, and not something else. We do something similar in English, when we replace a noun with a pronoun, like “these” in the example sentence."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "before-a-noun",
+      "text": "Before a Noun"
+    },
+    {
+      "type": "paragraph",
+      "text": "When a な-adjective is used directly before a noun, you need to use な directly after the adjective. な is what attaches the adjective to the noun, forming a short noun phrase."
+    },
+    {
+      "type": "formula",
+      "japanese": "安全（あんぜん） + な + 場所（ばしょ） = 安全（あんぜん）な場所（ばしょ） safe place a safe place",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "安全（あんぜん） + な + 場所（ばしょ） = 安全（あんぜん）な場所（ばしょ） safe place a safe place"
+    },
+    {
+      "type": "paragraph",
+      "text": "These words joined together can be used anywhere that a noun can be used:"
+    },
+    {
+      "type": "example",
+      "japanese": "安全（あんぜん）な場所（ばしょ）を探（さが）してください。",
+      "english": "Please look for a safe place."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence, 安全（あんぜん）な場所（ばしょ） is the object of the sentence - it’s what we’re looking for. It could just as easily be used as the subject of the sentence, as in the next example:"
+    },
+    {
+      "type": "example",
+      "japanese": "安全（あんぜん）な場所（ばしょ）が一（ひと）つもない。",
+      "english": "There isn’t a single safe place."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-a-noun",
+      "text": "As a Noun"
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to their ability to describe nouns, some な-adjectives can be used as nouns themselves (Hint: this is why な-adjectives are called “adjectival nouns” in linguistics). These nouns refer to abstract concepts, like “safety” (安全（あんぜん）), “peace” (平和（へいわ）), or “freedom” (自由（じゆう）). When used as a noun, these words can take many roles in a sentence, including the subject or object."
+    },
+    {
+      "type": "example",
+      "japanese": "安全（あんぜん）が第（だい）一（いち）だ。",
+      "english": "Safety comes first."
+    },
+    {
+      "type": "example",
+      "japanese": "平和（へいわ）を願（ねが）っています。",
+      "english": "We’re hoping for peace."
+    },
+    {
+      "type": "example",
+      "japanese": "自由（じゆう）を守（まも）りましょう。",
+      "english": "Let’s protect our freedom."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-an-adverb",
+      "text": "As An Adverb"
+    },
+    {
+      "type": "paragraph",
+      "text": "Combined with the particle に , some な-adjectives can also be used as adverbs."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you combine 静（しず）か (quiet) and に, you can form 静（しず）かに (quietly) — an adverb that describes how an action or event happens quietly."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）は静（しず）かにドアを閉（し）めた。",
+      "english": "I closed the door quietly."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the same way, if you combine 綺麗（きれい） (beautiful) with に, you can make 綺麗（きれい）に (beautifully). You can use this to talk about the way flowers bloom."
+    },
+    {
+      "type": "example",
+      "japanese": "バラが綺麗（きれい）に咲（さ）いていた。",
+      "english": "Roses were blooming beautifully."
+    },
+    {
+      "type": "paragraph",
+      "text": "Or, how a room was clean and tidy."
+    },
+    {
+      "type": "example",
+      "japanese": "部屋（へや）が綺麗（きれい）に片付（かたづ）いていた。",
+      "english": "The room was very tidy. (Literally: The room was beautifully tidy.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This function is similar to the く form of い-adjectives , which also results in an adverb."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "the-origin-of--adjectives",
+      "text": "The Origin of な-adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "Modern な-adjectives in Japanese have several different origins. The earliest な-adjectives originated in Japan. These are usually recognizable by the fact that have a hiragana ending, such as 〜か or 〜やか, as in 静（しず）か (quiet) and 賑（にぎ）やか (lively)."
+    },
+    {
+      "type": "paragraph",
+      "text": "As contact with China increased throughout Japanese history, many new descriptive words were imported into Japanese as な-adjectives. な-adjectives of Chinese origin make up about two-thirds of all な-adjectives. They’re generally quite easy to recognize, because they can be written entirely in kanji, such as 綺麗（きれい） (beautiful), 安全（あんぜん） (safe), and 健康（けんこう） (healthy)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Today, new words continue to enter Japanese from other languages (including English), and these tend to become な-adjectives as well. Like most foreign loan words from non-kanji using languages, these words are written in katakana. For example, ユニーク (unique), オリジナル (original), and クレージー (crazy) are all used as な-adjectives in Japanese."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "the-historical-development-of-",
+      "text": "The Historical Development of な"
+    },
+    {
+      "type": "paragraph",
+      "text": "So the question remains: why do な-adjectives take な before a noun? In Old Japanese, にあり was used to show an adjective-like relationship between two words. The adjective-like word came first, and then connected to the noun it describes using にあり. You might recognize the two parts of this phrase, the particle に , and あり — the stem form of the verb ある ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Slowly, over many years, the way にあり was pronounced shifted and simplified, first becoming なる, and then eventually, becoming な, which is still in use today. The fact that these ancient な-adjectives used a verb ending (あり) when they came before a noun to describe it explains the traditional grammar name for な-adjectives - 形容動詞（けいようどうし）, or “adjectival verb”. While な-adjectives no longer resemble verbs, the ancestor of な itself is a verb. With this in mind, “adjectival verb” starts to make a little more sense, doesn't it?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "what-are--adjectives",
+      "text": "What are の-adjectives?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In addition to い-adjectives and な-adjectives, some dictionaries and resources list a third kind of Japanese adjective: the の-adjective. If you’ve learned about particle の , you might know that it is used to describe the relationship between two nouns. This can be possession, as in お母（かあ）さんの誕生（たんじょう）日（び） (my mother’s birthday), or it can express identity, as in トヨタの山田（やまだ）さん (Mr. Yamada of Toyota). So in a phrase like 本当（ほんとう）の幸（しあわ）せ (true happiness), why does の come after “true”, which is seemingly an adjective?"
+    },
+    {
+      "type": "paragraph",
+      "text": "It comes down to the fact that な-adjectives possess traits of both adjectives and nouns, and many can take either な or の to describe a noun, depending on the nuance or meaning that the speaker wants to convey. We like to think of な-adjectives as existing on a spectrum, with some words favoring な, and others (like 本当（ほんとう）) favoring の. Interest piqued? We wrote a whole article about this — read it here ."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section",
+      "text": "同じ"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a small note, but beware of 同（おな）じ (same)! It feels like it should be a な-adjective, but it doesn't function quite like others."
+    },
+    {
+      "type": "paragraph",
+      "text": "When used at the end of a sentence, it’s no different than any other な-adjective:"
+    },
+    {
+      "type": "example",
+      "japanese": "その靴（くつ）は僕（ぼく）のと同（おな）じだ。",
+      "english": "Those shoes are the same as mine!"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you use 同（おな）じ immediately before a noun though, な is not used:"
+    },
+    {
+      "type": "example",
+      "japanese": "わざと僕（ぼく）と同（おな）じ靴（くつ）を買（か）ったの？",
+      "english": "Did you buy the same shoes as me on purpose?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Ok, so easy enough to remember that 同（おな）じ doesn’t take な before a noun, but…"
+    },
+    {
+      "type": "example",
+      "japanese": "靴（くつ）が同（おな）じなのに、僕（ぼく）の方（ほう）が似合（にあ）ってるよ。",
+      "english": "Our shoes might be the same, but they look better on me."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see in the example above, when 同（おな）じ is used before a conjunction particle, like のに , it does take な. So the moral of the story is, watch out for 同（おな）じ, because it isn’t the same as other な-adjectives… get it? 😂"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "treating--adjectives-like--adjectives",
+      "text": "Treating な-adjectives like い-adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "Some な-adjectives are easy to mistake for い-adjectives. For example, きれい (clean) is a な-adjective. However, it ends in い, so you could be forgiven for thinking it's an い-adjective, and try to mark it as past tense with 〜かった or negative with 〜くない . Just remember — な-adjectives use words like だった and じゃない to accomplish this!"
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 鳥（とり）にフンを落（お）とされる前（まえ）、車（くるま）はきれかった。⭕鳥（とり）にフンを落（お）とされる前（まえ）、車（くるま）はきれいだった。",
+      "english": "The car was clean before a bird pooped on it."
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 私（わたし）の部屋（へや）はきれくない。⭕ 私（わたし）の部屋（へや）はきれいじゃない。",
+      "english": "My room is not clean."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you’re not sure whether an adjective is an い-adjective or な-adjective, check how it’s written in kanji. Unlike い-adjectives, the final 〜い of these な-adjectives is not in hiragana. For example, the kanji for きれい is 綺麗（きれい）, not 綺麗（きれい）い. The only exception to this is 嫌（きら）い (hateful), which is a な-adjective in spite of the い hanging off the end. 🤷🏻️"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Hubs"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Points"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "な-adjectives are one of two kinds of adjectives in Japanese (the other being い-adjectives ). The main function of な-adjectives is to describe nouns. For example, a famous person is 有名（ゆうめい）な 人（ひと）, a convenient tool is 便利（べんり）な ツール, and a safe place is 安全（あんぜん）な 場所（ばしょ）. な-adjectives earn their name from な, which is used to attach a な-adjective to a noun. Unlike い-adjectives, な-adjectives cannot be conjugated to show tense—present or past—and truth value—positive or negative. This is a trait that な-adjectives share with nouns, and is one reason why they are often called “nominal (noun-like) adjectives” or “adjectival nouns” in linguistics.",
+    "Just like nouns, な-adjectives can take だ or です to indicate that they are in the present tense. This tells us that the quality described by the adjective is true now or in the future. For example:",
+    "We can also choose to end a sentence with the な-adjective itself, which is common in casual spoken Japanese. In this case, present tense is assumed, even though there is no explicit marker of it, like だ or です:",
+    "When you want to indicate that the quality described by the な-adjective is in the past, you’ll use だった or でした to make it happen. This means that the quality was true before, but is no longer true at this point in time. For example:",
+    "Making a な-adjective negative tells us that the quality described by the word is not true. To do this, you can choose from a few different negative markers, such as じゃない and ではない . Take a look:",
+    "Just like い-adjectives, な-adjectives can be used in two positions to describe a noun: at the end of a sentence, and right before a noun. な-adjectives can do a little more than い-adjectives though. Some な-adjectives can function like a noun, and serve as the subject or object of a sentence.",
+    "When a な-adjective comes at the end of a sentence (or more specifically, in the predicate of a clause), it describes the subject of the sentence. Let’s take a look:",
+    "In this sentence, the な-adjective 人気（にんき） (popular) comes at the end of the sentence, and it is describing the subject noun phrase, 猫（ねこ）のビデオ (cat video).",
+    "It’s very common in Japanese for the subject to be left out of the sentence if what you’re talking about is clear from context. In this case, the な-adjective still describes the subject, you just have to figure out what that subject is.",
+    "Perhaps you’d utter this if you’re in a room full of people on their phones, oohing and awwing over a video of a cute kitten in a teacup. In this case, you’re assuming that the person you’re talking to will understand that you’re referring to cat videos, and not something else. We do something similar in English, when we replace a noun with a pronoun, like “these” in the example sentence.",
+    "When a な-adjective is used directly before a noun, you need to use な directly after the adjective. な is what attaches the adjective to the noun, forming a short noun phrase.",
+    "安全（あんぜん） + な + 場所（ばしょ） = 安全（あんぜん）な場所（ばしょ） safe place a safe place",
+    "These words joined together can be used anywhere that a noun can be used:",
+    "In this sentence, 安全（あんぜん）な場所（ばしょ） is the object of the sentence - it’s what we’re looking for. It could just as easily be used as the subject of the sentence, as in the next example:",
+    "In addition to their ability to describe nouns, some な-adjectives can be used as nouns themselves (Hint: this is why な-adjectives are called “adjectival nouns” in linguistics). These nouns refer to abstract concepts, like “safety” (安全（あんぜん）), “peace” (平和（へいわ）), or “freedom” (自由（じゆう）). When used as a noun, these words can take many roles in a sentence, including the subject or object.",
+    "Combined with the particle に , some な-adjectives can also be used as adverbs.",
+    "For example, if you combine 静（しず）か (quiet) and に, you can form 静（しず）かに (quietly) — an adverb that describes how an action or event happens quietly.",
+    "In the same way, if you combine 綺麗（きれい） (beautiful) with に, you can make 綺麗（きれい）に (beautifully). You can use this to talk about the way flowers bloom.",
+    "Or, how a room was clean and tidy.",
+    "This function is similar to the く form of い-adjectives , which also results in an adverb.",
+    "Modern な-adjectives in Japanese have several different origins. The earliest な-adjectives originated in Japan. These are usually recognizable by the fact that have a hiragana ending, such as 〜か or 〜やか, as in 静（しず）か (quiet) and 賑（にぎ）やか (lively).",
+    "As contact with China increased throughout Japanese history, many new descriptive words were imported into Japanese as な-adjectives. な-adjectives of Chinese origin make up about two-thirds of all な-adjectives. They’re generally quite easy to recognize, because they can be written entirely in kanji, such as 綺麗（きれい） (beautiful), 安全（あんぜん） (safe), and 健康（けんこう） (healthy).",
+    "Today, new words continue to enter Japanese from other languages (including English), and these tend to become な-adjectives as well. Like most foreign loan words from non-kanji using languages, these words are written in katakana. For example, ユニーク (unique), オリジナル (original), and クレージー (crazy) are all used as な-adjectives in Japanese.",
+    "So the question remains: why do な-adjectives take な before a noun? In Old Japanese, にあり was used to show an adjective-like relationship between two words. The adjective-like word came first, and then connected to the noun it describes using にあり. You might recognize the two parts of this phrase, the particle に , and あり — the stem form of the verb ある .",
+    "Slowly, over many years, the way にあり was pronounced shifted and simplified, first becoming なる, and then eventually, becoming な, which is still in use today. The fact that these ancient な-adjectives used a verb ending (あり) when they came before a noun to describe it explains the traditional grammar name for な-adjectives - 形容動詞（けいようどうし）, or “adjectival verb”. While な-adjectives no longer resemble verbs, the ancestor of な itself is a verb. With this in mind, “adjectival verb” starts to make a little more sense, doesn't it?",
+    "In addition to い-adjectives and な-adjectives, some dictionaries and resources list a third kind of Japanese adjective: the の-adjective. If you’ve learned about particle の , you might know that it is used to describe the relationship between two nouns. This can be possession, as in お母（かあ）さんの誕生（たんじょう）日（び） (my mother’s birthday), or it can express identity, as in トヨタの山田（やまだ）さん (Mr. Yamada of Toyota). So in a phrase like 本当（ほんとう）の幸（しあわ）せ (true happiness), why does の come after “true”, which is seemingly an adjective?",
+    "It comes down to the fact that な-adjectives possess traits of both adjectives and nouns, and many can take either な or の to describe a noun, depending on the nuance or meaning that the speaker wants to convey. We like to think of な-adjectives as existing on a spectrum, with some words favoring な, and others (like 本当（ほんとう）) favoring の. Interest piqued? We wrote a whole article about this — read it here .",
+    "This is a small note, but beware of 同（おな）じ (same)! It feels like it should be a な-adjective, but it doesn't function quite like others.",
+    "When used at the end of a sentence, it’s no different than any other な-adjective:",
+    "When you use 同（おな）じ immediately before a noun though, な is not used:",
+    "Ok, so easy enough to remember that 同（おな）じ doesn’t take な before a noun, but…",
+    "As you can see in the example above, when 同（おな）じ is used before a conjunction particle, like のに , it does take な. So the moral of the story is, watch out for 同（おな）じ, because it isn’t the same as other な-adjectives… get it? 😂",
+    "Some な-adjectives are easy to mistake for い-adjectives. For example, きれい (clean) is a な-adjective. However, it ends in い, so you could be forgiven for thinking it's an い-adjective, and try to mark it as past tense with 〜かった or negative with 〜くない . Just remember — な-adjectives use words like だった and じゃない to accomplish this!",
+    "If you’re not sure whether an adjective is an い-adjective or な-adjective, check how it’s written in kanji. Unlike い-adjectives, the final 〜い of these な-adjectives is not in hiragana. For example, the kanji for きれい is 綺麗（きれい）, not 綺麗（きれい）い. The only exception to this is 嫌（きら）い (hateful), which is a な-adjective in spite of the い hanging off the end. 🤷🏻️"
+  ],
+  "examples": [
+    {
+      "japanese": "日本（にっぽん）の電車（でんしゃ）はすごく便利（べんり）だ。",
+      "english": "Trains in Japan are very convenient."
+    },
+    {
+      "japanese": "平日（へいじつ）なら、車（くるま）より電車（でんしゃ）の方（ほう）が便利（べんり）ですよ。",
+      "english": "If we’re talking about a weekday, the train will be more convenient than a car."
+    },
+    {
+      "japanese": "これは便利（べんり）。",
+      "english": "This is convenient."
+    },
+    {
+      "japanese": "子供（こども）の頃（ころ）、この街（まち）は静（しず）かだったけど、今（いま）はにぎやかだね。",
+      "english": "When I was a child, this town was quiet, but now it’s lively."
+    },
+    {
+      "japanese": "親（おや）の時代（じだい）は、ディスコはすごく人気（にんき）でした。",
+      "english": "In my parents’ day and age, disco was super popular."
+    },
+    {
+      "japanese": "あの先生（せんせい）、字（じ）があまり綺麗（きれい）じゃないね。",
+      "english": "That teacher’s handwriting isn’t very neat, is it?"
+    },
+    {
+      "japanese": "チェスは上手（じょうず）ではないが、下手（へた）でもない。",
+      "english": "I’m not good at chess, but I’m not bad at it either."
+    },
+    {
+      "japanese": "最近（さいきん）、猫（ねこ）のビデオが人気（にんき）だよね。",
+      "english": "Lately, cat videos are popular, aren’t they!"
+    },
+    {
+      "japanese": "最近（さいきん）、人気（にんき）だよね。",
+      "english": "Lately, (these) are popular, aren’t they!"
+    },
+    {
+      "japanese": "安全（あんぜん）な場所（ばしょ）を探（さが）してください。",
+      "english": "Please look for a safe place."
+    },
+    {
+      "japanese": "安全（あんぜん）な場所（ばしょ）が一（ひと）つもない。",
+      "english": "There isn’t a single safe place."
+    },
+    {
+      "japanese": "安全（あんぜん）が第（だい）一（いち）だ。",
+      "english": "Safety comes first."
+    },
+    {
+      "japanese": "平和（へいわ）を願（ねが）っています。",
+      "english": "We’re hoping for peace."
+    },
+    {
+      "japanese": "自由（じゆう）を守（まも）りましょう。",
+      "english": "Let’s protect our freedom."
+    },
+    {
+      "japanese": "私（わたし）は静（しず）かにドアを閉（し）めた。",
+      "english": "I closed the door quietly."
+    },
+    {
+      "japanese": "バラが綺麗（きれい）に咲（さ）いていた。",
+      "english": "Roses were blooming beautifully."
+    },
+    {
+      "japanese": "部屋（へや）が綺麗（きれい）に片付（かたづ）いていた。",
+      "english": "The room was very tidy. (Literally: The room was beautifully tidy.)"
+    },
+    {
+      "japanese": "その靴（くつ）は僕（ぼく）のと同（おな）じだ。",
+      "english": "Those shoes are the same as mine!"
+    },
+    {
+      "japanese": "わざと僕（ぼく）と同（おな）じ靴（くつ）を買（か）ったの？",
+      "english": "Did you buy the same shoes as me on purpose?"
+    },
+    {
+      "japanese": "靴（くつ）が同（おな）じなのに、僕（ぼく）の方（ほう）が似合（にあ）ってるよ。",
+      "english": "Our shoes might be the same, but they look better on me."
+    },
+    {
+      "japanese": "❌ 鳥（とり）にフンを落（お）とされる前（まえ）、車（くるま）はきれかった。⭕鳥（とり）にフンを落（お）とされる前（まえ）、車（くるま）はきれいだった。",
+      "english": "The car was clean before a bird pooped on it."
+    },
+    {
+      "japanese": "❌ 私（わたし）の部屋（へや）はきれくない。⭕ 私（わたし）の部屋（へや）はきれいじゃない。",
+      "english": "My room is not clean."
+    },
+    {
+      "japanese": "安全（あんぜん） + な + 場所（ばしょ） = 安全（あんぜん）な場所（ばしょ） safe place a safe place",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "present-tense",
+      "text": "Present Tense"
+    },
+    {
+      "level": 3,
+      "id": "past-tense",
+      "text": "Past Tense"
+    },
+    {
+      "level": 3,
+      "id": "negative--adjectives",
+      "text": "Negative な-adjectives"
+    },
+    {
+      "level": 2,
+      "id": "the-position-of--adjectives-in-a-sentence",
+      "text": "The Position of な-adjectives in a Sentence"
+    },
+    {
+      "level": 3,
+      "id": "at-the-end-of-a-sentence",
+      "text": "At the End of a Sentence"
+    },
+    {
+      "level": 3,
+      "id": "before-a-noun",
+      "text": "Before a Noun"
+    },
+    {
+      "level": 3,
+      "id": "as-a-noun",
+      "text": "As a Noun"
+    },
+    {
+      "level": 3,
+      "id": "as-an-adverb",
+      "text": "As An Adverb"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "the-origin-of--adjectives",
+      "text": "The Origin of な-adjectives"
+    },
+    {
+      "level": 3,
+      "id": "the-historical-development-of-",
+      "text": "The Historical Development of な"
+    },
+    {
+      "level": 3,
+      "id": "what-are--adjectives",
+      "text": "What are の-adjectives?"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "level": 3,
+      "id": "section",
+      "text": "同じ"
+    },
+    {
+      "level": 3,
+      "id": "treating--adjectives-like--adjectives",
+      "text": "Treating な-adjectives like い-adjectives"
+    }
+  ],
+  "id": 119,
+  "slug": "na-adjective",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/na-adjective/",
+  "categories": [
+    "Adjective Form"
+  ]
+}

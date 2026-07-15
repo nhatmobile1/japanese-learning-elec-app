@@ -1,0 +1,185 @@
+{
+  "title": "〜ばよかった",
+  "description": "〜ばよかった expresses regret about the past — \"I wish I had ~\" or \"I should have ~.\" It combines the ば conditional form with よかった (\"it would have been good\").",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take a verb's ば conditional form and add よかった (the past of いい). Literally \"it would have been good if I had ~,\" it expresses looking back and wishing you had done something. It's one of the most natural ways to say \"I should have.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "動詞（どうし）（ば形（けい））＋よかった",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "もっと買（か）えばよかったです。",
+      "english": "I should have bought more."
+    },
+    {
+      "type": "example",
+      "japanese": "言（い）えばよかった。",
+      "english": "I should have said it."
+    },
+    {
+      "type": "example",
+      "japanese": "行（い）けばよかった。",
+      "english": "I should have gone."
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）を飼（か）えばよかった。",
+      "english": "I should have gotten a dog."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "forming-ba",
+      "text": "Forming the ば Form"
+    },
+    {
+      "type": "paragraph",
+      "text": "For u-verbs, change the final -u sound to -eba. For ru-verbs, drop る and add れば. する becomes すれば and 来（く）る becomes 来（く）れば."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Dictionary form",
+          "ば form"
+        ],
+        [
+          "買（か）う",
+          "買（か）えば"
+        ],
+        [
+          "行（い）く",
+          "行（い）けば"
+        ],
+        [
+          "食（た）べる",
+          "食（た）べれば"
+        ],
+        [
+          "する",
+          "すれば"
+        ],
+        [
+          "来（く）る",
+          "来（く）れば"
+        ]
+      ]
+    },
+    {
+      "type": "example",
+      "japanese": "10年（ねん）前（まえ）に化粧品（けしょうひん）を始（はじ）めればよかった。",
+      "english": "I wish I'd started skincare 10 years ago."
+    },
+    {
+      "type": "example",
+      "japanese": "早（はや）く日本語（にほんご）を勉強（べんきょう）すればよかった。",
+      "english": "I should have studied Japanese sooner."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "negative-regret",
+      "text": "Negative Regret: 〜なければよかった"
+    },
+    {
+      "type": "paragraph",
+      "text": "To regret something you did do, use the negative ば form 〜なければよかった — \"I wish I hadn't ~.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "動詞（どうし）（ない形（けい））＋なければよかった",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "去年（きょねん）、天（てん）ぷらのおまかせを食（た）べなければよかったです。",
+      "english": "I wish I hadn't gotten the tempura omakase last year."
+    },
+    {
+      "type": "example",
+      "japanese": "そんなことを言（い）わなければよかった。",
+      "english": "I wish I hadn't said something like that."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "動詞（どうし）（ば形（けい））＋よかった",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "もっと買（か）えばよかったです。",
+      "english": "I should have bought more."
+    },
+    {
+      "japanese": "言（い）えばよかった。",
+      "english": "I should have said it."
+    },
+    {
+      "japanese": "行（い）けばよかった。",
+      "english": "I should have gone."
+    },
+    {
+      "japanese": "犬（いぬ）を飼（か）えばよかった。",
+      "english": "I should have gotten a dog."
+    },
+    {
+      "japanese": "10年（ねん）前（まえ）に化粧品（けしょうひん）を始（はじ）めればよかった。",
+      "english": "I wish I'd started skincare 10 years ago."
+    },
+    {
+      "japanese": "早（はや）く日本語（にほんご）を勉強（べんきょう）すればよかった。",
+      "english": "I should have studied Japanese sooner."
+    },
+    {
+      "japanese": "動詞（どうし）（ない形（けい））＋なければよかった",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "去年（きょねん）、天（てん）ぷらのおまかせを食（た）べなければよかったです。",
+      "english": "I wish I hadn't gotten the tempura omakase last year."
+    },
+    {
+      "japanese": "そんなことを言（い）わなければよかった。",
+      "english": "I wish I hadn't said something like that."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "forming-ba",
+      "text": "Forming the ば Form"
+    },
+    {
+      "level": 2,
+      "id": "negative-regret",
+      "text": "Negative Regret: 〜なければよかった"
+    }
+  ],
+  "id": 1032,
+  "slug": "ba-yokatta",
+  "categories": [
+    "Phrase",
+    "Conditional"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

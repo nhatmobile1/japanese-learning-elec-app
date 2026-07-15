@@ -1,0 +1,192 @@
+{
+  "title": "〜による・〜によって・〜によると",
+  "description": "〜による and 〜によって attach to a noun to mean \"depending on,\" \"by means of,\" or \"due to,\" while 〜によると introduces a source for hearsay — \"according to ...\" — and usually pairs with 〜そうだ.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics: 〜による (Depends On / By Means Of)"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜による comes from the verb 因（よ）る／依（よ）る and attaches to a noun. Its most common conversational use is \"it depends on ~\": 人（ひと）による means \"it depends on the person.\" The polite form is 〜によります. It can also mean \"caused by\" or \"by means of ~.\""
+    },
+    {
+      "type": "formula",
+      "japanese": "名詞（めいし）＋による／によります",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "人（ひと）によります。",
+      "english": "It depends on the person."
+    },
+    {
+      "type": "example",
+      "japanese": "場所（ばしょ）によります。",
+      "english": "It depends on the place."
+    },
+    {
+      "type": "example",
+      "japanese": "給料（きゅうりょう）によります。",
+      "english": "It depends on the salary."
+    },
+    {
+      "type": "example",
+      "japanese": "来年（らいねん）同（おな）じ会社（かいしゃ）にいるかによります。",
+      "english": "It depends on whether I'll be at the same company next year."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ni-yotte",
+      "text": "〜によって: Variation, Means, and Cause"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜によって is the て form of による and has three related uses: variation (\"it varies depending on ~,\" often with 違（ちが）う), means (\"by means of ~\"), and the agent in passive sentences (\"by ~\"). Which meaning applies depends on context."
+    },
+    {
+      "type": "formula",
+      "japanese": "名詞（めいし）＋によって〜違（ちが）う／〜される",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "会社（かいしゃ）によって違（ちが）います。",
+      "english": "It varies depending on the company."
+    },
+    {
+      "type": "example",
+      "japanese": "忙（いそが）しさによって違（ちが）います。",
+      "english": "It varies depending on how busy things are."
+    },
+    {
+      "type": "example",
+      "japanese": "地震（じしん）による被害（ひがい）が大（おお）きかったです。",
+      "english": "The damage caused by the earthquake was severe."
+    },
+    {
+      "type": "example",
+      "japanese": "この小説（しょうせつ）は夏目漱石（なつめそうせき）によって書（か）かれました。",
+      "english": "This novel was written by Natsume Souseki."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "ni-yoru-to",
+      "text": "〜によると: According to (Hearsay)"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜によると names the source of information you are repeating — a person, the news, a forecast. Because you are relaying second-hand information, the sentence almost always ends with a hearsay marker like 〜そうだ, 〜らしい, or 〜という (see 〜そうだ Hearsay)."
+    },
+    {
+      "type": "formula",
+      "japanese": "名詞（めいし）＋によると〜そうだ",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "ニュースによるとトランプは怒（おこ）っているそうです。",
+      "english": "According to the news, Trump is angry."
+    },
+    {
+      "type": "example",
+      "japanese": "ゆかによると、週末（しゅうまつ）日本（にほん）は地震（じしん）があるそうです。",
+      "english": "According to Yuka, there will be an earthquake in Japan this weekend."
+    },
+    {
+      "type": "example",
+      "japanese": "天気予報（てんきよほう）によると、明日（あした）は雨（あめ）だそうです。",
+      "english": "According to the weather forecast, it will rain tomorrow."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "名詞（めいし）＋による／によります",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "人（ひと）によります。",
+      "english": "It depends on the person."
+    },
+    {
+      "japanese": "場所（ばしょ）によります。",
+      "english": "It depends on the place."
+    },
+    {
+      "japanese": "給料（きゅうりょう）によります。",
+      "english": "It depends on the salary."
+    },
+    {
+      "japanese": "来年（らいねん）同（おな）じ会社（かいしゃ）にいるかによります。",
+      "english": "It depends on whether I'll be at the same company next year."
+    },
+    {
+      "japanese": "名詞（めいし）＋によって〜違（ちが）う／〜される",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "会社（かいしゃ）によって違（ちが）います。",
+      "english": "It varies depending on the company."
+    },
+    {
+      "japanese": "忙（いそが）しさによって違（ちが）います。",
+      "english": "It varies depending on how busy things are."
+    },
+    {
+      "japanese": "地震（じしん）による被害（ひがい）が大（おお）きかったです。",
+      "english": "The damage caused by the earthquake was severe."
+    },
+    {
+      "japanese": "この小説（しょうせつ）は夏目漱石（なつめそうせき）によって書（か）かれました。",
+      "english": "This novel was written by Natsume Souseki."
+    },
+    {
+      "japanese": "名詞（めいし）＋によると〜そうだ",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "ニュースによるとトランプは怒（おこ）っているそうです。",
+      "english": "According to the news, Trump is angry."
+    },
+    {
+      "japanese": "ゆかによると、週末（しゅうまつ）日本（にほん）は地震（じしん）があるそうです。",
+      "english": "According to Yuka, there will be an earthquake in Japan this weekend."
+    },
+    {
+      "japanese": "天気予報（てんきよほう）によると、明日（あした）は雨（あめ）だそうです。",
+      "english": "According to the weather forecast, it will rain tomorrow."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics: 〜による (Depends On / By Means Of)"
+    },
+    {
+      "level": 2,
+      "id": "ni-yotte",
+      "text": "〜によって: Variation, Means, and Cause"
+    },
+    {
+      "level": 2,
+      "id": "ni-yoru-to",
+      "text": "〜によると: According to (Hearsay)"
+    }
+  ],
+  "id": 1025,
+  "slug": "ni-yoru",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

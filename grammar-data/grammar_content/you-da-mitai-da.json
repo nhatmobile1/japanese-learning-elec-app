@@ -1,0 +1,147 @@
+{
+  "title": "〜ようだ・〜みたいだ",
+  "description": "〜ようだ and 〜みたいだ both mean \"it seems / it appears,\" a conjecture drawn from your own observation. They also form similes — \"like a…\" — with 〜みたいだ being the casual spoken version of the more formal 〜ようだ.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Use 〜ようだ or 〜みたいだ to state what seems to be true based on evidence you've personally taken in and reasoned about. 〜ようだ attaches to the plain form; a noun needs の (病気（びょうき）のようだ) and a な-adjective needs な (静（しず）かなようだ). 〜みたいだ is the casual equivalent and attaches directly — noun and な-adjective take nothing extra (病気（びょうき）みたいだ, 静（しず）かみたいだ)."
+    },
+    {
+      "type": "formula",
+      "japanese": "plain form ＋ ようだ ／ みたいだ　（noun: の＋ようだ ／ noun＋みたいだ）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "誰（だれ）かが部屋（へや）にいるようだ。",
+      "english": "It seems someone is in the room."
+    },
+    {
+      "type": "example",
+      "japanese": "明日（あした）は雨（あめ）が降（ふ）るみたいです。",
+      "english": "It looks like it's going to rain tomorrow."
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）は風邪（かぜ）をひいたみたいだ。",
+      "english": "He seems to have caught a cold."
+    },
+    {
+      "type": "example",
+      "japanese": "この道（みち）は間違（まちが）っているようだ。",
+      "english": "It seems this road is the wrong one."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "simile",
+      "text": "Similes: 〜みたいに・〜ように (\"like…\")"
+    },
+    {
+      "type": "paragraph",
+      "text": "Both words also make comparisons — \"like a ~.\" Use noun ＋ みたい or noun ＋ の ＋ よう to say one thing resembles another. To describe how an action is done (\"treated them like numbers\"), use the adverb forms 〜みたいに and 〜ように."
+    },
+    {
+      "type": "formula",
+      "japanese": "noun ＋ みたい ／ noun ＋ の ＋ よう　＝ like a 〜　（adverb: 〜みたいに ／ 〜ように）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "カステラはデザートみたいでした。",
+      "english": "The castella was like a dessert."
+    },
+    {
+      "type": "example",
+      "japanese": "あの会社（かいしゃ）は社員（しゃいん）を番号（ばんごう）みたいに扱（あつか）っていました。",
+      "english": "That company treated its employees like numbers."
+    },
+    {
+      "type": "example",
+      "japanese": "彼女（かのじょ）は天使（てんし）のように優（やさ）しい。",
+      "english": "She's kind like an angel."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "you-vs-mitai",
+      "text": "ようだ vs みたいだ"
+    },
+    {
+      "type": "paragraph",
+      "text": "The meaning is the same — the difference is register. 〜ようだ is more formal and common in writing and careful speech; 〜みたいだ is casual and everyday. There's also the even more formal 〜のようだ for writing. When you observe and reason for yourself, ようだ／みたいだ fit; when you're relaying pure hearsay, use そうだ instead."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "plain form ＋ ようだ ／ みたいだ　（noun: の＋ようだ ／ noun＋みたいだ）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "誰（だれ）かが部屋（へや）にいるようだ。",
+      "english": "It seems someone is in the room."
+    },
+    {
+      "japanese": "明日（あした）は雨（あめ）が降（ふ）るみたいです。",
+      "english": "It looks like it's going to rain tomorrow."
+    },
+    {
+      "japanese": "彼（かれ）は風邪（かぜ）をひいたみたいだ。",
+      "english": "He seems to have caught a cold."
+    },
+    {
+      "japanese": "この道（みち）は間違（まちが）っているようだ。",
+      "english": "It seems this road is the wrong one."
+    },
+    {
+      "japanese": "noun ＋ みたい ／ noun ＋ の ＋ よう　＝ like a 〜　（adverb: 〜みたいに ／ 〜ように）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "カステラはデザートみたいでした。",
+      "english": "The castella was like a dessert."
+    },
+    {
+      "japanese": "あの会社（かいしゃ）は社員（しゃいん）を番号（ばんごう）みたいに扱（あつか）っていました。",
+      "english": "That company treated its employees like numbers."
+    },
+    {
+      "japanese": "彼女（かのじょ）は天使（てんし）のように優（やさ）しい。",
+      "english": "She's kind like an angel."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "simile",
+      "text": "Similes: 〜みたいに・〜ように (\"like…\")"
+    },
+    {
+      "level": 2,
+      "id": "you-vs-mitai",
+      "text": "ようだ vs みたいだ"
+    }
+  ],
+  "id": 1009,
+  "slug": "you-da-mitai-da",
+  "categories": [
+    "Phrase",
+    "Uncertainty"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

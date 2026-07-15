@@ -1,0 +1,328 @@
+{
+  "title": "こなた・そなた・あなた・どなた",
+  "description": "こなた, そなた, あなた and どなた are a set of こそあど言葉（ことば） (ko-so-a-do words). The first three all mean \"you,\" though only あなた is still in use today, and どなた is a polite way to ask \"who?\"",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "こなた, そなた, あなた and どなた are a set of こそあど words, though the first two are archaic. あなた refers to the person you're talking to, and どなた asks \"who?\" politely, especially meant for the person you're talking to."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど."
+    },
+    {
+      "type": "paragraph",
+      "text": "Additionally, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is how こそあど words work when referring to a physical object that you can see:"
+    },
+    {
+      "type": "formula",
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you'd like to see scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "こなた, そなた, あなた and どなた can be used in sentences in, more or less, the same fashion as nouns."
+    },
+    {
+      "type": "example",
+      "japanese": "あなたのお名前（なまえ）は何（なに）ですか？",
+      "english": "What is your name?"
+    },
+    {
+      "type": "example",
+      "japanese": "この方（ほう）はどなたですか？",
+      "english": "Who is this gentleman?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-you",
+      "text": "こなた, そなた, あなた for \"You\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Although こなた and そなた are now archaic, all three of these words were once used to refer to the second person , as in \"you,\" in classical Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "The difference between these words was the level of formality. In general, こなた was considered casual, そなた was neutral, and あなた was respectful, though the level of respect they carried varied over time."
+    },
+    {
+      "type": "paragraph",
+      "text": "In modern Japanese, あなた is the only one that is still used to mean \"you,\" but the level of respect associated with it has decreased. Although it can be used in a similar way to \"you\" in English, the nuance changes depending on the context. For more information, read our article \" Is あなた Polite or Rude? \""
+    },
+    {
+      "type": "paragraph",
+      "text": "That being said, you may still come across こなた and そなた in period pieces, classical writing, manga, or the like. For example, the following is a common way to ask someone's name in writing set to a long time ago, and is often used by characters who have an old-fashioned way of speaking:"
+    },
+    {
+      "type": "example",
+      "japanese": "そなた、名（な）を何（なん）と言（い）う？",
+      "english": "You, what is your name?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-who",
+      "text": "どなた for \"Who?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "どなた is a question word, meaning \"who?\" It's generally used to politely ask for the name of the person you're talking to."
+    },
+    {
+      "type": "example",
+      "japanese": "失礼（しつれい）ですが、どなたですか？",
+      "english": "Excuse me, may I have your name, please?"
+    },
+    {
+      "type": "paragraph",
+      "text": "どなた can also be paired with the honorific suffix 様（さま）:"
+    },
+    {
+      "type": "example",
+      "japanese": "失礼（しつれい）ですが、どなた様（さま）でしょうか？",
+      "english": "Excuse me, may I have your name, please?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, 様（さま） can add extra politeness, but polite language generally increases the distance between you and the person you are addressing. So some people may intentionally choose to use 様（さま） to emphasize this distance while sarcastically implying, \"I don't know you, who are you?\" in a polite manner."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-places-and-directions",
+      "text": "こなた, そなた, あなた for Places and Directions"
+    },
+    {
+      "type": "paragraph",
+      "text": "In classical Japanese, こなた, そなた, and あなた were also used to refer to places or directions. These uses are similar to こちら, そちら, and あちら in modern Japanese. As you might expect, こなた is used for a direction or place that's close to you, そなた is for a direction or place a little farther from you, or close to the person you are addressing, and あなた is for a direction or place that is far away from you and everyone else you're talking to."
+    },
+    {
+      "type": "paragraph",
+      "text": "For a place that is far away, there is also the word 彼方（かなた）. 彼方（かなた） is the older version of あなた, but this word is still in use when indicating a place far away, especially to make writing sound a little poetic."
+    },
+    {
+      "type": "example",
+      "japanese": "砂丘（さきゅう）のはるか彼方（かなた）に明（あ）かりが見（み）えた。",
+      "english": "I saw a light far in the distance across the sand dunes."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-this-person",
+      "text": "こなた for \"This Person\""
+    },
+    {
+      "type": "paragraph",
+      "text": "In classical Japanese, こなた can also mean \"this person.\" For example, in the Tale of Genji 1 , there is this sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "いづかたも皆（みな）、こなたの御（ご）けはひには、かたさり 憚（はばか）るさまにて。",
+      "english": "Everyone seemed to be uncomfortable with this person's behavior."
+    },
+    {
+      "type": "paragraph",
+      "text": "This use is similar to こちら (and its formal version この方（ほう）) in modern Japanese."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-me",
+      "text": "こなた for \"Me\""
+    },
+    {
+      "type": "paragraph",
+      "text": "In classical Japanese, こなた can also mean \"I\" or \"me.\" For example, in the Noh chant, \"Sumida River,\" there is this sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "こなたの念仏（ねんぶつ）をば 留（とど）め候（こう）ふべし。",
+      "english": "Let me stop chanting a prayer to the Buddha."
+    },
+    {
+      "type": "paragraph",
+      "text": "This use is also similar to こちら in modern Japanese, and in this case, you are referring to yourself as \"this side\" (my side)."
+    },
+    {
+      "type": "paragraph",
+      "text": "in the \"New Herbs I\" (Wakana I) chapter &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "こなた, そなた, あなた and どなた are a set of こそあど words, though the first two are archaic. あなた refers to the person you're talking to, and どなた asks \"who?\" politely, especially meant for the person you're talking to.",
+    "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど.",
+    "Additionally, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play.",
+    "Here is how こそあど words work when referring to a physical object that you can see:",
+    "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question.",
+    "If you'd like to see scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !",
+    "こなた, そなた, あなた and どなた can be used in sentences in, more or less, the same fashion as nouns.",
+    "Although こなた and そなた are now archaic, all three of these words were once used to refer to the second person , as in \"you,\" in classical Japanese.",
+    "The difference between these words was the level of formality. In general, こなた was considered casual, そなた was neutral, and あなた was respectful, though the level of respect they carried varied over time.",
+    "In modern Japanese, あなた is the only one that is still used to mean \"you,\" but the level of respect associated with it has decreased. Although it can be used in a similar way to \"you\" in English, the nuance changes depending on the context. For more information, read our article \" Is あなた Polite or Rude? \"",
+    "That being said, you may still come across こなた and そなた in period pieces, classical writing, manga, or the like. For example, the following is a common way to ask someone's name in writing set to a long time ago, and is often used by characters who have an old-fashioned way of speaking:",
+    "どなた is a question word, meaning \"who?\" It's generally used to politely ask for the name of the person you're talking to.",
+    "どなた can also be paired with the honorific suffix 様（さま）:",
+    "In this case, 様（さま） can add extra politeness, but polite language generally increases the distance between you and the person you are addressing. So some people may intentionally choose to use 様（さま） to emphasize this distance while sarcastically implying, \"I don't know you, who are you?\" in a polite manner.",
+    "In classical Japanese, こなた, そなた, and あなた were also used to refer to places or directions. These uses are similar to こちら, そちら, and あちら in modern Japanese. As you might expect, こなた is used for a direction or place that's close to you, そなた is for a direction or place a little farther from you, or close to the person you are addressing, and あなた is for a direction or place that is far away from you and everyone else you're talking to.",
+    "For a place that is far away, there is also the word 彼方（かなた）. 彼方（かなた） is the older version of あなた, but this word is still in use when indicating a place far away, especially to make writing sound a little poetic.",
+    "In classical Japanese, こなた can also mean \"this person.\" For example, in the Tale of Genji 1 , there is this sentence:",
+    "This use is similar to こちら (and its formal version この方（ほう）) in modern Japanese.",
+    "In classical Japanese, こなた can also mean \"I\" or \"me.\" For example, in the Noh chant, \"Sumida River,\" there is this sentence:",
+    "This use is also similar to こちら in modern Japanese, and in this case, you are referring to yourself as \"this side\" (my side).",
+    "in the \"New Herbs I\" (Wakana I) chapter &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "あなたのお名前（なまえ）は何（なに）ですか？",
+      "english": "What is your name?"
+    },
+    {
+      "japanese": "この方（ほう）はどなたですか？",
+      "english": "Who is this gentleman?"
+    },
+    {
+      "japanese": "そなた、名（な）を何（なん）と言（い）う？",
+      "english": "You, what is your name?"
+    },
+    {
+      "japanese": "失礼（しつれい）ですが、どなたですか？",
+      "english": "Excuse me, may I have your name, please?"
+    },
+    {
+      "japanese": "失礼（しつれい）ですが、どなた様（さま）でしょうか？",
+      "english": "Excuse me, may I have your name, please?"
+    },
+    {
+      "japanese": "砂丘（さきゅう）のはるか彼方（かなた）に明（あ）かりが見（み）えた。",
+      "english": "I saw a light far in the distance across the sand dunes."
+    },
+    {
+      "japanese": "いづかたも皆（みな）、こなたの御（ご）けはひには、かたさり 憚（はばか）るさまにて。",
+      "english": "Everyone seemed to be uncomfortable with this person's behavior."
+    },
+    {
+      "japanese": "こなたの念仏（ねんぶつ）をば 留（とど）め候（こう）ふべし。",
+      "english": "Let me stop chanting a prayer to the Buddha."
+    },
+    {
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are further from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "for-you",
+      "text": "こなた, そなた, あなた for \"You\""
+    },
+    {
+      "level": 3,
+      "id": "for-who",
+      "text": "どなた for \"Who?\""
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "for-places-and-directions",
+      "text": "こなた, そなた, あなた for Places and Directions"
+    },
+    {
+      "level": 3,
+      "id": "for-this-person",
+      "text": "こなた for \"This Person\""
+    },
+    {
+      "level": 3,
+      "id": "for-me",
+      "text": "こなた for \"Me\""
+    }
+  ],
+  "id": 103,
+  "slug": "konata-sonata-anata-donata",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/konata-sonata-anata-donata/",
+  "categories": [
+    "Demonstrative"
+  ]
+}

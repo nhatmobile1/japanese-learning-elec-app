@@ -1,0 +1,137 @@
+{
+  "title": "〜ため（に）",
+  "description": "〜ため（に）marks a purpose (\"in order to\"), a beneficiary (\"for the sake of\"), or a cause (\"because of / due to\") depending on context. It is more formal than 〜から・〜ので and is common in written Japanese.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "In its most common use, 〜ため（に）expresses purpose or benefit. Attach ために to a dictionary-form verb to mean \"in order to\" do it, or to a noun with の to mean \"for the sake of\" that person or thing. 痩（や）せる → 痩（や）せるために (\"in order to lose weight\"); 子供（こども）→ 子供（こども）のために (\"for the children\")."
+    },
+    {
+      "type": "formula",
+      "japanese": "dictionary form ＋ ために　／　noun ＋ の ＋ ために　（in order to／for the sake of）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "痩（や）せるために毎朝（まいあさ）走（はし）っています。",
+      "english": "I run every morning in order to lose weight."
+    },
+    {
+      "type": "example",
+      "japanese": "マディちゃんのためにクッキーを買（か）いました。",
+      "english": "I bought cookies for Maddie."
+    },
+    {
+      "type": "example",
+      "japanese": "イベントのために予定（よてい）を作（つく）っています。",
+      "english": "I'm putting together a schedule for the event."
+    },
+    {
+      "type": "example",
+      "japanese": "お客様（きゃくさま）に来（き）てもらうために何（なに）をしますか。",
+      "english": "What will you do to get the customers to come?"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "as-cause",
+      "text": "As a Cause: 〜ため \"due to\""
+    },
+    {
+      "type": "paragraph",
+      "text": "〜ため also states a cause — \"because of\" or \"due to.\" In this meaning に is usually dropped, and the tone is formal and objective, which makes it the standard choice for announcements, news, and signs. Attach it to a noun with の or to a plain-form clause."
+    },
+    {
+      "type": "formula",
+      "japanese": "noun ＋ の ＋ ため　／　plain form ＋ ため　（because of／due to）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "台風（たいふう）のため、電車（でんしゃ）が止（と）まっています。",
+      "english": "Due to the typhoon, the trains are stopped."
+    },
+    {
+      "type": "example",
+      "japanese": "スモッグがひどいため、マスクをつけます。",
+      "english": "Because the smog is bad, I wear a mask."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "tame-vs-kara-node",
+      "text": "ため vs から・ので"
+    },
+    {
+      "type": "paragraph",
+      "text": "All three give a reason, but 〜ため is the most formal and impersonal — it fits written and public language (工事（こうじ）のため通行止（つうこうど）め, \"closed due to construction\"). 〜から is subjective and assertive (\"because I say so\"), and 〜ので is softer and more polite for everyday speech. Note that only the cause meaning of ため competes with these; when ために means \"in order to,\" it is about purpose, not reason, so it can't be swapped for から・ので."
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "dictionary form ＋ ために　／　noun ＋ の ＋ ために　（in order to／for the sake of）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "痩（や）せるために毎朝（まいあさ）走（はし）っています。",
+      "english": "I run every morning in order to lose weight."
+    },
+    {
+      "japanese": "マディちゃんのためにクッキーを買（か）いました。",
+      "english": "I bought cookies for Maddie."
+    },
+    {
+      "japanese": "イベントのために予定（よてい）を作（つく）っています。",
+      "english": "I'm putting together a schedule for the event."
+    },
+    {
+      "japanese": "お客様（きゃくさま）に来（き）てもらうために何（なに）をしますか。",
+      "english": "What will you do to get the customers to come?"
+    },
+    {
+      "japanese": "noun ＋ の ＋ ため　／　plain form ＋ ため　（because of／due to）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "台風（たいふう）のため、電車（でんしゃ）が止（と）まっています。",
+      "english": "Due to the typhoon, the trains are stopped."
+    },
+    {
+      "japanese": "スモッグがひどいため、マスクをつけます。",
+      "english": "Because the smog is bad, I wear a mask."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "as-cause",
+      "text": "As a Cause: 〜ため \"due to\""
+    },
+    {
+      "level": 2,
+      "id": "tame-vs-kara-node",
+      "text": "ため vs から・ので"
+    }
+  ],
+  "id": 1010,
+  "slug": "tame-ni",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}

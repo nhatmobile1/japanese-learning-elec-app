@@ -1,0 +1,1047 @@
+{
+  "title": "Particle が (Subject)",
+  "description": "が marks the subject of a sentence. In other words, whatever comes before が is the person or thing that's doing whatever comes next.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle が goes after a noun to show us that the noun is the subject of a sentence. That is, the noun before が is the person or thing that's doing whatever comes next. In other words, が marks the grammatical subject. Beyond marking the subject, が also puts emphasis onto that subject, and excludes other possible subjects."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle が always goes immediately after a noun — or something that behaves like a noun — to show that this noun is the subject. For example, in the sentence below, あの犬（いぬ） (dog) is the subject. It is the one doing what comes next. In this case, that's the verb \"barked\":"
+    },
+    {
+      "type": "example",
+      "japanese": "あの犬（いぬ）が吠（ほ）えた。",
+      "english": "That dog barked."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this next sentence, the subject is 誰（だれ）か (someone), and that someone is doing what comes next, in this case \"existing\":"
+    },
+    {
+      "type": "example",
+      "japanese": "誰（だれ）かがいる。",
+      "english": "Someone's here. (Literally: Someone exists.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this final example, the subject is この納豆（なっとう） (this natto). What is \"this natto\" doing? It's being delicious 🤤"
+    },
+    {
+      "type": "example",
+      "japanese": "この納豆（なっとう）がおいしい。",
+      "english": "This natto is delicious."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing が"
+    },
+    {
+      "type": "paragraph",
+      "text": "So just to recap, the particle が points a finger at the subject in the sentence, and in doing so puts emphasis on that subject, telling us that it is a very important piece of information in the sentence. We like to think of が as the witness in a police lineup. It is picking out the subject from a lineup of potential subjects, and saying, \"this is the one that did it.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "As with a lineup, the act of picking out the subject — the doer — also lets the others in the lineup off the hook. So, が is simultaneously telling us what the subject is, putting emphasis on it, and making it clear that nothing else is the subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "To give you a better idea of what we mean, let's look at an example. Imagine everyone at Tofugu is hanging out, and someone from outside the company is trying to figure out which one of us is the president. They might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "どの方（ほう）がトーフグの社長（しゃちょう）さんですか？",
+      "english": "Which person is the president of Tofugu?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Koichi raises his hand shyly and says:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）が社長（しゃちょう）です。",
+      "english": "I'm the president."
+    },
+    {
+      "type": "paragraph",
+      "text": "Both the question and the answer use が, because が emphasizes that Koichi is the president, and excludes everyone else from that position."
+    },
+    {
+      "type": "paragraph",
+      "text": "By way of comparison, if someone asked Koichi what his role was, he might answer 私（わたし）は社長（しゃちょう）です. To read more about the differences in nuance created by は and が, take a look at our article ."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "subject-omission",
+      "text": "Subject Omission"
+    },
+    {
+      "type": "paragraph",
+      "text": "Subject omission is extremely common in Japanese when we know what that subject is from context. Take a look at the dialogue below, for example:"
+    },
+    {
+      "type": "example",
+      "japanese": "うちの犬（いぬ）が何（なに）かしましたか。",
+      "english": "Did our dog do something to you?"
+    },
+    {
+      "type": "example",
+      "japanese": "吠（ほ）えました。",
+      "english": "It barked."
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, we use \"it\" to refer to the dog. We can't just say \"barked.\" In Japanese, however, we can simply use the verb, and leave the subject out altogether. In this context, every Japanese speaker knows we're talking about the dog, so there's no need to mention a subject at all."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because it's so common to leave out the subject, leaving it in can often bring a certain nuance to the sentence. This isn't actually all that different from English. For example, imagine we responded to the question above with:"
+    },
+    {
+      "type": "example",
+      "japanese": "おたくの犬（いぬ）が吠（ほ）えました。",
+      "english": "Your dog barked."
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, referring to the subject as \"your dog\" rather than \"it\" throws a certain emphasis onto the dog, right? The same is true of the Japanese version. Choosing to include the subject when it's more natural to leave it out leads to the subject being emphasized. Maybe you're doing that to show how annoyed you are about the dog barking at you, or maybe the dog is freaking you out."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "omission",
+      "text": "が Omission"
+    },
+    {
+      "type": "paragraph",
+      "text": "Even when the subject is included, it is really common to omit が in informal speaking, as well as writing that closely resembles spoken styles, like casual text messages. This generally doesn't result in any significant difference in nuance."
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）(が)吠（ほ）えた。",
+      "english": "The dog barked."
+    },
+    {
+      "type": "example",
+      "japanese": "誰（だれ）か(が)いる。",
+      "english": "Someone's here."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's also possible to omit が in polite speaking. Again, in this case there is little or no difference in the nuance. It simply comes down to the individual preference."
+    },
+    {
+      "type": "example",
+      "japanese": "お車（くるま）(が)到着（とうちゃく）致（いた）しました。",
+      "english": "The car has arrived."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, there are some circumstances in which you can't omit が. Remember how we said that が is used to pick the subject out of a crowd? Well, when that's its main role in the sentence, が has to stay put."
+    },
+    {
+      "type": "example",
+      "japanese": "ジェニーが犯人（はんにん）だ。",
+      "english": "Jenny's the culprit."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, we really are pointing our fingers at the perpetrator, and ruling out other suspects. が would therefore always be kept in sentences like these."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-objects",
+      "text": "が with \"Objects\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Many textbooks and linguists say that が can also mark the object, but others believe it's still marking the subject in these situations. We believe that it's more helpful and consistent to consider that が always marks the subject in Japanese, even when the same word is the object in the English translation."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "with-verb-like-adjectives",
+      "text": "が with Verb-like adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "The first obvious example of this is the use of が with things we like, love, hate, want, and so on. In English, the objects of our desire or distaste are exactly that — objects. In Japanese, however, they can be considered subjects, because they are the ones that are desirable, or detestable."
+    },
+    {
+      "type": "example",
+      "japanese": "梅干（うめぼし）が大好（だいす）き。",
+      "english": "I love umeboshi. (Literally: Umeboshi is loveable)"
+    },
+    {
+      "type": "example",
+      "japanese": "小犬（こいぬ）が欲（ほ）しい。",
+      "english": "I want a puppy. (Literally: A puppy is desired)"
+    },
+    {
+      "type": "example",
+      "japanese": "そういうのが嫌（きら）いだよ。",
+      "english": "I hate that sort of thing. (Literally: That sort of thing is detestable)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, the subject of these sentences is clearly \"I.\" In Japanese, though, we can argue that 梅干（うめぼし） (umeboshi), 子犬（こいぬ） (puppy), and そういうの (that sort of thing) are the subjects of the adjectives that follow them. The person doing the loving, wanting, or hating — who doesn't need to be specified in Japanese when it's obvious, and especially when they're the speaker — is considered to be either the invisible topic, or another invisible subject, depending on whom you ask. And 大好（だいす）き (loveable), 欲（ほ）しい (desired), and 嫌（きら）い (detestable) are all adjectives that describe their respective subjects."
+    },
+    {
+      "type": "paragraph",
+      "text": "To move onto another example, \"want\" is a verb that generally takes an object in English. You want something. That thing is the object, and you're the subject."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not in Japanese. To say that you want to do something in Japanese, you can change the verb into the たい form, as in 食（た）べたい (I want to eat)."
+    },
+    {
+      "type": "example",
+      "japanese": "梅干（うめぼし）が食（た）べたい。",
+      "english": "I want to eat umeboshi."
+    },
+    {
+      "type": "paragraph",
+      "text": "See that い on the end? That's a clue that this form has basically \"become\" an い-adjective , so it can now act like other い-adjectives in lots of ways. To follow our logic from earlier a little further, we can think of this as literally meaning, \"Umeboshi is desirable to eat for me.\" This might feel like even more of a stretch than the others, but it can be helpful in understanding the difference in structure between English and Japanese!"
+    },
+    {
+      "type": "paragraph",
+      "text": "We should point out that it's also totally possible to say 梅干（うめぼし）を食（た）べたい, but this changes the nuance somewhat. The most likely interpretation if you use を is that you're not only craving pickled plums, but you are more practically thinking about eating some. The particle を shows that you have more intention of following up on what you want. The sentence with が, on the other hand, implies that you have a spontaneous desire to eat pickled plums, which may or may not be fulfilled."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "with-verbs-that-describe-states",
+      "text": "が with Verbs that Describe States"
+    },
+    {
+      "type": "paragraph",
+      "text": "Have a look at the sentence below, along with its most obvious translation into English:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）が分（わ）かる。",
+      "english": "I understand Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although this is the most natural way to translate it into English, it doesn't show us what's really going on in the Japanese sentence. It would probably be more helpful (but of course less natural) to translate it as:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）が分（わ）かる。",
+      "english": "Japanese is comprehensible (to me)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The same is true of verbs like できる:"
+    },
+    {
+      "type": "example",
+      "japanese": "それができる。",
+      "english": "I can do that."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, a more helpful translation might be:"
+    },
+    {
+      "type": "example",
+      "japanese": "それができる。",
+      "english": "That is doable (for me)."
+    },
+    {
+      "type": "example",
+      "japanese": "その人（ひと）が見（み）える。",
+      "english": "I can see that person. (Literally: That person is visible (to me).)"
+    },
+    {
+      "type": "example",
+      "japanese": "音楽（おんがく）が聞（き）こえる。",
+      "english": "I can hear music. (Literally: Music is audible (to me).)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This actually boils down to the difference in where we draw the line of what is a subject in English, compared with what it is in Japanese. In English, \"understand\" and \"can see\" are used in a transitive way, which means that the things that are understood and seen are the grammatical objects of the sentence. However, the Japanese equivalents 分（わ）かる and 見（み）える are intransitive , which means that the subject does something all by itself, rather than having something done to it."
+    },
+    {
+      "type": "paragraph",
+      "text": "You can read more about the different takes on transitivity in English and Japanese here ."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "with-verbs-for-exist",
+      "text": "が with Verbs for \"Exist\""
+    },
+    {
+      "type": "paragraph",
+      "text": "We're already seen an example of the verb いる used in it's basic meaning \"to exist.\" You can also use the verbs ある and いる (both \"exist\") to talk about things that you have. In this case, が is still used to show us what exists."
+    },
+    {
+      "type": "example",
+      "japanese": "私（に）は夢（ゆめ）がある。",
+      "english": "I have a dream. (Literally: A dream exists for me.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, the dream is the object of the verb, because we consider that we are doing the having to the dream. In Japanese, on the other hand, the dream is the one that's doing the action — it's existing."
+    },
+    {
+      "type": "paragraph",
+      "text": "The exact same logic is behind these next two sentences:"
+    },
+    {
+      "type": "example",
+      "japanese": "かなえ（に）は可愛（かわい）い犬（いぬ）がいる。",
+      "english": "Kanae has a cute dog. (Literally: A cute dog exists for Kanae.)"
+    },
+    {
+      "type": "example",
+      "japanese": "まみ（に）は素敵（すてき）な子供（こども）が二（に）人（にん）いる。",
+      "english": "Mami has two lovely kids. (Literally: Two lovely kids exist for Mami.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "In English, the Kanae and Mami are doing the having. In Japanese, the dog and kids are doing the existing."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-relative-clauses",
+      "text": "が in Relative Clauses"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle が is generally used in relative clauses — clauses that give extra info, not vital to the sentence — even if は is used in the corresponding main clause ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at an example of a main clause first:"
+    },
+    {
+      "type": "example",
+      "japanese": "スミスさんはお金（かね）を見（み）つけた。",
+      "english": "Mr Smith found some money."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a complete sentence in its own right (a main clause). In this example, it's most likely that スミスさん is considered the topic and marked with the topic marker は . If we did choose to marks スミスさん with が, it would often be to pick him out specifically, and emphasize that others didn't find the money."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if the sentence is a little more complicated and includes a relative clause, it's more common to use が than は:"
+    },
+    {
+      "type": "example",
+      "japanese": "[スミスさんが見（み）つけた]お金（かね）だ。",
+      "english": "That's the money [that Mr Smith found]."
+    },
+    {
+      "type": "paragraph",
+      "text": "In relative clauses like these, が can generally be replaced with の, as in this example:"
+    },
+    {
+      "type": "example",
+      "japanese": "[スミスさんの見（み）つけた]お金（かね）だ。",
+      "english": "That's the money [that Mr Smith found]."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at another example of when の can replace が:"
+    },
+    {
+      "type": "example",
+      "japanese": "スイスは物価（ぶっか）が高（たか）い。",
+      "english": "Switzerland has a high cost of living. (Literally: As for Switzerland, the prices are high.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is also a complete sentence. Here, we cannot replace が with の."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we want to use it as a relative clause, and describe something with it, we can put it in front of the noun that we want to describe. In the following example, the noun we want to describe is 国（くに） (country):"
+    },
+    {
+      "type": "example",
+      "japanese": "スイスは[物価（ぶっか）が高（たか）い]国（こく）だ。",
+      "english": "Switzerland is a country [where the cost of living is high]. (Literally: As for Switzerland, it's a country that has high prices.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Now we can replace this が with の:"
+    },
+    {
+      "type": "example",
+      "japanese": "スイスは[物価（ぶっか）の高（たか）い国（くに）]だ。",
+      "english": "Switzerland is a country [where the cost of living is high]. (Literally: As for Switzerland, it's a country that has high prices.)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Whether you choose が or の is mostly a question of style, as の can make the sentence flow more easily."
+    },
+    {
+      "type": "paragraph",
+      "text": "The reason that が and の are sometimes interchangeable in this way is rooted in the past, the remnants of which can still be seen in the way が appears in set expressions like 我（わ）が国（くに） (our country), 我（わ）が子（こ） (our child), 我（わ）が家（や） (our home) and so on."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-embedded-clauses",
+      "text": "が in Embedded Clauses"
+    },
+    {
+      "type": "paragraph",
+      "text": "が is also generally used in embedded clauses even if は is used in the corresponding main clause. Let's go back to our noisy dog to see what we mean:"
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）は吠（ほ）えました。",
+      "english": "The dog barked."
+    },
+    {
+      "type": "paragraph",
+      "text": "But if someone tells you that the dog barked, what that person said becomes an \"embedded clause\" and, just like with relative clauses, particle が is the more typical choice:"
+    },
+    {
+      "type": "example",
+      "japanese": "犬（いぬ）が吠（ほ）えたと言（い）いました。",
+      "english": "They said that the dog had barked."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just in case you were wondering, the particle の can't replace が in this case!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "two-subjects-with-",
+      "text": "Two Subjects with が"
+    },
+    {
+      "type": "paragraph",
+      "text": "It's possible to have two subjects, each marked by が, in a Japanese sentence. However, when this is the main clause, one of the subjects will usually be presented as the topic, as we saw earlier in this example:"
+    },
+    {
+      "type": "example",
+      "japanese": "スイスは物価（ぶっか）が高（たか）い。",
+      "english": "Switzerland has a high cost of living."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we choose to keep both が in a main clause, its nuance of excluding other subjects and emphasizing this one subject is heightened:"
+    },
+    {
+      "type": "example",
+      "japanese": "スイスが物価（ぶっか）が高（たか）い。",
+      "english": "It's Switzerland that has a high cost of living."
+    },
+    {
+      "type": "paragraph",
+      "text": "If it's an embedded clause, though, が loses that emphasis:"
+    },
+    {
+      "type": "example",
+      "japanese": "先生（せんせい）はスイスが物価（ぶっか）が高（たか）いと言（い）いました。",
+      "english": "The teacher said that Switzerland has a high cost of living."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Vocabulary"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "犬（いぬ） (いぬ) — dog (noun)"
+        ],
+        [
+          "吠（ほ）えた (ほえた) — barked (ichidan verb / past tense)"
+        ],
+        [
+          "誰（だれ）か (だれか) — someone (indefinite pronoun)"
+        ],
+        [
+          "居（い）る (いる) — to have, to exist (for animate things) (ichidan verb / non-past tense)"
+        ],
+        [
+          "納豆（なっとう） (なっとう) — natto, fermented soybeans (noun)"
+        ],
+        [
+          "美味（おい）しい (おいしい) — delicious (い-adjective / non-past tense)"
+        ],
+        [
+          "方（かた） (かた) — person (noun)"
+        ],
+        [
+          "私（わたし） (わたし) — I, me (personal pronoun)"
+        ],
+        [
+          "社長（しゃちょう） (しゃちょう) — company president (noun)"
+        ],
+        [
+          "何（なに）か (なにか) — something (indefinite pronoun)"
+        ],
+        [
+          "しました (しました) — did (irregular verb / polite form / past tense)"
+        ],
+        [
+          "吠（ほ）えました (ほえました) — barked (ichidan verb / polite form / past tense)"
+        ],
+        [
+          "お宅（たく） (おたく) — you, your house (personal pronoun)"
+        ],
+        [
+          "車（くるま） (くるま) — car (noun)"
+        ],
+        [
+          "到着（とうちゃく） (とうちゃく) — arrival (noun, verbal noun)"
+        ],
+        [
+          "致（いた）しました (いたしました) — did (humble) (godan verb / past tense)"
+        ],
+        [
+          "犯人（はんにん） (はんにん) — culprit, criminal (noun)"
+        ],
+        [
+          "梅干（うめぼし） (うめぼし) — umeboshi, pickled plums (noun)"
+        ],
+        [
+          "食（た）べたい (たべたい) — want to eat (ichidan verb / desiderative 〜たい form / non-past tense)"
+        ],
+        [
+          "日本語（にほんご） (にほんご) — Japanese (noun)"
+        ],
+        [
+          "分（わ）かる (わかる) — to understand (godan verb / non-past tense)"
+        ],
+        [
+          "できる (できる) — to be able to do (ichidan verb / non-past tense)"
+        ],
+        [
+          "見（み）える (みえる) — to be visible (ichidan verb / non-past tense)"
+        ],
+        [
+          "聞（き）こえる (きこえる) — to be audible (ichidan verb / non-past tense)"
+        ],
+        [
+          "人（ひと） (ひと) — person (noun)"
+        ],
+        [
+          "音楽（おんがく） (おんがく) — music (noun)"
+        ],
+        [
+          "夢（ゆめ） (ゆめ) — dream (noun)"
+        ],
+        [
+          "有（あ）る (ある) — to have, to exist (for inanimate things) (godan verb / non-past tense)"
+        ],
+        [
+          "可愛（かわい）い (かわいい) — cute (い-adjective / non-past tense)"
+        ],
+        [
+          "素敵（すてき） (すてき) — lovely (な-adjective)"
+        ],
+        [
+          "子供（こども） (こども) — child, kid (noun)"
+        ],
+        [
+          "二（に）人（にん） (ふたり) — two people (noun)"
+        ],
+        [
+          "お金（かね） (おかね) — money (noun)"
+        ],
+        [
+          "大好（だいす）き (だいすき) — love, really like (な-adjective)"
+        ],
+        [
+          "小犬（こいぬ） (こいぬ) — puppy (noun)"
+        ],
+        [
+          "欲（ほ）しい (ほしい) — want, desired (い-adjective / non-past tense)"
+        ],
+        [
+          "嫌（きら）い (きらい) — hate, dislike , detestable (な-adjective)"
+        ],
+        [
+          "見（み）つけた (みつけた) — found (ichidan verb / past tense)"
+        ],
+        [
+          "物価（ぶっか） (ぶっか) — prices, cost of living (noun)"
+        ],
+        [
+          "高（たか）い (たかい) — high, expensive (い-adjective / non-past tense)"
+        ],
+        [
+          "国（くに） (くに) — country (noun)"
+        ],
+        [
+          "言（い）いました (いいました) — said (godan verb / polite form / past tense)"
+        ],
+        [
+          "先生（せんせい） (せんせい) — teacher (noun)"
+        ],
+        [
+          "スイス (すいす) — Switzerland (proper noun)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "The particle が goes after a noun to show us that the noun is the subject of a sentence. That is, the noun before が is the person or thing that's doing whatever comes next. In other words, が marks the grammatical subject. Beyond marking the subject, が also puts emphasis onto that subject, and excludes other possible subjects.",
+    "The particle が always goes immediately after a noun — or something that behaves like a noun — to show that this noun is the subject. For example, in the sentence below, あの犬（いぬ） (dog) is the subject. It is the one doing what comes next. In this case, that's the verb \"barked\":",
+    "In this next sentence, the subject is 誰（だれ）か (someone), and that someone is doing what comes next, in this case \"existing\":",
+    "In this final example, the subject is この納豆（なっとう） (this natto). What is \"this natto\" doing? It's being delicious 🤤",
+    "So just to recap, the particle が points a finger at the subject in the sentence, and in doing so puts emphasis on that subject, telling us that it is a very important piece of information in the sentence. We like to think of が as the witness in a police lineup. It is picking out the subject from a lineup of potential subjects, and saying, \"this is the one that did it.\"",
+    "As with a lineup, the act of picking out the subject — the doer — also lets the others in the lineup off the hook. So, が is simultaneously telling us what the subject is, putting emphasis on it, and making it clear that nothing else is the subject.",
+    "To give you a better idea of what we mean, let's look at an example. Imagine everyone at Tofugu is hanging out, and someone from outside the company is trying to figure out which one of us is the president. They might say:",
+    "Koichi raises his hand shyly and says:",
+    "Both the question and the answer use が, because が emphasizes that Koichi is the president, and excludes everyone else from that position.",
+    "By way of comparison, if someone asked Koichi what his role was, he might answer 私（わたし）は社長（しゃちょう）です. To read more about the differences in nuance created by は and が, take a look at our article .",
+    "Subject omission is extremely common in Japanese when we know what that subject is from context. Take a look at the dialogue below, for example:",
+    "In English, we use \"it\" to refer to the dog. We can't just say \"barked.\" In Japanese, however, we can simply use the verb, and leave the subject out altogether. In this context, every Japanese speaker knows we're talking about the dog, so there's no need to mention a subject at all.",
+    "Because it's so common to leave out the subject, leaving it in can often bring a certain nuance to the sentence. This isn't actually all that different from English. For example, imagine we responded to the question above with:",
+    "In English, referring to the subject as \"your dog\" rather than \"it\" throws a certain emphasis onto the dog, right? The same is true of the Japanese version. Choosing to include the subject when it's more natural to leave it out leads to the subject being emphasized. Maybe you're doing that to show how annoyed you are about the dog barking at you, or maybe the dog is freaking you out.",
+    "Even when the subject is included, it is really common to omit が in informal speaking, as well as writing that closely resembles spoken styles, like casual text messages. This generally doesn't result in any significant difference in nuance.",
+    "It's also possible to omit が in polite speaking. Again, in this case there is little or no difference in the nuance. It simply comes down to the individual preference.",
+    "However, there are some circumstances in which you can't omit が. Remember how we said that が is used to pick the subject out of a crowd? Well, when that's its main role in the sentence, が has to stay put.",
+    "Here, we really are pointing our fingers at the perpetrator, and ruling out other suspects. が would therefore always be kept in sentences like these.",
+    "Many textbooks and linguists say that が can also mark the object, but others believe it's still marking the subject in these situations. We believe that it's more helpful and consistent to consider that が always marks the subject in Japanese, even when the same word is the object in the English translation.",
+    "The first obvious example of this is the use of が with things we like, love, hate, want, and so on. In English, the objects of our desire or distaste are exactly that — objects. In Japanese, however, they can be considered subjects, because they are the ones that are desirable, or detestable.",
+    "In English, the subject of these sentences is clearly \"I.\" In Japanese, though, we can argue that 梅干（うめぼし） (umeboshi), 子犬（こいぬ） (puppy), and そういうの (that sort of thing) are the subjects of the adjectives that follow them. The person doing the loving, wanting, or hating — who doesn't need to be specified in Japanese when it's obvious, and especially when they're the speaker — is considered to be either the invisible topic, or another invisible subject, depending on whom you ask. And 大好（だいす）き (loveable), 欲（ほ）しい (desired), and 嫌（きら）い (detestable) are all adjectives that describe their respective subjects.",
+    "To move onto another example, \"want\" is a verb that generally takes an object in English. You want something. That thing is the object, and you're the subject.",
+    "Not in Japanese. To say that you want to do something in Japanese, you can change the verb into the たい form, as in 食（た）べたい (I want to eat).",
+    "See that い on the end? That's a clue that this form has basically \"become\" an い-adjective , so it can now act like other い-adjectives in lots of ways. To follow our logic from earlier a little further, we can think of this as literally meaning, \"Umeboshi is desirable to eat for me.\" This might feel like even more of a stretch than the others, but it can be helpful in understanding the difference in structure between English and Japanese!",
+    "We should point out that it's also totally possible to say 梅干（うめぼし）を食（た）べたい, but this changes the nuance somewhat. The most likely interpretation if you use を is that you're not only craving pickled plums, but you are more practically thinking about eating some. The particle を shows that you have more intention of following up on what you want. The sentence with が, on the other hand, implies that you have a spontaneous desire to eat pickled plums, which may or may not be fulfilled.",
+    "Have a look at the sentence below, along with its most obvious translation into English:",
+    "Although this is the most natural way to translate it into English, it doesn't show us what's really going on in the Japanese sentence. It would probably be more helpful (but of course less natural) to translate it as:",
+    "The same is true of verbs like できる:",
+    "Again, a more helpful translation might be:",
+    "This actually boils down to the difference in where we draw the line of what is a subject in English, compared with what it is in Japanese. In English, \"understand\" and \"can see\" are used in a transitive way, which means that the things that are understood and seen are the grammatical objects of the sentence. However, the Japanese equivalents 分（わ）かる and 見（み）える are intransitive , which means that the subject does something all by itself, rather than having something done to it.",
+    "You can read more about the different takes on transitivity in English and Japanese here .",
+    "We're already seen an example of the verb いる used in it's basic meaning \"to exist.\" You can also use the verbs ある and いる (both \"exist\") to talk about things that you have. In this case, が is still used to show us what exists.",
+    "In English, the dream is the object of the verb, because we consider that we are doing the having to the dream. In Japanese, on the other hand, the dream is the one that's doing the action — it's existing.",
+    "The exact same logic is behind these next two sentences:",
+    "In English, the Kanae and Mami are doing the having. In Japanese, the dog and kids are doing the existing.",
+    "The particle が is generally used in relative clauses — clauses that give extra info, not vital to the sentence — even if は is used in the corresponding main clause .",
+    "Let's take a look at an example of a main clause first:",
+    "This is a complete sentence in its own right (a main clause). In this example, it's most likely that スミスさん is considered the topic and marked with the topic marker は . If we did choose to marks スミスさん with が, it would often be to pick him out specifically, and emphasize that others didn't find the money.",
+    "However, if the sentence is a little more complicated and includes a relative clause, it's more common to use が than は:",
+    "In relative clauses like these, が can generally be replaced with の, as in this example:",
+    "Let's take a look at another example of when の can replace が:",
+    "This is also a complete sentence. Here, we cannot replace が with の.",
+    "If we want to use it as a relative clause, and describe something with it, we can put it in front of the noun that we want to describe. In the following example, the noun we want to describe is 国（くに） (country):",
+    "Now we can replace this が with の:",
+    "Whether you choose が or の is mostly a question of style, as の can make the sentence flow more easily.",
+    "The reason that が and の are sometimes interchangeable in this way is rooted in the past, the remnants of which can still be seen in the way が appears in set expressions like 我（わ）が国（くに） (our country), 我（わ）が子（こ） (our child), 我（わ）が家（や） (our home) and so on.",
+    "が is also generally used in embedded clauses even if は is used in the corresponding main clause. Let's go back to our noisy dog to see what we mean:",
+    "But if someone tells you that the dog barked, what that person said becomes an \"embedded clause\" and, just like with relative clauses, particle が is the more typical choice:",
+    "Just in case you were wondering, the particle の can't replace が in this case!",
+    "It's possible to have two subjects, each marked by が, in a Japanese sentence. However, when this is the main clause, one of the subjects will usually be presented as the topic, as we saw earlier in this example:",
+    "If we choose to keep both が in a main clause, its nuance of excluding other subjects and emphasizing this one subject is heightened:",
+    "If it's an embedded clause, though, が loses that emphasis:"
+  ],
+  "examples": [
+    {
+      "japanese": "あの犬（いぬ）が吠（ほ）えた。",
+      "english": "That dog barked."
+    },
+    {
+      "japanese": "誰（だれ）かがいる。",
+      "english": "Someone's here. (Literally: Someone exists.)"
+    },
+    {
+      "japanese": "この納豆（なっとう）がおいしい。",
+      "english": "This natto is delicious."
+    },
+    {
+      "japanese": "どの方（ほう）がトーフグの社長（しゃちょう）さんですか？",
+      "english": "Which person is the president of Tofugu?"
+    },
+    {
+      "japanese": "私（わたし）が社長（しゃちょう）です。",
+      "english": "I'm the president."
+    },
+    {
+      "japanese": "うちの犬（いぬ）が何（なに）かしましたか。",
+      "english": "Did our dog do something to you?"
+    },
+    {
+      "japanese": "吠（ほ）えました。",
+      "english": "It barked."
+    },
+    {
+      "japanese": "おたくの犬（いぬ）が吠（ほ）えました。",
+      "english": "Your dog barked."
+    },
+    {
+      "japanese": "犬（いぬ）(が)吠（ほ）えた。",
+      "english": "The dog barked."
+    },
+    {
+      "japanese": "誰（だれ）か(が)いる。",
+      "english": "Someone's here."
+    },
+    {
+      "japanese": "お車（くるま）(が)到着（とうちゃく）致（いた）しました。",
+      "english": "The car has arrived."
+    },
+    {
+      "japanese": "ジェニーが犯人（はんにん）だ。",
+      "english": "Jenny's the culprit."
+    },
+    {
+      "japanese": "梅干（うめぼし）が大好（だいす）き。",
+      "english": "I love umeboshi. (Literally: Umeboshi is loveable)"
+    },
+    {
+      "japanese": "小犬（こいぬ）が欲（ほ）しい。",
+      "english": "I want a puppy. (Literally: A puppy is desired)"
+    },
+    {
+      "japanese": "そういうのが嫌（きら）いだよ。",
+      "english": "I hate that sort of thing. (Literally: That sort of thing is detestable)"
+    },
+    {
+      "japanese": "梅干（うめぼし）が食（た）べたい。",
+      "english": "I want to eat umeboshi."
+    },
+    {
+      "japanese": "日本語（にほんご）が分（わ）かる。",
+      "english": "I understand Japanese."
+    },
+    {
+      "japanese": "日本語（にほんご）が分（わ）かる。",
+      "english": "Japanese is comprehensible (to me)."
+    },
+    {
+      "japanese": "それができる。",
+      "english": "I can do that."
+    },
+    {
+      "japanese": "それができる。",
+      "english": "That is doable (for me)."
+    },
+    {
+      "japanese": "その人（ひと）が見（み）える。",
+      "english": "I can see that person. (Literally: That person is visible (to me).)"
+    },
+    {
+      "japanese": "音楽（おんがく）が聞（き）こえる。",
+      "english": "I can hear music. (Literally: Music is audible (to me).)"
+    },
+    {
+      "japanese": "私（に）は夢（ゆめ）がある。",
+      "english": "I have a dream. (Literally: A dream exists for me.)"
+    },
+    {
+      "japanese": "かなえ（に）は可愛（かわい）い犬（いぬ）がいる。",
+      "english": "Kanae has a cute dog. (Literally: A cute dog exists for Kanae.)"
+    },
+    {
+      "japanese": "まみ（に）は素敵（すてき）な子供（こども）が二（に）人（にん）いる。",
+      "english": "Mami has two lovely kids. (Literally: Two lovely kids exist for Mami.)"
+    },
+    {
+      "japanese": "スミスさんはお金（かね）を見（み）つけた。",
+      "english": "Mr Smith found some money."
+    },
+    {
+      "japanese": "[スミスさんが見（み）つけた]お金（かね）だ。",
+      "english": "That's the money [that Mr Smith found]."
+    },
+    {
+      "japanese": "[スミスさんの見（み）つけた]お金（かね）だ。",
+      "english": "That's the money [that Mr Smith found]."
+    },
+    {
+      "japanese": "スイスは物価（ぶっか）が高（たか）い。",
+      "english": "Switzerland has a high cost of living. (Literally: As for Switzerland, the prices are high.)"
+    },
+    {
+      "japanese": "スイスは[物価（ぶっか）が高（たか）い]国（こく）だ。",
+      "english": "Switzerland is a country [where the cost of living is high]. (Literally: As for Switzerland, it's a country that has high prices.)"
+    },
+    {
+      "japanese": "スイスは[物価（ぶっか）の高（たか）い国（くに）]だ。",
+      "english": "Switzerland is a country [where the cost of living is high]. (Literally: As for Switzerland, it's a country that has high prices.)"
+    },
+    {
+      "japanese": "犬（いぬ）は吠（ほ）えました。",
+      "english": "The dog barked."
+    },
+    {
+      "japanese": "犬（いぬ）が吠（ほ）えたと言（い）いました。",
+      "english": "They said that the dog had barked."
+    },
+    {
+      "japanese": "スイスは物価（ぶっか）が高（たか）い。",
+      "english": "Switzerland has a high cost of living."
+    },
+    {
+      "japanese": "スイスが物価（ぶっか）が高（たか）い。",
+      "english": "It's Switzerland that has a high cost of living."
+    },
+    {
+      "japanese": "先生（せんせい）はスイスが物価（ぶっか）が高（たか）いと言（い）いました。",
+      "english": "The teacher said that Switzerland has a high cost of living."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "犬（いぬ） (いぬ) — dog (noun)"
+      ],
+      [
+        "吠（ほ）えた (ほえた) — barked (ichidan verb / past tense)"
+      ],
+      [
+        "誰（だれ）か (だれか) — someone (indefinite pronoun)"
+      ],
+      [
+        "居（い）る (いる) — to have, to exist (for animate things) (ichidan verb / non-past tense)"
+      ],
+      [
+        "納豆（なっとう） (なっとう) — natto, fermented soybeans (noun)"
+      ],
+      [
+        "美味（おい）しい (おいしい) — delicious (い-adjective / non-past tense)"
+      ],
+      [
+        "方（かた） (かた) — person (noun)"
+      ],
+      [
+        "私（わたし） (わたし) — I, me (personal pronoun)"
+      ],
+      [
+        "社長（しゃちょう） (しゃちょう) — company president (noun)"
+      ],
+      [
+        "何（なに）か (なにか) — something (indefinite pronoun)"
+      ],
+      [
+        "しました (しました) — did (irregular verb / polite form / past tense)"
+      ],
+      [
+        "吠（ほ）えました (ほえました) — barked (ichidan verb / polite form / past tense)"
+      ],
+      [
+        "お宅（たく） (おたく) — you, your house (personal pronoun)"
+      ],
+      [
+        "車（くるま） (くるま) — car (noun)"
+      ],
+      [
+        "到着（とうちゃく） (とうちゃく) — arrival (noun, verbal noun)"
+      ],
+      [
+        "致（いた）しました (いたしました) — did (humble) (godan verb / past tense)"
+      ],
+      [
+        "犯人（はんにん） (はんにん) — culprit, criminal (noun)"
+      ],
+      [
+        "梅干（うめぼし） (うめぼし) — umeboshi, pickled plums (noun)"
+      ],
+      [
+        "食（た）べたい (たべたい) — want to eat (ichidan verb / desiderative 〜たい form / non-past tense)"
+      ],
+      [
+        "日本語（にほんご） (にほんご) — Japanese (noun)"
+      ],
+      [
+        "分（わ）かる (わかる) — to understand (godan verb / non-past tense)"
+      ],
+      [
+        "できる (できる) — to be able to do (ichidan verb / non-past tense)"
+      ],
+      [
+        "見（み）える (みえる) — to be visible (ichidan verb / non-past tense)"
+      ],
+      [
+        "聞（き）こえる (きこえる) — to be audible (ichidan verb / non-past tense)"
+      ],
+      [
+        "人（ひと） (ひと) — person (noun)"
+      ],
+      [
+        "音楽（おんがく） (おんがく) — music (noun)"
+      ],
+      [
+        "夢（ゆめ） (ゆめ) — dream (noun)"
+      ],
+      [
+        "有（あ）る (ある) — to have, to exist (for inanimate things) (godan verb / non-past tense)"
+      ],
+      [
+        "可愛（かわい）い (かわいい) — cute (い-adjective / non-past tense)"
+      ],
+      [
+        "素敵（すてき） (すてき) — lovely (な-adjective)"
+      ],
+      [
+        "子供（こども） (こども) — child, kid (noun)"
+      ],
+      [
+        "二（に）人（にん） (ふたり) — two people (noun)"
+      ],
+      [
+        "お金（かね） (おかね) — money (noun)"
+      ],
+      [
+        "大好（だいす）き (だいすき) — love, really like (な-adjective)"
+      ],
+      [
+        "小犬（こいぬ） (こいぬ) — puppy (noun)"
+      ],
+      [
+        "欲（ほ）しい (ほしい) — want, desired (い-adjective / non-past tense)"
+      ],
+      [
+        "嫌（きら）い (きらい) — hate, dislike , detestable (な-adjective)"
+      ],
+      [
+        "見（み）つけた (みつけた) — found (ichidan verb / past tense)"
+      ],
+      [
+        "物価（ぶっか） (ぶっか) — prices, cost of living (noun)"
+      ],
+      [
+        "高（たか）い (たかい) — high, expensive (い-adjective / non-past tense)"
+      ],
+      [
+        "国（くに） (くに) — country (noun)"
+      ],
+      [
+        "言（い）いました (いいました) — said (godan verb / polite form / past tense)"
+      ],
+      [
+        "先生（せんせい） (せんせい) — teacher (noun)"
+      ],
+      [
+        "スイス (すいす) — Switzerland (proper noun)"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing が"
+    },
+    {
+      "level": 3,
+      "id": "subject-omission",
+      "text": "Subject Omission"
+    },
+    {
+      "level": 3,
+      "id": "omission",
+      "text": "が Omission"
+    },
+    {
+      "level": 3,
+      "id": "with-objects",
+      "text": "が with \"Objects\""
+    },
+    {
+      "level": 4,
+      "id": "with-verb-like-adjectives",
+      "text": "が with Verb-like adjectives"
+    },
+    {
+      "level": 4,
+      "id": "with-verbs-that-describe-states",
+      "text": "が with Verbs that Describe States"
+    },
+    {
+      "level": 4,
+      "id": "with-verbs-for-exist",
+      "text": "が with Verbs for \"Exist\""
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond The Basics"
+    },
+    {
+      "level": 3,
+      "id": "in-relative-clauses",
+      "text": "が in Relative Clauses"
+    },
+    {
+      "level": 3,
+      "id": "in-embedded-clauses",
+      "text": "が in Embedded Clauses"
+    },
+    {
+      "level": 3,
+      "id": "two-subjects-with-",
+      "text": "Two Subjects with が"
+    }
+  ],
+  "id": 16,
+  "slug": "particle-ga",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/particle-ga/",
+  "categories": [
+    "Particle"
+  ]
+}

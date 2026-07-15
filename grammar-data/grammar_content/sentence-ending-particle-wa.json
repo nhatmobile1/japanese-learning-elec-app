@@ -1,0 +1,827 @@
+{
+  "title": "Particle わ",
+  "description": "わ is a sentence-ending particle that reflects your perception or sentiment based on personal observation and/or experience.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Particle わ is a sentence-ending particle — a type of particle that adds nuance or tone to facilitate conversation — that signals your emotional investment in something."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's also multifaceted, meaning that its use is varied, can be gendered and region-specific, and its nuance is often altered depending on intonation. While it may be difficult to grasp everything about わ at once, here's a brief overview of how it works:"
+    },
+    {
+      "type": "paragraph",
+      "text": "わ usually follows a statement that expresses your realization of something, reflecting your view or attitude toward a situation or event. It indicates that you came to a conclusion, felt a certain way, or are making a sudden observation based on personal experience ."
+    },
+    {
+      "type": "paragraph",
+      "text": "It might seem like a lot, but don't worry! On this page we'll explain what this means, and when and why you would use わ with plenty of examples."
+    },
+    {
+      "type": "paragraph",
+      "text": "So let's get started and look at the first example. Say you've just finished an exam and your friend wants to know how it went. You're pretty sure you bombed, so you respond with:"
+    },
+    {
+      "type": "example",
+      "japanese": "落（お）ちたと思（おも）うわ。",
+      "english": "I think I failed."
+    },
+    {
+      "type": "paragraph",
+      "text": "The most important thing to note in this example is that with or without わ, the meaning of the sentence remains unchanged. Without わ, it sounds like a succinct report. With わ, it implies, \"I think I've failed, given how things went .\""
+    },
+    {
+      "type": "paragraph",
+      "text": "Now let's talk about tone."
+    },
+    {
+      "type": "paragraph",
+      "text": "Depending on your tone of voice, わ carries different nuances. For instance, said confidently, わ signals the affirmation of your statement — it asserts that you are confident in your judgment. Like, \"Oh yea, I think I failed.\""
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, if you say it feebly, わ softens your statement, and expresses that you regret the way things turned out. Like, \"Man… I think I failed.\""
+    },
+    {
+      "type": "example",
+      "japanese": "落（お）ちたと思（おも）うわ",
+      "english": "Oh yea, I think I failed."
+    },
+    {
+      "type": "example",
+      "japanese": "落（お）ちたと思（おも）うわ",
+      "english": "Man… I think I failed."
+    },
+    {
+      "type": "paragraph",
+      "text": "So far, so good? Let's keep the same scenario going. Say you were pretty upset over your test at first, but you quickly regained your composure you're resolved to do better next time."
+    },
+    {
+      "type": "example",
+      "japanese": "次（つぎ）のテスト、頑張（がんば）るわ。",
+      "english": "I'll do better on the next exam."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, again, the meaning remains the same with or without わ. However, without わ it comes off as a simple declaration that you'll do better next time, whereas with わ, it carries the connotation that you put some amount of thought into the matter (even very brief) and resolved to do better next time."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, depending on how you express it, the nuance of わ can vary. Of course, if you say it determinedly, it can sound determined. Said faintly with a sigh, it expresses that you understand what you need to do but aren't very motivated to do it (at least for now). You can also convey a sense of resignation with わ; like, based on your observations of the current situation you've come to a certain conclusion (the statement preceding わ) and accept that there's nothing more to be done."
+    },
+    {
+      "type": "example",
+      "japanese": "次（つぎ）のテスト、頑張（がんば）るわ",
+      "english": "I'll do better on the next exam."
+    },
+    {
+      "type": "example",
+      "japanese": "次（つぎ）のテスト、頑張（がんば）るわ",
+      "english": "I'll do better on the next exam."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although falling intonation of わ was used in all of the audio examples above, it's worth noting that わ can also be pronounced with rising intonation, like:"
+    },
+    {
+      "type": "example",
+      "japanese": "落（お）ちたと思（おも）うわ↗",
+      "english": "I think I failed."
+    },
+    {
+      "type": "example",
+      "japanese": "次（つぎ）のテスト、がんばるわ↗",
+      "english": "I'll do better on the next exam."
+    },
+    {
+      "type": "paragraph",
+      "text": "It's worth noting that わ said with rising intonation is regarded as highly feminine, whereas said with falling intonation わ is considered more neutral. The feminine わ used to be customary, but is no longer common in ordinary interactions. Nowadays, it's generally used to emphasize femininity in queer speech or to accentuate the femininity of a character in creative productions. 1"
+    },
+    {
+      "type": "paragraph",
+      "text": "We'll talk about this in more detail later on, but for now let's get down to brass tacks and see how わactually works in a sentence."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "わ can follow verbs, adjectives, and nouns. Check out the tables below to see how to add わ to a particular word type."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "verb--",
+      "text": "Verb + わ"
+    },
+    {
+      "type": "paragraph",
+      "text": "When it follows a verb, わ is simply attached without anything special in between. It can follow many verb forms, with the exception of stem form, て form, command forms, speculation forms or questions. 2 3 The following table lists some examples of different verb forms that can be used with わ."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Form",
+          "Japanese",
+          "English"
+        ],
+        [
+          "Plain Form (Dictionary Form)",
+          "やめるわ。",
+          "I'll quit."
+        ],
+        [
+          "た Form (Past tense)",
+          "やめたわ。",
+          "I quit."
+        ],
+        [
+          "ない Form (Negative)",
+          "やめないわ。",
+          "I won't quit."
+        ],
+        [
+          "たい Form (Desire)",
+          "やめたいわ。",
+          "I want to quit."
+        ],
+        [
+          "れる Form (Potential)",
+          "やめれるわ。",
+          "I can quit."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective--",
+      "text": "い-adjective + わ"
+    },
+    {
+      "type": "paragraph",
+      "text": "わ can also follow many forms of い-adjectives. Here are some examples."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Form",
+          "Japanese",
+          "English"
+        ],
+        [
+          "Plain Form",
+          "暑（あつ）いわ。",
+          "It's hot."
+        ],
+        [
+          "かった Form (Past tense)",
+          "暑（あつ）かったわ。",
+          "It was hot."
+        ],
+        [
+          "くない Form (Negative)",
+          "暑（あつ）くないわ。",
+          "It's not hot."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "adjective---1",
+      "text": "な-adjective + だわ"
+    },
+    {
+      "type": "paragraph",
+      "text": "With a な-adjective, you insert the affirmative だ or its different forms and add わ. Here are some examples."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Form",
+          "Japanese",
+          "English"
+        ],
+        [
+          "Plain Form",
+          "静（しず）かだわ。",
+          "It's quiet."
+        ],
+        [
+          "だった Form (Past tense)",
+          "静（しず）かだったわ。",
+          "It was quiet."
+        ],
+        [
+          "じゃない Form (Negative)",
+          "静（しず）かじゃないわ。",
+          "It isn't quiet."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + だわ"
+    },
+    {
+      "type": "paragraph",
+      "text": "With a noun, you also insert the affirmative だ or its different forms and add わ. Here are some examples."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Form",
+          "Japanese",
+          "English"
+        ],
+        [
+          "Plain Form",
+          "猫（ねこ）だわ。",
+          "It's a cat."
+        ],
+        [
+          "だった Form (Past tense)",
+          "猫（ねこ）だったわ。",
+          "It was a cat."
+        ],
+        [
+          "じゃない Form (Negative)",
+          "猫（ねこ）じゃないわ。",
+          "It isn't cat."
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-casually-telling-someone-about-your-availability",
+      "text": "わ For Casually Telling Someone About Your Availability"
+    },
+    {
+      "type": "paragraph",
+      "text": "You've learned that わ follows a statement and indicates that what you've said is based on personal observation or prior experience. In this section we'll talk about how わ can be used to casually tell someone whether you are/aren't available to do something."
+    },
+    {
+      "type": "paragraph",
+      "text": "For instance, suppose your friend invites you to their birthday party so you check your schedule to see if you're available. If you are able to attend the party, you can use わ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あ、行（い）けるわ。",
+      "english": "Ah, I can go."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you're not able to attend the party, you can use わ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ごめん、行（い）けないわ。",
+      "english": "Sorry, I can't make it."
+    },
+    {
+      "type": "paragraph",
+      "text": "In both cases, adding わ implies that you've checked your schedule to see if you're available. It functions similarly to adding \"It looks like\" in English, like \"It looks like I can/can't make it.\" It's less direct, and may be preferred, especially when declining an offer."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "for-casually-telling-someone-ill-do-it",
+      "text": "わ For Casually Telling Someone \"I'll Do It\""
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use わ when casually informing someone of your willingness to do something."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, say you arrive at your friend's birthday party and you're having a great time. Then, someone's drink spills all over the floor, and the guests are in a panic. You might volunteer to help clean up the mess by saying:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）、ふくわ。",
+      "english": "I'll wipe the floor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, わ expresses that you've already made up your mind to help out after seeing the situation at hand and you're just letting them know."
+    },
+    {
+      "type": "paragraph",
+      "text": "Similarly, you can use the particles よ or ね to signal that you volunteer to clean up, but to varying degrees of strength of assertion. よ is the strongest – it's a declaration that you'll do something that also signals you want to inform the listener. ね is softer than よ. It signals a confirmation with the listener, like \"I'll do it, alright?\" わ is more mild, because it's signals that your volunteering to clean up here is in part self-directed."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember when we touched on the importance of intonation when using わ? It's important to note here that unlike other particles such as よ or ね, which can be used to request confirmation in a rising intonation, わ simply hints that something is \"just for your information\" and should be used with falling intonation. It allows you to get right to the task at hand without having to deal with the Japanese courtesy exchanges of, \"Oh, don't worry about that,\" and \"Oh, no, it's okay. I'll take care of it,\" and so on."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）、ふくわ↘",
+      "english": "I'll wipe it up."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-self-directed-sentences",
+      "text": "わ With Self-Directed Sentences"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sentence-ending particles are generally added to a sentence directed at someone else in order to facilitate an interaction. However, わ can also be used in self-directed sentences to express your sudden realization."
+    },
+    {
+      "type": "paragraph",
+      "text": "Say you're going out in the afternoon and want to check the weather. When you open your weather forecast app, you see that there is a 90% chance of rain. You could use わ and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "あ、雨（あめ）だわ。",
+      "english": "Ah, it's going to rain."
+    },
+    {
+      "type": "paragraph",
+      "text": "As in the earlier examples, you can remove わ and simply say あ、雨（あめ）だ without changing the meaning. Both are essentially reactional statements, with very little difference between them."
+    },
+    {
+      "type": "paragraph",
+      "text": "If we take a closer look, however, the no-わ version is merely a report, whereas the わ-version carries the nuance that you just found out it's going to rain. And depending on your tone of voice, わ can express how you feel about that discovery."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since わ expresses your realization, it would sound strange to use it in a statement about information that you already know. For example, say your friend likes a hat you're wearing and asks where you got it. If you know the answer and can respond right away, you wouldn't use わ. In this case, you'd either just provide the information as-is, or use the particle よ instead."
+    },
+    {
+      "type": "example",
+      "japanese": "⭕GAPの（だよ）。 ❌GAPのだわ。",
+      "english": "It's from GAP."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, if you couldn't remember where you got the hat, and it takes you a minute to (re-)confirm that it's from GAP, then わ becomes more natural."
+    },
+    {
+      "type": "example",
+      "japanese": "⭕えっと、どこだっけな。あ、GAPのだわ。",
+      "english": "Uh, where did I get it? Oh, it's from GAP."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like that, you can use わ to indicate your realization of something based on your knowledge or personal experience, or when suddenly recalling a piece of information."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "feminine--used-with---or-",
+      "text": "Feminine わ Used With よ, ね, or よね"
+    },
+    {
+      "type": "paragraph",
+      "text": "Earlier, you learned that わ said with rising intonation is regarded as very feminine. When わ is followed by other particles, such as よ , ね , or よね , it is also considered feminine, regardless of its tone."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine there are three ladies who are enjoying an afternoon tea. After taking a bite of cake and thinking it was really sweet, one lady informs the others:"
+    },
+    {
+      "type": "example",
+      "japanese": "これ、すごく甘（あま）いわよ。",
+      "english": "This is very sweet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, わ indicates that the speaker has realized how sweet it is as a result of her experience, and よ communicates that she's informing her friends about it."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's continue with the scenario. After hearing this comment, another lady takes a bite of her cake. She agrees that it's sweet and says:"
+    },
+    {
+      "type": "example",
+      "japanese": "甘（あま）いわね。",
+      "english": "This is sweet."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example, わ serves the same function, which is to indicate that she has noticed that the cake is sweet. The ね indicates her confirmation of the previous lady's statement that the cake is sweet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then, without even taking a bite, the third lady nods and says:"
+    },
+    {
+      "type": "example",
+      "japanese": "甘（あま）いわよね。",
+      "english": "It's sweet, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This final comment indicates that the third lady has tried the cake before and already knew how it would taste. How do we know this? Because わ indicates that she thought it was sweet from personal experience, よ indicates that she is informing her friends of that fact, and ね indicates that she is confirming what her friends said."
+    },
+    {
+      "type": "paragraph",
+      "text": "Again, this combination of particles is considered feminine regardless of intonation. ​​Nowadays, it's most commonly employed to emphasize femininity in queer speech or to spotlight a character's femininity in writing or other creative productions."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with--and-",
+      "text": "わ With です and ます"
+    },
+    {
+      "type": "paragraph",
+      "text": "In general, わ is casual and follows the plain form. But that doesn't mean you can't use わ with polite です or ます. Let's say you're a salesperson who is conversing with a client. The client asks how business is going, so you answer:"
+    },
+    {
+      "type": "example",
+      "japanese": "いやー、大変（たいへん）ですわ。",
+      "english": "Well, it's tough."
+    },
+    {
+      "type": "example",
+      "japanese": "でも、まあ、頑張（がんば）りますわ。",
+      "english": "But, well, I'll try my best."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, without わ, you're just a very polite businessperson. But by adding わ, you sound polite yet really friendly. This is because わ emphasizes that you're just letting them know about your personal viewpoint."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a formal setting, adding that kind of nuance with わ sounds a bit assertive and is generally considered rude. However, if you're of an equal or higher status than the person you're talking to and on friendly terms, it can be acceptable."
+    },
+    {
+      "type": "paragraph",
+      "text": "There are many factors that determine status in Japanese social hierarchy, but one factor is age. It's also common for men to use more casual spoken language."
+    },
+    {
+      "type": "paragraph",
+      "text": "ですわ and ますわ are predominately used by middle-aged to elderly male speakers (though, mostly those who are from the Kansai area)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Finally, keep take mind that this explanation applies only to わ used with falling intonation. It sounds hyper-feminine to say ですわ or ますわ with rising intonation."
+    },
+    {
+      "type": "paragraph",
+      "text": "So, who would use these \"polite-yet-almost-too-casual\" expressions with a highly feminine tone? You'll probably hear it most often coming from a wealthy female character in anime, also known as the お 嬢様（じょうさま）キャラクター."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that our audio employs the pronunciation and intonation of standard Japanese. Many dialects employ わ and pronounce it differently from standard Japanese. For example, in Kansai dialect, the pronunciation of わ is typically extended, like わあ (or わー), with falling intonation (so, わ is high and あ is low in pitch). &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "You may hear \"TEWA\" or \"DEWA\" and think it's the て form of a verb with the particle わ, but it's actually the combination of the て form and the particle は (pronounced wa ). &#8617;"
+    },
+    {
+      "type": "paragraph",
+      "text": "わ shows that your statement is based on your personal observation or experience. The nuance doesn't match with the command forms, speculation forms or questions. &#8617;"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "Particle わ is a sentence-ending particle — a type of particle that adds nuance or tone to facilitate conversation — that signals your emotional investment in something.",
+    "It's also multifaceted, meaning that its use is varied, can be gendered and region-specific, and its nuance is often altered depending on intonation. While it may be difficult to grasp everything about わ at once, here's a brief overview of how it works:",
+    "わ usually follows a statement that expresses your realization of something, reflecting your view or attitude toward a situation or event. It indicates that you came to a conclusion, felt a certain way, or are making a sudden observation based on personal experience .",
+    "It might seem like a lot, but don't worry! On this page we'll explain what this means, and when and why you would use わ with plenty of examples.",
+    "So let's get started and look at the first example. Say you've just finished an exam and your friend wants to know how it went. You're pretty sure you bombed, so you respond with:",
+    "The most important thing to note in this example is that with or without わ, the meaning of the sentence remains unchanged. Without わ, it sounds like a succinct report. With わ, it implies, \"I think I've failed, given how things went .\"",
+    "Now let's talk about tone.",
+    "Depending on your tone of voice, わ carries different nuances. For instance, said confidently, わ signals the affirmation of your statement — it asserts that you are confident in your judgment. Like, \"Oh yea, I think I failed.\"",
+    "On the other hand, if you say it feebly, わ softens your statement, and expresses that you regret the way things turned out. Like, \"Man… I think I failed.\"",
+    "So far, so good? Let's keep the same scenario going. Say you were pretty upset over your test at first, but you quickly regained your composure you're resolved to do better next time.",
+    "Here, again, the meaning remains the same with or without わ. However, without わ it comes off as a simple declaration that you'll do better next time, whereas with わ, it carries the connotation that you put some amount of thought into the matter (even very brief) and resolved to do better next time.",
+    "Again, depending on how you express it, the nuance of わ can vary. Of course, if you say it determinedly, it can sound determined. Said faintly with a sigh, it expresses that you understand what you need to do but aren't very motivated to do it (at least for now). You can also convey a sense of resignation with わ; like, based on your observations of the current situation you've come to a certain conclusion (the statement preceding わ) and accept that there's nothing more to be done.",
+    "Although falling intonation of わ was used in all of the audio examples above, it's worth noting that わ can also be pronounced with rising intonation, like:",
+    "It's worth noting that わ said with rising intonation is regarded as highly feminine, whereas said with falling intonation わ is considered more neutral. The feminine わ used to be customary, but is no longer common in ordinary interactions. Nowadays, it's generally used to emphasize femininity in queer speech or to accentuate the femininity of a character in creative productions. 1",
+    "We'll talk about this in more detail later on, but for now let's get down to brass tacks and see how わactually works in a sentence.",
+    "わ can follow verbs, adjectives, and nouns. Check out the tables below to see how to add わ to a particular word type.",
+    "When it follows a verb, わ is simply attached without anything special in between. It can follow many verb forms, with the exception of stem form, て form, command forms, speculation forms or questions. 2 3 The following table lists some examples of different verb forms that can be used with わ.",
+    "わ can also follow many forms of い-adjectives. Here are some examples.",
+    "With a な-adjective, you insert the affirmative だ or its different forms and add わ. Here are some examples.",
+    "With a noun, you also insert the affirmative だ or its different forms and add わ. Here are some examples.",
+    "You've learned that わ follows a statement and indicates that what you've said is based on personal observation or prior experience. In this section we'll talk about how わ can be used to casually tell someone whether you are/aren't available to do something.",
+    "For instance, suppose your friend invites you to their birthday party so you check your schedule to see if you're available. If you are able to attend the party, you can use わ and say:",
+    "If you're not able to attend the party, you can use わ and say:",
+    "In both cases, adding わ implies that you've checked your schedule to see if you're available. It functions similarly to adding \"It looks like\" in English, like \"It looks like I can/can't make it.\" It's less direct, and may be preferred, especially when declining an offer.",
+    "You can also use わ when casually informing someone of your willingness to do something.",
+    "For example, say you arrive at your friend's birthday party and you're having a great time. Then, someone's drink spills all over the floor, and the guests are in a panic. You might volunteer to help clean up the mess by saying:",
+    "Here, わ expresses that you've already made up your mind to help out after seeing the situation at hand and you're just letting them know.",
+    "Similarly, you can use the particles よ or ね to signal that you volunteer to clean up, but to varying degrees of strength of assertion. よ is the strongest – it's a declaration that you'll do something that also signals you want to inform the listener. ね is softer than よ. It signals a confirmation with the listener, like \"I'll do it, alright?\" わ is more mild, because it's signals that your volunteering to clean up here is in part self-directed.",
+    "Remember when we touched on the importance of intonation when using わ? It's important to note here that unlike other particles such as よ or ね, which can be used to request confirmation in a rising intonation, わ simply hints that something is \"just for your information\" and should be used with falling intonation. It allows you to get right to the task at hand without having to deal with the Japanese courtesy exchanges of, \"Oh, don't worry about that,\" and \"Oh, no, it's okay. I'll take care of it,\" and so on.",
+    "Sentence-ending particles are generally added to a sentence directed at someone else in order to facilitate an interaction. However, わ can also be used in self-directed sentences to express your sudden realization.",
+    "Say you're going out in the afternoon and want to check the weather. When you open your weather forecast app, you see that there is a 90% chance of rain. You could use わ and say:",
+    "As in the earlier examples, you can remove わ and simply say あ、雨（あめ）だ without changing the meaning. Both are essentially reactional statements, with very little difference between them.",
+    "If we take a closer look, however, the no-わ version is merely a report, whereas the わ-version carries the nuance that you just found out it's going to rain. And depending on your tone of voice, わ can express how you feel about that discovery.",
+    "Since わ expresses your realization, it would sound strange to use it in a statement about information that you already know. For example, say your friend likes a hat you're wearing and asks where you got it. If you know the answer and can respond right away, you wouldn't use わ. In this case, you'd either just provide the information as-is, or use the particle よ instead.",
+    "However, if you couldn't remember where you got the hat, and it takes you a minute to (re-)confirm that it's from GAP, then わ becomes more natural.",
+    "Just like that, you can use わ to indicate your realization of something based on your knowledge or personal experience, or when suddenly recalling a piece of information.",
+    "Earlier, you learned that わ said with rising intonation is regarded as very feminine. When わ is followed by other particles, such as よ , ね , or よね , it is also considered feminine, regardless of its tone.",
+    "For example, imagine there are three ladies who are enjoying an afternoon tea. After taking a bite of cake and thinking it was really sweet, one lady informs the others:",
+    "Here, わ indicates that the speaker has realized how sweet it is as a result of her experience, and よ communicates that she's informing her friends about it.",
+    "Let's continue with the scenario. After hearing this comment, another lady takes a bite of her cake. She agrees that it's sweet and says:",
+    "In this example, わ serves the same function, which is to indicate that she has noticed that the cake is sweet. The ね indicates her confirmation of the previous lady's statement that the cake is sweet.",
+    "Then, without even taking a bite, the third lady nods and says:",
+    "This final comment indicates that the third lady has tried the cake before and already knew how it would taste. How do we know this? Because わ indicates that she thought it was sweet from personal experience, よ indicates that she is informing her friends of that fact, and ね indicates that she is confirming what her friends said.",
+    "Again, this combination of particles is considered feminine regardless of intonation. ​​Nowadays, it's most commonly employed to emphasize femininity in queer speech or to spotlight a character's femininity in writing or other creative productions.",
+    "In general, わ is casual and follows the plain form. But that doesn't mean you can't use わ with polite です or ます. Let's say you're a salesperson who is conversing with a client. The client asks how business is going, so you answer:",
+    "Here, without わ, you're just a very polite businessperson. But by adding わ, you sound polite yet really friendly. This is because わ emphasizes that you're just letting them know about your personal viewpoint.",
+    "In a formal setting, adding that kind of nuance with わ sounds a bit assertive and is generally considered rude. However, if you're of an equal or higher status than the person you're talking to and on friendly terms, it can be acceptable.",
+    "There are many factors that determine status in Japanese social hierarchy, but one factor is age. It's also common for men to use more casual spoken language.",
+    "ですわ and ますわ are predominately used by middle-aged to elderly male speakers (though, mostly those who are from the Kansai area).",
+    "Finally, keep take mind that this explanation applies only to わ used with falling intonation. It sounds hyper-feminine to say ですわ or ますわ with rising intonation.",
+    "So, who would use these \"polite-yet-almost-too-casual\" expressions with a highly feminine tone? You'll probably hear it most often coming from a wealthy female character in anime, also known as the お 嬢様（じょうさま）キャラクター.",
+    "Note that our audio employs the pronunciation and intonation of standard Japanese. Many dialects employ わ and pronounce it differently from standard Japanese. For example, in Kansai dialect, the pronunciation of わ is typically extended, like わあ (or わー), with falling intonation (so, わ is high and あ is low in pitch). &#8617;",
+    "You may hear \"TEWA\" or \"DEWA\" and think it's the て form of a verb with the particle わ, but it's actually the combination of the て form and the particle は (pronounced wa ). &#8617;",
+    "わ shows that your statement is based on your personal observation or experience. The nuance doesn't match with the command forms, speculation forms or questions. &#8617;"
+  ],
+  "examples": [
+    {
+      "japanese": "落（お）ちたと思（おも）うわ。",
+      "english": "I think I failed."
+    },
+    {
+      "japanese": "落（お）ちたと思（おも）うわ",
+      "english": "Oh yea, I think I failed."
+    },
+    {
+      "japanese": "落（お）ちたと思（おも）うわ",
+      "english": "Man… I think I failed."
+    },
+    {
+      "japanese": "次（つぎ）のテスト、頑張（がんば）るわ。",
+      "english": "I'll do better on the next exam."
+    },
+    {
+      "japanese": "次（つぎ）のテスト、頑張（がんば）るわ",
+      "english": "I'll do better on the next exam."
+    },
+    {
+      "japanese": "次（つぎ）のテスト、頑張（がんば）るわ",
+      "english": "I'll do better on the next exam."
+    },
+    {
+      "japanese": "落（お）ちたと思（おも）うわ↗",
+      "english": "I think I failed."
+    },
+    {
+      "japanese": "次（つぎ）のテスト、がんばるわ↗",
+      "english": "I'll do better on the next exam."
+    },
+    {
+      "japanese": "あ、行（い）けるわ。",
+      "english": "Ah, I can go."
+    },
+    {
+      "japanese": "ごめん、行（い）けないわ。",
+      "english": "Sorry, I can't make it."
+    },
+    {
+      "japanese": "私（わたし）、ふくわ。",
+      "english": "I'll wipe the floor."
+    },
+    {
+      "japanese": "私（わたし）、ふくわ↘",
+      "english": "I'll wipe it up."
+    },
+    {
+      "japanese": "あ、雨（あめ）だわ。",
+      "english": "Ah, it's going to rain."
+    },
+    {
+      "japanese": "⭕GAPの（だよ）。 ❌GAPのだわ。",
+      "english": "It's from GAP."
+    },
+    {
+      "japanese": "⭕えっと、どこだっけな。あ、GAPのだわ。",
+      "english": "Uh, where did I get it? Oh, it's from GAP."
+    },
+    {
+      "japanese": "これ、すごく甘（あま）いわよ。",
+      "english": "This is very sweet."
+    },
+    {
+      "japanese": "甘（あま）いわね。",
+      "english": "This is sweet."
+    },
+    {
+      "japanese": "甘（あま）いわよね。",
+      "english": "It's sweet, right?"
+    },
+    {
+      "japanese": "いやー、大変（たいへん）ですわ。",
+      "english": "Well, it's tough."
+    },
+    {
+      "japanese": "でも、まあ、頑張（がんば）りますわ。",
+      "english": "But, well, I'll try my best."
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Form",
+        "Japanese",
+        "English"
+      ],
+      [
+        "Plain Form (Dictionary Form)",
+        "やめるわ。",
+        "I'll quit."
+      ],
+      [
+        "た Form (Past tense)",
+        "やめたわ。",
+        "I quit."
+      ],
+      [
+        "ない Form (Negative)",
+        "やめないわ。",
+        "I won't quit."
+      ],
+      [
+        "たい Form (Desire)",
+        "やめたいわ。",
+        "I want to quit."
+      ],
+      [
+        "れる Form (Potential)",
+        "やめれるわ。",
+        "I can quit."
+      ]
+    ],
+    [
+      [
+        "Form",
+        "Japanese",
+        "English"
+      ],
+      [
+        "Plain Form",
+        "暑（あつ）いわ。",
+        "It's hot."
+      ],
+      [
+        "かった Form (Past tense)",
+        "暑（あつ）かったわ。",
+        "It was hot."
+      ],
+      [
+        "くない Form (Negative)",
+        "暑（あつ）くないわ。",
+        "It's not hot."
+      ]
+    ],
+    [
+      [
+        "Form",
+        "Japanese",
+        "English"
+      ],
+      [
+        "Plain Form",
+        "静（しず）かだわ。",
+        "It's quiet."
+      ],
+      [
+        "だった Form (Past tense)",
+        "静（しず）かだったわ。",
+        "It was quiet."
+      ],
+      [
+        "じゃない Form (Negative)",
+        "静（しず）かじゃないわ。",
+        "It isn't quiet."
+      ]
+    ],
+    [
+      [
+        "Form",
+        "Japanese",
+        "English"
+      ],
+      [
+        "Plain Form",
+        "猫（ねこ）だわ。",
+        "It's a cat."
+      ],
+      [
+        "だった Form (Past tense)",
+        "猫（ねこ）だったわ。",
+        "It was a cat."
+      ],
+      [
+        "じゃない Form (Negative)",
+        "猫（ねこ）じゃないわ。",
+        "It isn't cat."
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 4,
+      "id": "verb--",
+      "text": "Verb + わ"
+    },
+    {
+      "level": 4,
+      "id": "adjective--",
+      "text": "い-adjective + わ"
+    },
+    {
+      "level": 4,
+      "id": "adjective---1",
+      "text": "な-adjective + だわ"
+    },
+    {
+      "level": 4,
+      "id": "noun--",
+      "text": "Noun + だわ"
+    },
+    {
+      "level": 3,
+      "id": "for-casually-telling-someone-about-your-availability",
+      "text": "わ For Casually Telling Someone About Your Availability"
+    },
+    {
+      "level": 3,
+      "id": "for-casually-telling-someone-ill-do-it",
+      "text": "わ For Casually Telling Someone \"I'll Do It\""
+    },
+    {
+      "level": 3,
+      "id": "with-self-directed-sentences",
+      "text": "わ With Self-Directed Sentences"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "feminine--used-with---or-",
+      "text": "Feminine わ Used With よ, ね, or よね"
+    },
+    {
+      "level": 3,
+      "id": "with--and-",
+      "text": "わ With です and ます"
+    }
+  ],
+  "id": 33,
+  "slug": "sentence-ending-particle-wa",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/sentence-ending-particle-wa/",
+  "categories": [
+    "Particle"
+  ]
+}

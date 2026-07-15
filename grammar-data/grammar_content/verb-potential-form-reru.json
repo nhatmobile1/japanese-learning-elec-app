@@ -1,0 +1,627 @@
+{
+  "title": "〜れる (Potential)",
+  "description": "〜れる appears on the end of a verb show ability or possibility, similarly to \"can\" or \"be able to\" in English.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜れる is what we're calling the potential form . This verb suffix expresses the ability or possibility to do the action described by the verb, as in 食（た）べられる (can eat), 飲（の）める (can drink), and 泳（およ）げる (can swim). As you can see, the potential form is similar to the word \"can,\" but it is built into the Japanese verb rather than a separate word like in English."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜れる"
+    },
+    {
+      "type": "paragraph",
+      "text": "To begin, let's examine how 〜れる is added to a verb. Depending on the verb's conjugation group , 〜れる might actually take a different form. In fact, the structure of this form is currently undergoing changes in Japanese, so be sure to check that out."
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Godan",
+          "会（あ）う → 会（あ）える 立（た）つ → 立（た）てる 写（うつ）す → 写（うつ）せる 割（われ）る → 割（わ）れる 書（か）く → 書（か）ける 泳（およ）ぐ → 泳（およ）げる 死（し）ぬ → 死（し）ねる 学（まな）ぶ → 学（まな）べる 休（やす）む → 休（やす）める"
+        ],
+        [
+          "Ichidan(ら抜（ぬ）き言葉（ことば）)",
+          "食（た）べる → 食（た）べられる (食（た）べれる) 起（お）きる → 起（お）きられる (起（お）きれる) 閉（と）じる → 閉（と）じられる (閉（と）じれる)"
+        ],
+        [
+          "Irregular",
+          "来（く）る（く ） → 来（こ）られる（こ ） ( 来（こ）れる（こ ）) する → できる"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "For godan verbs , replace the ending vowel from the う column on the kana chart to its corresponding え column kana and add る. So if the original ending is 〜う, the new ending will be 〜える. If it's む, your new potential ending will be 〜める, and so on."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's try conjugating the verb 買（か）う (to buy) into its potential form (because it's such a good feeling when you're able to buy something). 買（か）う (ka u ) becomes 買（か）える (ka eru )."
+    },
+    {
+      "type": "formula",
+      "japanese": "買（か）う + え + る = 買（か）える",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's take a look at another example. What about 読（よ）む (to read)? You would want to conjugate 読（よ）む (yom u ) into 読（よ）める (yom eru )."
+    },
+    {
+      "type": "formula",
+      "japanese": "読（よ）む + え + る = 読（よ）める",
+      "english": ""
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "The way the potential form attaches to ichidan verbs is where language shifts are happening in Japanese. The more traditional, standard form is 〜られる. Simply replace the 〜る ending with 〜られる. For example, 食（た）べ る (to eat) becomes 食（た）べ られる in its potential form, which is important to know for those of us who constantly wonder if things around us are edible or not."
+    },
+    {
+      "type": "formula",
+      "japanese": "食（た）べる + られる = 食（た）べられる",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "However, this 〜られる ending is actually completely identical in structure to the passive form ! For this reason, the Japanese languages has shifted and it's become common to omit the ら part of the ending. Many kids these days (and even those who are not so young) say 食（た）べ れる instead of 食（た）べ られる . This phenomenon is called ら抜（ぬ）き言葉（ことば）, literally meaning \"taking ら off words.\" While the usage of ら抜（ぬ）き has been controversial, the trend is becoming more of a new standard."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "irregular-verbs",
+      "text": "Irregular Verbs"
+    },
+    {
+      "type": "paragraph",
+      "text": "As for irregular verbs , the potential form of 来（く）る (to come) is 来（こ）られる. As you might have guessed from the られる ending, you will see people using ら抜（ぬ）き言葉（ことば） form, 来（こ）れる, quite often."
+    },
+    {
+      "type": "paragraph",
+      "text": "する (to do) becomes a totally-different-looking verb—できる."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "potential-form-for-skill-and-ability",
+      "text": "Potential Form for Skill and Ability"
+    },
+    {
+      "type": "paragraph",
+      "text": "This use is very straightforward. Just like the English \"can,\" the potential form can be used for skill and ability."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's look at an example:"
+    },
+    {
+      "type": "example",
+      "japanese": "日本語（にほんご）が読（よ）める。",
+      "english": "I can read Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sentence uses the potential form of the verb 読（よ）む (to read), which is 読（よ）める, to show that you've acquired a skill , and now you know how to read Japanese. Let's compare this with something similar, but slightly different—ability:"
+    },
+    {
+      "type": "example",
+      "japanese": "遠（とお）くからでも小（ちい）さい文字（もじ）が読（よ）める。",
+      "english": "I can read small letters from afar."
+    },
+    {
+      "type": "paragraph",
+      "text": "This one means you have the ability and enough vision to read whatever the small letters say, and you can totally use it like \"can\" in English."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "potential-form-for-possibilities",
+      "text": "Potential Form for Possibilities"
+    },
+    {
+      "type": "paragraph",
+      "text": "You can also use this form for expressing what's situationally possible or allowable."
+    },
+    {
+      "type": "example",
+      "japanese": "そのカフェでは村上（むらかみ）春樹（はるき）の本（ほん）が読（よ）める。",
+      "english": "You can read books by Haruki Murakami at that coffee shop."
+    },
+    {
+      "type": "paragraph",
+      "text": "This indicates that the coffee shop has books by Murakami, and you can read them there."
+    },
+    {
+      "type": "example",
+      "japanese": "日本（にっぽん）では公園（こうえん）でお酒（さけ）が飲（の）める。",
+      "english": "In Japan, you can drink alcohol in parks."
+    },
+    {
+      "type": "paragraph",
+      "text": "In case you didn't know, and good news for those who love drinking—this is all true! Japan allows people to drink in public, and there is no problem with drinking in parks. So in this case, it is situationally possible to drink at parks because public drinking is socially and legally allowed in Japan."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "potential-form-for--bility-attributes",
+      "text": "Potential Form for \"-bility\" Attributes"
+    },
+    {
+      "type": "paragraph",
+      "text": "The potential form can be used to express \"-bility\" attributes of things, such as edibility, fixability, usability, etc."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine your classmate says to you:"
+    },
+    {
+      "type": "example",
+      "japanese": "この消（け）しゴムは食（た）べられる。",
+      "english": "This eraser is edible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Maybe your classmate is just being crazy, or maybe it is a special type of eraser you can eat! In any case, you can say that it's edible using the potential form of 食（た）べる (to eat)—食（た）べ られる ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's look at another example. Imagine your mom says to you:"
+    },
+    {
+      "type": "example",
+      "japanese": "ボウルは帽子（ぼうし）として使（つか）える。",
+      "english": "This bowl is usable as a hat."
+    },
+    {
+      "type": "paragraph",
+      "text": "Your classmate eats erasers, and your mom wears a bowl on her head? Sounds like you are surrounded by interesting people! Anyway, it's more important to note that in this type of context, the particle は is often used instead of が or を to neutrally state whatever has the \"-bility\" attribute."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Up until now, we've seen cases where the potential form works just like \"can\" in English. However, the English \"can\" covers \"possibility\" in a broader sense than in the potential form in Japanese, so let's look at some cases you would want to be careful using it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "when-something-can-happen-without-volition",
+      "text": "When Something Can Happen without Volition"
+    },
+    {
+      "type": "paragraph",
+      "text": "To express that something might happen without anyone specifically causing it by their own volition, we have the option of using \"can\" in English. For example, we can say, \"Things can go wrong\" and \"Anyone can make mistakes.\" However, the potential form cannot be used in these kinds of contexts in Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's say, you want to argue that robots can sometimes make mistakes just like humans. In English, we might say, \"Robots can make mistakes as well.\" In Japanese, using the potential form will create a different meaning for this scenario."
+    },
+    {
+      "type": "formula",
+      "japanese": "ロボットも間違（まちが）えられる。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "This example suggests robots have the ability to make mistakes if they try to do so. So instead, to differentiate from the ability to make mistakes and simply to show the possibility, we say:"
+    },
+    {
+      "type": "example",
+      "japanese": "ロボットも間違（まちが）えることがある。",
+      "english": "There are times robots make mistakes."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's make this a little clearer with another example. Your dear friend Kanae is a sweetheart, but you've noticed that she can be annoying at times, even if she isn't trying to be. Using the potential form here will create a different nuance though. Let's check it out:"
+    },
+    {
+      "type": "formula",
+      "japanese": "かなえはめんどくさくなれる。",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like with the robots, this example indicates that Kanae has the ability to be annoying when she decides to be. To simply express the possibility that she can be annoying at times (even if she's not trying to be), we say:"
+    },
+    {
+      "type": "example",
+      "japanese": "かなえはめんどくさい時（とき）がある。",
+      "english": "There are times that Kanae is annoying."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since this information is based on your experience seeing Kanae being annoying at times, it is more natural to express it in this way."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "asking-for-permission",
+      "text": "Asking for Permission"
+    },
+    {
+      "type": "paragraph",
+      "text": "One use of \"can\" in English is to ask for permission, as in, \"Can I go to the bathroom?\" Of course, your snobby English grammar teacher might have sneered when you asked this, and responded, \"I don't know, can you?\" Even though traditionally, \"May I go to the bathroom?\" would be the \"correct\" way to ask this question, people use \"can\" all the time in this context."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, in Japanese, the potential form is not used for asking for a permission so if you said, トイレに行（い）ける？, it would literally mean, \"Am I able to go to the bathroom?,\" or \"Are you able to go to the bathroom?\" Clearly not what you mean to say, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Let's break this down even more with another example. You and your friend are drinking at a bar. As usual, indecisive-you is regretting your order. You should've just ordered the same drink as your friend since hers looks so much better! To ask if you can have a sip of your friend's drink, you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "❌ 私（わたし）はこれ一（いち）口（くち）飲（の）める？",
+      "english": "Can I take a sip of this?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This sentence doesn't quite make sense. If it's directed at you, and you're questioning your ability to take a sip, then… maybe? It makes slightly more sense, but it's still a weird sentence. Let's try again, but without the subject 私（わたし）は (I) because as you may know, the subject often gets omitted in Japanese:"
+    },
+    {
+      "type": "formula",
+      "japanese": "これ一（いち）口（くち）飲（の）める？",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "Now that the subject is up for interpretation, it could sound like you are asking the friend if she is able to take a sip of the drink she ordered. And that would be a little weird because she's drinking it already—clearly she is able to take a sip, right?"
+    },
+    {
+      "type": "paragraph",
+      "text": "So how do you ask permission to take a sip of the dang drink!? Here's a great way to do it:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ これ一（いち）口（くち）飲（の）んでもいい？",
+      "english": "Is it okay if I take a sip of this?"
+    },
+    {
+      "type": "paragraph",
+      "text": "In general, 〜てもいい is used for this kind of situation instead of the potential form. This is similar to saying, \"Is it okay if…?\" in English. Yay! Now take that sip — you must be thirsty by now!"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "making-requests",
+      "text": "Making Requests"
+    },
+    {
+      "type": "paragraph",
+      "text": "The potential form can be used to make requests in Japanese, but just be aware that the nuance might not be exactly the same as \"Can you…?\" questions for making requests in English. For example, if you want your friend to come over to help with your homework at 5:00, you might say:"
+    },
+    {
+      "type": "example",
+      "japanese": "五（ご）時（じ）に来（こ）れる？",
+      "english": "Can you come over at 5 o'clock?"
+    },
+    {
+      "type": "paragraph",
+      "text": "This works fine as a way to make a request, though the nuance is purely asking if your friend has availability at 5:00 to come over to your place. If you want to ask your friend to come over as a favor , you would say:"
+    },
+    {
+      "type": "example",
+      "japanese": "五（ご）時（じ）に来（き）てくれる？",
+      "english": "Will you come over at 5:00 (for me)?"
+    },
+    {
+      "type": "paragraph",
+      "text": "With くれる attached to the verb 来（く）る (to come), you add the nuance that the action will be done as a favor. Thus, using くれる makes the question seem more like a request, not just to check someone's availability."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "intransitive-verbs-with-potential-nuance",
+      "text": "Intransitive Verbs With Potential Nuance"
+    },
+    {
+      "type": "paragraph",
+      "text": "In Japanese, there are some intransitive verbs that already include potential nuances, so often we don't use them in the potential form."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, you and your friends are looking for a bar to go to. You see a sign for a bar and want to say, \"Can you see that sign over there?\" You might think of conjugating the verb 見（み）る (to see) into the potential form and saying:"
+    },
+    {
+      "type": "formula",
+      "japanese": "❌ あの看板（かんばん）見（み）られる？",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "見（み）られる is the potential form of the transitive verb 見（み）る. However, in Japanese, there is an intransitive verb 見（み）える, which means \"to be in sight,\" and it is used for when something comes into your line of sight naturally without you trying to see it. In this case, instead of using the potential form of 見（み）る, we use the non-potential, regular form of the intransitive verb 見（み）える and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ あの看板（かんばん）見（み）える？",
+      "english": "Is the sign over there in your sight?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The literal translation feels a bit awkward in English, but it's used like, \"Can you see the sign over there?\""
+    },
+    {
+      "type": "paragraph",
+      "text": "We do have situations where we can use 見（み）られる as the potential form of 見（み）る, but this would mean \"can see\" as in \"having a chance to take a look\" rather than \"being able to see.\" So if you want to ask your coworker if they can take a look at a document, you can use the potential form of 見（み）る and say:"
+    },
+    {
+      "type": "example",
+      "japanese": "⭕️ この書類（しょるい）明日（あした）までに見（み）られる？",
+      "english": "Will you be able to take a look at this document by tomorrow?"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are some other intransitive verbs that you'll want to be careful with as well—聞（き）ける and 燃（も）える, for example."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "〜れる is what we're calling the potential form . This verb suffix expresses the ability or possibility to do the action described by the verb, as in 食（た）べられる (can eat), 飲（の）める (can drink), and 泳（およ）げる (can swim). As you can see, the potential form is similar to the word \"can,\" but it is built into the Japanese verb rather than a separate word like in English.",
+    "To begin, let's examine how 〜れる is added to a verb. Depending on the verb's conjugation group , 〜れる might actually take a different form. In fact, the structure of this form is currently undergoing changes in Japanese, so be sure to check that out.",
+    "For godan verbs , replace the ending vowel from the う column on the kana chart to its corresponding え column kana and add る. So if the original ending is 〜う, the new ending will be 〜える. If it's む, your new potential ending will be 〜める, and so on.",
+    "Let's try conjugating the verb 買（か）う (to buy) into its potential form (because it's such a good feeling when you're able to buy something). 買（か）う (ka u ) becomes 買（か）える (ka eru ).",
+    "Let's take a look at another example. What about 読（よ）む (to read)? You would want to conjugate 読（よ）む (yom u ) into 読（よ）める (yom eru ).",
+    "The way the potential form attaches to ichidan verbs is where language shifts are happening in Japanese. The more traditional, standard form is 〜られる. Simply replace the 〜る ending with 〜られる. For example, 食（た）べ る (to eat) becomes 食（た）べ られる in its potential form, which is important to know for those of us who constantly wonder if things around us are edible or not.",
+    "However, this 〜られる ending is actually completely identical in structure to the passive form ! For this reason, the Japanese languages has shifted and it's become common to omit the ら part of the ending. Many kids these days (and even those who are not so young) say 食（た）べ れる instead of 食（た）べ られる . This phenomenon is called ら抜（ぬ）き言葉（ことば）, literally meaning \"taking ら off words.\" While the usage of ら抜（ぬ）き has been controversial, the trend is becoming more of a new standard.",
+    "As for irregular verbs , the potential form of 来（く）る (to come) is 来（こ）られる. As you might have guessed from the られる ending, you will see people using ら抜（ぬ）き言葉（ことば） form, 来（こ）れる, quite often.",
+    "する (to do) becomes a totally-different-looking verb—できる.",
+    "This use is very straightforward. Just like the English \"can,\" the potential form can be used for skill and ability.",
+    "Let's look at an example:",
+    "The sentence uses the potential form of the verb 読（よ）む (to read), which is 読（よ）める, to show that you've acquired a skill , and now you know how to read Japanese. Let's compare this with something similar, but slightly different—ability:",
+    "This one means you have the ability and enough vision to read whatever the small letters say, and you can totally use it like \"can\" in English.",
+    "You can also use this form for expressing what's situationally possible or allowable.",
+    "This indicates that the coffee shop has books by Murakami, and you can read them there.",
+    "In case you didn't know, and good news for those who love drinking—this is all true! Japan allows people to drink in public, and there is no problem with drinking in parks. So in this case, it is situationally possible to drink at parks because public drinking is socially and legally allowed in Japan.",
+    "The potential form can be used to express \"-bility\" attributes of things, such as edibility, fixability, usability, etc.",
+    "For example, imagine your classmate says to you:",
+    "Maybe your classmate is just being crazy, or maybe it is a special type of eraser you can eat! In any case, you can say that it's edible using the potential form of 食（た）べる (to eat)—食（た）べ られる .",
+    "Let's look at another example. Imagine your mom says to you:",
+    "Your classmate eats erasers, and your mom wears a bowl on her head? Sounds like you are surrounded by interesting people! Anyway, it's more important to note that in this type of context, the particle は is often used instead of が or を to neutrally state whatever has the \"-bility\" attribute.",
+    "Up until now, we've seen cases where the potential form works just like \"can\" in English. However, the English \"can\" covers \"possibility\" in a broader sense than in the potential form in Japanese, so let's look at some cases you would want to be careful using it.",
+    "To express that something might happen without anyone specifically causing it by their own volition, we have the option of using \"can\" in English. For example, we can say, \"Things can go wrong\" and \"Anyone can make mistakes.\" However, the potential form cannot be used in these kinds of contexts in Japanese.",
+    "Let's say, you want to argue that robots can sometimes make mistakes just like humans. In English, we might say, \"Robots can make mistakes as well.\" In Japanese, using the potential form will create a different meaning for this scenario.",
+    "This example suggests robots have the ability to make mistakes if they try to do so. So instead, to differentiate from the ability to make mistakes and simply to show the possibility, we say:",
+    "Let's make this a little clearer with another example. Your dear friend Kanae is a sweetheart, but you've noticed that she can be annoying at times, even if she isn't trying to be. Using the potential form here will create a different nuance though. Let's check it out:",
+    "Just like with the robots, this example indicates that Kanae has the ability to be annoying when she decides to be. To simply express the possibility that she can be annoying at times (even if she's not trying to be), we say:",
+    "Since this information is based on your experience seeing Kanae being annoying at times, it is more natural to express it in this way.",
+    "One use of \"can\" in English is to ask for permission, as in, \"Can I go to the bathroom?\" Of course, your snobby English grammar teacher might have sneered when you asked this, and responded, \"I don't know, can you?\" Even though traditionally, \"May I go to the bathroom?\" would be the \"correct\" way to ask this question, people use \"can\" all the time in this context.",
+    "However, in Japanese, the potential form is not used for asking for a permission so if you said, トイレに行（い）ける？, it would literally mean, \"Am I able to go to the bathroom?,\" or \"Are you able to go to the bathroom?\" Clearly not what you mean to say, right?",
+    "Let's break this down even more with another example. You and your friend are drinking at a bar. As usual, indecisive-you is regretting your order. You should've just ordered the same drink as your friend since hers looks so much better! To ask if you can have a sip of your friend's drink, you might say:",
+    "This sentence doesn't quite make sense. If it's directed at you, and you're questioning your ability to take a sip, then… maybe? It makes slightly more sense, but it's still a weird sentence. Let's try again, but without the subject 私（わたし）は (I) because as you may know, the subject often gets omitted in Japanese:",
+    "Now that the subject is up for interpretation, it could sound like you are asking the friend if she is able to take a sip of the drink she ordered. And that would be a little weird because she's drinking it already—clearly she is able to take a sip, right?",
+    "So how do you ask permission to take a sip of the dang drink!? Here's a great way to do it:",
+    "In general, 〜てもいい is used for this kind of situation instead of the potential form. This is similar to saying, \"Is it okay if…?\" in English. Yay! Now take that sip — you must be thirsty by now!",
+    "The potential form can be used to make requests in Japanese, but just be aware that the nuance might not be exactly the same as \"Can you…?\" questions for making requests in English. For example, if you want your friend to come over to help with your homework at 5:00, you might say:",
+    "This works fine as a way to make a request, though the nuance is purely asking if your friend has availability at 5:00 to come over to your place. If you want to ask your friend to come over as a favor , you would say:",
+    "With くれる attached to the verb 来（く）る (to come), you add the nuance that the action will be done as a favor. Thus, using くれる makes the question seem more like a request, not just to check someone's availability.",
+    "In Japanese, there are some intransitive verbs that already include potential nuances, so often we don't use them in the potential form.",
+    "For example, you and your friends are looking for a bar to go to. You see a sign for a bar and want to say, \"Can you see that sign over there?\" You might think of conjugating the verb 見（み）る (to see) into the potential form and saying:",
+    "見（み）られる is the potential form of the transitive verb 見（み）る. However, in Japanese, there is an intransitive verb 見（み）える, which means \"to be in sight,\" and it is used for when something comes into your line of sight naturally without you trying to see it. In this case, instead of using the potential form of 見（み）る, we use the non-potential, regular form of the intransitive verb 見（み）える and say:",
+    "The literal translation feels a bit awkward in English, but it's used like, \"Can you see the sign over there?\"",
+    "We do have situations where we can use 見（み）られる as the potential form of 見（み）る, but this would mean \"can see\" as in \"having a chance to take a look\" rather than \"being able to see.\" So if you want to ask your coworker if they can take a look at a document, you can use the potential form of 見（み）る and say:",
+    "There are some other intransitive verbs that you'll want to be careful with as well—聞（き）ける and 燃（も）える, for example."
+  ],
+  "examples": [
+    {
+      "japanese": "日本語（にほんご）が読（よ）める。",
+      "english": "I can read Japanese."
+    },
+    {
+      "japanese": "遠（とお）くからでも小（ちい）さい文字（もじ）が読（よ）める。",
+      "english": "I can read small letters from afar."
+    },
+    {
+      "japanese": "そのカフェでは村上（むらかみ）春樹（はるき）の本（ほん）が読（よ）める。",
+      "english": "You can read books by Haruki Murakami at that coffee shop."
+    },
+    {
+      "japanese": "日本（にっぽん）では公園（こうえん）でお酒（さけ）が飲（の）める。",
+      "english": "In Japan, you can drink alcohol in parks."
+    },
+    {
+      "japanese": "この消（け）しゴムは食（た）べられる。",
+      "english": "This eraser is edible."
+    },
+    {
+      "japanese": "ボウルは帽子（ぼうし）として使（つか）える。",
+      "english": "This bowl is usable as a hat."
+    },
+    {
+      "japanese": "ロボットも間違（まちが）えることがある。",
+      "english": "There are times robots make mistakes."
+    },
+    {
+      "japanese": "かなえはめんどくさい時（とき）がある。",
+      "english": "There are times that Kanae is annoying."
+    },
+    {
+      "japanese": "❌ 私（わたし）はこれ一（いち）口（くち）飲（の）める？",
+      "english": "Can I take a sip of this?"
+    },
+    {
+      "japanese": "⭕️ これ一（いち）口（くち）飲（の）んでもいい？",
+      "english": "Is it okay if I take a sip of this?"
+    },
+    {
+      "japanese": "五（ご）時（じ）に来（こ）れる？",
+      "english": "Can you come over at 5 o'clock?"
+    },
+    {
+      "japanese": "五（ご）時（じ）に来（き）てくれる？",
+      "english": "Will you come over at 5:00 (for me)?"
+    },
+    {
+      "japanese": "⭕️ あの看板（かんばん）見（み）える？",
+      "english": "Is the sign over there in your sight?"
+    },
+    {
+      "japanese": "⭕️ この書類（しょるい）明日（あした）までに見（み）られる？",
+      "english": "Will you be able to take a look at this document by tomorrow?"
+    },
+    {
+      "japanese": "買（か）う + え + る = 買（か）える",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "読（よ）む + え + る = 読（よ）める",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "食（た）べる + られる = 食（た）べられる",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "ロボットも間違（まちが）えられる。",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "かなえはめんどくさくなれる。",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "これ一（いち）口（くち）飲（の）める？",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "❌ あの看板（かんばん）見（み）られる？",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Godan",
+        "会（あ）う → 会（あ）える 立（た）つ → 立（た）てる 写（うつ）す → 写（うつ）せる 割（われ）る → 割（わ）れる 書（か）く → 書（か）ける 泳（およ）ぐ → 泳（およ）げる 死（し）ぬ → 死（し）ねる 学（まな）ぶ → 学（まな）べる 休（やす）む → 休（やす）める"
+      ],
+      [
+        "Ichidan(ら抜（ぬ）き言葉（ことば）)",
+        "食（た）べる → 食（た）べられる (食（た）べれる) 起（お）きる → 起（お）きられる (起（お）きれる) 閉（と）じる → 閉（と）じられる (閉（と）じれる)"
+      ],
+      [
+        "Irregular",
+        "来（く）る（く ） → 来（こ）られる（こ ） ( 来（こ）れる（こ ）) する → できる"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conjugating-verbs-to-take-",
+      "text": "Conjugating Verbs to Take 〜れる"
+    },
+    {
+      "level": 4,
+      "id": "godan-verbs",
+      "text": "Godan Verbs"
+    },
+    {
+      "level": 4,
+      "id": "ichidan-verbs",
+      "text": "Ichidan Verbs"
+    },
+    {
+      "level": 4,
+      "id": "irregular-verbs",
+      "text": "Irregular Verbs"
+    },
+    {
+      "level": 3,
+      "id": "potential-form-for-skill-and-ability",
+      "text": "Potential Form for Skill and Ability"
+    },
+    {
+      "level": 3,
+      "id": "potential-form-for-possibilities",
+      "text": "Potential Form for Possibilities"
+    },
+    {
+      "level": 3,
+      "id": "potential-form-for--bility-attributes",
+      "text": "Potential Form for \"-bility\" Attributes"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "when-something-can-happen-without-volition",
+      "text": "When Something Can Happen without Volition"
+    },
+    {
+      "level": 3,
+      "id": "asking-for-permission",
+      "text": "Asking for Permission"
+    },
+    {
+      "level": 3,
+      "id": "making-requests",
+      "text": "Making Requests"
+    },
+    {
+      "level": 3,
+      "id": "intransitive-verbs-with-potential-nuance",
+      "text": "Intransitive Verbs With Potential Nuance"
+    }
+  ],
+  "id": 79,
+  "slug": "verb-potential-form-reru",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/verb-potential-form-reru/",
+  "categories": [
+    "Verb Form"
+  ]
+}

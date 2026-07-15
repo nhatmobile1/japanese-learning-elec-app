@@ -1,0 +1,648 @@
+{
+  "title": "です",
+  "description": "です is used to mark words as polite if they cannot conjugate to show politeness themselves.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Grammar Equations"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "です is one of the most fundamental words in the Japanese language. It’s super useful — it can be attached to just one other word to form some basic sentences. It’s also quite safe to use since it’s part of the polite form , so you’re unlikely to offend someone with this word."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "as-a-politeness-marker",
+      "text": "です as a Politeness Marker"
+    },
+    {
+      "type": "paragraph",
+      "text": "The most fundamental function of です is to mark a sentence as polite. You might be tempted to think of it as the polite form of だ , but these two words have some pretty big differences. Put simply, だ marks sentences as present tense and positive, whereas です is really just a simple marker of politeness."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "です is found at the end of sentences, where it marks the sentence as polite."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-nouns-and-adjectives",
+      "text": "です With Nouns and Adjectives"
+    },
+    {
+      "type": "paragraph",
+      "text": "です can be tacked onto the end of a noun , な-adjective , or い-adjective to form a polite, positive, present tense sentence (say that ten times fast 😉). In other words, it allows us to talk about something that is true, and relevant to the present moment and/or the future—all in a polite way of course. Let’s take a look:"
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）は萌子（もえこ）です。",
+      "english": "I am Moeko."
+    },
+    {
+      "type": "paragraph",
+      "text": "While 「私（わたし）は萌子（もえこ）。」 is also a grammatically acceptable sentence in Japanese, it sounds a bit childish without our trusty です added to the end. です is added to make the sentence sound polite and socially aware, which is something you’d generally do when introducing yourself."
+    },
+    {
+      "type": "paragraph",
+      "text": "When used with common nouns, like natto , everyone’s favorite stinky soy bean dish, です adds a polite, presentational tone to a sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "はい、納豆（なっとう）です。",
+      "english": "Ok, here’s the natto."
+    },
+    {
+      "type": "paragraph",
+      "text": "Imagine someone handing you a bowl of natto and speaking this sentence. While they could simply say はい、納豆（なっとう）, adding です makes the sentence sound more respectful and polite."
+    },
+    {
+      "type": "paragraph",
+      "text": "です can also be used after adjectives that describe the subject of a sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "納豆（なっとう）は健康（けんこう）的（てき）です。",
+      "english": "Natto is healthy."
+    },
+    {
+      "type": "example",
+      "japanese": "納豆（なっとう）はまずいです。",
+      "english": "Natto is unpleasant."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the first sentence, the な-adjective 健康（けんこう）的（てき） (healthy) describes the subject of the sentence (納豆（なっとう）), and the い-adjective まずい (unpleasant) in the second sentence does the same thing. Just like with nouns, the meaning that です adds to these sentences is a feeling of politeness and social engagement."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-negative-marker-",
+      "text": "です with Negative Marker ない"
+    },
+    {
+      "type": "paragraph",
+      "text": "です can be used with ない, a word that marks words as negative, or not true. This is one of the reasons that we say です is not the polite form of だ, and that they are inherently different words. だ tells us that a statement is positive, or true. For this reason だ is contradictory to ない, and can’t attach to it."
+    },
+    {
+      "type": "paragraph",
+      "text": "です on the other hand makes no claims about being true or false, it simply tells us that the sentence is polite. For this reason, it can follow any word marked with ない, whether it’s a noun, な-adjective, い-adjective, or even a verb."
+    },
+    {
+      "type": "paragraph",
+      "text": "ない marks nouns and な-adjectives negative as part of a phrase, like じゃない . です can follow this to indicate the sentence is polite:"
+    },
+    {
+      "type": "example",
+      "japanese": "トマトは野菜（やさい）じゃないです。",
+      "english": "Tomatoes are not vegetables."
+    },
+    {
+      "type": "example",
+      "japanese": "このトマトは新鮮（しんせん）じゃないです。",
+      "english": "This tomato is not fresh."
+    },
+    {
+      "type": "paragraph",
+      "text": "い-adjectives also use ない to become negative by conjugating to the 〜くない ending. Here too, です can be used to mark politeness."
+    },
+    {
+      "type": "example",
+      "japanese": "納豆（なっとう）はまずくないです。",
+      "english": "Natto is not unpleasant."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the negative plain form of verbs , verbs conjugate to end in ない, showing that they are negative. です is able to mark politeness here too."
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）達（たち）は納豆（なっとう）を食（た）べないです。",
+      "english": "We don’t eat natto."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, it’s good to know that, while polite, the 〜ないです ending of verbs is considered more colloquial, and less “proper” than the polite form verb ending 〜ません . Still, it is widely used in spoken Japanese and some informal writing as well."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "with-past-tense-marker-",
+      "text": "です With Past Tense Marker 〜かった"
+    },
+    {
+      "type": "paragraph",
+      "text": "です can be used with 〜かった , the past tense form of い-adjectives. This is the second reason that we think of です and だ as quite different from one another—だ marks a sentence as present tense, so using it after 〜かった is not possible."
+    },
+    {
+      "type": "paragraph",
+      "text": "Meanwhile, the only function of です is to mark for politeness, so it does not contradict the past tense 〜かった form. For this reason, です can be used with past tense い-adjectives, as well anywhere the past tense of ない pops up, such as with nouns, な-adjectives, and verbs."
+    },
+    {
+      "type": "paragraph",
+      "text": "です can appear after a positive past tense い-adjective:"
+    },
+    {
+      "type": "example",
+      "japanese": "昨日（きのう）の納豆（なっとう）は美味（おい）しかったです。",
+      "english": "The natto from yesterday was delicious."
+    },
+    {
+      "type": "paragraph",
+      "text": "です can also be be used after a negaitve past tense い-adjective:"
+    },
+    {
+      "type": "example",
+      "japanese": "でも、その前（まえ）の日（ひ）の納豆（なっとう）は美味（おい）しくなかったです。",
+      "english": "But, the natto from a day before yesterday was not delicious."
+    },
+    {
+      "type": "paragraph",
+      "text": "です can be used after the past tense form of ない, whether it crops up with nouns, な-adjectives, or verbs."
+    },
+    {
+      "type": "paragraph",
+      "text": "With a negative, past tense noun:"
+    },
+    {
+      "type": "example",
+      "japanese": "それは納豆（なっとう）じゃなかったです。",
+      "english": "That was not natto."
+    },
+    {
+      "type": "paragraph",
+      "text": "A negative, past tense な-adjective:"
+    },
+    {
+      "type": "example",
+      "japanese": "納豆（なっとう）を食（た）べる前（まえ）は、元気（げんき）じゃなかったです。",
+      "english": "Before eating natto, I was not well."
+    },
+    {
+      "type": "paragraph",
+      "text": "With a negative, past tense, plain form verb:"
+    },
+    {
+      "type": "example",
+      "japanese": "あら、納豆（なっとう）がない！昨日（きのう）は買（か）いに行（い）かなかったです。",
+      "english": "Oh no, there’s no natto! I did not go to buy any yesterday."
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like we mentioned before with the present tense 〜ない ending of verbs, adding です to the past tense 〜なかった ending is not considered to be as proper as using the ます form. Traditional grammarians would argue that 〜ませんでした is the preferred way of making a verb polite, negative, and past tense, but it’s true that 〜なかったです is frequently used spoken Japanese."
+    },
+    {
+      "type": "paragraph",
+      "text": "Since です can occur with the past tense い-adjectives and verbs, you should be able to see that it is not inherently a present tense marker. That being said, it’s important to know that です does have a past tense form itself, which is でした . When you want to mark a word as past tense that cannot be conjugated on its own (like a noun or な-adjective), then でした comes in very handy."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "in-the-middle-of-a-sentence",
+      "text": "です in the Middle of a Sentence"
+    },
+    {
+      "type": "paragraph",
+      "text": "When です appears in the middle of a sentence, it means that there are actually two or more clauses within that sentence. A clause is essentially a sentence that exists inside or connected to another sentence."
+    },
+    {
+      "type": "paragraph",
+      "text": "Let’s start with a sentence-within-a-sentence (i.e. an embedded clause):"
+    },
+    {
+      "type": "example",
+      "japanese": "コウイチは 「納豆（なっとう）はおいしいです」 と言（い）いました。",
+      "english": "Koichi said “Natto is delicious.”"
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence,「納豆（なっとう）はおいしいです」is a direct quote. It is exactly what Koichi said, word-for-word. This quote is called an “embedded clause” because it exists inside the larger, main clause,「コウイチは…と言（い）いました」. です can appear at the end of an embedded clause if it is a direct quote, but it cannot be used at the end of any other embedded clause. For example:"
+    },
+    {
+      "type": "example",
+      "japanese": "[納豆（なっとう）が健康（けんこう）的（てき） です だ] と世界中（せかいじゅう）の皆（みな）さんに伝（つた）えたいです。",
+      "english": "I want to tell the people of the world [that natto is healthy]."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this sentence,「納豆（なっとう）が健康（けんこう）的（てき）だ」is not a direct quote of anyone, it is simply the message that you want to convey to the world. You probably won’t use those exact words to convey the message, so this clause just represents your idea or intention. Since です can only be used in embedded clauses that are direct quotes, this one needs to end with だ. Despite the plain form だ popping up, this sentence is still polite overall. This is because です appears at the end of the main clause, after the verb 伝（つた）えたい (want to tell)."
+    },
+    {
+      "type": "paragraph",
+      "text": "Another reason です might appear in the middle of a sentence is if there are two clauses that are not embedded, but joined together into one sentence:"
+    },
+    {
+      "type": "example",
+      "japanese": "[A: 健康（けんこう）は第（だい）一（いち）です]–から–[B: 納豆（なっとう）は人気（にんき）です]。",
+      "english": "Health is top priority, so natto is popular."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this example sentence, there are two clauses, [A: 健康（けんこう）は第（だい）一（いち）です] and [B: 納豆（なっとう）は人気（にんき）です], which could stand on their own as independent sentences. They are connected by から , which tells us that clause A is the reason for clause B. から is part of a group of conjunctive particles that connect clauses together, such as が and けど , and ので ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because clause A and clause B would become independent sentences if から was removed, it is possible for both clauses to have different politeness levels. In the example above, they are the same; both marked as polite by です at the end of each clause. However, it would be grammatical to change the ending of clause A to the plain form using だ, and then mark clause B as polite with です:"
+    },
+    {
+      "type": "example",
+      "japanese": "[A: 健康（けんこう）は第（だい）一（いち）だ]–から–[B: 納豆（なっとう）は人気（にんき）です]。",
+      "english": "Health is top priority, so natto is a treasure."
+    },
+    {
+      "type": "paragraph",
+      "text": "Even though clause A is marked with だ, this sentence feels polite overall, because the ending of the entire sentence is the most potent marker of politeness. While we can have clause A in the plain form and clause B in the polite form, the reverse is not possible:"
+    },
+    {
+      "type": "example",
+      "japanese": "❌[A: 健康（けんこう）は第（だい）一（いち）です]–から–[B: 納豆（なっとう）は人気（にんき）だ]。",
+      "english": "Health is top priority, so natto is a treasure."
+    },
+    {
+      "type": "paragraph",
+      "text": "It’s possible that someone could say this sentence in spoken Japanese for some reason, but it is definitely awkward to have the first clause more polite than the second. In general, you should avoid putting the polite clause before the plain form clause."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "です is used to mark words as polite only if they do not have their own way of conjugating to show politeness themselves. So while です is used with the negative 〜ない form of verbs, it is not used with them in any other formation, since these can be conjugated to show politeness themselves with the 〜ます ending."
+    },
+    {
+      "type": "formula",
+      "japanese": "行（い）く (go) → ⭕ 行（い）きます / ❌ 行（い）くです",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "行（い）く (go) → ⭕ 行（い）き ます / ❌ 行（い）くです"
+    },
+    {
+      "type": "formula",
+      "japanese": "行（い）った (went) → ⭕ 行（い）きました / ❌ 行（おこな）ったです",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "行（い）った (went) → ⭕ 行（い）き ました / ❌ 行（おこな）ったです"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Vocabulary"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "納豆（なっとう） (なっとう) — natto, fermented soy beans (noun)"
+        ],
+        [
+          "健康（けんこう）的（てき） (けんこうてき) — healthy (な-adjective)"
+        ],
+        [
+          "まずい (まずい) — unpleasant, unappetizing (い-adjective)"
+        ],
+        [
+          "トマト (とまと) — tomato (noun)"
+        ],
+        [
+          "野菜（やさい） (やさい) — vegetable (noun)"
+        ],
+        [
+          "新鮮（しんせん） (しんせん) — fresh (な-adjective)"
+        ],
+        [
+          "私（わたし）達（たち） (わたしたち) — we, us (personal noun)"
+        ],
+        [
+          "食（た）べない (たべない) — not eat (ichidan verb / negative form / non-past tense)"
+        ],
+        [
+          "昨日（きのう） (きのう) — yesterday (noun)"
+        ],
+        [
+          "美味（おい）しかった (おいしかった) — was delicious (い-adjective / past tesne)"
+        ],
+        [
+          "前（まえ） (まえ) — previous, before (noun)"
+        ],
+        [
+          "日（にち） (ひ) — day (noun)"
+        ],
+        [
+          "元気（げんき） (げんき) — healthy, genki (な-adjective)"
+        ],
+        [
+          "世界中（せかいじゅう） (せかいじゅう) — around the world (noun)"
+        ],
+        [
+          "皆（みな）さん (みなさん) — everyone (noun)"
+        ],
+        [
+          "伝（つた）えたい (つたえたい) — want to tell (ichidan verb / desiderative 〜たい form / non-past tense)"
+        ],
+        [
+          "言（い）いました (いいました) — said (godan verb / past tesne)"
+        ],
+        [
+          "健康（けんこう） (けんこう) — health (な-adjective)"
+        ],
+        [
+          "第（だい）一（いち） (だいいち) — number one (noun)"
+        ],
+        [
+          "人気（にんき） (にんき) — popular (な-adjective)"
+        ]
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "です is one of the most fundamental words in the Japanese language. It’s super useful — it can be attached to just one other word to form some basic sentences. It’s also quite safe to use since it’s part of the polite form , so you’re unlikely to offend someone with this word.",
+    "The most fundamental function of です is to mark a sentence as polite. You might be tempted to think of it as the polite form of だ , but these two words have some pretty big differences. Put simply, だ marks sentences as present tense and positive, whereas です is really just a simple marker of politeness.",
+    "です is found at the end of sentences, where it marks the sentence as polite.",
+    "です can be tacked onto the end of a noun , な-adjective , or い-adjective to form a polite, positive, present tense sentence (say that ten times fast 😉). In other words, it allows us to talk about something that is true, and relevant to the present moment and/or the future—all in a polite way of course. Let’s take a look:",
+    "While 「私（わたし）は萌子（もえこ）。」 is also a grammatically acceptable sentence in Japanese, it sounds a bit childish without our trusty です added to the end. です is added to make the sentence sound polite and socially aware, which is something you’d generally do when introducing yourself.",
+    "When used with common nouns, like natto , everyone’s favorite stinky soy bean dish, です adds a polite, presentational tone to a sentence:",
+    "Imagine someone handing you a bowl of natto and speaking this sentence. While they could simply say はい、納豆（なっとう）, adding です makes the sentence sound more respectful and polite.",
+    "です can also be used after adjectives that describe the subject of a sentence:",
+    "In the first sentence, the な-adjective 健康（けんこう）的（てき） (healthy) describes the subject of the sentence (納豆（なっとう）), and the い-adjective まずい (unpleasant) in the second sentence does the same thing. Just like with nouns, the meaning that です adds to these sentences is a feeling of politeness and social engagement.",
+    "です can be used with ない, a word that marks words as negative, or not true. This is one of the reasons that we say です is not the polite form of だ, and that they are inherently different words. だ tells us that a statement is positive, or true. For this reason だ is contradictory to ない, and can’t attach to it.",
+    "です on the other hand makes no claims about being true or false, it simply tells us that the sentence is polite. For this reason, it can follow any word marked with ない, whether it’s a noun, な-adjective, い-adjective, or even a verb.",
+    "ない marks nouns and な-adjectives negative as part of a phrase, like じゃない . です can follow this to indicate the sentence is polite:",
+    "い-adjectives also use ない to become negative by conjugating to the 〜くない ending. Here too, です can be used to mark politeness.",
+    "In the negative plain form of verbs , verbs conjugate to end in ない, showing that they are negative. です is able to mark politeness here too.",
+    "However, it’s good to know that, while polite, the 〜ないです ending of verbs is considered more colloquial, and less “proper” than the polite form verb ending 〜ません . Still, it is widely used in spoken Japanese and some informal writing as well.",
+    "です can be used with 〜かった , the past tense form of い-adjectives. This is the second reason that we think of です and だ as quite different from one another—だ marks a sentence as present tense, so using it after 〜かった is not possible.",
+    "Meanwhile, the only function of です is to mark for politeness, so it does not contradict the past tense 〜かった form. For this reason, です can be used with past tense い-adjectives, as well anywhere the past tense of ない pops up, such as with nouns, な-adjectives, and verbs.",
+    "です can appear after a positive past tense い-adjective:",
+    "です can also be be used after a negaitve past tense い-adjective:",
+    "です can be used after the past tense form of ない, whether it crops up with nouns, な-adjectives, or verbs.",
+    "With a negative, past tense noun:",
+    "A negative, past tense な-adjective:",
+    "With a negative, past tense, plain form verb:",
+    "Just like we mentioned before with the present tense 〜ない ending of verbs, adding です to the past tense 〜なかった ending is not considered to be as proper as using the ます form. Traditional grammarians would argue that 〜ませんでした is the preferred way of making a verb polite, negative, and past tense, but it’s true that 〜なかったです is frequently used spoken Japanese.",
+    "Since です can occur with the past tense い-adjectives and verbs, you should be able to see that it is not inherently a present tense marker. That being said, it’s important to know that です does have a past tense form itself, which is でした . When you want to mark a word as past tense that cannot be conjugated on its own (like a noun or な-adjective), then でした comes in very handy.",
+    "When です appears in the middle of a sentence, it means that there are actually two or more clauses within that sentence. A clause is essentially a sentence that exists inside or connected to another sentence.",
+    "Let’s start with a sentence-within-a-sentence (i.e. an embedded clause):",
+    "In this sentence,「納豆（なっとう）はおいしいです」is a direct quote. It is exactly what Koichi said, word-for-word. This quote is called an “embedded clause” because it exists inside the larger, main clause,「コウイチは…と言（い）いました」. です can appear at the end of an embedded clause if it is a direct quote, but it cannot be used at the end of any other embedded clause. For example:",
+    "In this sentence,「納豆（なっとう）が健康（けんこう）的（てき）だ」is not a direct quote of anyone, it is simply the message that you want to convey to the world. You probably won’t use those exact words to convey the message, so this clause just represents your idea or intention. Since です can only be used in embedded clauses that are direct quotes, this one needs to end with だ. Despite the plain form だ popping up, this sentence is still polite overall. This is because です appears at the end of the main clause, after the verb 伝（つた）えたい (want to tell).",
+    "Another reason です might appear in the middle of a sentence is if there are two clauses that are not embedded, but joined together into one sentence:",
+    "In this example sentence, there are two clauses, [A: 健康（けんこう）は第（だい）一（いち）です] and [B: 納豆（なっとう）は人気（にんき）です], which could stand on their own as independent sentences. They are connected by から , which tells us that clause A is the reason for clause B. から is part of a group of conjunctive particles that connect clauses together, such as が and けど , and ので .",
+    "Because clause A and clause B would become independent sentences if から was removed, it is possible for both clauses to have different politeness levels. In the example above, they are the same; both marked as polite by です at the end of each clause. However, it would be grammatical to change the ending of clause A to the plain form using だ, and then mark clause B as polite with です:",
+    "Even though clause A is marked with だ, this sentence feels polite overall, because the ending of the entire sentence is the most potent marker of politeness. While we can have clause A in the plain form and clause B in the polite form, the reverse is not possible:",
+    "It’s possible that someone could say this sentence in spoken Japanese for some reason, but it is definitely awkward to have the first clause more polite than the second. In general, you should avoid putting the polite clause before the plain form clause.",
+    "です is used to mark words as polite only if they do not have their own way of conjugating to show politeness themselves. So while です is used with the negative 〜ない form of verbs, it is not used with them in any other formation, since these can be conjugated to show politeness themselves with the 〜ます ending.",
+    "行（い）く (go) → ⭕ 行（い）き ます / ❌ 行（い）くです",
+    "行（い）った (went) → ⭕ 行（い）き ました / ❌ 行（おこな）ったです"
+  ],
+  "examples": [
+    {
+      "japanese": "私（わたし）は萌子（もえこ）です。",
+      "english": "I am Moeko."
+    },
+    {
+      "japanese": "はい、納豆（なっとう）です。",
+      "english": "Ok, here’s the natto."
+    },
+    {
+      "japanese": "納豆（なっとう）は健康（けんこう）的（てき）です。",
+      "english": "Natto is healthy."
+    },
+    {
+      "japanese": "納豆（なっとう）はまずいです。",
+      "english": "Natto is unpleasant."
+    },
+    {
+      "japanese": "トマトは野菜（やさい）じゃないです。",
+      "english": "Tomatoes are not vegetables."
+    },
+    {
+      "japanese": "このトマトは新鮮（しんせん）じゃないです。",
+      "english": "This tomato is not fresh."
+    },
+    {
+      "japanese": "納豆（なっとう）はまずくないです。",
+      "english": "Natto is not unpleasant."
+    },
+    {
+      "japanese": "私（わたし）達（たち）は納豆（なっとう）を食（た）べないです。",
+      "english": "We don’t eat natto."
+    },
+    {
+      "japanese": "昨日（きのう）の納豆（なっとう）は美味（おい）しかったです。",
+      "english": "The natto from yesterday was delicious."
+    },
+    {
+      "japanese": "でも、その前（まえ）の日（ひ）の納豆（なっとう）は美味（おい）しくなかったです。",
+      "english": "But, the natto from a day before yesterday was not delicious."
+    },
+    {
+      "japanese": "それは納豆（なっとう）じゃなかったです。",
+      "english": "That was not natto."
+    },
+    {
+      "japanese": "納豆（なっとう）を食（た）べる前（まえ）は、元気（げんき）じゃなかったです。",
+      "english": "Before eating natto, I was not well."
+    },
+    {
+      "japanese": "あら、納豆（なっとう）がない！昨日（きのう）は買（か）いに行（い）かなかったです。",
+      "english": "Oh no, there’s no natto! I did not go to buy any yesterday."
+    },
+    {
+      "japanese": "コウイチは 「納豆（なっとう）はおいしいです」 と言（い）いました。",
+      "english": "Koichi said “Natto is delicious.”"
+    },
+    {
+      "japanese": "[納豆（なっとう）が健康（けんこう）的（てき） です だ] と世界中（せかいじゅう）の皆（みな）さんに伝（つた）えたいです。",
+      "english": "I want to tell the people of the world [that natto is healthy]."
+    },
+    {
+      "japanese": "[A: 健康（けんこう）は第（だい）一（いち）です]–から–[B: 納豆（なっとう）は人気（にんき）です]。",
+      "english": "Health is top priority, so natto is popular."
+    },
+    {
+      "japanese": "[A: 健康（けんこう）は第（だい）一（いち）だ]–から–[B: 納豆（なっとう）は人気（にんき）です]。",
+      "english": "Health is top priority, so natto is a treasure."
+    },
+    {
+      "japanese": "❌[A: 健康（けんこう）は第（だい）一（いち）です]–から–[B: 納豆（なっとう）は人気（にんき）だ]。",
+      "english": "Health is top priority, so natto is a treasure."
+    },
+    {
+      "japanese": "行（い）く (go) → ⭕ 行（い）きます / ❌ 行（い）くです",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "行（い）った (went) → ⭕ 行（い）きました / ❌ 行（おこな）ったです",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "納豆（なっとう） (なっとう) — natto, fermented soy beans (noun)"
+      ],
+      [
+        "健康（けんこう）的（てき） (けんこうてき) — healthy (な-adjective)"
+      ],
+      [
+        "まずい (まずい) — unpleasant, unappetizing (い-adjective)"
+      ],
+      [
+        "トマト (とまと) — tomato (noun)"
+      ],
+      [
+        "野菜（やさい） (やさい) — vegetable (noun)"
+      ],
+      [
+        "新鮮（しんせん） (しんせん) — fresh (な-adjective)"
+      ],
+      [
+        "私（わたし）達（たち） (わたしたち) — we, us (personal noun)"
+      ],
+      [
+        "食（た）べない (たべない) — not eat (ichidan verb / negative form / non-past tense)"
+      ],
+      [
+        "昨日（きのう） (きのう) — yesterday (noun)"
+      ],
+      [
+        "美味（おい）しかった (おいしかった) — was delicious (い-adjective / past tesne)"
+      ],
+      [
+        "前（まえ） (まえ) — previous, before (noun)"
+      ],
+      [
+        "日（にち） (ひ) — day (noun)"
+      ],
+      [
+        "元気（げんき） (げんき) — healthy, genki (な-adjective)"
+      ],
+      [
+        "世界中（せかいじゅう） (せかいじゅう) — around the world (noun)"
+      ],
+      [
+        "皆（みな）さん (みなさん) — everyone (noun)"
+      ],
+      [
+        "伝（つた）えたい (つたえたい) — want to tell (ichidan verb / desiderative 〜たい form / non-past tense)"
+      ],
+      [
+        "言（い）いました (いいました) — said (godan verb / past tesne)"
+      ],
+      [
+        "健康（けんこう） (けんこう) — health (な-adjective)"
+      ],
+      [
+        "第（だい）一（いち） (だいいち) — number one (noun)"
+      ],
+      [
+        "人気（にんき） (にんき) — popular (な-adjective)"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "as-a-politeness-marker",
+      "text": "です as a Politeness Marker"
+    },
+    {
+      "level": 2,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "with-nouns-and-adjectives",
+      "text": "です With Nouns and Adjectives"
+    },
+    {
+      "level": 3,
+      "id": "with-negative-marker-",
+      "text": "です with Negative Marker ない"
+    },
+    {
+      "level": 3,
+      "id": "with-past-tense-marker-",
+      "text": "です With Past Tense Marker 〜かった"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "in-the-middle-of-a-sentence",
+      "text": "です in the Middle of a Sentence"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 118,
+  "slug": "desu",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/desu/",
+  "categories": [
+    "だ/です"
+  ]
+}

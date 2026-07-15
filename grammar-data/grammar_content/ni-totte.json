@@ -1,0 +1,137 @@
+{
+  "title": "〜にとって",
+  "description": "〜にとって attaches to a noun (usually a person or group) to mean \"for ~\" or \"from ~'s point of view\" — it frames how something looks or matters from someone's perspective.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜にとって marks the person or group whose viewpoint you are taking. It usually precedes an evaluation — something is important, difficult, dangerous, or nice for that person. It answers \"for whom?\" rather than \"for what purpose?\""
+    },
+    {
+      "type": "formula",
+      "japanese": "名詞（めいし）＋にとって（は）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "私（わたし）にとって大切（たいせつ）です。",
+      "english": "It's important to me."
+    },
+    {
+      "type": "example",
+      "japanese": "服（ふく）はマディちゃんにとって不快（ふかい）です。",
+      "english": "Clothes are uncomfortable for Maddy."
+    },
+    {
+      "type": "example",
+      "japanese": "夏（なつ）の地面（じめん）は犬（いぬ）にとって危（あぶ）ないです。",
+      "english": "The summer ground is dangerous for dogs."
+    },
+    {
+      "type": "example",
+      "japanese": "みんなにとって、メンショウはおいしいです。",
+      "english": "For everyone, Menshou is delicious."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "wa-and-no",
+      "text": "〜にとっては and 〜にとっての"
+    },
+    {
+      "type": "paragraph",
+      "text": "Add は for contrast or emphasis (〜にとっては), and use 〜にとっての to modify a following noun directly, like an adjective."
+    },
+    {
+      "type": "formula",
+      "japanese": "名詞（めいし）＋にとっては ／ 名詞（めいし）＋にとっての＋名詞（めいし）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "特（とく）に若（わか）い人（ひと）にとっては充分（じゅうぶん）です。",
+      "english": "It's especially enough for young people."
+    },
+    {
+      "type": "example",
+      "japanese": "東京（とうきょう）や大阪（おおさか）は、初（はじ）めて日本（にほん）に来（く）る人（ひと）にとって、いい場所（ばしょ）です。",
+      "english": "Tokyo and Osaka are good places for people coming to Japan for the first time."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    },
+    {
+      "type": "paragraph",
+      "text": "〜にとって means \"from someone's standpoint,\" not \"for the benefit of\" a goal. When you mean \"in order to\" or \"for the sake of,\" use 〜のために instead. 家族（かぞく）のために働（はたら）く means \"work for (the sake of) my family,\" while 私（わたし）にとって家族（かぞく）は大切（たいせつ）だ means \"for me, family is important.\""
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "名詞（めいし）＋にとって（は）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "私（わたし）にとって大切（たいせつ）です。",
+      "english": "It's important to me."
+    },
+    {
+      "japanese": "服（ふく）はマディちゃんにとって不快（ふかい）です。",
+      "english": "Clothes are uncomfortable for Maddy."
+    },
+    {
+      "japanese": "夏（なつ）の地面（じめん）は犬（いぬ）にとって危（あぶ）ないです。",
+      "english": "The summer ground is dangerous for dogs."
+    },
+    {
+      "japanese": "みんなにとって、メンショウはおいしいです。",
+      "english": "For everyone, Menshou is delicious."
+    },
+    {
+      "japanese": "名詞（めいし）＋にとっては ／ 名詞（めいし）＋にとっての＋名詞（めいし）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "特（とく）に若（わか）い人（ひと）にとっては充分（じゅうぶん）です。",
+      "english": "It's especially enough for young people."
+    },
+    {
+      "japanese": "東京（とうきょう）や大阪（おおさか）は、初（はじ）めて日本（にほん）に来（く）る人（ひと）にとって、いい場所（ばしょ）です。",
+      "english": "Tokyo and Osaka are good places for people coming to Japan for the first time."
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "wa-and-no",
+      "text": "〜にとっては and 〜にとっての"
+    },
+    {
+      "level": 2,
+      "id": "common-mistakes",
+      "text": "Common Mistakes"
+    }
+  ],
+  "id": 1026,
+  "slug": "ni-totte",
+  "categories": [
+    "Phrase"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N3"
+}

@@ -1,0 +1,525 @@
+{
+  "title": "こいつ・そいつ・あいつ・どいつ",
+  "description": "こいつ, そいつ, あいつ, and どいつ are a set of こそあど言葉（ことば） (ko-so-a-do words). These words are used to refer to people, but they're very informal, and can sound gruff or rude.",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "こいつ, そいつ, あいつ, and どいつ are a set of こそあど words. In general, こいつ refers to a person who's close to the speaker, そいつ refers to a person who's close to the listener, and あいつ refers to a person who isn't close to either of them. どいつ is the question word that goes together with this set, and asks \"which one?\" out of multiple people. These words are very informal and can sound gruff or rude when used."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "type": "paragraph",
+      "text": "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど."
+    },
+    {
+      "type": "paragraph",
+      "text": "However, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here is how こそあど words work when referring to a physical object that you can see:"
+    },
+    {
+      "type": "formula",
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are farther from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are farther from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you'd like to read scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "Polite",
+          "Impolite"
+        ],
+        [
+          "こちらの方（ほう）",
+          "この方（ほう）",
+          "こちら",
+          "この人（ひと）",
+          "この子（こ）",
+          "こいつ"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "こいつ is a very impolite expression that's used to refer to \"this person.\" Although some people may refer to a friend as こいつ, this is usually only if they have an intimate and casual relationship with them."
+    },
+    {
+      "type": "paragraph",
+      "text": "To refer to someone politely, you'd use こちらの方（ほう）, この方（ほう）, or こちら."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "type": "paragraph",
+      "text": "こいつ, そいつ, あいつ, and どいつ can be used in sentences in the same way as nouns."
+    },
+    {
+      "type": "example",
+      "japanese": "こいつは誰（だれ）だ？",
+      "english": "Who is this guy?"
+    },
+    {
+      "type": "example",
+      "japanese": "そいつとあいつを連（つ）れて行（い）け。",
+      "english": "Take that guy and that guy over there with you."
+    },
+    {
+      "type": "example",
+      "japanese": "どいつが大人（おとな）しそうだった？",
+      "english": "Which guy seemed well-behaved?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Please keep in mind that all the above example sentences can come off as pretty rude, though their English translations may not show it. We'll explain this a little more in the next section."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-people",
+      "text": "こいつ, そいつ, and あいつ for People"
+    },
+    {
+      "type": "paragraph",
+      "text": "こいつ, そいつ, and あいつ are used to refer to people in relation to where you are, like \"this person,\" \"that person,\" and \"that person over there.\" However, they're very informal, generally come off as rude, and they could be perceived as an insult."
+    },
+    {
+      "type": "paragraph",
+      "text": "Because of this nuance, you'll see a variety of ways to translate these sentences depending on who it is you're referring to and on whether you're just being casual or spiteful."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you are referring to your close friend or kōhai , it may just sound casual and friendly:"
+    },
+    {
+      "type": "example",
+      "japanese": "俺（おれ）、こいつとは長（なが）い付（つ）き合（あ）いでさ。",
+      "english": "I've been friends with this dude for a long time."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are complaining about someone, it sounds cruder."
+    },
+    {
+      "type": "example",
+      "japanese": "あいつ本当（ほんとう）に使（つか）えねえな！",
+      "english": "That guy is truly useless!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since it can easily be taken as offensive, we don't recommend using these words unless you are very sure about the relationship between you and the person you are referring to."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-multiple-people",
+      "text": "こいつら, そいつら, and あいつら for Multiple People"
+    },
+    {
+      "type": "paragraph",
+      "text": "When there are multiple people you want to refer to, you can add 〜ら and say こいつら, そいつら, and あいつら, as in:"
+    },
+    {
+      "type": "example",
+      "japanese": "すいません、そいつら俺（おれ）のダチなんです。",
+      "english": "I'm sorry. Those guys are my friends."
+    },
+    {
+      "type": "paragraph",
+      "text": "〜ら can also be attached to the question word どいつ, as in どいつら, but it's not common and you'll rarely see it."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-animals",
+      "text": "こいつ, そいつ, and あいつ for Animals"
+    },
+    {
+      "type": "paragraph",
+      "text": "こいつ, そいつ, and あいつ can also be used to refer to an animal. This use is generally friendly but can also sound a little blunt."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you have a little puppy and are introducing him to your friend. Your friend asks you what your puppy likes to drink, so you answer:"
+    },
+    {
+      "type": "example",
+      "japanese": "こいつ、ミルクが好（す）きなんだ。",
+      "english": "This little guy likes milk."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this case, こいつ indicates you're talking about your puppy in a friendly way."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-things",
+      "text": "こいつ, そいつ, and あいつ for Things"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sometimes, you can also use こいつ, そいつ, and あいつ to refer to things. For example, you can use こいつ to refer to the last plate you are going to wash."
+    },
+    {
+      "type": "example",
+      "japanese": "よし、こいつを洗（あら）ったらお終（おわり）いだ！",
+      "english": "All right, I'm done after washing this guy!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Since the plate is an object, it's standard to use the word これ or このお皿（さら）. Using こいつ personifies the plate, so it can sound a little comical."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-situations",
+      "text": "こいつ and そいつ for Situations"
+    },
+    {
+      "type": "paragraph",
+      "text": "こいつ and そいつ can sometimes refer to situations. In this case, こいつ generally refers to a situation that's experienced by the speaker and そいつ refers to someone else's situation."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, if you've just gotten yourself into a really bad situation, you may say:"
+    },
+    {
+      "type": "example",
+      "japanese": "こいつはマズイことになったぞ。",
+      "english": "The situation has gotten really bad."
+    },
+    {
+      "type": "paragraph",
+      "text": "On the other hand, if someone just told you that they've gone through some terrible experience, you may respond to the story like this:"
+    },
+    {
+      "type": "example",
+      "japanese": "そいつは大変（たいへん）でしたね。",
+      "english": "That sounds really tough."
+    },
+    {
+      "type": "paragraph",
+      "text": "Note that it's more standard to say これ and それ . こいつ and そいつ will be chosen by some people who prefer a certain speech style that sounds gruffer, and perhaps more comical."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and--for-people-who-are-out-of-sight",
+      "text": "こいつ, そいつ, and あいつ for People Who Are Out of Sight"
+    },
+    {
+      "type": "paragraph",
+      "text": "Just like all the other こそあど words, こいつ, そいつ, and あいつ can be used for people (or animals or things) that are not physically present when you are referring to them."
+    },
+    {
+      "type": "paragraph",
+      "text": "For example, imagine you are talking to your friend about another friend who isn't there."
+    },
+    {
+      "type": "example",
+      "japanese": "その時（とき）、[こいつ・そいつ・あいつ]がコケちゃってさ。",
+      "english": "That's when he fell down."
+    },
+    {
+      "type": "paragraph",
+      "text": "As you can see, you can use either こいつ, そいつ, or あいつ in this example. The choice between which of the three to use will depend on how you feel about the friend you are talking about."
+    },
+    {
+      "type": "paragraph",
+      "text": "In short, こいつ is somewhat emphatic. Maybe this was the punch line to a joke, and you wanted to stress the importance of it. On the other hand, そいつ is used when you are simply referring to your friend without adding any nuance. Lastly, あいつ shows you are recollecting the memory of it, and the memory is often a shared memory between you and the person you are addressing. So using あいつ here indicates that you are talking about a mutual friend of yours."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "and-",
+      "text": "こやつ, そやつ, あやつ, and どやつ"
+    },
+    {
+      "type": "paragraph",
+      "text": "こやつ, そやつ, あやつ, and どやつ are the old-fashioned ways of saying こいつ, そいつ, あいつ, and どいつ. Although they are rarely used in real-life conversations, nowadays you may still come across them in plays, dramas, manga, novels, and so on."
+    },
+    {
+      "type": "paragraph",
+      "text": "For multiple people, you would add ら and say こやつら, そやつら, and あやつら. The question word would also be どやつら, but it's not common."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section",
+      "text": "どいつもこいつも"
+    },
+    {
+      "type": "paragraph",
+      "text": "どいつもこいつも is a common expression, often translated as \"all those bastards.\" With the particle も , it literally means \"anyone and this one too.\" It's used when various people give you trouble and refers to \"all of those troublemakers.\""
+    },
+    {
+      "type": "example",
+      "japanese": "どいつもこいつも全（まった）く役（やく）に立（た）たねぇ。",
+      "english": "All those bastards, they are all completely useless."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "id": "section-1",
+      "text": "〜め！"
+    },
+    {
+      "type": "paragraph",
+      "text": "The particle め can be attached to こいつ or あいつ to jokingly say \"you/that rascal!\" or to swear at someone, like \"you/that bastard!\""
+    },
+    {
+      "type": "example",
+      "japanese": "あいつめ！今度（こんど）会（あ）ったらただじゃおかないぞ。",
+      "english": "That bastard! He'll pay for this next time I see him!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Related Grammar"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "id": "",
+      "text": "Sources and Additional Readings"
+    }
+  ],
+  "sections": [
+    "こいつ, そいつ, あいつ, and どいつ are a set of こそあど words. In general, こいつ refers to a person who's close to the speaker, そいつ refers to a person who's close to the listener, and あいつ refers to a person who isn't close to either of them. どいつ is the question word that goes together with this set, and asks \"which one?\" out of multiple people. These words are very informal and can sound gruff or rude when used.",
+    "There are nine basic sets of words in Japanese that begin with こ, そ, あ, and ど. They have different meanings and functions depending on the endings that come after こそあど.",
+    "However, all these sets share the same concept ー the first syllable of each word in the set indicates the relative distance between you and whatever you're referring to. The relative distance from your listener to the thing you're referring to can also come into play.",
+    "Here is how こそあど words work when referring to a physical object that you can see:",
+    "こ-Words : Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words : Words that begin with そ are used for things that are farther from the speaker and/or are closer to the listener. あ-Words : Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words : Words that begin with ど are used to ask a question.",
+    "If you'd like to read scenarios that illustrate these concepts and learn more about how they work, check out our こそあど hub page !",
+    "こいつ is a very impolite expression that's used to refer to \"this person.\" Although some people may refer to a friend as こいつ, this is usually only if they have an intimate and casual relationship with them.",
+    "To refer to someone politely, you'd use こちらの方（ほう）, この方（ほう）, or こちら.",
+    "こいつ, そいつ, あいつ, and どいつ can be used in sentences in the same way as nouns.",
+    "Please keep in mind that all the above example sentences can come off as pretty rude, though their English translations may not show it. We'll explain this a little more in the next section.",
+    "こいつ, そいつ, and あいつ are used to refer to people in relation to where you are, like \"this person,\" \"that person,\" and \"that person over there.\" However, they're very informal, generally come off as rude, and they could be perceived as an insult.",
+    "Because of this nuance, you'll see a variety of ways to translate these sentences depending on who it is you're referring to and on whether you're just being casual or spiteful.",
+    "For example, if you are referring to your close friend or kōhai , it may just sound casual and friendly:",
+    "If you are complaining about someone, it sounds cruder.",
+    "Since it can easily be taken as offensive, we don't recommend using these words unless you are very sure about the relationship between you and the person you are referring to.",
+    "When there are multiple people you want to refer to, you can add 〜ら and say こいつら, そいつら, and あいつら, as in:",
+    "〜ら can also be attached to the question word どいつ, as in どいつら, but it's not common and you'll rarely see it.",
+    "こいつ, そいつ, and あいつ can also be used to refer to an animal. This use is generally friendly but can also sound a little blunt.",
+    "For example, imagine you have a little puppy and are introducing him to your friend. Your friend asks you what your puppy likes to drink, so you answer:",
+    "In this case, こいつ indicates you're talking about your puppy in a friendly way.",
+    "Sometimes, you can also use こいつ, そいつ, and あいつ to refer to things. For example, you can use こいつ to refer to the last plate you are going to wash.",
+    "Since the plate is an object, it's standard to use the word これ or このお皿（さら）. Using こいつ personifies the plate, so it can sound a little comical.",
+    "こいつ and そいつ can sometimes refer to situations. In this case, こいつ generally refers to a situation that's experienced by the speaker and そいつ refers to someone else's situation.",
+    "For example, if you've just gotten yourself into a really bad situation, you may say:",
+    "On the other hand, if someone just told you that they've gone through some terrible experience, you may respond to the story like this:",
+    "Note that it's more standard to say これ and それ . こいつ and そいつ will be chosen by some people who prefer a certain speech style that sounds gruffer, and perhaps more comical.",
+    "Just like all the other こそあど words, こいつ, そいつ, and あいつ can be used for people (or animals or things) that are not physically present when you are referring to them.",
+    "For example, imagine you are talking to your friend about another friend who isn't there.",
+    "As you can see, you can use either こいつ, そいつ, or あいつ in this example. The choice between which of the three to use will depend on how you feel about the friend you are talking about.",
+    "In short, こいつ is somewhat emphatic. Maybe this was the punch line to a joke, and you wanted to stress the importance of it. On the other hand, そいつ is used when you are simply referring to your friend without adding any nuance. Lastly, あいつ shows you are recollecting the memory of it, and the memory is often a shared memory between you and the person you are addressing. So using あいつ here indicates that you are talking about a mutual friend of yours.",
+    "こやつ, そやつ, あやつ, and どやつ are the old-fashioned ways of saying こいつ, そいつ, あいつ, and どいつ. Although they are rarely used in real-life conversations, nowadays you may still come across them in plays, dramas, manga, novels, and so on.",
+    "For multiple people, you would add ら and say こやつら, そやつら, and あやつら. The question word would also be どやつら, but it's not common.",
+    "どいつもこいつも is a common expression, often translated as \"all those bastards.\" With the particle も , it literally means \"anyone and this one too.\" It's used when various people give you trouble and refers to \"all of those troublemakers.\"",
+    "The particle め can be attached to こいつ or あいつ to jokingly say \"you/that rascal!\" or to swear at someone, like \"you/that bastard!\""
+  ],
+  "examples": [
+    {
+      "japanese": "こいつは誰（だれ）だ？",
+      "english": "Who is this guy?"
+    },
+    {
+      "japanese": "そいつとあいつを連（つ）れて行（い）け。",
+      "english": "Take that guy and that guy over there with you."
+    },
+    {
+      "japanese": "どいつが大人（おとな）しそうだった？",
+      "english": "Which guy seemed well-behaved?"
+    },
+    {
+      "japanese": "俺（おれ）、こいつとは長（なが）い付（つ）き合（あ）いでさ。",
+      "english": "I've been friends with this dude for a long time."
+    },
+    {
+      "japanese": "あいつ本当（ほんとう）に使（つか）えねえな！",
+      "english": "That guy is truly useless!"
+    },
+    {
+      "japanese": "すいません、そいつら俺（おれ）のダチなんです。",
+      "english": "I'm sorry. Those guys are my friends."
+    },
+    {
+      "japanese": "こいつ、ミルクが好（す）きなんだ。",
+      "english": "This little guy likes milk."
+    },
+    {
+      "japanese": "よし、こいつを洗（あら）ったらお終（おわり）いだ！",
+      "english": "All right, I'm done after washing this guy!"
+    },
+    {
+      "japanese": "こいつはマズイことになったぞ。",
+      "english": "The situation has gotten really bad."
+    },
+    {
+      "japanese": "そいつは大変（たいへん）でしたね。",
+      "english": "That sounds really tough."
+    },
+    {
+      "japanese": "その時（とき）、[こいつ・そいつ・あいつ]がコケちゃってさ。",
+      "english": "That's when he fell down."
+    },
+    {
+      "japanese": "どいつもこいつも全（まった）く役（やく）に立（た）たねぇ。",
+      "english": "All those bastards, they are all completely useless."
+    },
+    {
+      "japanese": "あいつめ！今度（こんど）会（あ）ったらただじゃおかないぞ。",
+      "english": "That bastard! He'll pay for this next time I see him!"
+    },
+    {
+      "japanese": "こ-Words: Words that begin with こ are used for things that are either relatively close to the speaker, or closer to the speaker than to the listener. そ-Words: Words that begin with そ are used for things that are farther from the speaker and/or are closer to the listener. あ-Words: Words that begin with あ are used for things that are far from the speaker, and also the listener if there is one. ど-Words: Words that begin with ど are used to ask a question.",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "tables": [
+    [
+      [
+        "Polite",
+        "Impolite"
+      ],
+      [
+        "こちらの方（ほう）",
+        "この方（ほう）",
+        "こちら",
+        "この人（ひと）",
+        "この子（こ）",
+        "こいつ"
+      ]
+    ]
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "table-of-contents",
+      "text": "Table of Contents"
+    },
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 3,
+      "id": "conceptualizing-",
+      "text": "Conceptualizing こそあど"
+    },
+    {
+      "level": 3,
+      "id": "politeness",
+      "text": "Politeness"
+    },
+    {
+      "level": 3,
+      "id": "patterns-of-use",
+      "text": "Patterns of Use"
+    },
+    {
+      "level": 3,
+      "id": "and--for-people",
+      "text": "こいつ, そいつ, and あいつ for People"
+    },
+    {
+      "level": 3,
+      "id": "and--for-multiple-people",
+      "text": "こいつら, そいつら, and あいつら for Multiple People"
+    },
+    {
+      "level": 3,
+      "id": "and--for-animals",
+      "text": "こいつ, そいつ, and あいつ for Animals"
+    },
+    {
+      "level": 3,
+      "id": "and--for-things",
+      "text": "こいつ, そいつ, and あいつ for Things"
+    },
+    {
+      "level": 3,
+      "id": "and--for-situations",
+      "text": "こいつ and そいつ for Situations"
+    },
+    {
+      "level": 2,
+      "id": "beyond-the-basics",
+      "text": "Beyond the Basics"
+    },
+    {
+      "level": 3,
+      "id": "and--for-people-who-are-out-of-sight",
+      "text": "こいつ, そいつ, and あいつ for People Who Are Out of Sight"
+    },
+    {
+      "level": 3,
+      "id": "and-",
+      "text": "こやつ, そやつ, あやつ, and どやつ"
+    },
+    {
+      "level": 3,
+      "id": "section",
+      "text": "どいつもこいつも"
+    },
+    {
+      "level": 3,
+      "id": "section-1",
+      "text": "〜め！"
+    }
+  ],
+  "id": 97,
+  "slug": "koitsu-soitsu-aitsu-doitsu",
+  "originalUrl": "https://www.tofugu.com/japanese-grammar/koitsu-soitsu-aitsu-doitsu/",
+  "categories": [
+    "Demonstrative"
+  ]
+}

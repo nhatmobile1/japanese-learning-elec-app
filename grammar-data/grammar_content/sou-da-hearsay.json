@@ -1,0 +1,138 @@
+{
+  "title": "〜そうだ (Hearsay)",
+  "description": "The hearsay 〜そうだ reports information you heard or read from another source — \"I hear that…\" / \"they say that…\" It attaches to the plain form and is often paired with 〜によると (\"according to\").",
+  "content": [
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hearsay 〜そうだ passes along information you got second-hand — from the news, a friend, a weather forecast. It attaches to the plain form of verbs, い-adjectives, な-adjectives (with だ), and nouns (with だ): 降（ふ）るそうだ, 高（たか）いそうだ, 静（しず）かだそうだ, 学生（がくせい）だそうだ. Unlike opinions, it stays neutral — you're just relaying what you were told, not judging whether it's true."
+    },
+    {
+      "type": "formula",
+      "japanese": "plain form ＋ そうだ　（＝ I hear that … ／ they say …）",
+      "english": ""
+    },
+    {
+      "type": "example",
+      "japanese": "天気予報（てんきよほう）によると、明日（あした）は雨（あめ）だそうです。",
+      "english": "According to the forecast, it's going to rain tomorrow."
+    },
+    {
+      "type": "example",
+      "japanese": "彼（かれ）はもう来（こ）ないそうだ。",
+      "english": "I hear he's not coming anymore."
+    },
+    {
+      "type": "example",
+      "japanese": "あのレストランはとてもおいしいそうです。",
+      "english": "I hear that restaurant is really good."
+    },
+    {
+      "type": "example",
+      "japanese": "会社（かいしゃ）はもっと人（ひと）をクビにするそうです。",
+      "english": "I hear the company is going to lay off more people."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "according-to",
+      "text": "Marking the Source with 〜によると"
+    },
+    {
+      "type": "paragraph",
+      "text": "To name where the information came from, put 〜によると (\"according to\") at the front of the sentence. It pairs naturally with hearsay そうだ, forming the common 〜によると〜そうです frame."
+    },
+    {
+      "type": "example",
+      "japanese": "ニュースによると、トランプさんは怒（おこ）っているそうです。",
+      "english": "According to the news, Trump is angry."
+    },
+    {
+      "type": "example",
+      "japanese": "ゆかさんによると、週末（しゅうまつ）日本（にほん）で地震（じしん）があるそうです。",
+      "english": "According to Yuka, there's going to be an earthquake in Japan this weekend."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "id": "hearsay-vs-appearance",
+      "text": "Warning: Hearsay そう vs Appearance そう"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is the single biggest trap with そうだ: it has two completely different meanings, told apart only by where it attaches. Plain form ＋ そうだ is hearsay (\"I heard\"). But stem ＋ そうだ is appearance (\"it looks like\"), based on what you can see right now. 雨（あめ）が降（ふ）るそうだ means \"I heard it's going to rain\"; 雨（あめ）が降（ふ）りそうだ (verb stem 降（ふ）り) means \"it looks like it's about to rain.\" Same word, opposite basis of knowledge — always check the attach point."
+    },
+    {
+      "type": "formula",
+      "japanese": "plain 降（ふ）るそう ＝ I heard　／　stem 降（ふ）りそう ＝ it looks like",
+      "english": ""
+    }
+  ],
+  "sections": [],
+  "examples": [
+    {
+      "japanese": "plain form ＋ そうだ　（＝ I hear that … ／ they say …）",
+      "english": "",
+      "type": "formula"
+    },
+    {
+      "japanese": "天気予報（てんきよほう）によると、明日（あした）は雨（あめ）だそうです。",
+      "english": "According to the forecast, it's going to rain tomorrow."
+    },
+    {
+      "japanese": "彼（かれ）はもう来（こ）ないそうだ。",
+      "english": "I hear he's not coming anymore."
+    },
+    {
+      "japanese": "あのレストランはとてもおいしいそうです。",
+      "english": "I hear that restaurant is really good."
+    },
+    {
+      "japanese": "会社（かいしゃ）はもっと人（ひと）をクビにするそうです。",
+      "english": "I hear the company is going to lay off more people."
+    },
+    {
+      "japanese": "ニュースによると、トランプさんは怒（おこ）っているそうです。",
+      "english": "According to the news, Trump is angry."
+    },
+    {
+      "japanese": "ゆかさんによると、週末（しゅうまつ）日本（にほん）で地震（じしん）があるそうです。",
+      "english": "According to Yuka, there's going to be an earthquake in Japan this weekend."
+    },
+    {
+      "japanese": "plain 降（ふ）るそう ＝ I heard　／　stem 降（ふ）りそう ＝ it looks like",
+      "english": "",
+      "type": "formula"
+    }
+  ],
+  "headings": [
+    {
+      "level": 2,
+      "id": "the-basics",
+      "text": "The Basics"
+    },
+    {
+      "level": 2,
+      "id": "according-to",
+      "text": "Marking the Source with 〜によると"
+    },
+    {
+      "level": 2,
+      "id": "hearsay-vs-appearance",
+      "text": "Warning: Hearsay そう vs Appearance そう"
+    }
+  ],
+  "id": 1007,
+  "slug": "sou-da-hearsay",
+  "categories": [
+    "Phrase",
+    "Uncertainty"
+  ],
+  "source": "lessons",
+  "jlptLevel": "N4"
+}
