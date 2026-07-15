@@ -1,0 +1,14 @@
+<meta charset="utf-8" />
+<style>
+  body { font: 15px/1.6 -apple-system, sans-serif; margin: 4rem auto; max-width: 34rem; color: #333; }
+  pre { background: #f4f2ec; padding: 1rem; border-radius: 8px; white-space: pre-wrap; }
+  button { font: inherit; padding: 0.4rem 1.2rem; }
+  @media (prefers-color-scheme: dark) { body { color: #ddd; background: #1a1a1c; } pre { background: #26262a; } }
+</style>
+<h1>語彙 — server didn’t start</h1>
+<pre id="err">unknown error</pre>
+<button onclick="window.desktop.retry()">Retry</button>
+<script>
+  const err = new URLSearchParams(location.search).get('err');
+  if (err) document.getElementById('err').textContent = err;
+</script>

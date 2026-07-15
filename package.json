@@ -2,12 +2,18 @@
   "name": "japanese-learning-elec-app",
   "private": true,
   "type": "module",
+  "main": "dist-electron/main.cjs",
   "scripts": {
     "dev": "concurrently -k \"tsx watch src/server.ts\" \"vite --config web/vite.config.ts\"",
     "build": "vite build --config web/vite.config.ts",
     "start": "npm run build && tsx src/server.ts",
     "test": "vitest run",
-    "typecheck": "tsc --noEmit -p tsconfig.json && tsc --noEmit -p web/tsconfig.json"
+    "typecheck": "tsc --noEmit -p tsconfig.json && tsc --noEmit -p web/tsconfig.json",
+    "build:server": "esbuild src/server.ts --bundle --platform=node --format=cjs --external:better-sqlite3 --outfile=dist-electron/server.cjs",
+    "build:shell": "esbuild electron/main.ts electron/preload.ts --bundle --platform=node --format=cjs --external:electron --outdir=dist-electron --out-extension:.js=.cjs && cp electron/diag.html dist-electron/",
+    "app:dev": "npm run build && npm run build:server && npm run build:shell && electron .",
+    "rebuild:electron": "electron-rebuild -f -w better-sqlite3",
+    "rebuild:node": "npm rebuild better-sqlite3"
   },
   "dependencies": {
     "@fontsource/noto-sans-jp": "^5.2.9",
@@ -19,12 +25,15 @@
     "react-dom": "^19.2.7"
   },
   "devDependencies": {
+    "@electron/rebuild": "^4.2.0",
     "@types/better-sqlite3": "^7.6.13",
     "@types/node": "^26.1.0",
     "@types/react": "^19.2.17",
     "@types/react-dom": "^19.2.3",
     "@vitejs/plugin-react": "^6.0.3",
     "concurrently": "^10.0.3",
+    "electron": "^43.1.1",
+    "esbuild": "^0.28.1",
     "tsx": "^4.23.0",
     "typescript": "^6.0.3",
     "vite": "^8.1.4",
