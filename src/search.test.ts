@@ -6,21 +6,29 @@ import type Database from 'better-sqlite3';
 import { openDb } from './db.js';
 import { indexVault } from './indexer.js';
 import { search } from './search.js';
-import { makeFixtureVault } from '../tests/fixture.js';
+import { makeFixtureVault, makeGrammarFixture } from '../tests/fixture.js';
+import { loadGrammarPoints } from './grammar/load.js';
+import { indexGrammarPoints } from './grammar/indexGrammar.js';
 
 let vault: string;
 let db: Database.Database;
+let grammarDir: string;
 
 beforeAll(() => {
   vault = fs.mkdtempSync(path.join(os.tmpdir(), 'vocab-search-'));
   makeFixtureVault(vault);
   db = openDb(':memory:');
   indexVault(db, vault);
+
+  grammarDir = fs.mkdtempSync(path.join(os.tmpdir(), 'search-grammar-'));
+  makeGrammarFixture(grammarDir);
+  indexGrammarPoints(db, loadGrammarPoints(grammarDir));
 });
 
 afterAll(() => {
   db.close();
   fs.rmSync(vault, { recursive: true, force: true });
+  fs.rmSync(grammarDir, { recursive: true, force: true });
 });
 
 describe('search', () => {
@@ -77,5 +85,31 @@ describe('search', () => {
 
   test('LIKE wildcards in the query are escaped', () => {
     expect(search(db, '%')).toHaveLength(0);
+  });
+});
+
+describe('grammar-point search', () => {
+  test('Japanese query finds a reference point', () => {
+    const hits = search(db, 'てしまう', 'all');
+    const gp = hits.find((r) => r.kind === 'grammar-point');
+    expect(gp).toBeDefined();
+    expect(gp!.slug).toBe('te-shimau');
+    expect(gp!.term).toBe('〜てしまう・〜ちゃう');
+    expect(gp!.sources).toEqual([{ sourceType: 'reference', sourceRef: 'Custom' }]);
+  });
+
+  test('romaji slug query finds a reference point', () => {
+    const hits = search(db, 'shimau', 'all');
+    expect(hits.some((r) => r.kind === 'grammar-point' && r.slug === 'te-shimau')).toBe(true);
+  });
+
+  test('English description query finds a reference point', () => {
+    const hits = search(db, 'completely finished', 'all');
+    expect(hits.some((r) => r.slug === 'te-shimau')).toBe(true);
+  });
+
+  test('kind=vocab excludes reference points, kind=grammar includes them', () => {
+    expect(search(db, 'てしまう', 'vocab').some((r) => r.kind === 'grammar-point')).toBe(false);
+    expect(search(db, 'てしまう', 'grammar').some((r) => r.kind === 'grammar-point')).toBe(true);
   });
 });

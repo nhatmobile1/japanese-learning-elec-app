@@ -11,6 +11,7 @@ export interface SearchResultWord {
   lessonCount: number;
   sources: { sourceType: string; sourceRef: string }[];
   score: number;
+  slug?: string;
 }
 
 interface Row {
@@ -56,6 +57,51 @@ function scoreRow(r: Row, qJa: string, qEn: string, now: Date): number {
   return s;
 }
 
+interface GrammarPointRow {
+  slug: string; title: string; description: string;
+  source: string; title_f: string; desc_f: string;
+}
+
+function scoreGrammarPoint(r: GrammarPointRow, qJa: string, qEn: string): number {
+  if (r.title_f === qJa) return 1000;
+  if (r.title_f.startsWith(qJa) || r.title_f.startsWith('〜' + qJa)) return 600;
+  if (r.slug === qEn) return 600;
+  if (r.slug.includes(qEn)) return 450;
+  if (r.title_f.includes(qJa)) return 400;
+  return 200; // matched in description
+}
+
+function searchGrammarPoints(
+  db: Database.Database,
+  qJa: string,
+  qEn: string,
+): SearchResultWord[] {
+  const likeJa = `%${escapeLike(qJa)}%`;
+  const likeEn = `%${escapeLike(qEn)}%`;
+  const rows = db
+    .prepare(
+      `SELECT slug, title, description, source, title_f, desc_f FROM grammar_points
+       WHERE title_f LIKE @ja ESCAPE '\\'
+          OR slug LIKE @en ESCAPE '\\'
+          OR desc_f LIKE @en ESCAPE '\\'`,
+    )
+    .all({ ja: likeJa, en: likeEn }) as GrammarPointRow[];
+  return rows.map((r) => ({
+    normTerm: null,
+    term: r.title,
+    reading: null,
+    gloss: r.description,
+    kind: 'grammar-point',
+    occurrenceCount: 0,
+    lessonCount: 0,
+    sources: [
+      { sourceType: 'reference', sourceRef: r.source === 'lessons' ? 'Custom' : 'Tofugu' },
+    ],
+    score: scoreGrammarPoint(r, qJa, qEn),
+    slug: r.slug,
+  }));
+}
+
 export function search(
   db: Database.Database,
   q: string,
@@ -92,20 +138,24 @@ export function search(
     if (!cur || score > cur.score) best.set(key, { row: r, score });
   }
 
-  return [...best.values()]
-    .sort((a, b) => b.score - a.score || (b.row.lesson_count ?? 0) - (a.row.lesson_count ?? 0))
-    .slice(0, 50)
-    .map(({ row, score }) => ({
-      normTerm: row.norm_term,
-      term: row.w_term ?? row.term ?? row.raw,
-      reading: row.w_reading ?? row.reading,
-      gloss: row.w_gloss ?? row.gloss,
-      kind: row.kind,
-      occurrenceCount: row.occurrence_count ?? 1,
-      lessonCount: row.lesson_count ?? (row.source_type === 'lesson' ? 1 : 0),
-      sources: row.sources
-        ? (JSON.parse(row.sources) as { sourceType: string; sourceRef: string }[])
-        : [{ sourceType: row.source_type, sourceRef: row.source_ref }],
-      score,
-    }));
+  const wordResults = [...best.values()].map(({ row, score }) => ({
+    normTerm: row.norm_term,
+    term: row.w_term ?? row.term ?? row.raw,
+    reading: row.w_reading ?? row.reading,
+    gloss: row.w_gloss ?? row.gloss,
+    kind: row.kind,
+    occurrenceCount: row.occurrence_count ?? 1,
+    lessonCount: row.lesson_count ?? (row.source_type === 'lesson' ? 1 : 0),
+    sources: row.sources
+      ? (JSON.parse(row.sources) as { sourceType: string; sourceRef: string }[])
+      : [{ sourceType: row.source_type, sourceRef: row.source_ref }],
+    score,
+  }));
+
+  const grammarResults =
+    kind === 'all' || kind === 'grammar' ? searchGrammarPoints(db, qJa, qEn) : [];
+
+  return [...wordResults, ...grammarResults]
+    .sort((a, b) => b.score - a.score || b.lessonCount - a.lessonCount)
+    .slice(0, 50);
 }
