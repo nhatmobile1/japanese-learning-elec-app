@@ -1,11 +1,18 @@
 import { Hono } from 'hono';
 import type Database from 'better-sqlite3';
 import { search } from './search.js';
+import { loadGrammarContent, SLUG_RE } from './grammar/load.js';
+
+export interface AppOptions {
+  grammarDataPath?: string | null;
+}
 
 const ENTRY_COLUMNS =
   'id, term, reading, gloss, raw, kind, source_type, source_ref, section, file, line, parent_id, norm_term';
 
 const PAGE_SIZE = 100;
+
+const JLPT_ORDER: Record<string, number> = { N5: 0, N4: 1, N3: 2, N2: 3, N1: 4 };
 
 // NULLS-LAST orderings; norm_term as the final tiebreaker keeps paging stable.
 const WORD_SORTS: Record<string, string> = {
@@ -26,6 +33,15 @@ interface WordRow {
   sources: string;
 }
 
+interface GrammarRow {
+  slug: string;
+  title: string;
+  description: string;
+  categories: string;
+  source: string;
+  jlpt_level: string | null;
+}
+
 function wordToResult(w: WordRow) {
   return {
     normTerm: w.norm_term,
@@ -40,7 +56,18 @@ function wordToResult(w: WordRow) {
   };
 }
 
-export function createApp(db: Database.Database): Hono {
+function grammarRowToResult(r: GrammarRow) {
+  return {
+    slug: r.slug,
+    title: r.title,
+    description: r.description,
+    categories: JSON.parse(r.categories) as string[],
+    source: r.source,
+    jlptLevel: r.jlpt_level,
+  };
+}
+
+export function createApp(db: Database.Database, opts: AppOptions = {}): Hono {
   const app = new Hono();
 
   app.get('/api/search', (c) => {
@@ -125,6 +152,36 @@ export function createApp(db: Database.Database): Hono {
 
   app.get('/api/unparsed', (c) => {
     return c.json({ rows: db.prepare('SELECT * FROM unparsed ORDER BY file, line').all() });
+  });
+
+  app.get('/api/grammar-points', (c) => {
+    const level = c.req.query('level');
+    const category = c.req.query('category');
+    let rows = db
+      .prepare('SELECT slug, title, description, categories, source, jlpt_level FROM grammar_points')
+      .all() as GrammarRow[];
+    if (level) rows = rows.filter((r) => r.jlpt_level === level);
+    if (category)
+      rows = rows.filter((r) => (JSON.parse(r.categories) as string[]).includes(category));
+    rows.sort(
+      (a, b) =>
+        (JLPT_ORDER[a.jlpt_level ?? ''] ?? 9) - (JLPT_ORDER[b.jlpt_level ?? ''] ?? 9) ||
+        a.title.localeCompare(b.title, 'ja'),
+    );
+    return c.json({ total: rows.length, results: rows.map(grammarRowToResult) });
+  });
+
+  app.get('/api/grammar-points/:slug', (c) => {
+    const slug = c.req.param('slug');
+    if (!SLUG_RE.test(slug)) return c.json({ error: 'bad slug' }, 400);
+    const row = db
+      .prepare('SELECT slug, title, description, categories, source, jlpt_level FROM grammar_points WHERE slug = ?')
+      .get(slug) as GrammarRow | undefined;
+    if (!row) return c.json({ error: 'not found' }, 404);
+    const content = opts.grammarDataPath
+      ? loadGrammarContent(opts.grammarDataPath, slug)
+      : null;
+    return c.json({ point: grammarRowToResult(row), content, lessonNotes: [] });
   });
 
   return app;

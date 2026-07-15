@@ -6,9 +6,12 @@ import type Database from 'better-sqlite3';
 import { createApp } from './app.js';
 import { openDb } from './db.js';
 import { indexVault } from './indexer.js';
-import { makeFixtureVault } from '../tests/fixture.js';
+import { makeFixtureVault, makeGrammarFixture } from '../tests/fixture.js';
+import { loadGrammarPoints } from './grammar/load.js';
+import { indexGrammarPoints } from './grammar/indexGrammar.js';
 
 let vault: string;
+let grammarDir: string;
 let db: Database.Database;
 let app: ReturnType<typeof createApp>;
 
@@ -17,12 +20,16 @@ beforeAll(() => {
   makeFixtureVault(vault);
   db = openDb(':memory:');
   indexVault(db, vault);
-  app = createApp(db);
+  grammarDir = fs.mkdtempSync(path.join(os.tmpdir(), 'vocab-grammar-'));
+  makeGrammarFixture(grammarDir);
+  indexGrammarPoints(db, loadGrammarPoints(grammarDir));
+  app = createApp(db, { grammarDataPath: grammarDir });
 });
 
 afterAll(() => {
   db.close();
   fs.rmSync(vault, { recursive: true, force: true });
+  fs.rmSync(grammarDir, { recursive: true, force: true });
 });
 
 describe('GET /api/search', () => {
@@ -149,5 +156,49 @@ describe('GET /api/browse', () => {
     const res = await app.request('/api/browse?kind=vocab&sort=recent&page=1e20');
     expect(res.status).toBe(200);
     expect(((await res.json()) as { results: unknown[] }).results).toEqual([]);
+  });
+});
+
+describe('GET /api/grammar-points', () => {
+  test('lists all points N5-first, null level last', async () => {
+    const res = await app.request('/api/grammar-points');
+    expect(res.status).toBe(200);
+    const body = (await res.json()) as {
+      total: number;
+      results: { slug: string; jlptLevel: string | null; categories: string[] }[];
+    };
+    expect(body.total).toBe(4);
+    expect(body.results[0].jlptLevel).toBe('N5'); // て Form
+    expect(body.results[0].categories).toEqual(['Verb Form']);
+  });
+
+  test('level and category filters', async () => {
+    const res = await app.request('/api/grammar-points?level=N4');
+    const body = (await res.json()) as { results: { slug: string }[] };
+    expect(body.results.map((r) => r.slug).sort()).toEqual(['saseru', 'te-shimau']);
+
+    const res2 = await app.request(
+      '/api/grammar-points?category=' + encodeURIComponent('Adjective Form'),
+    );
+    const body2 = (await res2.json()) as { results: { slug: string }[] };
+    expect(body2.results.map((r) => r.slug)).toEqual(['adjective-suffix-sa']);
+  });
+
+  test('detail returns point + content blocks', async () => {
+    const res = await app.request('/api/grammar-points/te-shimau');
+    expect(res.status).toBe(200);
+    const body = (await res.json()) as {
+      point: { title: string; source: string };
+      content: { content: { type: string }[] };
+      lessonNotes: unknown[];
+    };
+    expect(body.point.title).toBe('〜てしまう・〜ちゃう');
+    expect(body.content.content.some((b) => b.type === 'example')).toBe(true);
+    expect(Array.isArray(body.lessonNotes)).toBe(true);
+  });
+
+  test('bad slug is 400, unknown slug is 404', async () => {
+    expect((await app.request('/api/grammar-points/..%2F..%2Fetc')).status).toBe(400);
+    expect((await app.request('/api/grammar-points/zzzz-none')).status).toBe(404);
   });
 });
