@@ -955,6 +955,9 @@ body.desktop .app-header .icon-btn,
 body.desktop .app-header button {
   -webkit-app-region: no-drag;
 }
+body.desktop .settings-panel {
+  -webkit-app-region: no-drag;
+}
 body.desktop .filter-tabs,
 body.desktop .sort-tabs {
   -webkit-user-select: none;
