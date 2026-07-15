@@ -7,6 +7,11 @@ describe('patternTokens', () => {
     expect(patternTokens('〜させる (Causative)')).toEqual(['させる']);
     expect(patternTokens('て Form')).toEqual(['て']);
   });
+
+  test('never merges Japanese fragments across stripped English runs', () => {
+    expect(patternTokens('い-Adjective く Form')).toEqual(['い', 'く']);
+    expect(patternTokens('い-Adjectiveく (Adverb Form)')).toEqual(['い', 'く']);
+  });
 });
 
 // Table-driven per the spec: unsure = no link, never a wrong link.
@@ -20,6 +25,8 @@ describe('titleMatchesTerm', () => {
     ['Adjective さ (Objective Nouns)', 'さ', false], // 1-char token again
     ['〜てしまう・〜ちゃう', 'しまう', false],    // substring — NOT a match
     ['Particle は', 'は', false],                 // 1-char
+    ['い-Adjective く Form', 'いく', false],        // fabricated cross-run token — NOT a match
+    ['い-Adjectiveく (Noun)', 'いく', false],       // same, without the space
   ];
   for (const [title, term, expected] of cases) {
     test(`${title} vs ${term} → ${expected}`, () => {

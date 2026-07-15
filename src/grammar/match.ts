@@ -8,9 +8,13 @@ export function patternTokens(title: string): string[] {
   return title
     .replace(/\([^)]*\)/g, '') // ASCII parenthetical (English annotation)
     .split(/[・／\/]/)
-    .map((t) => foldForSearch(t.replace(/^[～〜]+|[～〜]+$/g, '')))
-    // Drop English-only fragments ("form") and empties; keep Japanese tokens.
-    .map((t) => t.replace(/[a-z0-9\s'-]+/g, ''))
+    // English/ASCII runs are treated as SEPARATORS (never deleted in place),
+    // so Japanese fragments that were never adjacent in the title can never
+    // be glued into one fabricated token (e.g. "い-Adjective く Form" must
+    // yield ["い","く"], not ["いく"]).
+    .flatMap((t) =>
+      foldForSearch(t.replace(/^[～〜]+|[～〜]+$/g, '')).split(/[a-z0-9\s'-]+/),
+    )
     .filter(Boolean);
 }
 
