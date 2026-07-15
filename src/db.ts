@@ -1,8 +1,7 @@
 import Database from 'better-sqlite3';
 
-// v2: words gained kind / reading_sort / chapter_sort. words is a rebuild
-// artifact, so migration is just "drop and let rebuildWords repopulate".
-const SCHEMA_VERSION = 2;
+// v3: added grammar_points (rebuild artifact — dropped and reindexed at startup).
+const SCHEMA_VERSION = 3;
 
 export function openDb(dbPath: string): Database.Database {
   const db = new Database(dbPath);
@@ -14,7 +13,7 @@ export function openDb(dbPath: string): Database.Database {
 export function createSchema(db: Database.Database): void {
   const version = db.pragma('user_version', { simple: true }) as number;
   if (version < SCHEMA_VERSION) {
-    db.exec('DROP TABLE IF EXISTS words;');
+    db.exec('DROP TABLE IF EXISTS words; DROP TABLE IF EXISTS grammar_points;');
     db.pragma(`user_version = ${SCHEMA_VERSION}`);
   }
   db.exec(`
@@ -63,6 +62,17 @@ export function createSchema(db: Database.Database): void {
       line INTEGER NOT NULL,
       text TEXT NOT NULL,
       reason TEXT NOT NULL
+    );
+
+    CREATE TABLE IF NOT EXISTS grammar_points (
+      slug TEXT PRIMARY KEY,
+      title TEXT NOT NULL,
+      description TEXT NOT NULL,
+      categories TEXT NOT NULL,
+      source TEXT NOT NULL CHECK (source IN ('tofugu','lessons')),
+      jlpt_level TEXT,
+      title_f TEXT NOT NULL,
+      desc_f TEXT NOT NULL
     );
   `);
 }
