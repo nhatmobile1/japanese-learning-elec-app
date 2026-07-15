@@ -215,4 +215,32 @@ describe('GET /api/grammar-points', () => {
     expect((await app.request('/api/grammar-points/..%2F..%2Fetc')).status).toBe(400);
     expect((await app.request('/api/grammar-points/zzzz-none')).status).toBe(404);
   });
+
+  test('detail lists matching vault notes as lessonNotes', async () => {
+    const body = (await (await app.request('/api/grammar-points/saseru')).json()) as {
+      lessonNotes: { normTerm: string; term: string }[];
+    };
+    expect(body.lessonNotes.map((n) => n.normTerm)).toEqual(['させる']);
+  });
+
+  test('detail with no matching vault note has empty lessonNotes', async () => {
+    const body = (await (await app.request('/api/grammar-points/te-form')).json()) as {
+      lessonNotes: unknown[];
+    };
+    expect(body.lessonNotes).toEqual([]);
+  });
+
+  test('/api/word gains grammarRefs for a matching reference point', async () => {
+    const body = (await (
+      await app.request(`/api/word/${encodeURIComponent('させる')}`)
+    ).json()) as { grammarRefs: { slug: string; title: string }[] };
+    expect(body.grammarRefs.map((g) => g.slug)).toEqual(['saseru']);
+  });
+
+  test('/api/word without a reference match has empty grammarRefs', async () => {
+    const body = (await (
+      await app.request(`/api/word/${encodeURIComponent('還付')}`)
+    ).json()) as { grammarRefs: unknown[] };
+    expect(body.grammarRefs).toEqual([]);
+  });
 });

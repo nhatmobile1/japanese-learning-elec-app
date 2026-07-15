@@ -2,6 +2,7 @@ import { Hono } from 'hono';
 import type Database from 'better-sqlite3';
 import { search } from './search.js';
 import { loadGrammarContent, SLUG_RE } from './grammar/load.js';
+import { titleMatchesTerm } from './grammar/match.js';
 
 export interface AppOptions {
   grammarDataPath?: string | null;
@@ -100,7 +101,14 @@ export function createApp(db: Database.Database, opts: AppOptions = {}): Hono {
       )
       .all(`%${normTerm.replace(/[\\%_]/g, (ch) => '\\' + ch)}%`, normTerm);
 
-    return c.json({ word: word ?? null, occurrences, mentions });
+    const allPoints = db
+      .prepare('SELECT slug, title, jlpt_level FROM grammar_points')
+      .all() as { slug: string; title: string; jlpt_level: string | null }[];
+    const grammarRefs = allPoints
+      .filter((p) => titleMatchesTerm(p.title, normTerm))
+      .map((p) => ({ slug: p.slug, title: p.title, jlptLevel: p.jlpt_level }));
+
+    return c.json({ word: word ?? null, occurrences, mentions, grammarRefs });
   });
 
   app.get('/api/browse', (c) => {
@@ -181,7 +189,15 @@ export function createApp(db: Database.Database, opts: AppOptions = {}): Hono {
     const content = opts.grammarDataPath
       ? loadGrammarContent(opts.grammarDataPath, slug)
       : null;
-    return c.json({ point: grammarRowToResult(row), content, lessonNotes: [] });
+    const vaultGrammar = db
+      .prepare("SELECT norm_term, term, reading, gloss, kind FROM words WHERE kind = 'grammar'")
+      .all() as { norm_term: string; term: string; reading: string | null; gloss: string | null; kind: string }[];
+    const lessonNotes = vaultGrammar
+      .filter((w) => titleMatchesTerm(row.title, w.norm_term))
+      .map((w) => ({
+        normTerm: w.norm_term, term: w.term, reading: w.reading, gloss: w.gloss, kind: w.kind,
+      }));
+    return c.json({ point: grammarRowToResult(row), content, lessonNotes });
   });
 
   return app;
