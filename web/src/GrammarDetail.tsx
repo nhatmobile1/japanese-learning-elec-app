@@ -1,7 +1,6 @@
 import { useEffect, useState } from 'react';
 import { grammarPointApi } from './api';
 import { parseFurigana } from './lib/furigana';
-import { PatternBand } from './PatternDefs';
 import type { GrammarContentBlock, GrammarDetailResponse, SearchResultWord } from './types';
 
 function Furigana({ text }: { text: string }) {
@@ -72,7 +71,6 @@ export default function GrammarDetail({
         {data.point.title}
         {data.point.jlptLevel && <span className="badge ref jlpt">{data.point.jlptLevel}</span>}
       </h2>
-      <PatternBand className="detail-band" />
       <p className="detail-gloss">{data.point.description}</p>
 
       {data.lessonNotes.length > 0 && (

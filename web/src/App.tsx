@@ -4,7 +4,6 @@ import type { Entry, SearchResultWord } from './types';
 import AppHeader from './AppHeader';
 import GrammarBrowse from './GrammarBrowse';
 import GrammarDetail from './GrammarDetail';
-import PatternDefs, { PatternBand } from './PatternDefs';
 import SentenceTimeline from './SentenceTimeline';
 import WordDetail from './WordDetail';
 
@@ -371,7 +370,6 @@ export default function App() {
 
   return (
     <div className={mode === 'grammar' ? 'app app--grammar' : 'app'}>
-      <PatternDefs />
       <AppHeader
         mode={mode}
         onModeChange={switchMode}
@@ -452,7 +450,6 @@ export default function App() {
             ))}
           </nav>
         )}
-        <PatternBand />
       </header>
 
       {error && <p className="error">{error}</p>}

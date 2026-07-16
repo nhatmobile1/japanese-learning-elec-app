@@ -9,15 +9,7 @@ export const PALETTES = [
   { id: 'jisho', label: '辞書', dots: ['#ffffff', '#c73e3a', '#3d5a80'] },
 ] as const;
 
-export const PATTERNS = [
-  { id: 'seigaiha', label: '青海波' },
-  { id: 'shippo', label: '七宝' },
-  { id: 'yabane', label: '矢羽根' },
-  { id: 'none', label: 'なし' },
-] as const;
-
 export type PaletteId = (typeof PALETTES)[number]['id'];
-export type PatternId = (typeof PATTERNS)[number]['id'];
 
 function save(key: string, value: string): void {
   try {
@@ -50,16 +42,6 @@ export function setTheme(t: 'light' | 'dark'): void {
   if (t === 'dark') root().theme = 'dark';
   else delete root().theme;
   save('theme', t);
-  emit();
-}
-
-export function getPattern(): PatternId {
-  const v = root().pattern;
-  return PATTERNS.some((p) => p.id === v) ? (v as PatternId) : 'seigaiha';
-}
-export function setPattern(id: PatternId): void {
-  root().pattern = id;
-  save('pattern', id);
   emit();
 }
 

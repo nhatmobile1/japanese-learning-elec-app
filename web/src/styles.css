@@ -26,6 +26,10 @@
   --font-ui: 'Noto Sans JP', 'Hiragino Sans', -apple-system, 'Segoe UI', sans-serif;
   --font-display: var(--font-ui);
   --font-mono: ui-monospace, 'SF Mono', 'Menlo', 'Cica', monospace;
+  /* Editorial serif (grammar-app look): Latin resolves to a serif, kana/kanji
+     fall through to Noto Sans JP — a generic `serif` mid-stack would swallow
+     the JP glyphs. */
+  --font-serif: 'Source Serif 4', Georgia, 'Noto Sans JP', serif;
 
   font-size: 16px;
 }
@@ -161,7 +165,7 @@ body {
 
 .search-input {
   width: 100%;
-  font-family: var(--font-display);
+  font-family: var(--font-serif);
   font-size: 1.55rem;
   padding: 0.55rem 0.1rem;
   border: none;
@@ -395,6 +399,7 @@ body {
 }
 
 .gloss {
+  font-family: var(--font-serif);
   color: var(--muted);
   flex: 1;
   overflow: hidden;
@@ -474,6 +479,7 @@ body {
 }
 
 .detail-gloss {
+  font-family: var(--font-serif);
   color: var(--muted);
   font-size: 1.05rem;
   margin-top: 0.35rem;
@@ -616,48 +622,6 @@ body {
   font-variant-numeric: tabular-nums;
 }
 
-/* --- Traditional pattern bands ------------------------------------------ */
-
-.pattern-band {
-  display: block;
-  height: 16px;
-  margin-top: 0.75rem;
-  color: color-mix(in srgb, var(--accent) 55%, var(--bg));
-  opacity: 0.5;
-}
-
-.pattern-band svg {
-  width: 100%;
-  height: 100%;
-  display: block;
-}
-
-.pattern-band rect {
-  display: none;
-}
-
-:root[data-pattern='seigaiha'] .pat-seigaiha,
-:root[data-pattern='shippo'] .pat-shippo,
-:root[data-pattern='yabane'] .pat-yabane {
-  display: inline;
-}
-
-:root[data-pattern='none'] .pattern-band {
-  display: none;
-}
-
-.detail-band {
-  height: 14px;
-  margin-top: 0.5rem;
-  max-width: 420px;
-}
-
-.month-band {
-  height: 10px;
-  margin-top: 0.2rem;
-  opacity: 0.35;
-}
-
 /* --- Settings panel ------------------------------------------------------ */
 
 .settings-panel {
@@ -729,13 +693,6 @@ body {
   width: 0.7rem;
   height: 0.7rem;
   border: 1px solid var(--line);
-}
-
-.chip-pattern {
-  width: 34px;
-  height: 16px;
-  color: var(--accent);
-  opacity: 0.7;
 }
 
 /* --- Motion -------------------------------------------------------------- */
@@ -963,11 +920,11 @@ body {
   .split.has-detail .split-detail {
     position: sticky;
     /* .search-header is sticky at top:0; this clears its tallest rendered
-       state (header-row + filter-tabs + sort-tabs + pattern-band, ~11.5rem
-       at the default 16px root) so the detail pane never slides under it.
-       Re-check against the live rendered height in the manual pass. */
-    top: 11.5rem;
-    max-height: calc(100vh - 12rem);
+       state (header-row + filter-tabs + sort-tabs, ~9.75rem at the default
+       16px root — the pattern band is gone) so the detail pane never slides
+       under it. Re-check against the live rendered height in the manual pass. */
+    top: 9.75rem;
+    max-height: calc(100vh - 10.25rem);
     overflow-y: auto;
   }
   .split.has-detail .word-detail .back {
@@ -1055,16 +1012,14 @@ body {
   color: var(--accent);
 }
 .entry-headword {
-  /* Original stack: Latin resolves to a serif, kana/kanji fall through to
-     Noto Sans JP (a generic `serif` mid-stack would swallow the JP glyphs). */
-  font-family: 'Source Serif 4', Georgia, 'Noto Sans JP', serif;
+  font-family: var(--font-serif);
   font-size: 1.35rem;
   font-weight: 500;
   line-height: 1.55;
   transition: color 160ms ease;
 }
 .entry-gloss {
-  font-family: 'Source Serif 4', Georgia, 'Noto Sans JP', serif;
+  font-family: var(--font-serif);
   font-size: 0.92rem;
   color: var(--muted);
   line-height: 1.65;
@@ -1135,8 +1090,8 @@ body.desktop .search-header {
 }
 @media (min-width: 900px) {
   body.desktop .split.has-detail .split-detail {
-    top: calc(11.5rem + 48px);    /* sticky detail shifts down with the drag band */
-    max-height: calc(100vh - 12rem - 48px);
+    top: calc(9.75rem + 48px);    /* sticky detail shifts down with the drag band */
+    max-height: calc(100vh - 10.25rem - 48px);
   }
 }
 body.desktop .app-header {
