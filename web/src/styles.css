@@ -842,6 +842,37 @@ body {
   line-height: 1;
 }
 
+/* 語彙・文法 app-mode switcher (sits where the wordmark was) */
+.mode-switch {
+  display: flex;
+  align-items: baseline;
+}
+.mode-btn {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  font-family: var(--font-display);
+  font-size: 1.7rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  line-height: 1;
+  color: var(--muted);
+  transition: color 160ms ease;
+}
+.mode-btn:hover {
+  color: var(--accent);
+}
+.mode-btn.active {
+  color: var(--ink);
+}
+.mode-divider {
+  font-size: 1.7rem;
+  line-height: 1;
+  color: var(--muted);
+  opacity: 0.5;
+}
+
 .app-subtitle {
   color: var(--muted);
   font-size: 0.78rem;
@@ -952,6 +983,121 @@ body {
     overflow: hidden;
     text-overflow: ellipsis; /* long grammar titles ellipsize so badges stay visible */
   }
+}
+
+/* Grammar reference — editorial card grid (ported from japanese-grammar-app).
+   Ink-stamp JLPT colors: hairline outline, never a filled pill. */
+:root {
+  --jlpt-n5: #2e6b33;
+  --jlpt-n4: #2a5a94;
+  --jlpt-n3: #a35418;
+  --jlpt-n2: #5d3a78;
+  --jlpt-n1: #8e3a4e;
+}
+:root[data-theme='dark'] {
+  --jlpt-n5: #8fbf94;
+  --jlpt-n4: #8db2dd;
+  --jlpt-n3: #d99a63;
+  --jlpt-n2: #b195c9;
+  --jlpt-n1: #cf8fa0;
+}
+
+.entry-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.25rem;
+  list-style: none;
+  margin: 0 0 1.5rem;
+  padding: 0;
+}
+.entry-list > li {
+  display: contents;
+}
+.entry-card {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  text-align: left;
+  padding: 1.4rem;
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 2px;
+  cursor: pointer;
+  position: relative;
+  font: inherit;
+  color: inherit;
+  transition: border-color 160ms ease;
+}
+.entry-card--lessons {
+  padding-right: 2.7rem; /* lane for the vertical レッスン tab */
+}
+.entry-card:hover,
+.entry-card:focus-visible {
+  border-color: var(--accent);
+}
+.entry-card:hover .entry-headword,
+.entry-card:focus-visible .entry-headword {
+  color: var(--accent);
+}
+.entry-headword {
+  font-family: var(--font-display);
+  font-size: 1.35rem;
+  font-weight: 500;
+  line-height: 1.55;
+  transition: color 160ms ease;
+}
+.entry-gloss {
+  font-size: 0.92rem;
+  color: var(--muted);
+  line-height: 1.65;
+  margin-top: 0.5rem;
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 4;
+  overflow: hidden;
+}
+.entry-tags {
+  display: flex;
+  gap: 0.5rem 0.75rem;
+  align-items: center;
+  margin-top: auto;
+  padding-top: 0.9rem;
+  flex-wrap: wrap;
+}
+.stamp-tag {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  line-height: 1;
+  padding: 0.2rem 0.45rem 0.15rem;
+  border: 1px solid currentColor;
+  border-radius: 2px;
+  background: transparent;
+}
+.stamp-tag.n5 { color: var(--jlpt-n5); }
+.stamp-tag.n4 { color: var(--jlpt-n4); }
+.stamp-tag.n3 { color: var(--jlpt-n3); }
+.stamp-tag.n2 { color: var(--jlpt-n2); }
+.stamp-tag.n1 { color: var(--jlpt-n1); }
+.entry-cat {
+  font-size: 0.68rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.entry-marker {
+  position: absolute;
+  top: 0;
+  right: 0.9rem;
+  writing-mode: vertical-rl;
+  font-size: 0.65rem;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  color: var(--surface);
+  background: var(--accent);
+  padding: 0.5rem 0.15rem;
+  border-radius: 0 0 2px 2px;
 }
 
 /* Desktop (Electron) window chrome */

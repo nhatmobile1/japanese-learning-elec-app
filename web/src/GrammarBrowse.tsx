@@ -54,14 +54,32 @@ export default function GrammarBrowse({ onOpen }: { onOpen: (slug: string) => vo
         return (
           <section key={level ?? 'other'} className="jlpt-group">
             <h2 className="jlpt-heading">{level ?? 'その他'}</h2>
-            <ul className="results">
+            <ul className="entry-list">
               {group.map((p) => (
-                <li key={p.slug} className="result" onClick={() => onOpen(p.slug)}>
-                  <span className="term">{p.title}</span>
-                  <span className="gloss">{p.description}</span>
-                  <span className="badges">
-                    <span className="badge ref">参 {p.source === 'lessons' ? 'Custom' : 'Tofugu'}</span>
-                  </span>
+                <li key={p.slug}>
+                  <button
+                    type="button"
+                    className={
+                      p.source === 'lessons' ? 'entry-card entry-card--lessons' : 'entry-card'
+                    }
+                    onClick={() => onOpen(p.slug)}
+                  >
+                    {p.source === 'lessons' && (
+                      <span className="entry-marker" aria-label="Custom lesson point">
+                        レッスン
+                      </span>
+                    )}
+                    <span className="entry-headword">{p.title}</span>
+                    <span className="entry-gloss">{p.description}</span>
+                    <span className="entry-tags">
+                      {p.jlptLevel && (
+                        <span className={`stamp-tag ${p.jlptLevel.toLowerCase()}`}>
+                          {p.jlptLevel}
+                        </span>
+                      )}
+                      {p.categories[0] && <span className="entry-cat">{p.categories[0]}</span>}
+                    </span>
+                  </button>
                 </li>
               ))}
             </ul>

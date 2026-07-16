@@ -103,7 +103,7 @@ export default function App() {
   const [sel, setSel] = useState(0);
   const [hover, setHover] = useState<number | null>(null);
   const [view, setView] = useState<OpenView>(null);
-  const [grammarSub, setGrammarSub] = useState<'ref' | 'notes'>('ref');
+  const [mode, setMode] = useState<'vocab' | 'grammar'>('vocab');
   const [error, setError] = useState<string | null>(null);
   const [loadingMore, setLoadingMore] = useState(false);
   const [settingsOpen, setSettingsOpen] = useState(false);
@@ -129,7 +129,7 @@ export default function App() {
     document.fonts?.ready.then(move);
     window.addEventListener('resize', move);
     return () => window.removeEventListener('resize', move);
-  }, [kind]);
+  }, [kind, mode]);
 
   const closeSettings = () => {
     setSettingsOpen(false);
@@ -145,8 +145,16 @@ export default function App() {
     );
   };
 
+  // Reads no state so it stays fresh inside the []-deps menu effect.
+  const switchMode = (m: 'vocab' | 'grammar') => {
+    setMode(m);
+    setView(null);
+    setHover(null);
+    if (m === 'grammar') setKind('all'); // grammar mode has no kind tabs; keep search unified
+  };
+
   const searching = q.trim().length > 0;
-  const browsing = !searching && kind !== 'all';
+  const browsing = !searching && mode === 'vocab' && kind !== 'all';
   // Chapter sort only exists for vocab; fall back when the Grammar tab is active.
   const effectiveSort = kind === 'grammar' && sort === 'chapter' ? 'recent' : sort;
   kindRef.current = kind;
@@ -179,7 +187,7 @@ export default function App() {
   }, [q, kind, searching]);
 
   useEffect(() => {
-    if (!browsing || (kind === 'grammar' && grammarSub === 'ref')) return;
+    if (!browsing) return;
     const ctrl = new AbortController();
     (async () => {
       try {
@@ -204,7 +212,7 @@ export default function App() {
       }
     })();
     return () => ctrl.abort();
-  }, [browsing, kind, effectiveSort, grammarSub]);
+  }, [browsing, kind, effectiveSort]);
 
   const loadMore = async () => {
     if (loadingMore) return;
@@ -255,9 +263,11 @@ export default function App() {
   // flow behaves the same as the packaged desktop shell).
   useEffect(() => {
     const act = (id: string) => {
-      if (id.startsWith('view:')) {
+      if (id === 'view:grammar') {
+        switchMode('grammar'); // the Grammar menu item / ⌘3 opens grammar mode
+      } else if (id.startsWith('view:')) {
+        switchMode('vocab');
         setKind(id.slice(5));
-        setView(null);
       } else if (id === 'focus-search') {
         inputRef.current?.focus();
       } else if (id === 'toggle-settings') {
@@ -284,9 +294,7 @@ export default function App() {
     return () => window.removeEventListener('keydown', onKey);
   }, []);
 
-  const showingGrammarRef = kind === 'grammar' && grammarSub === 'ref';
-  const navRows =
-    searching ? results : browsing && kind !== 'sentence' && !showingGrammarRef ? words : [];
+  const navRows = searching ? results : browsing && kind !== 'sentence' ? words : [];
   const highlight = hover ?? sel;
 
   const onInputKey = (e: React.KeyboardEvent) => {
@@ -321,18 +329,18 @@ export default function App() {
       <WordRows rows={results} highlight={highlight} onHover={setHover} onOpen={openResult} />
       {results.length === 0 && !error && <li className="empty">No matches for “{q}”</li>}
     </ul>
+  ) : mode === 'grammar' ? (
+    <GrammarBrowse onOpen={(slug) => setView({ type: 'grammar', slug })} />
   ) : browsing ? (
     <>
       {kind === 'sentence' ? (
         <SentenceTimeline entries={sentences} />
-      ) : showingGrammarRef ? (
-        <GrammarBrowse onOpen={(slug) => setView({ type: 'grammar', slug })} />
       ) : (
         <ul className="results cascade" key={wave} onMouseLeave={() => setHover(null)}>
           <WordRows rows={words} highlight={highlight} onHover={setHover} onOpen={openResult} />
         </ul>
       )}
-      {!showingGrammarRef && loaded < total && (
+      {loaded < total && (
         <button type="button" className="load-more" onClick={loadMore} disabled={loadingMore}>
           {loadingMore ? 'Loading…' : `Load more (${loaded} of ${total})`}
         </button>
@@ -364,6 +372,8 @@ export default function App() {
     <div className="app">
       <PatternDefs />
       <AppHeader
+        mode={mode}
+        onModeChange={switchMode}
         settingsOpen={settingsOpen}
         onSettingsToggle={() => setSettingsOpen((o) => !o)}
         onSettingsClose={closeSettings}
@@ -407,46 +417,28 @@ export default function App() {
             </button>
           )}
         </div>
-        <nav className="filter-tabs" ref={tabsRef}>
-          {KINDS.map((k) => (
-            <button
-              type="button"
-              key={k.key}
-              className={kind === k.key ? 'tab active' : 'tab'}
-              aria-pressed={kind === k.key}
-              onClick={() => {
-                setKind(k.key);
-                setView(null); // match the ⌘1-4 menu path: leaving a section closes its detail
-              }}
-            >
-              {k.label}
-            </button>
-          ))}
-          <i className="tab-indicator" ref={indRef} aria-hidden="true" />
-        </nav>
-        {browsing && kind === 'grammar' && (
-          <nav className="sort-tabs" aria-label="Grammar source">
-            {(
-              [
-                { key: 'ref', label: '参考 Reference' },
-                { key: 'notes', label: 'ノート My notes' },
-              ] as const
-            ).map((s) => (
+        {mode === 'vocab' && (
+          <nav className="filter-tabs" ref={tabsRef}>
+            {KINDS.map((k) => (
               <button
                 type="button"
-                key={s.key}
-                className={grammarSub === s.key ? 'tab active' : 'tab'}
-                aria-pressed={grammarSub === s.key}
-                onClick={() => setGrammarSub(s.key)}
+                key={k.key}
+                className={kind === k.key ? 'tab active' : 'tab'}
+                aria-pressed={kind === k.key}
+                onClick={() => {
+                  setKind(k.key);
+                  setView(null); // match the ⌘1-4 menu path: leaving a section closes its detail
+                }}
               >
-                {s.label}
+                {k.label}
               </button>
             ))}
+            <i className="tab-indicator" ref={indRef} aria-hidden="true" />
           </nav>
         )}
-        {browsing && kind !== 'sentence' && kind !== 'grammar' && (
+        {browsing && kind !== 'sentence' && (
           <nav className="sort-tabs" aria-label="Sort order">
-            {WORD_SORTS.map((s) => (
+            {WORD_SORTS.filter((s) => !(kind === 'grammar' && s.key === 'chapter')).map((s) => (
               <button
                 type="button"
                 key={s.key}

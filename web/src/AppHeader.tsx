@@ -8,11 +8,15 @@ interface Status {
 }
 
 export default function AppHeader({
+  mode,
+  onModeChange,
   settingsOpen,
   onSettingsToggle,
   onSettingsClose,
   settingsBtnRef,
 }: {
+  mode: 'vocab' | 'grammar';
+  onModeChange: (m: 'vocab' | 'grammar') => void;
   settingsOpen: boolean;
   onSettingsToggle: () => void;
   onSettingsClose: () => void;
@@ -33,7 +37,27 @@ export default function AppHeader({
 
   return (
     <header className="app-header">
-      <h1 className="wordmark">語彙</h1>
+      <nav className="mode-switch" aria-label="App section">
+        <button
+          type="button"
+          className={mode === 'vocab' ? 'mode-btn active' : 'mode-btn'}
+          aria-pressed={mode === 'vocab'}
+          onClick={() => onModeChange('vocab')}
+        >
+          語彙
+        </button>
+        <span className="mode-divider" aria-hidden="true">
+          ・
+        </span>
+        <button
+          type="button"
+          className={mode === 'grammar' ? 'mode-btn active' : 'mode-btn'}
+          aria-pressed={mode === 'grammar'}
+          onClick={() => onModeChange('grammar')}
+        >
+          文法
+        </button>
+      </nav>
       {status && (
         <p className="app-subtitle">
           {status.wordCount.toLocaleString('en-US')} words ·{' '}
