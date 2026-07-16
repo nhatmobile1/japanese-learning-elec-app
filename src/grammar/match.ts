@@ -11,9 +11,15 @@ export function patternTokens(title: string): string[] {
     // English/ASCII runs are treated as SEPARATORS (never deleted in place),
     // so Japanese fragments that were never adjacent in the title can never
     // be glued into one fabricated token (e.g. "い-Adjective く Form" must
-    // yield ["い","く"], not ["いく"]).
+    // yield ["い","く"], not ["いく"]). Whitespace is also a separator, so it
+    // must split BEFORE foldForSearch strips it — otherwise two fragments
+    // separated only by whitespace (e.g. "こと 事") would fold together into
+    // one fabricated token ("こと事").
     .flatMap((t) =>
-      foldForSearch(t.replace(/^[～〜]+|[～〜]+$/g, '')).split(/[a-z0-9\s'-]+/),
+      t
+        .replace(/^[～〜]+|[～〜]+$/g, '')
+        .split(/\s+/)
+        .flatMap((piece) => foldForSearch(piece).split(/[a-z0-9\s'-]+/)),
     )
     .filter(Boolean);
 }

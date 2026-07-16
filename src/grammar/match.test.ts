@@ -12,6 +12,10 @@ describe('patternTokens', () => {
     expect(patternTokens('い-Adjective く Form')).toEqual(['い', 'く']);
     expect(patternTokens('い-Adjectiveく (Adverb Form)')).toEqual(['い', 'く']);
   });
+
+  test('never merges Japanese fragments across whitespace alone', () => {
+    expect(patternTokens('こと 事')).toEqual(['こと', '事']);
+  });
 });
 
 // Table-driven per the spec: unsure = no link, never a wrong link.
