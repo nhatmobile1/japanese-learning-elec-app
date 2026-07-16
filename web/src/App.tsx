@@ -150,7 +150,8 @@ export default function App() {
     setMode(m);
     setView(null);
     setHover(null);
-    if (m === 'grammar') setKind('all'); // grammar mode has no kind tabs; keep search unified
+    // Grammar mode has no kind tabs: pin search to grammar. Vocab returns to All.
+    setKind(m === 'grammar' ? 'grammar' : 'all');
   };
 
   const searching = q.trim().length > 0;
@@ -369,7 +370,7 @@ export default function App() {
   ) : null;
 
   return (
-    <div className="app">
+    <div className={mode === 'grammar' ? 'app app--grammar' : 'app'}>
       <PatternDefs />
       <AppHeader
         mode={mode}
@@ -399,7 +400,7 @@ export default function App() {
             value={q}
             onChange={(e) => setQ(e.target.value)}
             onKeyDown={onInputKey}
-            placeholder="上手・じょうず・skilled"
+            placeholder={mode === 'grammar' ? 'Search grammar points…' : '上手・じょうず・skilled'}
             className="search-input"
             spellCheck={false}
           />

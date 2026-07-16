@@ -23,6 +23,7 @@ export default function AppHeader({
   settingsBtnRef: React.RefObject<HTMLButtonElement | null>;
 }) {
   const [status, setStatus] = useState<Status | null>(null);
+  const [pointCount, setPointCount] = useState<number | null>(null);
 
   useEffect(() => {
     const ctrl = new AbortController();
@@ -34,6 +35,18 @@ export default function AppHeader({
       });
     return () => ctrl.abort();
   }, []);
+
+  useEffect(() => {
+    if (mode !== 'grammar' || pointCount !== null) return;
+    const ctrl = new AbortController();
+    fetch('/api/grammar-points', { signal: ctrl.signal })
+      .then((r) => (r.ok ? (r.json() as Promise<{ total: number }>) : null))
+      .then((d) => d && setPointCount(d.total))
+      .catch(() => {
+        /* subtitle simply stays absent */
+      });
+    return () => ctrl.abort();
+  }, [mode, pointCount]);
 
   return (
     <header className="app-header">
@@ -58,12 +71,16 @@ export default function AppHeader({
           文法
         </button>
       </nav>
-      {status && (
-        <p className="app-subtitle">
-          {status.wordCount.toLocaleString('en-US')} words ·{' '}
-          {status.entryCount.toLocaleString('en-US')} entries
-        </p>
-      )}
+      {mode === 'grammar'
+        ? pointCount !== null && (
+            <p className="app-subtitle">日本語文法事典 · {pointCount} grammar points</p>
+          )
+        : status && (
+            <p className="app-subtitle">
+              {status.wordCount.toLocaleString('en-US')} words ·{' '}
+              {status.entryCount.toLocaleString('en-US')} entries
+            </p>
+          )}
       <div className="header-buttons">
         <button
           ref={settingsBtnRef}

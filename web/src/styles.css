@@ -1002,12 +1002,27 @@ body {
   --jlpt-n1: #cf8fa0;
 }
 
+/* Grammar mode uses the original app's wide editorial layout */
+.app--grammar {
+  max-width: 1400px;
+}
+
+.filter-label {
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin: 1.1rem 0 0.2rem;
+}
+
 .entry-list {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   gap: 1.25rem;
   list-style: none;
-  margin: 0 0 1.5rem;
+  margin: 1.5rem 0;
   padding: 0;
 }
 .entry-list > li {
@@ -1040,13 +1055,16 @@ body {
   color: var(--accent);
 }
 .entry-headword {
-  font-family: var(--font-display);
+  /* Original stack: Latin resolves to a serif, kana/kanji fall through to
+     Noto Sans JP (a generic `serif` mid-stack would swallow the JP glyphs). */
+  font-family: 'Source Serif 4', Georgia, 'Noto Sans JP', serif;
   font-size: 1.35rem;
   font-weight: 500;
   line-height: 1.55;
   transition: color 160ms ease;
 }
 .entry-gloss {
+  font-family: 'Source Serif 4', Georgia, 'Noto Sans JP', serif;
   font-size: 0.92rem;
   color: var(--muted);
   line-height: 1.65;
