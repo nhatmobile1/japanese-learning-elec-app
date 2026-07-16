@@ -414,7 +414,10 @@ export default function App() {
               key={k.key}
               className={kind === k.key ? 'tab active' : 'tab'}
               aria-pressed={kind === k.key}
-              onClick={() => setKind(k.key)}
+              onClick={() => {
+                setKind(k.key);
+                setView(null); // match the ⌘1-4 menu path: leaving a section closes its detail
+              }}
             >
               {k.label}
             </button>

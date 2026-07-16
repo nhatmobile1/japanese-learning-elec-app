@@ -942,15 +942,37 @@ body {
   .split.has-detail .word-detail .back {
     display: none; /* list is visible beside it; Esc still closes */
   }
+  .split-list {
+    min-width: 0; /* let the grid track win over nowrap row content */
+  }
+  .split-list .results {
+    overflow: hidden; /* long rows clip inside the column, never bleed into the detail pane */
+  }
+  .split-list .term {
+    overflow: hidden;
+    text-overflow: ellipsis; /* long grammar titles ellipsize so badges stay visible */
+  }
 }
 
 /* Desktop (Electron) window chrome */
 body.desktop .titlebar-drag {
   position: fixed;
   inset: 0 0 auto 0;
-  height: 28px;                   /* matches .app's 1.75rem top padding */
-  -webkit-app-region: drag;       /* full-width grab band under the traffic lights */
+  height: 48px;                   /* reserved macOS titlebar band, full window width */
+  -webkit-app-region: drag;
   z-index: 40;                    /* above sticky search header (20) and settings panel (30) */
+}
+body.desktop .app {
+  padding-top: 3.25rem;           /* content starts below the 48px drag band */
+}
+body.desktop .search-header {
+  top: 48px;                      /* sticky header must not slide under the drag band */
+}
+@media (min-width: 900px) {
+  body.desktop .split.has-detail .split-detail {
+    top: calc(11.5rem + 48px);    /* sticky detail shifts down with the drag band */
+    max-height: calc(100vh - 12rem - 48px);
+  }
 }
 body.desktop .app-header {
   -webkit-app-region: drag;       /* window also moves by its header band */
