@@ -945,11 +945,17 @@ body {
 }
 
 /* Desktop (Electron) window chrome */
+body.desktop .titlebar-drag {
+  position: fixed;
+  inset: 0 0 auto 0;
+  height: 28px;                   /* matches .app's 1.75rem top padding */
+  -webkit-app-region: drag;       /* full-width grab band under the traffic lights */
+  z-index: 40;                    /* above sticky search header (20) and settings panel (30) */
+}
 body.desktop .app-header {
-  -webkit-app-region: drag;       /* window moves by its header band */
+  -webkit-app-region: drag;       /* window also moves by its header band */
   -webkit-user-select: none;
   user-select: none;
-  padding-left: 84px;             /* clear the hidden-inset traffic lights */
 }
 body.desktop .app-header .icon-btn,
 body.desktop .app-header button {
