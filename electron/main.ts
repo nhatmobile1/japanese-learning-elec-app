@@ -33,25 +33,29 @@ function serverEnv(): Record<string, string> {
 function startServer(): Promise<number> {
   return new Promise((resolve, reject) => {
     stderrTail = [];
-    child = utilityProcess.fork(SERVER_PATH, [], { stdio: 'pipe', env: serverEnv() });
-    child.stderr?.on('data', (d: Buffer) => {
+    const c = utilityProcess.fork(SERVER_PATH, [], { stdio: 'pipe', env: serverEnv() });
+    child = c;
+    c.stderr?.on('data', (d: Buffer) => {
       stderrTail = [...stderrTail, d.toString()].slice(-30);
       process.stderr.write(d);
     });
-    child.stdout?.on('data', (d: Buffer) => process.stdout.write(d));
+    c.stdout?.on('data', (d: Buffer) => process.stdout.write(d));
 
     const timer = setTimeout(
       () => reject(new Error(`server not ready after ${READY_TIMEOUT_MS / 1000}s\n${stderrTail.join('')}`)),
       READY_TIMEOUT_MS,
     );
-    child.on('message', (msg: { type?: string; port?: number }) => {
+    c.on('message', (msg: { type?: string; port?: number }) => {
       if (msg?.type === 'ready' && typeof msg.port === 'number') {
         clearTimeout(timer);
         resolve(msg.port);
       }
     });
-    child.on('exit', (code) => {
+    c.on('exit', (code) => {
       clearTimeout(timer);
+      // This child may have been superseded (e.g. diag-retry killed it and
+      // started a new one) — a stale exit event must not trigger a second boot.
+      if (child !== c) return;
       if (quitting) return;
       if (!restartedOnce) {
         restartedOnce = true;
