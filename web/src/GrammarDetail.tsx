@@ -1,5 +1,6 @@
 import { useEffect, useState } from 'react';
 import { grammarPointApi } from './api';
+import { isFormulaDuplicate, splitConjugationLines, splitFormulaLines } from './lib/formula';
 import { parseFurigana } from './lib/furigana';
 import type { GrammarContentBlock, GrammarDetailResponse, SearchResultWord } from './types';
 
@@ -31,7 +32,45 @@ function Block({ b }: { b: GrammarContentBlock }) {
         <Furigana text={b.text ?? ''} />
       </p>
     );
-  if (b.type === 'formula') return <p className="grammar-formula">{b.text}</p>;
+  if (b.type === 'formula') {
+    // Tofugu formulas carry the equations in `japanese` (fixture-style ones in `text`).
+    return (
+      <p className="grammar-formula">
+        {splitFormulaLines(b.text ?? b.japanese ?? '').map((line, i) => (
+          <span key={i} className="formula-line">
+            <Furigana text={line} />
+          </span>
+        ))}
+      </p>
+    );
+  }
+  if (b.type === 'table') {
+    return (
+      <div className="table-scroll">
+        <table className="conjugation-table">
+          <tbody>
+            {(b.rows ?? []).map((row, i) => (
+              <tr key={i}>
+                {row.map((cell, j) => (
+                  <td key={j}>
+                    {j === 1 && row.length === 2 ? (
+                      splitConjugationLines(cell).map((line, k) => (
+                        <span key={k} className="conjugation-line">
+                          <Furigana text={line} />
+                        </span>
+                      ))
+                    ) : (
+                      <Furigana text={cell} />
+                    )}
+                  </td>
+                ))}
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    );
+  }
   return (
     <div className="grammar-example">
       <p className="example-ja">
@@ -40,6 +79,19 @@ function Block({ b }: { b: GrammarContentBlock }) {
       {b.english && <p className="example-en">{b.english}</p>}
     </div>
   );
+}
+
+/** Hide the mangled plain-paragraph copy Tofugu pages carry after each formula. */
+function visibleBlocks(blocks: GrammarContentBlock[]): GrammarContentBlock[] {
+  return blocks.filter((b, i) => {
+    if (b.type === 'paragraph' && i > 0) {
+      const prev = blocks[i - 1];
+      if (prev.type === 'formula' && isFormulaDuplicate(prev.japanese ?? prev.text ?? '', b.text ?? '')) {
+        return false;
+      }
+    }
+    return true;
+  });
 }
 
 export default function GrammarDetail({
@@ -99,7 +151,7 @@ export default function GrammarDetail({
         </section>
       )}
 
-      {data.content?.content.map((b, i) => <Block key={i} b={b} />)}
+      {visibleBlocks(data.content?.content ?? []).map((b, i) => <Block key={i} b={b} />)}
     </article>
   );
 }

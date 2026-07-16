@@ -56,11 +56,12 @@ export interface GrammarPointSummary {
 }
 
 export interface GrammarContentBlock {
-  type: 'heading' | 'paragraph' | 'formula' | 'example';
+  type: 'heading' | 'paragraph' | 'formula' | 'example' | 'table';
   text?: string;
   level?: number;
   japanese?: string;
   english?: string;
+  rows?: string[][];
 }
 
 export interface GrammarDetailResponse {

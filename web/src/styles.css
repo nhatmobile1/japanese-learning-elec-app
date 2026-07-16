@@ -881,6 +881,30 @@ body {
   display: inline-block;
   letter-spacing: 0.05em;
 }
+.formula-line {
+  display: block;
+}
+
+.table-scroll {
+  overflow-x: auto;
+  margin: 0.75rem 0;
+}
+
+.conjugation-table {
+  border-collapse: collapse;
+  font-size: 0.95rem;
+}
+
+.conjugation-table td {
+  border: 1px solid var(--line);
+  padding: 0.5rem 0.75rem;
+  vertical-align: top;
+}
+
+.conjugation-line {
+  display: block;
+}
+
 .grammar-example {
   margin: 0.75rem 0;
   padding-left: 0.75rem;

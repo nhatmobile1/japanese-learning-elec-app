@@ -8,12 +8,13 @@ export interface GrammarPoint {
 }
 
 export interface GrammarContentBlock {
-  type: 'heading' | 'paragraph' | 'formula' | 'example';
+  type: 'heading' | 'paragraph' | 'formula' | 'example' | 'table';
   text?: string;
   level?: number;
   id?: string;
   japanese?: string;
   english?: string;
+  rows?: string[][];
 }
 
 export interface GrammarContentFile {
