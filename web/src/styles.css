@@ -1123,6 +1123,7 @@ body.desktop .titlebar-drag {
   position: fixed;
   inset: 0 0 auto 0;
   height: 48px;                   /* reserved macOS titlebar band, full window width */
+  background: var(--bg);          /* opaque: content scrolls under it, not through it */
   -webkit-app-region: drag;
   z-index: 40;                    /* above sticky search header (20) and settings panel (30) */
 }
