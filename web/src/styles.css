@@ -954,15 +954,30 @@ body {
   .split.has-detail .word-detail .back {
     display: none; /* list is visible beside it; Esc still closes */
   }
+  /* Room for both panes: the 760px column is for single-pane reading only */
+  .app:has(.split.has-detail) {
+    max-width: 1400px;
+  }
   .split-list {
     min-width: 0; /* let the grid track win over nowrap row content */
   }
   .split-list .results {
     overflow: hidden; /* long rows clip inside the column, never bleed into the detail pane */
   }
+  /* Squeeze order in narrow list rows: badges first, then gloss; the word
+     itself and its reading are the last things allowed to give way. */
   .split-list .term {
+    flex-shrink: 0.05;
     overflow: hidden;
-    text-overflow: ellipsis; /* long grammar titles ellipsize so badges stay visible */
+    text-overflow: ellipsis;
+  }
+  .split-list .reading {
+    flex-shrink: 0;
+  }
+  .split-list .badges {
+    flex-shrink: 3;
+    min-width: 0;
+    overflow: hidden;
   }
 }
 
