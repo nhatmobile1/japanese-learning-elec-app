@@ -42,6 +42,41 @@ function sourceBadges(r: SearchResultWord): { text: string; tb: boolean }[] {
   return badges;
 }
 
+const MAX_TEXTBOOK_BADGES = 3;
+
+/** Textbook badges cap at 3; a +N chip reveals the rest on hover/focus.
+    Lesson-count/date badges always show — the word beats its tags for space. */
+function RowBadges({ badges }: { badges: { text: string; tb: boolean }[] }) {
+  const tb = badges.filter((b) => b.tb);
+  const other = badges.filter((b) => !b.tb);
+  const shown = tb.slice(0, MAX_TEXTBOOK_BADGES);
+  const extra = tb.slice(MAX_TEXTBOOK_BADGES);
+  return (
+    <span className="badges">
+      {shown.map((b) => (
+        <span key={b.text} className="badge tb">
+          {b.text}
+        </span>
+      ))}
+      {extra.length > 0 && (
+        <span
+          className="badge tb badge-more"
+          tabIndex={0}
+          aria-label={`${extra.length} more: ${extra.map((b) => b.text).join(', ')}`}
+          title={extra.map((b) => b.text).join(' · ')}
+        >
+          +{extra.length}
+        </span>
+      )}
+      {other.map((b) => (
+        <span key={b.text} className="badge">
+          {b.text}
+        </span>
+      ))}
+    </span>
+  );
+}
+
 function WordRows({
   rows,
   highlight,
@@ -66,13 +101,7 @@ function WordRows({
           <span className="term">{r.term}</span>
           {r.reading && r.reading !== r.term && <span className="reading">{r.reading}</span>}
           <span className="gloss">{r.gloss ?? ''}</span>
-          <span className="badges">
-            {sourceBadges(r).map((b) => (
-              <span key={b.text} className={b.tb ? 'badge tb' : 'badge'}>
-                {b.text}
-              </span>
-            ))}
-          </span>
+          <RowBadges badges={sourceBadges(r)} />
         </li>
       ))}
     </>

@@ -428,6 +428,12 @@ body {
   border-color: var(--accent2);
 }
 
+/* +N textbook-badge overflow chip: the native title tooltip lists the rest
+   (a custom ::after tooltip gets clipped by the split-list overflow rules) */
+.badge-more {
+  cursor: default;
+}
+
 .empty,
 .error {
   color: var(--muted);
