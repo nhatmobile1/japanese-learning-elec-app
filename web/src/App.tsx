@@ -51,7 +51,7 @@ function WordRows({
   rows: SearchResultWord[];
   highlight: number;
   onHover: (i: number | null) => void;
-  onOpen: (r: SearchResultWord) => void;
+  onOpen: (r: SearchResultWord, i: number) => void;
 }) {
   return (
     <>
@@ -60,7 +60,7 @@ function WordRows({
           key={`${r.normTerm ?? r.term}-${i}`}
           className={i === highlight ? 'result selected' : 'result'}
           style={{ '--i': Math.min(i, 12) } as React.CSSProperties}
-          onClick={() => onOpen(r)}
+          onClick={() => onOpen(r, i)}
           onMouseEnter={() => onHover(i)}
         >
           <span className="term">{r.term}</span>
@@ -135,7 +135,8 @@ export default function App() {
     settingsBtnRef.current?.focus();
   };
 
-  const openResult = (r: SearchResultWord) => {
+  const openResult = (r: SearchResultWord, i?: number) => {
+    if (typeof i === 'number') setSel(i); // selection sticks to the opened row
     setHover(null);
     setView(
       r.kind === 'grammar-point' && r.slug
@@ -143,6 +144,18 @@ export default function App() {
         : { type: 'word', word: r },
     );
   };
+
+  // Clicking outside the results list (and its controls) drops the row highlight.
+  useEffect(() => {
+    const onDown = (e: MouseEvent) => {
+      const t = e.target as Element;
+      if (t.closest('.results') || t.closest('.load-more') || t.closest('.search-header')) return;
+      setSel(-1);
+      setHover(null);
+    };
+    window.addEventListener('mousedown', onDown);
+    return () => window.removeEventListener('mousedown', onDown);
+  }, []);
 
   // Reads no state so it stays fresh inside the []-deps menu effect.
   const switchMode = (m: 'vocab' | 'grammar') => {
@@ -318,7 +331,7 @@ export default function App() {
       setHover(null);
       repoint(nextIdx);
     } else if (e.key === 'Enter' && navRows[highlight]) {
-      openResult(navRows[highlight]);
+      openResult(navRows[highlight], highlight);
     }
   };
 
